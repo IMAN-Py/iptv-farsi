@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AbaiTV.kz" tvg-name="Abai TV" group-title="Culture" tvg-language="kaz" tvg-quality="720p",Abai TV
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+

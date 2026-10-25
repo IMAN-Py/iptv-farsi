@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlArabiyaBusiness.ae" tvg-name="Al Arabiya Business" group-title="Business" tvg-language="ara" tvg-quality="1080p",Al Arabiya Business
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AsharqNews.sa" tvg-name="Asharq News" group-title="Business;News" tvg-language="ara" tvg-quality="1080p",Asharq News
+https://live-news.asharq.com/asharq.m3u8
+
+#EXTINF:-1 tvg-id="AsharqNews.sa" tvg-name="Asharq News" group-title="Business;News" tvg-language="ara" tvg-quality="1080p",Asharq News
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8
+
+#EXTINF:-1 tvg-id="AsharqNews.sa" tvg-name="Asharq News" group-title="Business;News" tvg-language="ara" tvg-quality="1080p",Asharq News
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="AsharqNews.sa" tvg-name="Asharq News" group-title="Business;News" tvg-language="ara" tvg-quality="1080p",Asharq News
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="AsharqRadio.sa" tvg-name="Asharq Radio" group-title="Business;News" tvg-language="ara" tvg-quality="1080p",Asharq Radio
+https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNBCArabiya.ae" tvg-name="CNBC Arabiya" group-title="Business" tvg-language="ara" tvg-quality="1080p",CNBC Arabiya
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+
+#EXTINF:-1 tvg-id="QBC.qa" tvg-name="QBC" group-title="Business;News" tvg-language="ara" tvg-quality="1080p",QBC
+https://googlecdn1.alkassdigital.net/livestream/qbc4/main.m3u8
+
+#EXTINF:-1 tvg-id="QBC.qa" tvg-name="QBC" group-title="Business;News" tvg-language="ara" tvg-quality="1080p",QBC
+https://live.kwikmotion.com/qbusinesslive/qbusiness.smil/playlist.m3u8
+

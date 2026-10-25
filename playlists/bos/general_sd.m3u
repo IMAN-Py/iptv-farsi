@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Kanal6.ba" tvg-name="Kanal 6" group-title="General" tvg-language="bos" tvg-quality="288p",Kanal 6
+https://restreamer1.tnt.ba/hls/kanal6.m3u8
+
+#EXTINF:-1 tvg-id="RTVGlasDrine.ba" tvg-name="RTV Glas Drine" group-title="General;Music" tvg-language="bos" tvg-quality="404p",RTV Glas Drine
+http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+

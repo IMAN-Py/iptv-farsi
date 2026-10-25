@@ -1,0 +1,50 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-name="Bollywood Classic" group-title="Classic;Movies" tvg-language="hin;ron" tvg-quality="576p",Bollywood Classic
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-bollywood-classic/live_hq?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-name="Bollywood Classic" group-title="Classic;Movies" tvg-language="hin;ron" tvg-quality="576i",Bollywood Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8
+
+#EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-name="Bollywood Classic" group-title="Classic;Movies" tvg-language="hin;ron" tvg-quality="576p",Bollywood Classic
+https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="BollywoodFilm.ro" tvg-name="Bollywood Film" group-title="Classic;Movies" tvg-language="ron" tvg-quality="576i",Bollywood Film
+https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
+
+#EXTINF:-1 tvg-id="CineWow.ro" tvg-name="CineWow" group-title="Movies" tvg-language="ron" tvg-quality="576i",CineWow
+https://hls02ns.antenaplay.ro/hls/bollywood-clasic-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="FilmNow.ro" tvg-name="Film Now" group-title="Movies" tvg-language="ron" tvg-quality="576i",Film Now
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl" tvg-name="FILMBOX+ Emotion" group-title="Movies" tvg-language="ron" tvg-quality="576i",FILMBOX+ Emotion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://onyx1.mofta1.cfd/fboye/usergendlg8sl1ks0tv7sr8n.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusHits.pl" tvg-name="FILMBOX+ Hits" group-title="Movies" tvg-language="ron" tvg-quality="576p",FILMBOX+ Hits
+https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusHits.pl" tvg-name="FILMBOX+ Hits" group-title="Movies" tvg-language="ron" tvg-quality="576i",FILMBOX+ Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://onyx1.mofta1.cfd/fboyp/usergendl2kx0ta67js9c.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-name="FILMBOX+ One" group-title="Movies" tvg-language="ron" tvg-quality="576i",FILMBOX+ One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-name="FILMBOX+ One" group-title="Movies" tvg-language="ron" tvg-quality="576p",FILMBOX+ One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" group-title="Movies" tvg-language="ron" tvg-quality="576i",Viasat Kino
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
+

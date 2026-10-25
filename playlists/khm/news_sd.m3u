@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BTVNews.kh" tvg-name="BTV News" group-title="News" tvg-language="khm" tvg-quality="576i",BTV News
+https://server.dtvhd.com/memfs/cf0911cf-4ccc-47b1-8996-e5d705442b89.m3u8
+
+#EXTINF:-1 tvg-id="FreshNews.kh" tvg-name="Fresh News" group-title="News" tvg-language="khm" tvg-quality="576i",Fresh News
+http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
+

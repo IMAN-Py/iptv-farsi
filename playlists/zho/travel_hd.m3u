@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-name="China Travel" group-title="Culture;Documentary;Travel" tvg-language="eng;zho" tvg-quality="1080p",China Travel
+https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-name="China Travel" group-title="Culture;Documentary;Travel" tvg-language="eng;zho" tvg-quality="1080p",China Travel
+https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+

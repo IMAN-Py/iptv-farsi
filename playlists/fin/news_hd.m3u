@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MTVUutiset.fi" tvg-name="MTV Uutiset" group-title="News" tvg-language="fin" tvg-quality="720p",MTV Uutiset
+https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
+
+#EXTINF:-1 tvg-id="NopolaNews.fi" tvg-name="Nopola News" group-title="News" tvg-language="fin" tvg-quality="1080p",Nopola News
+https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
+

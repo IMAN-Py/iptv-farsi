@@ -1,0 +1,236 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="black.ru" tvg-name=".black" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.black
+http://stream.mcquack.net/263/index.m3u8
+
+#EXTINF:-1 tvg-id="red.ru" tvg-name=".red" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.red
+http://5.188.159.128:8070/RED/index.m3u8
+
+#EXTINF:-1 tvg-id="red.ru" tvg-name=".red" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",.red
+http://stream.mcquack.net/69/index.m3u8
+
+#EXTINF:-1 tvg-id="2x2.ru" tvg-name="2x2" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",2x2
+http://176.118.197.101/2x2/index.m3u8
+
+#EXTINF:-1 tvg-id="2x2.ru" tvg-name="2x2" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",2x2
+http://185.23.80.23:8080/2x2/index.m3u8
+
+#EXTINF:-1 tvg-id="2x2.ru" tvg-name="2x2" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",2x2
+http://31.148.48.15/2x2/index.m3u8
+
+#EXTINF:-1 tvg-id="2x2.ru" tvg-name="2x2" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",2x2
+http://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8
+
+#EXTINF:-1 tvg-id="2x2.ru" tvg-name="2x2" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",2x2
+http://stream.mcquack.net/187/index.m3u8
+
+#EXTINF:-1 tvg-id="2x2.ru" tvg-name="2x2" group-title="Entertainment" tvg-language="rus" tvg-quality="576i",2x2
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
+
+#EXTINF:-1 tvg-id="2x2.ru" tvg-name="2x2" group-title="Entertainment" tvg-language="rus" tvg-quality="450p",2x2
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+
+#EXTINF:-1 tvg-id="312TV.kg" tvg-name="312 TV" group-title="Entertainment" tvg-language="kir;rus" tvg-quality="406p",312 TV
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel8.ru" tvg-name="Channel 8" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Channel 8
+http://45.11.139.43:8555/8kanal/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel8.ru" tvg-name="Channel 8" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Channel 8
+http://hls127.freeott.top:8080/8_KANAL/video.m3u8
+
+#EXTINF:-1 tvg-id="Channel8.ru" tvg-name="Channel 8" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Channel 8
+http://tshift-1.telecoma.tv/8channel/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel8.ru" tvg-name="Channel 8" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Channel 8
+http://v4.proofix.ru/okino-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel8.ru" tvg-name="Channel 8" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Channel 8
+https://v4.proofix.ru/8tv-russia/index.m3u8
+
+#EXTINF:-1 tvg-id="Che.ru" tvg-name="Che!" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Che!
+http://176.118.197.101/Che/index.m3u8
+
+#EXTINF:-1 tvg-id="Che.ru" tvg-name="Che!" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Che!
+http://31.148.48.15/Che/index.m3u8
+
+#EXTINF:-1 tvg-id="Che.ru" tvg-name="Che!" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Che!
+http://flussonic.linkintel.ru/che/index.m3u8
+
+#EXTINF:-1 tvg-id="Che.ru" tvg-name="Che!" group-title="Entertainment" tvg-language="rus" tvg-quality="540p",Che!
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+
+#EXTINF:-1 tvg-id="Fox.ru" tvg-name="Fox" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Fox
+http://stream.mcquack.net/182/index.m3u8
+
+#EXTINF:-1 tvg-id="Friday.ru" tvg-name="Friday!" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Friday!
+http://31.148.48.15/Pyatnica/index.m3u8
+
+#EXTINF:-1 tvg-id="Friday.ru" tvg-name="Friday!" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Friday!
+http://31.148.5.241/kanal_16/index.m3u8
+
+#EXTINF:-1 tvg-id="Friday.ru" tvg-name="Friday!" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Friday!
+http://flussonic.linkintel.ru/Pyatnica/index.m3u8
+
+#EXTINF:-1 tvg-id="Friday.ru" tvg-name="Friday!" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Friday!
+http://stream.mcquack.net/181/index.m3u8
+
+#EXTINF:-1 tvg-id="Friday.ru" tvg-name="Friday!" group-title="Entertainment" tvg-language="rus" tvg-quality="576i",Friday!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/19.m3u8
+
+#EXTINF:-1 tvg-id="Friday.ru" tvg-name="Friday!" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Friday!
+https://vod.tuva.ru/friday/index.m3u8
+
+#EXTINF:-1 tvg-id="Friday.ru" tvg-name="Friday!" group-title="Entertainment" tvg-language="rus" tvg-quality="540p",Friday!
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+
+#EXTINF:-1 tvg-id="FridayInternational.ru" tvg-name="Friday! International" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Friday! International
+https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="India.ru" tvg-name="India" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",India
+http://31.148.48.15/Zee_TV_Russia/index.m3u8
+
+#EXTINF:-1 tvg-id="India.ru" tvg-name="India" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",India
+https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Kluch.ru" tvg-name="Kluch" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Kluch
+http://hls127.freeott.top:8080/Kluch/video.m3u8
+
+#EXTINF:-1 tvg-id="KvartalTV.ua" tvg-name="Kvartal TV" group-title="Entertainment" tvg-language="rus;ukr" tvg-quality="576i",Kvartal TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://158.101.222.193:88/georgia_play.php?id=kvartal95
+
+#EXTINF:-1 tvg-id="MakonTV.uz" tvg-name="Makon TV" group-title="Entertainment" tvg-language="rus;uzb" tvg-quality="576i",Makon TV
+https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="OTV.ee" tvg-name="OTV" group-title="Entertainment" tvg-language="rus;ukr" tvg-quality="576i",OTV
+http://88.212.15.17/live/otv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OTVPrim.ru" tvg-name="OTV-Prim" group-title="Entertainment" tvg-language="rus" tvg-quality="576i",OTV-Prim
+https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PeretzInternational.ru" tvg-name="Peretz International" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Peretz International
+http://stream.mcquack.net/121/index.m3u8
+
+#EXTINF:-1 tvg-id="Poehali.ru" tvg-name="Poehali!" group-title="Entertainment;Outdoor" tvg-language="rus" tvg-quality="576p",Poehali!
+http://88.212.15.17/live/test_poehali/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QonaevMedia.kz" tvg-name="Qonaev Media" group-title="Entertainment" tvg-language="kaz;rus" tvg-quality="576i",Qonaev Media
+https://s.qonaevtv.kz/live/qonaev/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru" tvg-name="Smotrim 100% Prazdnik" group-title="Entertainment" tvg-language="rus" tvg-quality="576i",Smotrim 100% Prazdnik
+https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
+
+#EXTINF:-1 tvg-id="Subbota.ru" tvg-name="Subbota!" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Subbota!
+http://217.114.191.150/Subbota/index.m3u8
+
+#EXTINF:-1 tvg-id="Subbota.ru" tvg-name="Subbota!" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Subbota!
+http://31.148.48.15/Super/index.m3u8
+
+#EXTINF:-1 tvg-id="Subbota.ru" tvg-name="Subbota!" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Subbota!
+http://46.32.176.50/subbota/index.m3u8
+
+#EXTINF:-1 tvg-id="Subbota.ru" tvg-name="Subbota!" group-title="Entertainment" tvg-language="rus" tvg-quality="450p",Subbota!
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+
+#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT
+http://176.118.197.101/THT/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT
+http://31.148.48.15/TNT/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT
+http://31.148.5.241/kanal_19/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT
+http://flussonic.linkintel.ru/tnt/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT
+http://stream.mcquack.net/135/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="576i",TNT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/23.m3u8
+
+#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="576i",TNT
+https://streaming.televizor-24-tochka.ru/live/38.m3u8
+
+#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="540p",TNT
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+
+#EXTINF:-1 tvg-id="TNTInternational.ru" tvg-name="TNT International" group-title="Entertainment" tvg-language="rus" tvg-quality="480p",TNT International
+http://91.228.35.249:8001/1:0:1:6a7:3138:13e:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="TNTInternational.ru" tvg-name="TNT International" group-title="Entertainment" tvg-language="rus" tvg-quality="480p",TNT International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+
+#EXTINF:-1 tvg-id="TNT4.ru" tvg-name="TNT4" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT4
+http://176.118.197.101/TNT4/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT4.ru" tvg-name="TNT4" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT4
+http://31.148.48.15/TNT4/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT4.ru" tvg-name="TNT4" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT4
+http://flussonic.linkintel.ru/tnt4/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT4.ru" tvg-name="TNT4" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT4
+http://stream.mcquack.net/106/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT4.ru" tvg-name="TNT4" group-title="Entertainment" tvg-language="rus" tvg-quality="450p",TNT4
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+
+#EXTINF:-1 tvg-id="TNT4International.ru" tvg-name="TNT4 International" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TNT4 International
+https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TV-3
+http://176.118.197.101/TB3/index.m3u8
+
+#EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TV-3
+http://178.124.179.122:8080/TB-3/index.m3u8
+
+#EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TV-3
+http://31.148.5.241/kanal_15/index.m3u8
+
+#EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",TV-3
+http://flussonic.linkintel.ru/tv-3/index.m3u8
+
+#EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" group-title="Entertainment" tvg-language="rus" tvg-quality="576i",TV-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/18.m3u8
+
+#EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" group-title="Entertainment" tvg-language="rus" tvg-quality="540p",TV-3
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+
+#EXTINF:-1 tvg-id="U.ru" tvg-name="U" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",U
+http://178.134.1.158:8081/U/index.m3u8
+
+#EXTINF:-1 tvg-id="U.ru" tvg-name="U" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",U
+http://31.148.48.15/U/index.m3u8
+
+#EXTINF:-1 tvg-id="U.ru" tvg-name="U" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",U
+http://stream.mcquack.net/230/index.m3u8
+
+#EXTINF:-1 tvg-id="U.ru" tvg-name="U" group-title="Entertainment" tvg-language="rus" tvg-quality="450p",U
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+
+#EXTINF:-1 tvg-id="U.ru" tvg-name="U" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",U
+https://fs.uplink.kz/u/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="VoprosyiOtvety.ru" tvg-name="Voprosy i Otvety" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Voprosy i Otvety
+http://stream.mcquack.net/76/index.m3u8
+
+#EXTINF:-1 tvg-id="ZorTV.uz" tvg-name="Zo'r TV" group-title="Entertainment;Music" tvg-language="rus;uzb" tvg-quality="576p",Zo'r TV
+https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
+

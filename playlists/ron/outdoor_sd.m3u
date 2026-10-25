@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AgroTV.ro" tvg-name="Agro TV" group-title="Outdoor" tvg-language="ron" tvg-quality="360p",Agro TV
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+
+#EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" group-title="Outdoor" tvg-language="bul;ces;hun;ron" tvg-quality="576i",The Fishing & Hunting Channel
+http://88.212.15.17/live/test_fishing_hunting/playlist.m3u8
+

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RChannel.th" tvg-name="R Channel" group-title="Education" tvg-language="tha" tvg-quality="576i",R Channel
+http://180.180.243.239/streams/3/hls
+

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ThisisBulgariaHD.bg" tvg-name="This is Bulgaria HD" group-title="Entertainment" tvg-language="bul" tvg-quality="1080p",This is Bulgaria HD
+https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
+

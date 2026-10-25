@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AasthaKannada.in" tvg-name="Aastha Kannada" group-title="Religious" tvg-language="kan" tvg-quality="480p",Aastha Kannada
+https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AasthaKannada.in" tvg-name="Aastha Kannada" group-title="Religious" tvg-language="kan" tvg-quality="576i",Aastha Kannada
+https://cdn.pishow.tv/ott/live/234/master.m3u8
+
+#EXTINF:-1 tvg-id="BhakthiSiri.in" tvg-name="Bhakthi Siri" group-title="Religious" tvg-language="kan" tvg-quality="576p",Bhakthi Siri
+https://mumbai-edge.smartplaytv.in/Bhakthisiri/index.m3u8
+
+#EXTINF:-1 tvg-id="SankaraTV.in" tvg-name="Sankara TV" group-title="Religious" tvg-language="kan;tam" tvg-quality="576p",Sankara TV
+https://cdn.pishow.tv/ott/live/1135/master.m3u8
+
+#EXTINF:-1 tvg-id="SankaraTV.in" tvg-name="Sankara TV" group-title="Religious" tvg-language="kan;tam" tvg-quality="576p",Sankara TV
+https://mumbai-edge.smartplaytv.in/SriSankara/index.m3u8
+
+#EXTINF:-1 tvg-id="SankaraTV.in" tvg-name="Sankara TV" group-title="Religious" tvg-language="kan;tam" tvg-quality="576p",Sankara TV
+https://mumt05.tangotv.in/87NeALx2SRISANKARA/index.m3u8
+
+#EXTINF:-1 tvg-id="SVBC3.in" tvg-name="SVBC 3" group-title="Religious" tvg-language="kan" tvg-quality="576p",SVBC 3
+https://mumt01.tangotv.in/O5aw8Zn3SVBC3KANNADA/index.m3u8
+

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HellenicParliamentTV.gr" tvg-name="Hellenic Parliament TV" group-title="Legislative" tvg-language="ell" tvg-quality="360p",Hellenic Parliament TV
+https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
+

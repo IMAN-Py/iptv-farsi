@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg" tvg-name="Plovdiv Orthodox TV" group-title="Religious" tvg-language="bul" tvg-quality="1080p",Plovdiv Orthodox TV
+http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
+

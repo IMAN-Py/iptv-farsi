@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DetvoraPlus.ru" tvg-name="Detvora+" group-title="Animation;Family;Kids" tvg-language="rus" tvg-quality="1080p",Detvora+
+https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
+
+#EXTINF:-1 tvg-id="FAN.ru" tvg-name="FAN" group-title="Animation;Movies" tvg-language="rus" tvg-quality="1080p",FAN
+http://31.148.48.15/Fan/index.m3u8
+
+#EXTINF:-1 tvg-id="Tooku.ru" tvg-name="Tooku" group-title="Animation;Kids" tvg-language="rus" tvg-quality="1080p",Tooku
+http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
+

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KBSV231.us" tvg-name="KBSV 23.1" group-title="General;Religious" tvg-language="aii;eng" tvg-quality="720p",KBSV 23.1
+http://66.242.170.53/hls/live/temp/index.m3u8
+

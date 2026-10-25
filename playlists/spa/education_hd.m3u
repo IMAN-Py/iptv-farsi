@@ -1,0 +1,102 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal15.ni" tvg-name="Canal 15" group-title="Education" tvg-language="spa" tvg-quality="1080p",Canal 15
+https://cootv.cootel.com.ni:8095/Canal15_CooTel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EducaTV.ec" tvg-name="Educa TV" group-title="Education" tvg-language="spa" tvg-quality="720p",Educa TV
+https://avm.ecuamedia.net/educatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Educanal.py" tvg-name="Educanal" group-title="Education" tvg-language="spa" tvg-quality="1080p",Educanal
+http://190.128.214.97:64333/play/a011/index.m3u8
+
+#EXTINF:-1 tvg-id="Eduvision.co" tvg-name="Eduvision" group-title="Education" tvg-language="spa" tvg-quality="1080p",Eduvision
+https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx" tvg-name="ILCE Canal 15 Summa Saberes" group-title="Education" tvg-language="spa" tvg-quality="720p",ILCE Canal 15 Summa Saberes
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IntiTV.ec" tvg-name="Inti TV" group-title="Education" tvg-language="spa" tvg-quality="1080p",Inti TV
+https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
+
+#EXTINF:-1 tvg-id="JaliscoTV.mx" tvg-name="Jalisco TV" group-title="Culture;Education" tvg-language="spa" tvg-quality="720p",Jalisco TV
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+
+#EXTINF:-1 tvg-id="KBEV.us" tvg-name="KBEV" group-title="Education" tvg-language="eng;spa" tvg-quality="1080p",KBEV
+https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8
+
+#EXTINF:-1 tvg-id="PlatziTV.es" tvg-name="Platzi TV" group-title="Education" tvg-language="spa" tvg-quality="1080p",Platzi TV
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVMisterios.us" tvg-name="Pluto TV Misterios" group-title="Education" tvg-language="spa" tvg-quality="720p",Pluto TV Misterios
+https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVVidaReal.us" tvg-name="Pluto TV Vida Real" group-title="Education" tvg-language="spa" tvg-quality="720p",Pluto TV Vida Real
+https://jmp2.uk/plu-5df265697ec3510009df1ef0.m3u8
+
+#EXTINF:-1 tvg-id="RadioUniversitariaSanAndres.bo" tvg-name="Radio Universitaria San Andres" group-title="Culture;Education;Entertainment" tvg-language="spa" tvg-quality="720p",Radio Universitaria San Andres
+https://edge.enhdtv.com/8054/index.m3u8
+
+#EXTINF:-1 tvg-id="STVETelebasica.hn" tvg-name="STVE Telebasica" group-title="Education" tvg-language="spa" tvg-quality="1080p",STVE Telebasica
+https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBUAP.mx" tvg-name="TV BUAP" group-title="Education" tvg-language="spa" tvg-quality="1080p",TV BUAP
+https://tvenvivo.buap.mx/livestream/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="TVCuatro44.mx" tvg-name="TV Cuatro 4.4" group-title="Education" tvg-language="spa" tvg-quality="1080p",TV Cuatro 4.4
+https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8
+
+#EXTINF:-1 tvg-id="TVUG.mx" tvg-name="TV UG" group-title="Education" tvg-language="spa" tvg-quality="1080p",TV UG
+https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVUJAT.mx" tvg-name="TV UJAT" group-title="Education" tvg-language="spa" tvg-quality="720p",TV UJAT
+https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVUsach.cl" tvg-name="TV Usach" group-title="Education" tvg-language="spa" tvg-quality="720p",TV Usach
+https://stv4.janus.cl/playlist/stream.m3u8
+
+#EXTINF:-1 tvg-id="UAATV.mx" tvg-name="UAA TV" group-title="Culture;Education;Public" tvg-language="spa" tvg-quality="1080p",UAA TV
+https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UEBITVOnline.ec" tvg-name="UEBI TV Online" group-title="Education" tvg-language="spa" tvg-quality="720p",UEBI TV Online
+https://ventaxtv.com:3575/live/uebilive.m3u8
+
+#EXTINF:-1 tvg-id="UMSATVUInternacional.bo" tvg-name="UMSA TVU Internacional" group-title="Documentary;Education;Science" tvg-language="spa" tvg-quality="720p",UMSA TVU Internacional
+https://edge.enhdtv.com/8026/index.m3u8
+
+#EXTINF:-1 tvg-id="UMSATVUInternacional.bo" tvg-name="UMSA TVU Internacional" group-title="Documentary;Education;Science" tvg-language="spa" tvg-quality="720p",UMSA TVU Internacional
+#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/tvu-internacional
+https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="UMSATVULP.bo" tvg-name="UMSA TVU LP" group-title="Culture;Education;News" tvg-language="spa" tvg-quality="720p",UMSA TVU LP
+https://edge.enhdtv.com/8190/index.m3u8
+
+#EXTINF:-1 tvg-id="UMSATVULP.bo" tvg-name="UMSA TVU LP" group-title="Culture;Education;News" tvg-language="spa" tvg-quality="720p",UMSA TVU LP
+#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/en-vivo
+https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="UNIANDESTV.ec" tvg-name="UNIANDES TV" group-title="Education" tvg-language="spa" tvg-quality="720p",UNIANDES TV
+https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
+
+#EXTINF:-1 tvg-id="Unifranz.bo" tvg-name="Unifranz" group-title="Education;Entertainment;News" tvg-language="spa" tvg-quality="720p",Unifranz
+https://edge.enhdtv.com/8192/index.m3u8
+
+#EXTINF:-1 tvg-id="Unifranz.bo" tvg-name="Unifranz" group-title="Education;Entertainment;News" tvg-language="spa" tvg-quality="720p",Unifranz
+https://live.enhdtv.com:8081/8192/index.m3u8
+
+#EXTINF:-1 tvg-id="UnisonTV.mx" tvg-name="Unison TV" group-title="Education" tvg-language="spa" tvg-quality="1080p",Unison TV
+https://stream.unison.mx/hls/unisontvatem.m3u8
+
+#EXTINF:-1 tvg-id="UTalcaTV.cl" tvg-name="UTalca TV" group-title="Education" tvg-language="spa" tvg-quality="1080p",UTalca TV
+https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="XHUNESTDT.mx" tvg-name="XHUNES-TDT" group-title="Education" tvg-language="spa" tvg-quality="720p",XHUNES-TDT
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+
+#EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" group-title="Education" tvg-language="spa" tvg-quality="1080p",Zoom
+http://138.121.15.230:9002/ZOOM/index.m3u8
+
+#EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" group-title="Education" tvg-language="spa" tvg-quality="1080p",Zoom
+http://190.217.66.92:8000/play/a0ej/index.m3u8
+
+#EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" group-title="Education" tvg-language="spa" tvg-quality="1080p",Zoom
+http://200.122.223.13:55000/play/zoom-banda-ku/index.m3u8
+

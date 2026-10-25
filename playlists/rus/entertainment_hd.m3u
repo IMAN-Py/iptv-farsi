@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="red.ru" tvg-name=".red" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",.red
+http://178.134.1.158:8081/red/index.m3u8
+
+#EXTINF:-1 tvg-id="Belarus2.by" tvg-name="Belarus-2" group-title="Entertainment" tvg-language="bel;rus" tvg-quality="1080p",Belarus-2
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.ru" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",Discovery Channel
+http://stream.mcquack.net/177/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVPlus.ee" tvg-name="ETV+" group-title="Entertainment" tvg-language="est;rus" tvg-quality="720p",ETV+
+https://sb.err.ee/live/etvpluss.m3u8
+
+#EXTINF:-1 tvg-id="NovyiChannel.ua" tvg-name="Novyi Channel" group-title="Entertainment" tvg-language="rus;ukr" tvg-quality="1080p",Novyi Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/157/index.m3u8
+
+#EXTINF:-1 tvg-id="Poehali.ru" tvg-name="Poehali!" group-title="Entertainment;Outdoor" tvg-language="rus" tvg-quality="1080p",Poehali!
+http://31.148.48.15/Poehali/index.m3u8
+
+#EXTINF:-1 tvg-id="QuizTV.ua" tvg-name="Quiz TV" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",Quiz TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/397/index.m3u8
+
+#EXTINF:-1 tvg-id="RAZ1.ua" tvg-name="RAZ 1" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",RAZ 1
+http://stream.mcquack.net/463/index.m3u8
+
+#EXTINF:-1 tvg-id="RAZ2.ua" tvg-name="RAZ 2" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",RAZ 2
+http://stream.mcquack.net/464/index.m3u8
+
+#EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru" tvg-name="Smotrim 100% Prazdnik" group-title="Entertainment" tvg-language="rus" tvg-quality="720p",Smotrim 100% Prazdnik
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="Subbota.ru" tvg-name="Subbota!" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",Subbota!
+http://stream.mcquack.net/269/index.m3u8
+
+#EXTINF:-1 tvg-id="Subbota.ru" tvg-name="Subbota!" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",Subbota!
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https
+
+#EXTINF:-1 tvg-id="TNT.ru" tvg-name="TNT" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",TNT
+http://45.153.24.78/TNT/index.m3u8
+
+#EXTINF:-1 tvg-id="TV3.ru" tvg-name="TV-3" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",TV-3
+http://stream.mcquack.net/136/index.m3u8
+
+#EXTINF:-1 tvg-id="TvoeTV.ru" tvg-name="Tvoe TV" group-title="Entertainment" tvg-language="rus" tvg-quality="1080p",Tvoe TV
+http://tvoetv.space:8080/tvoetv/index.m3u8
+
+#EXTINF:-1 tvg-id="U.ru" tvg-name="U" group-title="Entertainment" tvg-language="rus" tvg-quality="720p",U
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
+
+#EXTINF:-1 tvg-id="U.ru" tvg-name="U" group-title="Entertainment" tvg-language="rus" tvg-quality="720p",U
+https://cdn-01.bonus-tv.ru/u/playlist.m3u8
+

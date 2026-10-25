@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTVGlasDrine.ba" tvg-name="RTV Glas Drine" group-title="General;Music" tvg-language="bos" tvg-quality="404p",RTV Glas Drine
+http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+

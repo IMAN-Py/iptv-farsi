@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN" group-title="News" tvg-language="sqi" tvg-quality="576i",A2 CNN
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" group-title="News" tvg-language="sqi" tvg-quality="576i",CNA
+https://live1.mediadesk.al/cnatv.php
+
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" group-title="News" tvg-language="sqi" tvg-quality="576i",CNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h29/index.m3u8
+
+#EXTINF:-1 tvg-id="Kohavision.xk" tvg-name="Kohavision" group-title="News" tvg-language="sqi;srp" tvg-quality="576i",Kohavision
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24" group-title="News" tvg-language="sqi" tvg-quality="392p",News 24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24" group-title="News" tvg-language="sqi" tvg-quality="392p",News 24
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" group-title="News" tvg-language="sqi" tvg-quality="576i",Panorama TV
+https://159.69.221.56/panorama/livestream/playlist.m3u8
+

@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AathavanTV.uk" tvg-name="Aathavan TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Aathavan TV
+https://oj7lnxonyg82-hls-live.5centscdn.com/uks/24263a839810d2041a349baaeef36a79.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JayaPlus.in" tvg-name="Jaya Plus" group-title="Culture;Entertainment" tvg-language="tam" tvg-quality="576p",Jaya Plus
+https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
+
+#EXTINF:-1 tvg-id="KalaignarMurasu.in" tvg-name="Kalaignar Murasu" group-title="Entertainment" tvg-language="tam" tvg-quality="396p",Kalaignar Murasu
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KalaignarMurasu.in" tvg-name="Kalaignar Murasu" group-title="Entertainment" tvg-language="tam" tvg-quality="396p",Kalaignar Murasu
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MKSix.in" tvg-name="MK Six" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",MK Six
+https://mumt06.tangotv.in/qYyB8fXVMKSIX/index.m3u8
+
+#EXTINF:-1 tvg-id="PolimerTV.in" tvg-name="Polimer TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Polimer TV
+https://mumt04.tangotv.in/m18aqlK4POLIMERTV/index.m3u8
+
+#EXTINF:-1 tvg-id="PolimerTV.in" tvg-name="Polimer TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Polimer TV
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/PolimerTV.m3u8
+
+#EXTINF:-1 tvg-id="StarVijay.in" tvg-name="Star Vijay" group-title="Entertainment" tvg-language="eng;tam" tvg-quality="396p",Star Vijay
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThanthiOne.in" tvg-name="Thanthi One" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Thanthi One
+https://mumbai-edge.smartplaytv.in/thanthione/index.m3u8
+
+#EXTINF:-1 tvg-id="ThanthiOne.in" tvg-name="Thanthi One" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Thanthi One
+https://mumt07.tangotv.in/zHjX9OFlTHANTHIONE/index.m3u8
+
+#EXTINF:-1 tvg-id="VasanthTV.in" tvg-name="Vasanth TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Vasanth TV
+https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8
+
+#EXTINF:-1 tvg-id="VasanthTV.in" tvg-name="Vasanth TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Vasanth TV
+https://mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8
+
+#EXTINF:-1 tvg-id="VendharTV.in" tvg-name="Vendhar TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Vendhar TV
+https://cdn.pishow.tv/ott/live/1271/master.m3u8
+
+#EXTINF:-1 tvg-id="VendharTV.in" tvg-name="Vendhar TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Vendhar TV
+https://mumt04.tangotv.in/m18aqlK4VENDHARTV/index.m3u8
+
+#EXTINF:-1 tvg-id="VendharTV.in" tvg-name="Vendhar TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Vendhar TV
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/VendharTV.m3u8
+
+#EXTINF:-1 tvg-id="ZeeTamil.in" tvg-name="Zee Tamil" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Zee Tamil
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd
+

@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dvojka.sk" tvg-name="Dvojka" group-title="Documentary" tvg-language="slk" tvg-quality="576i",Dvojka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_dvojka_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spektrum.cz" tvg-name="Spektrum" group-title="Documentary" tvg-language="ces;slk" tvg-quality="576i",Spektrum
+http://88.212.15.17/live/test_spektrum/playlist.m3u8
+

@@ -1,0 +1,76 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="7Info.ci" tvg-name="7 Info" group-title="News" tvg-language="fra" tvg-quality="576i",7 Info
+https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AfrikInfoTV.gn" tvg-name="Afrik Info TV" group-title="News" tvg-language="fra" tvg-quality="576i",Afrik Info TV
+https://kali.vdopanel.com:3119/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="AL24News.dz" tvg-name="AL24 News" group-title="News" tvg-language="ara;eng;fra" tvg-quality="576i",AL24 News
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="BalafonTV.cm" tvg-name="Balafon TV" group-title="News" tvg-language="fra" tvg-quality="576i",Balafon TV
+https://broadcasting-channels.com:9044/hls/test.m3u8
+
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business" group-title="Business;News" tvg-language="fra" tvg-quality="576p",BFM Business
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-name="BFM Lyon" group-title="News" tvg-language="fra" tvg-quality="576p",BFM Lyon
+https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" group-title="News" tvg-language="fra" tvg-quality="576p",BFM TV
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" group-title="News" tvg-language="fra" tvg-quality="576i",CGTN French
+https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" group-title="News" tvg-language="fra" tvg-quality="576i",CGTN French
+https://h5cul1yar48um3t.wcetv.com/hls/cgtnf.m3u8
+
+#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" group-title="News" tvg-language="fra" tvg-quality="576p",CGTN French
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+
+#EXTINF:-1 tvg-id="CRTVNews.cm" tvg-name="CRTV News" group-title="News" tvg-language="fra" tvg-quality="576i",CRTV News
+https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ForYouTV.cm" tvg-name="For You TV" group-title="News" tvg-language="eng;fra" tvg-quality="576i",For You TV
+https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="fra" tvg-quality="576i",France 24
+https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="fra" tvg-quality="360p",France 24
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="fra" tvg-quality="576p",France 24
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="fra" tvg-quality="360p",France 24
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="fra" tvg-quality="576p",France 24
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-id="HC2TV.bj" tvg-name="HC2 TV" group-title="News" tvg-language="fra" tvg-quality="576i",HC2 TV
+https://stream.hc2tv.bj/2/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="ICONETV.bj" tvg-name="ICONE TV" group-title="News" tvg-language="fra" tvg-quality="576i",ICONE TV
+https://lecteur.iconetv.bj/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Kin24.cd" tvg-name="Kin24" group-title="News" tvg-language="fra" tvg-quality="576i",Kin24
+http://51.254.199.122:8080/kin24/index.m3u8
+
+#EXTINF:-1 tvg-id="LCN.ca" tvg-name="LCN" group-title="News" tvg-language="fra" tvg-quality="480i",LCN
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
+
+#EXTINF:-1 tvg-id="LeMondeen24h.cd" tvg-name="Le Monde en 24h" group-title="News" tvg-language="eng;fra;spa" tvg-quality="576i",Le Monde en 24h
+https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
+
+#EXTINF:-1 tvg-id="NWInfo.tg" tvg-name="NW Info" group-title="News" tvg-language="fra" tvg-quality="576p",NW Info
+https://hls.newworldtv.com/nw-info/video/live.m3u8
+
+#EXTINF:-1 tvg-id="PanafricanMediaTV.cm" tvg-name="Panafrican Media TV" group-title="News" tvg-language="fra" tvg-quality="480p",Panafrican Media TV
+https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SunuLabelTV.sn" tvg-name="SunuLabel TV" group-title="News" tvg-language="fra" tvg-quality="480p",SunuLabel TV
+https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8
+

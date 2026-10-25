@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HOTDrama.il" tvg-name="HOT Drama" group-title="Series" tvg-language="heb" tvg-quality="1080p",HOT Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/381/index.m3u8
+

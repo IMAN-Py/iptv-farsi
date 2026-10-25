@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BhakthiTV.in" tvg-name="Bhakthi TV" group-title="Religious" tvg-language="tel" tvg-quality="720p",Bhakthi TV
+https://cdn.pishow.tv/ott/live/397/master.m3u8
+
+#EXTINF:-1 tvg-id="HinduDharmam.in" tvg-name="Hindu Dharmam" group-title="Religious" tvg-language="tel" tvg-quality="1080p",Hindu Dharmam
+https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8
+
+#EXTINF:-1 tvg-id="MahaaBhakti.in" tvg-name="Mahaa Bhakti" group-title="Religious" tvg-language="tel" tvg-quality="1080p",Mahaa Bhakti
+https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8
+
+#EXTINF:-1 tvg-id="PMCTelugu.in" tvg-name="PMC Telugu" group-title="Religious" tvg-language="tel" tvg-quality="1080p",PMC Telugu
+https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
+
+#EXTINF:-1 tvg-id="SubhavaarthaTV.in" tvg-name="Subhavaartha TV" group-title="Religious" tvg-language="tel" tvg-quality="720p",Subhavaartha TV
+https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SVBC.in" tvg-name="SVBC" group-title="Religious" tvg-language="tel" tvg-quality="720p",SVBC
+https://mumbai-edge.smartplaytv.in/SVBC/index.m3u8
+
+#EXTINF:-1 tvg-id="SVBC.in" tvg-name="SVBC" group-title="Religious" tvg-language="tel" tvg-quality="1080p",SVBC
+https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
+

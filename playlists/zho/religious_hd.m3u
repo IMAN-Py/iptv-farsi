@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABNChina.us" tvg-name="ABN China" group-title="Religious" tvg-language="zho" tvg-quality="720p",ABN China
+https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+
+#EXTINF:-1 tvg-id="AndoTV.cn" tvg-name="Ando TV" group-title="Religious" tvg-language="zho" tvg-quality="1080p",Ando TV
+http://play.kankanlive.com/live/1711956137852982.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="zho" tvg-quality="720p",Angel TV
+https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGNTVChinese.tw" tvg-name="CGNTV Chinese" group-title="Religious" tvg-language="zho" tvg-quality="1080p",CGNTV Chinese
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+
+#EXTINF:-1 tvg-id="Good2.tw" tvg-name="Good 2" group-title="Religious" tvg-language="zho" tvg-quality="720p",Good 2
+https://live.streamingfast.net/osmflivech2.m3u8
+
+#EXTINF:-1 tvg-id="GoodTV.tw" tvg-name="Good TV" group-title="Religious" tvg-language="zho" tvg-quality="720p",Good TV
+https://live.streamingfast.net/osmflivech1.m3u8
+
+#EXTINF:-1 tvg-id="PeaceTVChinese.ae" tvg-name="Peace TV Chinese" group-title="Religious" tvg-language="zho" tvg-quality="1080p",Peace TV Chinese
+https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
+

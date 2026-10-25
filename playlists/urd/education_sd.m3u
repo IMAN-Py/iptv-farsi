@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PaighanTV.pk" tvg-name="Paighan TV" group-title="Education;Religious" tvg-language="urd" tvg-quality="576i",Paighan TV
+https://cdn4.mjunoon.tv:8087/streamtest/107M/chunks.m3u8
+

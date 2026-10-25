@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="StarChannel.si" tvg-name="Star Channel" group-title="Movies" tvg-language="slv" tvg-quality="576i",Star Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://92.36.202.5:10001/play/a01s
+
+#EXTINF:-1 tvg-id="StarMovies.si" tvg-name="Star Movies" group-title="Movies" tvg-language="slv" tvg-quality="576i",Star Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://92.36.202.5:10001/play/a01o
+

@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DongNaiTV2.vn" tvg-name="Dong Nai TV 2" group-title="Entertainment;Sports" tvg-language="vie" tvg-quality="1080p",Dong Nai TV 2
+https://freem3u.xyz/api/live/play.m3u8?vid=255
+
+#EXTINF:-1 tvg-id="DongNaiTV2.vn" tvg-name="Dong Nai TV 2" group-title="Entertainment;Sports" tvg-language="vie" tvg-quality="720p",Dong Nai TV 2
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
+
+#EXTINF:-1 tvg-id="VinhLongTV4.vn" tvg-name="Vinh Long TV 4" group-title="Culture;Entertainment;Sports;Travel" tvg-language="vie" tvg-quality="720p",Vinh Long TV 4
+https://dethich.pw/thvl4/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV6.vn" tvg-name="VTV6" group-title="Sports" tvg-language="vie" tvg-quality="720p",VTV6
+https://dethich.pw/vtv6/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV6.vn" tvg-name="VTV6" group-title="Sports" tvg-language="vie" tvg-quality="1080p",VTV6
+https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8
+

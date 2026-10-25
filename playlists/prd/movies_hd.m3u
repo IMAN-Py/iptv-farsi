@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AfghanNobelMovies.ca" tvg-name="Afghan Nobel Movies" group-title="Movies" tvg-language="prd" tvg-quality="720p",Afghan Nobel Movies
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
+

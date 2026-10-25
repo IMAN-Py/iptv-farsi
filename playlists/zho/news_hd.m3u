@@ -1,0 +1,58 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="CCTV-13" group-title="News" tvg-language="zho" tvg-quality="720p",CCTV-13
+http://74.91.26.218:82/live/cctv13hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="CCTV-13" group-title="News" tvg-language="zho" tvg-quality="1080p",CCTV-13
+http://go.bkpcp.top/mg/cctv13
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="720p",CGTN
+https://0472.org/hls/cgtn.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="1080p",CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="720p",CGTN
+https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="1080p",CGTN
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="1080p",CGTN
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="1080p",CGTN
+https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
+
+#EXTINF:-1 tvg-id="ChuzhouNewsChannel.cn" tvg-name="Chuzhou News Channel" group-title="News" tvg-language="zho" tvg-quality="1080p",Chuzhou News Channel
+http://live.cztv.cc:85/live/xwpd.m3u8
+
+#EXTINF:-1 tvg-id="DHA.tr" tvg-name="DHA" group-title="News" tvg-language="deu;eng;tur;zho" tvg-quality="720p",DHA
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBCFinancialNews.tw" tvg-name="EBC Financial News" group-title="News" tvg-language="zho" tvg-quality="1080p",EBC Financial News
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+
+#EXTINF:-1 tvg-id="EBCNews.tw" tvg-name="EBC News" group-title="News" tvg-language="zho" tvg-quality="1080p",EBC News
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+
+#EXTINF:-1 tvg-id="FTVTaiwan.tw" tvg-name="FTV Taiwan" group-title="News" tvg-language="zho" tvg-quality="720p",FTV Taiwan
+http://seb.sason.top/ptv/ftv.php?id=tw
+
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-name="Phoenix InfoNews Channel" group-title="News" tvg-language="zho" tvg-quality="720p",Phoenix InfoNews Channel
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-name="Phoenix InfoNews Channel" group-title="News" tvg-language="zho" tvg-quality="720p",Phoenix InfoNews Channel
+http://php.17186.eu.org/phtv/fhzx.m3u8
+
+#EXTINF:-1 tvg-id="SETNews.tw" tvg-name="SET News" group-title="News" tvg-language="zho" tvg-quality="1080p",SET News
+http://seb.sason.top/sc/sllive_fhd.m3u8
+
+#EXTINF:-1 tvg-id="TDMInformation.mo" tvg-name="TDM Information" group-title="News" tvg-language="zho" tvg-quality="720p",TDM Information
+https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TonghuaTV.cn" tvg-name="Tonghua TV" group-title="News" tvg-language="zho" tvg-quality="1080p",Tonghua TV
+http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+
+#EXTINF:-1 tvg-id="TonghuaTV.cn" tvg-name="Tonghua TV" group-title="News" tvg-language="zho" tvg-quality="1080p",Tonghua TV
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+

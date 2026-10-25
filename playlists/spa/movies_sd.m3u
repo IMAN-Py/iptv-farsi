@@ -1,0 +1,84 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" group-title="Movies" tvg-language="spa" tvg-quality="480i",AXN Latin America
+http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" group-title="Movies" tvg-language="spa" tvg-quality="480i",AXN Latin America
+http://45.167.1.138:8000/play/a04s
+
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" group-title="Movies" tvg-language="spa" tvg-quality="480i",AXN Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AXNMovies.es" tvg-name="AXN Movies" group-title="Movies" tvg-language="spa" tvg-quality="576i",AXN Movies
+https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd
+
+#EXTINF:-1 tvg-id="CanalCineDios.co" tvg-name="Canal Cine Dios" group-title="Movies" tvg-language="spa" tvg-quality="480i",Canal Cine Dios
+https://canal.mediaserver.com.co/live/cinedios.m3u8
+
+#EXTINF:-1 tvg-id="CineAdrenalina.us" tvg-name="Cine Adrenalina" group-title="Movies" tvg-language="spa" tvg-quality="480i",Cine Adrenalina
+https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
+
+#EXTINF:-1 tvg-id="CineAmor.us" tvg-name="Cine Amor" group-title="Movies" tvg-language="spa" tvg-quality="480i",Cine Amor
+https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
+
+#EXTINF:-1 tvg-id="CinePremiere.us" tvg-name="Cine Premiere" group-title="Movies" tvg-language="spa" tvg-quality="480i",Cine Premiere
+https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
+
+#EXTINF:-1 tvg-id="CinePremium.us" tvg-name="Cine Premium" group-title="Movies" tvg-language="spa" tvg-quality="576i",Cine Premium
+http://190.61.90.17:40000/play/a02i/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal.us" tvg-name="Cinecanal" group-title="Movies" tvg-language="spa" tvg-quality="480i",Cinecanal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Cinecanal-key/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="CineLatino" group-title="Movies" tvg-language="spa" tvg-quality="576p",CineLatino
+http://200.115.96.61:9090/play/a0i5/index.m3u8
+
+#EXTINF:-1 tvg-id="CosmosTv.ar" tvg-name="Cosmos Tv" group-title="Movies;News" tvg-language="spa" tvg-quality="576i",Cosmos Tv
+https://canaletaplus.com:3922/live/cosmoslive.m3u8
+
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO Mundi Latin America" group-title="Movies" tvg-language="spa" tvg-quality="480i",HBO Mundi Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="480i",HBO Xtreme Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NextHD.py" tvg-name="Next HD" group-title="Movies;Music" tvg-language="spa" tvg-quality="480p",Next HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
+#EXTINF:-1 tvg-id="PantallaClasicaEC.ec" tvg-name="Pantalla Clasica EC" group-title="Movies;Series" tvg-language="spa" tvg-quality="512p",Pantalla Clasica EC
+https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PersianaLatino.fr" tvg-name="Persiana Latino" group-title="Movies" tvg-language="fas;spa" tvg-quality="576i",Persiana Latino
+https://latinohls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVEstrellasdeAccion.us" tvg-name="Pluto TV Estrellas de Accion" group-title="Movies" tvg-language="spa" tvg-quality="480i",Pluto TV Estrellas de Accion
+https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSciFi.us" tvg-name="Pluto TV Sci-Fi" group-title="Movies;Series" tvg-language="spa" tvg-quality="480i",Pluto TV Sci-Fi
+https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
+
+#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-name="Sony Canal Novelas" group-title="Movies" tvg-language="spa" tvg-quality="480i",Sony Canal Novelas
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="480i",Star Channel Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="SundanceTV.es" tvg-name="Sundance TV" group-title="Movies" tvg-language="spa" tvg-quality="576i",Sundance TV
+https://cdn.stmify.com/zapitv/stream/SUNDANCE_TV/sundance_hd.mpd
+
+#EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-name="Xtrema Accion" group-title="Movies" tvg-language="spa" tvg-quality="576i",Xtrema Accion
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaCineClasico.ar" tvg-name="Xtrema Cine Clasico" group-title="Classic;Movies" tvg-language="spa" tvg-quality="576i",Xtrema Cine Clasico
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1460
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaTerror.ar" tvg-name="Xtrema Terror" group-title="Movies" tvg-language="spa" tvg-quality="576i",Xtrema Terror
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+

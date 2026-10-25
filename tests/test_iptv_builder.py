@@ -109,6 +109,9 @@ class CollectionTests(unittest.TestCase):
     def test_language_category_intersection_and_original_farsi_urls(self):
         outputs = collection_outputs(self.entries, self.names)
         self.assertIn('playlists/fas/sports.m3u', outputs)
+        self.assertIn('https://example.com/fa\n', outputs['playlists/fas/sports_hd.m3u'])
+        self.assertNotIn('https://example.com/fa-sd', outputs['playlists/fas/sports_hd.m3u'])
+        self.assertIn('https://example.com/fa-sd', outputs['playlists/fas/sports_sd.m3u'])
         self.assertNotIn('playlists/fas/movies.m3u', outputs)
         self.assertNotIn('playlists/fas/news.m3u', outputs)
         self.assertNotIn('https://example.com/multi', outputs['playlist.m3u'])

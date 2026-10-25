@@ -1,0 +1,522 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PlusTV.by" tvg-name="+TV" group-title="General" tvg-language="bel;rus" tvg-quality="576p",+TV
+https://stream.plustv.by/plustv-web/plustv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="360.ru" tvg-name="360°" group-title="General" tvg-language="rus" tvg-quality="576i",360°
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
+
+#EXTINF:-1 tvg-id="360.ru" tvg-name="360°" group-title="General" tvg-language="rus" tvg-quality="576p",360°
+https://streaming.thestream.cyou/live/7000.m3u8
+
+#EXTINF:-1 tvg-id="Afontovo.ru" tvg-name="Afontovo" group-title="General" tvg-language="rus" tvg-quality="576i",Afontovo
+https://stream.afontovo.ru/hd.m3u8
+
+#EXTINF:-1 tvg-id="AISTTV.ru" tvg-name="AIST TV" group-title="General" tvg-language="rus" tvg-quality="576p",AIST TV
+http://194.143.148.28:8080/Aist/index.m3u8
+
+#EXTINF:-1 tvg-id="AlmatyTV.kz" tvg-name="Almaty TV" group-title="General" tvg-language="kaz;rus" tvg-quality="576p",Almaty TV
+https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="ApsuaTV.ge" tvg-name="Apsua TV" group-title="General" tvg-language="abk;rus" tvg-quality="576i",Apsua TV
+https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null
+
+#EXTINF:-1 tvg-id="ArmeniaTVSatellite.am" tvg-name="Armenia TV Satellite" group-title="General" tvg-language="hye;rus" tvg-quality="576p",Armenia TV Satellite
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/175/index.m3u8
+
+#EXTINF:-1 tvg-id="Belarus4.by" tvg-name="Belarus-4" group-title="General" tvg-language="rus" tvg-quality="576i",Belarus-4
+https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BlackSeaTV.ua" tvg-name="Black Sea TV" group-title="General" tvg-language="rus;ukr" tvg-quality="576i",Black Sea TV
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel10.ru" tvg-name="Channel 10" group-title="General" tvg-language="rus" tvg-quality="576i",Channel 10
+https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https
+
+#EXTINF:-1 tvg-id="Channel12.ru" tvg-name="Channel 12" group-title="General" tvg-language="rus" tvg-quality="576p",Channel 12
+https://streaming.thestream.cyou/live/7004.m3u8
+
+#EXTINF:-1 tvg-id="Channel5.ru" tvg-name="Channel 5" group-title="General" tvg-language="rus" tvg-quality="576p",Channel 5
+http://31.148.5.241/kanal_5/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel5.ru" tvg-name="Channel 5" group-title="General" tvg-language="rus" tvg-quality="576i",Channel 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/8.m3u8
+
+#EXTINF:-1 tvg-id="Channel5.ru" tvg-name="Channel 5" group-title="General" tvg-language="rus" tvg-quality="540p",Channel 5
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+
+#EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="Channel 5 International" group-title="General" tvg-language="rus" tvg-quality="576p",Channel 5 International
+http://178.134.1.158:8081/5channel/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="Channel 5 International" group-title="General" tvg-language="rus" tvg-quality="576i",Channel 5 International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
+
+#EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="Channel 5 International" group-title="General" tvg-language="rus" tvg-quality="576p",Channel 5 International
+https://fs.uplink.kz/5_kanal/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Channel7.kz" tvg-name="Channel 7" group-title="General" tvg-language="kaz;rus" tvg-quality="576p",Channel 7
+http://stream.mcquack.net/27/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel7.kz" tvg-name="Channel 7" group-title="General" tvg-language="kaz;rus" tvg-quality="576p",Channel 7
+https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Channel8International.ru" tvg-name="Channel 8 International" group-title="General" tvg-language="rus" tvg-quality="576p",Channel 8 International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0
+#EXTVLCOPT:http-referrer=http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
+http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel8Novosibirsk.ru" tvg-name="Channel 8 Novosibirsk" group-title="General" tvg-language="rus" tvg-quality="480i",Channel 8 Novosibirsk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One" group-title="General" tvg-language="rus" tvg-quality="576p",Channel One
+http://178.217.49.7/1/index.m3u8
+
+#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One" group-title="General" tvg-language="rus" tvg-quality="576p",Channel One
+http://31.148.5.241/kanal_1/index.m3u8
+
+#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One" group-title="General" tvg-language="rus" tvg-quality="576p",Channel One
+http://45.153.24.78/1TV/index.m3u8
+
+#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One" group-title="General" tvg-language="rus" tvg-quality="576i",Channel One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/4.m3u8
+
+#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One" group-title="General" tvg-language="rus" tvg-quality="480p",Channel One
+https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Channel One" group-title="General" tvg-language="rus" tvg-quality="450p",Channel One
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+
+#EXTINF:-1 tvg-id="ChannelOneCIS.ru" tvg-name="Channel One CIS" group-title="General" tvg-language="rus" tvg-quality="576p",Channel One CIS
+https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="ChannelOneEurasia.kz" tvg-name="Channel One Eurasia" group-title="General" tvg-language="kaz;rus" tvg-quality="576p",Channel One Eurasia
+https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Channel16.ru" tvg-name="Channel-16" group-title="General" tvg-language="rus" tvg-quality="406p",Channel-16
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DasturxonTV.uz" tvg-name="Dasturxon TV" group-title="General" tvg-language="rus;uzb" tvg-quality="576p",Dasturxon TV
+https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElTR.kg" tvg-name="ElTR" group-title="General" tvg-language="kir;rus" tvg-quality="480p",ElTR
+http://gohoski.fvds.ru:3000/mediabay/162/index.m3u8
+
+#EXTINF:-1 tvg-id="Enisey.ru" tvg-name="Enisey" group-title="General" tvg-language="rus" tvg-quality="576p",Enisey
+http://tshift-1.telecoma.tv/enisei/index.m3u8
+
+#EXTINF:-1 tvg-id="eQtv.ua" tvg-name="eQtv" group-title="General" tvg-language="rus" tvg-quality="576i",eQtv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://91.228.35.249:8001/1:0:1:72:2FA8:13E:820000:0:0:0
+
+#EXTINF:-1 tvg-id="Gribuvisuzinat.lv" tvg-name="Gribu visu zinat" group-title="General" tvg-language="rus" tvg-quality="576p",Gribu visu zinat
+#EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
+https://void.greenhosting.ru/HochuVjeZnat_Mpeg4/index.m3u8
+
+#EXTINF:-1 tvg-id="Groznyj.ru" tvg-name="Groznyj" group-title="General" tvg-language="rus" tvg-quality="576i",Groznyj
+https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8
+
+#EXTINF:-1 tvg-id="GuberniaSamara.ru" tvg-name="Gubernia Samara" group-title="General" tvg-language="rus" tvg-quality="576p",Gubernia Samara
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JibekJoly.kz" tvg-name="Jibek Joly" group-title="General" tvg-language="eng;kaz;rus" tvg-quality="576p",Jibek Joly
+https://fs.uplink.kz/jibek_joly/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Kavkaz24.ru" tvg-name="Kavkaz 24" group-title="General" tvg-language="rus" tvg-quality="576p",Kavkaz 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Khabar.kz" tvg-name="Khabar" group-title="General" tvg-language="kaz;rus" tvg-quality="576p",Khabar
+https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="KTK.kz" tvg-name="KTK" group-title="General" tvg-language="kaz;rus" tvg-quality="576p",KTK
+http://stream.mcquack.net/26/index.m3u8
+
+#EXTINF:-1 tvg-id="KTK.kz" tvg-name="KTK" group-title="General" tvg-language="kaz;rus" tvg-quality="576p",KTK
+https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Kuban24.ru" tvg-name="Kuban 24" group-title="General" tvg-language="rus" tvg-quality="480p",Kuban 24
+http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
+
+#EXTINF:-1 tvg-id="Kuban24.ru" tvg-name="Kuban 24" group-title="General" tvg-language="rus" tvg-quality="576i",Kuban 24
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+
+#EXTINF:-1 tvg-id="KurajTV.ru" tvg-name="Kuraj-TV" group-title="General" tvg-language="rus" tvg-quality="576p",Kuraj-TV
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LDPRTV.ru" tvg-name="LDPR TV" group-title="General" tvg-language="rus" tvg-quality="480p",LDPR TV
+http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LenTV24.ru" tvg-name="LenTV24" group-title="General" tvg-language="rus" tvg-quality="576i",LenTV24
+https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
+
+#EXTINF:-1 tvg-id="LenTV24.ru" tvg-name="LenTV24" group-title="General" tvg-language="rus" tvg-quality="540p",LenTV24
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
+
+#EXTINF:-1 tvg-id="Lugansk24.ua" tvg-name="Lugansk 24" group-title="General" tvg-language="rus" tvg-quality="576i",Lugansk 24
+https://streaming.televizor-24-tochka.ru/live/29.m3u8
+
+#EXTINF:-1 tvg-id="Mangystay.kz" tvg-name="Mangystay" group-title="General" tvg-language="eng;kaz;rus" tvg-quality="540p",Mangystay
+https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
+
+#EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" group-title="General" tvg-language="rus" tvg-quality="576p",Mir
+http://31.148.48.15/Mir/index.m3u8
+
+#EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" group-title="General" tvg-language="rus" tvg-quality="576p",Mir
+http://31.148.5.241/kanal_18/index.m3u8
+
+#EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" group-title="General" tvg-language="rus" tvg-quality="576p",Mir
+http://45.153.24.78/MIR/index.m3u8
+
+#EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" group-title="General" tvg-language="rus" tvg-quality="540p",Mir
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" group-title="General" tvg-language="rus" tvg-quality="540p",Mir
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" group-title="General" tvg-language="rus" tvg-quality="540p",Mir
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" group-title="General" tvg-language="rus" tvg-quality="576p",Mir
+http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
+
+#EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" group-title="General" tvg-language="rus" tvg-quality="576p",Mir
+https://fs.uplink.kz/mir/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" group-title="General" tvg-language="rus" tvg-quality="576i",Mir
+https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" group-title="General" tvg-language="rus" tvg-quality="576i",Mir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/22.m3u8
+
+#EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" group-title="General" tvg-language="rus" tvg-quality="576p",Mir
+https://tvcdn01.oktv.kz/tv/mir/index.m3u8
+
+#EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" group-title="General" tvg-language="rus" tvg-quality="450p",Mir
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+
+#EXTINF:-1 tvg-id="Mir.ru" tvg-name="Mir" group-title="General" tvg-language="rus" tvg-quality="450p",Mir
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+
+#EXTINF:-1 tvg-id="Moskva24.ru" tvg-name="Moskva 24" group-title="General" tvg-language="rus" tvg-quality="576p",Moskva 24
+https://fs.uplink.kz/moskva24/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Moskva24.ru" tvg-name="Moskva 24" group-title="General" tvg-language="rus" tvg-quality="576p",Moskva 24
+https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="MoskvaDoveriye.ru" tvg-name="Moskva. Doveriye" group-title="General" tvg-language="rus" tvg-quality="576p",Moskva. Doveriye
+https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="MTRK.kz" tvg-name="MTRK" group-title="General" tvg-language="rus" tvg-quality="576p",MTRK
+https://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8
+
+#EXTINF:-1 tvg-id="MTRK.kz" tvg-name="MTRK" group-title="General" tvg-language="rus" tvg-quality="576p",MTRK
+https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NikaTV.ru" tvg-name="Nika TV" group-title="General" tvg-language="rus" tvg-quality="576p",Nika TV
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTK.kz" tvg-name="NTK" group-title="General" tvg-language="kaz;rus" tvg-quality="576p",NTK
+http://stream.mcquack.net/389/index.m3u8
+
+#EXTINF:-1 tvg-id="NTK.kz" tvg-name="NTK" group-title="General" tvg-language="kaz;rus" tvg-quality="576p",NTK
+https://fs.uplink.kz/ntk/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="576p",NTV
+http://176.118.197.101/NTV/index.m3u8
+
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="576p",NTV
+http://31.148.48.15/NTV/index.m3u8
+
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="576p",NTV
+http://31.148.5.241/kanal_4/index.m3u8
+
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="576p",NTV
+http://45.153.24.78/NTV/index.m3u8
+
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="576p",NTV
+https://cdn.ntv.ru/ntv-spb/index.m3u8
+
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="576p",NTV
+https://cdn.ntv.ru/ntv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="576p",NTV
+https://cdn.ntv.ru/ntv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="576p",NTV
+https://cdn.ntv.ru/ntv4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="576p",NTV
+https://cdn.ntv.ru/ntv7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="576i",NTV
+https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="576i",NTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/7.m3u8
+
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="540p",NTV
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+
+#EXTINF:-1 tvg-id="Ozbekiston.uz" tvg-name="O'zbekiston" group-title="General" tvg-language="rus;uzb" tvg-quality="576p",O'zbekiston
+https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OSN.ru" tvg-name="OSN" group-title="General" tvg-language="rus" tvg-quality="576i",OSN
+http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OTR.ru" tvg-name="OTR" group-title="General" tvg-language="rus" tvg-quality="576p",OTR
+http://31.148.48.15/OTR/index.m3u8
+
+#EXTINF:-1 tvg-id="OTR.ru" tvg-name="OTR" group-title="General" tvg-language="rus" tvg-quality="576p",OTR
+http://31.148.5.241/kanal_9/index.m3u8
+
+#EXTINF:-1 tvg-id="OTR.ru" tvg-name="OTR" group-title="General" tvg-language="rus" tvg-quality="576p",OTR
+http://flussonic.linkintel.ru/otr/index.m3u8
+
+#EXTINF:-1 tvg-id="OTR.ru" tvg-name="OTR" group-title="General" tvg-language="rus" tvg-quality="450p",OTR
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+
+#EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua" tvg-name="Pervyy gorodskoy. Odessa" group-title="General" tvg-language="rus;ukr" tvg-quality="576p",Pervyy gorodskoy. Odessa
+http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QazaqstanInternational.kz" tvg-name="Qazaqstan International" group-title="General" tvg-language="eng;kaz;rus" tvg-quality="576i",Qazaqstan International
+https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-name="REN TV" group-title="General" tvg-language="rus" tvg-quality="576p",REN TV
+http://185.23.80.23:8080/REN/index.m3u8
+
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-name="REN TV" group-title="General" tvg-language="rus" tvg-quality="576p",REN TV
+http://31.148.48.15/REN-TV/index.m3u8
+
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-name="REN TV" group-title="General" tvg-language="rus" tvg-quality="576p",REN TV
+http://31.148.5.241/kanal_11/index.m3u8
+
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-name="REN TV" group-title="General" tvg-language="rus" tvg-quality="576p",REN TV
+http://flussonic.linkintel.ru/ren_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-name="REN TV" group-title="General" tvg-language="rus" tvg-quality="540p",REN TV
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+
+#EXTINF:-1 tvg-id="RENTVInternational.ru" tvg-name="REN TV International" group-title="General" tvg-language="rus" tvg-quality="576p",REN TV International
+http://178.134.1.158:8081/RENTV/index.m3u8
+
+#EXTINF:-1 tvg-id="RikaTV.kz" tvg-name="Rika TV" group-title="General" tvg-language="kaz;rus" tvg-quality="480p",Rika TV
+https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rossiya1Vainah.ru" tvg-name="Rossiya 1 Vainah" group-title="General" tvg-language="rus" tvg-quality="576i",Rossiya 1 Vainah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0 (Edition std-2)
+#EXTVLCOPT:http-referrer=https://gtrkvainah.ru/
+https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTRPlaneta.ru" tvg-name="RTR-Planeta" group-title="General" tvg-language="rus" tvg-quality="576i",RTR-Planeta
+https://streaming.televizor-24-tochka.ru/live/211.m3u8
+
+#EXTINF:-1 tvg-id="RTVi.ru" tvg-name="RTVi" group-title="General" tvg-language="rus" tvg-quality="450p",RTVi
+https://s70378.cdn.ngenix.net/rtvi/index.m3u8
+
+#EXTINF:-1 tvg-id="RTVi.ru" tvg-name="RTVi" group-title="General" tvg-language="rus" tvg-quality="576p",RTVi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/RTVi/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+http://109.207.243.18/2/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+http://31.148.48.15/Rossiya_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+http://31.148.5.241/kanal_2/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576i",Russia-1
+https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576i",Russia-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/5.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO4y0CelYt0/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/anadyr/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/barnaul/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cherkessk/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/elista/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/gornoaltaysk/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/grozniy/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/hantimansisk/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/igevsk/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/irkutsk/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnodar/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kursk/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/mahachkala/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/murmansk/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nazran/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/perm/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/salehad/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/siktivkar/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/simferopol/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/sochi/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tumen/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulyanovsk/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vologda/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia1-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="450p",Russia-1
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+
+#EXTINF:-1 tvg-id="SilkWay.kz" tvg-name="Silk Way" group-title="General" tvg-language="eng;kaz;rus" tvg-quality="576i",Silk Way
+https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Simferopol24.ru" tvg-name="Simferopol 24" group-title="General" tvg-language="rus" tvg-quality="576i",Simferopol 24
+https://simf.1tvcrimea.ru/simferopol24.m3u8
+
+#EXTINF:-1 tvg-id="Soyuzny.ru" tvg-name="Soyuzny" group-title="General" tvg-language="bel;rus" tvg-quality="480p",Soyuzny
+http://178.124.179.122:8080/TRO/index.m3u8
+
+#EXTINF:-1 tvg-id="Soyuzny.ru" tvg-name="Soyuzny" group-title="General" tvg-language="bel;rus" tvg-quality="576p",Soyuzny
+https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TaraqqiyotTV.uz" tvg-name="Taraqqiyot TV" group-title="General" tvg-language="rus;uzb" tvg-quality="576i",Taraqqiyot TV
+https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Tavriya.ru" tvg-name="Tavriya" group-title="General" tvg-language="rus" tvg-quality="576i",Tavriya
+https://streaming.televizor-24-tochka.ru/live/24.m3u8
+
+#EXTINF:-1 tvg-id="TelekanalKrasnodar.ru" tvg-name="Telekanal Krasnodar" group-title="General" tvg-language="rus" tvg-quality="576p",Telekanal Krasnodar
+https://krasnodar.mediacdn.ru/live/cdn/krasnodar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-name="Turkmenistan" group-title="General" tvg-language="ara;cmn;eng;fra;rus;tuk" tvg-quality="406p",Turkmenistan
+https://alpha.tv.online.tm/hls/ch007.m3u8
+
+#EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-name="Turkmenistan" group-title="General" tvg-language="ara;cmn;eng;fra;rus;tuk" tvg-quality="406p",Turkmenistan
+https://alpha.tv.online.tm/legacyhls/ch007.m3u8
+
+#EXTINF:-1 tvg-id="Ulytau.kz" tvg-name="Ulytau" group-title="General" tvg-language="kaz;rus" tvg-quality="576i",Ulytau
+https://ulytau.tv/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="Vostok24.ru" tvg-name="Vostok 24" group-title="General" tvg-language="rus" tvg-quality="576i",Vostok 24
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
+
+#EXTINF:-1 tvg-id="ZaTV.ru" tvg-name="Za! TV" group-title="General" tvg-language="rus;ukr" tvg-quality="576i",Za! TV
+https://streaming.televizor-24-tochka.ru/live/25.m3u8
+
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" group-title="General" tvg-language="rus" tvg-quality="576p",Zvezda
+http://31.148.48.15/Zvezda/index.m3u8
+
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" group-title="General" tvg-language="rus" tvg-quality="576p",Zvezda
+http://31.148.5.241/kanal_17/index.m3u8
+
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" group-title="General" tvg-language="rus" tvg-quality="576p",Zvezda
+http://flussonic.linkintel.ru/zvezda/index.m3u8
+
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" group-title="General" tvg-language="rus" tvg-quality="576p",Zvezda
+https://fs.uplink.kz/zvezda/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" group-title="General" tvg-language="rus" tvg-quality="576i",Zvezda
+https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" group-title="General" tvg-language="rus" tvg-quality="576i",Zvezda
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/21.m3u8
+
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" group-title="General" tvg-language="rus" tvg-quality="576i",Zvezda
+https://streaming.televizor-24-tochka.ru/live/748.m3u8
+
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" group-title="General" tvg-language="rus" tvg-quality="450p",Zvezda
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+

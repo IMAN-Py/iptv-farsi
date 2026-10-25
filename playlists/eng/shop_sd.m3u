@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ExpoChannel.au" tvg-name="Expo Channel" group-title="Shop" tvg-language="eng" tvg-quality="360p",Expo Channel
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
+
+#EXTINF:-1 tvg-id="MagnificentMoviesNetwork.us" tvg-name="Magnificent Movies Network" group-title="Movies;Shop" tvg-language="eng" tvg-quality="576i",Magnificent Movies Network
+https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
+
+#EXTINF:-1 tvg-id="QVC.uk" tvg-name="QVC" group-title="Shop" tvg-language="eng" tvg-quality="540p",QVC
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
+
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC" group-title="Shop" tvg-language="eng" tvg-quality="480i",QVC
+https://jmp2.uk/plu-5bdcdf1e851dd5632e2c11d1.m3u8
+
+#EXTINF:-1 tvg-id="QVCBeauty.uk" tvg-name="QVC Beauty" group-title="Shop" tvg-language="eng" tvg-quality="540p",QVC Beauty
+https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
+
+#EXTINF:-1 tvg-id="QVCExtra.uk" tvg-name="QVC Extra" group-title="Shop" tvg-language="eng" tvg-quality="540p",QVC Extra
+https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
+
+#EXTINF:-1 tvg-id="QVCStyle.uk" tvg-name="QVC Style" group-title="Shop" tvg-language="eng" tvg-quality="540p",QVC Style
+https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
+
+#EXTINF:-1 tvg-id="QVC2.us" tvg-name="QVC2" group-title="Shop" tvg-language="eng" tvg-quality="480i",QVC2
+https://jmp2.uk/plu-67817323dd7846fe546940dd.m3u8
+
+#EXTINF:-1 tvg-id="ShopLC.us" tvg-name="Shop LC" group-title="Shop" tvg-language="eng" tvg-quality="576p",Shop LC
+https://tvsen3.aynaott.com/zZ6EndAn/index.m3u8
+
+#EXTINF:-1 tvg-id="TimelessTV.us" tvg-name="Timeless TV" group-title="Classic;Shop" tvg-language="eng" tvg-quality="576i",Timeless TV
+https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
+

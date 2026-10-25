@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-name="Amou Yazid TV" group-title="Kids" tvg-language="ara;fra" tvg-quality="576p",Amou Yazid TV
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="480i",BabyFirst
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJr.fr" tvg-name="Disney Jr." group-title="Kids" tvg-language="fra" tvg-quality="576p",Disney Jr.
+http://41.205.64.66/DISNEY-JUNIOR/index.m3u8
+
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" group-title="Kids" tvg-language="fra" tvg-quality="576i",France 4
+http://149.62.177.107:9999/France_4/index.m3u8
+
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" group-title="Kids" tvg-language="fra" tvg-quality="576i",Gulli
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147:8080/Gulli/index.m3u8
+
+#EXTINF:-1 tvg-id="InazumaEleven.us" tvg-name="Inazuma Eleven" group-title="Kids;Series" tvg-language="fra" tvg-quality="576i",Inazuma Eleven
+https://jmp2.uk/plu-611e75226b7f420007c3f319.m3u8
+
+#EXTINF:-1 tvg-id="InazumaEleven.us" tvg-name="Inazuma Eleven" group-title="Kids;Series" tvg-language="fra" tvg-quality="576i",Inazuma Eleven
+https://jmp2.uk/plu-612375086abc84000738fc03.m3u8
+
+#EXTINF:-1 tvg-id="InazumaEleven.us" tvg-name="Inazuma Eleven" group-title="Kids;Series" tvg-language="fra" tvg-quality="576i",Inazuma Eleven
+https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="Nickelodeon" group-title="Kids" tvg-language="fra" tvg-quality="504p",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+

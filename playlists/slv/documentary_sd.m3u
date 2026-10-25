@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="H2HD.si" tvg-name="H2 HD" group-title="Documentary" tvg-language="slv" tvg-quality="576i",H2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/HistoryChannel2/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatNature.si" tvg-name="Viasat Nature" group-title="Documentary" tvg-language="slv" tvg-quality="576i",Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/ViasatNature/index.m3u8
+

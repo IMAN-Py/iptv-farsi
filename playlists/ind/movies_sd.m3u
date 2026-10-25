@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HITSMovies.sg" tvg-name="HITS Movies" group-title="Movies" tvg-language="eng;ind" tvg-quality="576p",HITS Movies
+http://103.151.60.162:2122/play/a01h/index.m3u8?hls
+

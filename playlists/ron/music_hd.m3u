@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BoomTV.ro" tvg-name="Boom TV" group-title="Music" tvg-language="ron" tvg-quality="1080p",Boom TV
+#EXTVLCOPT:http-referrer=https://tvboom.ro/
+https://tvboom.ro/live-tv/live.m3u8
+
+#EXTINF:-1 tvg-id="EMITV.ro" tvg-name="EMI TV" group-title="Music" tvg-language="ron" tvg-quality="1080i",EMI TV
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-emi/live_hq?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="ImpactTV.ro" tvg-name="Impact TV" group-title="Music" tvg-language="ron" tvg-quality="1080p",Impact TV
+#EXTVLCOPT:http-referrer=https://tvimpact.ro/
+https://live.tvimpact.ro:8088/hevc/index.m3u8
+
+#EXTINF:-1 tvg-id="ImpactTV2.ro" tvg-name="Impact TV 2" group-title="Music" tvg-language="ron" tvg-quality="1080p",Impact TV 2
+https://online.tvimpact.live/hls/impact_tv2.m3u8
+
+#EXTINF:-1 tvg-id="ImpactTVDance.ro" tvg-name="Impact TV Dance" group-title="Music" tvg-language="ron" tvg-quality="1080p",Impact TV Dance
+https://online.tvimpact.live/hls/dancetv.m3u8
+
+#EXTINF:-1 tvg-id="ImpactTVManele.ro" tvg-name="Impact TV Manele" group-title="Music" tvg-language="ron" tvg-quality="1080p",Impact TV Manele
+https://online.tvimpact.live/hls/impact_tv.m3u8
+
+#EXTINF:-1 tvg-id="KissTV.ro" tvg-name="Kiss TV" group-title="Music" tvg-language="ron" tvg-quality="1080p",Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+
+#EXTINF:-1 tvg-id="LiraTV.es" tvg-name="LiraTV" group-title="Music" tvg-language="ron" tvg-quality="720p",LiraTV
+https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MagicTV.ro" tvg-name="Magic TV" group-title="Music" tvg-language="ron" tvg-quality="720p",Magic TV
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+
+#EXTINF:-1 tvg-id="RadioFxNet.ro" tvg-name="Radio Fx Net" group-title="Music" tvg-language="eng;ron" tvg-quality="720p",Radio Fx Net
+https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro" tvg-name="Radio Romania Antena Satelor" group-title="Music" tvg-language="ron" tvg-quality="720p",Radio Romania Antena Satelor
+https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RockTV.ro" tvg-name="Rock TV" group-title="Music" tvg-language="ron" tvg-quality="720p",Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+#EXTINF:-1 tvg-id="SuperTV.ro" tvg-name="Super TV" group-title="Music" tvg-language="ron" tvg-quality="1080i",Super TV
+#EXTVLCOPT:http-referrer=https://supertv.ro
+https://live.supertv.ro/live/supertv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraditionalTV.ro" tvg-name="Traditional TV" group-title="Music" tvg-language="ron" tvg-quality="1080p",Traditional TV
+http://83.103.149.75:8085/udp/239.30.0.9:4000
+

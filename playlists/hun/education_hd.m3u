@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="M5.hu" tvg-name="M5" group-title="Education" tvg-language="hun" tvg-quality="1080p",M5
+http://88.212.15.17/live/test_m_5_hun_atk_1200/playlist.m3u8
+

@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-language="rus" tvg-quality="576p",Da Vinci
+http://stream.mcquack.net/238/index.m3u8
+
+#EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-language="rus" tvg-quality="576p",Da Vinci
+https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" group-title="Education" tvg-language="rus" tvg-quality="576i",Da Vinci
+https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Doctor.ru" tvg-name="Doctor" group-title="Education;Lifestyle" tvg-language="rus" tvg-quality="576p",Doctor
+http://178.134.1.158:8081/doktor/index.m3u8
+
+#EXTINF:-1 tvg-id="Doctor.ru" tvg-name="Doctor" group-title="Education;Lifestyle" tvg-language="rus" tvg-quality="576p",Doctor
+http://stream.mcquack.net/80/index.m3u8
+
+#EXTINF:-1 tvg-id="Doctor.ru" tvg-name="Doctor" group-title="Education;Lifestyle" tvg-language="rus" tvg-quality="576i",Doctor
+https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Fauna.ua" tvg-name="Fauna" group-title="Education" tvg-language="rus;ukr" tvg-quality="576p",Fauna
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/401/index.m3u8
+
+#EXTINF:-1 tvg-id="Ktoestkto.ru" tvg-name="Kto est kto" group-title="Education" tvg-language="rus" tvg-quality="576p",Kto est kto
+http://31.148.48.15/Kto_est_kto/index.m3u8
+

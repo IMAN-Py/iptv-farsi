@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV" group-title="Legislative" tvg-language="por" tvg-quality="720p",ARTV
+https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal Gov" group-title="Legislative" tvg-language="por" tvg-quality="720p",Canal Gov
+http://168.197.104.22/TV_BRASIL_2/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal Gov" group-title="Legislative" tvg-language="por" tvg-quality="720p",Canal Gov
+http://45.177.114.115/TV_BRASIL_2/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal Gov" group-title="Legislative" tvg-language="por" tvg-quality="720p",Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" group-title="Legislative" tvg-language="bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mlt;nld;pol;por;ron;slk;slv;spa;swe;ukr" tvg-quality="1080p",EbS
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8
+
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+
+#EXTINF:-1 tvg-id="TVAssembleiaCeara.br" tvg-name="TV Assembleia Ceara" group-title="Legislative" tvg-language="por" tvg-quality="720p",TV Assembleia Ceara
+https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Camara" group-title="Legislative" tvg-language="por" tvg-quality="720p",TV Camara
+http://168.197.104.22/TV_CAMARA/index.m3u8
+
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Camara" group-title="Legislative" tvg-language="por" tvg-quality="720p",TV Camara
+http://170.83.49.66:8083/TVCAMARAHD/index.m3u8
+
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Camara" group-title="Legislative" tvg-language="por" tvg-quality="720p",TV Camara
+http://186.219.52.187/tv_camara/index.m3u8
+
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Camara" group-title="Legislative" tvg-language="por" tvg-quality="720p",TV Camara
+http://45.162.64.114/TV_CAMARA/index.m3u8
+
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Camara" group-title="Legislative" tvg-language="por" tvg-quality="1080p",TV Camara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TVCamara2.br" tvg-name="TV Camara 2" group-title="Legislative" tvg-language="por" tvg-quality="1080p",TV Camara 2
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+

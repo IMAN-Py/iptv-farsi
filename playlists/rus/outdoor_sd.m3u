@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dikij.ru" tvg-name="Dikij" group-title="Outdoor" tvg-language="rus" tvg-quality="576p",Dikij
+http://hls127.freeott.top:8080/Dikiy/video.m3u8
+
+#EXTINF:-1 tvg-id="Dikij.ru" tvg-name="Dikij" group-title="Outdoor" tvg-language="rus" tvg-quality="576p",Dikij
+https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-name="Moya Planeta" group-title="Outdoor" tvg-language="rus" tvg-quality="576p",Moya Planeta
+http://stream.mcquack.net/124/index.m3u8
+
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-name="Moya Planeta" group-title="Outdoor" tvg-language="rus" tvg-quality="576p",Moya Planeta
+https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Ohotnikirybolov.ru" tvg-name="Ohotnik i rybolov" group-title="Outdoor" tvg-language="rus" tvg-quality="576i",Ohotnik i rybolov
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-name="Okhota i rybalka" group-title="Outdoor" tvg-language="eng;rus" tvg-quality="576p",Okhota i rybalka
+http://stream.mcquack.net/155/index.m3u8
+
+#EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-name="Okhota i rybalka" group-title="Outdoor" tvg-language="eng;rus" tvg-quality="576i",Okhota i rybalka
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Poehali.ru" tvg-name="Poehali!" group-title="Entertainment;Outdoor" tvg-language="rus" tvg-quality="576p",Poehali!
+http://88.212.15.17/live/test_poehali/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rybolov.ru" tvg-name="Rybolov" group-title="Outdoor" tvg-language="rus" tvg-quality="576p",Rybolov
+http://stream.mcquack.net/264/index.m3u8
+

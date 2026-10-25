@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FAN.ru" tvg-name="FAN" group-title="Animation;Movies" tvg-language="rus" tvg-quality="576p",FAN
+http://stream.mcquack.net/420/index.m3u8
+
+#EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" group-title="Animation;Kids" tvg-language="rus" tvg-quality="576p",Solnce
+http://217.114.191.150/Solnce/index.m3u8
+
+#EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" group-title="Animation;Kids" tvg-language="rus" tvg-quality="576p",Solnce
+http://31.148.48.15/Solnce/index.m3u8
+
+#EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" group-title="Animation;Kids" tvg-language="rus" tvg-quality="576p",Solnce
+http://46.32.176.50/solnce/index.m3u8
+
+#EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" group-title="Animation;Kids" tvg-language="rus" tvg-quality="576p",Solnce
+http://stream.mcquack.net/118/index.m3u8
+
+#EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" group-title="Animation;Kids" tvg-language="rus" tvg-quality="576p",Solnce
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" group-title="Animation;Kids" tvg-language="rus" tvg-quality="450p",Solnce
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+
+#EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" group-title="Animation;Kids" tvg-language="rus" tvg-quality="576p",Solnce
+https://tv.mediacdn.ru/live/solntse/playlist.m3u8
+

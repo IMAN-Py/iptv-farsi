@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GEMJunior.tr" tvg-name="GEM Junior" group-title="Kids" tvg-language="fas" tvg-quality="480i",GEM Junior
+https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="GEMKids.tr" tvg-name="GEM Kids" group-title="Kids" tvg-language="fas" tvg-quality="480i",GEM Kids
+https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="IRIBOmid.ir" tvg-name="IRIB Omid" group-title="Kids" tvg-language="fas" tvg-quality="576i",IRIB Omid
+https://ncdn.telewebion.ir/omid/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PersianaJunior.fr" tvg-name="Persiana Junior" group-title="Kids" tvg-language="fas" tvg-quality="576i",Persiana Junior
+https://junhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PooyaTV.ir" tvg-name="Pooya TV" group-title="Kids" tvg-language="fas" tvg-quality="576i",Pooya TV
+https://ncdn.telewebion.ir/pooya/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PooyaTV.ir" tvg-name="Pooya TV" group-title="Kids" tvg-language="fas" tvg-quality="576i",Pooya TV
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PooyaTVPlus.ir" tvg-name="Pooya TV Plus" group-title="Kids" tvg-language="fas" tvg-quality="576i",Pooya TV Plus
+https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8
+

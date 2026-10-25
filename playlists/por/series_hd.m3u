@@ -1,0 +1,74 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AWTV.br" tvg-name="AWTV" group-title="Classic;Series" tvg-language="por" tvg-quality="1080p",AWTV
+#EXTVLCOPT:http-referrer=https://awtv.com.br
+https://awtv.nuvemplay.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="CSIMiami.us" tvg-name="CSI: Miami" group-title="Series" tvg-language="por" tvg-quality="720p",CSI: Miami
+https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
+
+#EXTINF:-1 tvg-id="iCarly.us" tvg-name="iCarly" group-title="Series" tvg-language="por" tvg-quality="720p",iCarly
+https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
+
+#EXTINF:-1 tvg-id="JornadanasEstrelasANovaGeracao.us" tvg-name="Jornada nas Estrelas: A Nova Geracao" group-title="Series" tvg-language="por" tvg-quality="720p",Jornada nas Estrelas: A Nova Geracao
+https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8
+
+#EXTINF:-1 tvg-id="JornadanasEstrelasDeepSpaceNine.us" tvg-name="Jornada nas Estrelas: Deep Space Nine" group-title="Series" tvg-language="por" tvg-quality="720p",Jornada nas Estrelas: Deep Space Nine
+https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8
+
+#EXTINF:-1 tvg-id="JornadanasEstrelasVoyager.us" tvg-name="Jornada nas Estrelas: Voyager" group-title="Series" tvg-language="por" tvg-quality="720p",Jornada nas Estrelas: Voyager
+https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8
+
+#EXTINF:-1 tvg-id="KenanKel.us" tvg-name="Kenan & Kel" group-title="Series" tvg-language="por" tvg-quality="720p",Kenan & Kel
+https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
+
+#EXTINF:-1 tvg-id="MTVAreyoutheOne.us" tvg-name="MTV Are you the One?" group-title="Series" tvg-language="por" tvg-quality="720p",MTV Are you the One?
+https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
+
+#EXTINF:-1 tvg-id="MTVComoEx.us" tvg-name="MTV Com o Ex" group-title="Series" tvg-language="por" tvg-quality="720p",MTV Com o Ex
+https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
+
+#EXTINF:-1 tvg-id="MTVDating.us" tvg-name="MTV Dating" group-title="Series" tvg-language="por" tvg-quality="720p",MTV Dating
+https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8
+
+#EXTINF:-1 tvg-id="NCIS.us" tvg-name="NCIS" group-title="Series" tvg-language="por" tvg-quality="720p",NCIS
+https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
+
+#EXTINF:-1 tvg-id="Numbers.us" tvg-name="Numbers" group-title="Series" tvg-language="por" tvg-quality="720p",Numbers
+https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAliens.us" tvg-name="Pluto TV Aliens" group-title="Documentary;Series" tvg-language="por" tvg-quality="720p",Pluto TV Aliens
+https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNovelas.us" tvg-name="Pluto TV Novelas" group-title="Series" tvg-language="por" tvg-quality="720p",Pluto TV Novelas
+https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSeriesAcao.us" tvg-name="Pluto TV Series Acao" group-title="Series" tvg-language="por" tvg-quality="720p",Pluto TV Series Acao
+https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSeriesComedia.us" tvg-name="Pluto TV Series Comedia" group-title="Comedy;Series" tvg-language="por" tvg-quality="720p",Pluto TV Series Comedia
+https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSeriesCriminais.us" tvg-name="Pluto TV Series Criminais" group-title="Series" tvg-language="por" tvg-quality="720p",Pluto TV Series Criminais
+https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSeriesDrama.us" tvg-name="Pluto TV Series Drama" group-title="Series" tvg-language="por" tvg-quality="720p",Pluto TV Series Drama
+https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSeriesNovelescas.us" tvg-name="Pluto TV Series Novelescas" group-title="Series" tvg-language="por" tvg-quality="720p",Pluto TV Series Novelescas
+https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSeriesSciFi.us" tvg-name="Pluto TV Series Sci-Fi" group-title="Series" tvg-language="por" tvg-quality="720p",Pluto TV Series Sci-Fi
+https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
+
+#EXTINF:-1 tvg-id="SeriesClassic.br" tvg-name="Series Classic" group-title="Series" tvg-language="por" tvg-quality="720p",Series Classic
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarTrek.us" tvg-name="Star Trek" group-title="Series" tvg-language="por" tvg-quality="720p",Star Trek
+https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
+
+#EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-language="por" tvg-quality="720p",TNT Novelas
+http://45.162.64.114/TNT_NOVELAS/index.m3u8
+
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI Ficcao" group-title="Series" tvg-language="por" tvg-quality="720p",TVI Ficcao
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
+

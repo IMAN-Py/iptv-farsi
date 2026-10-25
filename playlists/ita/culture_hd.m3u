@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PaciContemporaryChannel.it" tvg-name="Paci Contemporary Channel" group-title="Culture" tvg-language="ita" tvg-quality="720p",Paci Contemporary Channel
+https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeatroTV.it" tvg-name="Teatro TV" group-title="Culture" tvg-language="ita" tvg-quality="720p",Teatro TV
+https://m.iostream.it/hls/teatrotv/teatrotv.m3u8
+
+#EXTINF:-1 tvg-id="Telepace2.it" tvg-name="Telepace 2" group-title="Culture;Religious" tvg-language="eng;fra;ita" tvg-quality="1080p",Telepace 2
+https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
+

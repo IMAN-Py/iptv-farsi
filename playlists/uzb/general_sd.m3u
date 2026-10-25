@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DasturxonTV.uz" tvg-name="Dasturxon TV" group-title="General" tvg-language="rus;uzb" tvg-quality="576p",Dasturxon TV
+https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FargonaMTRK.uz" tvg-name="Farg'ona MTRK" group-title="General" tvg-language="uzb" tvg-quality="576i",Farg'ona MTRK
+https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Madaniyatvamarifat.uz" tvg-name="Madaniyat va ma'rifat" group-title="General" tvg-language="uzb" tvg-quality="576p",Madaniyat va ma'rifat
+https://stream8.cinerama.uz/1005/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Milliy.uz" tvg-name="Milliy" group-title="General" tvg-language="uzb" tvg-quality="480p",Milliy
+http://milliy.tv/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="Navo.uz" tvg-name="Navo" group-title="General" tvg-language="uzb" tvg-quality="576p",Navo
+https://stream8.cinerama.uz/1008/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NavoiyMTRK.uz" tvg-name="Navoiy MTRK" group-title="General" tvg-language="uzb" tvg-quality="576i",Navoiy MTRK
+https://stream8.cinerama.uz/1460/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NurafshonTV.uz" tvg-name="Nurafshon TV" group-title="General" tvg-language="uzb" tvg-quality="576i",Nurafshon TV
+https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Ozbekiston.uz" tvg-name="O'zbekiston" group-title="General" tvg-language="rus;uzb" tvg-quality="576p",O'zbekiston
+https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RenessansTV.uz" tvg-name="Renessans TV" group-title="General" tvg-language="uzb" tvg-quality="576p",Renessans TV
+https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TaraqqiyotTV.uz" tvg-name="Taraqqiyot TV" group-title="General" tvg-language="rus;uzb" tvg-quality="576i",Taraqqiyot TV
+https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Toshkent.uz" tvg-name="Toshkent" group-title="General" tvg-language="uzb" tvg-quality="576p",Toshkent
+https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8
+

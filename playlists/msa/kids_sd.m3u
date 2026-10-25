@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NewChannelPop.ca" tvg-name="New Channel Pop!" group-title="Kids" tvg-language="eng;ind;msa;por;rus" tvg-quality="480p",New Channel Pop!
+#EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6ab37c6c7e057f9063071c85
+https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
+

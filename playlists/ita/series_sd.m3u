@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DonnaTV.it" tvg-name="Donna TV" group-title="Series" tvg-language="ita" tvg-quality="480p",Donna TV
+https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LesorelleMcLeod.us" tvg-name="Le sorelle McLeod" group-title="Series" tvg-language="ita" tvg-quality="576i",Le sorelle McLeod
+https://jmp2.uk/plu-60a2837f8154ab0007c4dcdf.m3u8
+
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Top Crime" group-title="Series" tvg-language="ita" tvg-quality="576i",Top Crime
+https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+

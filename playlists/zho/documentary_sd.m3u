@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-name="CCTV-9" group-title="Documentary" tvg-language="zho" tvg-quality="576i",CCTV-9
+https://xykt-fix.github.io/Y77.m3u8
+
+#EXTINF:-1 tvg-id="CNDFilmDiscoveryChannel.cn" tvg-name="CND Film Discovery Channel" group-title="Documentary" tvg-language="zho" tvg-quality="576p",CND Film Discovery Channel
+http://125.210.152.18:9090/live/FXZL_750.m3u8
+

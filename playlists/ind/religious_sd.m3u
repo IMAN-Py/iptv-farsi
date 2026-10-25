@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AhsanTV.id" tvg-name="Ahsan TV" group-title="Religious" tvg-language="ind" tvg-quality="576i",Ahsan TV
+https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AshiilTV.id" tvg-name="Ashiil TV" group-title="Religious" tvg-language="ind" tvg-quality="480p",Ashiil TV
+#EXTVLCOPT:http-referrer=https://ashiil.tv/
+https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AshiilTV.id" tvg-name="Ashiil TV" group-title="Religious" tvg-language="ind" tvg-quality="480p",Ashiil TV
+https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
+
+#EXTINF:-1 tvg-id="DMITV.id" tvg-name="DMI TV" group-title="Religious" tvg-language="ind" tvg-quality="576i",DMI TV
+https://tvstreamcast.com/tawaftv.m3u8
+
+#EXTINF:-1 tvg-id="IAmChannel.id" tvg-name="I Am Channel" group-title="Religious" tvg-language="ind" tvg-quality="576p",I Am Channel
+#EXTVLCOPT:http-referrer=https://iamchannel.org/
+https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="LingkarTV.id" tvg-name="Lingkar TV" group-title="Music;News;Religious" tvg-language="ind;jav" tvg-quality="576i",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+

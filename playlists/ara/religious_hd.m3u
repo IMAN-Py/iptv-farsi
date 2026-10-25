@@ -1,0 +1,194 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABNsat.iq" tvg-name="ABNsat" group-title="Religious" tvg-language="ara" tvg-quality="720p",ABNsat
+https://mediaserver.abnvideos.com/streams/abnsat.m3u8
+
+#EXTINF:-1 tvg-id="AghapyTV.eg" tvg-name="Aghapy TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Aghapy TV
+https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlHayatTV.us" tvg-name="Al Hayat TV" group-title="Religious" tvg-language="ara" tvg-quality="720p",Al Hayat TV
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlHorreyaTV.us" tvg-name="Al Horreya TV" group-title="Religious" tvg-language="ara" tvg-quality="720p",Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlHorreyaTV.us" tvg-name="Al Horreya TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlMaarefTV.qa" tvg-name="Al Maaref TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Al Maaref TV
+https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8
+
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" group-title="Religious" tvg-language="ara" tvg-quality="720p",Al Quran Al Kareem TV
+http://m.live.net.sa:1935/live/quran/gmswf.m3u8
+
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" group-title="Religious" tvg-language="ara" tvg-quality="720p",Al Quran Al Kareem TV
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="Al Resalah" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Al Resalah
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" group-title="Religious" tvg-language="ara" tvg-quality="720p",Al Sunnah Al Nabawiyah TV
+http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
+
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" group-title="Religious" tvg-language="ara" tvg-quality="720p",Al Sunnah Al Nabawiyah TV
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlWilayah.ir" tvg-name="Al Wilayah" group-title="Religious" tvg-language="ara" tvg-quality="720p",Al Wilayah
+https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
+
+#EXTINF:-1 tvg-id="AlAimmaTV.iq" tvg-name="Al-Aimma TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Al-Aimma TV
+https://alaimma.tv/live/index.m3u8
+
+#EXTINF:-1 tvg-id="AlFadyTV.us" tvg-name="Al-Fady TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Al-Fady TV
+https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlJawadainTV.iq" tvg-name="Al-Jawadain TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Al-Jawadain TV
+https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlRafidainTV.tr" tvg-name="Al-Rafidain TV" group-title="Religious" tvg-language="ara" tvg-quality="720p",Al-Rafidain TV
+https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlSahatTV.ye" tvg-name="Al-Sahat TV" group-title="Religious" tvg-language="ara" tvg-quality="720p",Al-Sahat TV
+https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8
+
+#EXTINF:-1 tvg-id="AlabbassiaTV.iq" tvg-name="Alabbassia TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Alabbassia TV
+https://stream.alabbassia.com/live/alabbassia/index.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVAustralia.us" tvg-name="Alkarma TV Australia" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Alkarma TV Australia
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVAustralia.us" tvg-name="Alkarma TV Australia" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Alkarma TV Australia
+https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVFamily.us" tvg-name="Alkarma TV Family" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Alkarma TV Family
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVMiddleEast.us" tvg-name="Alkarma TV Middle East" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Alkarma TV Middle East
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVNorthAmericaCanada.us" tvg-name="Alkarma TV North America & Canada" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Alkarma TV North America & Canada
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVPraise.us" tvg-name="Alkarma TV Praise" group-title="Religious" tvg-language="ara" tvg-quality="720p",Alkarma TV Praise
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVTalmazaDiscipleship.us" tvg-name="Alkarma TV Talmaza Discipleship" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Alkarma TV Talmaza Discipleship
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVYouthEnglish.us" tvg-name="Alkarma TV Youth & English" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Alkarma TV Youth & English
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlmagdTVMiddleEast.us" tvg-name="Almagd TV Middle East" group-title="Religious" tvg-language="ara;eng" tvg-quality="1080p",Almagd TV Middle East
+https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlmagdTVNorthAmerica.us" tvg-name="Almagd TV North America" group-title="Religious" tvg-language="ara;eng" tvg-quality="1080p",Almagd TV North America
+https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Alquran.iq" tvg-name="Alquran" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Alquran
+https://ktvlive.online/stream/hls/ch1.m3u8
+
+#EXTINF:-1 tvg-id="ATVSat.us" tvg-name="ATVSat" group-title="Religious" tvg-language="ara" tvg-quality="1080p",ATVSat
+https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BahrainQuran.bh" tvg-name="Bahrain Quran" group-title="Religious" tvg-language="ara" tvg-quality="720p",Bahrain Quran
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BeitolAbbasTVChannel.iq" tvg-name="BeitolAbbas TV Channel" group-title="Religious" tvg-language="ara" tvg-quality="720p",BeitolAbbas TV Channel
+https://live.beitolabbas.tv/live/beitolabbastv.m3u8
+
+#EXTINF:-1 tvg-id="Ch4TeenDocumentary.kw" tvg-name="Ch4Teen Documentary" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Ch4Teen Documentary
+https://ch14.tv/live/ch4teendoc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CharityTV.lb" tvg-name="Charity TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Charity TV
+http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
+
+#EXTINF:-1 tvg-id="CopticTV.eg" tvg-name="Coptic TV" group-title="Religious" tvg-language="ara" tvg-quality="720p",Coptic TV
+https://ctv.icopts.app/CTV/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="ElbesharaGTV.us" tvg-name="Elbeshara GTV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Elbeshara GTV
+http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HolyQuranRadio.sa" tvg-name="Holy Quran Radio" group-title="General;Religious" tvg-language="ara" tvg-quality="1080p",Holy Quran Radio
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HolyQuranRadioNablus.ps" tvg-name="Holy Quran Radio Nablus" group-title="Religious" tvg-language="ara" tvg-quality="720p",Holy Quran Radio Nablus
+http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
+
+#EXTINF:-1 tvg-id="ImamHusseinTV2.iq" tvg-name="Imam Hussein TV 2" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Imam Hussein TV 2
+http://ar.imamhossaintv.com/live/ih2.m3u8
+
+#EXTINF:-1 tvg-id="ImamHusseinTV2.iq" tvg-name="Imam Hussein TV 2" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Imam Hussein TV 2
+https://live.imamhossaintv.com/live/ih2.m3u8
+
+#EXTINF:-1 tvg-id="IqraaAfricaEurope.sa" tvg-name="Iqraa Africa & Europe" group-title="Religious" tvg-language="ara;eng;fra" tvg-quality="1080p",Iqraa Africa & Europe
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IqraaArabic.sa" tvg-name="Iqraa Arabic" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Iqraa Arabic
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IqraaQuran.sa" tvg-name="Iqraa Quran" group-title="Religious" tvg-language="ara;eng;fra" tvg-quality="1080p",Iqraa Quran
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IshtarTV.iq" tvg-name="Ishtar TV" group-title="Culture;Music;Religious" tvg-language="ara" tvg-quality="1080p",Ishtar TV
+https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KarbalaDocumentary.iq" tvg-name="Karbala Documentary" group-title="Documentary;Religious" tvg-language="ara" tvg-quality="1080p",Karbala Documentary
+https://ktvlive.online/stream/hls/ch3.m3u8
+
+#EXTINF:-1 tvg-id="KoogiTV.eg" tvg-name="Koogi TV" group-title="Kids;Religious" tvg-language="ara" tvg-quality="1080p",Koogi TV
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTVAlQurain.kw" tvg-name="KTV Al Qurain" group-title="Religious" tvg-language="ara" tvg-quality="1080p",KTV Al Qurain
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="KTVEthraa.kw" tvg-name="KTV Ethraa" group-title="Religious" tvg-language="ara" tvg-quality="1080p",KTV Ethraa
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="LogosTV.us" tvg-name="Logos TV" group-title="Religious" tvg-language="ara" tvg-quality="720p",Logos TV
+https://597f64b67707a.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LogosTV.us" tvg-name="Logos TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Logos TV
+https://5a8308add0b31.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MarjaeyatTVArabic.iq" tvg-name="Marjaeyat TV Arabic" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Marjaeyat TV Arabic
+https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MissionAsia.au" tvg-name="Mission Asia" group-title="Religious" tvg-language="ara;eng" tvg-quality="1080p",Mission Asia
+https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA1World.uk" tvg-name="MTA1 World" group-title="Religious" tvg-language="ara;ben;deu;eng;fra;urd" tvg-quality="720p",MTA1 World
+https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA2Europe.uk" tvg-name="MTA2 Europe" group-title="Religious" tvg-language="ara;ben;deu;eng;fra;hin;urd" tvg-quality="720p",MTA2 Europe
+https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA3AlArabia.uk" tvg-name="MTA3 Al-Arabia" group-title="Religious" tvg-language="ara" tvg-quality="1080p",MTA3 Al-Arabia
+https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA6Asia.uk" tvg-name="MTA6 Asia" group-title="Religious" tvg-language="ara;ben;eng;ind;tam;urd" tvg-quality="1080p",MTA6 Asia
+https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA7Asia.uk" tvg-name="MTA7 Asia" group-title="Religious" tvg-language="ara;ben;eng;hin;mal;tam;urd" tvg-quality="1080p",MTA7 Asia
+https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NourElShabeb.lb" tvg-name="Nour El Shabeb" group-title="Religious" tvg-language="ara" tvg-quality="720p",Nour El Shabeb
+https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QatarTVTheHolyQuran.qa" tvg-name="Qatar TV The Holy Quran" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Qatar TV The Holy Quran
+https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8
+
+#EXTINF:-1 tvg-id="SafeerTV.uk" tvg-name="Safeer TV" group-title="Religious" tvg-language="ara;eng" tvg-quality="1080p",Safeer TV
+https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sat7Kids.cy" tvg-name="Sat 7 Kids" group-title="Kids;Religious" tvg-language="ara" tvg-quality="1080p",Sat 7 Kids
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Sharjah2.ae" tvg-name="Sharjah 2" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Sharjah 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SharjahRadioQuran.ae" tvg-name="Sharjah Radio Quran" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Sharjah Radio Quran
+https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SharjahTV.ae" tvg-name="Sharjah TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Sharjah TV
+https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
+

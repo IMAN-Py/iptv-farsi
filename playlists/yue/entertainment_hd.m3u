@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AsianDrama.hk" tvg-name="Asian Drama" group-title="Entertainment" tvg-language="yue" tvg-quality="1080p",Asian Drama
+http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
+
+#EXTINF:-1 tvg-id="Jade.hk" tvg-name="Jade" group-title="Entertainment" tvg-language="yue;zho" tvg-quality="1080p",Jade
+http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
+
+#EXTINF:-1 tvg-id="PetClubTV.hk" tvg-name="Pet Club TV" group-title="Entertainment" tvg-language="yue" tvg-quality="1080p",Pet Club TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PetClubTV.hk" tvg-name="Pet Club TV" group-title="Entertainment" tvg-language="yue" tvg-quality="1080p",Pet Club TV
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TDMEntertainment.mo" tvg-name="TDM Entertainment" group-title="Entertainment" tvg-language="yue;zho" tvg-quality="720p",TDM Entertainment
+https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+

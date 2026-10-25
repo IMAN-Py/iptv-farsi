@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ComedyTV.ge" tvg-name="Comedy TV" group-title="Comedy" tvg-language="kat" tvg-quality="576i",Comedy TV
+http://31.146.5.178:8087/play/a00b/index.m3u8
+

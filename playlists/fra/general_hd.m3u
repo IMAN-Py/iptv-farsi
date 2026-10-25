@@ -1,0 +1,223 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-name="20 Minutes TV" group-title="General" tvg-language="fra" tvg-quality="1080p",20 Minutes TV
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+
+#EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde" group-title="General" tvg-language="ara;fra" tvg-quality="1080p",2M Monde
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+
+#EXTINF:-1 tvg-id="A2iTV.it" tvg-name="A2i TV" group-title="General" tvg-language="eng;fra" tvg-quality="1080p",A2i TV
+https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AfroturkTV.tr" tvg-name="Afroturk TV" group-title="General" tvg-language="eng;fra" tvg-quality="1080p",Afroturk TV
+https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlpedHuezTV.fr" tvg-name="Alpe d'Huez TV" group-title="General" tvg-language="fra" tvg-quality="720p",Alpe d'Huez TV
+https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
+
+#EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-name="Antenne Reunion" group-title="General" tvg-language="fra" tvg-quality="720p",Antenne Reunion
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+
+#EXTINF:-1 tvg-id="BebTV.cg" tvg-name="Beb TV" group-title="General" tvg-language="fra" tvg-quality="720p",Beb TV
+https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8
+
+#EXTINF:-1 tvg-id="BFMAlsace.fr" tvg-name="BFM Alsace" group-title="General" tvg-language="fra" tvg-quality="1080p",BFM Alsace
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?end=END&start=LIVE
+
+#EXTINF:-1 tvg-id="BossBrothersTV.cd" tvg-name="Boss Brothers TV" group-title="General" tvg-language="fra" tvg-quality="1080p",Boss Brothers TV
+http://51.254.199.122:8080/bossbrothersTV/index.m3u8
+
+#EXTINF:-1 tvg-id="BrionnaisTV.fr" tvg-name="Brionnais TV" group-title="General" tvg-language="fra" tvg-quality="720p",Brionnais TV
+https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CAM10TV.cm" tvg-name="CAM 10 TV" group-title="General" tvg-language="fra" tvg-quality="720p",CAM 10 TV
+https://stream.it-innov.com/cam10tv/index.m3u8
+
+#EXTINF:-1 tvg-id="CannesLerinsTV.fr" tvg-name="Cannes Lerins TV" group-title="General" tvg-language="fra" tvg-quality="1080p",Cannes Lerins TV
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+
+#EXTINF:-1 tvg-id="CNMTV.sn" tvg-name="CNM TV" group-title="General" tvg-language="fra" tvg-quality="720p",CNM TV
+https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CongoPlanetTelevision.cd" tvg-name="Congo Planet Television" group-title="General" tvg-language="fra" tvg-quality="1080p",Congo Planet Television
+https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ETV.gp" tvg-name="ETV" group-title="General" tvg-language="fra;gcf" tvg-quality="1080p",ETV
+https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
+
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" group-title="General" tvg-language="fra" tvg-quality="1080p",France 3
+http://5.180.164.197:8080/FRANCE3/index.m3u8
+
+#EXTINF:-1 tvg-id="KalacTV.gn" tvg-name="Kalac TV" group-title="General" tvg-language="fra" tvg-quality="1080p",Kalac TV
+https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8
+
+#EXTINF:-1 tvg-id="KassouaTV.bj" tvg-name="KassouaTV" group-title="General" tvg-language="fra" tvg-quality="720p",KassouaTV
+https://playtv4k.live/live/kassouatv/index.m3u8
+
+#EXTINF:-1 tvg-id="LaTrois.be" tvg-name="La Trois" group-title="General" tvg-language="fra" tvg-quality="720p",La Trois
+http://193.111.198.85:8589/stream/mstv/rtbflatroislive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+
+#EXTINF:-1 tvg-id="LauraDaveMediaTV.cm" tvg-name="Laura Dave Media TV" group-title="General" tvg-language="fra" tvg-quality="720p",Laura Dave Media TV
+https://streaming.lauradavemedia.com/ldm/index.m3u8
+
+#EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr" tvg-name="Le Figaro TV Ile-de-France" group-title="General" tvg-language="fra" tvg-quality="1080p",Le Figaro TV Ile-de-France
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+
+#EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr" tvg-name="Le Figaro TV Ile-de-France" group-title="General" tvg-language="fra" tvg-quality="720p",Le Figaro TV Ile-de-France
+https://static.lefigaro.fr/secom/tnt.m3u8
+
+#EXTINF:-1 tvg-id="Matele.be" tvg-name="Matele" group-title="General" tvg-language="fra" tvg-quality="1080p",Matele
+https://live.matele.be/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="MaxTV.ch" tvg-name="Max TV" group-title="General" tvg-language="fra" tvg-quality="1080p",Max TV
+https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MoselleTV.fr" tvg-name="Moselle TV" group-title="General" tvg-language="fra" tvg-quality="720p",Moselle TV
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NetalkoleTV.ht" tvg-name="Netalkole TV" group-title="General" tvg-language="fra" tvg-quality="720p",Netalkole TV
+https://watch.haitilive.net/naktvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="NouvelleCaledonie1ere.nc" tvg-name="Nouvelle Caledonie 1ere" group-title="General" tvg-language="fra" tvg-quality="1080p",Nouvelle Caledonie 1ere
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
+
+#EXTINF:-1 tvg-id="NOVO19.fr" tvg-name="NOVO19" group-title="General" tvg-language="fra" tvg-quality="1080i",NOVO19
+http://149.62.177.107:9999/NOVO19/index.m3u8
+
+#EXTINF:-1 tvg-id="NTV.ci" tvg-name="NTV" group-title="General" tvg-language="fra" tvg-quality="1080p",NTV
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OTV.lb" tvg-name="OTV" group-title="General" tvg-language="ara;eng;fra;hye" tvg-quality="1080p",OTV
+https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QU4TRELiegeMedia.be" tvg-name="QU4TRE Liege Media" group-title="General" tvg-language="fra" tvg-quality="1080p",QU4TRE Liege Media
+https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8
+
+#EXTINF:-1 tvg-id="RadioTelePlanetCompas.ht" tvg-name="Radio Tele Planet Compas" group-title="General" tvg-language="fra;hat" tvg-quality="720p",Radio Tele Planet Compas
+https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTelevisionShilo.ht" tvg-name="Radio Television Shilo" group-title="General" tvg-language="fra;hat" tvg-quality="720p",Radio Television Shilo
+https://watch.haitilive.net/freehb/rtvs/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioTVBasseTerre.gp" tvg-name="Radio TV Basse-Terre" group-title="General" tvg-language="fra" tvg-quality="720p",Radio TV Basse-Terre
+https://vdo.ssl-stream.com:3412/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="RefletTV.ci" tvg-name="Reflet TV" group-title="General" tvg-language="fra" tvg-quality="1080p",Reflet TV
+https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
+
+#EXTINF:-1 tvg-id="RhoneTV.ch" tvg-name="Rhone TV" group-title="General" tvg-language="fra" tvg-quality="1080p",Rhone TV
+https://edge14.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.m3u8
+
+#EXTINF:-1 tvg-id="RTHTV1.us" tvg-name="RTH-TV1" group-title="General" tvg-language="fra;hat" tvg-quality="1080p",RTH-TV1
+https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTI1.ci" tvg-name="RTI 1" group-title="General" tvg-language="fra" tvg-quality="720p",RTI 1
+http://69.64.57.208:8080/rti1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTI1.ci" tvg-name="RTI 1" group-title="General" tvg-language="fra" tvg-quality="1080p",RTI 1
+https://video1.getstreamhosting.com:1936/8336/8336/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTLZwee.lu" tvg-name="RTL Zwee" group-title="General" tvg-language="deu;fra;ltz" tvg-quality="1080p",RTL Zwee
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTNC.cd" tvg-name="RTNC" group-title="General" tvg-language="fra;lin" tvg-quality="1080p",RTNC
+https://kali.vdopanel.com:3850/live/masterlive.m3u8
+
+#EXTINF:-1 tvg-id="T18.fr" tvg-name="T18" group-title="General" tvg-language="fra" tvg-quality="1080p",T18
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+
+#EXTINF:-1 tvg-id="TeleCongo.cg" tvg-name="Tele Congo" group-title="General" tvg-language="fra;lin;mkw" tvg-quality="720p",Tele Congo
+http://51.254.199.122:8080/telecongo/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleHaiti.ht" tvg-name="Tele Haiti" group-title="General" tvg-language="eng;fra;hat" tvg-quality="1088p",Tele Haiti
+http://66.175.238.147:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelePam.us" tvg-name="Tele Pam" group-title="General" tvg-language="eng;fra;hat" tvg-quality="1080p",Tele Pam
+https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="TelePeyi.gf" tvg-name="Tele Peyi" group-title="General" tvg-language="fra" tvg-quality="720p",Tele Peyi
+https://edge20.vedge.infomaniak.com/livecast/ik:33dm06/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TeleSahel.ne" tvg-name="Tele Sahel" group-title="General" tvg-language="dje;fra;hau;tmh" tvg-quality="1080p",Tele Sahel
+https://mediaserver1.castpin.com/hls/telesahel/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleTchad.td" tvg-name="Tele Tchad" group-title="General" tvg-language="ara;fra" tvg-quality="1080p",Tele Tchad
+https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelevisionEspoir47.tg" tvg-name="Television Espoir 47" group-title="General" tvg-language="fra" tvg-quality="720p",Television Espoir 47
+https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
+
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" group-title="General" tvg-language="fra" tvg-quality="1080i",TMC
+http://149.62.177.107:9999/TMC/index.m3u8
+
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" group-title="General" tvg-language="fra" tvg-quality="1080p",TMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://151.80.18.177:86/TMC/index.m3u8
+
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" group-title="General" tvg-language="fra" tvg-quality="1080p",TMC
+http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
+
+#EXTINF:-1 tvg-id="TNH.ht" tvg-name="TNH" group-title="General" tvg-language="fra;hat" tvg-quality="720p",TNH
+https://bozztv.com/dvrfl03/hdirect/hdirect-telecaraibes/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTV.pf" tvg-name="TNTV" group-title="General" tvg-language="fra;tah" tvg-quality="720p",TNTV
+https://bcovlive-a.akamaihd.net/34b9e8a6345d4ee8acb351730d1dbe89/us-west-2/5816339219001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNTV.pf" tvg-name="TNTV" group-title="General" tvg-language="fra;tah" tvg-quality="1080p",TNTV
+https://tntv-samsung-fr.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVAlsace.fr" tvg-name="TV Alsace" group-title="General" tvg-language="fra" tvg-quality="1080p",TV Alsace
+http://194.163.157.137:8080/hls/radioalsace.m3u8
+
+#EXTINF:-1 tvg-id="TVMonaco.mc" tvg-name="TV Monaco" group-title="General" tvg-language="fra" tvg-quality="1080p",TV Monaco
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+
+#EXTINF:-1 tvg-id="TVMulhouse.fr" tvg-name="TV Mulhouse" group-title="General" tvg-language="fra" tvg-quality="1080p",TV Mulhouse
+http://194.163.157.137:8080/hls/radiomulhouse.m3u8
+
+#EXTINF:-1 tvg-id="TV2.dz" tvg-name="TV2" group-title="General" tvg-language="ara;eng;fra" tvg-quality="1080p",TV2
+http://185.9.2.18/chid_347/index.m3u8
+
+#EXTINF:-1 tvg-id="TV3V.fr" tvg-name="TV3V" group-title="General" tvg-language="fra" tvg-quality="720p",TV3V
+https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5Monde Europe" group-title="General" tvg-language="fra" tvg-quality="1080p",TV5Monde Europe
+http://45.14.84.37/tv5monde/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5Monde Europe" group-title="General" tvg-language="fra" tvg-quality="1080p",TV5Monde Europe
+http://5.180.164.197:8080/TV5MONDE/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5Monde Europe" group-title="General" tvg-language="fra" tvg-quality="1080p",TV5Monde Europe
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5Monde Europe" group-title="General" tvg-language="fra" tvg-quality="1080p",TV5Monde Europe
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" tvg-name="TV5Monde France Belgium Switzerland Monaco" group-title="General" tvg-language="fra" tvg-quality="1080p",TV5Monde France Belgium Switzerland Monaco
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr" tvg-name="TV5Monde Latin America" group-title="General" tvg-language="fra;spa" tvg-quality="720p",TV5Monde Latin America
+http://45.162.231.38:7779/TV5_Monde/index.m3u8
+
+#EXTINF:-1 tvg-id="TVCBenin.bj" tvg-name="TVC Benin" group-title="General" tvg-language="fra" tvg-quality="720p",TVC Benin
+https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVcom.be" tvg-name="TVcom" group-title="General" tvg-language="fra" tvg-quality="1080p",TVcom
+https://tvlocales-live.freecaster.com/tvcom/95d2f656-ba85-4e13-affc-f1936be1a86d/95d2f656-ba85-4e13-affc-f1936be1a86d.isml/master.m3u8
+
+#EXTINF:-1 tvg-id="TVT.tg" tvg-name="TVT" group-title="General" tvg-language="ewe;fra;kbp" tvg-quality="720p",TVT
+http://69.64.57.208/tvt/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ViaATV.mq" tvg-name="ViaATV" group-title="General" tvg-language="fra" tvg-quality="1080p",ViaATV
+https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8
+
+#EXTINF:-1 tvg-id="viaTelePaese.fr" tvg-name="viaTelePaese" group-title="General" tvg-language="fra" tvg-quality="720p",viaTelePaese
+https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
+
+#EXTINF:-1 tvg-id="zenith.fr" tvg-name="zenith" group-title="Culture;General" tvg-language="eng;fra" tvg-quality="1080p",zenith
+https://live.azenagroup.com/zenith/index.ll.m3u8
+
+#EXTINF:-1 tvg-id="zenith.fr" tvg-name="zenith" group-title="Culture;General" tvg-language="eng;fra" tvg-quality="1080p",zenith
+https://live.azenagroup.com/zenith/index.m3u8
+

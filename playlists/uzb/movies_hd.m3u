@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BIZCinema.uz" tvg-name="BIZ Cinema" group-title="Movies" tvg-language="uzb" tvg-quality="1080p",BIZ Cinema
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinoteatr.uz" tvg-name="Kinoteatr" group-title="Movies" tvg-language="uzb" tvg-quality="1080p",Kinoteatr
+https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
+

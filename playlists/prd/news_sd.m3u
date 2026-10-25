@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AmuTV.us" tvg-name="Amu TV" group-title="News" tvg-language="prd;pus" tvg-quality="480i",Amu TV
+https://jmc-live.ercdn.net/amutv/amutv.m3u8
+

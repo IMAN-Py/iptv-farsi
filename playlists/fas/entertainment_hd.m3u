@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="4UTV.tr" tvg-name="4U TV" group-title="Entertainment" tvg-language="fas" tvg-quality="720p",4U TV
+https://hls.4utv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="MBCPersia.ae" tvg-name="MBC Persia" group-title="Entertainment" tvg-language="fas" tvg-quality="720p",MBC Persia
+https://hls.mbcpersia.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="MBCPersia.ae" tvg-name="MBC Persia" group-title="Entertainment" tvg-language="fas" tvg-quality="1080p",MBC Persia
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
+
+#EXTINF:-1 tvg-id="PersianaReality.fr" tvg-name="Persiana Reality" group-title="Entertainment" tvg-language="fas" tvg-quality="720p",Persiana Reality
+https://twohls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TinTV.us" tvg-name="Tin TV" group-title="Entertainment" tvg-language="fas" tvg-quality="720p",Tin TV
+https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TinTV.us" tvg-name="Tin TV" group-title="Entertainment" tvg-language="fas" tvg-quality="720p",Tin TV
+https://tulixcdn.akamaized.net/tintv6/tintv/tintv/playlist.m3u8
+

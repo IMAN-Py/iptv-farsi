@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GugbangTV.kr" tvg-name="Gugbang TV" group-title="News" tvg-language="kor" tvg-quality="1080p",Gugbang TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTV.kr" tvg-name="KTV" group-title="Legislative;News" tvg-language="kor" tvg-quality="1080p",KTV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+

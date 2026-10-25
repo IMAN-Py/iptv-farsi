@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BNT1.bg" tvg-name="BNT 1" group-title="General" tvg-language="bul" tvg-quality="576i",BNT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a046
+
+#EXTINF:-1 tvg-id="BNT2.bg" tvg-name="BNT 2" group-title="General" tvg-language="bul" tvg-quality="576i",BNT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a049
+
+#EXTINF:-1 tvg-id="BNT3.bg" tvg-name="BNT 3" group-title="General" tvg-language="bul" tvg-quality="576i",BNT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03x
+
+#EXTINF:-1 tvg-id="BNT4.bg" tvg-name="BNT 4" group-title="General" tvg-language="bul" tvg-quality="576i",BNT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a04u
+
+#EXTINF:-1 tvg-id="bTV.bg" tvg-name="bTV" group-title="General" tvg-language="bul" tvg-quality="576i",bTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03w
+
+#EXTINF:-1 tvg-id="Eurocom.bg" tvg-name="Eurocom" group-title="General" tvg-language="bul" tvg-quality="360p",Eurocom
+https://live.ecomservice.bg/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Nova.bg" tvg-name="Nova" group-title="General" tvg-language="bul" tvg-quality="576i",Nova
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03l
+
+#EXTINF:-1 tvg-id="TVSpravedlivaBulgariya.bg" tvg-name="TV Spravedliva Bulgariya" group-title="General" tvg-language="bul" tvg-quality="576i",TV Spravedliva Bulgariya
+https://tv.tvsb.bg/112.m3u8
+
+#EXTINF:-1 tvg-id="TVZagora.bg" tvg-name="TV Zagora" group-title="General" tvg-language="bul" tvg-quality="576p",TV Zagora
+http://zagoratv.ddns.net:8080/tvzagora.m3u8
+

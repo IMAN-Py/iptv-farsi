@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RetroxTV.cr" tvg-name="Retrox TV" group-title="Classic" tvg-language="spa" tvg-quality="576p",Retrox TV
+https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XtremaCineClasico.ar" tvg-name="Xtrema Cine Clasico" group-title="Classic;Movies" tvg-language="spa" tvg-quality="576i",Xtrema Cine Clasico
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1460
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+

@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DisneyJr.tr" tvg-name="Disney Jr." group-title="Animation;Kids" tvg-language="tur" tvg-quality="1080p",Disney Jr.
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
+
+#EXTINF:-1 tvg-id="SpacetoonTurkey.tr" tvg-name="Spacetoon Turkey" group-title="Animation;Kids" tvg-language="tur" tvg-quality="720p",Spacetoon Turkey
+#EXTVLCOPT:http-referrer=https://spacetoon.com.tr/
+https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
+

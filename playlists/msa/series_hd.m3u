@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DramaSangat.my" tvg-name="Drama Sangat" group-title="Series" tvg-language="msa" tvg-quality="1080p",Drama Sangat
+#EXTVLCOPT:http-referrer=https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420342
+https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420342
+

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="QVC.it" tvg-name="QVC" group-title="Shop" tvg-language="ita" tvg-quality="540p",QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+

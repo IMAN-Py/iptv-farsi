@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ocko.cz" tvg-name="Ocko" group-title="Music" tvg-language="ces" tvg-quality="540p",Ocko
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ocko.cz" tvg-name="Ocko" group-title="Music" tvg-language="ces" tvg-quality="540p",Ocko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OckoBlack.cz" tvg-name="Ocko Black" group-title="Music" tvg-language="ces" tvg-quality="576i",Ocko Black
+https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OckoExpres.cz" tvg-name="Ocko Expres" group-title="Music" tvg-language="ces" tvg-quality="540p",Ocko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OckoGold.cz" tvg-name="Ocko Gold" group-title="Music" tvg-language="ces" tvg-quality="540p",Ocko Gold
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OckoGold.cz" tvg-name="Ocko Gold" group-title="Music" tvg-language="ces" tvg-quality="540p",Ocko Gold
+https://ocko-live.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OckoStar.cz" tvg-name="Ocko Star" group-title="Music" tvg-language="ces" tvg-quality="576i",Ocko Star
+https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-name="Retro Music TV" group-title="Music" tvg-language="ces" tvg-quality="360p",Retro Music TV
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-name="Retro Music TV" group-title="Music" tvg-language="ces" tvg-quality="360p",Retro Music TV
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-name="Retro Music TV" group-title="Music" tvg-language="ces" tvg-quality="360p",Retro Music TV
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SlagerMuzika.cz" tvg-name="Slager Muzika" group-title="Music" tvg-language="ces" tvg-quality="576i",Slager Muzika
+https://stream-23.mazana.tv/slagrmuzika.m3u8s
+
+#EXTINF:-1 tvg-id="SlagerOriginal.cz" tvg-name="Slager Original" group-title="Music" tvg-language="ces" tvg-quality="576i",Slager Original
+https://stream-13.mazana.tv/slagroriginal.m3u8s
+

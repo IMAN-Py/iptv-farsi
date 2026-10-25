@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ClassicTV.ir" tvg-name="Classic TV" group-title="Classic" tvg-language="fas" tvg-quality="720p",Classic TV
+https://clshls.wns.live/hls/stream.m3u8
+

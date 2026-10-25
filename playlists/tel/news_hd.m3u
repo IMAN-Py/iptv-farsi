@@ -1,0 +1,64 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="10 TV" group-title="News" tvg-language="tel" tvg-quality="720p",10 TV
+https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
+
+#EXTINF:-1 tvg-id="4SiDESTV.in" tvg-name="4 SiDES TV" group-title="News" tvg-language="tel" tvg-quality="1080p",4 SiDES TV
+https://stream.ottlive.co.in/4sidestv/index.m3u8
+
+#EXTINF:-1 tvg-id="9PlusNews.in" tvg-name="9 Plus News" group-title="News" tvg-language="tel" tvg-quality="1080p",9 Plus News
+https://stream.ottlive.co.in/9plusnews/index.m3u8
+
+#EXTINF:-1 tvg-id="99TV.in" tvg-name="99TV" group-title="News" tvg-language="tel" tvg-quality="720p",99TV
+https://cdn.pishow.tv/ott/live/1211/master.m3u8
+
+#EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-name="ABN Andhra Jyoti" group-title="News" tvg-language="tel" tvg-quality="720p",ABN Andhra Jyoti
+https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8
+
+#EXTINF:-1 tvg-id="BIGTV.in" tvg-name="BIG TV" group-title="News" tvg-language="tel" tvg-quality="720p",BIG TV
+https://cdn.pishow.tv/ott/live/1059/master.m3u8
+
+#EXTINF:-1 tvg-id="BRKNews.in" tvg-name="BRK News" group-title="News" tvg-language="tel" tvg-quality="720p",BRK News
+https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-name="ETV Andhra Pradesh" group-title="News" tvg-language="tel" tvg-quality="1080p",ETV Andhra Pradesh
+https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-name="ETV Andhra Pradesh" group-title="News" tvg-language="tel" tvg-quality="1080p",ETV Andhra Pradesh
+https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVNews.in" tvg-name="ETV News" group-title="News" tvg-language="tel" tvg-quality="1080p",ETV News
+https://cc-3448kp65yhc5w.akamaized.net/WWBI/Amagi/ETV_News_IN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ETVTelangana.in" tvg-name="ETV Telangana" group-title="News" tvg-language="tel" tvg-quality="1080p",ETV Telangana
+https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVTelangana.in" tvg-name="ETV Telangana" group-title="News" tvg-language="tel" tvg-quality="1080p",ETV Telangana
+https://mumbai-edge.smartplaytv.in/ETVTG/index.m3u8
+
+#EXTINF:-1 tvg-id="HMTV.in" tvg-name="HMTV" group-title="News" tvg-language="tel" tvg-quality="720p",HMTV
+https://cdn.pishow.tv/ott/live/280/master.m3u8
+
+#EXTINF:-1 tvg-id="INews.in" tvg-name="INews" group-title="News" tvg-language="tel" tvg-quality="720p",INews
+https://cdn.pishow.tv/ott/live/411/master.m3u8
+
+#EXTINF:-1 tvg-id="MahaaNews.in" tvg-name="Mahaa News" group-title="News" tvg-language="tel" tvg-quality="1080p",Mahaa News
+https://mumbai-edge.smartplaytv.in/MahaNews/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVTelugu.in" tvg-name="NTV Telugu" group-title="News" tvg-language="tel" tvg-quality="1080p",NTV Telugu
+https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
+
+#EXTINF:-1 tvg-id="Prime9News.in" tvg-name="Prime9 News" group-title="News" tvg-language="tel" tvg-quality="1080p",Prime9 News
+https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
+
+#EXTINF:-1 tvg-id="SwatantraTV.in" tvg-name="Swatantra TV" group-title="News" tvg-language="tel" tvg-quality="1080p",Swatantra TV
+https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
+
+#EXTINF:-1 tvg-id="TNews.in" tvg-name="T News" group-title="News" tvg-language="tel" tvg-quality="720p",T News
+https://cdn.pishow.tv/ott/live/385/master.m3u8
+
+#EXTINF:-1 tvg-id="TV9Telugu.in" tvg-name="TV9 Telugu" group-title="News" tvg-language="tel" tvg-quality="720p",TV9 Telugu
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZeeTeluguNews.in" tvg-name="Zee Telugu News" group-title="News" tvg-language="tel" tvg-quality="720p",Zee Telugu News
+https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8
+

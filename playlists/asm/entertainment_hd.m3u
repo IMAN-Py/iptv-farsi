@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Spondon.in" tvg-name="Spondon" group-title="Entertainment" tvg-language="asm" tvg-quality="1080p",Spondon
+https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
+

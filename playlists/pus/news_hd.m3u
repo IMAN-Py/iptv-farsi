@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AfghanistanInternational.uk" tvg-name="Afghanistan International" group-title="News" tvg-language="ara;eng;pus" tvg-quality="720p",Afghanistan International
+https://hls.afintl.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TOLOnews.af" tvg-name="TOLOnews" group-title="News" tvg-language="pus" tvg-quality="720p",TOLOnews
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8
+

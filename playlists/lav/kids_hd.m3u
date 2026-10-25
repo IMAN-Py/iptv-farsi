@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KidZoneMax.ee" tvg-name="KidZone Max" group-title="Kids" tvg-language="eng;est;lav;lit;rus" tvg-quality="1080p",KidZone Max
+#EXTVLCOPT:http-referrer=https://kidzonemax.lt
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd
+
+#EXTINF:-1 tvg-id="Pingviins.lv" tvg-name="Pingviins" group-title="Animation;Kids" tvg-language="lav" tvg-quality="720p",Pingviins
+https://sirius.greenhosting.ru/PingvinRu/video.m3u8
+

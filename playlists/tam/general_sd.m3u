@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KalaignarTV.in" tvg-name="Kalaignar TV" group-title="General" tvg-language="tam" tvg-quality="396p",Kalaignar TV
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="Makkal TV" group-title="General" tvg-language="tam" tvg-quality="576i",Makkal TV
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="Makkal TV" group-title="General" tvg-language="tam" tvg-quality="576p",Makkal TV
+https://mumbai-edge.smartplaytv.in/MakkalTV/index.m3u8
+
+#EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="Makkal TV" group-title="General" tvg-language="tam" tvg-quality="576p",Makkal TV
+https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8
+
+#EXTINF:-1 tvg-id="MeiAlaiTV.in" tvg-name="Mei Alai TV" group-title="General" tvg-language="tam" tvg-quality="576p",Mei Alai TV
+https://meialai.iptelevishion.com/meialai/2/index.m3u8
+
+#EXTINF:-1 tvg-id="Okey.my" tvg-name="Okey" group-title="General" tvg-language="eng;msa;pan;tam;zho" tvg-quality="576i",Okey
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+

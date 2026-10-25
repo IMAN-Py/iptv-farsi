@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BoonniyomTV.th" tvg-name="Boonniyom TV" group-title="Religious" tvg-language="tha" tvg-quality="576i",Boonniyom TV
+https://live.x2.co.th/live/bntv.m3u8
+
+#EXTINF:-1 tvg-id="TVMuslimThailand.th" tvg-name="TV Muslim Thailand" group-title="Religious" tvg-language="tha" tvg-quality="576i",TV Muslim Thailand
+https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
+

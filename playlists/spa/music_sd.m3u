@@ -1,0 +1,173 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlcanceFMPLAYTV.py" tvg-name="Alcance FM PLAY TV" group-title="Music" tvg-language="spa" tvg-quality="576i",Alcance FM PLAY TV
+https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
+
+#EXTINF:-1 tvg-id="BeatsRadio.ar" tvg-name="Beats Radio" group-title="Music" tvg-language="spa" tvg-quality="480p",Beats Radio
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+
+#EXTINF:-1 tvg-id="BuenisimaRadioTV.co" tvg-name="Buenisima Radio TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Buenisima Radio TV
+https://canal.mediaserver.com.co/live/buenisimatv.m3u8
+
+#EXTINF:-1 tvg-id="ChamameTV.ar" tvg-name="Chamame TV" group-title="Music" tvg-language="spa" tvg-quality="576i",Chamame TV
+https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CorazonTV.pa" tvg-name="Corazon TV" group-title="Music" tvg-language="spa" tvg-quality="576i",Corazon TV
+https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
+
+#EXTINF:-1 tvg-id="DanceTV.ar" tvg-name="Dance TV" group-title="Music" tvg-language="spa" tvg-quality="576i",Dance TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8
+
+#EXTINF:-1 tvg-id="DanceTV.ar" tvg-name="Dance TV" group-title="Music" tvg-language="spa" tvg-quality="576i",Dance TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservesd-1.dens.tv/s/s21/index.m3u8
+
+#EXTINF:-1 tvg-id="ExaTV.mx" tvg-name="Exa TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Exa TV
+http://190.61.90.17:40000/play/a0hk/index.m3u8
+
+#EXTINF:-1 tvg-id="FarraPlay.py" tvg-name="Farra Play" group-title="Music" tvg-language="spa" tvg-quality="576p",Farra Play
+https://stream.farra.com.py/live/farra_low.m3u8
+
+#EXTINF:-1 tvg-id="FiestaTV.co" tvg-name="Fiesta TV" group-title="Music" tvg-language="spa" tvg-quality="576i",Fiesta TV
+https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
+
+#EXTINF:-1 tvg-id="FlexStudioRadioTV.bz" tvg-name="Flex Studio Radio TV" group-title="Music" tvg-language="spa" tvg-quality="576i",Flex Studio Radio TV
+https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FMTV.uk" tvg-name="FMTV" group-title="Music" tvg-language="spa" tvg-quality="576i",FMTV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="FuegoTV.do" tvg-name="Fuego TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Fuego TV
+https://streamunoapp.com:3553/live/cromtvlive.m3u8
+
+#EXTINF:-1 tvg-id="GalacticaTV.pe" tvg-name="Galactica TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Galactica TV
+https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelPROYECTOJA.cr" tvg-name="Hope Channel PROYECTO JA" group-title="Family;Music;Religious" tvg-language="eng;spa" tvg-quality="360p",Hope Channel PROYECTO JA
+https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8
+
+#EXTINF:-1 tvg-id="InterradioTV.cl" tvg-name="Interradio TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Interradio TV
+https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Italianissimo.ve" tvg-name="Italianissimo" group-title="Music" tvg-language="spa" tvg-quality="360p",Italianissimo
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KandelaTV.ve" tvg-name="KandelaTV" group-title="Music" tvg-language="spa" tvg-quality="480p",KandelaTV
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+
+#EXTINF:-1 tvg-id="Karibena.pe" tvg-name="Karibena" group-title="Music" tvg-language="spa" tvg-quality="480i",Karibena
+#EXTVLCOPT:http-referrer=https://karibena.pe/
+http://201.77.61.226:8000/play/a0qd/index.m3u8
+
+#EXTINF:-1 tvg-id="LaElegidaTelevision.uy" tvg-name="La Elegida Television" group-title="Music" tvg-language="spa" tvg-quality="576i",La Elegida Television
+https://stmv.gmpro.top/laelegidatv/laelegidatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaGranjaTV.cl" tvg-name="La Granja TV" group-title="Music" tvg-language="spa" tvg-quality="480i",La Granja TV
+https://oracle.streaminghd.cl/8126/8126/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaQueBuenaAtlanta.us" tvg-name="La Que Buena Atlanta" group-title="Music" tvg-language="spa" tvg-quality="480i",La Que Buena Atlanta
+https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
+
+#EXTINF:-1 tvg-id="LaVozdelTropico.do" tvg-name="La Voz del Tropico" group-title="Music" tvg-language="spa" tvg-quality="480p",La Voz del Tropico
+https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaPuraCremaTelevision.ve" tvg-name="LaPuraCrema Television" group-title="Music" tvg-language="spa" tvg-quality="576i",LaPuraCrema Television
+https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaXitosaPanama.pa" tvg-name="LaXitosa Panama" group-title="Music" tvg-language="spa" tvg-quality="360p",LaXitosa Panama
+https://stmvideo2.livecastv.com/lax953/lax953/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LosAngelesTVRadio.py" tvg-name="Los Angeles TV Radio" group-title="Music" tvg-language="spa" tvg-quality="576i",Los Angeles TV Radio
+https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MakaoTV.do" tvg-name="Makao TV" group-title="Music" tvg-language="spa" tvg-quality="360p",Makao TV
+https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MaquiTV.cl" tvg-name="Maqui TV" group-title="Music" tvg-language="spa" tvg-quality="576i",Maqui TV
+https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mas23TV.pa" tvg-name="Mas23 TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Mas23 TV
+https://movil.ejeserver.com/live/mas23tv.m3u8
+
+#EXTINF:-1 tvg-id="MetaleitorTV.us" tvg-name="Metaleitor TV" group-title="Music" tvg-language="spa" tvg-quality="576i",Metaleitor TV
+https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8
+
+#EXTINF:-1 tvg-id="MetropolitanadelCuzco.pe" tvg-name="Metropolitana del Cuzco" group-title="Music" tvg-language="spa" tvg-quality="480i",Metropolitana del Cuzco
+https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-name="Millenium 109 FM" group-title="Music" tvg-language="spa" tvg-quality="480i",Millenium 109 FM
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+
+#EXTINF:-1 tvg-id="NandePortetepeTV.py" tvg-name="Nande Portetepe TV" group-title="Music" tvg-language="spa" tvg-quality="576i",Nande Portetepe TV
+https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
+
+#EXTINF:-1 tvg-id="NextHD.py" tvg-name="Next HD" group-title="Movies;Music" tvg-language="spa" tvg-quality="480p",Next HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
+#EXTINF:-1 tvg-id="Onda15TV.es" tvg-name="Onda 15 TV" group-title="Music;News" tvg-language="spa" tvg-quality="224p",Onda 15 TV
+https://cloudvideo.servers10.com:8081/8034/index.m3u8
+
+#EXTINF:-1 tvg-id="OndambientalTV.co" tvg-name="Ondambiental TV" group-title="Culture;Music" tvg-language="spa" tvg-quality="360p",Ondambiental TV
+https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OxigenoTV.ve" tvg-name="Oxigeno TV" group-title="Music" tvg-language="spa" tvg-quality="360p",Oxigeno TV
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PindinTV.pa" tvg-name="Pindin TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Pindin TV
+https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8
+
+#EXTINF:-1 tvg-id="RadioChalaca.pe" tvg-name="Radio Chalaca" group-title="Music" tvg-language="spa" tvg-quality="480i",Radio Chalaca
+https://servilive.com:3414/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="RadioColmenar925FM.py" tvg-name="Radio Colmenar 92.5 FM" group-title="Music" tvg-language="spa" tvg-quality="576i",Radio Colmenar 92.5 FM
+https://tvdatta.com:3041/live/colmenarlive.m3u8
+
+#EXTINF:-1 tvg-id="RadioSanCristobal887FM.py" tvg-name="Radio San Cristobal 88.7 FM" group-title="Music" tvg-language="spa" tvg-quality="576i",Radio San Cristobal 88.7 FM
+https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
+
+#EXTINF:-1 tvg-id="RadioTropical.pe" tvg-name="Radio Tropical" group-title="Music" tvg-language="spa" tvg-quality="480p",Radio Tropical
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+
+#EXTINF:-1 tvg-id="Reyali.co" tvg-name="Reyali" group-title="Music" tvg-language="spa" tvg-quality="614p",Reyali
+https://eu1.servers10.com:8081/8090/index.m3u8
+
+#EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="Rumba TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Rumba TV
+http://186.148.196.100:8000/play/a02h
+
+#EXTINF:-1 tvg-id="SensacionCosta.cl" tvg-name="Sensacion Costa" group-title="Music" tvg-language="spa" tvg-quality="576i",Sensacion Costa
+https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
+
+#EXTINF:-1 tvg-id="SoloBailalo.cl" tvg-name="Solo Bailalo" group-title="Music" tvg-language="spa" tvg-quality="480p",Solo Bailalo
+https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SoloBailalo.cl" tvg-name="Solo Bailalo" group-title="Music" tvg-language="spa" tvg-quality="480p",Solo Bailalo
+https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-name="Stingray Classica" group-title="Music" tvg-language="deu;eng;fra;spa" tvg-quality="480i",Stingray Classica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8
+
+#EXTINF:-1 tvg-id="TeleHit.mx" tvg-name="TeleHit" group-title="Music" tvg-language="eng;spa" tvg-quality="576p",TeleHit
+http://200.115.120.1:8000/play/ca048/index.m3u8
+
+#EXTINF:-1 tvg-id="TelehitMusica.mx" tvg-name="Telehit Musica" group-title="Music" tvg-language="spa" tvg-quality="480i",Telehit Musica
+http://190.61.55.34:2401/play/a06t/index.m3u8
+
+#EXTINF:-1 tvg-id="Totovision.gt" tvg-name="Totovision" group-title="Music" tvg-language="spa" tvg-quality="480i",Totovision
+https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
+
+#EXTINF:-1 tvg-id="TropicalMoonUrbanTV.pa" tvg-name="Tropical Moon Urban TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Tropical Moon Urban TV
+https://sistemastr.tropicalmoonmedia.com:443/live/D8E123ACA054EF85B153C354A481A406/4.m3u8
+
+#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-name="Turbo Mix Radio TV" group-title="Music" tvg-language="spa" tvg-quality="360p",Turbo Mix Radio TV
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+
+#EXTINF:-1 tvg-id="VideoTourChannel.cr" tvg-name="Video Tour Channel" group-title="Music" tvg-language="spa" tvg-quality="480p",Video Tour Channel
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VideoTourChannel.cr" tvg-name="Video Tour Channel" group-title="Music" tvg-language="spa" tvg-quality="480i",Video Tour Channel
+https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
+

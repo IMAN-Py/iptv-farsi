@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LNK.lt" tvg-name="LNK" group-title="General" tvg-language="lit" tvg-quality="1080p",LNK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/30/index.m3u8
+
+#EXTINF:-1 tvg-id="LRTLituanica.lt" tvg-name="LRT Lituanica" group-title="General" tvg-language="lit" tvg-quality="1080p",LRT Lituanica
+https://stream-live.lrt.lt/lituanica/master.m3u8
+
+#EXTINF:-1 tvg-id="LRTTV.lt" tvg-name="LRT TV" group-title="General" tvg-language="lit" tvg-quality="1080p",LRT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/31/index.m3u8
+
+#EXTINF:-1 tvg-id="LRTTV.lt" tvg-name="LRT TV" group-title="General" tvg-language="lit" tvg-quality="1080p",LRT TV
+https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8
+

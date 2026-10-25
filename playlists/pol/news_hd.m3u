@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BTBInfo.pl" tvg-name="BTB Info" group-title="Documentary;News" tvg-language="eng;pol" tvg-quality="1080p",BTB Info
+https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
+
+#EXTINF:-1 tvg-id="BTBInfo.pl" tvg-name="BTB Info" group-title="Documentary;News" tvg-language="eng;pol" tvg-quality="1080p",BTB Info
+https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8
+
+#EXTINF:-1 tvg-id="Euronews.pl" tvg-name="Euronews" group-title="News" tvg-language="pol" tvg-quality="720p",Euronews
+https://7060743b4b224241b86325460b14d152.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/eyJzdGlkIjoiMTE3OTllNGEtYmU1OC00ZjQyLTkxOTYtY2VlYWQzZGU2MDJjIiwibWt0IjoicGwiLCJjaCI6Njc2OSwicHRmIjo1fQ==/26235/euronews-pl.m3u8
+
+#EXTINF:-1 tvg-id="Euronews.pl" tvg-name="Euronews" group-title="News" tvg-language="pol" tvg-quality="720p",Euronews
+https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="Polsat News" group-title="News" tvg-language="pol" tvg-quality="1080p",Polsat News
+https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8
+
+#EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="Polsat News" group-title="News" tvg-language="pol" tvg-quality="1080p",Polsat News
+https://cdn-s-playnow-live.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
+
+#EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-name="Polsat News 2" group-title="News" tvg-language="pol" tvg-quality="1080p",Polsat News 2
+https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd
+
+#EXTINF:-1 tvg-id="PolsatNewsPolityka.pl" tvg-name="Polsat News Polityka" group-title="News" tvg-language="pol" tvg-quality="1080p",Polsat News Polityka
+https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8
+
+#EXTINF:-1 tvg-id="PolsatNewsPolityka.pl" tvg-name="Polsat News Polityka" group-title="News" tvg-language="pol" tvg-quality="1080p",Polsat News Polityka
+https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
+

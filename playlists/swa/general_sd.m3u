@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3StonesTV.ke" tvg-name="3 Stones TV" group-title="General" tvg-language="eng;kik;swa" tvg-quality="240p",3 Stones TV
+https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8
+
+#EXTINF:-1 tvg-id="CMTvKenya.ke" tvg-name="CMTv Kenya" group-title="General" tvg-language="eng;swa" tvg-quality="576p",CMTv Kenya
+https://goliveafrica.media:9998/live/64ede813cfe1a/index.m3u8
+
+#EXTINF:-1 tvg-id="DigitalCongoTV.cd" tvg-name="Digital Congo TV" group-title="General" tvg-language="fra;kon;lin;lua;swa" tvg-quality="576i",Digital Congo TV
+http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
+
+#EXTINF:-1 tvg-id="DodomaTV.tz" tvg-name="Dodoma TV" group-title="General" tvg-language="swa" tvg-quality="360p",Dodoma TV
+https://goliveafrica.media:9998/live/625965017ed69/index.m3u8
+
+#EXTINF:-1 tvg-id="GreatCommissionTV.ke" tvg-name="Great Commission TV" group-title="General" tvg-language="eng;swa" tvg-quality="576i",Great Commission TV
+https://stream-server9-jupiter.muxlive.com/hls/gctvghana/index.m3u8
+
+#EXTINF:-1 tvg-id="LuyaaTV.ke" tvg-name="Luyaa TV" group-title="General" tvg-language="swa" tvg-quality="480p",Luyaa TV
+https://goliveafrica.media:9998/live/659e7c6432815/index.m3u8
+
+#EXTINF:-1 tvg-id="MikubaTV.cd" tvg-name="Mikuba TV" group-title="General" tvg-language="fra;swa" tvg-quality="480p",Mikuba TV
+http://51.254.199.122:8080/MIKUBATV/index.m3u8
+
+#EXTINF:-1 tvg-id="RTNBTV.bi" tvg-name="RTNB TV" group-title="General" tvg-language="eng;fra;run;swa" tvg-quality="576i",RTNB TV
+https://tv1-stream.rtnb.bi/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="TBC1.tz" tvg-name="TBC1" group-title="General" tvg-language="swa" tvg-quality="576i",TBC1
+https://tbc.maintek.co/LiveApp/streams/YF43nTzH0duMyUA2130641323343587.m3u8
+

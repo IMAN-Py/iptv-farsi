@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AdriaMusicTelevision.de" tvg-name="Adria Music Television" group-title="Music" tvg-language="deu" tvg-quality="576i",Adria Music Television
+https://adriaapp.b-cdn.net/1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="FinestTV.de" tvg-name="Finest TV" group-title="Music" tvg-language="deu;tur" tvg-quality="288p",Finest TV
+https://media.finest.tv/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="FolxMusicTelevision.de" tvg-name="Folx Music Television" group-title="Music" tvg-language="deu" tvg-quality="576i",Folx Music Television
+https://folxapp.b-cdn.net/1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="FolxSlovenija.si" tvg-name="Folx Slovenija" group-title="Music" tvg-language="deu" tvg-quality="576i",Folx Slovenija
+https://folxsloapp.b-cdn.net/1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="OneAdria.de" tvg-name="One Adria" group-title="Music" tvg-language="deu" tvg-quality="576i",One Adria
+https://oneadriaapp.b-cdn.net/1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="OneMusicTelevision.de" tvg-name="One Music Television" group-title="Music" tvg-language="deu" tvg-quality="576i",One Music Television
+https://oneapp.b-cdn.net/1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioWeserTVBremen.de" tvg-name="Radio Weser TV Bremen" group-title="Music" tvg-language="deu" tvg-quality="576p",Radio Weser TV Bremen
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioWeserTVBremen.de" tvg-name="Radio Weser TV Bremen" group-title="Music" tvg-language="deu" tvg-quality="576p",Radio Weser TV Bremen
+https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-name="Stingray Classica" group-title="Music" tvg-language="deu;eng;fra;spa" tvg-quality="480i",Stingray Classica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8
+
+#EXTINF:-1 tvg-id="ZweiMusicTelevision.de" tvg-name="Zwei Music Television" group-title="Music" tvg-language="deu" tvg-quality="576i",Zwei Music Television
+https://zweiapp.b-cdn.net/1080p/index.m3u8
+

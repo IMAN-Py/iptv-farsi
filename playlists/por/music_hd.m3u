@@ -1,0 +1,94 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PlusMaisUm.br" tvg-name="+MaisUm" group-title="Entertainment;General;Movies;Music" tvg-language="por" tvg-quality="720p",+MaisUm
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Famatv.pt" tvg-name="Famatv" group-title="Music" tvg-language="por" tvg-quality="1080p",Famatv
+https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
+
+#EXTINF:-1 tvg-id="KuriakosMusic.pt" tvg-name="Kuriakos Music" group-title="Music" tvg-language="por" tvg-quality="1080p",Kuriakos Music
+http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LamoreRockShowWebTV.br" tvg-name="Lamore Rock Show WebTV" group-title="Music" tvg-language="por" tvg-quality="720p",Lamore Rock Show WebTV
+https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop" group-title="Music" tvg-language="por" tvg-quality="1080p",MTV Biggest Pop
+https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
+
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classic" group-title="Music" tvg-language="por" tvg-quality="720p",MTV Classic
+https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
+
+#EXTINF:-1 tvg-id="MusicBoxBrazil.br" tvg-name="Music Box Brazil" group-title="Music" tvg-language="por" tvg-quality="720p",Music Box Brazil
+http://168.197.104.22/MUSIC/index.m3u8
+
+#EXTINF:-1 tvg-id="MusicBoxBrazil.br" tvg-name="Music Box Brazil" group-title="Music" tvg-language="por" tvg-quality="720p",Music Box Brazil
+http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
+
+#EXTINF:-1 tvg-id="MuzangalaTV.ao" tvg-name="Muzangala TV" group-title="Music" tvg-language="por" tvg-quality="1080p",Muzangala TV
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NPCRadioeTV.pt" tvg-name="NPC Radio e TV" group-title="Music" tvg-language="por" tvg-quality="720p",NPC Radio e TV
+https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ONFM.pt" tvg-name="ON FM" group-title="Music" tvg-language="por" tvg-quality="720p",ON FM
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKaraokeporStingray.us" tvg-name="Pluto TV Karaoke por Stingray" group-title="Music" tvg-language="por" tvg-quality="720p",Pluto TV Karaoke por Stingray
+https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVShowsporStingray.us" tvg-name="Pluto TV Shows por Stingray" group-title="Music" tvg-language="por" tvg-quality="720p",Pluto TV Shows por Stingray
+https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
+
+#EXTINF:-1 tvg-id="TikTokRadioBrasil.br" tvg-name="TikTok Radio Brasil" group-title="Music" tvg-language="por" tvg-quality="1080p",TikTok Radio Brasil
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
+
+#EXTINF:-1 tvg-id="TikTokRadioBrasil.br" tvg-name="TikTok Radio Brasil" group-title="Music" tvg-language="por" tvg-quality="720p",TikTok Radio Brasil
+https://jmp2.uk/plu-63dac32bda711800088a2ba3.m3u8
+
+#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-name="Trace Brazuca" group-title="Music" tvg-language="por" tvg-quality="1080p",Trace Brazuca
+https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-name="Trace Brazuca" group-title="Music" tvg-language="por" tvg-quality="1080p",Trace Brazuca
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-name="Trace Brazuca" group-title="Music" tvg-language="por" tvg-quality="1080p",Trace Brazuca
+https://channels.trace.plus/Traceprod/BRAZIL_hd/index.m3u8
+
+#EXTINF:-1 tvg-id="TraceToca.fr" tvg-name="Trace Toca" group-title="Music" tvg-language="por" tvg-quality="1080p",Trace Toca
+https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8
+
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" group-title="Music" tvg-language="eng;fra;por" tvg-quality="1080p",Trace Urban
+https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" group-title="Music" tvg-language="eng;fra;por" tvg-quality="1080p",Trace Urban
+https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" group-title="Music" tvg-language="eng;fra;por" tvg-quality="1080p",Trace Urban
+https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" group-title="Music" tvg-language="eng;fra;por" tvg-quality="720p",Trace Urban
+https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" group-title="Music" tvg-language="eng;fra;por" tvg-quality="1080p",Trace Urban
+https://amg01131-tracetv-traceurbanse-samsungse-ov22d.amagi.tv/playlist/amg01131-tracetv-traceurbanse-samsungse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" group-title="Music" tvg-language="eng;fra;por" tvg-quality="1080p",Trace Urban
+https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" group-title="Music" tvg-language="eng;fra;por" tvg-quality="1080p",Trace Urban
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" group-title="Music" tvg-language="eng;fra;por" tvg-quality="1080p",Trace Urban
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" group-title="Music" tvg-language="eng;fra;por" tvg-quality="1080p",Trace Urban
+https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
+
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" group-title="Music" tvg-language="eng;fra;por" tvg-quality="1080p",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XITENuevoLatino.us" tvg-name="XITE Nuevo Latino" group-title="Music" tvg-language="por;spa" tvg-quality="1080p",XITE Nuevo Latino
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
+
+#EXTINF:-1 tvg-id="XITESiempreLatino.us" tvg-name="XITE Siempre Latino" group-title="Music" tvg-language="por;spa" tvg-quality="1080p",XITE Siempre Latino
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
+

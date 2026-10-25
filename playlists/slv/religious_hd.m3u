@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ExodusTV.si" tvg-name="Exodus TV" group-title="Religious" tvg-language="slv" tvg-quality="720p",Exodus TV
+https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ExodusTV.si" tvg-name="Exodus TV" group-title="Religious" tvg-language="slv" tvg-quality="720p",Exodus TV
+https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8
+

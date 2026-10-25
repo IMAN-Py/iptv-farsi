@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DukhNivaran.ca" tvg-name="Dukh Nivaran" group-title="Culture" tvg-language="pan" tvg-quality="720p",Dukh Nivaran
+http://cdn12.henico.net:8080/live/dncal/index.m3u8
+
+#EXTINF:-1 tvg-id="JusPunjabi.us" tvg-name="Jus Punjabi" group-title="Culture" tvg-language="pan" tvg-quality="1080p",Jus Punjabi
+http://103.154.3.101:5001/live/959.m3u8
+

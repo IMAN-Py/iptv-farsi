@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EuronewsGeorgia.ge" tvg-name="Euronews Georgia" group-title="News" tvg-language="kat" tvg-quality="576i",Euronews Georgia
+http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
+
+#EXTINF:-1 tvg-id="ObieqtiviTV.ge" tvg-name="Obieqtivi TV" group-title="News" tvg-language="kat" tvg-quality="576i",Obieqtivi TV
+https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8
+
+#EXTINF:-1 tvg-id="PalitraNews.ge" tvg-name="Palitra News" group-title="News" tvg-language="kat" tvg-quality="480p",Palitra News
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+
+#EXTINF:-1 tvg-id="PalitraNews.ge" tvg-name="Palitra News" group-title="News" tvg-language="kat" tvg-quality="480p",Palitra News
+https://livestream.palitra.ge/hls/palitratv/index.m3u8
+

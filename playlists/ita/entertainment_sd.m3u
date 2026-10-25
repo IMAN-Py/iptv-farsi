@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="20.it" tvg-name="20" group-title="Entertainment" tvg-language="ita" tvg-quality="576i",20
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" group-title="Entertainment" tvg-language="ita" tvg-quality="576i",Canale 5
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
+
+#EXTINF:-1 tvg-id="CGEntertainment.it" tvg-name="CG Entertainment" group-title="Entertainment" tvg-language="ita" tvg-quality="576i",CG Entertainment
+https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoldTV.it" tvg-name="Gold TV" group-title="Entertainment" tvg-language="ita" tvg-quality="576i",Gold TV
+https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoldTV.it" tvg-name="Gold TV" group-title="Entertainment" tvg-language="ita" tvg-quality="576p",Gold TV
+https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoldTVSat.it" tvg-name="Gold TV Sat" group-title="Entertainment" tvg-language="ita" tvg-quality="576p",Gold TV Sat
+https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IlBancodeiPugni.us" tvg-name="Il Banco dei Pugni" group-title="Entertainment" tvg-language="ita" tvg-quality="576i",Il Banco dei Pugni
+https://jmp2.uk/plu-60e4507a06171800072339a3.m3u8
+
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris" group-title="Entertainment" tvg-language="eng;ita" tvg-quality="576i",Iris
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2" group-title="Entertainment" tvg-language="ita" tvg-quality="480p",Italia 2
+https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2" group-title="Entertainment" tvg-language="ita" tvg-quality="576i",Italia 2
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+
+#EXTINF:-1 tvg-id="La5.it" tvg-name="La5" group-title="Entertainment" tvg-language="ita" tvg-quality="576i",La5
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+
+#EXTINF:-1 tvg-id="PassioneLotto.it" tvg-name="Passione Lotto" group-title="Entertainment" tvg-language="ita" tvg-quality="300p",Passione Lotto
+http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8
+

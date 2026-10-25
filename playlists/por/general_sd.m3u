@@ -1,0 +1,139 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ArarunaTV.br" tvg-name="Araruna TV" group-title="General" tvg-language="por" tvg-quality="480i",Araruna TV
+https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Band.br" tvg-name="Band" group-title="General" tvg-language="por" tvg-quality="576p",Band
+https://media.cdntvms.com.br/band_sat/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalFDR.br" tvg-name="Canal FDR" group-title="Education;General" tvg-language="por" tvg-quality="480i",Canal FDR
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+
+#EXTINF:-1 tvg-id="CanalRicos.br" tvg-name="Canal Ricos" group-title="General" tvg-language="por" tvg-quality="480p",Canal Ricos
+https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalSete.br" tvg-name="Canal Sete" group-title="General" tvg-language="por" tvg-quality="480i",Canal Sete
+http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CinturaoVerde.br" tvg-name="Cinturao Verde" group-title="General" tvg-language="por" tvg-quality="576i",Cinturao Verde
+https://play.redecinturaoverde.com.br/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CulturaPara.br" tvg-name="Cultura Para" group-title="General" tvg-language="por" tvg-quality="480p",Cultura Para
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EUTV.br" tvg-name="EUTV" group-title="General" tvg-language="por" tvg-quality="480i",EUTV
+https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FalaLitoral.br" tvg-name="Fala Litoral" group-title="General" tvg-language="por" tvg-quality="480p",Fala Litoral
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBCBrasilTV.br" tvg-name="MBC Brasil TV" group-title="General" tvg-language="por" tvg-quality="576i",MBC Brasil TV
+https://play.mbcbrasil.tv.br/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ODiaTV.br" tvg-name="O Dia TV" group-title="General" tvg-language="por" tvg-quality="480i",O Dia TV
+https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RCTVBrasil.br" tvg-name="RCTV Brasil" group-title="General" tvg-language="por" tvg-quality="576i",RCTV Brasil
+https://stmv.webtvninjas.com.br/rctv/rctv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record" group-title="General" tvg-language="por" tvg-quality="480i",Record
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record" group-title="General" tvg-language="por" tvg-quality="576p",Record
+https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
+
+#EXTINF:-1 tvg-id="RecordTVInteriorSP.br" tvg-name="RecordTV Interior SP" group-title="General" tvg-language="por" tvg-quality="480i",RecordTV Interior SP
+http://200.77.176.130:8000/udp/224.0.0.4:49152
+
+#EXTINF:-1 tvg-id="RedeCNTSalvador.br" tvg-name="Rede CNT Salvador" group-title="General" tvg-language="por" tvg-quality="576i",Rede CNT Salvador
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
+http://168.205.87.198:8555/live/1368/123456/150.m3u8
+
+#EXTINF:-1 tvg-id="RedeSPTV.br" tvg-name="Rede SPTV" group-title="General" tvg-language="por" tvg-quality="360p",Rede SPTV
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedeTVMais.br" tvg-name="Rede TV! Mais" group-title="General" tvg-language="por" tvg-quality="480i",Rede TV! Mais
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP Acores" group-title="General" tvg-language="por" tvg-quality="504p",RTP Acores
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="RTP Africa" group-title="General" tvg-language="por" tvg-quality="504p",RTP Africa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP Madeira" group-title="General" tvg-language="por" tvg-quality="504p",RTP Madeira
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-name="RTP Memoria" group-title="General" tvg-language="por" tvg-quality="504p",RTP Memoria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTPMundo.pt" tvg-name="RTP Mundo" group-title="General" tvg-language="por" tvg-quality="576i",RTP Mundo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/s/s38/index.m3u8
+
+#EXTINF:-1 tvg-id="RTPMundo.pt" tvg-name="RTP Mundo" group-title="General" tvg-language="por" tvg-quality="504p",RTP Mundo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBTCuiaba.br" tvg-name="SBT Cuiaba" group-title="General" tvg-language="por" tvg-quality="480i",SBT Cuiaba
+https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SOUTV.br" tvg-name="SOU TV" group-title="General" tvg-language="por" tvg-quality="480i",SOU TV
+https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVAlternativa.br" tvg-name="TV Alternativa" group-title="General" tvg-language="por" tvg-quality="410p",TV Alternativa
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBirigui.br" tvg-name="TV Birigui" group-title="General" tvg-language="por" tvg-quality="320p",TV Birigui
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+
+#EXTINF:-1 tvg-id="TVBirigui.br" tvg-name="TV Birigui" group-title="General" tvg-language="por" tvg-quality="640p",TV Birigui
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBirigui.br" tvg-name="TV Birigui" group-title="General" tvg-language="por" tvg-quality="320p",TV Birigui
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVComunitaria.br" tvg-name="TV Comunitaria" group-title="General" tvg-language="por" tvg-quality="360p",TV Comunitaria
+https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
+
+#EXTINF:-1 tvg-id="TVDestak.br" tvg-name="TV Destak" group-title="General" tvg-language="por" tvg-quality="360p",TV Destak
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+
+#EXTINF:-1 tvg-id="TVDestak.br" tvg-name="TV Destak" group-title="General" tvg-language="por" tvg-quality="360p",TV Destak
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVDestak.br" tvg-name="TV Destak" group-title="General" tvg-language="por" tvg-quality="320p",TV Destak
+https://59f2354c05961.streamlock.net:1443/pascoal/pascoal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVEncontrodasAguas.br" tvg-name="TV Encontro das Aguas" group-title="General" tvg-language="por" tvg-quality="480i",TV Encontro das Aguas
+https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSaoRaimundo.br" tvg-name="TV Sao Raimundo" group-title="General" tvg-language="por" tvg-quality="268p",TV Sao Raimundo
+https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCRio.br" tvg-name="TVC-Rio" group-title="General" tvg-language="por" tvg-quality="480i",TVC-Rio
+https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCOMMaceio.br" tvg-name="TVCOM Maceio" group-title="General" tvg-language="por" tvg-quality="480p",TVCOM Maceio
+https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" group-title="General" tvg-language="por" tvg-quality="576i",TVI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://zntx.dyndns.org:8085/hls/tvi.m3u8
+
+#EXTINF:-1 tvg-id="TVM.mz" tvg-name="TVM" group-title="General" tvg-language="por" tvg-quality="480p",TVM
+http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVM.mz" tvg-name="TVM" group-title="General" tvg-language="por" tvg-quality="480p",TVM
+http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVM.mz" tvg-name="TVM" group-title="General" tvg-language="por" tvg-quality="576i",TVM
+https://stream.tvm.co.mz/hls/tvm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMInternacional.mz" tvg-name="TVM Internacional" group-title="General" tvg-language="por" tvg-quality="480p",TVM Internacional
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+

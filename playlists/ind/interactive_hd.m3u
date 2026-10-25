@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SuaraSurabayaVisualRadio.id" tvg-name="Suara Surabaya Visual Radio" group-title="Interactive;News" tvg-language="ind" tvg-quality="720p",Suara Surabaya Visual Radio
+#EXTVLCOPT:http-referrer=https://www.suarasurabaya.net/
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
+

@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AdrenalinaPuraTV.us" tvg-name="Adrenalina Pura TV" group-title="Movies" tvg-language="por" tvg-quality="576i",Adrenalina Pura TV
+https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
+
+#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN" group-title="Movies" tvg-language="por" tvg-quality="576i",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://znty.dyndns.org:5010/hls/axn.m3u8
+
+#EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-name="Classique TV" group-title="Movies" tvg-language="por" tvg-quality="360p",Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GhostTV.br" tvg-name="Ghost TV" group-title="Movies" tvg-language="por" tvg-quality="712p",Ghost TV
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarMovies.pt" tvg-name="Star Movies" group-title="Movies" tvg-language="por" tvg-quality="576i",Star Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://znty.dyndns.org:5010/hls/foxm.m3u8
+

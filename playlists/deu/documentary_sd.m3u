@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="kabeleinsDoku.de" tvg-name="kabel eins Doku" group-title="Documentary" tvg-language="deu" tvg-quality="576i",kabel eins Doku
+http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass
+
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku" group-title="Documentary" tvg-language="deu" tvg-quality="576i",N24 Doku
+https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
+

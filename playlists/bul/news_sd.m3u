@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BulgariaOnAir.bg" tvg-name="Bulgaria On Air" group-title="News" tvg-language="bul" tvg-quality="576i",Bulgaria On Air
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a05x
+
+#EXTINF:-1 tvg-id="EuronewsBulgaria.bg" tvg-name="Euronews Bulgaria" group-title="News" tvg-language="bul" tvg-quality="576i",Euronews Bulgaria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a05e
+
+#EXTINF:-1 tvg-id="NovaNews.bg" tvg-name="Nova News" group-title="News" tvg-language="bul" tvg-quality="576i",Nova News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a063
+

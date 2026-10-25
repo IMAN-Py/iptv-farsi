@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EBS1TV.kr" tvg-name="EBS 1TV" group-title="Education" tvg-language="kor" tvg-quality="400p",EBS 1TV
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBS1TV.kr" tvg-name="EBS 1TV" group-title="Education" tvg-language="kor" tvg-quality="400p",EBS 1TV
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBS2TV.kr" tvg-name="EBS 2TV" group-title="Education" tvg-language="kor" tvg-quality="400p",EBS 2TV
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-name="EBS English" group-title="Education" tvg-language="eng;kor" tvg-quality="400p",EBS English
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-name="EBS Plus 1" group-title="Education" tvg-language="kor" tvg-quality="400p",EBS Plus 1
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-name="EBS Plus 2" group-title="Education" tvg-language="eng;kor" tvg-quality="400p",EBS Plus 2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+

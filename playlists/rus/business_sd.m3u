@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="100NEWS.ua" tvg-name="100% NEWS" group-title="Business;News" tvg-language="rus;ukr" tvg-quality="576p",100% NEWS
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+
+#EXTINF:-1 tvg-id="AtamekenBusiness.kz" tvg-name="Atameken Business" group-title="Business" tvg-language="rus" tvg-quality="576p",Atameken Business
+https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-language="rus" tvg-quality="576p",RBK-TV
+http://176.118.197.101/RBK/index.m3u8
+
+#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-language="rus" tvg-quality="576p",RBK-TV
+http://31.148.48.15/RBK/index.m3u8
+
+#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-language="rus" tvg-quality="560p",RBK-TV
+http://92.50.128.180/utv/1358/index.m3u8
+
+#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-language="rus" tvg-quality="576p",RBK-TV
+http://hls127.freeott.top:8080/RBK/video.m3u8
+
+#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-language="rus" tvg-quality="576i",RBK-TV
+http://online-video.rbc.ru/online2/rbctv.m3u8
+
+#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-language="rus" tvg-quality="576p",RBK-TV
+https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+
+#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" group-title="Business" tvg-language="rus" tvg-quality="576p",RBK-TV
+https://uiptv.do.am/1ufc/701293058/playlist.m3u8
+

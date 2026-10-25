@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NosTVBonaire2.bq" tvg-name="NosTV Bonaire 2" group-title="General" tvg-language="nld;pap" tvg-quality="576i",NosTV Bonaire 2
+https://stream2.nostvbonaire.com/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="TVDirect13.cw" tvg-name="TV Direct 13" group-title="General" tvg-language="nld;pap" tvg-quality="480p",TV Direct 13
+https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+

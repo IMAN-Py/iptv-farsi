@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MiMiTV.uz" tvg-name="MiMi TV" group-title="Kids" tvg-language="uzb" tvg-quality="720p",MiMi TV
+https://fl.biztv.media/MiMiTV_720/playlist.m3u8
+

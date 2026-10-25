@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla" group-title="General" tvg-language="ben" tvg-quality="720p",ATN Bangla
+http://tvsen5.aynascope.net/atnbangla/index.m3u8
+
+#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla" group-title="General" tvg-language="ben" tvg-quality="720p",ATN Bangla
+https://tvsen5.aynaott.com/atnbangla/index.m3u8
+
+#EXTINF:-1 tvg-id="BanglaVision.bd" tvg-name="Bangla Vision" group-title="General" tvg-language="ben" tvg-quality="720p",Bangla Vision
+https://tvsen5.aynaott.com/banglavision/index.m3u8
+
+#EXTINF:-1 tvg-id="DeshiTV.ca" tvg-name="Deshi TV" group-title="General" tvg-language="ben" tvg-quality="720p",Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GaziTV.bd" tvg-name="Gazi TV" group-title="General" tvg-language="ben" tvg-quality="1080p",Gazi TV
+http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
+
+#EXTINF:-1 tvg-id="JonmoBhumiTV.au" tvg-name="JonmoBhumi TV" group-title="General" tvg-language="ben" tvg-quality="720p",JonmoBhumi TV
+https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTVBangla.in" tvg-name="KTV Bangla" group-title="General" tvg-language="ben;sat" tvg-quality="720p",KTV Bangla
+https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
+
+#EXTINF:-1 tvg-id="NTV.bd" tvg-name="NTV" group-title="General" tvg-language="ben" tvg-quality="720p",NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+
+#EXTINF:-1 tvg-id="RajdhaniTV.bd" tvg-name="Rajdhani TV" group-title="General" tvg-language="ben" tvg-quality="1080p",Rajdhani TV
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+
+#EXTINF:-1 tvg-id="RTV.bd" tvg-name="RTV" group-title="General" tvg-language="ben" tvg-quality="720p",RTV
+http://tvsen5.aynascope.net/RtvHD/index.m3u8
+
+#EXTINF:-1 tvg-id="RTV.bd" tvg-name="RTV" group-title="General" tvg-language="ben" tvg-quality="720p",RTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="RTV.bd" tvg-name="RTV" group-title="General" tvg-language="ben" tvg-quality="720p",RTV
+https://tvsen5.aynaott.com/RtvHD/index.m3u8
+
+#EXTINF:-1 tvg-id="VoktaTV.bd" tvg-name="Vokta TV" group-title="General" tvg-language="ben" tvg-quality="720p",Vokta TV
+https://vokta.raytahost.com/live/voktatv/index.m3u8
+

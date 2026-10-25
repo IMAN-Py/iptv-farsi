@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BiznetKids.id" tvg-name="Biznet Kids" group-title="Kids" tvg-language="ind" tvg-quality="1080p",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="MyKidz.id" tvg-name="My Kidz" group-title="Kids" tvg-language="ind" tvg-quality="720p",My Kidz
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+
+#EXTINF:-1 tvg-id="VTV.id" tvg-name="VTV" group-title="Kids" tvg-language="ind" tvg-quality="1080p",VTV
+http://202.150.172.59/VTVHD/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV.id" tvg-name="VTV" group-title="Kids" tvg-language="ind" tvg-quality="1080p",VTV
+http://ikitv.sqn.at:8000/play/a023/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV.id" tvg-name="VTV" group-title="Kids" tvg-language="ind" tvg-quality="720p",VTV
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch107.m3u8
+

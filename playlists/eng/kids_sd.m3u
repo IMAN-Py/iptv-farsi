@@ -1,0 +1,242 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" group-title="Animation;Kids;Religious" tvg-language="eng" tvg-quality="480i",3ABN Kids
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABCKids.au" tvg-name="ABC Kids" group-title="Kids" tvg-language="eng" tvg-quality="576i",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1 tvg-id="AkiliKids.ke" tvg-name="Akili Kids!" group-title="Kids" tvg-language="eng;swa" tvg-quality="576i",Akili Kids!
+https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Aqlvoy.uz" tvg-name="Aqlvoy" group-title="Kids" tvg-language="eng;rus;uzb" tvg-quality="576i",Aqlvoy
+https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BabySharkTV.us" tvg-name="Baby Shark TV" group-title="Kids" tvg-language="eng" tvg-quality="480i",Baby Shark TV
+https://jmp2.uk/plu-60faffc3fbbc120007fc4376.m3u8
+
+#EXTINF:-1 tvg-id="BabySharkTV.us" tvg-name="Baby Shark TV" group-title="Kids" tvg-language="eng" tvg-quality="480i",Baby Shark TV
+https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8
+
+#EXTINF:-1 tvg-id="BabySharkTV.us" tvg-name="Baby Shark TV" group-title="Kids" tvg-language="eng" tvg-quality="480i",Baby Shark TV
+https://jmp2.uk/plu-63da6bcd60bc8f0008a5d364.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="480i",BabyFirst
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+
+#EXTINF:-1 tvg-id="CampSpoopy.us" tvg-name="Camp Spoopy" group-title="Kids" tvg-language="eng" tvg-quality="576p",Camp Spoopy
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+
+#EXTINF:-1 tvg-id="CartoonNetwork.pk" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;urd" tvg-quality="576i",Cartoon Network
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="480i",Cartoon Network
+https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8
+
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC" group-title="Kids" tvg-language="eng" tvg-quality="576i",CBBC
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-id="CBeebies.pl" tvg-name="CBeebies" group-title="Kids" tvg-language="eng;pol" tvg-quality="576p",CBeebies
+http://92.114.85.87:8017/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-id="CBeebies.pl" tvg-name="CBeebies" group-title="Kids" tvg-language="eng;pol" tvg-quality="360p",CBeebies
+https://gist.githubusercontent.com/xykt-fix/e01ce187bbad74d0a0c5a86e0fc1b885/raw/eb00491161b819c2321733e929a27aeb2972b416/cbeeb-stream.m3u8
+
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies" group-title="Kids" tvg-language="eng" tvg-quality="576i",CBeebies
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-name="Disney Channel" group-title="Kids" tvg-language="bul;eng" tvg-quality="576i",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a059
+
+#EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-name="Disney Channel" group-title="Kids" tvg-language="bul;eng" tvg-quality="576i",Disney Channel
+http://87.120.179.187:8000/play/a010
+
+#EXTINF:-1 tvg-id="DisneyInternationalHD.in" tvg-name="Disney International HD" group-title="Kids" tvg-language="eng" tvg-quality="576p",Disney International HD
+http://103.151.60.162:2122/play/a018/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="DisneyJunior.in" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Disney Junior
+http://103.151.60.162:2122/play/a016/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="DisneyJunior.ro" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng" tvg-quality="576i",Disney Junior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="576p",Disney Junior
+http://212.5.144.156/disneyjr/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="480p",Disney Junior
+http://tvsen5.aynascope.net/disney/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="480p",Disney Junior
+http://tvsen7.aynascope.net/disney/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="480p",Disney Junior
+http://tvsen7.aynascope.net/disneyjr/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="480p",Disney Junior
+https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F212.5.144.156%3A8080%2Fdisneyjr%2Ftracks-v1a1%2Fmono.m3u8
+
+#EXTINF:-1 tvg-id="ETVBalBharat.in" tvg-name="ETV Bal Bharat" group-title="Kids" tvg-language="asm;ben;eng;guj;hin;kan;mal;mar;ori;pan;tam;tel" tvg-quality="576p",ETV Bal Bharat
+http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
+
+#EXTINF:-1 tvg-id="ForeverKids.us" tvg-name="Forever Kids" group-title="Kids" tvg-language="eng" tvg-quality="480i",Forever Kids
+https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
+
+#EXTINF:-1 tvg-id="GarfieldandFriends.us" tvg-name="Garfield and Friends" group-title="Kids" tvg-language="eng" tvg-quality="480i",Garfield and Friends
+https://jmp2.uk/plu-60faf9ddfcc1f200070a5932.m3u8
+
+#EXTINF:-1 tvg-id="GarfieldandFriends.us" tvg-name="Garfield and Friends" group-title="Kids" tvg-language="eng" tvg-quality="480i",Garfield and Friends
+https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
+
+#EXTINF:-1 tvg-id="GiggleMug.us" tvg-name="Giggle Mug" group-title="Kids" tvg-language="eng" tvg-quality="576p",Giggle Mug
+https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8
+
+#EXTINF:-1 tvg-id="GiggleMug.us" tvg-name="Giggle Mug" group-title="Kids" tvg-language="eng" tvg-quality="576p",Giggle Mug
+https://tvsen6.aynaott.com/ytv/index.m3u8
+
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-name="God Stands Kids Club TV" group-title="Kids;Religious" tvg-language="eng" tvg-quality="480i",God Stands Kids Club TV
+https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
+
+#EXTINF:-1 tvg-id="HappyKids.us" tvg-name="HappyKids" group-title="Kids" tvg-language="eng" tvg-quality="576p",HappyKids
+https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8
+
+#EXTINF:-1 tvg-id="JimJam.hu" tvg-name="JimJam" group-title="Kids" tvg-language="eng;hun" tvg-quality="576i",JimJam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/jim_jam_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" group-title="Kids" tvg-language="ces;eng;heb;por;slk" tvg-quality="576p",JimJam Europe
+http://158.160.149.81:8080/269/index.m3u8
+
+#EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" group-title="Kids" tvg-language="ces;eng;heb;por;slk" tvg-quality="576p",JimJam Europe
+http://stream.mcquack.net/150/index.m3u8
+
+#EXTINF:-1 tvg-id="KidsMovieClub.us" tvg-name="Kids Movie Club" group-title="Kids;Movies" tvg-language="eng" tvg-quality="480i",Kids Movie Club
+https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
+
+#EXTINF:-1 tvg-id="LEGOKidsTV.us" tvg-name="LEGO Kids TV" group-title="Kids" tvg-language="eng" tvg-quality="480i",LEGO Kids TV
+https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
+
+#EXTINF:-1 tvg-id="LittleStarsUniverse.us" tvg-name="Little Stars Universe" group-title="Kids" tvg-language="eng" tvg-quality="480i",Little Stars Universe
+https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8
+
+#EXTINF:-1 tvg-id="LucasFriends.us" tvg-name="Lucas & Friends" group-title="Kids" tvg-language="eng" tvg-quality="576i",Lucas & Friends
+https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8
+
+#EXTINF:-1 tvg-id="MinikaGo.tr" tvg-name="Minika Go" group-title="Kids" tvg-language="eng;tur" tvg-quality="576p",Minika Go
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+
+#EXTINF:-1 tvg-id="Minimax.ro" tvg-name="Minimax" group-title="Animation;Kids" tvg-language="eng;hun;ron" tvg-quality="576i",Minimax
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
+
+#EXTINF:-1 tvg-id="MinimaxCEE.cz" tvg-name="Minimax CEE" group-title="Kids" tvg-language="eng" tvg-quality="576p",Minimax CEE
+http://88.212.15.17/live/test_minimax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-name="Moonbug Kids" group-title="Kids" tvg-language="eng" tvg-quality="576p",Moonbug Kids
+https://tvsen6.aynaott.com/MoonbugKids/index.m3u8
+
+#EXTINF:-1 tvg-id="NCMEducationalKidsChannel.us" tvg-name="NCM Educational & Kids Channel" group-title="Education;Kids" tvg-language="eng" tvg-quality="480i",NCM Educational & Kids Channel
+https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
+
+#EXTINF:-1 tvg-id="NewChannel.ca" tvg-name="New Channel" group-title="Kids;Music" tvg-language="eng" tvg-quality="480p",New Channel
+#EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6ab2104508fd5ee36702e3d4
+https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8
+
+#EXTINF:-1 tvg-id="NewChannelPop.ca" tvg-name="New Channel Pop!" group-title="Kids" tvg-language="eng;ind;msa;por;rus" tvg-quality="480p",New Channel Pop!
+#EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6ab37c6c7e057f9063071c85
+https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.cz" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng" tvg-quality="576i",Nick Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_nick_jr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
+http://103.151.60.162:2122/play/a00s/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
+http://103.185.24.134:3001/NICK-JR/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
+http://202.70.146.135:8000/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.it" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;ita" tvg-quality="576i",Nick Jr.
+https://streamer-jv9.pages.dev/italy/nickjr.m3u
+
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" group-title="Kids" tvg-language="deu;eng" tvg-quality="576i",Nickelodeon
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" group-title="Kids" tvg-language="deu;eng" tvg-quality="576i",Nickelodeon
+https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.ru" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng;rus" tvg-quality="576p",Nickelodeon
+http://stream.mcquack.net/443/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng" tvg-quality="576p",Nickelodeon
+http://tvsen7.aynascope.net/nicklodean/index.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonGlobal.uk" tvg-name="Nickelodeon Global" group-title="Kids" tvg-language="eng" tvg-quality="576p",Nickelodeon Global
+http://103.151.60.162:2122/play/a017/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Nicktoons.pl" tvg-name="Nicktoons" group-title="Kids" tvg-language="eng" tvg-quality="576i",Nicktoons
+http://92.114.85.87:8013/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.ro" tvg-name="Nicktoons" group-title="Kids" tvg-language="eng" tvg-quality="576i",Nicktoons
+http://178.76.68.60:7442/80/mpegts
+
+#EXTINF:-1 tvg-id="Nicktoons.ro" tvg-name="Nicktoons" group-title="Kids" tvg-language="eng" tvg-quality="576i",Nicktoons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8
+
+#EXTINF:-1 tvg-id="NinjaKidzTV.us" tvg-name="Ninja Kidz TV" group-title="Kids" tvg-language="eng" tvg-quality="480i",Ninja Kidz TV
+https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PolsatJimJam.pl" tvg-name="Polsat JimJam" group-title="Kids" tvg-language="eng;pol" tvg-quality="576p",Polsat JimJam
+http://185.227.34.179:8080/jimjam/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatJimJam.pl" tvg-name="Polsat JimJam" group-title="Kids" tvg-language="eng;pol" tvg-quality="576i",Polsat JimJam
+http://92.114.85.87:8014/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-id="RyanandFriends.us" tvg-name="Ryan and Friends" group-title="Kids" tvg-language="eng" tvg-quality="480i",Ryan and Friends
+https://jmp2.uk/plu-5fb584b7613a31000789de5a.m3u8
+
+#EXTINF:-1 tvg-id="SCorbyTV.us" tvg-name="S Corby TV" group-title="Kids" tvg-language="eng" tvg-quality="480p",S Corby TV
+https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8
+
+#EXTINF:-1 tvg-id="SmurfTV.us" tvg-name="Smurf TV" group-title="Kids" tvg-language="eng" tvg-quality="480p",Smurf TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065
+
+#EXTINF:-1 tvg-id="SuperHungama.in" tvg-name="Super Hungama" group-title="Animation;Kids" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Super Hungama
+http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
+
+#EXTINF:-1 tvg-id="TeenNick.il" tvg-name="TeenNick" group-title="Kids" tvg-language="eng" tvg-quality="406p",TeenNick
+http://89.33.29.115:8080/TeenNick/index.m3u8
+
+#EXTINF:-1 tvg-id="TeenNick.pl" tvg-name="TeenNick" group-title="Kids" tvg-language="eng" tvg-quality="576i",TeenNick
+http://92.114.85.87:8010/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-id="TeenNick.us" tvg-name="TeenNick" group-title="Kids" tvg-language="eng" tvg-quality="432p",TeenNick
+http://tvsen7.aynascope.net/teennick/index.m3u8
+
+#EXTINF:-1 tvg-id="Teletubbies.uk" tvg-name="Teletubbies" group-title="Kids" tvg-language="eng" tvg-quality="576i",Teletubbies
+https://jmp2.uk/plu-64e50055286f6b000838c067.m3u8
+
+#EXTINF:-1 tvg-id="Teletubbies.uk" tvg-name="Teletubbies" group-title="Kids" tvg-language="eng" tvg-quality="576i",Teletubbies
+https://jmp2.uk/plu-66a10eeb46762a0008201e85.m3u8
+
+#EXTINF:-1 tvg-id="TinyPop.uk" tvg-name="Tiny Pop" group-title="Kids" tvg-language="eng" tvg-quality="576p",Tiny Pop
+http://92.114.85.72:8000/play/a08g
+
+#EXTINF:-1 tvg-id="TinyPop.uk" tvg-name="Tiny Pop" group-title="Kids" tvg-language="eng" tvg-quality="576p",Tiny Pop
+http://92.114.85.72:8000/play/a08p
+
+#EXTINF:-1 tvg-id="TotallyTurtles.us" tvg-name="Totally Turtles" group-title="Kids" tvg-language="eng" tvg-quality="480i",Totally Turtles
+https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8
+
+#EXTINF:-1 tvg-id="TVOKids.ca" tvg-name="TVOKids" group-title="Kids" tvg-language="eng" tvg-quality="480i",TVOKids
+https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSPinballNetwork.us" tvg-name="TVS Pinball Network" group-title="Kids" tvg-language="eng" tvg-quality="480p",TVS Pinball Network
+https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
+

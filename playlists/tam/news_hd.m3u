@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MalaiMurasuTV.in" tvg-name="Malai Murasu TV" group-title="News" tvg-language="tam" tvg-quality="1080p",Malai Murasu TV
+https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-amg17783c1-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MalaiMurasuTV.in" tvg-name="Malai Murasu TV" group-title="News" tvg-language="tam" tvg-quality="720p",Malai Murasu TV
+https://cdn.pishow.tv/ott/live/1606/master.m3u8
+
+#EXTINF:-1 tvg-id="NewsJ.in" tvg-name="News J" group-title="News" tvg-language="tam" tvg-quality="720p",News J
+https://cdn.pishow.tv/ott/live/1279/master.m3u8
+
+#EXTINF:-1 tvg-id="News18TamilNadu.in" tvg-name="News18 Tamil Nadu" group-title="News" tvg-language="tam" tvg-quality="1080p",News18 Tamil Nadu
+https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="PuthiyaThalaimuraiExpress.in" tvg-name="Puthiya Thalaimurai Express" group-title="News" tvg-language="tam" tvg-quality="720p",Puthiya Thalaimurai Express
+https://samitaorigin.tangotv.in/PUTHIYAEXPRESS/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeTamilNews.in" tvg-name="Zee Tamil News" group-title="News" tvg-language="tam" tvg-quality="720p",Zee Tamil News
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
+

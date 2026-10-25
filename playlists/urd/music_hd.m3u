@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="8XM.pk" tvg-name="8XM" group-title="Music" tvg-language="urd" tvg-quality="1080p",8XM
+https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ARYMusik.pk" tvg-name="ARY Musik" group-title="Music" tvg-language="urd" tvg-quality="1080p",ARY Musik
+#EXTVLCOPT:http-referrer=https://live.arydigital.tv/
+https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
+
+#EXTINF:-1 tvg-id="JooMusic.pk" tvg-name="JooMusic" group-title="Music" tvg-language="eng;urd" tvg-quality="720p",JooMusic
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+

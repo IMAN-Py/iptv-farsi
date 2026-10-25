@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CNBCBajar.in" tvg-name="CNBC Bajar" group-title="Business" tvg-language="guj" tvg-quality="1080p",CNBC Bajar
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="NewsCapitalMarket.in" tvg-name="News Capital Market" group-title="Business" tvg-language="guj" tvg-quality="1080p",News Capital Market
+https://newscapital.com/hls/stream.m3u8?token=Nc360PermanentSecureKey987
+

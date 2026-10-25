@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GanjeHozourTV.us" tvg-name="Ganj e Hozour TV" group-title="General" tvg-language="fas" tvg-quality="1080p",Ganj e Hozour TV
+https://media.parvizshahbazi.com/ganjehozour/Main_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IRIBUHD.ir" tvg-name="IRIB UHD" group-title="General" tvg-language="fas" tvg-quality="2160p",IRIB UHD
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBCTapeshTV.us" tvg-name="PBC Tapesh TV" group-title="General" tvg-language="fas" tvg-quality="720p",PBC Tapesh TV
+https://iptv.tapesh.tv/tapesh/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SimayeAzadi.uk" tvg-name="Simaye Azadi" group-title="General" tvg-language="fas" tvg-quality="1080p",Simaye Azadi
+https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
+
+#EXTINF:-1 tvg-id="TMTV.us" tvg-name="TM TV" group-title="General" tvg-language="fas" tvg-quality="720p",TM TV
+https://hls.tmtv.live/hls/stream.m3u8
+

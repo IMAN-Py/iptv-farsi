@@ -1,0 +1,231 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1KZNTV.za" tvg-name="1KZN TV" group-title="Entertainment;Family;General" tvg-language="eng" tvg-quality="576p",1KZN TV
+https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5USA.uk" tvg-name="5USA" group-title="Entertainment" tvg-language="eng" tvg-quality="360p",5USA
+https://lb.iptvnetwork.net/ls28/10115/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us" tvg-name="Absolute Reality by WE TV" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Absolute Reality by WE TV
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AceTV.us" tvg-name="Ace TV" group-title="Entertainment" tvg-language="eng" tvg-quality="480p",Ace TV
+https://c.streamhoster.com/link/hls/W5s3fS/inLo5pcsHjo/iqg9wps0m1x_5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwim.us" tvg-name="Adult Swim" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="480i",Adult Swim
+https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-id="ALLBLKGems.us" tvg-name="ALLBLK Gems" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",ALLBLK Gems
+https://jmp2.uk/plu-6793ea255225b515b4ba91a7.m3u8
+
+#EXTINF:-1 tvg-id="APTV.gh" tvg-name="AP TV" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",AP TV
+https://59nyqg8elwap-hls-live.5centscdn.com/APTV/85c20905211659d143febd7c32592ee0.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArubaTVPlus.aw" tvg-name="ArubaTV +" group-title="Entertainment" tvg-language="eng;nld;pap" tvg-quality="480i",ArubaTV +
+https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",AXN White
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8
+
+#EXTINF:-1 tvg-id="BBCFirst.uk" tvg-name="BBC First" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",BBC First
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/bbc_first/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCFirst.uk" tvg-name="BBC First" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",BBC First
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8
+
+#EXTINF:-1 tvg-id="BestofDrPhil.us" tvg-name="Best of Dr Phil" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Best of Dr Phil
+http://88.218.227.85:8080/60f760bbdf090700075d7bfe?mode=hls
+
+#EXTINF:-1 tvg-id="BestofDrPhil.us" tvg-name="Best of Dr Phil" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Best of Dr Phil
+https://jmp2.uk/plu-60f760bbdf090700075d7bfe.m3u8
+
+#EXTINF:-1 tvg-id="BestofDrPhil.us" tvg-name="Best of Dr Phil" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Best of Dr Phil
+https://jmp2.uk/plu-65a7b01907e03a0008913e8f.m3u8
+
+#EXTINF:-1 tvg-id="BestofDrPhil.us" tvg-name="Best of Dr Phil" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Best of Dr Phil
+https://jmp2.uk/plu-666815f24b9fb400083f7e31.m3u8
+
+#EXTINF:-1 tvg-id="BETPlutoTV.us" tvg-name="BET Pluto TV" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",BET Pluto TV
+https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8
+
+#EXTINF:-1 tvg-id="Blaze.uk" tvg-name="Blaze" group-title="Entertainment" tvg-language="eng" tvg-quality="576p",Blaze
+https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
+
+#EXTINF:-1 tvg-id="BounceXL.us" tvg-name="Bounce XL" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Bounce XL
+https://jmp2.uk/plu-6176fd25e83a5f0007a464c9.m3u8
+
+#EXTINF:-1 tvg-id="BTV.ug" tvg-name="BTV" group-title="Entertainment" tvg-language="eng" tvg-quality="480p",BTV
+https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Channel200.nz" tvg-name="Channel 200" group-title="Entertainment" tvg-language="eng" tvg-quality="540p",Channel 200
+https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+
+#EXTINF:-1 tvg-id="CrimePlusInvestigationCEE.uk" tvg-name="Crime + Investigation CEE" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",Crime + Investigation CEE
+http://88.212.15.17/live/test_cai_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4" group-title="Entertainment" tvg-language="eng" tvg-quality="360p",E4
+https://lb.iptvnetwork.net/ls28/10113/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElRey.us" tvg-name="El Rey" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",El Rey
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1544
+
+#EXTINF:-1 tvg-id="FORTTV.ug" tvg-name="FORT TV" group-title="Entertainment" tvg-language="eng" tvg-quality="480p",FORT TV
+https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8
+
+#EXTINF:-1 tvg-id="Fox.pl" tvg-name="Fox" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",Fox
+http://92.114.85.87:8015/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="GameShowCentral.us" tvg-name="Game Show Central" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Game Show Central
+https://jmp2.uk/plu-62e90e8cb05d2b0007f10a61.m3u8
+
+#EXTINF:-1 tvg-id="Gametoon.nl" tvg-name="Gametoon" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",Gametoon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://webtvstream.bhtelecom.ba/gametoon.m3u8
+
+#EXTINF:-1 tvg-id="Heartland.us" tvg-name="Heartland" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Heartland
+https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8
+
+#EXTINF:-1 tvg-id="HiDost.in" tvg-name="Hi Dost!" group-title="Entertainment" tvg-language="eng" tvg-quality="576p",Hi Dost!
+https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8
+
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris" group-title="Entertainment" tvg-language="eng;ita" tvg-quality="576i",Iris
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+
+#EXTINF:-1 tvg-id="IslandLuckTV.bs" tvg-name="Island Luck TV" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Island Luck TV
+https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV3" group-title="Entertainment" tvg-language="eng" tvg-quality="360p",ITV3
+https://lb.iptvnetwork.net/ls28/10107/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LogoPlutoTV.us" tvg-name="Logo Pluto TV" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Logo Pluto TV
+https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8
+
+#EXTINF:-1 tvg-id="MHZ.ca" tvg-name="MHZ" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",MHZ
+https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MoreTVDrama.us" tvg-name="More TV Drama" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",More TV Drama
+https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8
+
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="More4" group-title="Entertainment" tvg-language="eng" tvg-quality="360p",More4
+https://lb.iptvnetwork.net/ls28/10114/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTV.de" tvg-name="MTV" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",MTV
+https://ma.anixa.tv/clips/stream/mtv/playlist.php
+
+#EXTINF:-1 tvg-id="MTVenEspanol.us" tvg-name="MTV en Espanol" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="480i",MTV en Espanol
+https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
+
+#EXTINF:-1 tvg-id="MTVGlobal.uk" tvg-name="MTV Global" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",MTV Global
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.67:5000
+
+#EXTINF:-1 tvg-id="MTVGlobal.uk" tvg-name="MTV Global" group-title="Entertainment" tvg-language="eng" tvg-quality="576p",MTV Global
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/MTVEurope/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVPlutoTV.us" tvg-name="MTV Pluto TV" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",MTV Pluto TV
+https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
+
+#EXTINF:-1 tvg-id="MysteryTV.us" tvg-name="Mystery TV" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",Mystery TV
+https://jmp2.uk/plu-61c4a09d6c959f0007189c93.m3u8
+
+#EXTINF:-1 tvg-id="NuViewTV.za" tvg-name="NuView TV" group-title="Entertainment" tvg-language="eng" tvg-quality="360p",NuView TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OmideIranTV.us" tvg-name="Omid e Iran TV" group-title="Entertainment" tvg-language="eng;fas" tvg-quality="480i",Omid e Iran TV
+https://oitnhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ParanormalState.us" tvg-name="Paranormal State" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",Paranormal State
+https://jmp2.uk/plu-60804d85858bd00007c5d591.m3u8
+
+#EXTINF:-1 tvg-id="PeopleAreAwesome.us" tvg-name="People Are Awesome" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",People Are Awesome
+https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PeopleAreAwesome.us" tvg-name="People Are Awesome" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",People Are Awesome
+https://jukin-peopleareawesome-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PeopleAreAwesome.us" tvg-name="People Are Awesome" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",People Are Awesome
+https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PeopleAreAwesome.us" tvg-name="People Are Awesome" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",People Are Awesome
+https://jukin-peopleareawesome-2-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PeopleAreAwesome.us" tvg-name="People Are Awesome" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",People Are Awesome
+https://jukin-peopleareawesome-2-se.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVGameShows.us" tvg-name="Pluto TV Game Shows" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Pluto TV Game Shows
+https://jmp2.uk/plu-6036e7c385749f00075dbd3b.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVReality.us" tvg-name="Pluto TV Reality" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Pluto TV Reality
+https://jmp2.uk/plu-5d8bf0b06d2d855ee15115e3.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVReality.us" tvg-name="Pluto TV Reality" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Pluto TV Reality
+https://jmp2.uk/plu-69fa3faab9c0f0d444e64de3.m3u8
+
+#EXTINF:-1 tvg-id="RakutenViki.us" tvg-name="Rakuten Viki" group-title="Entertainment;Series" tvg-language="eng" tvg-quality="576i",Rakuten Viki
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTNBDivertissement.bi" tvg-name="RTNB Divertissement" group-title="Entertainment" tvg-language="eng;fra;run;swa" tvg-quality="576i",RTNB Divertissement
+https://tv2-stream.rtnb.bi/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="SowetoTV.za" tvg-name="Soweto TV" group-title="Entertainment;Family" tvg-language="eng" tvg-quality="576p",Soweto TV
+https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarVijay.in" tvg-name="Star Vijay" group-title="Entertainment" tvg-language="eng;tam" tvg-quality="396p",Star Vijay
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StoriesbyAMC.us" tvg-name="Stories by AMC" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Stories by AMC
+https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TalkinLiveClassicsTV.us" tvg-name="Talkin Live Classics TV" group-title="Entertainment" tvg-language="eng" tvg-quality="480p",Talkin Live Classics TV
+https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleBoston.us" tvg-name="Tele Boston" group-title="Entertainment" tvg-language="acf;eng;fra" tvg-quality="480p",Tele Boston
+https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="576i",Top Gear
+https://jmp2.uk/plu-60d356a534f63f000850cdd7.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="576i",Top Gear
+https://jmp2.uk/plu-620234d766314700075cac86.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="576i",Top Gear
+https://jmp2.uk/plu-6202357dea93940007d723ca.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="576i",Top Gear
+https://jmp2.uk/plu-620239894757070008d4812d.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="576i",Top Gear
+https://jmp2.uk/plu-638e10220aa6a6000726979f.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="576i",Top Gear
+https://jmp2.uk/plu-64c1093824ade50008bd117f.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="576i",Top Gear
+https://jmp2.uk/plu-64c109735dc1660008a4a2dc.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="576i",Top Gear
+https://jmp2.uk/plu-64c109a4798def0008a6e03e.m3u8
+
+#EXTINF:-1 tvg-id="TshwaneTV.za" tvg-name="Tshwane TV" group-title="Entertainment;Family;General" tvg-language="eng" tvg-quality="576p",Tshwane TV
+https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVTodayJanakpur.np" tvg-name="TV Today Janakpur" group-title="Entertainment;General" tvg-language="eng;mai;nep" tvg-quality="575i",TV Today Janakpur
+https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSFlashbackNetwork.us" tvg-name="TVS Flashback Network" group-title="Entertainment" tvg-language="eng" tvg-quality="360p",TVS Flashback Network
+https://rpn.bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSVintageNetwork.us" tvg-name="TVS Vintage Network" group-title="Entertainment" tvg-language="eng" tvg-quality="360p",TVS Vintage Network
+https://rpn.bozztv.com/gusa/gusa-tvsvintage/index.m3u8
+
+#EXTINF:-1 tvg-id="WWONTVChannel48.us" tvg-name="WWON-TV Channel 48" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",WWON-TV Channel 48
+https://tv2.fastcast4u.com:3943/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="YTATV.us" tvg-name="YTA TV" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",YTA TV
+https://yta.unitedteleports.tv/hls/YTA.m3u8
+

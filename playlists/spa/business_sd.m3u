@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CanalPro.py" tvg-name="Canal Pro" group-title="Business" tvg-language="spa" tvg-quality="576i",Canal Pro
+#EXTVLCOPT:http-referrer=https://www.canalpro.com.py/en-vivo
+https://www.desde-paraguay.com/pro.m3u8
+

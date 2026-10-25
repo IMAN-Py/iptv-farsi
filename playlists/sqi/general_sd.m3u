@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-name="Alpo TV" group-title="General" tvg-language="sqi" tvg-quality="576i",Alpo TV
+https://vs.sednastream.com:1936/alportv/alportv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Alsat.mk" tvg-name="Alsat" group-title="General" tvg-language="mkd;sqi" tvg-quality="576i",Alsat
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
+
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja Televizion" group-title="General" tvg-language="sqi" tvg-quality="576i",Tropoja Televizion
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV21.mk" tvg-name="TV21" group-title="General" tvg-language="mkd;sqi" tvg-quality="576i",TV21
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
+
+#EXTINF:-1 tvg-id="ZjarrTV.al" tvg-name="Zjarr TV" group-title="General" tvg-language="sqi" tvg-quality="360p",Zjarr TV
+https://zjarr.future.al/hls/playlist.m3u8
+

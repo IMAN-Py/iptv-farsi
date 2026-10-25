@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LaltroCorriereTV.it" tvg-name="L'altro Corriere TV" group-title="News" tvg-language="ita" tvg-quality="576i",L'altro Corriere TV
+https://52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaltroCorriereTV.it" tvg-name="L'altro Corriere TV" group-title="News" tvg-language="ita" tvg-quality="576i",L'altro Corriere TV
+https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LiraTV.it" tvg-name="Lira TV" group-title="News" tvg-language="ita" tvg-quality="576i",Lira TV
+https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telegela647.it" tvg-name="Telegela 647" group-title="News" tvg-language="ita" tvg-quality="576i",Telegela 647
+https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TGCom24.it" tvg-name="TGCom24" group-title="News" tvg-language="ita" tvg-quality="576i",TGCom24
+https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+
+#EXTINF:-1 tvg-id="TSNTeleSondrioNews.it" tvg-name="TSN TeleSondrio News" group-title="News" tvg-language="ita" tvg-quality="480p",TSN TeleSondrio News
+http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TSNTeleSondrioNews.it" tvg-name="TSN TeleSondrio News" group-title="News" tvg-language="ita" tvg-quality="480p",TSN TeleSondrio News
+https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv9Telemaremma.it" tvg-name="tv9 Telemaremma" group-title="News" tvg-language="ita" tvg-quality="576p",tv9 Telemaremma
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8
+

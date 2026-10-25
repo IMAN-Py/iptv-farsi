@@ -1,0 +1,38 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-name="Al Wafa Tarim" group-title="Religious" tvg-language="ind;msa" tvg-quality="720p",Al Wafa Tarim
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlBahjahTV.id" tvg-name="Al-Bahjah TV" group-title="Religious" tvg-language="ind" tvg-quality="1080p",Al-Bahjah TV
+http://202.150.161.117:8000/play/AlBahjahTV
+
+#EXTINF:-1 tvg-id="AlImanTV.id" tvg-name="Al-Iman TV" group-title="Religious" tvg-language="ind" tvg-quality="720p",Al-Iman TV
+https://tv.aliman.id/aliman/live.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="eng;ind;tam" tvg-quality="720p",Angel TV
+https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DhammaTV.id" tvg-name="Dhamma TV" group-title="Religious" tvg-language="ind" tvg-quality="720p",Dhamma TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+
+#EXTINF:-1 tvg-id="FajarTV.id" tvg-name="Fajar TV" group-title="Religious" tvg-language="ind" tvg-quality="720p",Fajar TV
+http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MadaniTV.id" tvg-name="Madani TV" group-title="Religious" tvg-language="ind" tvg-quality="720p",Madani TV
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MGITV.id" tvg-name="MGI TV" group-title="Religious" tvg-language="ind" tvg-quality="720p",MGI TV
+https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MQTV.id" tvg-name="MQTV" group-title="Religious" tvg-language="ind" tvg-quality="720p",MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA6Asia.uk" tvg-name="MTA6 Asia" group-title="Religious" tvg-language="ara;ben;eng;ind;tam;urd" tvg-quality="1080p",MTA6 Asia
+https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NaajiyaTV.id" tvg-name="Naajiya TV" group-title="Religious" tvg-language="ind" tvg-quality="720p",Naajiya TV
+#EXTVLCOPT:http-referrer=https://www.naajiyatv.com/tonton
+https://www.naajiyatv.com/live/livestream.m3u8
+
+#EXTINF:-1 tvg-id="NabawiTV.id" tvg-name="Nabawi TV" group-title="Religious" tvg-language="ind" tvg-quality="720p",Nabawi TV
+http://202.150.161.117:8000/play/NabawiTV
+

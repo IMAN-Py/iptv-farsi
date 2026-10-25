@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="100NEWS.ua" tvg-name="100% NEWS" group-title="Business;News" tvg-language="rus;ukr" tvg-quality="576p",100% NEWS
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+
+#EXTINF:-1 tvg-id="ArmyTV.ua" tvg-name="Army TV" group-title="News" tvg-language="ukr" tvg-quality="576p",Army TV
+http://195.54.52.40/test/index.m3u8
+
+#EXTINF:-1 tvg-id="ChPinfo.ua" tvg-name="ChP info" group-title="News" tvg-language="ukr" tvg-quality="576p",ChP info
+http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8
+
+#EXTINF:-1 tvg-id="EspresoTV.ua" tvg-name="Espreso TV" group-title="News" tvg-language="ukr" tvg-quality="576i",Espreso TV
+https://dash4.antik.sk/live/test_espresso/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ObozrevatelTV.ua" tvg-name="Obozrevatel TV" group-title="News" tvg-language="ukr" tvg-quality="576i",Obozrevatel TV
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8
+
+#EXTINF:-1 tvg-id="PershiyXTVMedia.ua" tvg-name="Pershiy XTV Media" group-title="News" tvg-language="ukr" tvg-quality="576p",Pershiy XTV Media
+https://hls.xtvmedia.pp.ua:8443/hls/trk1tv.m3u8
+
+#EXTINF:-1 tvg-id="SK1.ua" tvg-name="SK 1" group-title="News" tvg-language="ukr" tvg-quality="576i",SK 1
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
+

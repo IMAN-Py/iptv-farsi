@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DiffrentStrokesArnold.us" tvg-name="Diff'rent Strokes Arnold" group-title="Series" tvg-language="por" tvg-quality="480i",Diff'rent Strokes Arnold
+https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
+
+#EXTINF:-1 tvg-id="MasterChef.us" tvg-name="MasterChef" group-title="Series" tvg-language="por" tvg-quality="480i",MasterChef
+https://jmp2.uk/plu-5e3ddbd27091820009f86dd9.m3u8
+
+#EXTINF:-1 tvg-id="MasterChef.us" tvg-name="MasterChef" group-title="Series" tvg-language="por" tvg-quality="480i",MasterChef
+https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
+
+#EXTINF:-1 tvg-id="TVSeries.br" tvg-name="TV Series" group-title="Series" tvg-language="por" tvg-quality="480p",TV Series
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+

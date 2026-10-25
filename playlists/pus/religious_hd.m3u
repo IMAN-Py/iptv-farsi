@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EslahTV.af" tvg-name="Eslah TV" group-title="Religious" tvg-language="pus" tvg-quality="720p",Eslah TV
+https://eslahtvhls.wns.live/hls/stream.m3u8
+

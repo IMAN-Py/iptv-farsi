@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SportTV.by" tvg-name="Sport TV" group-title="Sports" tvg-language="bel" tvg-quality="1080p",Sport TV
+http://178.124.179.122:8080/SportTV/mpegts
+
+#EXTINF:-1 tvg-id="SportTV.by" tvg-name="Sport TV" group-title="Sports" tvg-language="bel" tvg-quality="1080p",Sport TV
+http://media1.skifnet.by/sporttv/index.m3u8
+

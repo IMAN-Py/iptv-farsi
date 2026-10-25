@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AVASeries.ir" tvg-name="AVA Series" group-title="Series" tvg-language="fas" tvg-quality="576i",AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="GEMSeriesPlus.tr" tvg-name="GEM Series +" group-title="Series" tvg-language="fas" tvg-quality="480i",GEM Series +
+https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202
+

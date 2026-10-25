@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KinoKazka.es" tvg-name="KinoKazka" group-title="Kids" tvg-language="ukr" tvg-quality="1080p",KinoKazka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/167/index.m3u8
+
+#EXTINF:-1 tvg-id="NikiJunior.ua" tvg-name="Niki Junior" group-title="Kids" tvg-language="ukr" tvg-quality="1080p",Niki Junior
+http://stream.mcquack.net/262/index.m3u8
+
+#EXTINF:-1 tvg-id="NikiKids.ua" tvg-name="Niki Kids" group-title="Kids" tvg-language="ukr" tvg-quality="1080p",Niki Kids
+http://stream.mcquack.net/271/index.m3u8
+
+#EXTINF:-1 tvg-id="PixelTV.ua" tvg-name="Pixel TV" group-title="Kids" tvg-language="ukr" tvg-quality="1080p",Pixel TV
+http://stream.mcquack.net/323/index.m3u8
+
+#EXTINF:-1 tvg-id="PixelTV.ua" tvg-name="Pixel TV" group-title="Kids" tvg-language="ukr" tvg-quality="720p",Pixel TV
+https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PLUSPLUS.ua" tvg-name="PLUSPLUS" group-title="Kids" tvg-language="ukr" tvg-quality="1080p",PLUSPLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/339/index.m3u8
+

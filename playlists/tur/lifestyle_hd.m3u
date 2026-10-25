@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FortunaTV.tr" tvg-name="Fortuna TV" group-title="Lifestyle" tvg-language="tur" tvg-quality="720p",Fortuna TV
+https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" group-title="Movies" tvg-language="eng;tha;zho" tvg-quality="540p",Thrill
+https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
+

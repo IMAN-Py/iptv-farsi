@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HeartRadioAruba.aw" tvg-name="Heart Radio Aruba" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="480i",Heart Radio Aruba
+https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
+
+#EXTINF:-1 tvg-id="VIPTV.aw" tvg-name="VIP TV" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="480i",VIP TV
+https://vs20.live.opencaster.com/viptvaruba_01e417ae/index.m3u8
+
+#EXTINF:-1 tvg-id="WavezFM.aw" tvg-name="Wavez FM" group-title="Music" tvg-language="nld;pap" tvg-quality="576i",Wavez FM
+https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8
+

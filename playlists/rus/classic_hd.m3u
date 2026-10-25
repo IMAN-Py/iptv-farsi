@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Smotrim100Klassika.ru" tvg-name="Smotrim 100% Klassika" group-title="Classic;Movies" tvg-language="rus" tvg-quality="720p",Smotrim 100% Klassika
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="VelvetGoldenCollection.ru" tvg-name="Velvet. Golden Collection" group-title="Classic;Movies" tvg-language="rus" tvg-quality="1080p",Velvet. Golden Collection
+https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
+
+#EXTINF:-1 tvg-id="VelvetSovetskoeKino.ru" tvg-name="Velvet. Sovetskoe Kino" group-title="Classic;Movies" tvg-language="rus" tvg-quality="1080p",Velvet. Sovetskoe Kino
+https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
+

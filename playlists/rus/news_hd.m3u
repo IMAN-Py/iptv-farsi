@@ -1,0 +1,104 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="360News.ru" tvg-name="360° News" group-title="News" tvg-language="rus" tvg-quality="1080p",360° News
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Astrahan24.ru" tvg-name="Astrahan 24" group-title="News" tvg-language="rus" tvg-quality="720p",Astrahan 24
+https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Belarus24.by" tvg-name="Belarus-24" group-title="News" tvg-language="bel;eng;rus" tvg-quality="1080p",Belarus-24
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-name="CGTN Russian" group-title="News" tvg-language="rus" tvg-quality="1080p",CGTN Russian
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel9.il" tvg-name="Channel 9" group-title="News" tvg-language="heb;rus" tvg-quality="1080p",Channel 9
+https://contact.gostreaming.tv/Con-11/index.m3u8
+
+#EXTINF:-1 tvg-id="CurrentTimeTV.cz" tvg-name="Current Time TV" group-title="News" tvg-language="rus" tvg-quality="1080p",Current Time TV
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+
+#EXTINF:-1 tvg-id="Don24.ru" tvg-name="Don 24" group-title="News" tvg-language="rus" tvg-quality="1080p",Don 24
+https://donmedia.bonus-tv.ru/cdn/donmedia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" group-title="News" tvg-language="rus" tvg-quality="1080p",DW
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews Russian" group-title="News" tvg-language="rus" tvg-quality="720p",Euronews Russian
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+
+#EXTINF:-1 tvg-id="FREEDOM.ua" tvg-name="FREEDOM" group-title="News" tvg-language="rus" tvg-quality="1080p",FREEDOM
+https://dash4.antik.sk/live/test_uatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FREEDOM.ua" tvg-name="FREEDOM" group-title="News" tvg-language="rus" tvg-quality="720p",FREEDOM
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+
+#EXTINF:-1 tvg-id="GovoritMoskva.ru" tvg-name="Govorit Moskva" group-title="News" tvg-language="rus" tvg-quality="720p",Govorit Moskva
+https://video.govoritmoskva.ru/rufm/index.m3u8
+
+#EXTINF:-1 tvg-id="Izvestia.ru" tvg-name="Izvestia" group-title="News" tvg-language="rus" tvg-quality="1080p",Izvestia
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KrikTV.ru" tvg-name="Krik-TV" group-title="News" tvg-language="rus" tvg-quality="1080p",Krik-TV
+http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Millet.ru" tvg-name="Millet" group-title="News" tvg-language="rus" tvg-quality="720p",Millet
+https://live1.1tvcrimea.ru/milletlive.m3u8
+
+#EXTINF:-1 tvg-id="Mir24.ru" tvg-name="Mir 24" group-title="News" tvg-language="rus" tvg-quality="1080p",Mir 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NovorossiyaTV.ru" tvg-name="Novorossiya TV" group-title="News" tvg-language="rus" tvg-quality="1080p",Novorossiya TV
+http://31.131.139.253:9002/novoros/index.m3u8
+
+#EXTINF:-1 tvg-id="OplotTV.ru" tvg-name="Oplot TV" group-title="News" tvg-language="rus" tvg-quality="1080p",Oplot TV
+http://31.131.139.253:9002/oplot_hd/index.m3u8
+
+#EXTINF:-1 tvg-id="OplotTV.ru" tvg-name="Oplot TV" group-title="News" tvg-language="rus" tvg-quality="1080p",Oplot TV
+http://31.131.141.195:8000/play/a006/index.m3u8
+
+#EXTINF:-1 tvg-id="OstWest24.de" tvg-name="Ost West 24" group-title="Culture;News" tvg-language="rus" tvg-quality="1080p",Ost West 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/455/index.m3u8
+
+#EXTINF:-1 tvg-id="PerviyInformationniy.by" tvg-name="Perviy Informationniy" group-title="News" tvg-language="bel;rus" tvg-quality="1080p",Perviy Informationniy
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTBalkan.ru" tvg-name="RT Balkan" group-title="News" tvg-language="rus" tvg-quality="1080p",RT Balkan
+https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTBalkan.ru" tvg-name="RT Balkan" group-title="News" tvg-language="rus" tvg-quality="1080p",RT Balkan
+https://rt-srb.rttv.com/live/rtbalkan/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="1080p",Russia-24
+http://77.232.131.211/Rossiya24/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="1080p",Russia-24
+https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="720p",Russia-24
+https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8
+
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="1080p",Russia-24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" group-title="News" tvg-language="rus" tvg-quality="1080p",Russia-24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Sochi24.ru" tvg-name="Sochi24" group-title="General;News" tvg-language="rus" tvg-quality="720p",Sochi24
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tolk.ru" tvg-name="Tolk" group-title="News" tvg-language="rus" tvg-quality="720p",Tolk
+http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tolk.ru" tvg-name="Tolk" group-title="News" tvg-language="rus" tvg-quality="720p",Tolk
+https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UzReportTV.uz" tvg-name="UzReport TV" group-title="News" tvg-language="eng;rus;uzb" tvg-quality="1080p",UzReport TV
+https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VestiFM.ru" tvg-name="Vesti FM" group-title="News" tvg-language="rus" tvg-quality="1080i",Vesti FM
+https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
+
+#EXTINF:-1 tvg-id="VestiFM.ru" tvg-name="Vesti FM" group-title="News" tvg-language="rus" tvg-quality="720p",Vesti FM
+https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
+

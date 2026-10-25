@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" group-title="Religious" tvg-language="ara" tvg-quality="360p",Al Quran Al Kareem TV
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" group-title="Religious" tvg-language="ara" tvg-quality="360p",Al Sunnah Al Nabawiyah TV
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+
+#EXTINF:-1 tvg-id="AlImanTV.lb" tvg-name="Al-Iman TV" group-title="Religious" tvg-language="ara" tvg-quality="240p",Al-Iman TV
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlerthAlnabawiChannel.jo" tvg-name="Alerth Alnabawi Channel" group-title="Religious" tvg-language="ara" tvg-quality="576p",Alerth Alnabawi Channel
+http://82.212.74.2:8000/live/7307.m3u8
+
+#EXTINF:-1 tvg-id="AlistiqamaTV.om" tvg-name="Alistiqama TV" group-title="Religious" tvg-language="ara" tvg-quality="576p",Alistiqama TV
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+
+#EXTINF:-1 tvg-id="AssiratTV.ir" tvg-name="Assirat TV" group-title="Religious" tvg-language="ara" tvg-quality="576p",Assirat TV
+https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CharityTV.lb" tvg-name="Charity TV" group-title="Religious" tvg-language="ara" tvg-quality="576i",Charity TV
+https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNA.dz" tvg-name="CNA" group-title="Religious" tvg-language="ara;fra" tvg-quality="360p",CNA
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNA.dz" tvg-name="CNA" group-title="Religious" tvg-language="ara;fra" tvg-quality="360p",CNA
+https://live.creacast.com/cna/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-name="God Stands Kids Club TV" group-title="Kids;Religious" tvg-language="ara" tvg-quality="480i",God Stands Kids Club TV
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
+
+#EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-name="God Stands TV" group-title="Religious" tvg-language="ara" tvg-quality="480i",God Stands TV
+https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8
+
+#EXTINF:-1 tvg-id="HabibTV.ir" tvg-name="Habib TV" group-title="Religious" tvg-language="ara;fas" tvg-quality="576i",Habib TV
+https://ncdn.telewebion.ir/habib/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LLBNTVArabic.us" tvg-name="LLBN TV Arabic" group-title="Religious" tvg-language="ara" tvg-quality="480p",LLBN TV Arabic
+https://brightstar-arabic-pull-secure.akamaized.net/brightstararabic/stream.m3u8
+
+#EXTINF:-1 tvg-id="LoveWorldArabic.ng" tvg-name="LoveWorld Arabic" group-title="Religious" tvg-language="ara" tvg-quality="360p",LoveWorld Arabic
+https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MakkahTV.sa" tvg-name="Makkah TV" group-title="Religious" tvg-language="ara" tvg-quality="576p",Makkah TV
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MakkahTV.sa" tvg-name="Makkah TV" group-title="Religious" tvg-language="ara" tvg-quality="576i",Makkah TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
+
+#EXTINF:-1 tvg-id="MuslimNetworkTV.us" tvg-name="Muslim Network TV" group-title="Religious" tvg-language="ara;eng" tvg-quality="480i",Muslim Network TV
+https://afghantv.app/hls2/muslimnetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="NourAlKoddass.lb" tvg-name="Nour Al Koddass" group-title="Religious" tvg-language="ara" tvg-quality="406p",Nour Al Koddass
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NourAlSharq.lb" tvg-name="Nour Al Sharq" group-title="Religious" tvg-language="ara" tvg-quality="576p",Nour Al Sharq
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NourMariam.lb" tvg-name="Nour Mariam" group-title="Religious" tvg-language="ara" tvg-quality="576p",Nour Mariam
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Noursat.lb" tvg-name="Noursat" group-title="Religious" tvg-language="ara" tvg-quality="576p",Noursat
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SharjahTV.ae" tvg-name="Sharjah TV" group-title="Religious" tvg-language="ara" tvg-quality="360p",Sharjah TV
+https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8
+

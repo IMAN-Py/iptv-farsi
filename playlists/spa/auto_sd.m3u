@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-name="Garage TV Latin America" group-title="Auto" tvg-language="spa" tvg-quality="576i",Garage TV Latin America
+https://stream1.sersat.com/hls/garagetv.m3u8
+

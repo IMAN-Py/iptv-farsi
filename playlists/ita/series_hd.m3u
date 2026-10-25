@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Andromeda.us" tvg-name="Andromeda" group-title="Series" tvg-language="ita" tvg-quality="720p",Andromeda
+https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
+
+#EXTINF:-1 tvg-id="CinCin.de" tvg-name="Cin Cin" group-title="Classic;Series" tvg-language="ita" tvg-quality="720p",Cin Cin
+https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSerie.de" tvg-name="Pluto TV Serie" group-title="Series" tvg-language="ita" tvg-quality="720p",Pluto TV Serie
+https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSerieCrime.de" tvg-name="Pluto TV Serie Crime" group-title="Series" tvg-language="ita" tvg-quality="720p",Pluto TV Serie Crime
+https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8
+
+#EXTINF:-1 tvg-id="StarTrekVoyager.de" tvg-name="Star Trek: Voyager" group-title="Movies;Series" tvg-language="ita" tvg-quality="720p",Star Trek: Voyager
+https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
+
+#EXTINF:-1 tvg-id="SuperTV.it" tvg-name="Super TV" group-title="General;Series" tvg-language="ita" tvg-quality="720p",Super TV
+http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperTV.it" tvg-name="Super TV" group-title="General;Series" tvg-language="ita" tvg-quality="720p",Super TV
+https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Twentyseven.it" tvg-name="Twentyseven" group-title="Movies;Series" tvg-language="ita" tvg-quality="1080p",Twentyseven
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
+

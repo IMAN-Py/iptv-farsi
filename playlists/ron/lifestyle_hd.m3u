@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="Antena Monden" group-title="Lifestyle" tvg-language="ron" tvg-quality="720p",Antena Monden
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+

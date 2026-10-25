@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SenalesTV.do" tvg-name="Senales TV" group-title="Lifestyle" tvg-language="spa" tvg-quality="480i",Senales TV
+https://live.dionelysterrero.com/senalestv/stream.m3u8
+

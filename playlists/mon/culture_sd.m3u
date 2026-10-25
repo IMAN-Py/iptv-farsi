@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NeiMonggolTV2MongolianCultureChannel.cn" tvg-name="Nei Monggol TV 2 Mongolian Culture Channel" group-title="Culture" tvg-language="mon;zho" tvg-quality="576i",Nei Monggol TV 2 Mongolian Culture Channel
+http://1.24.190.98:10080/hls/40/index.m3u8
+

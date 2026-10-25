@@ -1,0 +1,113 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="30ALoomeredTV.us" tvg-name="30A Loomered TV" group-title="Documentary;News" tvg-language="eng" tvg-quality="480i",30A Loomered TV
+https://30a-tv.com/loomer.m3u8
+
+#EXTINF:-1 tvg-id="Atlas.us" tvg-name="Atlas" group-title="Documentary" tvg-language="eng" tvg-quality="480p",Atlas
+https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="576p",BBC Earth
+http://hls127.freeott.top:8080/BG_The_World/video.m3u8
+
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="576i",BBC Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
+
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="576i",BBC Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://nord.ayakkabiparti.lol/bbc/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" group-title="Culture;Documentary" tvg-language="eng" tvg-quality="576i",BBC Four
+https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" group-title="Culture;Documentary" tvg-language="eng" tvg-quality="576i",BBC Four
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" group-title="Documentary" tvg-language="eng" tvg-quality="576i",CGTN Documentary
+https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" group-title="Documentary" tvg-language="eng" tvg-quality="576i",CGTN Documentary
+https://h5cul1yar48um3t.wcetv.com/hls/cgtnd.m3u8
+
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" group-title="Documentary" tvg-language="eng" tvg-quality="576p",CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
+#EXTINF:-1 tvg-id="DeadlyWomen.us" tvg-name="Deadly Women" group-title="Documentary" tvg-language="eng" tvg-quality="576i",Deadly Women
+https://jmp2.uk/plu-5ca1df0d50be2571e393ad31.m3u8
+
+#EXTINF:-1 tvg-id="DocuBox.nl" tvg-name="DocuBox" group-title="Documentary" tvg-language="eng" tvg-quality="576i",DocuBox
+https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FBIFiles.us" tvg-name="FBI Files" group-title="Documentary" tvg-language="eng" tvg-quality="576i",FBI Files
+https://jmp2.uk/plu-5cb6f6f9a461406ffe4022cf.m3u8
+
+#EXTINF:-1 tvg-id="FBIFiles.us" tvg-name="FBI Files" group-title="Documentary" tvg-language="eng" tvg-quality="576i",FBI Files
+https://jmp2.uk/plu-61814659533163000748aa04.m3u8
+
+#EXTINF:-1 tvg-id="FBIFiles.us" tvg-name="FBI Files" group-title="Documentary" tvg-language="eng" tvg-quality="576i",FBI Files
+https://jmp2.uk/plu-61814b9a9704450007e52316.m3u8
+
+#EXTINF:-1 tvg-id="FBIFiles.us" tvg-name="FBI Files" group-title="Documentary" tvg-language="eng" tvg-quality="576i",FBI Files
+https://jmp2.uk/plu-61815067b9802500076e16e0.m3u8
+
+#EXTINF:-1 tvg-id="FBIFiles.us" tvg-name="FBI Files" group-title="Documentary" tvg-language="eng" tvg-quality="576i",FBI Files
+https://jmp2.uk/plu-62bdaa32a1b2fd00076693e8.m3u8
+
+#EXTINF:-1 tvg-id="H2.bg" tvg-name="H2" group-title="Documentary" tvg-language="bul;eng" tvg-quality="576i",H2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03r
+
+#EXTINF:-1 tvg-id="History.pl" tvg-name="History" group-title="Documentary" tvg-language="eng" tvg-quality="576i",History
+http://92.114.85.87:8015/play/a00c/index.m3u8
+
+#EXTINF:-1 tvg-id="InkMaster.us" tvg-name="Ink Master" group-title="Documentary" tvg-language="eng" tvg-quality="480i",Ink Master
+https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.hu" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="ces;eng;hun" tvg-quality="576i",Investigation Discovery
+http://88.212.15.17/live/id_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.bg" tvg-name="National Geographic" group-title="Documentary" tvg-language="bul;eng" tvg-quality="576i",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0ct
+
+#EXTINF:-1 tvg-id="NationalGeographic.pl" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng" tvg-quality="576i",National Geographic
+http://92.114.85.87:8006/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.ro" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng;ron" tvg-quality="576i",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
+
+#EXTINF:-1 tvg-id="OnTheCase.us" tvg-name="On The Case" group-title="Documentary" tvg-language="eng" tvg-quality="576i",On The Case
+https://jmp2.uk/plu-615af74dfe3d8e0007524511.m3u8
+
+#EXTINF:-1 tvg-id="OnTheCase.us" tvg-name="On The Case" group-title="Documentary" tvg-language="eng" tvg-quality="576i",On The Case
+https://jmp2.uk/plu-62cd971cec90c20007081050.m3u8
+
+#EXTINF:-1 tvg-id="OnTheCase.us" tvg-name="On The Case" group-title="Documentary" tvg-language="eng" tvg-quality="576i",On The Case
+https://jmp2.uk/plu-62cd9f1cda044a00077b8f41.m3u8
+
+#EXTINF:-1 tvg-id="OnTheCase.us" tvg-name="On The Case" group-title="Documentary" tvg-language="eng" tvg-quality="576i",On The Case
+https://jmp2.uk/plu-62cdad7b5c38c00007f566c2.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVHistory.us" tvg-name="Pluto TV History" group-title="Documentary" tvg-language="eng" tvg-quality="480i",Pluto TV History
+https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVParanormal.us" tvg-name="Pluto TV Paranormal" group-title="Documentary" tvg-language="eng" tvg-quality="480i",Pluto TV Paranormal
+https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVScience.us" tvg-name="Pluto TV Science" group-title="Documentary;Science" tvg-language="eng" tvg-quality="480i",Pluto TV Science
+https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTrueCrime.us" tvg-name="Pluto TV True Crime" group-title="Documentary;Series" tvg-language="eng" tvg-quality="480i",Pluto TV True Crime
+https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
+
+#EXTINF:-1 tvg-id="SensingMurder.us" tvg-name="Sensing Murder" group-title="Documentary" tvg-language="eng" tvg-quality="576i",Sensing Murder
+https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8
+
+#EXTINF:-1 tvg-id="SpikePlutoTV.us" tvg-name="Spike Pluto TV" group-title="Documentary" tvg-language="eng" tvg-quality="480i",Spike Pluto TV
+https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8
+
+#EXTINF:-1 tvg-id="TeenMom.us" tvg-name="Teen Mom" group-title="Documentary" tvg-language="eng" tvg-quality="480i",Teen Mom
+https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8
+

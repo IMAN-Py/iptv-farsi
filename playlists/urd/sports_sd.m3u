@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MSports.pk" tvg-name="M Sports" group-title="Sports" tvg-language="urd" tvg-quality="576i",M Sports
+https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MSports.pk" tvg-name="M Sports" group-title="Sports" tvg-language="urd" tvg-quality="576i",M Sports
+https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8
+

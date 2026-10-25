@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ATL26.us" tvg-name="ATL 26" group-title="Legislative" tvg-language="eng;spa" tvg-quality="480i",ATL 26
+https://securestream11.champds.com/LIVE/AtlantaGALIVE/AtlantaGALIVE.m3u8
+
+#EXTINF:-1 tvg-id="CanaldelCongreso451.mx" tvg-name="Canal del Congreso 45.1" group-title="Legislative" tvg-language="spa" tvg-quality="480i",Canal del Congreso 45.1
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
+
+#EXTINF:-1 tvg-id="CanalParlamento.es" tvg-name="Canal Parlamento" group-title="Legislative" tvg-language="spa" tvg-quality="360p",Canal Parlamento
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+
+#EXTINF:-1 tvg-id="CityTVChannel341.us" tvg-name="City TV Channel 3/41" group-title="Legislative" tvg-language="eng;spa" tvg-quality="360p",City TV Channel 3/41
+https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CongresodelosDiputados1.es" tvg-name="Congreso de los Diputados 1" group-title="Legislative" tvg-language="spa" tvg-quality="360p",Congreso de los Diputados 1
+https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
+
+#EXTINF:-1 tvg-id="CongresodelosDiputados2.es" tvg-name="Congreso de los Diputados 2" group-title="Legislative" tvg-language="spa" tvg-quality="360p",Congreso de los Diputados 2
+https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8
+
+#EXTINF:-1 tvg-id="CongresodelosDiputados3.es" tvg-name="Congreso de los Diputados 3" group-title="Legislative" tvg-language="spa" tvg-quality="360p",Congreso de los Diputados 3
+https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8
+
+#EXTINF:-1 tvg-id="CongresodelosDiputados4.es" tvg-name="Congreso de los Diputados 4" group-title="Legislative" tvg-language="spa" tvg-quality="360p",Congreso de los Diputados 4
+https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8
+
+#EXTINF:-1 tvg-id="CongresodelosDiputados5.es" tvg-name="Congreso de los Diputados 5" group-title="Legislative" tvg-language="spa" tvg-quality="360p",Congreso de los Diputados 5
+https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
+
+#EXTINF:-1 tvg-id="CortsValencianes.es" tvg-name="Corts Valencianes" group-title="Legislative" tvg-language="cat;spa" tvg-quality="480p",Corts Valencianes
+https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
+
+#EXTINF:-1 tvg-id="CruzTV.us" tvg-name="Cruz TV" group-title="Legislative" tvg-language="eng;spa" tvg-quality="480i",Cruz TV
+https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8
+
+#EXTINF:-1 tvg-id="ParlamentodeAndalucia.es" tvg-name="Parlamento de Andalucia" group-title="Legislative" tvg-language="spa" tvg-quality="576p",Parlamento de Andalucia
+http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ParlamentodeNavarra.es" tvg-name="Parlamento de Navarra" group-title="Legislative" tvg-language="eus;spa" tvg-quality="368p",Parlamento de Navarra
+https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
+
+#EXTINF:-1 tvg-id="PHXTV.us" tvg-name="PHXTV" group-title="Legislative" tvg-language="eng;spa" tvg-quality="480i",PHXTV
+https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YouDotGov.us" tvg-name="YouDotGov" group-title="Legislative" tvg-language="eng;spa" tvg-quality="480i",YouDotGov
+https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="Yuma77.us" tvg-name="Yuma77" group-title="Legislative" tvg-language="eng;spa" tvg-quality="480i",Yuma77
+https://securestream10.champds.com/LIVE/YumaCoAZLIVE/YumaCoAZLIVE.m3u8
+

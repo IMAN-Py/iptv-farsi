@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FrequenceNovelas.fr" tvg-name="Frequence Novelas" group-title="Series" tvg-language="fra" tvg-quality="1080p",Frequence Novelas
+https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationbyPlutoTV.de" tvg-name="Investigation by Pluto TV" group-title="Series" tvg-language="fra" tvg-quality="720p",Investigation by Pluto TV
+https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8
+
+#EXTINF:-1 tvg-id="NovelaChannel.ci" tvg-name="Novela Channel" group-title="Series" tvg-language="fra" tvg-quality="720p",Novela Channel
+https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTV90sClassics.de" tvg-name="Pluto TV 90's Classics" group-title="Movies;Series" tvg-language="fra" tvg-quality="720p",Pluto TV 90's Classics
+https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVBrigadeCriminelle.de" tvg-name="Pluto TV Brigade Criminelle" group-title="Series" tvg-language="fra" tvg-quality="720p",Pluto TV Brigade Criminelle
+https://jmp2.uk/plu-684bf01df7d8b74b625b7dd1.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVDating.de" tvg-name="Pluto TV Dating" group-title="Series" tvg-language="fra" tvg-quality="720p",Pluto TV Dating
+https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVPolar.de" tvg-name="Pluto TV Polar" group-title="Series" tvg-language="fra" tvg-quality="720p",Pluto TV Polar
+https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSeriesFantastiques.de" tvg-name="Pluto TV Series Fantastiques" group-title="Series" tvg-language="fra" tvg-quality="720p",Pluto TV Series Fantastiques
+https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
+
+#EXTINF:-1 tvg-id="SeriesbyPlutoTV.de" tvg-name="Series by Pluto TV" group-title="Series" tvg-language="fra" tvg-quality="720p",Series by Pluto TV
+https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneBlacklist.fr" tvg-name="Sony One Blacklist" group-title="Series" tvg-language="fra" tvg-quality="1080p",Sony One Blacklist
+https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneBlacklist.fr" tvg-name="Sony One Blacklist" group-title="Series" tvg-language="fra" tvg-quality="1080p",Sony One Blacklist
+https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ToutlemondedetesteChris.de" tvg-name="Tout le monde deteste Chris" group-title="Series" tvg-language="fra" tvg-quality="720p",Tout le monde deteste Chris
+https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
+
+#EXTINF:-1 tvg-id="TrueCrimebyPlutoTV.de" tvg-name="True Crime by Pluto TV" group-title="Series" tvg-language="fra" tvg-quality="720p",True Crime by Pluto TV
+https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
+

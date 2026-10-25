@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AnandTV.uk" tvg-name="Anand TV" group-title="General" tvg-language="mal" tvg-quality="720p",Anand TV
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+
+#EXTINF:-1 tvg-id="SelangorTV.my" tvg-name="SelangorTV" group-title="General" tvg-language="mal" tvg-quality="1080p",SelangorTV
+https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd&token=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd
+
+#EXTINF:-1 tvg-id="UTVPalakkad.in" tvg-name="UTV Palakkad" group-title="General" tvg-language="mal" tvg-quality="1080p",UTV Palakkad
+https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UTVPalakkad.in" tvg-name="UTV Palakkad" group-title="General" tvg-language="mal" tvg-quality="1080p",UTV Palakkad
+https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VCV.in" tvg-name="VCV" group-title="General" tvg-language="mal" tvg-quality="720p",VCV
+https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
+

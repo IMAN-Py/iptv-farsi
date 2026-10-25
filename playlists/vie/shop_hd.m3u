@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LaoThaiTV.us" tvg-name="Lao-Thai TV" group-title="Shop" tvg-language="vie" tvg-quality="720p",Lao-Thai TV
+https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeaTV.vn" tvg-name="Tea TV" group-title="Shop" tvg-language="vie" tvg-quality="720p",Tea TV
+https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UniquelyThai.vn" tvg-name="Uniquely Thai" group-title="Shop" tvg-language="vie" tvg-quality="720p",Uniquely Thai
+https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
+

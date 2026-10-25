@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DR1.dk" tvg-name="DR1" group-title="General" tvg-language="dan" tvg-quality="1080p",DR1
+https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8
+
+#EXTINF:-1 tvg-id="DRTV.dk" tvg-name="DRTV" group-title="General" tvg-language="dan" tvg-quality="1080p",DRTV
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
+
+#EXTINF:-1 tvg-id="Frasier.se" tvg-name="Frasier" group-title="General" tvg-language="dan;eng" tvg-quality="720p",Frasier
+https://jmp2.uk/plu-6400c095498393000878a634.m3u8
+
+#EXTINF:-1 tvg-id="GustavLinsepaudebane.se" tvg-name="Gustav & Linse pa udebane" group-title="General" tvg-language="dan;eng" tvg-quality="720p",Gustav & Linse pa udebane
+https://jmp2.uk/plu-69c290eeed1b1f1acb446dd8.m3u8
+
+#EXTINF:-1 tvg-id="KanalHovedstaden.dk" tvg-name="Kanal Hovedstaden" group-title="General" tvg-language="dan" tvg-quality="720p",Kanal Hovedstaden
+http://khkbh.dk:8080/hls/livestream/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVReality.se" tvg-name="MTV Reality" group-title="General" tvg-language="dan;eng" tvg-quality="720p",MTV Reality
+https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8
+
+#EXTINF:-1 tvg-id="TheMillers.se" tvg-name="The Millers" group-title="General" tvg-language="dan;eng" tvg-quality="720p",The Millers
+https://jmp2.uk/plu-69afeefa0a7f2095e768401c.m3u8
+
+#EXTINF:-1 tvg-id="TVStorbyen.dk" tvg-name="TV Storbyen" group-title="General" tvg-language="dan" tvg-quality="720p",TV Storbyen
+https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMarineret.dk" tvg-name="TVMarineret" group-title="General" tvg-language="dan" tvg-quality="1080p",TVMarineret
+http://sdream.info:8080/hls/livestream/index.m3u8
+

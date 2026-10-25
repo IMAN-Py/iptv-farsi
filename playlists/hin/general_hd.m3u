@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DangalTV.in" tvg-name="Dangal TV" group-title="General" tvg-language="hin" tvg-quality="720p",Dangal TV
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DDBihar.in" tvg-name="DD Bihar" group-title="General" tvg-language="hin" tvg-quality="720p",DD Bihar
+https://cdn.pishow.tv/ott/live/35/master.m3u8
+
+#EXTINF:-1 tvg-id="DDChhattisgarh.in" tvg-name="DD Chhattisgarh" group-title="General" tvg-language="hin" tvg-quality="720p",DD Chhattisgarh
+https://cdn.pishow.tv/ott/live/15/master.m3u8
+
+#EXTINF:-1 tvg-id="DDMadhyaPradesh.in" tvg-name="DD Madhya Pradesh" group-title="General" tvg-language="hin" tvg-quality="720p",DD Madhya Pradesh
+https://cdn.pishow.tv/ott/live/31/master.m3u8
+
+#EXTINF:-1 tvg-id="DDMadhyaPradesh.in" tvg-name="DD Madhya Pradesh" group-title="General" tvg-language="hin" tvg-quality="720p",DD Madhya Pradesh
+https://mumbai-edge.smartplaytv.in/ddmadhyapradesh/index.m3u8
+
+#EXTINF:-1 tvg-id="DDRajasthan.in" tvg-name="DD Rajasthan" group-title="General" tvg-language="hin" tvg-quality="720p",DD Rajasthan
+https://cdn.pishow.tv/ott/live/34/master.m3u8
+
+#EXTINF:-1 tvg-id="DDUrdu.in" tvg-name="DD Urdu" group-title="General" tvg-language="eng;hin;urd" tvg-quality="720p",DD Urdu
+https://cdn.pishow.tv/ott/live/8/master.m3u8
+
+#EXTINF:-1 tvg-id="DDUttarPradesh.in" tvg-name="DD Uttar Pradesh" group-title="General" tvg-language="hin" tvg-quality="720p",DD Uttar Pradesh
+https://cdn.pishow.tv/ott/live/36/master.m3u8
+
+#EXTINF:-1 tvg-id="DDUttarakhand.in" tvg-name="DD Uttarakhand" group-title="General" tvg-language="hin" tvg-quality="720p",DD Uttarakhand
+https://cdn.pishow.tv/ott/live/17/master.m3u8
+
+#EXTINF:-1 tvg-id="DiyaTV.us" tvg-name="Diya TV" group-title="General" tvg-language="eng;hin;pan" tvg-quality="1080p",Diya TV
+https://stream.diyatvinc.com/diya.m3u8
+
+#EXTINF:-1 tvg-id="KaumudyTV.in" tvg-name="Kaumudy TV" group-title="General" tvg-language="hin" tvg-quality="720p",Kaumudy TV
+https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Network10.in" tvg-name="Network 10" group-title="General" tvg-language="hin" tvg-quality="720p",Network 10
+https://mumbai-edge.smartplaytv.in/Network10/index.m3u8
+
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" group-title="General" tvg-language="eng;hin;msa;tam;zho" tvg-quality="1080p",TV2
+https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d
+

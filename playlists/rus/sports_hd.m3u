@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-name="Astrahan.Ru Sport" group-title="Sports" tvg-language="rus" tvg-quality="720p",Astrahan.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Belarus5.by" tvg-name="Belarus-5" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Belarus-5
+http://178.124.179.122:8080/BT5/index.m3u8
+
+#EXTINF:-1 tvg-id="Belarus5.by" tvg-name="Belarus-5" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Belarus-5
+http://stream.mcquack.net/33/index.m3u8
+
+#EXTINF:-1 tvg-id="Belarus5.by" tvg-name="Belarus-5" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Belarus-5
+https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Belarus5.by" tvg-name="Belarus-5" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Belarus-5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Belarus5.by" tvg-name="Belarus-5" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Belarus-5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BoksTV.ru" tvg-name="Boks TV" group-title="Sports" tvg-language="rus" tvg-quality="720p",Boks TV
+http://31.148.48.15/Boks_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Eurosport 1
+http://stream.mcquack.net/176/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Eurosport 2
+http://stream.mcquack.net/192/index.m3u8
+
+#EXTINF:-1 tvg-id="KHL.ru" tvg-name="KHL" group-title="Sports" tvg-language="rus" tvg-quality="720p",KHL
+http://31.148.48.15/KHL_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="MatchArena.ru" tvg-name="Match! Arena" group-title="Sports" tvg-language="rus" tvg-quality="720p",Match! Arena
+http://31.148.48.15/Match_Arena_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="MatchIgra.ru" tvg-name="Match! Igra" group-title="Sports" tvg-language="rus" tvg-quality="720p",Match! Igra
+http://31.148.48.15/Match_Igra_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="MatchStrana.ru" tvg-name="Match! Strana" group-title="Sports" tvg-language="rus" tvg-quality="720p",Match! Strana
+http://31.148.48.15/Match_Strana/index.m3u8
+
+#EXTINF:-1 tvg-id="MatchUltra.ru" tvg-name="Match! Ultra" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Match! Ultra
+http://31.148.5.241/kanal_3/index.m3u8
+
+#EXTINF:-1 tvg-id="MatchUltra.ru" tvg-name="Match! Ultra" group-title="Sports" tvg-language="rus" tvg-quality="720p",Match! Ultra
+http://stream.mcquack.net/169/index.m3u8
+
+#EXTINF:-1 tvg-id="MMATVcom.ru" tvg-name="MMA-TV.com" group-title="Sports" tvg-language="eng;rus" tvg-quality="1080p",MMA-TV.com
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OkkoPrajmSport.ru" tvg-name="Okko Prajm Sport" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Okko Prajm Sport
+http://stream.mcquack.net/493/index.m3u8
+
+#EXTINF:-1 tvg-id="RussianExtremeUltra.ru" tvg-name="Russian Extreme Ultra" group-title="Sports" tvg-language="rus" tvg-quality="1440p",Russian Extreme Ultra
+http://46.53.200.153:7777/play/test_krask1/index.m3u8
+
+#EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie" tvg-name="Setanta Sports 1 Eurasia" group-title="Sports" tvg-language="eng;rus" tvg-quality="1080p",Setanta Sports 1 Eurasia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/234/index.m3u8
+
+#EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie" tvg-name="Setanta Sports 2 Eurasia" group-title="Sports" tvg-language="eng;rus" tvg-quality="1080p",Setanta Sports 2 Eurasia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/235/index.m3u8
+
+#EXTINF:-1 tvg-id="SetantaSportsPlusUkraine.ua" tvg-name="Setanta Sports+ Ukraine" group-title="Sports" tvg-language="rus;ukr" tvg-quality="1080p",Setanta Sports+ Ukraine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/390/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport1Baltic.ua" tvg-name="Sport 1 Baltic" group-title="Sports" tvg-language="eng;rus;ukr" tvg-quality="1080p",Sport 1 Baltic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/461/index.m3u8
+
+#EXTINF:-1 tvg-id="Sportivnyy.ru" tvg-name="Sportivnyy" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Sportivnyy
+https://live-3.otcnet.ru/sportivny/index.m3u8
+
+#EXTINF:-1 tvg-id="StartTriumf.ru" tvg-name="Start Triumf" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Start Triumf
+https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
+
+#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars" group-title="Sports" tvg-language="rus" tvg-quality="720p",Trace Sport Stars
+https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-name="viju+ Sport" group-title="Sports" tvg-language="rus" tvg-quality="1080p",viju+ Sport
+http://46.53.200.153:7777/play/a01l/index.m3u8
+
+#EXTINF:-1 tvg-id="VitalDrive.ru" tvg-name="Vital Drive" group-title="Sports" tvg-language="rus" tvg-quality="720p",Vital Drive
+https://autopilot.catcast.tv/content/37909/index.m3u8
+
+#EXTINF:-1 tvg-id="VitalDrive.ru" tvg-name="Vital Drive" group-title="Sports" tvg-language="rus" tvg-quality="720p",Vital Drive
+https://tv.a21network.ru/stream/37909/index.m3u8
+

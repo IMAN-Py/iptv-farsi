@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="9XJhakaas.in" tvg-name="9X Jhakaas" group-title="Music" tvg-language="mar" tvg-quality="1080p",9X Jhakaas
+https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9XJhakaas.in" tvg-name="9X Jhakaas" group-title="Music" tvg-language="mar" tvg-quality="1080p",9X Jhakaas
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+
+#EXTINF:-1 tvg-id="SangeetMarathi.in" tvg-name="Sangeet Marathi" group-title="Music" tvg-language="mar" tvg-quality="720p",Sangeet Marathi
+https://cdn.pishow.tv/ott/live/1229/master.m3u8
+

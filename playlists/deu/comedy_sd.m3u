@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central" group-title="Comedy" tvg-language="deu" tvg-quality="576i",Comedy Central
+https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
+

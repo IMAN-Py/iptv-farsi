@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FalakTV.pk" tvg-name="Falak TV" group-title="Entertainment" tvg-language="pan;urd" tvg-quality="576i",Falak TV
+https://falak.rst.ae/index.m3u8
+
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",GTC Punjabi
+https://mumt01.tangotv.in/O5aw8Zn3GTC/index.m3u8
+
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",GTC Punjabi
+https://streams.tangotv.in/GTC/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="MahaPunjabi.in" tvg-name="Maha Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576i",Maha Punjabi
+https://cdn.pishow.tv/ott/live/1521/master.m3u8
+
+#EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576i",PTC Punjabi
+https://cdn.pishow.tv/ott/live/1604/master.m3u8
+
+#EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",PTC Punjabi
+https://mumt04.tangotv.in/m18aqlK4PTCPUNJABI/index.m3u8
+
+#EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",PTC Punjabi
+https://streams.tangotv.in/PTCPUNJABI/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="PTCPunjabiGold.in" tvg-name="PTC Punjabi Gold" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",PTC Punjabi Gold
+https://mumt04.tangotv.in/m18aqlK4PTCPUNJABIGOLD/index.m3u8
+
+#EXTINF:-1 tvg-id="PTCPunjabiGold.in" tvg-name="PTC Punjabi Gold" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",PTC Punjabi Gold
+https://streams.tangotv.in/PTCPUNJABIGOLD/ORIGIN/index.m3u8
+

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AfraSeries.ir" tvg-name="Afra Series" group-title="Series" tvg-language="fas" tvg-quality="720p",Afra Series
+https://afrashls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PersianaSeries.fr" tvg-name="Persiana Series" group-title="Series" tvg-language="fas" tvg-quality="720p",Persiana Series
+https://onehls.persiana.live/hls/stream.m3u8
+

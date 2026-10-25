@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="100AutoMotoTV.bg" tvg-name="100% Auto Moto TV" group-title="Auto" tvg-language="bul;eng" tvg-quality="406p",100% Auto Moto TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FunRoads.us" tvg-name="Fun Roads" group-title="Auto;Travel" tvg-language="eng" tvg-quality="404p",Fun Roads
+http://104.143.4.5:2080/funroads.m3u8
+
+#EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" group-title="Auto" tvg-language="eng" tvg-quality="576p",Motorvision
+http://hls127.freeott.top:8080/Motorvision/video.m3u8
+
+#EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" group-title="Auto" tvg-language="eng" tvg-quality="576i",Motorvision
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" group-title="Auto" tvg-language="eng" tvg-quality="576i",Motorvision
+https://jmp2.uk/plu-60e5ea9a9bb4200008376f76.m3u8
+
+#EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" group-title="Auto" tvg-language="eng" tvg-quality="576i",Motorvision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCars.us" tvg-name="Pluto TV Cars" group-title="Auto" tvg-language="eng" tvg-quality="480i",Pluto TV Cars
+https://jmp2.uk/plu-5812b3a4249444e05d09cc46.m3u8
+
+#EXTINF:-1 tvg-id="PowerNationTV.us" tvg-name="PowerNation TV" group-title="Auto" tvg-language="eng" tvg-quality="480i",PowerNation TV
+https://jmp2.uk/plu-63b48016d9dd51000828fa37.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="576i",Top Gear
+https://jmp2.uk/plu-60d356a534f63f000850cdd7.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="576i",Top Gear
+https://jmp2.uk/plu-620234d766314700075cac86.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="576i",Top Gear
+https://jmp2.uk/plu-6202357dea93940007d723ca.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="576i",Top Gear
+https://jmp2.uk/plu-620239894757070008d4812d.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="576i",Top Gear
+https://jmp2.uk/plu-638e10220aa6a6000726979f.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="576i",Top Gear
+https://jmp2.uk/plu-64c1093824ade50008bd117f.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="576i",Top Gear
+https://jmp2.uk/plu-64c109735dc1660008a4a2dc.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="576i",Top Gear
+https://jmp2.uk/plu-64c109a4798def0008a6e03e.m3u8
+

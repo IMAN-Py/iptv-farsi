@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl" tvg-name="FILMBOX+ Emotion" group-title="Movies" tvg-language="hun" tvg-quality="1080p",FILMBOX+ Emotion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MAX4.hu" tvg-name="MAX4" group-title="Movies" tvg-language="hun" tvg-quality="1080p",MAX4
+http://141.94.193.53:80/MAX4_HD/index.m3u8
+

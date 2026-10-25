@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ArubaTVPlus.aw" tvg-name="ArubaTV +" group-title="Entertainment" tvg-language="eng;nld;pap" tvg-quality="480i",ArubaTV +
+https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BonceTV.cw" tvg-name="Bonce TV" group-title="Entertainment" tvg-language="nld;pap" tvg-quality="480p",Bonce TV
+https://seswa.bonce.tv/hls/bonceswa.m3u8
+

@@ -1,0 +1,116 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BeijingSatelliteTV.cn" tvg-name="Beijing Satellite TV" group-title="General" tvg-language="zho" tvg-quality="1080p",Beijing Satellite TV
+http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
+
+#EXTINF:-1 tvg-id="BeijingSatelliteTV.cn" tvg-name="Beijing Satellite TV" group-title="General" tvg-language="zho" tvg-quality="1080p",Beijing Satellite TV
+http://go.bkpcp.top/mg/bjws
+
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV-1" group-title="General" tvg-language="zho" tvg-quality="1080p",CCTV-1
+http://198.204.240.250:82/live/cctv1.m3u8
+
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV-1" group-title="General" tvg-language="zho" tvg-quality="1080p",CCTV-1
+http://69.30.245.50/live/cctv1.m3u8
+
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV-1" group-title="General" tvg-language="zho" tvg-quality="720p",CCTV-1
+http://74.91.26.218:82/live/cctv1hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4America.cn" tvg-name="CCTV-4 America" group-title="General" tvg-language="eng;zho" tvg-quality="1080p",CCTV-4 America
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-name="CCTV-4 Asia" group-title="General" tvg-language="eng;zho" tvg-quality="720p",CCTV-4 Asia
+http://74.91.26.218:82/live/cctv4hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4K.cn" tvg-name="CCTV-4K" group-title="General" tvg-language="zho" tvg-quality="1080p",CCTV-4K
+http://198.204.240.250:82/live/cctv4k.m3u8
+
+#EXTINF:-1 tvg-id="Channel8.sg" tvg-name="Channel 8" group-title="General" tvg-language="zho" tvg-quality="720p",Channel 8
+https://cdn.qd.je/163189/ch8
+
+#EXTINF:-1 tvg-id="CreaTVChannel15.us" tvg-name="CreaTV Channel 15" group-title="General" tvg-language="eng;zho" tvg-quality="720p",CreaTV Channel 15
+https://reflect-creatv.cablecast.tv/live-13/live/live.m3u8
+
+#EXTINF:-1 tvg-id="CTiVariety.tw" tvg-name="CTi Variety" group-title="General" tvg-language="zho" tvg-quality="720p",CTi Variety
+http://23.237.10.66:16372
+
+#EXTINF:-1 tvg-id="DaAi1.tw" tvg-name="DaAi 1" group-title="General" tvg-language="zho" tvg-quality="720p",DaAi 1
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+
+#EXTINF:-1 tvg-id="DaAi2.tw" tvg-name="DaAi 2" group-title="General" tvg-language="zho" tvg-quality="1080p",DaAi 2
+http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
+
+#EXTINF:-1 tvg-id="DaAi2.tw" tvg-name="DaAi 2" group-title="General" tvg-language="zho" tvg-quality="720p",DaAi 2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+
+#EXTINF:-1 tvg-id="FTV.tw" tvg-name="FTV" group-title="General" tvg-language="zho" tvg-quality="720p",FTV
+http://seb.sason.top/ptv/ftv.php?id=ms
+
+#EXTINF:-1 tvg-id="FTVOne.tw" tvg-name="FTV One" group-title="General" tvg-language="zho" tvg-quality="720p",FTV One
+http://seb.sason.top/ptv/ftv.php?id=dy
+
+#EXTINF:-1 tvg-id="HebeiTV.cn" tvg-name="Hebei TV" group-title="General" tvg-language="zho" tvg-quality="2160p",Hebei TV
+https://event.pull.hebtv.com/live/live101.m3u8
+
+#EXTINF:-1 tvg-id="HeilongjiangTV.cn" tvg-name="Heilongjiang TV" group-title="General" tvg-language="zho" tvg-quality="1080p",Heilongjiang TV
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
+
+#EXTINF:-1 tvg-id="LiaoningTV.cn" tvg-name="Liaoning TV" group-title="General" tvg-language="zho" tvg-quality="1080p",Liaoning TV
+http://112.25.48.68/live/program/live/lnwshd/4000000/mnf.m3u8
+
+#EXTINF:-1 tvg-id="LiaoningTV.cn" tvg-name="Liaoning TV" group-title="General" tvg-language="zho" tvg-quality="720p",Liaoning TV
+http://125.210.152.18:9090/live/LNWSHD_H265.m3u8
+
+#EXTINF:-1 tvg-id="LiaoningTV.cn" tvg-name="Liaoning TV" group-title="General" tvg-language="zho" tvg-quality="1080p",Liaoning TV
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227410/index.m3u8
+
+#EXTINF:-1 tvg-id="LiaoningTV.cn" tvg-name="Liaoning TV" group-title="General" tvg-language="zho" tvg-quality="1080p",Liaoning TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+
+#EXTINF:-1 tvg-id="LiaoningTV.cn" tvg-name="Liaoning TV" group-title="General" tvg-language="zho" tvg-quality="1080p",Liaoning TV
+http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8
+
+#EXTINF:-1 tvg-id="LiaoningTV.cn" tvg-name="Liaoning TV" group-title="General" tvg-language="zho" tvg-quality="1080p",Liaoning TV
+http://39.135.138.59:18890/PLTV/88888910/224/3221225696/index.m3u8
+
+#EXTINF:-1 tvg-id="LotusTV.mo" tvg-name="Lotus TV" group-title="General" tvg-language="eng;yue;zho" tvg-quality="720p",Lotus TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+
+#EXTINF:-1 tvg-id="NTDTV.us" tvg-name="NTD TV" group-title="General" tvg-language="eng;zho" tvg-quality="720p",NTD TV
+https://ntd02.akamaized.net/HD-LA/index.m3u8
+
+#EXTINF:-1 tvg-id="NTDTV.us" tvg-name="NTD TV" group-title="General" tvg-language="eng;zho" tvg-quality="1080p",NTD TV
+https://ntd02.akamaized.net/HD-NY/index.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-name="Phoenix Chinese Channel" group-title="General" tvg-language="zho" tvg-quality="720p",Phoenix Chinese Channel
+http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-name="Phoenix Chinese Channel" group-title="General" tvg-language="zho" tvg-quality="720p",Phoenix Chinese Channel
+http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-name="Phoenix Chinese Channel" group-title="General" tvg-language="zho" tvg-quality="720p",Phoenix Chinese Channel
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+
+#EXTINF:-1 tvg-id="ShandongSatelliteTV.cn" tvg-name="Shandong Satellite TV" group-title="General" tvg-language="zho" tvg-quality="720p",Shandong Satellite TV
+http://125.210.152.18:9090/live/SDWSHD_H265.m3u8
+
+#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" tvg-name="Taiwan Indigenous TV" group-title="General" tvg-language="zho" tvg-quality="720p",Taiwan Indigenous TV
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+
+#EXTINF:-1 tvg-id="TDMOuMun.mo" tvg-name="TDM Ou Mun" group-title="General" tvg-language="zho" tvg-quality="720p",TDM Ou Mun
+http://61.244.22.4/ch1/ch1.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TDMOuMun.mo" tvg-name="TDM Ou Mun" group-title="General" tvg-language="zho" tvg-quality="720p",TDM Ou Mun
+https://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TDMMacauSatellite.mo" tvg-name="TDM-Macau Satellite" group-title="General" tvg-language="zho" tvg-quality="720p",TDM-Macau Satellite
+https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBRICSChinese.cn" tvg-name="TV BRICS Chinese" group-title="General" tvg-language="zho" tvg-quality="1080p",TV BRICS Chinese
+https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" group-title="General" tvg-language="eng;hin;msa;tam;zho" tvg-quality="1080p",TV2
+https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d
+
+#EXTINF:-1 tvg-id="YunnanSatelliteTV.cn" tvg-name="Yunnan Satellite TV" group-title="General" tvg-language="zho" tvg-quality="1080p",Yunnan Satellite TV
+https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
+

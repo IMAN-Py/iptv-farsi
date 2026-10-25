@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AmritaTV.in" tvg-name="Amrita TV" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",Amrita TV
+https://ddash74r36xqp.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Asianet.in" tvg-name="Asianet" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Asianet
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="720p",Discovery Channel
+https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="720p",Discovery Channel
+https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="KCLTV.in" tvg-name="KCL TV" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",KCL TV
+https://kcltv.livebox.co.in/kclhls/live.m3u8
+
+#EXTINF:-1 tvg-id="MagnavisionTV.uk" tvg-name="Magnavision TV" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",Magnavision TV
+https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Mazhavil Manorama
+https://mmtv-vglivessai.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/f8a0827f-030f-4a0d-b7e5-338996c09a5b/index.m3u8
+
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="meWATCH LIVE 1" group-title="Entertainment" tvg-language="eng;mal;zho" tvg-quality="1080p",meWATCH LIVE 1
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+
+#EXTINF:-1 tvg-id="SunSurya.in" tvg-name="Sun Surya" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Sun Surya
+https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8
+

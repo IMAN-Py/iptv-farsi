@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AmritaTV.in" tvg-name="Amrita TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Amrita TV
+https://mumt07.tangotv.in/zHjX9OFlAMRITATV/index.m3u8
+
+#EXTINF:-1 tvg-id="AsianetMiddleEast.in" tvg-name="Asianet Middle East" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Asianet Middle East
+https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
+
+#EXTINF:-1 tvg-id="DarshanaTV.in" tvg-name="Darshana TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Darshana TV
+https://cdn.pishow.tv/ott/live/1453/master.m3u8
+
+#EXTINF:-1 tvg-id="DarshanaTV.in" tvg-name="Darshana TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Darshana TV
+https://mumt04.tangotv.in/m18aqlK4DARSHANATV/index.m3u8
+
+#EXTINF:-1 tvg-id="DarshanaTV.in" tvg-name="Darshana TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Darshana TV
+https://yuppparoriglin.akamaized.net/181224/smil:darshanatv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="DDMalayalam.in" tvg-name="DD Malayalam" group-title="Entertainment" tvg-language="mal" tvg-quality="504p",DD Malayalam
+https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
+
+#EXTINF:-1 tvg-id="JaihindTV.in" tvg-name="Jaihind TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Jaihind TV
+https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8
+
+#EXTINF:-1 tvg-id="JaihindTV.in" tvg-name="Jaihind TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Jaihind TV
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/JaihindTV.m3u8
+
+#EXTINF:-1 tvg-id="JaihindTV.in" tvg-name="Jaihind TV" group-title="Entertainment" tvg-language="mal" tvg-quality="396p",Jaihind TV
+https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="KeralaVision.in" tvg-name="Kerala Vision" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Kerala Vision
+https://cdn.pishow.tv/ott/live/243/master.m3u8
+
+#EXTINF:-1 tvg-id="KeralaVision.in" tvg-name="Kerala Vision" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Kerala Vision
+https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8
+
+#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Mazhavil Manorama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/245/master.m3u8
+
+#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="Entertainment" tvg-language="mal" tvg-quality="576i",Mazhavil Manorama
+https://cdn.pishow.tv/ott/live/1479/master.m3u8
+
+#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Mazhavil Manorama
+https://mumt03.tangotv.in/Dsly5z3HMAZHAVILMANORAMAINT/index.m3u8
+
+#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Mazhavil Manorama
+https://mumt07.tangotv.in/zHjX9OFlMAZHAVILMANORAMAHD/index.m3u8
+
+#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Mazhavil Manorama
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/MazhavilManoramaInternational.m3u8
+
+#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="Entertainment" tvg-language="mal" tvg-quality="396p",Mazhavil Manorama
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PulariTV.in" tvg-name="Pulari TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Pulari TV
+https://mumbai-edge.smartplaytv.in/PulariTV/index.m3u8
+
+#EXTINF:-1 tvg-id="PulariTV.in" tvg-name="Pulari TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576i",Pulari TV
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+

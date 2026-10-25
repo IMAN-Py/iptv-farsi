@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" group-title="Documentary" tvg-language="eng;hin;tam" tvg-quality="720p",Animal Planet
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" group-title="Documentary" tvg-language="eng;hin;tam" tvg-quality="720p",Animal Planet
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name="History TV18" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",History TV18
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name="History TV18" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",History TV18
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-name="Sony BBC Earth" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony BBC Earth
+http://103.185.24.134:3001/SONY-BBC/index.m3u8
+

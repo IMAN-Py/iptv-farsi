@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Moyastikhiya.ru" tvg-name="Moya stikhiya" group-title="Travel" tvg-language="rus" tvg-quality="1080p",Moya stikhiya
+http://stream.mcquack.net/141/index.m3u8
+
+#EXTINF:-1 tvg-id="RTGTV.ru" tvg-name="RTG TV" group-title="Travel" tvg-language="eng;rus;tur" tvg-quality="720p",RTG TV
+http://31.148.48.15/RTG_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="RTGTV.ru" tvg-name="RTG TV" group-title="Travel" tvg-language="rus" tvg-quality="1080p",RTG TV
+http://46.53.200.153:7777/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-id="RTGTV.ru" tvg-name="RTG TV" group-title="Travel" tvg-language="rus" tvg-quality="1080p",RTG TV
+http://stream.mcquack.net/164/index.m3u8
+
+#EXTINF:-1 tvg-id="TravelPlusAdventure.ru" tvg-name="Travel+Adventure" group-title="Travel" tvg-language="eng;rus" tvg-quality="1080p",Travel+Adventure
+http://31.148.48.15/Travel_Adventure_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="TravelPlusAdventure.ru" tvg-name="Travel+Adventure" group-title="Travel" tvg-language="eng;rus" tvg-quality="1080p",Travel+Adventure
+http://77.232.131.211/TravelAdventureHD/index.m3u8
+
+#EXTINF:-1 tvg-id="TravelPlusAdventure.ru" tvg-name="Travel+Adventure" group-title="Travel" tvg-language="eng;rus" tvg-quality="1080p",Travel+Adventure
+http://stream.mcquack.net/206/index.m3u8
+
+#EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" group-title="Travel" tvg-language="rus" tvg-quality="1080p",Travelxp
+http://stream.mcquack.net/451/index.m3u8
+

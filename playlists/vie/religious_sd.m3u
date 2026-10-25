@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABHPTV.us" tvg-name="ABHP TV" group-title="Religious" tvg-language="vie" tvg-quality="480p",ABHP TV
+https://vietprocast.app/hls/abhp/index.m3u8
+

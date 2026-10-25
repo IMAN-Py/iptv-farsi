@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl" tvg-name="FILMBOX+ Love & Crime" group-title="Movies" tvg-language="cze" tvg-quality="720p",FILMBOX+ Love & Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.212.15.17/live/test_filmbox_plus_atk_1200/playlist.m3u8
+

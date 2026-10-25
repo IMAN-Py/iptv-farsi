@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TNTKidsTV.ba" tvg-name="TNT Kids TV" group-title="Kids" tvg-language="bos" tvg-quality="288p",TNT Kids TV
+https://restreamer1.tnt.ba/hls/tntkids.m3u8
+

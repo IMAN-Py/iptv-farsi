@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Kurdsat.iq" tvg-name="Kurdsat" group-title="Entertainment" tvg-language="ara;kur" tvg-quality="1080p",Kurdsat
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+

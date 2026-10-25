@@ -1,0 +1,88 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV" group-title="Movies" tvg-language="hin" tvg-quality="1080p",&TV
+https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV" group-title="Movies" tvg-language="hin" tvg-quality="1080p",&TV
+https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV" group-title="Movies" tvg-language="hin" tvg-quality="720p",&TV
+https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="AndxplorHD.in" tvg-name="&xplor HD" group-title="Movies" tvg-language="hin" tvg-quality="1080p",&xplor HD
+http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY
+
+#EXTINF:-1 tvg-id="Bollygold.in" tvg-name="Bollygold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Bollygold
+https://jmp2.uk/stvp-IN4000600Q
+
+#EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-name="Colors Cineplex" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Colors Cineplex
+http://103.151.60.162:2122/play/a02s/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="ManoranjanGrand.in" tvg-name="Manoranjan Grand" group-title="Movies" tvg-language="hin" tvg-quality="720p",Manoranjan Grand
+https://cdn.pishow.tv/ott/live/1011/master.m3u8
+
+#EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-name="MBC Bollywood" group-title="Movies" tvg-language="ara;eng;hin" tvg-quality="1080p",MBC Bollywood
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+
+#EXTINF:-1 tvg-id="NHBollyFlix.in" tvg-name="NH BollyFlix" group-title="Movies" tvg-language="hin" tvg-quality="1080p",NH BollyFlix
+https://jmp2.uk/stvp-IN46000140Q
+
+#EXTINF:-1 tvg-id="NHBollyGold.in" tvg-name="NH BollyGold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",NH BollyGold
+https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PocketFilms.in" tvg-name="Pocket Films" group-title="Movies" tvg-language="hin" tvg-quality="720p",Pocket Films
+https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8
+
+#EXTINF:-1 tvg-id="ShemarooFilmiGaane.in" tvg-name="Shemaroo Filmi Gaane" group-title="Movies;Music" tvg-language="hin" tvg-quality="1080p",Shemaroo Filmi Gaane
+https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShubhCinemaTV.in" tvg-name="Shubh Cinema TV" group-title="Movies" tvg-language="hin" tvg-quality="720p",Shubh Cinema TV
+https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Sony Max
+http://103.151.60.162:2122/play/a014/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" group-title="Movies" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony Pix
+http://103.151.60.162:2122/play/a01d/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="SonyWah.in" tvg-name="Sony Wah" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Sony Wah
+https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
+
+#EXTINF:-1 tvg-id="SouthStation.in" tvg-name="South Station" group-title="Movies" tvg-language="hin" tvg-quality="1080p",South Station
+https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
+
+#EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold
+http://103.151.60.162:2122/play/a01n/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold
+http://103.185.24.134:3001/Star-Gold/index.m3u8
+
+#EXTINF:-1 tvg-id="StarGold2.in" tvg-name="Star Gold 2" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Star Gold 2
+http://103.151.60.162:2122/play/a01v/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
+http://103.151.60.162:2122/play/a02k/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
+http://103.185.24.134:3001/Star-Movies/index.m3u8
+
+#EXTINF:-1 tvg-id="TheMovieClub.in" tvg-name="The Movie Club" group-title="Movies" tvg-language="hin" tvg-quality="1080p",The Movie Club
+https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
+
+#EXTINF:-1 tvg-id="TheMovieClub.in" tvg-name="The Movie Club" group-title="Movies" tvg-language="hin" tvg-quality="1080p",The Movie Club
+https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8
+
+#EXTINF:-1 tvg-id="TheMovieClub.in" tvg-name="The Movie Club" group-title="Movies" tvg-language="hin" tvg-quality="1080p",The Movie Club
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Zee Cinema
+http://103.151.60.162:2122/play/a012/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Zee Cinema
+http://103.151.60.162:2122/play/a024/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="Movies" tvg-language="hin" tvg-quality="720p",Zee Cinema
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
+
+#EXTINF:-1 tvg-id="ZeeSouthFlix.in" tvg-name="Zee South Flix" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Zee South Flix
+https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
+

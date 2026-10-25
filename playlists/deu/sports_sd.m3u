@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="K19.at" tvg-name="K19" group-title="Sports" tvg-language="deu" tvg-quality="576i",K19
+https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheCyclingChannel.at" tvg-name="The Cycling Channel" group-title="Sports" tvg-language="deu;eng" tvg-quality="576i",The Cycling Channel
+https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
+
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour" group-title="Sports" tvg-language="deu" tvg-quality="576i",World Poker Tour
+https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8
+

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ozbekiston24.uz" tvg-name="O'zbekiston 24" group-title="News" tvg-language="uzb" tvg-quality="1080p",O'zbekiston 24
+https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UzReportTV.uz" tvg-name="UzReport TV" group-title="News" tvg-language="eng;rus;uzb" tvg-quality="1080p",UzReport TV
+https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8
+

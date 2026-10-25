@@ -1,0 +1,66 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlAlamAlYawm.sa" tvg-name="Al Alam Al Yawm" group-title="News" tvg-language="ara" tvg-quality="576i",Al Alam Al Yawm
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b928000.m3u8
+
+#EXTINF:-1 tvg-id="AlEkhbariya.sa" tvg-name="Al Ekhbariya" group-title="News" tvg-language="ara" tvg-quality="360p",Al Ekhbariya
+https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJanoubTV.iq" tvg-name="Al Janoub TV" group-title="News" tvg-language="ara" tvg-quality="576i",Al Janoub TV
+https://live.alissahost.net/hls/test.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="ara" tvg-quality="576i",Al Jazeera
+https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="ara" tvg-quality="576i",Al Jazeera
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8
+
+#EXTINF:-1 tvg-id="AlMasarTV.ly" tvg-name="Al Masar TV" group-title="News" tvg-language="ara" tvg-quality="576p",Al Masar TV
+https://starmenajo.com/hls/almasar/index.m3u8
+
+#EXTINF:-1 tvg-id="AlMasirahMubacher.ye" tvg-name="Al Masirah Mubacher" group-title="News" tvg-language="ara" tvg-quality="642p",Al Masirah Mubacher
+https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlMayadeenTV.lb" tvg-name="Al Mayadeen TV" group-title="News" tvg-language="ara" tvg-quality="576p",Al Mayadeen TV
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlManar.lb" tvg-name="Al-Manar" group-title="News" tvg-language="ara" tvg-quality="576p",Al-Manar
+https://edge.fastpublish.me/live/index.m3u8
+
+#EXTINF:-1 tvg-id="AL24News.dz" tvg-name="AL24 News" group-title="News" tvg-language="ara;eng;fra" tvg-quality="576i",AL24 News
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AlmahriahTV.tr" tvg-name="Almahriah TV" group-title="News" tvg-language="ara" tvg-quality="576p",Almahriah TV
+https://starmenajo.com/hls/almahriah/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCArabic.uk" tvg-name="BBC Arabic" group-title="News" tvg-language="ara" tvg-quality="540p",BBC Arabic
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" group-title="News" tvg-language="ara" tvg-quality="576i",CGTN Arabic
+https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" group-title="News" tvg-language="ara" tvg-quality="576p",CGTN Arabic
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="ara" tvg-quality="360p",France 24
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_500.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="ara" tvg-quality="576p",France 24
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="ara" tvg-quality="360p",France 24
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_500.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="ara" tvg-quality="576p",France 24
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-id="KolalnasTV.ps" tvg-name="Kolalnas TV" group-title="News" tvg-language="ara" tvg-quality="576i",Kolalnas TV
+https://htvint.mada.ps/kolalnas/index.m3u8
+
+#EXTINF:-1 tvg-id="KTVNews.kw" tvg-name="KTV News" group-title="News" tvg-language="ara" tvg-quality="360p",KTV News
+https://cdn-globecast.akamaized.net/live/eds/ktv_al_akhbar/hls_roku/ktv_al_akhbar.m3u8
+
+#EXTINF:-1 tvg-id="PalestineToday.ps" tvg-name="Palestine Today" group-title="News" tvg-language="ara" tvg-quality="480p",Palestine Today
+https://live.paltodaytv.com/paltv/live/playlist.m3u8
+

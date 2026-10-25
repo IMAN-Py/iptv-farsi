@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BelleAmie.rs" tvg-name="Belle Amie" group-title="General" tvg-language="srp" tvg-quality="540p",Belle Amie
+http://92.60.238.10:1935/live/belleamie/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PannonTV.rs" tvg-name="Pannon TV" group-title="General" tvg-language="srp" tvg-quality="648p",Pannon TV
+https://stream.nmih.hu:4102/live.m3u8
+
+#EXTINF:-1 tvg-id="RadiotelevizijaRozaje.me" tvg-name="Radio televizija Rozaje" group-title="General" tvg-language="srp" tvg-quality="614p",Radio televizija Rozaje
+https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8
+

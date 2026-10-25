@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="5AABTV.ca" tvg-name="5AAB TV" group-title="Entertainment" tvg-language="pan" tvg-quality="720p",5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DesiChannel.in" tvg-name="Desi Channel" group-title="Entertainment" tvg-language="pan" tvg-quality="720p",Desi Channel
+https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
+
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",GTC Punjabi
+https://cdn.ottlive.co.in/gtcpunjabi/index.m3u8
+
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",GTC Punjabi
+https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8
+
+#EXTINF:-1 tvg-id="PrimeCanadaTV.ca" tvg-name="Prime Canada TV" group-title="Entertainment" tvg-language="pan" tvg-quality="720p",Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",PTC Punjabi
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
+
+#EXTINF:-1 tvg-id="PTCPunjabiGold.in" tvg-name="PTC Punjabi Gold" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",PTC Punjabi Gold
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
+
+#EXTINF:-1 tvg-id="PunjabiTV.in" tvg-name="Punjabi TV" group-title="Entertainment" tvg-language="pan" tvg-quality="720p",Punjabi TV
+https://samitaorigin.tangotv.in/PUNJABITV/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="SADATV.in" tvg-name="SADA TV" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",SADA TV
+http://cdn12.henico.net:8080/live/sadatv/index.m3u8
+

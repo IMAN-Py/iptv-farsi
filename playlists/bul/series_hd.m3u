@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="StarCrime.bg" tvg-name="Star Crime" group-title="Series" tvg-language="bul" tvg-quality="720p",Star Crime
+http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8
+
+#EXTINF:-1 tvg-id="StarLife.bg" tvg-name="Star Life" group-title="Series" tvg-language="bul" tvg-quality="720p",Star Life
+http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8
+

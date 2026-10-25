@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Channel13.mv" tvg-name="Channel 13" group-title="General" tvg-language="div" tvg-quality="720p",Channel 13
+https://stream.theyraonline.com/live/channel13@live/index.m3u8
+
+#EXTINF:-1 tvg-id="MMTV.mv" tvg-name="MMTV" group-title="General" tvg-language="div;eng" tvg-quality="1080p",MMTV
+https://sendlive.online/hls/mmtv.m3u8
+

@@ -1,0 +1,204 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ani.ru" tvg-name="Ani" group-title="Kids" tvg-language="rus" tvg-quality="576p",Ani
+http://31.148.48.15/Ani/index.m3u8
+
+#EXTINF:-1 tvg-id="Ani.ru" tvg-name="Ani" group-title="Kids" tvg-language="rus" tvg-quality="576p",Ani
+http://46.32.176.50/anitv/index.m3u8
+
+#EXTINF:-1 tvg-id="Ani.ru" tvg-name="Ani" group-title="Kids" tvg-language="rus" tvg-quality="576p",Ani
+http://flussonic.linkintel.ru/Ani/index.m3u8
+
+#EXTINF:-1 tvg-id="Ani.ru" tvg-name="Ani" group-title="Kids" tvg-language="rus" tvg-quality="576p",Ani
+http://stream.mcquack.net/306/index.m3u8
+
+#EXTINF:-1 tvg-id="Aqlvoy.uz" tvg-name="Aqlvoy" group-title="Kids" tvg-language="eng;rus;uzb" tvg-quality="576i",Aqlvoy
+https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BabyTime.ru" tvg-name="Baby Time" group-title="Kids;Music" tvg-language="rus" tvg-quality="576p",Baby Time
+http://178.134.1.158:8081/babytime/index.m3u8
+
+#EXTINF:-1 tvg-id="BabyTime.ru" tvg-name="Baby Time" group-title="Kids;Music" tvg-language="rus" tvg-quality="576p",Baby Time
+https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="480i",BabyFirst
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+
+#EXTINF:-1 tvg-id="BilimIlim.kg" tvg-name="Bilim Ilim" group-title="Kids;Science" tvg-language="kir;rus" tvg-quality="480p",Bilim Ilim
+http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
+
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576p",Carousel
+http://31.148.5.241/kanal_8/index.m3u8
+
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576p",Carousel
+http://88.212.15.17/live/test_karusel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576p",Carousel
+http://flussonic.linkintel.ru/Karusel/index.m3u8
+
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576p",Carousel
+http://stream.mcquack.net/120/index.m3u8
+
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576p",Carousel
+https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576i",Carousel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/11.m3u8
+
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576i",Carousel
+https://streaming.televizor-24-tochka.ru/live/232.m3u8
+
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="540p",Carousel
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+
+#EXTINF:-1 tvg-id="CarouselInternational.ru" tvg-name="Carousel International" group-title="Kids" tvg-language="rus" tvg-quality="576p",Carousel International
+https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Detskiy.ru" tvg-name="Detskiy" group-title="Kids" tvg-language="rus" tvg-quality="576p",Detskiy
+https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="GulliGirl.ru" tvg-name="Gulli Girl" group-title="Kids" tvg-language="rus" tvg-quality="576p",Gulli Girl
+http://flussonic.linkintel.ru/gulli_girl/index.m3u8
+
+#EXTINF:-1 tvg-id="GulliGirl.ru" tvg-name="Gulli Girl" group-title="Kids" tvg-language="rus" tvg-quality="576p",Gulli Girl
+http://stream.mcquack.net/305/index.m3u8
+
+#EXTINF:-1 tvg-id="GulliGirl.ru" tvg-name="Gulli Girl" group-title="Kids" tvg-language="rus" tvg-quality="576p",Gulli Girl
+https://live-3.otcnet.ru/GulliGirl/index.m3u8
+
+#EXTINF:-1 tvg-id="KapitanFantastika.ru" tvg-name="Kapitan Fantastika" group-title="Kids" tvg-language="rus" tvg-quality="576p",Kapitan Fantastika
+https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Mama.ru" tvg-name="Mama" group-title="Kids" tvg-language="rus" tvg-quality="576p",Mama
+http://31.148.48.15/Mama/index.m3u8
+
+#EXTINF:-1 tvg-id="Mama.ru" tvg-name="Mama" group-title="Kids" tvg-language="rus" tvg-quality="576p",Mama
+http://flussonic.linkintel.ru/mama/index.m3u8
+
+#EXTINF:-1 tvg-id="Mama.ru" tvg-name="Mama" group-title="Kids" tvg-language="rus" tvg-quality="576p",Mama
+http://stream.mcquack.net/79/index.m3u8
+
+#EXTINF:-1 tvg-id="Mama.ru" tvg-name="Mama" group-title="Kids" tvg-language="rus" tvg-quality="576p",Mama
+https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Mult.ru" tvg-name="Mult" group-title="Kids" tvg-language="kaz;rus" tvg-quality="576p",Mult
+http://31.148.48.15/Mult/index.m3u8
+
+#EXTINF:-1 tvg-id="Mult.ru" tvg-name="Mult" group-title="Kids" tvg-language="kaz;rus" tvg-quality="576p",Mult
+http://flussonic.linkintel.ru/Mult/index.m3u8
+
+#EXTINF:-1 tvg-id="Mult.ru" tvg-name="Mult" group-title="Kids" tvg-language="kaz;rus" tvg-quality="576p",Mult
+http://stream.mcquack.net/232/index.m3u8
+
+#EXTINF:-1 tvg-id="Mult.ru" tvg-name="Mult" group-title="Kids" tvg-language="rus" tvg-quality="576p",Mult
+https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Mult.ru" tvg-name="Mult" group-title="Kids" tvg-language="kaz;rus" tvg-quality="576p",Mult
+https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Multimuzyka.ru" tvg-name="Mult i muzyka" group-title="Kids" tvg-language="rus" tvg-quality="576p",Mult i muzyka
+http://31.148.48.15/Multimuzika/index.m3u8
+
+#EXTINF:-1 tvg-id="Multimuzyka.ru" tvg-name="Mult i muzyka" group-title="Kids" tvg-language="rus" tvg-quality="576p",Mult i muzyka
+http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8
+
+#EXTINF:-1 tvg-id="Multimuzyka.ru" tvg-name="Mult i muzyka" group-title="Kids" tvg-language="rus" tvg-quality="576p",Mult i muzyka
+http://stream.mcquack.net/82/index.m3u8
+
+#EXTINF:-1 tvg-id="Multilandia.ru" tvg-name="Multilandia" group-title="Kids" tvg-language="rus" tvg-quality="576p",Multilandia
+http://31.148.48.15/Multilandiya/index.m3u8
+
+#EXTINF:-1 tvg-id="Multilandia.ru" tvg-name="Multilandia" group-title="Kids" tvg-language="rus" tvg-quality="576p",Multilandia
+https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Multilandia.ru" tvg-name="Multilandia" group-title="Kids" tvg-language="rus" tvg-quality="576i",Multilandia
+https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NewChannelPop.ca" tvg-name="New Channel Pop!" group-title="Kids" tvg-language="eng;ind;msa;por;rus" tvg-quality="480p",New Channel Pop!
+#EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6ab37c6c7e057f9063071c85
+https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.ru" tvg-name="Nick Jr." group-title="Kids" tvg-language="rus" tvg-quality="576p",Nick Jr.
+http://stream.mcquack.net/220/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.ru" tvg-name="Nick Jr." group-title="Kids" tvg-language="rus" tvg-quality="576p",Nick Jr.
+https://stream8.cinerama.uz/1501/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.ru" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng;rus" tvg-quality="576p",Nickelodeon
+http://stream.mcquack.net/443/index.m3u8
+
+#EXTINF:-1 tvg-id="O.ru" tvg-name="O!" group-title="Kids" tvg-language="rus" tvg-quality="576p",O!
+http://stream.mcquack.net/60/index.m3u8
+
+#EXTINF:-1 tvg-id="RadostMoya.ru" tvg-name="Radost Moya" group-title="Kids" tvg-language="rus" tvg-quality="576p",Radost Moya
+http://31.148.48.15/Radost_moya/index.m3u8
+
+#EXTINF:-1 tvg-id="RadostMoya.ru" tvg-name="Radost Moya" group-title="Kids" tvg-language="rus" tvg-quality="576p",Radost Moya
+https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadostMoya.ru" tvg-name="Radost Moya" group-title="Kids" tvg-language="rus" tvg-quality="576p",Radost Moya
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+
+#EXTINF:-1 tvg-id="Ryzhiy.ru" tvg-name="Ryzhiy" group-title="Kids" tvg-language="rus" tvg-quality="576p",Ryzhiy
+http://31.148.48.15/Rizhiy/index.m3u8
+
+#EXTINF:-1 tvg-id="Ryzhiy.ru" tvg-name="Ryzhiy" group-title="Kids" tvg-language="rus" tvg-quality="576i",Ryzhiy
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Smotrim100Detskoe.ru" tvg-name="Smotrim 100% Detskoe" group-title="Kids" tvg-language="rus" tvg-quality="576i",Smotrim 100% Detskoe
+https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
+
+#EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" group-title="Animation;Kids" tvg-language="rus" tvg-quality="576p",Solnce
+http://217.114.191.150/Solnce/index.m3u8
+
+#EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" group-title="Animation;Kids" tvg-language="rus" tvg-quality="576p",Solnce
+http://31.148.48.15/Solnce/index.m3u8
+
+#EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" group-title="Animation;Kids" tvg-language="rus" tvg-quality="576p",Solnce
+http://46.32.176.50/solnce/index.m3u8
+
+#EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" group-title="Animation;Kids" tvg-language="rus" tvg-quality="576p",Solnce
+http://stream.mcquack.net/118/index.m3u8
+
+#EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" group-title="Animation;Kids" tvg-language="rus" tvg-quality="576p",Solnce
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" group-title="Animation;Kids" tvg-language="rus" tvg-quality="450p",Solnce
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+
+#EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" group-title="Animation;Kids" tvg-language="rus" tvg-quality="576p",Solnce
+https://tv.mediacdn.ru/live/solntse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="STSkids.ru" tvg-name="STS kids" group-title="Kids" tvg-language="rus" tvg-quality="576p",STS kids
+http://hls127.freeott.top:8080/STS_Kids/video.m3u8
+
+#EXTINF:-1 tvg-id="STSkids.ru" tvg-name="STS kids" group-title="Kids" tvg-language="rus" tvg-quality="576p",STS kids
+http://stream.mcquack.net/197/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperGeroi.ru" tvg-name="SuperGeroi" group-title="Kids" tvg-language="rus" tvg-quality="576p",SuperGeroi
+http://109.94.1.3:8080/132/index.m3u8
+
+#EXTINF:-1 tvg-id="TiJi.ru" tvg-name="TiJi" group-title="Kids" tvg-language="rus" tvg-quality="576p",TiJi
+http://flussonic.linkintel.ru/tiji/index.m3u8
+
+#EXTINF:-1 tvg-id="TiJi.ru" tvg-name="TiJi" group-title="Kids" tvg-language="rus" tvg-quality="576p",TiJi
+http://stream.mcquack.net/111/index.m3u8
+
+#EXTINF:-1 tvg-id="TiJi.ru" tvg-name="TiJi" group-title="Kids" tvg-language="rus" tvg-quality="576p",TiJi
+https://live-3.otcnet.ru/Tiji/index.m3u8
+
+#EXTINF:-1 tvg-id="TiJi.ru" tvg-name="TiJi" group-title="Kids" tvg-language="rus" tvg-quality="576p",TiJi
+https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Unikum.ru" tvg-name="Unikum" group-title="Kids" tvg-language="rus" tvg-quality="576p",Unikum
+http://31.148.48.15/Detskiy/index.m3u8
+
+#EXTINF:-1 tvg-id="Vgostyakhuskazki.ru" tvg-name="V gostyakh u skazki" group-title="Kids" tvg-language="rus" tvg-quality="576p",V gostyakh u skazki
+http://stream.mcquack.net/93/index.m3u8
+
+#EXTINF:-1 tvg-id="Vgostyakhuskazki.ru" tvg-name="V gostyakh u skazki" group-title="Kids" tvg-language="rus" tvg-quality="576p",V gostyakh u skazki
+https://fs.uplink.kz/v_gostyah_u_skazki/mono.m3u8?token=onlinetv
+

@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Eurosport1Polska.pl" tvg-name="Eurosport 1 Polska" group-title="Sports" tvg-language="pol" tvg-quality="1080p",Eurosport 1 Polska
+http://57.128.210.196:8080/264/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2Polska.pl" tvg-name="Eurosport 2 Polska" group-title="Sports" tvg-language="pol" tvg-quality="1080p",Eurosport 2 Polska
+http://57.128.210.196:8080/263/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="Polsat Sport Fight" group-title="Sports" tvg-language="pol" tvg-quality="1080p",Polsat Sport Fight
+http://57.128.210.196:8080/194/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP Sport" group-title="Sports" tvg-language="pol" tvg-quality="1080p",TVP Sport
+http://57.128.210.196:8080/134/index.m3u8
+

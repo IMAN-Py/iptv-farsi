@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AfraFilm.ir" tvg-name="Afra Film" group-title="Movies" tvg-language="fas" tvg-quality="720p",Afra Film
+https://afrafhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="CafeFilm.ir" tvg-name="Cafe Film" group-title="Movies" tvg-language="fas" tvg-quality="720p",Cafe Film
+https://cafefhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="GoldStar.ir" tvg-name="Gold Star" group-title="Movies" tvg-language="fas" tvg-quality="720p",Gold Star
+https://moviethls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="HomePlus.ir" tvg-name="HomePlus" group-title="Movies" tvg-language="fas" tvg-quality="720p",HomePlus
+https://homeplushls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ICCplus.us" tvg-name="ICC plus" group-title="Movies" tvg-language="fas" tvg-quality="1080p",ICC plus
+https://icchls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="MaahTV.my" tvg-name="Maah TV" group-title="Movies" tvg-language="fas" tvg-quality="720p",Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="NewFlix.ir" tvg-name="NewFlix" group-title="Movies" tvg-language="fas" tvg-quality="720p",NewFlix
+https://newfhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="T2Movies.ir" tvg-name="T2 Movies" group-title="Movies" tvg-language="fas" tvg-quality="720p",T2 Movies
+https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
+

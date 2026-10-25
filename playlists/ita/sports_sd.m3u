@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TRSport.it" tvg-name="TR Sport" group-title="Sports" tvg-language="ita" tvg-quality="480p",TR Sport
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Nova.rs" tvg-name="Nova" group-title="General" tvg-language="srp" tvg-quality="1080p",Nova
+https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas
+

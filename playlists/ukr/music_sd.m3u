@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MegogoMusic.ua" tvg-name="Megogo Music" group-title="Music" tvg-language="ukr" tvg-quality="576i",Megogo Music
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
+
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Muzyka Pervogo" group-title="Music" tvg-language="rus;ukr" tvg-quality="576p",Muzyka Pervogo
+http://88.212.15.17/live/test_muzyka_pervogo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Muzyka Pervogo" group-title="Music" tvg-language="rus;ukr" tvg-quality="576p",Muzyka Pervogo
+http://stream.mcquack.net/153/index.m3u8
+
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Muzyka Pervogo" group-title="Music" tvg-language="rus;ukr" tvg-quality="576i",Muzyka Pervogo
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+

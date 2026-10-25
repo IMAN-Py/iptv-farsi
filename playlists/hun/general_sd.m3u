@@ -1,0 +1,112 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="16tvBudapest.hu" tvg-name="16tv Budapest" group-title="General" tvg-language="hun" tvg-quality="360p",16tv Budapest
+https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7TV.hu" tvg-name="7.TV" group-title="General" tvg-language="hun" tvg-quality="360p",7.TV
+https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
+
+#EXTINF:-1 tvg-id="ATV.hu" tvg-name="ATV" group-title="General" tvg-language="hun" tvg-quality="576i",ATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_atv_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATV.hu" tvg-name="ATV" group-title="General" tvg-language="hun" tvg-quality="360p",ATV
+https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATV.hu" tvg-name="ATV" group-title="General" tvg-language="hun" tvg-quality="160p",ATV
+https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BTV.hu" tvg-name="BTV" group-title="General" tvg-language="hun" tvg-quality="360p",BTV
+https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BudapestEuropaTelevizio.hu" tvg-name="Budapest Europa Televizio" group-title="General" tvg-language="hun" tvg-quality="576p",Budapest Europa Televizio
+https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CityTV.hu" tvg-name="City TV" group-title="General" tvg-language="hun" tvg-quality="576i",City TV
+https://citytv.hu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Duna.hu" tvg-name="Duna" group-title="General" tvg-language="hun" tvg-quality="576i",Duna
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/duna_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="DunaWorld.hu" tvg-name="Duna World" group-title="General" tvg-language="hun" tvg-quality="576i",Duna World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/duna_world_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="ESTV.hu" tvg-name="ESTV" group-title="General" tvg-language="hun" tvg-quality="420p",ESTV
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESTV.hu" tvg-name="ESTV" group-title="General" tvg-language="hun" tvg-quality="576i",ESTV
+https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE040.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FehervarTV.hu" tvg-name="Fehervar TV" group-title="General" tvg-language="hun" tvg-quality="360p",Fehervar TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Galaxy4.hu" tvg-name="Galaxy4" group-title="General" tvg-language="hun" tvg-quality="576i",Galaxy4
+https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GyongyosiTV.hu" tvg-name="Gyongyosi TV" group-title="General" tvg-language="hun" tvg-quality="576p",Gyongyosi TV
+https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GyongyosiTV.hu" tvg-name="Gyongyosi TV" group-title="General" tvg-language="hun" tvg-quality="576i",Gyongyosi TV
+https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HegyvidekTV.hu" tvg-name="Hegyvidek TV" group-title="General" tvg-language="hun" tvg-quality="576i",Hegyvidek TV
+https://iptv02.eurocable.co.hu:15400/EC-HEGYVIDEKTV-FTA/index.m3u8
+
+#EXTINF:-1 tvg-id="HegyvidekTV.hu" tvg-name="Hegyvidek TV" group-title="General" tvg-language="hun" tvg-quality="576p",Hegyvidek TV
+https://tv.hegyvidek.hu/stream_mpeg.flv
+
+#EXTINF:-1 tvg-id="JaszsagiTersegiTV.hu" tvg-name="Jaszsagi Tersegi TV" group-title="General" tvg-language="hun" tvg-quality="440p",Jaszsagi Tersegi TV
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KanizsaTV.hu" tvg-name="Kanizsa TV" group-title="General" tvg-language="hun" tvg-quality="400p",Kanizsa TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KecskemetiTV.hu" tvg-name="Kecskemeti TV" group-title="General" tvg-language="hun" tvg-quality="416p",Kecskemeti TV
+http://rtmp1.40e.hu:8000/live/ktv.m3u8
+
+#EXTINF:-1 tvg-id="KecskemetiTV.hu" tvg-name="Kecskemeti TV" group-title="General" tvg-language="hun" tvg-quality="416p",Kecskemeti TV
+https://eurobioinvest.hu:444/live/ktv.m3u8
+
+#EXTINF:-1 tvg-id="KomaromiTelevizio.hu" tvg-name="Komaromi Televizio" group-title="General" tvg-language="hun" tvg-quality="400p",Komaromi Televizio
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MakoiVarosiTelevizio.hu" tvg-name="Makoi Varosi Televizio" group-title="General" tvg-language="hun" tvg-quality="576p",Makoi Varosi Televizio
+http://makomedia.mikrohalo.hu/hls/makotv.m3u8
+
+#EXTINF:-1 tvg-id="MezokovesdiTelevizio.hu" tvg-name="Mezokovesdi Televizio" group-title="General" tvg-language="hun" tvg-quality="360p",Mezokovesdi Televizio
+https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MoraNetTV.hu" tvg-name="Mora-Net TV" group-title="General" tvg-language="hun" tvg-quality="576p",Mora-Net TV
+https://stream.moranettv.hu/live/index.m3u8
+
+#EXTINF:-1 tvg-id="RegioTV.sk" tvg-name="Regio TV" group-title="General" tvg-language="hun" tvg-quality="406p",Regio TV
+http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
+
+#EXTINF:-1 tvg-id="RegioTV.sk" tvg-name="Regio TV" group-title="General" tvg-language="hun" tvg-quality="576i",Regio TV
+https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SIXOTV.hu" tvg-name="SIXO TV" group-title="General" tvg-language="hun" tvg-quality="360p",SIXO TV
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelePaks.hu" tvg-name="TelePaks" group-title="General" tvg-language="hun" tvg-quality="396p",TelePaks
+https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVKeszthely.hu" tvg-name="TV Keszthely" group-title="General" tvg-language="hun" tvg-quality="360p",TV Keszthely
+https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VasarhelyiTelevizio.hu" tvg-name="Vasarhelyi Televizio" group-title="General" tvg-language="hun" tvg-quality="576p",Vasarhelyi Televizio
+https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
+
+#EXTINF:-1 tvg-id="VolgyhidTV.hu" tvg-name="Volgyhid TV" group-title="General" tvg-language="hun" tvg-quality="540p",Volgyhid TV
+https://5cd03f21c7193.streamlock.net/volgyhidtv/mediakft/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VTVMor.hu" tvg-name="VTV Mor" group-title="General" tvg-language="hun" tvg-quality="360p",VTV Mor
+https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WilliamsTV.hu" tvg-name="Williams TV" group-title="General" tvg-language="hun" tvg-quality="480p",Williams TV
+http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XVTV.hu" tvg-name="XV TV" group-title="General" tvg-language="hun" tvg-quality="480p",XV TV
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
+

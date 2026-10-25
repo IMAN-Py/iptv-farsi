@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ColorsGujarati.in" tvg-name="Colors Gujarati" group-title="Entertainment" tvg-language="guj" tvg-quality="396p",Colors Gujarati
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
+

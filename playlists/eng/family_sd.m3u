@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1KZNTV.za" tvg-name="1KZN TV" group-title="Entertainment;Family;General" tvg-language="eng" tvg-quality="576p",1KZN TV
+https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelPROYECTOJA.cr" tvg-name="Hope Channel PROYECTO JA" group-title="Family;Music;Religious" tvg-language="eng;spa" tvg-quality="360p",Hope Channel PROYECTO JA
+https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8
+
+#EXTINF:-1 tvg-id="LTNFamily.pk" tvg-name="LTN Family" group-title="Family" tvg-language="eng" tvg-quality="576p",LTN Family
+http://103.250.28.74:8000/play/a02j/index.m3u8
+
+#EXTINF:-1 tvg-id="MyFamily.id" tvg-name="My Family" group-title="Family" tvg-language="eng" tvg-quality="576i",My Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
+
+#EXTINF:-1 tvg-id="PositivTV.us" tvg-name="Positiv TV" group-title="Family" tvg-language="eng" tvg-quality="636p",Positiv TV
+http://trn03.bozztv.com/gin-positiv/index.m3u8
+
+#EXTINF:-1 tvg-id="SowetoTV.za" tvg-name="Soweto TV" group-title="Entertainment;Family" tvg-language="eng" tvg-quality="576p",Soweto TV
+https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperscreenTV.ng" tvg-name="Superscreen TV" group-title="Culture;Family" tvg-language="eng" tvg-quality="412p",Superscreen TV
+https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="Family" tvg-language="eng" tvg-quality="480i",The Pet Collective
+https://jmp2.uk/plu-62e92b5fca869f00078f0162.m3u8
+
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="Family" tvg-language="eng" tvg-quality="576i",The Pet Collective
+https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="Family" tvg-language="eng" tvg-quality="480i",The Pet Collective
+https://the-pet-collective-international-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="Family" tvg-language="eng" tvg-quality="576i",The Pet Collective
+https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TshwaneTV.za" tvg-name="Tshwane TV" group-title="Entertainment;Family;General" tvg-language="eng" tvg-quality="576p",Tshwane TV
+https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSFamilyChannel.us" tvg-name="TVS Family Channel" group-title="Family" tvg-language="eng" tvg-quality="360p",TVS Family Channel
+https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
+

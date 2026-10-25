@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SpektrumHome.cz" tvg-name="Spektrum Home" group-title="Entertainment" tvg-language="ces;slk" tvg-quality="576i",Spektrum Home
+http://88.212.15.17/live/test_home_hevc/playlist.m3u8
+

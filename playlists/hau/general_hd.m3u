@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TeleSahel.ne" tvg-name="Tele Sahel" group-title="General" tvg-language="dje;fra;hau;tmh" tvg-quality="1080p",Tele Sahel
+https://mediaserver1.castpin.com/hls/telesahel/index.m3u8
+

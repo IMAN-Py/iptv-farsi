@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" group-title="Business" tvg-language="eng" tvg-quality="270p",Bloomberg TV
+https://bloomberg.com/media-manifest/streams/aus.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" group-title="Business" tvg-language="eng" tvg-quality="576p",Bloomberg TV
+https://tvsen6.aynaott.com/bloombergtv/index.m3u8
+
+#EXTINF:-1 tvg-id="BNNBloomberg.ca" tvg-name="BNN Bloomberg" group-title="Business" tvg-language="eng" tvg-quality="480i",BNN Bloomberg
+https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
+
+#EXTINF:-1 tvg-id="EntrepreneurTV.us" tvg-name="EntrepreneurTV" group-title="Business" tvg-language="eng" tvg-quality="480i",EntrepreneurTV
+https://cineverse-entrepreneurtv-entrepreneurtv-1-us.ono.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-name="Fox Business Network" group-title="Business" tvg-language="eng" tvg-quality="480p",Fox Business Network
+https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
+
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-name="Fox Business Network" group-title="Business" tvg-language="eng" tvg-quality="576p",Fox Business Network
+https://tvsen6.aynaott.com/foxbusiness/index.m3u8
+
+#EXTINF:-1 tvg-id="HongKongInternationalBusinessChannel.hk" tvg-name="Hong Kong International Business Channel" group-title="Business" tvg-language="eng;zho" tvg-quality="576i",Hong Kong International Business Channel
+https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8
+
+#EXTINF:-1 tvg-id="NDTVProfit.in" tvg-name="NDTV Profit" group-title="Business" tvg-language="eng" tvg-quality="576p",NDTV Profit
+https://cdn.pishow.tv/ott/live/1287/master.m3u8
+

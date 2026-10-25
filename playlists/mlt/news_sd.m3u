@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVMnewsPlus.mt" tvg-name="TVMnews+" group-title="News" tvg-language="mlt" tvg-quality="576i",TVMnews+
+http://80.79.6.221:25461/smash/public/20
+

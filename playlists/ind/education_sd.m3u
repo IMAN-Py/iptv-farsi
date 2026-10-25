@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DensKnowledge.id" tvg-name="Dens Knowledge" group-title="Education" tvg-language="ind" tvg-quality="576i",Dens Knowledge
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
+

@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-name="Mr Bean Animated" group-title="Animation;Kids" tvg-language="ita" tvg-quality="1080p",Mr Bean Animated
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SouthPark.de" tvg-name="South Park" group-title="Animation;Comedy" tvg-language="ita" tvg-quality="720p",South Park
+https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8
+
+#EXTINF:-1 tvg-id="TeenageMutantNinjaTurtles.de" tvg-name="Teenage Mutant Ninja Turtles" group-title="Animation;Kids" tvg-language="ita" tvg-quality="720p",Teenage Mutant Ninja Turtles
+https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
+

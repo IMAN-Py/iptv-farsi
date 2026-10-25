@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FutbolTV.uz" tvg-name="Futbol TV" group-title="Sports" tvg-language="uzb" tvg-quality="1080p",Futbol TV
+http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8
+

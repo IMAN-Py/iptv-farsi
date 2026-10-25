@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GTNTV.ke" tvg-name="GTN TV" group-title="General" tvg-language="eng;swa" tvg-quality="1080p",GTN TV
+https://goliveafrica.media:9998/live/644e07abdc1d3/index.m3u8
+
+#EXTINF:-1 tvg-id="MasharikiTV.ke" tvg-name="Mashariki TV" group-title="General" tvg-language="eng;swa" tvg-quality="720p",Mashariki TV
+https://goliveafrica.media:9998/live/634adc0806f2b/index.m3u8
+

@@ -1,0 +1,92 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AtomicAcademyTV.ro" tvg-name="Atomic Academy TV" group-title="Music" tvg-language="ron" tvg-quality="480p",Atomic Academy TV
+https://atomic.streamnet.ro/academia.m3u8
+
+#EXTINF:-1 tvg-id="AtomicTV.ro" tvg-name="Atomic TV" group-title="Music" tvg-language="eng;ron" tvg-quality="360p",Atomic TV
+https://atomic.streamnet.ro/atomictv.m3u8
+
+#EXTINF:-1 tvg-id="DiscoMix.ro" tvg-name="Disco Mix" group-title="Music" tvg-language="eng;ron" tvg-quality="576p",Disco Mix
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-disco-mix/live_hq?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="EMITV.ro" tvg-name="EMI TV" group-title="Music" tvg-language="ron" tvg-quality="576i",EMI TV
+https://astra.emitv.ro/hls/emi/index.m3u8
+
+#EXTINF:-1 tvg-id="FavoritTV2.ro" tvg-name="Favorit TV2" group-title="Music" tvg-language="ron" tvg-quality="576i",Favorit TV2
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-canal-33/live_hq?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="HtMusicChannel.ro" tvg-name="H!t Music Channel" group-title="Music" tvg-language="ron" tvg-quality="576i",H!t Music Channel
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="HitFM.md" tvg-name="Hit FM" group-title="Music" tvg-language="ron;rus" tvg-quality="576i",Hit FM
+https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="Mooz Dance" group-title="Music" tvg-language="ron" tvg-quality="576i",Mooz Dance
+https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
+
+#EXTINF:-1 tvg-id="MoozHits.ro" tvg-name="Mooz Hits" group-title="Music" tvg-language="ron" tvg-quality="576i",Mooz Hits
+https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
+
+#EXTINF:-1 tvg-id="MoozLove.ro" tvg-name="Mooz Love" group-title="Music" tvg-language="eng;ron" tvg-quality="576p",Mooz Love
+https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8
+
+#EXTINF:-1 tvg-id="MoozRetro.ro" tvg-name="Mooz Retro" group-title="Music" tvg-language="eng;ron" tvg-quality="576p",Mooz Retro
+https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8
+
+#EXTINF:-1 tvg-id="MoozRo.ro" tvg-name="Mooz Ro!" group-title="Music" tvg-language="ron" tvg-quality="576i",Mooz Ro!
+https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
+
+#EXTINF:-1 tvg-id="MusicChannel.ro" tvg-name="Music Channel" group-title="Music" tvg-language="ron" tvg-quality="576i",Music Channel
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="NorocTV.md" tvg-name="Noroc TV" group-title="Music" tvg-language="ron" tvg-quality="576p",Noroc TV
+https://live.noroc.tv/noroc/noroc.m3u8
+
+#EXTINF:-1 tvg-id="NorocTV.md" tvg-name="Noroc TV" group-title="Music" tvg-language="ron" tvg-quality="576i",Noroc TV
+https://media.noroc.tv/noroc/bitrate_1080p.m3u8
+
+#EXTINF:-1 tvg-id="OrizontTV.ro" tvg-name="Orizont TV" group-title="Music" tvg-language="ron" tvg-quality="576p",Orizont TV
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-orizont-tv/live_hq?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="RadioChisinau.md" tvg-name="Radio Chisinau" group-title="Music" tvg-language="ron" tvg-quality="576p",Radio Chisinau
+#EXTVLCOPT:http-referrer=https://radiochisinau.md/
+https://radiochisinau.md/hls/RChisinau.m3u8
+
+#EXTINF:-1 tvg-id="RadioMoldovaMuzical.md" tvg-name="Radio Moldova Muzical" group-title="Music" tvg-language="ron" tvg-quality="576i",Radio Moldova Muzical
+https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
+
+#EXTINF:-1 tvg-id="RadioRomania3Net.ro" tvg-name="Radio Romania 3Net" group-title="Music" tvg-language="ron" tvg-quality="480p",Radio Romania 3Net
+https://media.3netmedia.ro/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="RadioRomaniaIasi.ro" tvg-name="Radio Romania Iasi" group-title="General;Music" tvg-language="ron" tvg-quality="576i",Radio Romania Iasi
+https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8
+
+#EXTINF:-1 tvg-id="RadioRomaniaOlteniaCraiova.ro" tvg-name="Radio Romania Oltenia-Craiova" group-title="General;Music" tvg-language="ron" tvg-quality="576p",Radio Romania Oltenia-Craiova
+https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
+
+#EXTINF:-1 tvg-id="RadioRomaniaResita.ro" tvg-name="Radio Romania Resita" group-title="General;Music" tvg-language="ron" tvg-quality="576p",Radio Romania Resita
+https://stream3.srr.ro/RadioResita/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioRomaniaTarguMures.ro" tvg-name="Radio Romania Targu Mures" group-title="General;Music" tvg-language="ron" tvg-quality="576p",Radio Romania Targu Mures
+https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
+
+#EXTINF:-1 tvg-id="SmartRadio.ro" tvg-name="Smart Radio" group-title="Music" tvg-language="eng;ron" tvg-quality="576p",Smart Radio
+https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SuperTV.ro" tvg-name="Super TV" group-title="Music" tvg-language="ron" tvg-quality="576p",Super TV
+http://iptv.supertv.ro:8000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-id="Tele7music.ro" tvg-name="Tele7music" group-title="Music" tvg-language="ron" tvg-quality="576i",Tele7music
+https://live.tele7music.ro/hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="TequilaMusicTV.ro" tvg-name="Tequila Music TV" group-title="Music" tvg-language="ron" tvg-quality="576i",Tequila Music TV
+https://stream.tequilamusic.net/hls/tequila_tv.m3u8
+
+#EXTINF:-1 tvg-id="TezaurTV.md" tvg-name="Tezaur TV" group-title="Music" tvg-language="ron" tvg-quality="576i",Tezaur TV
+https://tezaurtv.md/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="TVAS.ro" tvg-name="TV AS" group-title="Music" tvg-language="ron" tvg-quality="576i",TV AS
+https://hls01ns.antenaplay.ro/hls/tv-as-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="TVRFolclor.ro" tvg-name="TVR Folclor" group-title="General;Music" tvg-language="ron" tvg-quality="576i",TVR Folclor
+https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
+

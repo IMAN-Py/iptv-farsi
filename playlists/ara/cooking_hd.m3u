@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JordanKitchen.jo" tvg-name="Jordan Kitchen" group-title="Cooking" tvg-language="ara" tvg-quality="1080p",Jordan Kitchen
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MasterChefsAcademyTV.uk" tvg-name="Master Chefs Academy TV" group-title="Cooking;Education" tvg-language="ara;eng" tvg-quality="720p",Master Chefs Academy TV
+https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8
+

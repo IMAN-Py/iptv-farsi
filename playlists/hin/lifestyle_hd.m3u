@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-name="NDTV Good Times" group-title="Lifestyle" tvg-language="eng;hin;tam" tvg-quality="1080p",NDTV Good Times
+https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TLC.in" tvg-name="TLC" group-title="Lifestyle" tvg-language="eng;hin" tvg-quality="720p",TLC
+https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="TLC.in" tvg-name="TLC" group-title="Lifestyle" tvg-language="eng;hin" tvg-quality="720p",TLC
+https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8
+

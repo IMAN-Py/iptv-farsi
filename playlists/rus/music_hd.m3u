@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="15PlusMusic.ru" tvg-name="15+ Music" group-title="Music" tvg-language="rus" tvg-quality="1080p",15+ Music
+https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
+
+#EXTINF:-1 tvg-id="1HDMusicTelevision.ru" tvg-name="1HD Music Television" group-title="Music" tvg-language="rus" tvg-quality="1080p",1HD Music Television
+http://176.118.197.101/1HD/index.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGEDeluxe.ru" tvg-name="BRIDGE Deluxe" group-title="Music" tvg-language="rus" tvg-quality="1080p",BRIDGE Deluxe
+http://31.148.48.15/Bridge_TV_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="CityEdenBirmaPlay.ru" tvg-name="City Eden Birma Play" group-title="Music" tvg-language="rus" tvg-quality="1080p",City Eden Birma Play
+https://cityeden.catcast.tv/content/34364/index.m3u8
+
+#EXTINF:-1 tvg-id="CityEdenClassicMusic.ru" tvg-name="City Eden Classic Music" group-title="Music" tvg-language="rus" tvg-quality="1080p",City Eden Classic Music
+https://cityeden.catcast.tv/content/47400/index.m3u8
+
+#EXTINF:-1 tvg-id="CityEdenPlay.ru" tvg-name="City Eden Play" group-title="Music" tvg-language="rus" tvg-quality="1080p",City Eden Play
+https://cityeden.catcast.tv/content/34100/index.m3u8
+
+#EXTINF:-1 tvg-id="CityEdenSirtakiTV.ru" tvg-name="City Eden Sirtaki TV" group-title="Music" tvg-language="rus" tvg-quality="1080p",City Eden Sirtaki TV
+https://cityeden.catcast.tv/content/46421/index.m3u8
+
+#EXTINF:-1 tvg-id="ClassicMusic.ru" tvg-name="Classic Music" group-title="Music" tvg-language="rus" tvg-quality="1080p",Classic Music
+http://stream.mcquack.net/312/index.m3u8
+
+#EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-name="Europa Plus TV" group-title="Music" tvg-language="rus" tvg-quality="1080p",Europa Plus TV
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-name="First Music Channel" group-title="Music" tvg-language="rus" tvg-quality="1080p",First Music Channel
+http://hls127.freeott.top:8080/1mus_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-name="First Music Channel" group-title="Music" tvg-language="rus" tvg-quality="720p",First Music Channel
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-name="First Music Channel" group-title="Music" tvg-language="rus" tvg-quality="1080p",First Music Channel
+http://rtmp.one.by:1300
+
+#EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-name="First Music Channel Russia" group-title="Music" tvg-language="rus" tvg-quality="1080p",First Music Channel Russia
+http://hls127.freeott.top:8080/1muz_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-name="First Music Channel Russia" group-title="Music" tvg-language="rus" tvg-quality="1080p",First Music Channel Russia
+http://rtmp.one.by:2300
+
+#EXTINF:-1 tvg-id="LiveMusicChannel.ru" tvg-name="Live Music Channel" group-title="Music" tvg-language="rus" tvg-quality="1080p",Live Music Channel
+http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
+
+#EXTINF:-1 tvg-id="Maidan.ru" tvg-name="Maidan" group-title="Music" tvg-language="rus" tvg-quality="720p",Maidan
+https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="o2tv.ru" tvg-name="o2tv" group-title="Music" tvg-language="rus" tvg-quality="720p",o2tv
+http://31.148.48.15/O2_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioShanson.ru" tvg-name="Radio Shanson" group-title="Music" tvg-language="rus" tvg-quality="720p",Radio Shanson
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+
+#EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU.TV" group-title="Music" tvg-language="rus" tvg-quality="1080p",RU.TV
+https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
+
+#EXTINF:-1 tvg-id="StranaFM.ru" tvg-name="Strana FM" group-title="Music" tvg-language="rus" tvg-quality="720p",Strana FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+

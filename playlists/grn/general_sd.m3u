@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Paravision.py" tvg-name="Paravision" group-title="General" tvg-language="grn;spa" tvg-quality="576i",Paravision
+http://45.170.130.224:8000/play/a032/index.m3u8?hls
+

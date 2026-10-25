@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KIX.hk" tvg-name="KIX" group-title="Entertainment" tvg-language="eng;ind;msa;zho" tvg-quality="1080p",KIX
+https://freem3u.xyz/api/live/play.m3u8?vid=9901
+

@@ -1,0 +1,218 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABCEntertains.au" tvg-name="ABC Entertains" group-title="Education;Kids" tvg-language="eng" tvg-quality="720p",ABC Entertains
+https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1 tvg-id="BUTV10.us" tvg-name="BUTV10" group-title="Education" tvg-language="eng" tvg-quality="1080p",BUTV10
+https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-id="ChemodanTV.ua" tvg-name="Chemodan TV" group-title="Documentary;Education" tvg-language="eng;ukr" tvg-quality="1080p",Chemodan TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/399/index.m3u8
+
+#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-name="Classic Arts Showcase" group-title="Culture;Education" tvg-language="eng" tvg-quality="720p",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+
+#EXTINF:-1 tvg-id="CloudflareTV.us" tvg-name="Cloudflare TV" group-title="Education" tvg-language="eng" tvg-quality="720p",Cloudflare TV
+https://cloudflare.tv/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="CMAC2.us" tvg-name="CMAC 2" group-title="Education" tvg-language="eng" tvg-quality="720p",CMAC 2
+https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
+
+#EXTINF:-1 tvg-id="Create.us" tvg-name="Create" group-title="Education" tvg-language="eng" tvg-quality="1080p",Create
+https://create.lls.pbs.org/index.m3u8
+
+#EXTINF:-1 tvg-id="CreaTVChannel28.us" tvg-name="CreaTV Channel 28" group-title="Education" tvg-language="eng" tvg-quality="720p",CreaTV Channel 28
+https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8
+
+#EXTINF:-1 tvg-id="DaVinciAsia.de" tvg-name="Da Vinci Asia" group-title="Education" tvg-language="eng;vie" tvg-quality="1080p",Da Vinci Asia
+https://vmttv.dpdns.org/tv360/?id=davinci-hd
+
+#EXTINF:-1 tvg-id="DerryTV23.us" tvg-name="DerryTV 23" group-title="Education;General" tvg-language="eng" tvg-quality="720p",DerryTV 23
+https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DKN.us" tvg-name="DKN" group-title="Education" tvg-language="eng" tvg-quality="1080p",DKN
+https://video.oct.dc.gov/out/u/DKN.m3u8
+
+#EXTINF:-1 tvg-id="DLTV1.th" tvg-name="DLTV 1" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 1
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+
+#EXTINF:-1 tvg-id="DLTV10.th" tvg-name="DLTV 10" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 10
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+
+#EXTINF:-1 tvg-id="DLTV11.th" tvg-name="DLTV 11" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 11
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+
+#EXTINF:-1 tvg-id="DLTV12.th" tvg-name="DLTV 12" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 12
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+
+#EXTINF:-1 tvg-id="DLTV13.th" tvg-name="DLTV 13" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 13
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+
+#EXTINF:-1 tvg-id="DLTV14.th" tvg-name="DLTV 14" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 14
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+
+#EXTINF:-1 tvg-id="DLTV15.th" tvg-name="DLTV 15" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 15
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+
+#EXTINF:-1 tvg-id="DLTV2.th" tvg-name="DLTV 2" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 2
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+
+#EXTINF:-1 tvg-id="DLTV3.th" tvg-name="DLTV 3" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 3
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+
+#EXTINF:-1 tvg-id="DLTV4.th" tvg-name="DLTV 4" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 4
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+
+#EXTINF:-1 tvg-id="DLTV5.th" tvg-name="DLTV 5" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 5
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+
+#EXTINF:-1 tvg-id="DLTV6.th" tvg-name="DLTV 6" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 6
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+
+#EXTINF:-1 tvg-id="DLTV7.th" tvg-name="DLTV 7" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 7
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+
+#EXTINF:-1 tvg-id="DLTV8.th" tvg-name="DLTV 8" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 8
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+
+#EXTINF:-1 tvg-id="DLTV9.th" tvg-name="DLTV 9" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 9
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+
+#EXTINF:-1 tvg-id="EnglishClass.ru" tvg-name="English Class" group-title="Education" tvg-language="eng" tvg-quality="1080p",English Class
+http://31.148.48.15/English_club_TV_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="HKTV.us" tvg-name="HKTV" group-title="Education" tvg-language="eng" tvg-quality="1080p",HKTV
+https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8
+
+#EXTINF:-1 tvg-id="KBEV.us" tvg-name="KBEV" group-title="Education" tvg-language="eng;spa" tvg-quality="1080p",KBEV
+https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8
+
+#EXTINF:-1 tvg-id="KCAT.us" tvg-name="KCAT" group-title="Education" tvg-language="eng" tvg-quality="1080p",KCAT
+https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8
+
+#EXTINF:-1 tvg-id="KnowledgeNetwork.ca" tvg-name="Knowledge Network" group-title="Education;Kids" tvg-language="eng" tvg-quality="720p",Knowledge Network
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+
+#EXTINF:-1 tvg-id="KOCTChannel19.us" tvg-name="KOCT Channel 19" group-title="Education" tvg-language="eng" tvg-quality="720p",KOCT Channel 19
+https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8
+
+#EXTINF:-1 tvg-id="LA36.us" tvg-name="LA36" group-title="Education" tvg-language="eng" tvg-quality="1080p",LA36
+https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="LeominsterTVEducational.us" tvg-name="Leominster TV Educational" group-title="Education" tvg-language="eng" tvg-quality="720p",Leominster TV Educational
+https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MasterChefsAcademyTV.uk" tvg-name="Master Chefs Academy TV" group-title="Cooking;Education" tvg-language="ara;eng" tvg-quality="720p",Master Chefs Academy TV
+https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="MCN6ArtsChannel.us" tvg-name="MCN6 Arts Channel" group-title="Culture;Education" tvg-language="eng" tvg-quality="1080p",MCN6 Arts Channel
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
+
+#EXTINF:-1 tvg-id="MediBizTV.in" tvg-name="MediBizTV" group-title="Education;News;Science" tvg-language="eng" tvg-quality="720p",MediBizTV
+https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel28.us" tvg-name="Midpen Media Center Channel 28" group-title="Education" tvg-language="eng" tvg-quality="720p",Midpen Media Center Channel 28
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MSTV.us" tvg-name="MSTV" group-title="Education" tvg-language="eng" tvg-quality="1080p",MSTV
+https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8
+
+#EXTINF:-1 tvg-id="NashuaETV.us" tvg-name="Nashua ETV" group-title="Education" tvg-language="eng" tvg-quality="720p",Nashua ETV
+https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatickEducationChannel.us" tvg-name="Natick Education Channel" group-title="Education" tvg-language="eng" tvg-quality="720p",Natick Education Channel
+https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" group-title="Education" tvg-language="eng" tvg-quality="720p",PBS
+https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
+
+#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" group-title="Education" tvg-language="eng" tvg-quality="1080p",PBS
+https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
+
+#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" group-title="Education" tvg-language="eng" tvg-quality="720p",PBS
+https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
+
+#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" group-title="Education" tvg-language="eng" tvg-quality="1080p",PBS
+https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8
+
+#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" group-title="Education" tvg-language="eng" tvg-quality="1080p",PBS
+https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
+
+#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" group-title="Education" tvg-language="eng" tvg-quality="1080p",PBS
+https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8
+
+#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" group-title="Education" tvg-language="eng" tvg-quality="1080p",PBS
+https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
+
+#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" group-title="Education" tvg-language="eng" tvg-quality="1080p",PBS
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+
+#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" group-title="Education" tvg-language="eng" tvg-quality="1080p",PBS
+https://pbs.lls.cdn.pbs.org/pst/index.m3u8
+
+#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" group-title="Education" tvg-language="eng" tvg-quality="1080p",PBS
+https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
+
+#EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" group-title="Education" tvg-language="eng" tvg-quality="1080p",PBS
+https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
+
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-name="PBS Kids" group-title="Education;Kids" tvg-language="eng" tvg-quality="720p",PBS Kids
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-name="PBS Kids" group-title="Education;Kids" tvg-language="eng" tvg-quality="720p",PBS Kids
+https://tvsen7.aynascope.net/pbskids/index.m3u8
+
+#EXTINF:-1 tvg-id="PBSKidsAlaska.us" tvg-name="PBS Kids Alaska" group-title="Education;Kids" tvg-language="eng" tvg-quality="1080p",PBS Kids Alaska
+https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
+
+#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" tvg-name="PBS Kids Eastern/Central" group-title="Education;Kids" tvg-language="eng" tvg-quality="720p",PBS Kids Eastern/Central
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBSKidsHawaii.us" tvg-name="PBS Kids Hawaii" group-title="Education;Kids" tvg-language="eng" tvg-quality="720p",PBS Kids Hawaii
+https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
+
+#EXTINF:-1 tvg-id="PBSKidsMountain.us" tvg-name="PBS Kids Mountain" group-title="Education;Kids" tvg-language="eng" tvg-quality="1080p",PBS Kids Mountain
+https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
+
+#EXTINF:-1 tvg-id="PBSKidsPacific.us" tvg-name="PBS Kids Pacific" group-title="Education;Kids" tvg-language="eng" tvg-quality="1080p",PBS Kids Pacific
+https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
+
+#EXTINF:-1 tvg-id="PSDTV.us" tvg-name="PSD TV" group-title="Education" tvg-language="eng" tvg-quality="720p",PSD TV
+https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8
+
+#EXTINF:-1 tvg-id="SMCTVChannel24.us" tvg-name="SMCTV Channel 24" group-title="Education" tvg-language="eng" tvg-quality="720p",SMCTV Channel 24
+https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheIndonesiaChannel.id" tvg-name="The Indonesia Channel" group-title="Culture;Education" tvg-language="eng" tvg-quality="1080p",The Indonesia Channel
+https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
+
+#EXTINF:-1 tvg-id="TUTV.us" tvg-name="TUTV" group-title="Education" tvg-language="eng" tvg-quality="1080p",TUTV
+https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UCTV.us" tvg-name="UCTV" group-title="Education" tvg-language="eng" tvg-quality="720p",UCTV
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" group-title="Documentary;Education;Outdoor;Relax" tvg-language="eng" tvg-quality="1080p",WildEarth
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" group-title="Documentary;Education;Outdoor;Relax" tvg-language="eng" tvg-quality="1080p",WildEarth
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" group-title="Documentary;Education;Outdoor;Relax" tvg-language="eng" tvg-quality="1080p",WildEarth
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" group-title="Documentary;Education;Outdoor;Relax" tvg-language="eng" tvg-quality="1080p",WildEarth
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" group-title="Documentary;Education;Outdoor;Relax" tvg-language="eng" tvg-quality="1080p",WildEarth
+https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" group-title="Documentary;Education;Outdoor;Relax" tvg-language="eng" tvg-quality="1080p",WildEarth
+https://wildearth-xumo.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="WorldChannel.us" tvg-name="World Channel" group-title="Education" tvg-language="eng" tvg-quality="1080p",World Channel
+https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
+
+#EXTINF:-1 tvg-id="WorldChannel.us" tvg-name="World Channel" group-title="Education" tvg-language="eng" tvg-quality="1080p",World Channel
+https://world.lls.pbs.org/index.m3u8
+

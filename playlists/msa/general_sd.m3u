@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AwesomeTV.my" tvg-name="Awesome TV" group-title="General" tvg-language="msa" tvg-quality="576i",Awesome TV
+https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8
+
+#EXTINF:-1 tvg-id="Okey.my" tvg-name="Okey" group-title="General" tvg-language="eng;msa;pan;tam;zho" tvg-quality="576i",Okey
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" group-title="General" tvg-language="eng;msa" tvg-quality="576i",TV1
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+

@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ETV2.ee" tvg-name="ETV 2" group-title="Culture;Kids" tvg-language="est" tvg-quality="720p",ETV 2
+https://sb.err.ee/live/etv2.m3u8
+
+#EXTINF:-1 tvg-id="KidZoneMax.ee" tvg-name="KidZone Max" group-title="Kids" tvg-language="eng;est;lav;lit;rus" tvg-quality="1080p",KidZone Max
+#EXTVLCOPT:http-referrer=https://kidzonemax.lt
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd
+

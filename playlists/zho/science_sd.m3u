@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ChuzhouScienceEducationChannel.cn" tvg-name="Chuzhou Science & Education Channel" group-title="Education;Science" tvg-language="zho" tvg-quality="400p",Chuzhou Science & Education Channel
+http://live.cztv.cc:85/live/sjpd.m3u8
+
+#EXTINF:-1 tvg-id="JilinRuralChannel.cn" tvg-name="Jilin Rural Channel" group-title="Education;Lifestyle;Science" tvg-language="zho" tvg-quality="576i",Jilin Rural Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
+
+#EXTINF:-1 tvg-id="ShandongTVAgriculturalScienceChannel.cn" tvg-name="Shandong TV Agricultural Science Channel" group-title="Science" tvg-language="zho" tvg-quality="406p",Shandong TV Agricultural Science Channel
+http://livealone302.iqilu.com/iqilu/nkpd.m3u8
+

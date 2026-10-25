@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DossiersFBI.us" tvg-name="Dossiers FBI" group-title="Documentary" tvg-language="fra" tvg-quality="576i",Dossiers FBI
+https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
+
+#EXTINF:-1 tvg-id="RLPROTV.cd" tvg-name="RL PRO TV" group-title="Documentary" tvg-language="fra" tvg-quality="576i",RL PRO TV
+https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
+

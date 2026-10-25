@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3ABNRussia.ru" tvg-name="3ABN Russia" group-title="Religious" tvg-language="rus" tvg-quality="720p",3ABN Russia
+https://hls.tv.3angels.ru/stream.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="rus" tvg-quality="720p",Angel TV
+https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CityEdenTV.ru" tvg-name="City Eden TV" group-title="General;Religious" tvg-language="rus" tvg-quality="1080p",City Eden TV
+https://cityeden.catcast.tv/content/34246/index.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelRussia.ru" tvg-name="Hope Channel Russia" group-title="Religious" tvg-language="rus" tvg-quality="720p",Hope Channel Russia
+https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelRussia.ru" tvg-name="Hope Channel Russia" group-title="Religious" tvg-language="rus" tvg-quality="720p",Hope Channel Russia
+https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HuzurTV.ru" tvg-name="Huzur TV" group-title="Religious" tvg-language="rus;tat" tvg-quality="1080p",Huzur TV
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ManaTserkovOnlayn.pt" tvg-name="Mana Tserkov' Onlayn" group-title="Religious" tvg-language="rus" tvg-quality="1080p",Mana Tserkov' Onlayn
+https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TBNBaltia.ee" tvg-name="TBN Baltia" group-title="Religious" tvg-language="rus" tvg-quality="1080p",TBN Baltia
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
+
+#EXTINF:-1 tvg-id="TsargradTV.ru" tvg-name="Tsargrad TV" group-title="Religious" tvg-language="rus" tvg-quality="1080p",Tsargrad TV
+https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https
+
+#EXTINF:-1 tvg-id="TVManaRusskiy.pt" tvg-name="TV Mana Russkiy" group-title="Religious" tvg-language="rus" tvg-quality="1080p",TV Mana Russkiy
+https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
+

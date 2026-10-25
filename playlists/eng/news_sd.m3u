@@ -1,0 +1,369 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="30ALionelNation.us" tvg-name="30A Lionel Nation" group-title="News" tvg-language="eng" tvg-quality="480i",30A Lionel Nation
+https://30a-tv.com/ln.m3u8
+
+#EXTINF:-1 tvg-id="30ALoomeredTV.us" tvg-name="30A Loomered TV" group-title="Documentary;News" tvg-language="eng" tvg-quality="480i",30A Loomered TV
+https://30a-tv.com/loomer.m3u8
+
+#EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" group-title="News" tvg-language="eng;hin" tvg-quality="576p",ABP News
+https://cdn.pishow.tv/ott/live/1057/master.m3u8
+
+#EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" group-title="News" tvg-language="eng;hin" tvg-quality="576p",ABP News
+https://mumt04.tangotv.in/m18aqlK4ABPNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="576p",Al Jazeera
+http://stream.mcquack.net/131/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="576i",Al Jazeera
+https://cdn-7.pishow.tv/live/429/master.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="576i",Al Jazeera
+https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="576p",Al Jazeera
+https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="AL24News.dz" tvg-name="AL24 News" group-title="News" tvg-language="ara;eng;fra" tvg-quality="576i",AL24 News
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AnewZTV.az" tvg-name="AnewZ TV" group-title="News" tvg-language="eng" tvg-quality="576i",AnewZ TV
+https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" group-title="General;News" tvg-language="eng" tvg-quality="480i",Arirang TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
+
+#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" group-title="General;News" tvg-language="eng" tvg-quality="576p",Arirang TV
+https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng;jpn" tvg-quality="576p",BBC News
+http://103.151.60.162:2122/play/a0fl/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng" tvg-quality="576p",BBC News
+http://46.32.176.50/bbcworld/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng" tvg-quality="576p",BBC News
+http://stream.mcquack.net/85/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng" tvg-quality="576p",BBC News
+https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng" tvg-quality="576p",BBC News
+https://tvsen1.aynaott.com/shn6jGTk/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng" tvg-quality="576i",BBC News
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng" tvg-quality="540p",BBC News
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" group-title="News" tvg-language="eng" tvg-quality="540p",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-id="Belarus24.by" tvg-name="Belarus-24" group-title="News" tvg-language="bel;eng;rus" tvg-quality="576p",Belarus-24
+http://31.148.48.15/Belarus_24/index.m3u8
+
+#EXTINF:-1 tvg-id="Belarus24.by" tvg-name="Belarus-24" group-title="News" tvg-language="bel;eng;rus" tvg-quality="576p",Belarus-24
+http://ott-7.sevstar.net/belarus24/index.m3u8
+
+#EXTINF:-1 tvg-id="Belarus24.by" tvg-name="Belarus-24" group-title="News" tvg-language="bel;eng;rus" tvg-quality="576p",Belarus-24
+https://streaming.thestream.cyou/live/7003.m3u8
+
+#EXTINF:-1 tvg-id="BeritaRTM.my" tvg-name="Berita RTM" group-title="News" tvg-language="eng;msa;tam;zho" tvg-quality="576i",Berita RTM
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+
+#EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="576i",Bharat Express
+https://cdn.pishow.tv/ott/live/1139/master.m3u8
+
+#EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="576p",Bharat Express
+https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/index.m3u8
+
+#EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="480p",Bharat Express
+https://stream1.livebox.co.in/VCAREhls/live.m3u8
+
+#EXTINF:-1 tvg-id="CBSNews247.us" tvg-name="CBS News 24/7" group-title="News" tvg-language="eng" tvg-quality="480i",CBS News 24/7
+https://jmp2.uk/plu-61e82af27027f9000753c6e4.m3u8
+
+#EXTINF:-1 tvg-id="CBSNews247.us" tvg-name="CBS News 24/7" group-title="News" tvg-language="eng" tvg-quality="480i",CBS News 24/7
+https://jmp2.uk/plu-6231e909bc960f00075d8e7c.m3u8
+
+#EXTINF:-1 tvg-id="CBSNews247.us" tvg-name="CBS News 24/7" group-title="News" tvg-language="eng" tvg-quality="480i",CBS News 24/7
+https://jmp2.uk/plu-62441d6ded1827000763dcda.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" tvg-name="CBS News Los Angeles" group-title="News" tvg-language="eng" tvg-quality="480i",CBS News Los Angeles
+https://dai.google.com/linear/hls/pa/event/K_2aA7OVRTacJJli1oSi8w/stream/42e4ec14-fe53-469b-bc85-677ed0b245f4:ATL/variant/344ab3b460bc514714f94805d600b130/bandwidth/2121247.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="576p",CGTN
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="576i",CGTN
+https://dash4.antik.sk/live/test_cgtn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="576i",CGTN
+https://h5cul1yar48um3t.wcetv.com/hls/cgtn.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="576p",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-id="Channels24.ng" tvg-name="Channels 24" group-title="News" tvg-language="eng" tvg-quality="576i",Channels 24
+https://live20.bozztv.com/dvrfl06/astv/astv-channel24africa/index.m3u8
+
+#EXTINF:-1 tvg-id="ChannelsTV.ng" tvg-name="Channels TV" group-title="News" tvg-language="eng" tvg-quality="576i",Channels TV
+https://cs2.push2stream.com/CHANNELSTV-DVR/playlist.m3u8
+
+#EXTINF:-1 tvg-id="City41.pk" tvg-name="City 41" group-title="News" tvg-language="eng;urd" tvg-quality="576p",City 41
+http://163.61.227.29:8000/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-id="CityNewsEdmonton.ca" tvg-name="CityNews Edmonton" group-title="News" tvg-language="eng" tvg-quality="480i",CityNews Edmonton
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8
+
+#EXTINF:-1 tvg-id="CNAInternational.sg" tvg-name="CNA International" group-title="News" tvg-language="eng" tvg-quality="576p",CNA International
+https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
+
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" group-title="News" tvg-language="eng" tvg-quality="480i",CNN
+#EXTVLCOPT:http-referrer=https://usnewson.com
+https://p13.usnlive.com/stream/cnn.m3u8
+
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" group-title="News" tvg-language="eng" tvg-quality="576i",CNN International
+http://88.212.15.17/live/test_cnn_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" group-title="News" tvg-language="eng" tvg-quality="576p",CNN International
+https://vid.hls.protv.ro/liveibu8/liveibu8_highw/index.m3u8?1
+
+#EXTINF:-1 tvg-id="CP24.ca" tvg-name="CP24" group-title="News" tvg-language="eng" tvg-quality="576p",CP24
+https://tvsen6.aynaott.com/cp24/index.m3u8
+
+#EXTINF:-1 tvg-id="CVREnglish.in" tvg-name="CVR English" group-title="News" tvg-language="eng" tvg-quality="576p",CVR English
+https://mumbai-edge.smartplaytv.in/CVREnglishNews/index.m3u8
+
+#EXTINF:-1 tvg-id="CVREnglish.in" tvg-name="CVR English" group-title="News" tvg-language="eng" tvg-quality="576p",CVR English
+https://yuppnimrestreammum.akamaized.net/181224/smil:cvrnewseng.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="DDMizoram.in" tvg-name="DD Mizoram" group-title="Culture;News" tvg-language="eng;lus" tvg-quality="504p",DD Mizoram
+https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
+
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" group-title="News" tvg-language="eng" tvg-quality="576p",DW
+http://stream.mcquack.net/440/index.m3u8
+
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" group-title="News" tvg-language="eng" tvg-quality="576p",DW
+https://cdn-7.pishow.tv/live/431/master.m3u8
+
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" group-title="News" tvg-language="eng" tvg-quality="576p",DW
+https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8
+
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" group-title="News" tvg-language="eng" tvg-quality="576p",DW
+https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8
+
+#EXTINF:-1 tvg-id="EACNewsTV.kh" tvg-name="EAC News TV" group-title="News" tvg-language="eng" tvg-quality="576i",EAC News TV
+https://live.eac-news.com/LiveApp/streams/eacnews.m3u8
+
+#EXTINF:-1 tvg-id="ForYouTV.cm" tvg-name="For You TV" group-title="News" tvg-language="eng;fra" tvg-quality="576i",For You TV
+https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
+
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News Channel" group-title="News" tvg-language="eng" tvg-quality="144p",Fox News Channel
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="eng" tvg-quality="576i",France 24
+https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="eng" tvg-quality="360p",France 24
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_500.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="eng" tvg-quality="576p",France 24
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="eng" tvg-quality="360p",France 24
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_500.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="eng" tvg-quality="576p",France 24
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-id="HornbillTV.in" tvg-name="Hornbill TV" group-title="News" tvg-language="eng" tvg-quality="576p",Hornbill TV
+https://cdn.pishow.tv/ott/live/1463/master.m3u8
+
+#EXTINF:-1 tvg-id="HornbillTV.in" tvg-name="Hornbill TV" group-title="News" tvg-language="eng" tvg-quality="396p",Hornbill TV
+https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HornbillTV.in" tvg-name="Hornbill TV" group-title="News" tvg-language="eng" tvg-quality="576p",Hornbill TV
+https://mumt01.tangotv.in/O5aw8Zn3HORNBILLTV/index.m3u8
+
+#EXTINF:-1 tvg-id="IndiaAhead.in" tvg-name="India Ahead" group-title="News" tvg-language="eng" tvg-quality="576p",India Ahead
+https://cdn.pishow.tv/ott/live/269/master.m3u8
+
+#EXTINF:-1 tvg-id="IndiaAhead.in" tvg-name="India Ahead" group-title="News" tvg-language="eng" tvg-quality="576p",India Ahead
+https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8
+
+#EXTINF:-1 tvg-id="IndiaToday.in" tvg-name="India Today" group-title="News" tvg-language="eng" tvg-quality="576i",India Today
+https://livehub-voidnet.onrender.com/cluster/streamcore/in/INDIATODAY_StreamOrchestrator.m3u8
+
+#EXTINF:-1 tvg-id="IranPress.ir" tvg-name="Iran Press" group-title="News" tvg-language="eng;fas" tvg-quality="576i",Iran Press
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+
+#EXTINF:-1 tvg-id="LeMondeen24h.cd" tvg-name="Le Monde en 24h" group-title="News" tvg-language="eng;fra;spa" tvg-quality="576i",Le Monde en 24h
+https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
+
+#EXTINF:-1 tvg-id="LindellTV.us" tvg-name="Lindell TV" group-title="News" tvg-language="eng" tvg-quality="576i",Lindell TV
+https://stream.vocl.com/hls/lindelltv/index.m3u8
+
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-name="LiveNOW from FOX" group-title="News" tvg-language="eng" tvg-quality="480i",LiveNOW from FOX
+https://vid.hls.protv.ro/liveibu5/liveibu5_highw/index.m3u8?1
+
+#EXTINF:-1 tvg-id="LolweTV.ke" tvg-name="Lolwe TV" group-title="News" tvg-language="eng" tvg-quality="576p",Lolwe TV
+https://goliveafrica.media:9998/live/62580e144eb43/index.m3u8
+
+#EXTINF:-1 tvg-id="MSNOW.us" tvg-name="MS NOW" group-title="News" tvg-language="eng" tvg-quality="480i",MS NOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+https://p13.usnlive.com/stream/msnbc.m3u8
+
+#EXTINF:-1 tvg-id="MSNOW.us" tvg-name="MS NOW" group-title="News" tvg-language="eng" tvg-quality="432p",MS NOW
+https://tvsen6.aynaott.com/msnbc/index.m3u8
+
+#EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name="NDTV 24x7" group-title="News" tvg-language="eng" tvg-quality="480p",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+
+#EXTINF:-1 tvg-id="NewsCentral.ng" tvg-name="News Central" group-title="News" tvg-language="eng" tvg-quality="576i",News Central
+https://wf.newscentral.ng:8443/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="News12Bronx.us" tvg-name="News12 Bronx" group-title="News" tvg-language="eng" tvg-quality="480i",News12 Bronx
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https
+
+#EXTINF:-1 tvg-id="News12Brooklyn.us" tvg-name="News12 Brooklyn" group-title="News" tvg-language="eng" tvg-quality="480i",News12 Brooklyn
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https
+
+#EXTINF:-1 tvg-id="News12Conneticut.us" tvg-name="News12 Conneticut" group-title="News" tvg-language="eng" tvg-quality="480i",News12 Conneticut
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https
+
+#EXTINF:-1 tvg-id="News12HudsonValley.us" tvg-name="News12 Hudson Valley" group-title="News" tvg-language="eng" tvg-quality="480i",News12 Hudson Valley
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https
+
+#EXTINF:-1 tvg-id="News12NewJersey.us" tvg-name="News12 New Jersey" group-title="News" tvg-language="eng" tvg-quality="480i",News12 New Jersey
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https
+
+#EXTINF:-1 tvg-id="News12Westchester.us" tvg-name="News12 Westchester" group-title="News" tvg-language="eng" tvg-quality="480i",News12 Westchester
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https
+
+#EXTINF:-1 tvg-id="News24World.au" tvg-name="News24 World" group-title="News" tvg-language="eng" tvg-quality="576i",News24 World
+https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8
+
+#EXTINF:-1 tvg-id="News9Live.in" tvg-name="News9Live" group-title="News" tvg-language="eng" tvg-quality="576p",News9Live
+https://mumbai-edge.smartplaytv.in/News9/index.m3u8
+
+#EXTINF:-1 tvg-id="Newsmax2.us" tvg-name="Newsmax 2" group-title="News" tvg-language="eng" tvg-quality="480i",Newsmax 2
+https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="Newsmax TV" group-title="News" tvg-language="eng" tvg-quality="480i",Newsmax TV
+https://dash3.antik.sk/live/test_newsmax_avc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NewsX.in" tvg-name="NewsX" group-title="News" tvg-language="eng" tvg-quality="576p",NewsX
+https://cdn.pishow.tv/ott/live/1765/master.m3u8
+
+#EXTINF:-1 tvg-id="NewsX.in" tvg-name="NewsX" group-title="News" tvg-language="eng" tvg-quality="576p",NewsX
+https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsXWorld.in" tvg-name="NewsX World" group-title="News" tvg-language="eng" tvg-quality="576p",NewsX World
+https://cdn.pishow.tv/ott/live/1049/master.m3u8
+
+#EXTINF:-1 tvg-id="NewsXWorld.in" tvg-name="NewsX World" group-title="News" tvg-language="eng" tvg-quality="576p",NewsX World
+https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8
+
+#EXTINF:-1 tvg-id="Newsy.us" tvg-name="Newsy" group-title="News" tvg-language="eng" tvg-quality="480i",Newsy
+https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" group-title="Culture;News" tvg-language="eng;jpn" tvg-quality="576p",NHK World-Japan
+https://mumt07.tangotv.in/zHjX9OFlNHKWORLD/index.m3u8
+
+#EXTINF:-1 tvg-id="NortheastLive.in" tvg-name="Northeast Live" group-title="News" tvg-language="eng;hin" tvg-quality="576p",Northeast Live
+https://mumt01.tangotv.in/O5aw8Zn3NORTHEASTLIVE/index.m3u8
+
+#EXTINF:-1 tvg-id="NWInfo2.tg" tvg-name="NW Info 2" group-title="News" tvg-language="eng" tvg-quality="576p",NW Info 2
+https://hls.newworldtv.com/nw-info-2/video/live.m3u8
+
+#EXTINF:-1 tvg-id="OANPlus.us" tvg-name="OAN Plus" group-title="News" tvg-language="eng" tvg-quality="480i",OAN Plus
+https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ONNewsHD.pk" tvg-name="ON News HD" group-title="News" tvg-language="eng" tvg-quality="576p",ON News HD
+http://103.250.28.74:8000/play/a046/index.m3u8
+
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" tvg-name="One America News Network" group-title="News" tvg-language="eng" tvg-quality="480i",One America News Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+https://p14.usnlive.com/stream/oann.m3u8
+
+#EXTINF:-1 tvg-id="PressTV.ir" tvg-name="Press TV" group-title="News" tvg-language="eng" tvg-quality="576i",Press TV
+https://live.presstv.co.uk/hls/presstv.m3u8
+
+#EXTINF:-1 tvg-id="PSMNews.mv" tvg-name="PSM News" group-title="News" tvg-language="div;eng" tvg-quality="576i",PSM News
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8
+
+#EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" group-title="News" tvg-language="eng" tvg-quality="576i",Republic TV
+https://cdn.pishow.tv/ott/live/271/master.m3u8
+
+#EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" group-title="News" tvg-language="eng" tvg-quality="576p",Republic TV
+https://streams.tangotv.in/REPUBLICTV/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="RozeNews.pk" tvg-name="Roze News" group-title="News" tvg-language="eng" tvg-quality="576p",Roze News
+http://103.250.28.74:8000/play/a01k/index.m3u8
+
+#EXTINF:-1 tvg-id="RT.ru" tvg-name="RT" group-title="News" tvg-language="eng" tvg-quality="576i",RT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h226/index.m3u8
+
+#EXTINF:-1 tvg-id="RTMASEAN.my" tvg-name="RTM ASEAN" group-title="News" tvg-language="eng" tvg-quality="576i",RTM ASEAN
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="SABCLehae.za" tvg-name="SABC Lehae" group-title="News" tvg-language="eng;nbl;sfs;ssw;tso;ven;xho;zul" tvg-quality="576i",SABC Lehae
+https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="SalemNewsChannel.us" tvg-name="Salem News Channel" group-title="News" tvg-language="eng" tvg-quality="576i",Salem News Channel
+https://jmp2.uk/plu-66a7f0a78561260008c177f2.m3u8
+
+#EXTINF:-1 tvg-id="SCCurrents.us" tvg-name="SC Currents" group-title="News" tvg-language="eng;spa" tvg-quality="480i",SC Currents
+https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
+
+#EXTINF:-1 tvg-id="SilverbirdNews24.ng" tvg-name="Silverbird News 24" group-title="News" tvg-language="eng" tvg-quality="576p",Silverbird News 24
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkyNewsExtra1.au" tvg-name="Sky News Extra 1" group-title="News" tvg-language="eng" tvg-quality="540p",Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+
+#EXTINF:-1 tvg-id="SkyNewsExtra2.au" tvg-name="Sky News Extra 2" group-title="News" tvg-language="eng" tvg-quality="540p",Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-name="Telesur" group-title="News" tvg-language="eng" tvg-quality="480p",Telesur
+https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheFirstTV.us" tvg-name="The First TV" group-title="News" tvg-language="eng" tvg-quality="480i",The First TV
+https://jmp2.uk/plu-5d486acc34ceb37d3c458a64.m3u8
+
+#EXTINF:-1 tvg-id="TODAYAllDay.us" tvg-name="TODAY All Day" group-title="News" tvg-language="eng" tvg-quality="480i",TODAY All Day
+https://jmp2.uk/plu-5d695f7db53adf96b78e7ce3.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" group-title="News" tvg-language="eng" tvg-quality="576p",TRT World
+https://cdn.pishow.tv/ott/live/266/master.m3u8
+
+#EXTINF:-1 tvg-id="TVPWorld.pl" tvg-name="TVP World" group-title="News" tvg-language="eng" tvg-quality="576i",TVP World
+https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UNWebTV.us" tvg-name="UN Web TV" group-title="News" tvg-language="eng" tvg-quality="540p",UN Web TV
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 tvg-id="VSHNews.pk" tvg-name="VSH News" group-title="News" tvg-language="eng" tvg-quality="576p",VSH News
+http://103.250.28.74:8000/play/a00w/index.m3u8
+
+#EXTINF:-1 tvg-id="W14DKD142.us" tvg-name="W14DK-D 14.2" group-title="News" tvg-language="eng" tvg-quality="480i",W14DK-D 14.2
+https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WION.in" tvg-name="WION" group-title="News" tvg-language="eng" tvg-quality="504p",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8
+
+#EXTINF:-1 tvg-id="WION.in" tvg-name="WION" group-title="News" tvg-language="eng" tvg-quality="240p",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8
+
+#EXTINF:-1 tvg-id="WION.in" tvg-name="WION" group-title="News" tvg-language="eng" tvg-quality="360p",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_4.m3u8
+
+#EXTINF:-1 tvg-id="WION.in" tvg-name="WION" group-title="News" tvg-language="eng" tvg-quality="480p",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8
+

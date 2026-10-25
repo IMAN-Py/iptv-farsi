@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CoolFM989.aw" tvg-name="Cool FM 98.9" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="720p",Cool FM 98.9
+https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="Live99FM.bq" tvg-name="Live99FM" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="1080p",Live99FM
+https://media.streambrothers.com:1936/8014/8014/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Power1017FM.aw" tvg-name="Power 101.7 FM" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="720p",Power 101.7 FM
+https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VAMTV.cw" tvg-name="VAM TV" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="720p",VAM TV
+https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8
+
+#EXTINF:-1 tvg-id="VIPTV.aw" tvg-name="VIP TV" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="720p",VIP TV
+https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8
+
+#EXTINF:-1 tvg-id="X1027FM.aw" tvg-name="X 102.7 FM" group-title="Music" tvg-language="eng;pap" tvg-quality="720p",X 102.7 FM
+#EXTVLCOPT:http-referrer=https://player.castr.com/live_21e811c0d60d11eeaa1a471c2c967e4a
+https://stream.castr.com/65dee3aad6beacddbd6cd1af/live_21e811c0d60d11eeaa1a471c2c967e4a/index.m3u8
+

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MolahitsTV.es" tvg-name="Molahits TV" group-title="Music" tvg-language="cat" tvg-quality="720p",Molahits TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+

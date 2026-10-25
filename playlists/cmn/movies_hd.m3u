@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="cmn" tvg-quality="1080p",AXN Asia
+http://125.227.210.55:4050/VideoInput/play.ts
+
+#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" group-title="Movies" tvg-language="cmn;eng" tvg-quality="1080p",HBO Asia
+http://125.227.210.55:1003/VideoInput/play.ts
+

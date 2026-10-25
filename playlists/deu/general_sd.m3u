@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" group-title="General" tvg-language="deu" tvg-quality="576i",3sat
+https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AltenburgTV.de" tvg-name="Altenburg TV" group-title="General" tvg-language="deu" tvg-quality="576i",Altenburg TV
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/132661/132661_264_live.m3u8
+
+#EXTINF:-1 tvg-id="ErzTVStollberg.de" tvg-name="Erz-TV Stollberg" group-title="General" tvg-language="deu" tvg-quality="576p",Erz-TV Stollberg
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kanal12SprembergTV.de" tvg-name="Kanal12 Spremberg TV" group-title="General" tvg-language="deu" tvg-quality="404p",Kanal12 Spremberg TV
+https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MDRFernsehen.de" tvg-name="MDR Fernsehen" group-title="General" tvg-language="deu" tvg-quality="576i",MDR Fernsehen
+https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv" group-title="General" tvg-language="deu" tvg-quality="576i",n-tv
+https://dash4.antik.sk/live/test_ntv_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBC1.na" tvg-name="NBC 1" group-title="General" tvg-language="afr;deu;eng" tvg-quality="576i",NBC 1
+https://hls2.nbcplus.na/hls/high_nbc1.m3u8
+
+#EXTINF:-1 tvg-id="NDRFernsehenInternational.de" tvg-name="NDR Fernsehen International" group-title="General" tvg-language="deu" tvg-quality="576i",NDR Fernsehen International
+https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OKFlensburg.de" tvg-name="OK Flensburg" group-title="General" tvg-language="deu" tvg-quality="576p",OK Flensburg
+https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
+
+#EXTINF:-1 tvg-id="OKKiel.de" tvg-name="OK Kiel" group-title="General" tvg-language="deu" tvg-quality="576p",OK Kiel
+https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
+
+#EXTINF:-1 tvg-id="OKRheinMain.de" tvg-name="OK Rhein-Main" group-title="General" tvg-language="deu" tvg-quality="576p",OK Rhein-Main
+https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OKWeinstrasseNeustadt.de" tvg-name="OK Weinstrasse Neustadt" group-title="General" tvg-language="deu" tvg-quality="432p",OK Weinstrasse Neustadt
+https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" group-title="General" tvg-language="deu" tvg-quality="576i",ORF 1
+https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen" group-title="General" tvg-language="deu" tvg-quality="576i",WDR Fernsehen
+https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8
+

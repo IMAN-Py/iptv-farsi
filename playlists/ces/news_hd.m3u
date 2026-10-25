@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CNNPrimaNews.cz" tvg-name="CNN Prima News" group-title="News" tvg-language="ces" tvg-quality="1080p",CNN Prima News
+http://88.212.15.17/live/test_cnn_pirma_news/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CT24.cz" tvg-name="CT24" group-title="News" tvg-language="ces" tvg-quality="1080p",CT24
+http://88.212.15.17/live/test_ct24_hevc/playlist.m3u8
+

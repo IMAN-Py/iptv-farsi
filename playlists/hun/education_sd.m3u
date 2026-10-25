@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LiceumTV.hu" tvg-name="Liceum TV" group-title="Culture;Education" tvg-language="hun" tvg-quality="576p",Liceum TV
+http://193.225.32.62:8890/live.m3u8
+

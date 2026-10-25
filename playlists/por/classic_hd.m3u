@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AWTV.br" tvg-name="AWTV" group-title="Classic;Series" tvg-language="por" tvg-quality="1080p",AWTV
+#EXTVLCOPT:http-referrer=https://awtv.com.br
+https://awtv.nuvemplay.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="MacGyver.us" tvg-name="MacGyver" group-title="Classic" tvg-language="por" tvg-quality="720p",MacGyver
+https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVDesenhosClassicos.us" tvg-name="Pluto TV Desenhos Classicos" group-title="Classic" tvg-language="por" tvg-quality="720p",Pluto TV Desenhos Classicos
+https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
+
+#EXTINF:-1 tvg-id="RetroCartoon.br" tvg-name="Retro Cartoon" group-title="Classic" tvg-language="por" tvg-quality="720p",Retro Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
+

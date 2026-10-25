@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MNPlus.mn" tvg-name="MN+" group-title="Movies" tvg-language="mon" tvg-quality="576i",MN+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8
+

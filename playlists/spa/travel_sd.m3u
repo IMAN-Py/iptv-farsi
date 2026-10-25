@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CostaRicaChannel.cr" tvg-name="Costa Rica Channel" group-title="Culture;Travel" tvg-language="spa" tvg-quality="576p",Costa Rica Channel
+https://video0.rogohosting.com:19360/8006/8006.m3u8
+
+#EXTINF:-1 tvg-id="TurismoTravelTV.cl" tvg-name="Turismo Travel TV" group-title="Travel" tvg-language="spa" tvg-quality="480i",Turismo Travel TV
+https://stmv3.voxtvhd.com.br/turismotraveltv/turismotraveltv/playlist.m3u8
+

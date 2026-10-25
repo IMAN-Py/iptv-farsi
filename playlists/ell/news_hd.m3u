@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AstraTV.gr" tvg-name="Astra TV" group-title="News" tvg-language="ell" tvg-quality="1080p",Astra TV
+https://server.gointernet.gr/live/livestream.m3u8
+
+#EXTINF:-1 tvg-id="CorfuChannel.gr" tvg-name="Corfu Channel" group-title="News" tvg-language="ell" tvg-quality="720p",Corfu Channel
+https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ERTNews.gr" tvg-name="ERT News" group-title="News" tvg-language="ell" tvg-quality="1080p",ERT News
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsGreek.fr" tvg-name="Euronews Greek" group-title="News" tvg-language="ell" tvg-quality="720p",Euronews Greek
+https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
+
+#EXTINF:-1 tvg-id="NaftemporikiTV.gr" tvg-name="Naftemporiki TV" group-title="News" tvg-language="ell" tvg-quality="1080p",Naftemporiki TV
+https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
+
+#EXTINF:-1 tvg-id="StarKentrikisElladas.gr" tvg-name="Star Kentrikis Elladas" group-title="General;News" tvg-language="ell" tvg-quality="1080p",Star Kentrikis Elladas
+https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
+
+#EXTINF:-1 tvg-id="TRT.gr" tvg-name="TRT" group-title="News" tvg-language="ell" tvg-quality="720p",TRT
+https://av.hellasnet.tv/rst/trt/main_stream.m3u8
+
+#EXTINF:-1 tvg-id="VerginaTV.gr" tvg-name="Vergina TV" group-title="Entertainment;News" tvg-language="ell" tvg-quality="1080p",Vergina TV
+https://verginanews.gr:8443/hls_live/stream1.m3u8
+
+#EXTINF:-1 tvg-id="VouliTV.cy" tvg-name="Vouli TV" group-title="News" tvg-language="ell" tvg-quality="1080p",Vouli TV
+https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
+

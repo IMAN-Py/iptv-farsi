@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae" tvg-name="Al Arabiya Programs" group-title="Documentary;News" tvg-language="ara" tvg-quality="1280p",Al Arabiya Programs
+https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="Al Jazeera Documentary" group-title="Documentary" tvg-language="ara" tvg-quality="1080p",Al Jazeera Documentary
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="Al Jazeera Documentary" group-title="Documentary" tvg-language="ara" tvg-quality="1080p",Al Jazeera Documentary
+https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="Al Jazeera Documentary" group-title="Documentary" tvg-language="ara" tvg-quality="1080p",Al Jazeera Documentary
+https://live-hls-web-ajd-fa.thehlive.com/AJD/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="Al Jazeera Documentary" group-title="Documentary" tvg-language="ara" tvg-quality="1080p",Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+
+#EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-name="Asharq Discovery" group-title="Documentary;Education" tvg-language="ara" tvg-quality="1080p",Asharq Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="AsharqDocumentary.sa" tvg-name="Asharq Documentary" group-title="Documentary" tvg-language="ara" tvg-quality="1080p",Asharq Documentary
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="KarbalaDocumentary.iq" tvg-name="Karbala Documentary" group-title="Documentary;Religious" tvg-language="ara" tvg-quality="1080p",Karbala Documentary
+https://ktvlive.online/stream/hls/ch3.m3u8
+

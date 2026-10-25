@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CapitalTVHD.np" tvg-name="Capital TV HD" group-title="General" tvg-language="mai;nep" tvg-quality="1080p",Capital TV HD
+https://streaming.tvnepal.com:19360/capitaltv/720p.m3u8
+
+#EXTINF:-1 tvg-id="KantipurTV.np" tvg-name="Kantipur TV" group-title="General" tvg-language="mai;nep" tvg-quality="720p",Kantipur TV
+http://103.213.31.109:90/KantipurPiracyHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KantipurTV.np" tvg-name="Kantipur TV" group-title="General" tvg-language="eng;mai;nep" tvg-quality="1080i",Kantipur TV
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8
+
+#EXTINF:-1 tvg-id="KantipurTV.np" tvg-name="Kantipur TV" group-title="General" tvg-language="mai;nep" tvg-quality="720p",Kantipur TV
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="KantipurTV.np" tvg-name="Kantipur TV" group-title="General" tvg-language="mai;nep" tvg-quality="1080p",Kantipur TV
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RayTVHD.np" tvg-name="Ray TV HD" group-title="Entertainment;General" tvg-language="mai;nep" tvg-quality="1080p",Ray TV HD
+https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8
+

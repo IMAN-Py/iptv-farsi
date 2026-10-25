@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BajoTechoTV.do" tvg-name="Bajo Techo TV" group-title="Shop" tvg-language="spa" tvg-quality="1080p",Bajo Techo TV
+https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RedTVShop.bo" tvg-name="Red TV Shop" group-title="Shop" tvg-language="spa" tvg-quality="720p",Red TV Shop
+https://master.tucableip.com/redtvshop/index.m3u8
+

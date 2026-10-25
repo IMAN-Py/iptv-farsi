@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AsianetMovies.in" tvg-name="Asianet Movies" group-title="Movies" tvg-language="mal" tvg-quality="396p",Asianet Movies
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 tvg-id="KairaliWe.in" tvg-name="Kairali We" group-title="Movies" tvg-language="mal" tvg-quality="576p",Kairali We
+https://cdn.pishow.tv/ott/live/1530/master.m3u8
+
+#EXTINF:-1 tvg-id="KairaliWe.in" tvg-name="Kairali We" group-title="Movies" tvg-language="mal" tvg-quality="576p",Kairali We
+https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8
+
+#EXTINF:-1 tvg-id="KairaliWe.in" tvg-name="Kairali We" group-title="Movies" tvg-language="mal" tvg-quality="576p",Kairali We
+https://streams.tangotv.in/WETV/ORIGIN/index.m3u8
+

@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ChannelOne.us" tvg-name="Channel One" group-title="Culture;News" tvg-language="fas" tvg-quality="480i",Channel One
+https://pemirateshls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="IRIB4.ir" tvg-name="IRIB 4" group-title="Culture" tvg-language="fas" tvg-quality="576i",IRIB 4
+https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OfoghTV.ir" tvg-name="Ofogh TV" group-title="Culture" tvg-language="fas" tvg-quality="576i",Ofogh TV
+https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8
+

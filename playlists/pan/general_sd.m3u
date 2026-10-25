@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MHOne.in" tvg-name="MH One" group-title="General" tvg-language="pan" tvg-quality="360p",MH One
+https://samitaorigin.tangotv.in/MHONE/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="Okey.my" tvg-name="Okey" group-title="General" tvg-language="eng;msa;pan;tam;zho" tvg-quality="576i",Okey
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+

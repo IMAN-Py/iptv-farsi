@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ducktvPLUS.sk" tvg-name="ducktv PLUS" group-title="Kids" tvg-language="slk" tvg-quality="576i",ducktv PLUS
+https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" group-title="Kids" tvg-language="ces;eng;heb;por;slk" tvg-quality="576p",JimJam Europe
+http://158.160.149.81:8080/269/index.m3u8
+
+#EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" group-title="Kids" tvg-language="ces;eng;heb;por;slk" tvg-quality="576p",JimJam Europe
+http://stream.mcquack.net/150/index.m3u8
+

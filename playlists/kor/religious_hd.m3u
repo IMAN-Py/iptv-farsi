@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBSTV.kr" tvg-name="BBS TV" group-title="Religious" tvg-language="kor" tvg-quality="1080p",BBS TV
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BTNTV.kr" tvg-name="BTN TV" group-title="Religious" tvg-language="kor" tvg-quality="1080p",BTN TV
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FGTV.kr" tvg-name="FGTV" group-title="Religious" tvg-language="kor" tvg-quality="720p",FGTV
+https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GCN.kr" tvg-name="GCN" group-title="Religious" tvg-language="kor" tvg-quality="720p",GCN
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoodTV.kr" tvg-name="Good TV" group-title="Religious" tvg-language="kor" tvg-quality="1080p",Good TV
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RUTCTV.kr" tvg-name="RUTC TV" group-title="Religious" tvg-language="kor" tvg-quality="720p",RUTC TV
+http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+

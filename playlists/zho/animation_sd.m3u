@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GoldenEagleCartoon.cn" tvg-name="Golden Eagle Cartoon" group-title="Animation;Kids" tvg-language="zho" tvg-quality="576i",Golden Eagle Cartoon
+http://1.24.190.98:10080/hls/51/index.m3u8
+
+#EXTINF:-1 tvg-id="GoldenEagleCartoon.cn" tvg-name="Golden Eagle Cartoon" group-title="Animation;Kids" tvg-language="zho" tvg-quality="540p",Golden Eagle Cartoon
+http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8
+
+#EXTINF:-1 tvg-id="GoldenEagleCartoon.cn" tvg-name="Golden Eagle Cartoon" group-title="Animation;Kids" tvg-language="zho" tvg-quality="576p",Golden Eagle Cartoon
+http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8
+
+#EXTINF:-1 tvg-id="GoldenEagleCartoon.cn" tvg-name="Golden Eagle Cartoon" group-title="Animation;Kids" tvg-language="zho" tvg-quality="576p",Golden Eagle Cartoon
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
+
+#EXTINF:-1 tvg-id="JiangxiChildrensChannel.cn" tvg-name="Jiangxi Children's Channel" group-title="Animation;Kids" tvg-language="zho" tvg-quality="576i",Jiangxi Children's Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
+
+#EXTINF:-1 tvg-id="YouManCartoonChannel.cn" tvg-name="You Man Cartoon Channel" group-title="Animation;Kids" tvg-language="zho" tvg-quality="576p",You Man Cartoon Channel
+http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
+
+#EXTINF:-1 tvg-id="YouManCartoonChannel.cn" tvg-name="You Man Cartoon Channel" group-title="Animation;Kids" tvg-language="zho" tvg-quality="576p",You Man Cartoon Channel
+http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
+

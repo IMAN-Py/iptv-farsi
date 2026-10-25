@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-name="CCTV-5+" group-title="Sports" tvg-language="zho" tvg-quality="576i",CCTV-5+
+https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
+
+#EXTINF:-1 tvg-id="JiangsuSportsLeisureChannel.cn" tvg-name="Jiangsu Sports & Leisure Channel" group-title="Sports" tvg-language="zho" tvg-quality="576p",Jiangsu Sports & Leisure Channel
+http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY
+
+#EXTINF:-1 tvg-id="JiangsuSportsLeisureChannel.cn" tvg-name="Jiangsu Sports & Leisure Channel" group-title="Sports" tvg-language="zho" tvg-quality="576p",Jiangsu Sports & Leisure Channel
+http://183.207.249.12/PLTV/4/224/3221225935/index.m3u8
+
+#EXTINF:-1 tvg-id="JiangsuSportsLeisureChannel.cn" tvg-name="Jiangsu Sports & Leisure Channel" group-title="Sports" tvg-language="zho" tvg-quality="576p",Jiangsu Sports & Leisure Channel
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225935/index.m3u8
+

@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="alphaCinema.ru" tvg-name="alpha Cinema" group-title="Comedy;Family;Movies" tvg-language="rus" tvg-quality="1080p",alpha Cinema
+https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+
+#EXTINF:-1 tvg-id="Komediynoe.ru" tvg-name="Komediynoe" group-title="Comedy" tvg-language="rus" tvg-quality="1080p",Komediynoe
+http://stream.mcquack.net/74/index.m3u8
+
+#EXTINF:-1 tvg-id="TvoyeTVYumor.ru" tvg-name="Tvoye TV Yumor" group-title="Comedy" tvg-language="rus" tvg-quality="1080p",Tvoye TV Yumor
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+
+#EXTINF:-1 tvg-id="VelvetSeriesHits.ru" tvg-name="Velvet. Series Hits" group-title="Comedy;Family;Series" tvg-language="rus" tvg-quality="1080p",Velvet. Series Hits
+https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
+
+#EXTINF:-1 tvg-id="VelvetWorldSeries.ru" tvg-name="Velvet. World Series" group-title="Comedy;Family;Series" tvg-language="rus" tvg-quality="1080p",Velvet. World Series
+https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
+
+#EXTINF:-1 tvg-id="vijuPlusComedy.ru" tvg-name="viju+ Comedy" group-title="Comedy" tvg-language="rus" tvg-quality="1080p",viju+ Comedy
+http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuPlusComedy.ru" tvg-name="viju+ Comedy" group-title="Comedy" tvg-language="rus" tvg-quality="1080p",viju+ Comedy
+http://stream.mcquack.net/201/index.m3u8
+

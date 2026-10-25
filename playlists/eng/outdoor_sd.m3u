@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AKCTV.us" tvg-name="AKC TV" group-title="Outdoor" tvg-language="eng" tvg-quality="480i",AKC TV
+https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
+
+#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-name="AKC TV Meet the Breeds" group-title="Outdoor" tvg-language="eng" tvg-quality="480i",AKC TV Meet the Breeds
+https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
+
+#EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-name="AKC TV Puppies" group-title="Outdoor" tvg-language="eng" tvg-quality="480i",AKC TV Puppies
+https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
+
+#EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam" group-title="Outdoor;Sports" tvg-language="eng" tvg-quality="576i",Monster Jam
+https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8
+
+#EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-name="Okhota i rybalka" group-title="Outdoor" tvg-language="eng;rus" tvg-quality="576p",Okhota i rybalka
+http://stream.mcquack.net/155/index.m3u8
+
+#EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-name="Okhota i rybalka" group-title="Outdoor" tvg-language="eng;rus" tvg-quality="576i",Okhota i rybalka
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SpikeOutdoors.us" tvg-name="Spike Outdoors" group-title="Outdoor" tvg-language="eng" tvg-quality="480i",Spike Outdoors
+https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8
+

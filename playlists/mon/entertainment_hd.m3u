@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AsianBox.mn" tvg-name="AsianBox" group-title="Entertainment" tvg-language="mon" tvg-quality="1080p",AsianBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
+
+#EXTINF:-1 tvg-id="AsianBox.mn" tvg-name="AsianBox" group-title="Entertainment" tvg-language="mon" tvg-quality="720p",AsianBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
+
+#EXTINF:-1 tvg-id="DreamTV.mn" tvg-name="DreamTV" group-title="Entertainment" tvg-language="mon" tvg-quality="1080p",DreamTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd
+
+#EXTINF:-1 tvg-id="DreamTV.mn" tvg-name="DreamTV" group-title="Entertainment" tvg-language="mon" tvg-quality="720p",DreamTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8
+
+#EXTINF:-1 tvg-id="EdutainmentTV.mn" tvg-name="Edutainment TV" group-title="Education;Entertainment" tvg-language="mon" tvg-quality="1080p",Edutainment TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
+
+#EXTINF:-1 tvg-id="EdutainmentTV.mn" tvg-name="Edutainment TV" group-title="Education;Entertainment" tvg-language="mon" tvg-quality="1080p",Edutainment TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8
+

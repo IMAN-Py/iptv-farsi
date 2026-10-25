@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SVBC3.in" tvg-name="SVBC 3" group-title="Religious" tvg-language="kan" tvg-quality="720p",SVBC 3
+https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
+

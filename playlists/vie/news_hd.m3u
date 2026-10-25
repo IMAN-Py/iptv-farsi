@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BrianTV.la" tvg-name="Brian TV" group-title="News" tvg-language="vie" tvg-quality="720p",Brian TV
+https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DongNaiTV1.vn" tvg-name="Dong Nai TV 1" group-title="General;News" tvg-language="vie" tvg-quality="1080p",Dong Nai TV 1
+https://freem3u.xyz/api/live/play.m3u8?vid=53
+
+#EXTINF:-1 tvg-id="DongNaiTV1.vn" tvg-name="Dong Nai TV 1" group-title="General;News" tvg-language="vie" tvg-quality="720p",Dong Nai TV 1
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
+
+#EXTINF:-1 tvg-id="DongNaiTV1.vn" tvg-name="Dong Nai TV 1" group-title="General;News" tvg-language="vie" tvg-quality="720p",Dong Nai TV 1
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/dongnai1tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HTV9.vn" tvg-name="HTV9" group-title="General;News" tvg-language="vie" tvg-quality="720p",HTV9
+https://dethich.pw/htv9/index.m3u8
+
+#EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="720p",Tra Vinh TV
+https://dethich.pw/thvl5/index.m3u8
+
+#EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="1080p",Tra Vinh TV
+https://freem3u.xyz/api/live/play.m3u8?vid=91
+
+#EXTINF:-1 tvg-id="VinhLongTV1.vn" tvg-name="Vinh Long TV 1" group-title="General;News" tvg-language="vie" tvg-quality="720p",Vinh Long TV 1
+https://dethich.pw/thvl1/index.m3u8
+

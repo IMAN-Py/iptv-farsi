@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Meteonews.ch" tvg-name="Meteonews" group-title="Weather" tvg-language="deu" tvg-quality="1080p",Meteonews
+https://streaming.meteonews.net/hls/stream.m3u8
+

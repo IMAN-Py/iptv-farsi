@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="13Humor.cl" tvg-name="13 Humor" group-title="Comedy" tvg-language="spa" tvg-quality="1080p",13 Humor
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
+
+#EXTINF:-1 tvg-id="AFVEspanol.us" tvg-name="AFV Espanol" group-title="Comedy" tvg-language="spa" tvg-quality="720p",AFV Espanol
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ComediaalobestiadePlutoTV.de" tvg-name="Comedia a lo bestia de Pluto TV" group-title="Comedy" tvg-language="spa" tvg-quality="720p",Comedia a lo bestia de Pluto TV
+https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us" tvg-name="Comedy Central Latin America" group-title="Comedy" tvg-language="spa" tvg-quality="1080p",Comedy Central Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Comedy_Central/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us" tvg-name="Comedy Central Latin America" group-title="Comedy" tvg-language="spa" tvg-quality="1080p",Comedy Central Latin America
+https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us" tvg-name="Comedy Central Pluto TV" group-title="Comedy" tvg-language="spa" tvg-quality="720p",Comedy Central Pluto TV
+https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentralSouthPark.us" tvg-name="Comedy Central South Park" group-title="Animation;Comedy" tvg-language="spa" tvg-quality="720p",Comedy Central South Park
+https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
+
+#EXTINF:-1 tvg-id="Daria.us" tvg-name="Daria" group-title="Comedy" tvg-language="spa" tvg-quality="720p",Daria
+https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
+
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" group-title="Comedy" tvg-language="eng;spa" tvg-quality="1080p",Distrito Comedia
+http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8
+
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" group-title="Comedy" tvg-language="eng;spa" tvg-quality="1080p",Distrito Comedia
+http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8
+
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" group-title="Comedy" tvg-language="eng;spa" tvg-quality="1080p",Distrito Comedia
+http://190.61.47.54:8000/play/a028/index.m3u8
+
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" group-title="Comedy" tvg-language="eng;spa" tvg-quality="1080p",Distrito Comedia
+http://45.5.57.58:8000/play/a07n/index.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVComediamadeinSpain.de" tvg-name="Pluto TV Comedia made in Spain" group-title="Comedy" tvg-language="spa" tvg-quality="720p",Pluto TV Comedia made in Spain
+https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVComediasRomanticas.de" tvg-name="Pluto TV Comedias Romanticas" group-title="Comedy;Movies" tvg-language="spa" tvg-quality="720p",Pluto TV Comedias Romanticas
+https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
+
+#EXTINF:-1 tvg-id="SouthPark.de" tvg-name="South Park" group-title="Animation;Comedy" tvg-language="spa" tvg-quality="720p",South Park
+https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkVersionOriginal.de" tvg-name="South Park Version Original" group-title="Animation;Comedy" tvg-language="spa" tvg-quality="720p",South Park Version Original
+https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkColeccionCartman.us" tvg-name="South Park: Coleccion Cartman" group-title="Animation;Comedy" tvg-language="spa" tvg-quality="720p",South Park: Coleccion Cartman
+https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkColeccionKenny.us" tvg-name="South Park: Coleccion Kenny" group-title="Animation;Comedy" tvg-language="spa" tvg-quality="720p",South Park: Coleccion Kenny
+https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkColeccionKyle.us" tvg-name="South Park: Coleccion Kyle" group-title="Animation;Comedy" tvg-language="spa" tvg-quality="720p",South Park: Coleccion Kyle
+https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkColeccionStan.us" tvg-name="South Park: Coleccion Stan" group-title="Animation;Comedy" tvg-language="spa" tvg-quality="720p",South Park: Coleccion Stan
+https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
+
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy" group-title="Comedy" tvg-language="eng;spa" tvg-quality="1080p",Starz Comedy
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+

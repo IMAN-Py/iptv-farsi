@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" group-title="News" tvg-language="mal" tvg-quality="1080p",Asianet News
+https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" group-title="News" tvg-language="mal" tvg-quality="1080p",Asianet News
+https://asianet-samsung.vgcdn.net/ptnr-monitoring/vglive-sk-906908/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BigTV24x7.in" tvg-name="Big TV 24x7" group-title="News" tvg-language="mal" tvg-quality="1080p",Big TV 24x7
+https://stream.ottlive.co.in/bigtvmalayalam/index.m3u8
+
+#EXTINF:-1 tvg-id="KairaliNews.in" tvg-name="Kairali News" group-title="News" tvg-language="mal" tvg-quality="720p",Kairali News
+https://cdn.pishow.tv/ott/live/1469/master.m3u8
+
+#EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="Manorama News" group-title="News" tvg-language="mal" tvg-quality="1080p",Manorama News
+https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
+
+#EXTINF:-1 tvg-id="MediaOne.in" tvg-name="Media One" group-title="News" tvg-language="mal" tvg-quality="720p",Media One
+https://cdn.pishow.tv/ott/live/1481/master.m3u8
+
+#EXTINF:-1 tvg-id="News18Kerala.in" tvg-name="News18 Kerala" group-title="News" tvg-language="mal" tvg-quality="1080p",News18 Kerala
+https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="News18Kerala.in" tvg-name="News18 Kerala" group-title="News" tvg-language="mal" tvg-quality="1080p",News18 Kerala
+https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 tvg-id="RealNewsKerala.in" tvg-name="Real News Kerala" group-title="News" tvg-language="mal" tvg-quality="1080p",Real News Kerala
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+

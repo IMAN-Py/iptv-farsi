@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AaseervathamTV.in" tvg-name="Aaseervatham TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Aaseervatham TV
+https://mumt04.tangotv.in/m18aqlK4AASEERVATHAMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="AasthaTamil.in" tvg-name="Aastha Tamil" group-title="Religious" tvg-language="tam" tvg-quality="480p",Aastha Tamil
+https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Angel TV
+https://mumt01.tangotv.in/O5aw8Zn3ANGELTVHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArputharYesuTV.in" tvg-name="Arputhar Yesu TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Arputhar Yesu TV
+https://account33.livebox.co.in/jesushelpshls/live.m3u8
+
+#EXTINF:-1 tvg-id="BhagyamTV.in" tvg-name="Bhagyam TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Bhagyam TV
+https://bhagyam.iptv.pics/bhagyam/index.m3u8
+
+#EXTINF:-1 tvg-id="JoyTV.in" tvg-name="Joy TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Joy TV
+https://joy.inet.moe/live/joytv/index.m3u8
+
+#EXTINF:-1 tvg-id="JoyTV.in" tvg-name="Joy TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Joy TV
+https://mumbai-edge.smartplaytv.in/JoyTV/index.m3u8
+
+#EXTINF:-1 tvg-id="MadhaTV.in" tvg-name="Madha TV" group-title="Religious" tvg-language="tam" tvg-quality="576i",Madha TV
+https://cdn.pishow.tv/ott/live/1265/master.m3u8
+
+#EXTINF:-1 tvg-id="MadhaTV.in" tvg-name="Madha TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Madha TV
+https://mumt07.tangotv.in/zHjX9OFlMADHATV/index.m3u8
+
+#EXTINF:-1 tvg-id="MadhaTV.in" tvg-name="Madha TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Madha TV
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/MadhaTV.m3u8
+
+#EXTINF:-1 tvg-id="MahimaiTV.in" tvg-name="Mahimai TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Mahimai TV
+https://mahimai.iptelevision.live/mahimaitv/video.m3u8
+
+#EXTINF:-1 tvg-id="NambikkaiTV.in" tvg-name="Nambikkai TV" group-title="Religious" tvg-language="tam" tvg-quality="576i",Nambikkai TV
+https://cdn.pishow.tv/ott/live/1389/master.m3u8
+
+#EXTINF:-1 tvg-id="OMTV.in" tvg-name="OM TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",OM TV
+https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="SairamTV.in" tvg-name="Sairam TV" group-title="Religious" tvg-language="tam" tvg-quality="576i",Sairam TV
+https://cdn.pishow.tv/ott/live/1611/master.m3u8
+
+#EXTINF:-1 tvg-id="SairamTV.in" tvg-name="Sairam TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Sairam TV
+https://mumt04.tangotv.in/m18aqlK4SAIRAMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="SankaraTV.in" tvg-name="Sankara TV" group-title="Religious" tvg-language="kan;tam" tvg-quality="576p",Sankara TV
+https://cdn.pishow.tv/ott/live/1135/master.m3u8
+
+#EXTINF:-1 tvg-id="SankaraTV.in" tvg-name="Sankara TV" group-title="Religious" tvg-language="kan;tam" tvg-quality="576p",Sankara TV
+https://mumbai-edge.smartplaytv.in/SriSankara/index.m3u8
+
+#EXTINF:-1 tvg-id="SankaraTV.in" tvg-name="Sankara TV" group-title="Religious" tvg-language="kan;tam" tvg-quality="576p",Sankara TV
+https://mumt05.tangotv.in/87NeALx2SRISANKARA/index.m3u8
+
+#EXTINF:-1 tvg-id="SVBC2.in" tvg-name="SVBC 2" group-title="Religious" tvg-language="tam" tvg-quality="576p",SVBC 2
+https://mumt03.tangotv.in/Dsly5z3HSVBC2TAMIL/index.m3u8
+
+#EXTINF:-1 tvg-id="VillageTV.in" tvg-name="Village TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Village TV
+https://villagetv.applelive.in/villagetv/villagetv/index.m3u8
+

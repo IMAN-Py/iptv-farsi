@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1Plus1International.ua" tvg-name="1+1 International" group-title="General" tvg-language="ukr" tvg-quality="576i",1+1 International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://158.101.222.193:88/georgia_play.php?id=1plus1international
+
+#EXTINF:-1 tvg-id="Avers.ua" tvg-name="Avers" group-title="General" tvg-language="ukr" tvg-quality="480p",Avers
+https://avers.pp.ua/hls/efir.m3u8
+
+#EXTINF:-1 tvg-id="BlackSeaTV.ua" tvg-name="Black Sea TV" group-title="General" tvg-language="rus;ukr" tvg-quality="576i",Black Sea TV
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
+
+#EXTINF:-1 tvg-id="DIM.ua" tvg-name="DIM" group-title="General" tvg-language="ukr" tvg-quality="576p",DIM
+http://stream.mcquack.net/383/index.m3u8
+
+#EXTINF:-1 tvg-id="DIM.ua" tvg-name="DIM" group-title="General" tvg-language="ukr" tvg-quality="576i",DIM
+https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HersonPlyus.ua" tvg-name="Herson Plyus" group-title="General" tvg-language="ukr" tvg-quality="576p",Herson Plyus
+http://46.175.163.130/ks_plus/index.m3u8
+
+#EXTINF:-1 tvg-id="ITV.ua" tvg-name="ITV" group-title="General" tvg-language="ukr" tvg-quality="576i",ITV
+http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ITV.ua" tvg-name="ITV" group-title="General" tvg-language="ukr" tvg-quality="480p",ITV
+https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IzmailTV.ua" tvg-name="Izmail TV" group-title="General" tvg-language="ukr" tvg-quality="384p",Izmail TV
+https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KonkurentUkraine.ua" tvg-name="Konkurent Ukraine" group-title="General" tvg-language="ukr" tvg-quality="576i",Konkurent Ukraine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+http://775065.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9obHMtY2RuMi5keXZ5YXBwLmNvbS9rb25rdXJlbnQtdWtyYWluYS90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg/dG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmphR0Z1Ym1Wc1gybGtJam96TVRFc0ltTm9ZVzV1Wld4ZmJtRnRaU0k2SWx4MU1EUXhZVngxTURRelpWeDFNRFF6WkZ4MU1EUXpZVngxTURRME0xeDFNRFEwTUZ4MU1EUXpOVngxTURRelpGeDFNRFEwTWlCY2RUQTBNak5jZFRBME0yRmNkVEEwTkRCY2RUQTBNekJjZFRBME5UZGNkVEEwTTJSY2RUQTBNekFpTENKcGNDSTZJakUzT0M0eE16WXVOREl1TWpJd0lpd2lZMjkxYm5SeWVTSTZJbFZyY21GcGJtVWlMQ0oxYzJWeVgybGtJam8zTkRBM0xDSjFjMlZ5WDNCb2IyNWxJam9pS3pNNE1Ea3pNRGsyTnpReU15SXNJblZ6WlhKZmNtOXNaWE1pT2xzaVkyeHBaVzUwSWwwc0luQnliMlpwYkdWZmFXUWlPalkwTnpFc0luTmxjM05wYjI1ZmFXUWlPaUprTURBNU5tSm1PQzB5TTJVMUxUUmxaVFl0WW1Vek5TMW1PREE0TXpsbFpqbGtPRFFpTENKbGJuWnBjbTl1YldWdWRDSTZJbkJ5YjJSMVkzUnBiMjRpTENKd2JHRjBabTl5YlNJNklrUmxjMnQwYjNBaUxDSjFjMlZ5WDJGblpXNTBJam9pVFc5NmFXeHNZVnd2TlM0d0lDaFhhVzVrYjNkeklFNVVJREV3TGpBN0lGZHBialkwT3lCNE5qUXBJRUZ3Y0d4bFYyVmlTMmwwWEM4MU16Y3VNellnS0V0SVZFMU1MQ0JzYVd0bElFZGxZMnR2S1NCRGFISnZiV1ZjTHpFMU1pNHdMakF1TUNCVFlXWmhjbWxjTHpVek55NHpOaUlzSW1WNGNDSTZNVGM0T0RNek5qTXdOSDAuOGgzdDlhSkFPUjh0djhvX0NZWjlDbHVuaTVvZ2NiRVFVcC1SbThlcUMwNA==&master=311
+
+#EXTINF:-1 tvg-id="MistoPlus.ua" tvg-name="Misto+" group-title="General" tvg-language="ukr" tvg-quality="360p",Misto+
+http://93.78.206.172:8080/stream3/stream.m3u8
+
+#EXTINF:-1 tvg-id="MyUkrainaPlus.ua" tvg-name="My Ukraina+" group-title="General" tvg-language="ukr" tvg-quality="576i",My Ukraina+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
+
+#EXTINF:-1 tvg-id="OrbitaTV.ua" tvg-name="Orbita TV" group-title="General" tvg-language="ukr" tvg-quality="360p",Orbita TV
+http://ftp.orbita.dn.ua/hls/orbita.m3u8
+
+#EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua" tvg-name="Pervyy gorodskoy. Odessa" group-title="General" tvg-language="rus;ukr" tvg-quality="576p",Pervyy gorodskoy. Odessa
+http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RenomeTV.ua" tvg-name="Renome TV" group-title="General" tvg-language="ukr" tvg-quality="576p",Renome TV
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
+
+#EXTINF:-1 tvg-id="SferaTV.ua" tvg-name="Sfera-TV" group-title="General" tvg-language="ukr" tvg-quality="576i",Sfera-TV
+http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperPlus.ua" tvg-name="Super+" group-title="Entertainment;General" tvg-language="ukr" tvg-quality="360p",Super+
+http://dtv.vol.net.ua/super_plus/index.m3u8
+
+#EXTINF:-1 tvg-id="SuspilneDonbas.ua" tvg-name="Suspilne. Donbas" group-title="General" tvg-language="ukr" tvg-quality="576p",Suspilne. Donbas
+http://hls127.freeott.top:8080/UA_DONBAS/video.m3u8
+
+#EXTINF:-1 tvg-id="SuspilneKyiv.ua" tvg-name="Suspilne. Kyiv" group-title="General" tvg-language="ukr" tvg-quality="360p",Suspilne. Kyiv
+https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/nstu-kyiv/master.m3u8
+
+#EXTINF:-1 tvg-id="TelekanalRAI.ua" tvg-name="Telekanal RAI" group-title="General" tvg-language="ukr" tvg-quality="576i",Telekanal RAI
+http://92.253.233.136/uploads/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelekanalRAI.ua" tvg-name="Telekanal RAI" group-title="General" tvg-language="ukr" tvg-quality="480p",Telekanal RAI
+https://stream.rai.ua/rai/stream.m3u8
+
+#EXTINF:-1 tvg-id="TV7Plus.ua" tvg-name="TV7+" group-title="General" tvg-language="ukr" tvg-quality="576i",TV7+
+https://tv7plus.com/hls/tv7_site.m3u8
+
+#EXTINF:-1 tvg-id="ZaTV.ru" tvg-name="Za! TV" group-title="General" tvg-language="rus;ukr" tvg-quality="576i",Za! TV
+https://streaming.televizor-24-tochka.ru/live/25.m3u8
+

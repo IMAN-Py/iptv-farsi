@@ -1,0 +1,165 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AnimeVision.es" tvg-name="Anime Vision" group-title="Animation" tvg-language="spa" tvg-quality="1080p",Anime Vision
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+
+#EXTINF:-1 tvg-id="AnimeVisionClassics.es" tvg-name="Anime Vision Classics" group-title="Animation" tvg-language="spa" tvg-quality="1080p",Anime Vision Classics
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="720p",Cartoon Network
+http://212.5.144.156:8080/cartoon/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="720p",Cartoon Network
+http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Cartoon Network Latin America
+http://158.172.217.18:8000/play/a03a/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Cartoon Network Latin America
+http://170.244.209.30:8000/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Cartoon Network Latin America
+http://38.252.238.18:8000/play/a053/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Cartoon Network Latin America
+http://45.173.12.70:8000/play/a0fj
+
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080i",Cartoon Network Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoLatinAmerica.us" tvg-name="Cartoonito Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Cartoonito Latin America
+http://45.173.12.70:8000/play/a0hh
+
+#EXTINF:-1 tvg-id="ComedyCentralSouthPark.us" tvg-name="Comedy Central South Park" group-title="Animation;Comedy" tvg-language="spa" tvg-quality="720p",Comedy Central South Park
+https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
+
+#EXTINF:-1 tvg-id="DetectiveConan.us" tvg-name="Detective Conan" group-title="Animation;Kids" tvg-language="spa" tvg-quality="720p",Detective Conan
+https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
+http://138.59.227.20:8000/play/a06w/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
+http://15.204.246.24:8080/DisneyHD/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Disney Channel Latin America
+http://181.78.8.199:8000/play/a0dn/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
+http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="720p",Disney Channel Latin America
+http://190.14.10.19:16000/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="720p",Disney Channel Latin America
+http://45.166.93.156:9999/play/a0f3/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
+http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
+http://45.185.163.75:8000/play/a02j/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
+http://45.70.201.81:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
+https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Disney Jr. Latin America
+http://181.78.14.26:4000/play/a073/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Disney Jr. Latin America
+http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Disney Jr. Latin America
+http://190.14.10.19:16000/play/a02d/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Disney Jr. Latin America
+http://45.185.163.75:8000/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Disney Jr. Latin America
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DreikoTV.pa" tvg-name="Dreiko TV" group-title="Animation" tvg-language="spa" tvg-quality="720p",Dreiko TV
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
+
+#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-name="EnerGeek" group-title="Animation" tvg-language="spa" tvg-quality="1080p",EnerGeek
+https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26
+
+#EXTINF:-1 tvg-id="EnerGeekFAN.cl" tvg-name="EnerGeek FAN" group-title="Animation" tvg-language="spa" tvg-quality="720p",EnerGeek FAN
+https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=IPTVgh26
+
+#EXTINF:-1 tvg-id="ExtremaKidsTV.cr" tvg-name="Extrema Kids TV" group-title="Animation;Kids" tvg-language="spa" tvg-quality="720p",Extrema Kids TV
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GikTVMX.mx" tvg-name="GikTVMX" group-title="Animation;Culture;Entertainment" tvg-language="spa" tvg-quality="720p",GikTVMX
+https://pistream.ddns.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="KidOO.us" tvg-name="KidOO" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",KidOO
+http://15.204.246.24:8080/KidooHD/index.m3u8
+
+#EXTINF:-1 tvg-id="LAMIL35TV.ar" tvg-name="LAMIL35 TV" group-title="Animation;Classic;Entertainment" tvg-language="spa" tvg-quality="720p",LAMIL35 TV
+#EXTVLCOPT:http-referrer=https://www.lamil35.com.ar/
+https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LasTortugasNinja.us" tvg-name="Las Tortugas Ninja" group-title="Animation" tvg-language="spa" tvg-quality="720p",Las Tortugas Ninja
+https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
+
+#EXTINF:-1 tvg-id="MAXAnime.ve" tvg-name="MAX Anime" group-title="Animation" tvg-language="spa" tvg-quality="1080p",MAX Anime
+https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-name="Mr Bean Animated" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Mr Bean Animated
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NarutoShippuden.us" tvg-name="Naruto Shippuden" group-title="Animation" tvg-language="spa" tvg-quality="720p",Naruto Shippuden
+https://jmp2.uk/plu-64c92f965580090008084968.m3u8
+
+#EXTINF:-1 tvg-id="NarutoShippuden.us" tvg-name="Naruto Shippuden" group-title="Animation" tvg-language="spa" tvg-quality="720p",Naruto Shippuden
+https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
+
+#EXTINF:-1 tvg-id="OnePiece.us" tvg-name="One Piece" group-title="Animation" tvg-language="jap;spa" tvg-quality="720p",One Piece
+https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
+
+#EXTINF:-1 tvg-id="OnePiece.us" tvg-name="One Piece" group-title="Animation" tvg-language="spa" tvg-quality="720p",One Piece
+https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
+
+#EXTINF:-1 tvg-id="PlimPlim.ar" tvg-name="Plim Plim" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Plim Plim
+http://200.115.120.1:8000/play/ca091/index.m3u8
+
+#EXTINF:-1 tvg-id="PlimPlim.ar" tvg-name="Plim Plim" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Plim Plim
+http://45.70.168.162:1503/play/a02a/index.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAnime.us" tvg-name="Pluto TV Anime" group-title="Animation" tvg-language="spa" tvg-quality="720p",Pluto TV Anime
+https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
+
+#EXTINF:-1 tvg-id="SouthPark.de" tvg-name="South Park" group-title="Animation;Comedy" tvg-language="spa" tvg-quality="720p",South Park
+https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkVersionOriginal.de" tvg-name="South Park Version Original" group-title="Animation;Comedy" tvg-language="spa" tvg-quality="720p",South Park Version Original
+https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkColeccionCartman.us" tvg-name="South Park: Coleccion Cartman" group-title="Animation;Comedy" tvg-language="spa" tvg-quality="720p",South Park: Coleccion Cartman
+https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkColeccionKenny.us" tvg-name="South Park: Coleccion Kenny" group-title="Animation;Comedy" tvg-language="spa" tvg-quality="720p",South Park: Coleccion Kenny
+https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkColeccionKyle.us" tvg-name="South Park: Coleccion Kyle" group-title="Animation;Comedy" tvg-language="spa" tvg-quality="720p",South Park: Coleccion Kyle
+https://jmp2.uk/plu-65df73520d4561000817c29b.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkColeccionStan.us" tvg-name="South Park: Coleccion Stan" group-title="Animation;Comedy" tvg-language="spa" tvg-quality="720p",South Park: Coleccion Stan
+https://jmp2.uk/plu-65df72db18036500081a8292.m3u8
+
+#EXTINF:-1 tvg-id="TigueritoTV.do" tvg-name="Tiguerito TV" group-title="Animation;Kids" tvg-language="spa" tvg-quality="720p",Tiguerito TV
+https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="1080p",Tooncast
+http://38.134.250.110:8000/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="720p",Tooncast
+https://streaming.onnethn.com/TOONCAST/playlist.m3u8
+

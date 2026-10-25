@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Rybalka.ua" tvg-name="Rybalka" group-title="Outdoor" tvg-language="ukr" tvg-quality="1080p",Rybalka
+https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trofei.ua" tvg-name="Trofei" group-title="Outdoor" tvg-language="rus;ukr" tvg-quality="1080p",Trofei
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/357/index.m3u8
+

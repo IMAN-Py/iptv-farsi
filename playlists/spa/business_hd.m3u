@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NegociosTV.es" tvg-name="Negocios TV" group-title="Business" tvg-language="spa" tvg-quality="1080p",Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:-1 tvg-id="Tevex.cl" tvg-name="Tevex" group-title="Business" tvg-language="spa" tvg-quality="1080p",Tevex
+https://v2.tustreaming.cl/tevex/index.m3u8
+
+#EXTINF:-1 tvg-id="Tevex.cl" tvg-name="Tevex" group-title="Business" tvg-language="spa" tvg-quality="720p",Tevex
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+
+#EXTINF:-1 tvg-id="ZuracaTV.bo" tvg-name="Zuraca TV" group-title="Business" tvg-language="spa" tvg-quality="720p",Zuraca TV
+https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
+

@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BiznetLifestyle.id" tvg-name="Biznet Lifestyle" group-title="Lifestyle" tvg-language="ind" tvg-quality="1080p",Biznet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="SaliraTV.id" tvg-name="Salira TV" group-title="Culture;Lifestyle" tvg-language="ind" tvg-quality="720p",Salira TV
+https://live.salira.tv/p/3870/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="SaliraTV.id" tvg-name="Salira TV" group-title="Culture;Lifestyle" tvg-language="ind" tvg-quality="720p",Salira TV
+https://live.salira.tv:3870/stream/play.m3u8
+

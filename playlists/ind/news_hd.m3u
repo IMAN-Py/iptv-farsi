@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" group-title="News" tvg-language="ind" tvg-quality="1080p",BeritaSatu
+#EXTVLCOPT:http-referrer=https://www.beritasatu.com/beritasatu-live-streaming
+https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8
+
+#EXTINF:-1 tvg-id="BNChannel.id" tvg-name="BN Channel" group-title="News" tvg-language="ind" tvg-quality="1080p",BN Channel
+http://ikitv.sqn.at:8000/play/a01l/index.m3u8
+
+#EXTINF:-1 tvg-id="BNChannel.id" tvg-name="BN Channel" group-title="News" tvg-language="ind" tvg-quality="720p",BN Channel
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch112.m3u8
+
+#EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" group-title="News" tvg-language="ind" tvg-quality="1080p",BTV
+https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
+
+#EXTINF:-1 tvg-id="HumaBetangTV.id" tvg-name="Huma Betang TV" group-title="News" tvg-language="ind" tvg-quality="720p",Huma Betang TV
+https://v3.siar.us/humabetangtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OnlineTVNusantara.id" tvg-name="Online TV Nusantara" group-title="Culture;General;Music;News" tvg-language="ind" tvg-quality="720p",Online TV Nusantara
+https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuaraSurabayaVisualRadio.id" tvg-name="Suara Surabaya Visual Radio" group-title="Interactive;News" tvg-language="ind" tvg-quality="720p",Suara Surabaya Visual Radio
+#EXTVLCOPT:http-referrer=https://www.suarasurabaya.net/
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
+

@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ArchivosForenses.us" tvg-name="Archivos Forenses" group-title="Documentary" tvg-language="spa" tvg-quality="576i",Archivos Forenses
+https://jmp2.uk/plu-5efb8c19b2678b000780d032.m3u8
+
+#EXTINF:-1 tvg-id="ArchivosForenses.us" tvg-name="Archivos Forenses" group-title="Documentary" tvg-language="spa" tvg-quality="576i",Archivos Forenses
+https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
+
+#EXTINF:-1 tvg-id="CazadordeHomicidas.us" tvg-name="Cazador de Homicidas" group-title="Documentary" tvg-language="spa" tvg-quality="576i",Cazador de Homicidas
+https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8
+
+#EXTINF:-1 tvg-id="CazadordeHomicidas.us" tvg-name="Cazador de Homicidas" group-title="Documentary" tvg-language="spa" tvg-quality="576i",Cazador de Homicidas
+https://jmp2.uk/plu-6109a9f5531b840007a4a187.m3u8
+
+#EXTINF:-1 tvg-id="ForensicFiles.us" tvg-name="Forensic Files" group-title="Documentary" tvg-language="spa" tvg-quality="480i",Forensic Files
+https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8
+
+#EXTINF:-1 tvg-id="ForensicFiles.us" tvg-name="Forensic Files" group-title="Documentary" tvg-language="spa" tvg-quality="480i",Forensic Files
+https://jmp2.uk/plu-6181241c1a35d50007874c27.m3u8
+
+#EXTINF:-1 tvg-id="ForensicFiles.us" tvg-name="Forensic Files" group-title="Documentary" tvg-language="spa" tvg-quality="480i",Forensic Files
+https://jmp2.uk/plu-618124b2e53c8d00077b37f8.m3u8
+
+#EXTINF:-1 tvg-id="ForensicFiles.us" tvg-name="Forensic Files" group-title="Documentary" tvg-language="spa" tvg-quality="480i",Forensic Files
+https://jmp2.uk/plu-6181262dc68b92000780fed2.m3u8
+
+#EXTINF:-1 tvg-id="ForensicFiles.us" tvg-name="Forensic Files" group-title="Documentary" tvg-language="spa" tvg-quality="480i",Forensic Files
+https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
+
+#EXTINF:-1 tvg-id="ForensicFiles.us" tvg-name="Forensic Files" group-title="Documentary" tvg-language="spa" tvg-quality="480i",Forensic Files
+https://jmp2.uk/plu-64ec5cf50f73a800081310a5.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="480i",National Geographic Latin America
+http://181.78.79.131:8000/play/a0pt
+
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="spa" tvg-quality="684p",NatureTime
+https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
+

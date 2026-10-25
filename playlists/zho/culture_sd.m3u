@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HakkaTV.tw" tvg-name="Hakka TV" group-title="Culture" tvg-language="zho" tvg-quality="480i",Hakka TV
+https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
+
+#EXTINF:-1 tvg-id="LanzhouCultureTourismChannel.cn" tvg-name="Lanzhou Culture & Tourism Channel" group-title="Culture" tvg-language="zho" tvg-quality="576i",Lanzhou Culture & Tourism Channel
+https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
+
+#EXTINF:-1 tvg-id="NeiMonggolTV2MongolianCultureChannel.cn" tvg-name="Nei Monggol TV 2 Mongolian Culture Channel" group-title="Culture" tvg-language="mon;zho" tvg-quality="576i",Nei Monggol TV 2 Mongolian Culture Channel
+http://1.24.190.98:10080/hls/40/index.m3u8
+

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ParliamentofMalta.mt" tvg-name="Parliament of Malta" group-title="Legislative" tvg-language="mlt" tvg-quality="576i",Parliament of Malta
+http://80.79.6.221:25461/smash/public/23
+

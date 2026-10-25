@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KappaTV.in" tvg-name="Kappa TV" group-title="Lifestyle" tvg-language="mal" tvg-quality="576p",Kappa TV
+https://cdn.pishow.tv/ott/live/1123/master.m3u8
+
+#EXTINF:-1 tvg-id="KappaTV.in" tvg-name="Kappa TV" group-title="Lifestyle" tvg-language="mal" tvg-quality="576p",Kappa TV
+https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KappaTV.in" tvg-name="Kappa TV" group-title="Lifestyle" tvg-language="mal" tvg-quality="576p",Kappa TV
+https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8
+

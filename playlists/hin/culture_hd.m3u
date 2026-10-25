@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DDBharati.in" tvg-name="DD Bharati" group-title="Culture" tvg-language="hin" tvg-quality="720p",DD Bharati
+https://cdn.pishow.tv/ott/live/10/master.m3u8
+
+#EXTINF:-1 tvg-id="HyderTV.ca" tvg-name="Hyder TV" group-title="Culture" tvg-language="hin" tvg-quality="720p",Hyder TV
+https://cdn.live247stream.com/hyder/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JusHindi.us" tvg-name="Jus Hindi" group-title="Culture" tvg-language="hin" tvg-quality="1080p",Jus Hindi
+http://103.154.3.101:5001/live/960.m3u8
+
+#EXTINF:-1 tvg-id="JusOne.us" tvg-name="Jus One" group-title="Culture" tvg-language="hin" tvg-quality="1080p",Jus One
+http://103.154.3.101:5001/live/961.m3u8
+
+#EXTINF:-1 tvg-id="SanskarTV.in" tvg-name="Sanskar TV" group-title="Culture;Religious" tvg-language="hin" tvg-quality="1080p",Sanskar TV
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+
+#EXTINF:-1 tvg-id="TrishulBroadcastingNetwork.sr" tvg-name="Trishul Broadcasting Network" group-title="Culture" tvg-language="eng;hin;nld" tvg-quality="720p",Trishul Broadcasting Network
+https://live.suricloud.com/hls/tbntv/index.m3u8
+

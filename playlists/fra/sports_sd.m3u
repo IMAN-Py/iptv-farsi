@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CRTVSportsandEntertainment.cm" tvg-name="CRTV Sports and Entertainment" group-title="Sports" tvg-language="fra" tvg-quality="360p",CRTV Sports and Entertainment
+#EXTVLCOPT:http-referrer=https://crtv.cm/live/crtv-sport
+https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars" group-title="Sports" tvg-language="eng;fra" tvg-quality="576p",Trace Sport Stars
+https://mumbai-edge.smartplaytv.in/TraceSport/index.m3u8
+

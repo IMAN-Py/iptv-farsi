@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CoolTV.mk" tvg-name="Cool TV" group-title="General" tvg-language="mkd" tvg-quality="1080p",Cool TV
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
+
+#EXTINF:-1 tvg-id="MNetHD.mk" tvg-name="M-Net HD" group-title="General" tvg-language="mkd" tvg-quality="720p",M-Net HD
+http://ares.mnet.mk/hls/mnet.m3u8
+
+#EXTINF:-1 tvg-id="NasaTV.mk" tvg-name="Nasa TV" group-title="General" tvg-language="mkd" tvg-quality="1080p",Nasa TV
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+

@@ -1,0 +1,64 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="AgroBrasil TV" group-title="Outdoor" tvg-language="por" tvg-quality="720p",AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="AgroBrasil TV" group-title="Outdoor" tvg-language="por" tvg-quality="720p",AgroBrasil TV
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="720p",AgroCanal
+http://168.197.104.22/AGRO_CANAL/index.m3u8
+
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="720p",AgroCanal
+http://170.83.49.66:8083/AGROCANALHD/index.m3u8
+
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="720p",AgroCanal
+http://186.219.52.187/agro_canal/index.m3u8
+
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="720p",AgroCanal
+http://45.162.64.114/AGRO_CANAL/index.m3u8
+
+#EXTINF:-1 tvg-id="CanaldoCriador.br" tvg-name="Canal do Criador" group-title="Outdoor" tvg-language="por" tvg-quality="1080p",Canal do Criador
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalRural.br" tvg-name="Canal Rural" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Canal Rural
+http://170.83.49.66:8083/CANALRURALHD/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalRural.br" tvg-name="Canal Rural" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Canal Rural
+http://186.219.52.187/canal_rural/index.m3u8
+
+#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Fish TV
+http://168.197.104.22/FISH_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Fish TV
+http://170.83.16.50/FISH_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" group-title="Outdoor" tvg-language="por" tvg-quality="1080p",Fish TV
+http://190.128.214.97:64333/play/a006/index.m3u8
+
+#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Fish TV
+http://45.162.64.114/FISH_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="por" tvg-quality="1080p",Red Bull TV
+https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="por" tvg-quality="720p",Red Bull TV
+https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
+
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Terra Viva
+http://168.197.104.22/TERRAVIVA/index.m3u8
+
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Terra Viva
+http://170.83.16.50/TERRA_VIVA/index.m3u8
+
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Terra Viva
+http://170.83.49.66:8083/TERRAVIVAHD/index.m3u8
+
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Terra Viva
+http://45.162.64.114/TERRAVIVA/index.m3u8
+
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Terra Viva
+http://45.177.114.115/TERRAVIVA/index.m3u8
+
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Terra Viva
+https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8
+

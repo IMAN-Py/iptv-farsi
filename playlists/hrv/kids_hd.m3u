@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Nickelodeon.hr" tvg-name="Nickelodeon" group-title="Kids" tvg-language="hrv" tvg-quality="1080p",Nickelodeon
+http://176.61.157.250/Nickelodeon/index.m3u8
+

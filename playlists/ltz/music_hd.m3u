@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTLGold.lu" tvg-name="RTL Gold" group-title="Music" tvg-language="ltz" tvg-quality="1080p",RTL Gold
+https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
+

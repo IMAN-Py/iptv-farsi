@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Francophonie24.fr" tvg-name="Francophonie24" group-title="Documentary" tvg-language="fra" tvg-quality="1080p",Francophonie24
+https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IntoCrime.fr" tvg-name="Into Crime" group-title="Documentary" tvg-language="fra" tvg-quality="1080p",Into Crime
+https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="fra" tvg-quality="1080p",NatureTime
+https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="fra" tvg-quality="720p",NatureTime
+https://jmp2.uk/plu-61fc0df14159c40007250432.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAnimaux.de" tvg-name="Pluto TV Animaux" group-title="Documentary" tvg-language="fra" tvg-quality="720p",Pluto TV Animaux
+https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAventure.de" tvg-name="Pluto TV Aventure" group-title="Documentary" tvg-language="fra" tvg-quality="720p",Pluto TV Aventure
+https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVHistoire.de" tvg-name="Pluto TV Histoire" group-title="Documentary" tvg-language="fra" tvg-quality="720p",Pluto TV Histoire
+https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
+

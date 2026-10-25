@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ProBusiness.ru" tvg-name="Pro Business" group-title="Business" tvg-language="rus" tvg-quality="720p",Pro Business
+https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
+

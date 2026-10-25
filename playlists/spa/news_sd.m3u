@@ -1,0 +1,181 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="101tvMalaga.es" tvg-name="101tv Malaga" group-title="News" tvg-language="spa" tvg-quality="576i",101tv Malaga
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 Canal de Noticias" group-title="News" tvg-language="spa" tvg-quality="576i",24/7 Canal de Noticias
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="News" tvg-language="spa" tvg-quality="576i",A24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net/
+https://g1.proy-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m3u8
+
+#EXTINF:-1 tvg-id="AcentoTV.do" tvg-name="Acento TV" group-title="News" tvg-language="spa" tvg-quality="480i",Acento TV
+#EXTVLCOPT:http-referrer=https://acentotv01.streamprolive.com/i/cp/hls/player.html
+https://acentotv01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="Actualidad360.es" tvg-name="Actualidad 360" group-title="News" tvg-language="spa" tvg-quality="576i",Actualidad 360
+https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
+
+#EXTINF:-1 tvg-id="AcustikTV.mx" tvg-name="Acustik TV" group-title="News" tvg-language="spa" tvg-quality="576i",Acustik TV
+https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-name="ATV+" group-title="News" tvg-language="spa" tvg-quality="480i",ATV+
+#EXTVLCOPT:http-referrer=https://www.atv.pe/
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="BuendiaTV.hn" tvg-name="Buendia TV" group-title="News" tvg-language="spa" tvg-quality="576i",Buendia TV
+https://servilive.com:3508/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" group-title="News" tvg-language="spa" tvg-quality="576i",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalCaribe.cu" tvg-name="Canal Caribe" group-title="News" tvg-language="spa" tvg-quality="480i",Canal Caribe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://teveo.cu/
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:CKZ3s6Wuv4gDjndG.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalN.pe" tvg-name="Canal N" group-title="News" tvg-language="spa" tvg-quality="576p",Canal N
+http://190.108.91.206:9050/play/a0bd/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalSurNoticias.es" tvg-name="Canal Sur Noticias" group-title="News;Public" tvg-language="spa" tvg-quality="576i",Canal Sur Noticias
+https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalTDC.ar" tvg-name="Canal TDC" group-title="News" tvg-language="spa" tvg-quality="576i",Canal TDC
+https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
+
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" group-title="News" tvg-language="spa" tvg-quality="576p",CGTN Spanish
+http://45.186.106.147:8880/play/a06f/index.m3u8
+
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" group-title="News" tvg-language="spa" tvg-quality="576i",CGTN Spanish
+https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" group-title="News" tvg-language="spa" tvg-quality="576i",CGTN Spanish
+https://h5cul1yar48um3t.wcetv.com/hls/cgtne.m3u8
+
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" group-title="News" tvg-language="spa" tvg-quality="576p",CGTN Spanish
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+
+#EXTINF:-1 tvg-id="CholusatSur36.hn" tvg-name="Cholusat Sur 36" group-title="News" tvg-language="spa" tvg-quality="214p",Cholusat Sur 36
+http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CitricoTV.do" tvg-name="Citrico TV" group-title="News" tvg-language="spa" tvg-quality="480p",Citrico TV
+https://edge.essastream.com/citricotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CosmosTv.ar" tvg-name="Cosmos Tv" group-title="Movies;News" tvg-language="spa" tvg-quality="576i",Cosmos Tv
+https://canaletaplus.com:3922/live/cosmoslive.m3u8
+
+#EXTINF:-1 tvg-id="DeUltimoMinutoTV.do" tvg-name="De Ultimo Minuto TV" group-title="News" tvg-language="spa" tvg-quality="480i",De Ultimo Minuto TV
+https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
+
+#EXTINF:-1 tvg-id="ElNuevoDiarioTV.do" tvg-name="El Nuevo Diario TV" group-title="News" tvg-language="spa" tvg-quality="480p",El Nuevo Diario TV
+#EXTVLCOPT:http-referrer=https://nuevodiario01.streamprolive.com/i/cp/hls/player.html
+https://nuevodiario01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="ElPinguinoTV.cl" tvg-name="El Pinguino TV" group-title="News" tvg-language="spa" tvg-quality="480i",El Pinguino TV
+https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="Euronews Spanish" group-title="News" tvg-language="spa" tvg-quality="684p",Euronews Spanish
+https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="spa" tvg-quality="360p",France 24
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="spa" tvg-quality="576p",France 24
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="spa" tvg-quality="360p",France 24
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_500.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="spa" tvg-quality="576p",France 24
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-id="Guatevision.gt" tvg-name="Guatevision" group-title="News" tvg-language="spa" tvg-quality="576p",Guatevision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Guatevision.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HispanTV.ir" tvg-name="Hispan TV" group-title="News" tvg-language="spa" tvg-quality="576i",Hispan TV
+https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ICNDigital.hn" tvg-name="ICN Digital" group-title="News" tvg-language="spa" tvg-quality="576i",ICN Digital
+https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
+
+#EXTINF:-1 tvg-id="LeMondeen24h.cd" tvg-name="Le Monde en 24h" group-title="News" tvg-language="eng;fra;spa" tvg-quality="576i",Le Monde en 24h
+https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
+
+#EXTINF:-1 tvg-id="LinierosTV.do" tvg-name="Linieros TV" group-title="News" tvg-language="spa" tvg-quality="480p",Linieros TV
+https://soportedvb.click:3017/live/linierostvlive.m3u8
+
+#EXTINF:-1 tvg-id="MayaTV.hn" tvg-name="Maya TV" group-title="News" tvg-language="spa" tvg-quality="480i",Maya TV
+https://media.streambrothers.com:19360/8036/8036.m3u8
+
+#EXTINF:-1 tvg-id="MayaTV.hn" tvg-name="Maya TV" group-title="News" tvg-language="spa" tvg-quality="480p",Maya TV
+https://media.streambrothers.com:19360/8356/8356.m3u8
+
+#EXTINF:-1 tvg-id="MercurioNoticias.ar" tvg-name="Mercurio Noticias" group-title="News" tvg-language="spa" tvg-quality="576i",Mercurio Noticias
+https://videostream.shockmedia.com.ar/hls/mercuriotv/mercuriotv.m3u8
+
+#EXTINF:-1 tvg-id="MirameTV.es" tvg-name="Mirame TV" group-title="News" tvg-language="spa" tvg-quality="360p",Mirame TV
+https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
+
+#EXTINF:-1 tvg-id="Momento24.co" tvg-name="Momento24" group-title="News" tvg-language="spa" tvg-quality="576i",Momento24
+https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8
+
+#EXTINF:-1 tvg-id="MultivisionFederal.ar" tvg-name="Multivision Federal" group-title="News" tvg-language="spa" tvg-quality="576i",Multivision Federal
+https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8
+
+#EXTINF:-1 tvg-id="NorteInformativoTV.cr" tvg-name="Norte Informativo TV" group-title="News" tvg-language="spa" tvg-quality="240p",Norte Informativo TV
+https://videohd.live:19360/8076/8076.m3u8
+
+#EXTINF:-1 tvg-id="NTN24.co" tvg-name="NTN24" group-title="News" tvg-language="spa" tvg-quality="576p",NTN24
+http://181.78.8.199:8000/play/a0a6/index.m3u8
+
+#EXTINF:-1 tvg-id="Onda15TV.es" tvg-name="Onda 15 TV" group-title="Music;News" tvg-language="spa" tvg-quality="224p",Onda 15 TV
+https://cloudvideo.servers10.com:8081/8034/index.m3u8
+
+#EXTINF:-1 tvg-id="PSN.mx" tvg-name="PSN" group-title="Entertainment;News" tvg-language="spa" tvg-quality="288p",PSN
+https://srspsn.live/live/livestream.m3u8
+
+#EXTINF:-1 tvg-id="PSNCanal452.mx" tvg-name="PSN Canal 45.2" group-title="News" tvg-language="spa" tvg-quality="288p",PSN Canal 45.2
+https://srspsn2.live/live/livestream.m3u8
+
+#EXTINF:-1 tvg-id="QosqoTimes.pe" tvg-name="Qosqo Times" group-title="News" tvg-language="spa" tvg-quality="576i",Qosqo Times
+https://stmv2.srvif.com/qtelevision/qtelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QuanticaTV.ar" tvg-name="Quantica TV" group-title="News" tvg-language="spa" tvg-quality="240p",Quantica TV
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+
+#EXTINF:-1 tvg-id="RCVTV.hn" tvg-name="RCV TV" group-title="News" tvg-language="spa" tvg-quality="712p",RCV TV
+https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Espanol" group-title="News" tvg-language="spa" tvg-quality="576p",RT en Espanol
+https://streaming.thestream.cyou/live/46.m3u8
+
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Espanol" group-title="News" tvg-language="spa" tvg-quality="576p",RT en Espanol
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SCCurrents.us" tvg-name="SC Currents" group-title="News" tvg-language="eng;spa" tvg-quality="480i",SC Currents
+https://reflect-communitytv.cablecast.tv/live-5/live/stream-3/live.m3u8
+
+#EXTINF:-1 tvg-id="Telecanal.cl" tvg-name="Telecanal" group-title="News" tvg-language="spa" tvg-quality="576p",Telecanal
+https://tr.live.clarovtrcdn.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-name="Telesur" group-title="News" tvg-language="spa" tvg-quality="480p",Telesur
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TSi.hn" tvg-name="TSi" group-title="News" tvg-language="spa" tvg-quality="480i",TSi
+http://181.114.57.246:4000/play/9w2G3HTtuTmrtgPZ/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-name="TV Peru Noticias" group-title="News" tvg-language="spa" tvg-quality="576p",TV Peru Noticias
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperunoticias.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMElSalvador.sv" tvg-name="TVM El Salvador" group-title="News" tvg-language="spa" tvg-quality="480i",TVM El Salvador
+http://201.247.102.189/tmp_hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="Unicanal.py" tvg-name="Unicanal" group-title="News" tvg-language="spa" tvg-quality="576i",Unicanal
+http://45.170.130.224:8000/play/a04y/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="VNP.pe" tvg-name="VNP" group-title="News" tvg-language="spa" tvg-quality="480i",VNP
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+

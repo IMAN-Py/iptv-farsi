@@ -1,0 +1,32 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="C Star" group-title="Entertainment" tvg-language="fra" tvg-quality="477p",C Star
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
+
+#EXTINF:-1 tvg-id="Carac5.ch" tvg-name="Carac 5" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",Carac 5
+https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
+
+#EXTINF:-1 tvg-id="D3TV.ml" tvg-name="D3 TV" group-title="Entertainment" tvg-language="fra" tvg-quality="480p",D3 TV
+https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147:8080/MTV/index.m3u8
+
+#EXTINF:-1 tvg-id="NWMagazine.tg" tvg-name="NW Magazine" group-title="Entertainment" tvg-language="fra" tvg-quality="576p",NW Magazine
+https://hls.newworldtv.com/nw-magazine/video/live.m3u8
+
+#EXTINF:-1 tvg-id="PLEXTV.cm" tvg-name="PLEX TV" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",PLEX TV
+http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTNBDivertissement.bi" tvg-name="RTNB Divertissement" group-title="Entertainment" tvg-language="eng;fra;run;swa" tvg-quality="576i",RTNB Divertissement
+https://tv2-stream.rtnb.bi/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="TeleBoston.us" tvg-name="Tele Boston" group-title="Entertainment" tvg-language="acf;eng;fra" tvg-quality="480p",Tele Boston
+https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
+
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",TF1
+http://149.62.177.107:9999/TF1/index.m3u8
+
+#EXTINF:-1 tvg-id="Yaquelaveritequicompte.us" tvg-name="Y'a que la verite qui compte" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",Y'a que la verite qui compte
+https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8
+

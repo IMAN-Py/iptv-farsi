@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Frikanalen.no" tvg-name="Frikanalen" group-title="General" tvg-language="nor" tvg-quality="720p",Frikanalen
+https://frikanalen.no/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVReality.se" tvg-name="MTV Reality" group-title="General" tvg-language="eng;nor" tvg-quality="720p",MTV Reality
+https://jmp2.uk/plu-68513950f212bedacf8ec48f.m3u8
+
+#EXTINF:-1 tvg-id="NRKTegnsprak.no" tvg-name="NRK Tegnsprak" group-title="General" tvg-language="nor" tvg-quality="1080i",NRK Tegnsprak
+https://nrk-live-no.akamaized.net/nrk_tegnspraak/muxed.m3u8
+
+#EXTINF:-1 tvg-id="NRK1.no" tvg-name="NRK1" group-title="General" tvg-language="nor" tvg-quality="1080i",NRK1
+https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8
+
+#EXTINF:-1 tvg-id="NRK1.no" tvg-name="NRK1" group-title="General" tvg-language="nor" tvg-quality="1080i",NRK1
+https://nrk-live-no.akamaized.net/nrk1_dk10/muxed.m3u8
+
+#EXTINF:-1 tvg-id="NRK1.no" tvg-name="NRK1" group-title="General" tvg-language="nor" tvg-quality="1080i",NRK1
+https://nrk-live-no.akamaized.net/nrk1_dk2/muxed.m3u8
+
+#EXTINF:-1 tvg-id="NRK1.no" tvg-name="NRK1" group-title="General" tvg-language="nor" tvg-quality="1080i",NRK1
+https://nrk-live-no.akamaized.net/nrk1_dk3/muxed.m3u8
+
+#EXTINF:-1 tvg-id="NRK1.no" tvg-name="NRK1" group-title="General" tvg-language="nor" tvg-quality="1080i",NRK1
+https://nrk-live-no.akamaized.net/nrk1_dk4/muxed.m3u8
+
+#EXTINF:-1 tvg-id="NRK1.no" tvg-name="NRK1" group-title="General" tvg-language="nor" tvg-quality="1080i",NRK1
+https://nrk-live-no.akamaized.net/nrk1_dk5/muxed.m3u8
+
+#EXTINF:-1 tvg-id="NRK1.no" tvg-name="NRK1" group-title="General" tvg-language="nor" tvg-quality="1080i",NRK1
+https://nrk-live-no.akamaized.net/nrk1_dk6/muxed.m3u8
+
+#EXTINF:-1 tvg-id="NRK1.no" tvg-name="NRK1" group-title="General" tvg-language="nor" tvg-quality="1080i",NRK1
+https://nrk-live-no.akamaized.net/nrk1_dk7/muxed.m3u8
+
+#EXTINF:-1 tvg-id="NRK1.no" tvg-name="NRK1" group-title="General" tvg-language="nor" tvg-quality="1080i",NRK1
+https://nrk-live-no.akamaized.net/nrk1_dk8/muxed.m3u8
+
+#EXTINF:-1 tvg-id="NRK1.no" tvg-name="NRK1" group-title="General" tvg-language="nor" tvg-quality="1080i",NRK1
+https://nrk-live-no.akamaized.net/nrk1_dk9/muxed.m3u8
+
+#EXTINF:-1 tvg-id="NRK2.no" tvg-name="NRK2" group-title="General" tvg-language="nor" tvg-quality="1080i",NRK2
+https://nrk-live-no.akamaized.net/nrk2/muxed.m3u8
+
+#EXTINF:-1 tvg-id="TheMillers.se" tvg-name="The Millers" group-title="General" tvg-language="eng;nor" tvg-quality="720p",The Millers
+https://jmp2.uk/plu-69afef233bd16a4ed07108e9.m3u8
+
+#EXTINF:-1 tvg-id="TVOstfold.no" tvg-name="TV Ostfold" group-title="General" tvg-language="nor" tvg-quality="1080p",TV Ostfold
+https://streamnorge.com:8088/hls/tvo.m3u8
+
+#EXTINF:-1 tvg-id="TVModum.no" tvg-name="TVModum" group-title="General" tvg-language="nor" tvg-quality="720p",TVModum
+https://cdn010.panaccess.com/5677_streams/TVMODUM/index.m3u8
+

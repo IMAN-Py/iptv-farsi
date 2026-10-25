@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Kunskapskanalen.se" tvg-name="Kunskapskanalen" group-title="Education" tvg-language="swe" tvg-quality="1080p",Kunskapskanalen
+https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?defaultSubLang=1&format=hls
+

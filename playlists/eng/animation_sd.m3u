@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" group-title="Animation;Kids;Religious" tvg-language="eng" tvg-quality="480i",3ABN Kids
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.pk" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;urd" tvg-quality="576i",Cartoon Network
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="480i",Cartoon Network
+https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8
+
+#EXTINF:-1 tvg-id="Minimax.ro" tvg-name="Minimax" group-title="Animation;Kids" tvg-language="eng;hun;ron" tvg-quality="576i",Minimax
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
+
+#EXTINF:-1 tvg-id="Naruto.us" tvg-name="Naruto" group-title="Animation" tvg-language="eng" tvg-quality="480i",Naruto
+https://jmp2.uk/plu-5da0c85bd2c9c10009370984.m3u8
+
+#EXTINF:-1 tvg-id="SuperHungama.in" tvg-name="Super Hungama" group-title="Animation;Kids" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Super Hungama
+http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
+
+#EXTINF:-1 tvg-id="ToonamiAftermath.us" tvg-name="Toonami Aftermath" group-title="Animation" tvg-language="eng" tvg-quality="480p",Toonami Aftermath
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ToonamiAftermath.us" tvg-name="Toonami Aftermath" group-title="Animation" tvg-language="eng" tvg-quality="480p",Toonami Aftermath
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YuGiOh.us" tvg-name="Yu-Gi-Oh!" group-title="Animation" tvg-language="eng" tvg-quality="480i",Yu-Gi-Oh!
+https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
+
+#EXTINF:-1 tvg-id="YuGiOh.us" tvg-name="Yu-Gi-Oh!" group-title="Animation" tvg-language="eng" tvg-quality="480i",Yu-Gi-Oh!
+https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8
+
+#EXTINF:-1 tvg-id="YuGiOh.us" tvg-name="Yu-Gi-Oh!" group-title="Animation" tvg-language="eng" tvg-quality="480i",Yu-Gi-Oh!
+https://jmp2.uk/plu-6130d9c712c2b000070abb50.m3u8
+
+#EXTINF:-1 tvg-id="YuGiOh.us" tvg-name="Yu-Gi-Oh!" group-title="Animation" tvg-language="eng" tvg-quality="480i",Yu-Gi-Oh!
+https://jmp2.uk/plu-63988a50be012600070f5db3.m3u8
+
+#EXTINF:-1 tvg-id="YuGiOh.us" tvg-name="Yu-Gi-Oh!" group-title="Animation" tvg-language="eng" tvg-quality="480i",Yu-Gi-Oh!
+https://jmp2.uk/plu-63eb82e24e83e70008ab735f.m3u8
+
+#EXTINF:-1 tvg-id="YuGiOh.us" tvg-name="Yu-Gi-Oh!" group-title="Animation" tvg-language="eng" tvg-quality="480i",Yu-Gi-Oh!
+https://jmp2.uk/plu-63eb96754e83e70008ab8941.m3u8
+
+#EXTINF:-1 tvg-id="YuGiOh.us" tvg-name="Yu-Gi-Oh!" group-title="Animation" tvg-language="eng" tvg-quality="480i",Yu-Gi-Oh!
+https://jmp2.uk/plu-642d4493aa2d690008f0a03f.m3u8
+

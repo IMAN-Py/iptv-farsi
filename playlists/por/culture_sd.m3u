@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVdasArtes.br" tvg-name="TV das Artes" group-title="Culture" tvg-language="por" tvg-quality="360p",TV das Artes
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8
+

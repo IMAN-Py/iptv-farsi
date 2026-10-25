@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TalTV.ne" tvg-name="Tal TV" group-title="Entertainment" tvg-language="dje;fra;hau;tmh" tvg-quality="1080p",Tal TV
+https://mediaserver1.castpin.com/hls/taltv/index.m3u8
+

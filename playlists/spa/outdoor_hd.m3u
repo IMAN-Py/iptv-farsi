@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AgriculturaTV.cl" tvg-name="Agricultura TV" group-title="Outdoor" tvg-language="spa" tvg-quality="1080p",Agricultura TV
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-name="Agro TV" group-title="Outdoor" tvg-language="spa" tvg-quality="720p",Agro TV
+https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-name="Agro TV" group-title="Outdoor" tvg-language="spa" tvg-quality="720p",Agro TV
+https://play.agenciastreaming.com:8081/agrotv/index.m3u8
+
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-name="Agrotendencia TV" group-title="Outdoor" tvg-language="spa" tvg-quality="1080p",Agrotendencia TV
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CiudadMagica.ar" tvg-name="Ciudad Magica" group-title="Outdoor" tvg-language="spa" tvg-quality="720p",Ciudad Magica
+https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElMundodelCampo.co" tvg-name="El Mundo del Campo" group-title="Outdoor" tvg-language="spa" tvg-quality="720p",El Mundo del Campo
+https://movil.ejeserver.com/live/elmundodelcampo.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
+https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="720p",Love Nature
+https://bamus-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="720p",Love Nature
+https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
+https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNaturaleza.us" tvg-name="Pluto TV Naturaleza" group-title="Documentary;Outdoor" tvg-language="spa" tvg-quality="720p",Pluto TV Naturaleza
+https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
+
+#EXTINF:-1 tvg-id="ProductivaTV.py" tvg-name="Productiva TV" group-title="Outdoor" tvg-language="spa" tvg-quality="1080p",Productiva TV
+http://190.128.214.97:64333/play/a04i/index.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="spa" tvg-quality="1080p",Red Bull TV
+https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="spa" tvg-quality="720p",Red Bull TV
+https://jmp2.uk/plu-67813f893886aa863497733d.m3u8
+
+#EXTINF:-1 tvg-id="TVAgro.co" tvg-name="TVAgro" group-title="Outdoor" tvg-language="spa" tvg-quality="720p",TVAgro
+http://168.228.44.241:9999/play/a04n/index.m3u8
+
+#EXTINF:-1 tvg-id="TVAgro.co" tvg-name="TVAgro" group-title="Outdoor" tvg-language="spa" tvg-quality="1080p",TVAgro
+http://190.61.47.54:8000/play/a01k/index.m3u8
+
+#EXTINF:-1 tvg-id="UMCTV.co" tvg-name="UMC TV" group-title="Outdoor" tvg-language="spa" tvg-quality="720p",UMC TV
+https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
+

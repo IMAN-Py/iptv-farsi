@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JayaTV.lk" tvg-name="Jaya TV" group-title="Religious" tvg-language="sin" tvg-quality="480p",Jaya TV
+https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="JayaTV.lk" tvg-name="Jaya TV" group-title="Religious" tvg-language="sin" tvg-quality="576i",Jaya TV
+https://live.jayatv.lk/hls/stream.m3u8
+

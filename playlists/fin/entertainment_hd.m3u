@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Jim.fi" tvg-name="Jim" group-title="Entertainment" tvg-language="fin" tvg-quality="720p",Jim
+https://live-fi.tvkaista.net/jim/live.m3u8?hd=true
+
+#EXTINF:-1 tvg-id="Liv.fi" tvg-name="Liv" group-title="Entertainment" tvg-language="fin" tvg-quality="720p",Liv
+https://live-fi.tvkaista.net/liv/live.m3u8?hd=true
+

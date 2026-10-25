@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="480i",BabyFirst
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+
+#EXTINF:-1 tvg-id="DeParintiro.ro" tvg-name="DeParinti.ro" group-title="Education;Kids" tvg-language="ron" tvg-quality="576p",DeParinti.ro
+https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.ro" tvg-name="Disney Channel" group-title="Kids" tvg-language="ron" tvg-quality="576i",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
+
+#EXTINF:-1 tvg-id="Minimax.ro" tvg-name="Minimax" group-title="Animation;Kids" tvg-language="eng;hun;ron" tvg-quality="576i",Minimax
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ron" tvg-quality="576i",Nickelodeon
+http://178.76.68.60:7442/64/mpegts
+
+#EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ron" tvg-quality="576i",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8
+
+#EXTINF:-1 tvg-id="TraLaLaDSN.ro" tvg-name="TraLaLa DSN" group-title="Kids" tvg-language="ron" tvg-quality="576i",TraLaLa DSN
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-inedit-tv/live_hq?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="TraLaLaDSN.ro" tvg-name="TraLaLa DSN" group-title="Kids" tvg-language="ron" tvg-quality="576i",TraLaLa DSN
+https://hls01ns.antenaplay.ro/hls/tralala-desene-animate-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="TraLaLaTV.ro" tvg-name="TraLaLa TV" group-title="Kids" tvg-language="ron" tvg-quality="576i",TraLaLa TV
+https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
+

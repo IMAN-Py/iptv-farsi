@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Jednotka.sk" tvg-name="Jednotka" group-title="General" tvg-language="slk" tvg-quality="1080p",Jednotka
+http://88.212.15.17/live/test_jednotka_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTR.sk" tvg-name="MTR" group-title="General" tvg-language="slk" tvg-quality="1080p",MTR
+https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleviziaMocenok.sk" tvg-name="Televizia Mocenok" group-title="General" tvg-language="slk" tvg-quality="720p",Televizia Mocenok
+https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVLiptov.sk" tvg-name="TV Liptov" group-title="General" tvg-language="slk" tvg-quality="1080p",TV Liptov
+http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPoprad.sk" tvg-name="TV Poprad" group-title="General" tvg-language="slk" tvg-quality="1080p",TV Poprad
+http://213.81.153.221:8080/poprad
+

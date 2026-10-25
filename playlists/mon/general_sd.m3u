@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LuxeTVMongolia.mn" tvg-name="Luxe TV Mongolia" group-title="General" tvg-language="mon" tvg-quality="576i",Luxe TV Mongolia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.2 Safari/605.1.15
+https://xykt-fix.github.io/channel/ottliv-038/index.m3u8
+
+#EXTINF:-1 tvg-id="MNB.mn" tvg-name="MNB" group-title="General" tvg-language="mon" tvg-quality="576p",MNB
+https://live.mnb.mn/hls/mnb.stream.m3u8
+
+#EXTINF:-1 tvg-id="NTV.mn" tvg-name="NTV" group-title="General" tvg-language="mon" tvg-quality="576i",NTV
+https://xykt-fix.github.io/channel/ottliv-036/index.m3u8
+

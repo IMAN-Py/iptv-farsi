@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AcheloosTV.gr" tvg-name="Acheloos TV" group-title="General" tvg-language="ell;eng" tvg-quality="576p",Acheloos TV
+https://acheloostv.streamings.gr/live/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="ARTTV.gr" tvg-name="ART TV" group-title="General" tvg-language="ell" tvg-quality="576i",ART TV
+https://rtmp.win:3696/live/arttvgrlive.m3u8
+
+#EXTINF:-1 tvg-id="EpilogesTV.gr" tvg-name="Epiloges TV" group-title="General" tvg-language="ell" tvg-quality="576i",Epiloges TV
+https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LepantoTV.gr" tvg-name="Lepanto TV" group-title="General" tvg-language="ell" tvg-quality="576i",Lepanto TV
+https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OmegaChannel.cy" tvg-name="Omega Channel" group-title="General" tvg-language="ell" tvg-quality="576i",Omega Channel
+https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PellaTV.gr" tvg-name="Pella TV" group-title="General" tvg-language="ell" tvg-quality="576p",Pella TV
+https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
+

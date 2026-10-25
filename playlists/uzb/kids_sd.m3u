@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Aqlvoy.uz" tvg-name="Aqlvoy" group-title="Kids" tvg-language="eng;rus;uzb" tvg-quality="576i",Aqlvoy
+https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Bolajon.uz" tvg-name="Bolajon" group-title="Kids" tvg-language="uzb" tvg-quality="576p",Bolajon
+https://stream8.cinerama.uz/1007/playlist.m3u8
+

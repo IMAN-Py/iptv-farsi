@@ -68,6 +68,9 @@ def validate_collection(root):
             require(bool(rows), f'{category["path"]}: empty category')
             require({(r['tvg-id'], r['url']) for r in rows} <= keys, f'{category["path"]}: foreign language entries')
             require(all(category['id'].title() in r['group-title'].split(';') for r in rows), f'{category["path"]}: wrong category')
+            category_hd, category_sd = check(category['hd']), check(category['sd'])
+            require(signature(rows) == signature(category_hd) + signature(category_sd),
+                    f'{category["path"]}: category HD/SD partition mismatch')
     for category in index['categories']:
         rows = check(category)
         require(bool(rows), f'{category["path"]}: empty global category')

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Visir.is" tvg-name="Visir" group-title="News" tvg-language="isl" tvg-quality="1080p",Visir
+https://live.visir.is/hls-live/visir.smil/playlist.m3u8
+

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CodeFashionTV.bg" tvg-name="Code Fashion TV" group-title="Lifestyle" tvg-language="bul" tvg-quality="1080p",Code Fashion TV
+https://cdn2.invivo.bg/Codefashion_5500/index.m3u8
+
+#EXTINF:-1 tvg-id="CodeHealthTV.bg" tvg-name="Code Health TV" group-title="Lifestyle" tvg-language="bul" tvg-quality="1080p",Code Health TV
+https://cdn2.invivo.bg/codehealth_test/index.m3u8
+

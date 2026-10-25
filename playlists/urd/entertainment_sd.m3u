@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="APlusTV.pk" tvg-name="A-Plus TV" group-title="Entertainment" tvg-language="urd" tvg-quality="576i",A-Plus TV
+http://103.86.135.164:9981/stream/channelid/1522598263?profile=pass&ticket=8F210F02E7EF3471D45EFD9B293E0E07CE3532BF
+
+#EXTINF:-1 tvg-id="APlusTV.pk" tvg-name="A-Plus TV" group-title="Entertainment" tvg-language="urd" tvg-quality="576p",A-Plus TV
+http://115.42.65.142:9981/stream/channelid/113328724
+
+#EXTINF:-1 tvg-id="APlusTV.pk" tvg-name="A-Plus TV" group-title="Entertainment" tvg-language="urd" tvg-quality="576i",A-Plus TV
+https://cdn4.mjunoon.tv:8087/streamtest/118M/chunks.m3u8
+
+#EXTINF:-1 tvg-id="FalakTV.pk" tvg-name="Falak TV" group-title="Entertainment" tvg-language="pan;urd" tvg-quality="576i",Falak TV
+https://falak.rst.ae/index.m3u8
+
+#EXTINF:-1 tvg-id="HumTV.pk" tvg-name="Hum TV" group-title="Entertainment" tvg-language="urd" tvg-quality="576i",Hum TV
+https://cdn4.mjunoon.tv:8087/streamtest/82M/chunks.m3u8
+
+#EXTINF:-1 tvg-id="PlayEntertainment.pk" tvg-name="Play Entertainment" group-title="Entertainment" tvg-language="urd" tvg-quality="576p",Play Entertainment
+http://103.250.28.74:8000/play/a050/index.m3u8
+

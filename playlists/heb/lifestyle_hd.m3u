@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HealthChannel.il" tvg-name="Health Channel" group-title="Lifestyle" tvg-language="heb" tvg-quality="1080p",Health Channel
+http://89.33.29.115:8080/Health/index.m3u8
+

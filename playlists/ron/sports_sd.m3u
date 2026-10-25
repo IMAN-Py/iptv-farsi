@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SportExtra.ro" tvg-name="Sport Extra" group-title="Sports" tvg-language="ron" tvg-quality="576i",Sport Extra
+https://tvextra-hls.b-cdn.net/sportextra/sportextra.m3u8
+
+#EXTINF:-1 tvg-id="TVRSport.ro" tvg-name="TVR Sport" group-title="General;Sports" tvg-language="ron" tvg-quality="576i",TVR Sport
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
+

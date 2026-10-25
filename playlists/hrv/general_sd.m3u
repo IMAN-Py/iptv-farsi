@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DiadoraTV.hr" tvg-name="Diadora TV" group-title="General" tvg-language="hrv" tvg-quality="576i",Diadora TV
+https://diadoratv.stream/live/diadora/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTVHB.ba" tvg-name="RTV HB" group-title="General" tvg-language="hrv" tvg-quality="576p",RTV HB
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrendTV.hr" tvg-name="Trend TV" group-title="General" tvg-language="hrv" tvg-quality="480p",Trend TV
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+

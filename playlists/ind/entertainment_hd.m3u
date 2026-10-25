@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FicomChannel.id" tvg-name="Ficom Channel" group-title="Entertainment" tvg-language="ind" tvg-quality="720p",Ficom Channel
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IndonesianaTV.id" tvg-name="Indonesiana.TV" group-title="Entertainment" tvg-language="ind" tvg-quality="720p",Indonesiana.TV
+#EXTVLCOPT:http-referrer=https://indonesiana.tv/
+https://tvstreamcast.com/indonesiana.m3u8
+
+#EXTINF:-1 tvg-id="KIX.hk" tvg-name="KIX" group-title="Entertainment" tvg-language="eng;ind;msa;zho" tvg-quality="1080p",KIX
+https://freem3u.xyz/api/live/play.m3u8?vid=9901
+
+#EXTINF:-1 tvg-id="LifetimeAsia.us" tvg-name="Lifetime Asia" group-title="Entertainment" tvg-language="eng;ind;tha" tvg-quality="1080p",Lifetime Asia
+http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8
+

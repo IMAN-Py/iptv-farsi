@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DetetivesMedicos.us" tvg-name="Detetives Medicos" group-title="Documentary" tvg-language="por" tvg-quality="720p",Detetives Medicos
+https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
+
+#EXTINF:-1 tvg-id="History.br" tvg-name="History" group-title="Documentary" tvg-language="por" tvg-quality="720p",History
+http://170.83.16.50/HISTORY/index.m3u8
+
+#EXTINF:-1 tvg-id="History.br" tvg-name="History" group-title="Documentary" tvg-language="por" tvg-quality="720p",History
+http://45.177.114.114/HISTORY/index.m3u8
+
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="History 2 Latin America" group-title="Documentary" tvg-language="por" tvg-quality="720p",History 2 Latin America
+http://45.177.114.114/HISTORY_2/index.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAliens.us" tvg-name="Pluto TV Aliens" group-title="Documentary;Series" tvg-language="por" tvg-quality="720p",Pluto TV Aliens
+https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAnimais.us" tvg-name="Pluto TV Animais" group-title="Documentary" tvg-language="por" tvg-quality="720p",Pluto TV Animais
+https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVInvestigacao.us" tvg-name="Pluto TV Investigacao" group-title="Documentary" tvg-language="por" tvg-quality="720p",Pluto TV Investigacao
+https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNegocioFechado.us" tvg-name="Pluto TV Negocio Fechado" group-title="Documentary" tvg-language="por" tvg-quality="720p",Pluto TV Negocio Fechado
+https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVPolicial.us" tvg-name="Pluto TV Policial" group-title="Documentary" tvg-language="por" tvg-quality="720p",Pluto TV Policial
+https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTurbo.us" tvg-name="Pluto TV Turbo" group-title="Auto;Documentary" tvg-language="por" tvg-quality="720p",Pluto TV Turbo
+https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
+
+#EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us" tvg-name="Smithsonian Channel Pluto TV" group-title="Documentary" tvg-language="por" tvg-quality="720p",Smithsonian Channel Pluto TV
+https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
+

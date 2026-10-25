@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EBSCinema.us" tvg-name="EBS Cinema" group-title="Movies" tvg-language="amh" tvg-quality="720p",EBS Cinema
+https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
+

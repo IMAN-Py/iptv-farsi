@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Turkmenistan Sport" group-title="Sports" tvg-language="tuk" tvg-quality="406p",Turkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004.m3u8
+
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Turkmenistan Sport" group-title="Sports" tvg-language="tuk" tvg-quality="406p",Turkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004.m3u8
+

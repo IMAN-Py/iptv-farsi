@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CazeTV.br" tvg-name="CazeTV" group-title="Sports" tvg-language="por" tvg-quality="480i",CazeTV
+http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate" group-title="Sports" tvg-language="por" tvg-quality="480i",Combate
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" group-title="Sports" tvg-language="por" tvg-quality="576i",Sport TV+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://znty.dyndns.org:5010/hls/sportv+.m3u8
+
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="Sport TV1" group-title="Sports" tvg-language="por" tvg-quality="576i",Sport TV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://znty.dyndns.org:5010/hls/stv1.m3u8
+
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="Sport TV2" group-title="Sports" tvg-language="por" tvg-quality="576i",Sport TV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://znty.dyndns.org:5010/hls/stv2.m3u8
+
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="Sport TV5" group-title="Sports" tvg-language="por" tvg-quality="576i",Sport TV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://znty.dyndns.org:5010/hls/stv5.m3u8
+
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV6" group-title="Sports" tvg-language="por" tvg-quality="576i",Sport TV6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://zntx.dyndns.org:8085/hls/stv6.m3u8
+
+#EXTINF:-1 tvg-id="SportTV7.pt" tvg-name="Sport TV7" group-title="Sports" tvg-language="por" tvg-quality="576i",Sport TV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://zntx.dyndns.org:8085/hls/stv7.m3u8
+

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EBS.us" tvg-name="EBS" group-title="Culture" tvg-language="amh;eng" tvg-quality="1080p",EBS
+https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
+

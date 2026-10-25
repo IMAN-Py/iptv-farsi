@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" group-title="Travel" tvg-language="urd" tvg-quality="1080p",Discover Pakistan
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+

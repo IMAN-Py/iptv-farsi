@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GroovyTV.gr" tvg-name="Groovy TV" group-title="Movies" tvg-language="ell" tvg-quality="360p",Groovy TV
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+

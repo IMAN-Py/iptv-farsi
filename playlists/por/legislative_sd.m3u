@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVAssembleiaPiaui.br" tvg-name="TV Assembleia Piaui" group-title="Legislative" tvg-language="por" tvg-quality="480i",TV Assembleia Piaui
+https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCamaraSalvador.br" tvg-name="TV Camara Salvador" group-title="Legislative" tvg-language="por" tvg-quality="288p",TV Camara Salvador
+https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8
+

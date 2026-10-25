@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="5Plus.il" tvg-name="5Plus" group-title="Sports" tvg-language="heb" tvg-quality="1080p",5Plus
+http://89.33.29.115:8080/sportplus/index.m3u8
+
+#EXTINF:-1 tvg-id="5Stars.il" tvg-name="5Stars" group-title="Sports" tvg-language="heb" tvg-quality="1080p",5Stars
+http://89.33.29.115:8080/IL_5Stars/index.m3u8
+

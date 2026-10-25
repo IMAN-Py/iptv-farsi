@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HmongStarTV.us" tvg-name="Hmong Star TV" group-title="Culture" tvg-language="hmn;vie" tvg-quality="720p",Hmong Star TV
+https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HmongTVNetwork.us" tvg-name="Hmong TV Network" group-title="Culture" tvg-language="hmn;vie" tvg-quality="720p",Hmong TV Network
+https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
+

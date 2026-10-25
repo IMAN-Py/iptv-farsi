@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BIZTV.uz" tvg-name="BIZ TV" group-title="Entertainment" tvg-language="uzb" tvg-quality="576i",BIZ TV
+https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CheksizTV.uz" tvg-name="Cheksiz TV" group-title="Entertainment" tvg-language="uzb" tvg-quality="576i",Cheksiz TV
+https://fl.biztv.media/cheksiz_tv_480_unif7hujidth7f4du83jrhuid3k94j8hfj8d93eubych8eju93n4ubt/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MakonTV.uz" tvg-name="Makon TV" group-title="Entertainment" tvg-language="rus;uzb" tvg-quality="576i",Makon TV
+https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MY5.uz" tvg-name="MY5" group-title="Entertainment" tvg-language="uzb" tvg-quality="576p",MY5
+https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZorTV.uz" tvg-name="Zo'r TV" group-title="Entertainment;Music" tvg-language="rus;uzb" tvg-quality="576p",Zo'r TV
+https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
+

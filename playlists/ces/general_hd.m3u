@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BarrandovKrimi.cz" tvg-name="Barrandov Krimi" group-title="General" tvg-language="ces" tvg-quality="1080p",Barrandov Krimi
+https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JC1.cz" tvg-name="JC1" group-title="General" tvg-language="ces" tvg-quality="1080p",JC1
+https://stream.jc1.cz/hls/jc1.m3u8
+
+#EXTINF:-1 tvg-id="Jihoceskatelevize.cz" tvg-name="Jihoceska televize" group-title="General" tvg-language="ces" tvg-quality="1080p",Jihoceska televize
+https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
+
+#EXTINF:-1 tvg-id="PlzenTV.cz" tvg-name="Plzen TV" group-title="General" tvg-language="ces" tvg-quality="1080p",Plzen TV
+https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
+
+#EXTINF:-1 tvg-id="PolarTV.cz" tvg-name="Polar TV" group-title="General" tvg-language="ces" tvg-quality="1080p",Polar TV
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelevizePrerov.cz" tvg-name="Televize Prerov" group-title="General" tvg-language="ces" tvg-quality="1080p",Televize Prerov
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 OPR/132.0.0.0
+#EXTVLCOPT:http-referrer=https://tvprerov.cz/
+https://173.212.247.21/live/tvprerov.m3u8
+
+#EXTINF:-1 tvg-id="TVBrno1.cz" tvg-name="TV Brno 1" group-title="General" tvg-language="ces" tvg-quality="1080p",TV Brno 1
+https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVNoePlus.cz" tvg-name="TV Noe+" group-title="General" tvg-language="ces" tvg-quality="720p",TV Noe+
+https://n105.quickmedia.tv/noetvplus/live/noetvplus/Shz3_1_1/chunks_dvr_timeshift-0-7200.m3u8
+

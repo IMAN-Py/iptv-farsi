@@ -1,0 +1,175 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ARTFLIXMovieClassics.us" tvg-name="ARTFLIX Movie Classics" group-title="Classic;Movies" tvg-language="eng" tvg-quality="720p",ARTFLIX Movie Classics
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ARTFLIXMovieClassics.us" tvg-name="ARTFLIX Movie Classics" group-title="Classic;Movies" tvg-language="eng" tvg-quality="720p",ARTFLIX Movie Classics
+https://amogonetworx-artflix-1-se.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Becker.se" tvg-name="Becker" group-title="Classic;Series" tvg-language="dan;eng" tvg-quality="720p",Becker
+https://jmp2.uk/plu-672e157d7d5da5000812872d.m3u8
+
+#EXTINF:-1 tvg-id="Becker.se" tvg-name="Becker" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",Becker
+https://jmp2.uk/plu-672e1634e482950008c759a5.m3u8
+
+#EXTINF:-1 tvg-id="Becker.se" tvg-name="Becker" group-title="Classic;Series" tvg-language="eng;swe" tvg-quality="720p",Becker
+https://jmp2.uk/plu-672e16f5daad7f0008929a0d.m3u8
+
+#EXTINF:-1 tvg-id="ClassicTVCrimeDrama.us" tvg-name="Classic TV Crime Drama" group-title="Classic" tvg-language="eng" tvg-quality="720p",Classic TV Crime Drama
+https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8
+
+#EXTINF:-1 tvg-id="ClassicTVFamilies.us" tvg-name="Classic TV: Families" group-title="Classic" tvg-language="eng" tvg-quality="720p",Classic TV: Families
+https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
+
+#EXTINF:-1 tvg-id="ClassicTVFamilies.us" tvg-name="Classic TV: Families" group-title="Classic" tvg-language="eng" tvg-quality="720p",Classic TV: Families
+https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8
+
+#EXTINF:-1 tvg-id="DiagnosisMurder.se" tvg-name="Diagnosis Murder" group-title="Classic;Series" tvg-language="dan;eng" tvg-quality="720p",Diagnosis Murder
+https://jmp2.uk/plu-668bf7dd74f5ec000817e6d1.m3u8
+
+#EXTINF:-1 tvg-id="DiagnosisMurder.se" tvg-name="Diagnosis Murder" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",Diagnosis Murder
+https://jmp2.uk/plu-668bf91208d5490008065ffd.m3u8
+
+#EXTINF:-1 tvg-id="DiagnosisMurder.se" tvg-name="Diagnosis Murder" group-title="Classic;Series" tvg-language="eng;swe" tvg-quality="720p",Diagnosis Murder
+https://jmp2.uk/plu-668bf9be0642e5000815102d.m3u8
+
+#EXTINF:-1 tvg-id="HappyDays.se" tvg-name="Happy Days" group-title="Classic;Series" tvg-language="dan;eng" tvg-quality="720p",Happy Days
+https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8
+
+#EXTINF:-1 tvg-id="HappyDays.se" tvg-name="Happy Days" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",Happy Days
+https://jmp2.uk/plu-654a508d986ad20008a456a5.m3u8
+
+#EXTINF:-1 tvg-id="HappyDays.se" tvg-name="Happy Days" group-title="Classic;Series" tvg-language="eng;swe" tvg-quality="720p",Happy Days
+https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8
+
+#EXTINF:-1 tvg-id="HogansHeroes.us" tvg-name="Hogan's Heroes" group-title="Classic" tvg-language="eng" tvg-quality="720p",Hogan's Heroes
+https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8
+
+#EXTINF:-1 tvg-id="ILoveLucy.us" tvg-name="I Love Lucy" group-title="Classic;Comedy" tvg-language="eng" tvg-quality="720p",I Love Lucy
+https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
+
+#EXTINF:-1 tvg-id="ILoveLucy.us" tvg-name="I Love Lucy" group-title="Classic;Comedy" tvg-language="eng" tvg-quality="720p",I Love Lucy
+https://jmp2.uk/plu-63a2f1dda0d69700078b7cba.m3u8
+
+#EXTINF:-1 tvg-id="JAG.se" tvg-name="JAG" group-title="Classic;Series" tvg-language="dan;eng" tvg-quality="720p",JAG
+https://jmp2.uk/plu-654a4ab92c1d330008657ae5.m3u8
+
+#EXTINF:-1 tvg-id="JAG.se" tvg-name="JAG" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",JAG
+https://jmp2.uk/plu-654a4fc753fc9700083ae79f.m3u8
+
+#EXTINF:-1 tvg-id="JAG.se" tvg-name="JAG" group-title="Classic;Series" tvg-language="eng;swe" tvg-quality="720p",JAG
+https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8
+
+#EXTINF:-1 tvg-id="MacGyver.se" tvg-name="MacGyver" group-title="Classic;Series" tvg-language="eng;swe" tvg-quality="720p",MacGyver
+https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8
+
+#EXTINF:-1 tvg-id="MacGyver.se" tvg-name="MacGyver" group-title="Classic;Series" tvg-language="dan;eng" tvg-quality="720p",MacGyver
+https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8
+
+#EXTINF:-1 tvg-id="MacGyver.se" tvg-name="MacGyver" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",MacGyver
+https://jmp2.uk/plu-654a59d483595c0008187514.m3u8
+
+#EXTINF:-1 tvg-id="Matlock.se" tvg-name="Matlock" group-title="Classic;Series" tvg-language="dan;eng" tvg-quality="720p",Matlock
+https://jmp2.uk/plu-66290a779e68c20008a18cf3.m3u8
+
+#EXTINF:-1 tvg-id="Matlock.se" tvg-name="Matlock" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",Matlock
+https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8
+
+#EXTINF:-1 tvg-id="Matlock.se" tvg-name="Matlock" group-title="Classic;Series" tvg-language="eng;swe" tvg-quality="720p",Matlock
+https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8
+
+#EXTINF:-1 tvg-id="MissionImpossible.se" tvg-name="Mission Impossible" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",Mission Impossible
+https://jmp2.uk/plu-639b4eb4da3fda0008036f6e.m3u8
+
+#EXTINF:-1 tvg-id="MissionImpossible.se" tvg-name="Mission Impossible" group-title="Classic;Series" tvg-language="eng;swe" tvg-quality="720p",Mission Impossible
+https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8
+
+#EXTINF:-1 tvg-id="MissionImpossible.se" tvg-name="Mission Impossible" group-title="Classic;Series" tvg-language="dan;eng" tvg-quality="720p",Mission Impossible
+https://jmp2.uk/plu-6478a9e4f77b61000817034b.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVClassicTV.de" tvg-name="Pluto TV Classic TV" group-title="Classic" tvg-language="eng" tvg-quality="720p",Pluto TV Classic TV
+https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVClassicTVVariety.us" tvg-name="Pluto TV Classic TV Variety" group-title="Classic" tvg-language="eng" tvg-quality="720p",Pluto TV Classic TV Variety
+https://jmp2.uk/plu-68d25c623175a2780d051d3a.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVRetroActionMovies.us" tvg-name="Pluto TV Retro Action Movies" group-title="Classic;Movies" tvg-language="eng" tvg-quality="720p",Pluto TV Retro Action Movies
+https://jmp2.uk/plu-69a9ae4d3bd16a4ed04240d7.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVRetroCrimeAction.us" tvg-name="Pluto TV Retro Crime Action" group-title="Classic" tvg-language="eng" tvg-quality="720p",Pluto TV Retro Crime Action
+https://jmp2.uk/plu-69aee8a1acb7eb0bb68df641.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVRetroCrimeDrama.us" tvg-name="Pluto TV Retro Crime Drama" group-title="Classic" tvg-language="eng" tvg-quality="720p",Pluto TV Retro Crime Drama
+https://jmp2.uk/plu-630f1e6073bd1800082107f0.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSherlock.de" tvg-name="Pluto TV Sherlock" group-title="Classic" tvg-language="eng" tvg-quality="720p",Pluto TV Sherlock
+https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTheTwilightZone.us" tvg-name="Pluto TV The Twilight Zone" group-title="Classic;Series" tvg-language="eng" tvg-quality="720p",Pluto TV The Twilight Zone
+https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
+
+#EXTINF:-1 tvg-id="PutoTVClassicTVCrimeDrama.us" tvg-name="Puto TV Classic TV Crime Drama" group-title="Classic" tvg-language="eng" tvg-quality="720p",Puto TV Classic TV Crime Drama
+https://jmp2.uk/plu-696e61287d2afdec4ff2cb75.m3u8
+
+#EXTINF:-1 tvg-id="Rawhide.se" tvg-name="Rawhide" group-title="Classic;Series" tvg-language="dan;eng" tvg-quality="720p",Rawhide
+https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
+
+#EXTINF:-1 tvg-id="Rawhide.se" tvg-name="Rawhide" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",Rawhide
+https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8
+
+#EXTINF:-1 tvg-id="Rawhide.se" tvg-name="Rawhide" group-title="Classic;Series" tvg-language="eng;swe" tvg-quality="720p",Rawhide
+https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8
+
+#EXTINF:-1 tvg-id="RetroTV.us" tvg-name="Retro TV" group-title="Classic" tvg-language="eng" tvg-quality="720p",Retro TV
+https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8
+
+#EXTINF:-1 tvg-id="RetroTV.us" tvg-name="Retro TV" group-title="Classic" tvg-language="eng" tvg-quality="720p",Retro TV
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
+
+#EXTINF:-1 tvg-id="RetroCrush.us" tvg-name="RetroCrush" group-title="Animation;Classic" tvg-language="eng" tvg-quality="1080p",RetroCrush
+https://d2nqmwm1ndpgi2.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroCrush.us" tvg-name="RetroCrush" group-title="Animation;Classic" tvg-language="eng" tvg-quality="1080p",RetroCrush
+https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TCM.us" tvg-name="TCM" group-title="Classic;Movies" tvg-language="eng" tvg-quality="720p",TCM
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-id="TCM.us" tvg-name="TCM" group-title="Classic;Movies" tvg-language="eng" tvg-quality="720p",TCM
+https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-id="TheAndyGriffithShow.us" tvg-name="The Andy Griffith Show" group-title="Classic" tvg-language="eng" tvg-quality="720p",The Andy Griffith Show
+https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8
+
+#EXTINF:-1 tvg-id="TheArchive.us" tvg-name="The Archive" group-title="Classic" tvg-language="eng" tvg-quality="1080p",The Archive
+https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheBeverlyHillbillies.us" tvg-name="The Beverly Hillbillies" group-title="Classic;Comedy" tvg-language="eng" tvg-quality="720p",The Beverly Hillbillies
+https://jmp2.uk/plu-6565fefdc917a50008485cc6.m3u8
+
+#EXTINF:-1 tvg-id="TheCarolBurnettShow.us" tvg-name="The Carol Burnett Show" group-title="Classic" tvg-language="eng" tvg-quality="720p",The Carol Burnett Show
+https://aegis-cloudfront-1.tubi.video/e17b8de5-e8b7-415a-8377-5707a2f9a727/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheCarolBurnettShow.us" tvg-name="The Carol Burnett Show" group-title="Classic" tvg-language="eng" tvg-quality="1080p",The Carol Burnett Show
+https://carolburnett-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheLoop.us" tvg-name="The Loop" group-title="Classic;Series" tvg-language="eng" tvg-quality="1080p",The Loop
+https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8
+
+#EXTINF:-1 tvg-id="TheWildWildWest.se" tvg-name="The Wild Wild West" group-title="Classic;Series" tvg-language="dan;eng" tvg-quality="720p",The Wild Wild West
+https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8
+
+#EXTINF:-1 tvg-id="TheWildWildWest.se" tvg-name="The Wild Wild West" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",The Wild Wild West
+https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8
+
+#EXTINF:-1 tvg-id="TheWildWildWest.se" tvg-name="The Wild Wild West" group-title="Classic;Series" tvg-language="eng;swe" tvg-quality="720p",The Wild Wild West
+https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8
+
+#EXTINF:-1 tvg-id="TVSQuizShowNetwork.us" tvg-name="TVS Quiz Show Network" group-title="Classic" tvg-language="eng" tvg-quality="720p",TVS Quiz Show Network
+https://rpn.bozztv.com/gusa/gusa-tvsgameshow/index.m3u8
+
+#EXTINF:-1 tvg-id="WantedDeadorAlive.us" tvg-name="Wanted: Dead or Alive" group-title="Classic" tvg-language="eng" tvg-quality="720p",Wanted: Dead or Alive
+https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Westerns4U.us" tvg-name="Westerns 4U" group-title="Classic" tvg-language="eng" tvg-quality="1080p",Westerns 4U
+http://181.224.255.210:8001/play/a0rq/index.m3u8
+

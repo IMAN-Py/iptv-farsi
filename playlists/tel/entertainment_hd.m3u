@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="720p",Discovery Channel
+https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="720p",Discovery Channel
+https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVJosh.in" tvg-name="ETV Josh" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",ETV Josh
+https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ETVPlus.in" tvg-name="ETV Plus" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",ETV Plus
+https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVPlus.in" tvg-name="ETV Plus" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",ETV Plus
+https://mumbai-edge.smartplaytv.in/ETVPLUS/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVTelugu.in" tvg-name="ETV Telugu" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",ETV Telugu
+https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8
+
+#EXTINF:-1 tvg-id="MahaaMax.in" tvg-name="Mahaa Max" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",Mahaa Max
+https://mumbai-edge.smartplaytv.in/MahaMax/index.m3u8
+
+#EXTINF:-1 tvg-id="MangoMobileTV.in" tvg-name="Mango Mobile TV" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",Mango Mobile TV
+https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarMaa.in" tvg-name="Star Maa" group-title="Entertainment" tvg-language="tel" tvg-quality="720p",Star Maa
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-id="TeluguOne.in" tvg-name="Telugu One" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",Telugu One
+https://teluguone-yupptv.vgcdn.net/v1/019be9e3f04d1ea55784338b5c3e89/019be9e4474415fc60e93459e1e808/teluguone_2500k.m3u8
+

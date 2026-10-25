@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HighTV.gr" tvg-name="High TV" group-title="Shop" tvg-language="ell" tvg-quality="720p",High TV
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+

@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="El33.es" tvg-name="El 33" group-title="Culture;Public" tvg-language="cat" tvg-quality="1080p",El 33
+https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="El33.es" tvg-name="El 33" group-title="Culture;Public" tvg-language="cat" tvg-quality="1080p",El 33
+https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="El33.es" tvg-name="El 33" group-title="Culture;Public" tvg-language="cat" tvg-quality="1080p",El 33
+https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="El33.es" tvg-name="El 33" group-title="Culture;Public" tvg-language="cat" tvg-quality="1080p",El 33
+https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
+

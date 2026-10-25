@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTNBDivertissement.bi" tvg-name="RTNB Divertissement" group-title="Entertainment" tvg-language="eng;fra;run;swa" tvg-quality="576i",RTNB Divertissement
+https://tv2-stream.rtnb.bi/hls/master.m3u8
+

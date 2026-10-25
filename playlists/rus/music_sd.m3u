@@ -1,0 +1,191 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A1.ru" tvg-name="A1" group-title="Music" tvg-language="eng;rus" tvg-quality="576p",A1
+http://31.148.48.15/A1/index.m3u8
+
+#EXTINF:-1 tvg-id="BabyTime.ru" tvg-name="Baby Time" group-title="Kids;Music" tvg-language="rus" tvg-quality="576p",Baby Time
+http://178.134.1.158:8081/babytime/index.m3u8
+
+#EXTINF:-1 tvg-id="BabyTime.ru" tvg-name="Baby Time" group-title="Kids;Music" tvg-language="rus" tvg-quality="576p",Baby Time
+https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="BRIDGE.ru" tvg-name="BRIDGE" group-title="Music" tvg-language="rus" tvg-quality="576p",BRIDGE
+http://178.134.1.158:8081/BRIDGE/index.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGE.ru" tvg-name="BRIDGE" group-title="Music" tvg-language="rus" tvg-quality="576p",BRIDGE
+http://194.143.148.28:8080/RT_DOC/index.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGE.ru" tvg-name="BRIDGE" group-title="Music" tvg-language="rus" tvg-quality="576p",BRIDGE
+http://31.148.48.15/Bridge_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGE.ru" tvg-name="BRIDGE" group-title="Music" tvg-language="rus" tvg-quality="576p",BRIDGE
+http://stream.mcquack.net/318/index.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-name="BRIDGE Classic" group-title="Classic;Music" tvg-language="rus" tvg-quality="576p",BRIDGE Classic
+http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-name="BRIDGE Classic" group-title="Classic;Music" tvg-language="rus" tvg-quality="576p",BRIDGE Classic
+http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-name="BRIDGE Classic" group-title="Classic;Music" tvg-language="rus" tvg-quality="576p",BRIDGE Classic
+http://stream.mcquack.net/272/index.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-name="BRIDGE Classic" group-title="Classic;Music" tvg-language="rus" tvg-quality="576p",BRIDGE Classic
+https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="BRIDGEDeluxe.ru" tvg-name="BRIDGE Deluxe" group-title="Music" tvg-language="rus" tvg-quality="576p",BRIDGE Deluxe
+http://stream.mcquack.net/92/index.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGEHits.ru" tvg-name="BRIDGE Hits" group-title="Music" tvg-language="rus" tvg-quality="576p",BRIDGE Hits
+http://31.148.48.15/Bridge_TV_Dance/index.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGEHits.ru" tvg-name="BRIDGE Hits" group-title="Music" tvg-language="rus" tvg-quality="576p",BRIDGE Hits
+http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGEHits.ru" tvg-name="BRIDGE Hits" group-title="Music" tvg-language="rus" tvg-quality="576p",BRIDGE Hits
+http://stream.mcquack.net/320/index.m3u8
+
+#EXTINF:-1 tvg-id="BRIDGERock.ru" tvg-name="BRIDGE Rock" group-title="Music" tvg-language="rus" tvg-quality="576p",BRIDGE Rock
+http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
+
+#EXTINF:-1 tvg-id="DanceHits80.ru" tvg-name="DanceHits80" group-title="Music" tvg-language="eng;rus" tvg-quality="480i",DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
+
+#EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-name="Europa Plus TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Europa Plus TV
+http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
+
+#EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-name="Europa Plus TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Europa Plus TV
+http://stream.mcquack.net/184/index.m3u8
+
+#EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-name="Europa Plus TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Europa Plus TV
+https://fs.uplink.kz/europa_plus/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-name="First Music Channel" group-title="Music" tvg-language="rus" tvg-quality="576p",First Music Channel
+http://hz1.teleport.cc/HLS/SD.m3u8
+
+#EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-name="First Music Channel" group-title="Music" tvg-language="rus" tvg-quality="576p",First Music Channel
+http://rtmp.one.by:1200
+
+#EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-name="First Music Channel Russia" group-title="Music" tvg-language="rus" tvg-quality="576p",First Music Channel Russia
+http://rtmp.one.by:2200
+
+#EXTINF:-1 tvg-id="FONMusic.ru" tvg-name="FON Music" group-title="Music" tvg-language="rus" tvg-quality="576p",FON Music
+https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="HitFM.md" tvg-name="Hit FM" group-title="Music" tvg-language="ron;rus" tvg-quality="576i",Hit FM
+https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Maidan.ru" tvg-name="Maidan" group-title="Music" tvg-language="rus" tvg-quality="576p",Maidan
+http://hls127.freeott.top:8080/Maydan/video.m3u8
+
+#EXTINF:-1 tvg-id="Music.kg" tvg-name="Music" group-title="Music" tvg-language="kir;rus" tvg-quality="480p",Music
+https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
+
+#EXTINF:-1 tvg-id="MuzSoyuz.ru" tvg-name="Muz Soyuz" group-title="Music;Religious" tvg-language="rus" tvg-quality="576p",Muz Soyuz
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Muz-TV
+http://185.71.81.6:8080/20/index.m3u8
+
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Muz-TV
+http://31.148.5.241/kanal_20/index.m3u8
+
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Muz-TV
+http://46.32.176.50/muztv/index.m3u8
+
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Muz-TV
+http://hls127.freeott.top:8080/MUZ_TV/video.m3u8
+
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Muz-TV
+http://stream.mcquack.net/86/index.m3u8
+
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Muz-TV
+https://fs.uplink.kz/muz_tv/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576i",Muz-TV
+https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576i",Muz-TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/20.m3u8
+
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576i",Muz-TV
+https://streaming.televizor-24-tochka.ru/live/618.m3u8
+
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="450p",Muz-TV
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+
+#EXTINF:-1 tvg-id="Muzyka1.ru" tvg-name="Muzyka 1" group-title="Music" tvg-language="rus" tvg-quality="480p",Muzyka 1
+https://kino-1.catcast.tv/content/37742/index.m3u8
+
+#EXTINF:-1 tvg-id="Muzyka1.ru" tvg-name="Muzyka 1" group-title="Music" tvg-language="rus" tvg-quality="480p",Muzyka 1
+https://kino-1.catcast.tv/content/37745/index.m3u8
+
+#EXTINF:-1 tvg-id="MuzykaKino.ru" tvg-name="Muzyka Kino" group-title="Music" tvg-language="rus" tvg-quality="480p",Muzyka Kino
+https://kino-1.catcast.tv/content/37739/index.m3u8
+
+#EXTINF:-1 tvg-id="MuzykaLive.ru" tvg-name="Muzyka Live" group-title="Music" tvg-language="rus" tvg-quality="576p",Muzyka Live
+http://stream.mcquack.net/303/index.m3u8
+
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Muzyka Pervogo" group-title="Music" tvg-language="rus;ukr" tvg-quality="576p",Muzyka Pervogo
+http://88.212.15.17/live/test_muzyka_pervogo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Muzyka Pervogo" group-title="Music" tvg-language="rus;ukr" tvg-quality="576p",Muzyka Pervogo
+http://stream.mcquack.net/153/index.m3u8
+
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Muzyka Pervogo" group-title="Music" tvg-language="rus;ukr" tvg-quality="576i",Muzyka Pervogo
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MuzzOne.kz" tvg-name="MuzzOne" group-title="Music" tvg-language="eng;kaz;rus" tvg-quality="576i",MuzzOne
+#EXTVLCOPT:http-referrer=https://muzzone.tv/
+https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
+
+#EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU.TV" group-title="Music" tvg-language="rus" tvg-quality="576p",RU.TV
+http://31.148.48.15/RU_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU.TV" group-title="Music" tvg-language="rus" tvg-quality="576p",RU.TV
+http://stream.mcquack.net/109/index.m3u8
+
+#EXTINF:-1 tvg-id="RUTV.ru" tvg-name="RU.TV" group-title="Music" tvg-language="rus" tvg-quality="576i",RU.TV
+https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RussianMusicBox.ru" tvg-name="Russian MusicBox" group-title="Music" tvg-language="rus" tvg-quality="576p",Russian MusicBox
+http://stream.mcquack.net/319/index.m3u8
+
+#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Shanson TV
+http://46.53.200.153:7777/play/Shanson_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Shanson TV
+http://catchup.videoline.ru/shanson/index.m3u8
+
+#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="512p",Shanson TV
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Shanson TV
+http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8
+
+#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Shanson TV
+https://fs.uplink.kz/shanson/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576i",Shanson TV
+https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Shanson TV
+https://streaming.thestream.cyou/live/7009.m3u8
+
+#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Shanson TV
+https://uiptv.do.am/1ufc/602079679/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SONGTVRussia.ru" tvg-name="SONGTV Russia" group-title="Music" tvg-language="rus" tvg-quality="576i",SONGTV Russia
+https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StranaFM.ru" tvg-name="Strana FM" group-title="Music" tvg-language="rus" tvg-quality="576i",Strana FM
+https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA Russia" group-title="Music" tvg-language="rus" tvg-quality="576i",VIVA Russia
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZorTV.uz" tvg-name="Zo'r TV" group-title="Entertainment;Music" tvg-language="rus;uzb" tvg-quality="576p",Zo'r TV
+https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
+

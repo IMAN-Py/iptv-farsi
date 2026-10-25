@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AshwaveegaNews24x7.in" tvg-name="Ashwaveega News 24x7" group-title="News" tvg-language="kan" tvg-quality="720p",Ashwaveega News 24x7
+https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AsianetSuvarnaNews.in" tvg-name="Asianet Suvarna News" group-title="News" tvg-language="kan" tvg-quality="1080p",Asianet Suvarna News
+https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GuaranteeNews.in" tvg-name="Guarantee News" group-title="News" tvg-language="kan" tvg-quality="1080p",Guarantee News
+https://guaranteenews.in:8443/live/gnews/index.m3u8
+
+#EXTINF:-1 tvg-id="News18Kannada.in" tvg-name="News18 Kannada" group-title="News" tvg-language="kan" tvg-quality="1080p",News18 Kannada
+https://mumbai-edge.smartplaytv.in/news18kannada/index.m3u8
+
+#EXTINF:-1 tvg-id="News18Kannada.in" tvg-name="News18 Kannada" group-title="News" tvg-language="kan" tvg-quality="1080p",News18 Kannada
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
+#EXTVLCOPT:http-referrer=https://kannada.news18.com/
+https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="PublicTV.in" tvg-name="Public TV" group-title="News" tvg-language="kan" tvg-quality="720p",Public TV
+https://cdn.pishow.tv/ott/live/439/master.m3u8
+
+#EXTINF:-1 tvg-id="RepublicKannada.in" tvg-name="Republic Kannada" group-title="News" tvg-language="kan" tvg-quality="1080p",Republic Kannada
+https://cdn.pishow.tv/ott/live/298/master.m3u8
+
+#EXTINF:-1 tvg-id="RepublicKannada.in" tvg-name="Republic Kannada" group-title="News" tvg-language="kan" tvg-quality="720p",Republic Kannada
+https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
+
+#EXTINF:-1 tvg-id="TV9Kannada.in" tvg-name="TV9 Kannada" group-title="News" tvg-language="kan" tvg-quality="720p",TV9 Kannada
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZeeKannadaNews.in" tvg-name="Zee Kannada News" group-title="News" tvg-language="kan" tvg-quality="720p",Zee Kannada News
+https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
+

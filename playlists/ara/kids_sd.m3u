@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-name="Amou Yazid TV" group-title="Kids" tvg-language="ara;fra" tvg-quality="576p",Amou Yazid TV
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="480i",BabyFirst
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-name="Cartoon Network Arabic" group-title="Animation;Kids" tvg-language="ara" tvg-quality="576i",Cartoon Network Arabic
+http://149.100.11.252:8000/play/a056/index.m3u8
+
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-name="God Stands Kids Club TV" group-title="Kids;Religious" tvg-language="ara" tvg-quality="480i",God Stands Kids Club TV
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
+
+#EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-name="Spacetoon Arabic" group-title="Animation;Kids" tvg-language="ara" tvg-quality="576p",Spacetoon Arabic
+#EXTVLCOPT:http-referrer=https://spacetoon.com
+https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
+
+#EXTINF:-1 tvg-id="TahaTV.lb" tvg-name="Taha TV" group-title="Kids" tvg-language="ara" tvg-quality="576p",Taha TV
+https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
+

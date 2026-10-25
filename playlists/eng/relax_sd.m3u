@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BetterLifeNatureChannel.us" tvg-name="Better Life Nature Channel" group-title="Relax" tvg-language="eng" tvg-quality="480p",Better Life Nature Channel
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
+
+#EXTINF:-1 tvg-id="FunBoxUHD.nl" tvg-name="FunBox UHD" group-title="Relax" tvg-language="eng" tvg-quality="576i",FunBox UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://webtvstream.bhtelecom.ba/funbox.m3u8
+

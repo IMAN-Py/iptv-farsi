@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SharqRadioTV.af" tvg-name="Sharq Radio TV" group-title="General" tvg-language="pus" tvg-quality="1080p",Sharq Radio TV
+https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZarinTV.us" tvg-name="Zarin TV" group-title="General" tvg-language="ara;pus" tvg-quality="1080p",Zarin TV
+https://fl1002.bozztv.com/gf-zarintv/index.m3u8
+

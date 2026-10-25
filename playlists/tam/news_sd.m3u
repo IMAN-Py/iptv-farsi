@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BeritaRTM.my" tvg-name="Berita RTM" group-title="News" tvg-language="eng;msa;tam;zho" tvg-quality="576i",Berita RTM
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+
+#EXTINF:-1 tvg-id="KalaignarSeithigal.in" tvg-name="Kalaignar Seithigal" group-title="News" tvg-language="tam" tvg-quality="576p",Kalaignar Seithigal
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/KalaignarSeithigal.m3u8
+
+#EXTINF:-1 tvg-id="MNaduTV.in" tvg-name="M Nadu TV" group-title="News" tvg-language="tam" tvg-quality="576p",M Nadu TV
+https://cloudcdnplayer.mslivestream.net/mslivecdn/mnadu/index.m3u8
+
+#EXTINF:-1 tvg-id="MadhimugamTV.in" tvg-name="Madhimugam TV" group-title="News" tvg-language="tam" tvg-quality="576p",Madhimugam TV
+https://cdn.pishow.tv/ott/live/1476/master.m3u8
+
+#EXTINF:-1 tvg-id="MadhimugamTV.in" tvg-name="Madhimugam TV" group-title="News" tvg-language="tam" tvg-quality="576p",Madhimugam TV
+https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="MadhimugamTV.in" tvg-name="Madhimugam TV" group-title="News" tvg-language="tam" tvg-quality="576p",Madhimugam TV
+https://yuppparoriglin.akamaized.net/181224/smil:mathimugam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="MalaiMurasuTV.in" tvg-name="Malai Murasu TV" group-title="News" tvg-language="tam" tvg-quality="576p",Malai Murasu TV
+https://mumt04.tangotv.in/m18aqlK4MALAIMURASUSEITHIGAL/index.m3u8
+
+#EXTINF:-1 tvg-id="MalaiMurasuTV.in" tvg-name="Malai Murasu TV" group-title="News" tvg-language="tam" tvg-quality="576p",Malai Murasu TV
+https://streams.tangotv.in/MALAIMURASUSEITHIGAL/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="MoonTV.in" tvg-name="Moon TV" group-title="News" tvg-language="tam" tvg-quality="576i",Moon TV
+https://cdn.pishow.tv/ott/live/1121/master.m3u8
+
+#EXTINF:-1 tvg-id="MoonTV.in" tvg-name="Moon TV" group-title="News" tvg-language="tam" tvg-quality="576p",Moon TV
+https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News7Tamil.in" tvg-name="News 7 Tamil" group-title="News" tvg-language="tam" tvg-quality="576i",News 7 Tamil
+https://cdn.pishow.tv/ott/live/1498/master.m3u8
+
+#EXTINF:-1 tvg-id="News7Tamil.in" tvg-name="News 7 Tamil" group-title="News" tvg-language="tam" tvg-quality="576p",News 7 Tamil
+https://mumt07.tangotv.in/zHjX9OFlNEWS7TAMIL/index.m3u8
+
+#EXTINF:-1 tvg-id="News7Tamil.in" tvg-name="News 7 Tamil" group-title="News" tvg-language="tam" tvg-quality="576p",News 7 Tamil
+https://segment.yuppcdn.net/240122/news7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News7Tamil.in" tvg-name="News 7 Tamil" group-title="News" tvg-language="tam" tvg-quality="576p",News 7 Tamil
+https://streams.tangotv.in/NEWS7TAMIL/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsTamil24x7.in" tvg-name="News Tamil 24x7" group-title="News" tvg-language="tam" tvg-quality="576p",News Tamil 24x7
+https://cdn.pishow.tv/ott/live/1433/master.m3u8
+
+#EXTINF:-1 tvg-id="NewsTamil24x7.in" tvg-name="News Tamil 24x7" group-title="News" tvg-language="tam" tvg-quality="576p",News Tamil 24x7
+https://streams.tangotv.in/NEWSTAMIL24X7/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="Polimer News" group-title="News" tvg-language="tam" tvg-quality="576i",Polimer News
+https://cdn.pishow.tv/ott/live/1245/master.m3u8
+
+#EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="Polimer News" group-title="News" tvg-language="tam" tvg-quality="576p",Polimer News
+https://mumt05.tangotv.in/87NeALx2POLIMERNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="Polimer News" group-title="News" tvg-language="tam" tvg-quality="576p",Polimer News
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/PolimerNews.m3u8
+
+#EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="Polimer News" group-title="News" tvg-language="tam" tvg-quality="576p",Polimer News
+https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="Polimer News" group-title="News" tvg-language="tam" tvg-quality="576p",Polimer News
+https://streams.tangotv.in/POLIMERNEWS/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in" tvg-name="Puthiya Thalaimurai" group-title="News" tvg-language="tam" tvg-quality="576i",Puthiya Thalaimurai
+https://cdn.pishow.tv/ott/live/1261/master.m3u8
+
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in" tvg-name="Puthiya Thalaimurai" group-title="News" tvg-language="tam" tvg-quality="576p",Puthiya Thalaimurai
+https://mumbai-edge.smartplaytv.in/Puthiyathalaimurai/index.m3u8
+
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in" tvg-name="Puthiya Thalaimurai" group-title="News" tvg-language="tam" tvg-quality="576p",Puthiya Thalaimurai
+https://mumt07.tangotv.in/zHjX9OFlPUTHIYAEXPRESS/index.m3u8
+
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in" tvg-name="Puthiya Thalaimurai" group-title="News" tvg-language="tam" tvg-quality="576p",Puthiya Thalaimurai
+https://mumt07.tangotv.in/zHjX9OFlPUTHIYATHALAIMURAI/index.m3u8
+
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in" tvg-name="Puthiya Thalaimurai" group-title="News" tvg-language="tam" tvg-quality="576p",Puthiya Thalaimurai
+https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in" tvg-name="Puthiya Thalaimurai" group-title="News" tvg-language="tam" tvg-quality="576p",Puthiya Thalaimurai
+https://streams.tangotv.in/PUTHIYATHALAIMURAI/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="SathiyamTV.in" tvg-name="Sathiyam TV" group-title="News" tvg-language="tam" tvg-quality="576p",Sathiyam TV
+https://mumt07.tangotv.in/zHjX9OFlSATHIYAMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="TamilJanam.in" tvg-name="Tamil Janam" group-title="News" tvg-language="tam" tvg-quality="576p",Tamil Janam
+https://mumt01.tangotv.in/O5aw8Zn3JANAMTVTAMIL/index.m3u8
+
+#EXTINF:-1 tvg-id="ThanthiTV.in" tvg-name="Thanthi TV" group-title="News" tvg-language="tam" tvg-quality="576p",Thanthi TV
+https://cdn.pishow.tv/ott/live/1612/master.m3u8
+
+#EXTINF:-1 tvg-id="ThanthiTV.in" tvg-name="Thanthi TV" group-title="News" tvg-language="tam" tvg-quality="576p",Thanthi TV
+https://mumt03.tangotv.in/Dsly5z3HTHANTHITV/index.m3u8
+
+#EXTINF:-1 tvg-id="ThanthiTV.in" tvg-name="Thanthi TV" group-title="News" tvg-language="tam" tvg-quality="576p",Thanthi TV
+https://streams.tangotv.in/THANTHITV/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="VelichamTV.in" tvg-name="Velicham TV" group-title="News" tvg-language="tam" tvg-quality="576p",Velicham TV
+https://cdn.pishow.tv/ott/live/461/master.m3u8
+
+#EXTINF:-1 tvg-id="VelichamTV.in" tvg-name="Velicham TV" group-title="News" tvg-language="tam" tvg-quality="576p",Velicham TV
+https://mumbai-edge.smartplaytv.in/Velichamtv/index.m3u8
+
+#EXTINF:-1 tvg-id="VelichamTV.in" tvg-name="Velicham TV" group-title="News" tvg-language="tam" tvg-quality="576p",Velicham TV
+https://mumt05.tangotv.in/87NeALx2VALICHAMPLUS/index.m3u8
+

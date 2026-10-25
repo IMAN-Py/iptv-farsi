@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SouthPark.se" tvg-name="South Park" group-title="Animation;Comedy" tvg-language="eng;nor" tvg-quality="720p",South Park
+https://jmp2.uk/plu-61c1e88cd168ea0007068133.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkArmageddon.se" tvg-name="South Park Armageddon" group-title="Animation;Comedy" tvg-language="eng;nor" tvg-quality="720p",South Park Armageddon
+https://jmp2.uk/plu-660bff5724e1d000085b7c07.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkRockinOut.se" tvg-name="South Park Rockin' Out" group-title="Animation;Comedy" tvg-language="eng;nor" tvg-quality="720p",South Park Rockin' Out
+https://jmp2.uk/plu-664f1370f78a8500092df452.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkButtersCollection.se" tvg-name="South Park: Butters Collection" group-title="Animation;Comedy" tvg-language="eng;nor" tvg-quality="720p",South Park: Butters Collection
+https://jmp2.uk/plu-65d87fcb66eec8000887f4aa.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkCartmanCollection.se" tvg-name="South Park: Cartman Collection" group-title="Animation;Comedy" tvg-language="eng;nor" tvg-quality="720p",South Park: Cartman Collection
+https://jmp2.uk/plu-65d87fa0f7f0af0008b2358b.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkIntotheStars.se" tvg-name="South Park: Into the Stars" group-title="Animation;Comedy" tvg-language="eng;nor" tvg-quality="720p",South Park: Into the Stars
+https://jmp2.uk/plu-664f0ecc41af640008e37b43.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkKennyCollection.se" tvg-name="South Park: Kenny Collection" group-title="Animation;Comedy" tvg-language="eng;nor" tvg-quality="720p",South Park: Kenny Collection
+https://jmp2.uk/plu-65d87f53ec9fda0008a5b810.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkKyleCollection.se" tvg-name="South Park: Kyle Collection" group-title="Animation;Comedy" tvg-language="eng;nor" tvg-quality="720p",South Park: Kyle Collection
+https://jmp2.uk/plu-65d88004ec9fda0008a5b8b3.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkStanCollection.se" tvg-name="South Park: Stan Collection" group-title="Animation;Comedy" tvg-language="eng;nor" tvg-quality="720p",South Park: Stan Collection
+https://jmp2.uk/plu-65d87f7a28730900088e7fbf.m3u8
+

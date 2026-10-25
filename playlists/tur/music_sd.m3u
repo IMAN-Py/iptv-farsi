@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FinestTV.de" tvg-name="Finest TV" group-title="Music" tvg-language="deu;tur" tvg-quality="288p",Finest TV
+https://media.finest.tv/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Muzik" group-title="Music" tvg-language="tur" tvg-quality="576i",TRT Muzik
+https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
+

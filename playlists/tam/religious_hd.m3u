@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="eng;ind;tam" tvg-quality="720p",Angel TV
+https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="tam" tvg-quality="720p",Angel TV
+https://janya-digimix.akamaized.net/vglive-sk-374850/america/ngrp:angelamerica_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="tam" tvg-quality="720p",Angel TV
+https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="eng;tam" tvg-quality="720p",Angel TV
+https://janya-digimix.akamaized.net/vglive-sk-703035/indochina/ngrp:angelindochina_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="tam" tvg-quality="720p",Angel TV
+https://mumbai-edge.smartplaytv.in/AngelTV/index.m3u8
+
+#EXTINF:-1 tvg-id="BhagyamTV.in" tvg-name="Bhagyam TV" group-title="Religious" tvg-language="tam" tvg-quality="1080p",Bhagyam TV
+https://ott.bhagyam.net/hls/bhagyamweb/index-1409148900-now.m3u8
+
+#EXTINF:-1 tvg-id="DharsanTV.in" tvg-name="Dharsan TV" group-title="Religious" tvg-language="tam" tvg-quality="720p",Dharsan TV
+https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8
+
+#EXTINF:-1 tvg-id="HebronTV.in" tvg-name="Hebron TV" group-title="Religious" tvg-language="tam" tvg-quality="1080p",Hebron TV
+https://account20.livebox.co.in/charleshls/live.m3u8
+
+#EXTINF:-1 tvg-id="HosannaTV.in" tvg-name="Hosanna TV" group-title="Religious" tvg-language="tam" tvg-quality="1080i",Hosanna TV
+https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IBCBakthi.uk" tvg-name="IBC Bakthi" group-title="Religious" tvg-language="tam" tvg-quality="1080p",IBC Bakthi
+https://ibc.massstream.net/IBC2/index.m3u8
+
+#EXTINF:-1 tvg-id="JoyTV.in" tvg-name="Joy TV" group-title="Religious" tvg-language="tam" tvg-quality="1080p",Joy TV
+https://ktismaservers.in:3412/live/joytvlive.m3u8
+
+#EXTINF:-1 tvg-id="LifeTV.in" tvg-name="Life TV" group-title="Religious" tvg-language="tam" tvg-quality="720p",Life TV
+https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
+
+#EXTINF:-1 tvg-id="MTA6Asia.uk" tvg-name="MTA6 Asia" group-title="Religious" tvg-language="ara;ben;eng;ind;tam;urd" tvg-quality="1080p",MTA6 Asia
+https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA7Asia.uk" tvg-name="MTA7 Asia" group-title="Religious" tvg-language="ara;ben;eng;hin;mal;tam;urd" tvg-quality="1080p",MTA7 Asia
+https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SivanTV.ch" tvg-name="Sivan TV" group-title="Religious" tvg-language="tam" tvg-quality="1080p",Sivan TV
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+
+#EXTINF:-1 tvg-id="SVBC2.in" tvg-name="SVBC 2" group-title="Religious" tvg-language="tam" tvg-quality="1080p",SVBC 2
+https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VillageTV.in" tvg-name="Village TV" group-title="Religious" tvg-language="tam" tvg-quality="1080p",Village TV
+https://live.villagetv.net/villagetv/hd/index.m3u8
+

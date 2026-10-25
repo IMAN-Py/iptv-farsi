@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="iFilmArabic.ir" tvg-name="iFilm Arabic" group-title="Movies" tvg-language="ara" tvg-quality="576i",iFilm Arabic
+https://live.presstv.co.uk/hls/ifilmar.m3u8
+
+#EXTINF:-1 tvg-id="NileDrama.eg" tvg-name="Nile Drama" group-title="Movies" tvg-language="ara" tvg-quality="576p",Nile Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://entv.dz/
+http://185.9.2.18/chid_352/index.m3u8
+

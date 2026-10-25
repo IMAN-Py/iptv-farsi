@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AdaTV.cy" tvg-name="Ada TV" group-title="General" tvg-language="tur" tvg-quality="576i",Ada TV
+https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArasTV.tr" tvg-name="Aras TV" group-title="General" tvg-language="tur" tvg-quality="576p",Aras TV
+http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" group-title="General" tvg-language="tur" tvg-quality="360p",ATV
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+
+#EXTINF:-1 tvg-id="HunatTV.tr" tvg-name="Hunat TV" group-title="General" tvg-language="tur" tvg-quality="480p",Hunat TV
+https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KayTV.tr" tvg-name="Kay TV" group-title="General" tvg-language="tur" tvg-quality="576p",Kay TV
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" group-title="General" tvg-language="tur" tvg-quality="576i",NTV
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+
+#EXTINF:-1 tvg-id="TGRTBelgesel.tr" tvg-name="TGRT Belgesel" group-title="General" tvg-language="tur" tvg-quality="576p",TGRT Belgesel
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Van65TV.tr" tvg-name="Van 65 TV" group-title="General" tvg-language="tur" tvg-quality="576i",Van 65 TV
+https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WestAzerbaijanTV.ir" tvg-name="West Azerbaijan TV" group-title="General" tvg-language="aze;fas;kur;tur" tvg-quality="576i",West Azerbaijan TV
+https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YOLTV.de" tvg-name="YOL TV" group-title="General" tvg-language="tur" tvg-quality="576i",YOL TV
+https://live.yoltv.com/hls/stream.m3u8
+

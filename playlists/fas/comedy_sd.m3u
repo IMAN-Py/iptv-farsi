@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GEMComedy.tr" tvg-name="GEM Comedy" group-title="Comedy" tvg-language="fas" tvg-quality="480i",GEM Comedy
+https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="PersianaComedy.fr" tvg-name="Persiana Comedy" group-title="Comedy" tvg-language="fas" tvg-quality="576i",Persiana Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+

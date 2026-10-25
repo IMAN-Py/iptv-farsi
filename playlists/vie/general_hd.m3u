@@ -1,0 +1,82 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AnGiangTV1.vn" tvg-name="An Giang TV 1" group-title="General" tvg-language="vie" tvg-quality="1080p",An Giang TV 1
+https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
+
+#EXTINF:-1 tvg-id="CanThoTV.vn" tvg-name="Can Tho TV" group-title="General" tvg-language="vie" tvg-quality="1080p",Can Tho TV
+https://live.canthotv.vn/live/tv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="CaoBangTV.vn" tvg-name="Cao Bang TV" group-title="General" tvg-language="vie" tvg-quality="720p",Cao Bang TV
+https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="DaNangTV1.vn" tvg-name="Da Nang TV 1" group-title="General" tvg-language="vie" tvg-quality="1080p",Da Nang TV 1
+https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="DaNangTV2.vn" tvg-name="Da Nang TV2" group-title="General" tvg-language="vie" tvg-quality="1080p",Da Nang TV2
+https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="DaoLaneXangTV.la" tvg-name="Dao Lane Xang TV" group-title="General" tvg-language="vie" tvg-quality="720p",Dao Lane Xang TV
+https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DienBienTV.vn" tvg-name="Dien Bien TV" group-title="General" tvg-language="vie" tvg-quality="1080p",Dien Bien TV
+https://stream.langsontv.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DongNaiTV1.vn" tvg-name="Dong Nai TV 1" group-title="General;News" tvg-language="vie" tvg-quality="1080p",Dong Nai TV 1
+https://freem3u.xyz/api/live/play.m3u8?vid=53
+
+#EXTINF:-1 tvg-id="DongNaiTV1.vn" tvg-name="Dong Nai TV 1" group-title="General;News" tvg-language="vie" tvg-quality="720p",Dong Nai TV 1
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
+
+#EXTINF:-1 tvg-id="DongNaiTV1.vn" tvg-name="Dong Nai TV 1" group-title="General;News" tvg-language="vie" tvg-quality="720p",Dong Nai TV 1
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/dongnai1tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DongThapTV.vn" tvg-name="Dong Thap TV" group-title="General" tvg-language="vie" tvg-quality="720p",Dong Thap TV
+https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8
+
+#EXTINF:-1 tvg-id="GiaLaiTV.vn" tvg-name="Gia Lai TV" group-title="General" tvg-language="vie" tvg-quality="720p",Gia Lai TV
+http://tldigital-17th06day-tl9648290.duckdns.org/tv.m3u8
+
+#EXTINF:-1 tvg-id="HaTinhTV.vn" tvg-name="Ha Tinh TV" group-title="General" tvg-language="vie" tvg-quality="720p",Ha Tinh TV
+https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
+
+#EXTINF:-1 tvg-id="HanoiTV1.vn" tvg-name="HanoiTV1" group-title="General" tvg-language="vie" tvg-quality="720p",HanoiTV1
+https://liveh34.vtvprime.vn/hls/HANOI1TV/index.m3u8
+
+#EXTINF:-1 tvg-id="HTV1.vn" tvg-name="HTV1" group-title="General" tvg-language="vie" tvg-quality="720p",HTV1
+https://dethich.pw/htv1/index.m3u8
+
+#EXTINF:-1 tvg-id="HTV2.vn" tvg-name="HTV2" group-title="Entertainment;General" tvg-language="vie" tvg-quality="720p",HTV2
+https://dethich.pw/htv2/index.m3u8
+
+#EXTINF:-1 tvg-id="HTV3.vn" tvg-name="HTV3" group-title="Entertainment;General;Series" tvg-language="vie" tvg-quality="720p",HTV3
+https://dethich.pw/htv3/index.m3u8
+
+#EXTINF:-1 tvg-id="HTV7.vn" tvg-name="HTV7" group-title="General" tvg-language="vie" tvg-quality="720p",HTV7
+https://dethich.pw/htv7/index.m3u8
+
+#EXTINF:-1 tvg-id="HTV9.vn" tvg-name="HTV9" group-title="General;News" tvg-language="vie" tvg-quality="720p",HTV9
+https://dethich.pw/htv9/index.m3u8
+
+#EXTINF:-1 tvg-id="KonTumTV.vn" tvg-name="Kon Tum TV" group-title="General" tvg-language="vie" tvg-quality="720p",Kon Tum TV
+https://247.dpdns.org/module/IPTV/?id=QNgTV2&accKenh=vuminhthanh1
+
+#EXTINF:-1 tvg-id="LangSonTV.vn" tvg-name="Lang Son TV" group-title="General" tvg-language="vie" tvg-quality="720p",Lang Son TV
+https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NgheAnTV.vn" tvg-name="Nghe An TV" group-title="General" tvg-language="vie" tvg-quality="720p",Nghe An TV
+https://67tz1gnwrvxic.cmccdn.net/hls/NGHEANTV/03.m3u8
+
+#EXTINF:-1 tvg-id="OhMuangLaoTV.la" tvg-name="Oh Muang Lao TV" group-title="General" tvg-language="vie" tvg-quality="720p",Oh Muang Lao TV
+https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TayNinhTV.vn" tvg-name="Tay Ninh TV" group-title="General" tvg-language="vie" tvg-quality="720p",Tay Ninh TV
+https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ThaiNguyenTV.vn" tvg-name="Thai Nguyen TV" group-title="General" tvg-language="vie" tvg-quality="720p",Thai Nguyen TV
+https://streaming.thainguyentv.vn/hls/livestream.m3u8
+
+#EXTINF:-1 tvg-id="TVBVietnam.vn" tvg-name="TVB Vietnam" group-title="General" tvg-language="vie" tvg-quality="1080p",TVB Vietnam
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VinhLongTV1.vn" tvg-name="Vinh Long TV 1" group-title="General;News" tvg-language="vie" tvg-quality="720p",Vinh Long TV 1
+https://dethich.pw/thvl1/index.m3u8
+

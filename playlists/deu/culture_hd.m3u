@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KulturMD.de" tvg-name="KulturMD" group-title="Culture" tvg-language="deu" tvg-quality="1080p",KulturMD
+http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ORFIII.at" tvg-name="ORF III" group-title="Culture" tvg-language="deu" tvg-quality="720p",ORF III
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+

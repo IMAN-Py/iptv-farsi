@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" group-title="News" tvg-language="tha" tvg-quality="576i",Nation TV
+https://live-us1.thaimomo.com/live-as/chNation-3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" group-title="News" tvg-language="tha" tvg-quality="576i",Nation TV
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
+
+#EXTINF:-1 tvg-id="News1.th" tvg-name="News1" group-title="News" tvg-language="tha" tvg-quality="576i",News1
+https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8
+

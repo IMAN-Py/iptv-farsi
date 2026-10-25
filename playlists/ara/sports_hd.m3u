@@ -1,0 +1,58 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlIraqiaSport.iq" tvg-name="Al Iraqia Sport" group-title="Sports" tvg-language="ara" tvg-quality="720p",Al Iraqia Sport
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+
+#EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="Arryadia" group-title="Sports" tvg-language="ara" tvg-quality="720p",Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
+
+#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-name="Bahrain Sports 1" group-title="Sports" tvg-language="ara" tvg-quality="720p",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-name="Bahrain Sports 2" group-title="Sports" tvg-language="ara" tvg-quality="720p",Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN Sports 1" group-title="Sports" tvg-language="ara" tvg-quality="1080p",beIN Sports 1
+http://primetv.cc.cd/beinfhd11/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beIN Sports 2" group-title="Sports" tvg-language="ara" tvg-quality="1080p",beIN Sports 2
+http://primetv.cc.cd/beinfhd22/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beIN Sports 3" group-title="Sports" tvg-language="ara" tvg-quality="1080p",beIN Sports 3
+http://primetv.cc.cd/beinfhd33/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beIN Sports 4" group-title="Sports" tvg-language="ara" tvg-quality="1080p",beIN Sports 4
+http://primetv.cc.cd/beinfhd44/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beIN Sports 5" group-title="Sports" tvg-language="ara" tvg-quality="1080p",beIN Sports 5
+http://primetv.cc.cd/beinfhd55/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beIN Sports 6" group-title="Sports" tvg-language="ara" tvg-quality="1080p",beIN Sports 6
+http://primetv.cc.cd/beinfhd66/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="beIN Sports 7" group-title="Sports" tvg-language="ara" tvg-quality="1080p",beIN Sports 7
+http://primetv.cc.cd/beinfhd77/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="beIN Sports 8" group-title="Sports" tvg-language="ara" tvg-quality="1080p",beIN Sports 8
+http://primetv.cc.cd/beinfhd88/index.m3u8
+
+#EXTINF:-1 tvg-id="ElHeddafTV.dz" tvg-name="El-Heddaf TV" group-title="Sports" tvg-language="ara" tvg-quality="1080p",El-Heddaf TV
+https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
+
+#EXTINF:-1 tvg-id="JordanSport.jo" tvg-name="Jordan Sport" group-title="Sports" tvg-language="ara" tvg-quality="1080p",Jordan Sport
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+
+#EXTINF:-1 tvg-id="KTVSport.kw" tvg-name="KTV Sport" group-title="Sports" tvg-language="ara;eng" tvg-quality="1080p",KTV Sport
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="KTVSportPlus.kw" tvg-name="KTV Sport Plus" group-title="Sports" tvg-language="ara" tvg-quality="1080p",KTV Sport Plus
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-name="Oman Sports TV" group-title="Sports" tvg-language="ara;eng" tvg-quality="1080p",Oman Sports TV
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Prime.sy" tvg-name="Prime" group-title="General;Sports" tvg-language="ara" tvg-quality="1080p",Prime
+https://cdn.bestream.io/prime/prime.m3u8
+
+#EXTINF:-1 tvg-id="SharjahSports.ae" tvg-name="Sharjah Sports" group-title="Sports" tvg-language="ara;eng" tvg-quality="1080p",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
+

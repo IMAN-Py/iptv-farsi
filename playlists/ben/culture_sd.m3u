@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ChannelS.bd" tvg-name="Channel S" group-title="Culture" tvg-language="ben;eng" tvg-quality="576i",Channel S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChannelS.uk" tvg-name="Channel S" group-title="Culture" tvg-language="ben;eng" tvg-quality="576p",Channel S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DoyelTV.ca" tvg-name="Doyel TV" group-title="Culture" tvg-language="ben" tvg-quality="480i",Doyel TV
+https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
+
+#EXTINF:-1 tvg-id="JTBSClassic.in" tvg-name="JTBS Classic" group-title="Culture;Religious" tvg-language="ben;eng" tvg-quality="480p",JTBS Classic
+https://jtbsclassic.dpdns.org/live.m3u8
+

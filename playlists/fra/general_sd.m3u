@@ -1,0 +1,152 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde" group-title="General" tvg-language="ara;fra" tvg-quality="360p",2M Monde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=http://www.radio2m.ma/
+https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+
+#EXTINF:-1 tvg-id="A12TV.ci" tvg-name="A12 TV" group-title="General" tvg-language="fra" tvg-quality="576i",A12 TV
+https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8
+
+#EXTINF:-1 tvg-id="ACTV.be" tvg-name="ACTV" group-title="General" tvg-language="fra" tvg-quality="504p",ACTV
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8
+
+#EXTINF:-1 tvg-id="ACTV.be" tvg-name="ACTV" group-title="General" tvg-language="fra" tvg-quality="576i",ACTV
+https://tvlocales-live.freecaster.com/live/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8
+
+#EXTINF:-1 tvg-id="AntenneA.cd" tvg-name="Antenne A" group-title="General" tvg-language="fra;lin" tvg-quality="576i",Antenne A
+http://51.254.199.122:8080/antenne_a-plus/index.m3u8
+
+#EXTINF:-1 tvg-id="ATV.gn" tvg-name="ATV" group-title="General" tvg-language="fra" tvg-quality="400p",ATV
+https://guineetvdirect.online:3320/live/atvguineelive.m3u8
+
+#EXTINF:-1 tvg-id="Canaf54TV.uk" tvg-name="Canaf54 TV" group-title="General" tvg-language="eng;fra" tvg-quality="576i",Canaf54 TV
+https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal3.bf" tvg-name="Canal 3" group-title="General" tvg-language="fra" tvg-quality="576i",Canal 3
+https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalZoom.be" tvg-name="Canal Zoom" group-title="General" tvg-language="fra" tvg-quality="576i",Canal Zoom
+https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
+
+#EXTINF:-1 tvg-id="CRTV.cm" tvg-name="CRTV" group-title="General" tvg-language="eng;fra" tvg-quality="576i",CRTV
+https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DigitalCongoTV.cd" tvg-name="Digital Congo TV" group-title="General" tvg-language="fra;kon;lin;lua;swa" tvg-quality="576i",Digital Congo TV
+http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
+
+#EXTINF:-1 tvg-id="DouniaTV.ne" tvg-name="Dounia TV" group-title="General" tvg-language="fra;hau" tvg-quality="576i",Dounia TV
+https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8
+
+#EXTINF:-1 tvg-id="DRTVInternational.cg" tvg-name="DRTV International" group-title="General" tvg-language="fra" tvg-quality="576i",DRTV International
+https://vps122407.serveur-vps.net/hls/drtv.m3u8
+
+#EXTINF:-1 tvg-id="EdenTV.bj" tvg-name="Eden TV" group-title="General" tvg-language="ayb;fon;fra" tvg-quality="540p",Eden TV
+https://rtmp.edentv.bj/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="EvasionTV.gn" tvg-name="Evasion TV" group-title="General" tvg-language="fra" tvg-quality="576i",Evasion TV
+https://kali.vdopanel.com:3788/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" group-title="General" tvg-language="fra" tvg-quality="576i",France 2
+http://149.62.177.107:9999/France_2/index.m3u8
+
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" group-title="General" tvg-language="fra" tvg-quality="576i",France 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.144:5000
+
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" group-title="General" tvg-language="fra" tvg-quality="576i",France 3
+http://89.187.185.76:8080/France3/index.m3u8
+
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" group-title="General" tvg-language="fra" tvg-quality="576i",France 5
+http://149.62.177.107:9999/France_5/index.m3u8
+
+#EXTINF:-1 tvg-id="GMSTV.sn" tvg-name="GMS TV" group-title="General" tvg-language="fra" tvg-quality="576i",GMS TV
+https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GTV.gh" tvg-name="GTV" group-title="General" tvg-language="eng;fra" tvg-quality="540p",GTV
+#EXTVLCOPT:http-referrer=https://liveghanatv.com/
+https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LougaTV.sn" tvg-name="Louga TV" group-title="General" tvg-language="fra" tvg-quality="480p",Louga TV
+https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MikubaTV.cd" tvg-name="Mikuba TV" group-title="General" tvg-language="fra;swa" tvg-quality="480p",Mikuba TV
+http://51.254.199.122:8080/MIKUBATV/index.m3u8
+
+#EXTINF:-1 tvg-id="ORTM1.ml" tvg-name="ORTM 1" group-title="General" tvg-language="bam;fra" tvg-quality="540p",ORTM 1
+http://69.64.57.208/ortm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ORTM1.ml" tvg-name="ORTM 1" group-title="General" tvg-language="bam;fra" tvg-quality="576i",ORTM 1
+https://cs2.push2stream.com/ORTM-DVR/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PSTVHD.cd" tvg-name="PSTV HD" group-title="General" tvg-language="fra" tvg-quality="480p",PSTV HD
+http://51.254.199.122:8080/PSTV/index.m3u8
+
+#EXTINF:-1 tvg-id="PuissanceTV.fr" tvg-name="Puissance TV" group-title="General" tvg-language="fra" tvg-quality="576i",Puissance TV
+https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleGinen.ht" tvg-name="Radio Tele Ginen" group-title="General" tvg-language="fra" tvg-quality="480i",Radio Tele Ginen
+http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTNBTV.bi" tvg-name="RTNB TV" group-title="General" tvg-language="eng;fra;run;swa" tvg-quality="576i",RTNB TV
+https://tv1-stream.rtnb.bi/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="RTNC3.cd" tvg-name="RTNC 3" group-title="General" tvg-language="fra;lin" tvg-quality="576i",RTNC 3
+http://51.254.199.122:8080/e-cableRTNC3/index.m3u8
+
+#EXTINF:-1 tvg-id="RTVS1.cd" tvg-name="RTVS1" group-title="General" tvg-language="fra" tvg-quality="576i",RTVS1
+http://51.254.199.122:8080/RTVS1/index.m3u8
+
+#EXTINF:-1 tvg-id="RwandaTV.rw" tvg-name="Rwanda TV" group-title="General" tvg-language="eng;fra;kin" tvg-quality="480p",Rwanda TV
+http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="RwandaTV.rw" tvg-name="Rwanda TV" group-title="General" tvg-language="eng;fra;kin" tvg-quality="480p",Rwanda TV
+https://5c46fa289c89f.streamlock.net/rtv25/rtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SaraouniaTV.ne" tvg-name="Saraounia TV" group-title="General" tvg-language="fra" tvg-quality="576i",Saraounia TV
+https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8
+
+#EXTINF:-1 tvg-id="SavaneTV.bf" tvg-name="Savane TV" group-title="General" tvg-language="fra;mos" tvg-quality="576i",Savane TV
+https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
+
+#EXTINF:-1 tvg-id="SenewebTV.sn" tvg-name="Seneweb TV" group-title="General" tvg-language="fra" tvg-quality="576i",Seneweb TV
+https://vdo2.pro-fhi.net:3297/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="SenJeunesTV.sn" tvg-name="SenJeunes TV" group-title="General" tvg-language="fra" tvg-quality="480p",SenJeunes TV
+https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SpeedlineTV.bj" tvg-name="Speedline TV" group-title="General" tvg-language="fra" tvg-quality="576i",Speedline TV
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleCongo.cg" tvg-name="Tele Congo" group-title="General" tvg-language="fra;lin;mkw" tvg-quality="576i",Tele Congo
+http://trn03.bozztv.com/gin-telecongo/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleTchad.td" tvg-name="Tele Tchad" group-title="General" tvg-language="ara;fra" tvg-quality="576i",Tele Tchad
+http://176.65.153.84:7013/play/a069/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleGohelle.fr" tvg-name="TeleGohelle" group-title="General" tvg-language="fra" tvg-quality="576i",TeleGohelle
+https://videas.agglo-lenslievin.fr/index.m3u8
+
+#EXTINF:-1 tvg-id="TM1TV.ml" tvg-name="TM1 TV" group-title="General" tvg-language="fra" tvg-quality="360p",TM1 TV
+http://69.64.57.208/tm1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-name="Turkmenistan" group-title="General" tvg-language="ara;cmn;eng;fra;rus;tuk" tvg-quality="406p",Turkmenistan
+https://alpha.tv.online.tm/hls/ch007.m3u8
+
+#EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-name="Turkmenistan" group-title="General" tvg-language="ara;cmn;eng;fra;rus;tuk" tvg-quality="406p",Turkmenistan
+https://alpha.tv.online.tm/legacyhls/ch007.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" tvg-name="TV5Monde France Belgium Switzerland Monaco" group-title="General" tvg-language="fra" tvg-quality="576i",TV5Monde France Belgium Switzerland Monaco
+http://5.78.65.164/TV5Monde/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr" tvg-name="TV5Monde Latin America" group-title="General" tvg-language="fra;spa" tvg-quality="576i",TV5Monde Latin America
+http://45.235.0.78/TV5_Monde/index.m3u8
+
+#EXTINF:-1 tvg-id="TV7Colmar.fr" tvg-name="TV7 Colmar" group-title="General" tvg-language="fra" tvg-quality="576p",TV7 Colmar
+https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ViaOccitanie.fr" tvg-name="ViaOccitanie" group-title="General" tvg-language="fra" tvg-quality="540p",ViaOccitanie
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
+
+#EXTINF:-1 tvg-id="ZitataTV.mq" tvg-name="Zitata TV" group-title="General" tvg-language="fra" tvg-quality="480i",Zitata TV
+https://live.zitata.tv/direct-hls/playlist.m3u8
+

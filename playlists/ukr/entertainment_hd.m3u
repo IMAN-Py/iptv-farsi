@@ -1,0 +1,38 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="4everTheater.ua" tvg-name="4ever Theater" group-title="Entertainment" tvg-language="ukr" tvg-quality="1080p",4ever Theater
+http://stream.mcquack.net/259/index.m3u8
+
+#EXTINF:-1 tvg-id="ICTV.ua" tvg-name="ICTV" group-title="Entertainment" tvg-language="ukr" tvg-quality="1080p",ICTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/158/index.m3u8
+
+#EXTINF:-1 tvg-id="ICTV2.ua" tvg-name="ICTV2" group-title="Entertainment" tvg-language="ukr" tvg-quality="1080p",ICTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/368/index.m3u8
+
+#EXTINF:-1 tvg-id="K1.ua" tvg-name="K1" group-title="Entertainment" tvg-language="ukr" tvg-quality="1080p",K1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/270/index.m3u8
+
+#EXTINF:-1 tvg-id="K2.ua" tvg-name="K2" group-title="Entertainment" tvg-language="ukr" tvg-quality="1080p",K2
+http://stream.mcquack.net/324/index.m3u8
+
+#EXTINF:-1 tvg-id="K2.ua" tvg-name="K2" group-title="Entertainment" tvg-language="ukr" tvg-quality="720p",K2
+https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MasonTV.ua" tvg-name="Mason TV" group-title="Entertainment" tvg-language="ukr" tvg-quality="1080p",Mason TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/346/index.m3u8
+
+#EXTINF:-1 tvg-id="NovyiChannel.ua" tvg-name="Novyi Channel" group-title="Entertainment" tvg-language="rus;ukr" tvg-quality="1080p",Novyi Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/157/index.m3u8
+
+#EXTINF:-1 tvg-id="OTSE.ua" tvg-name="OTSE" group-title="Entertainment" tvg-language="ukr" tvg-quality="1080p",OTSE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/329/index.m3u8
+
+#EXTINF:-1 tvg-id="Zoom.ua" tvg-name="Zoom" group-title="Entertainment" tvg-language="ukr" tvg-quality="1080p",Zoom
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/327/index.m3u8
+

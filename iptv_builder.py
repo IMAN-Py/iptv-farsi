@@ -193,7 +193,12 @@ def collection_outputs(entries, language_names):
         item['hd'] = add(f'{prefix}/hd.m3u', [e for e in selected if e.hd])
         item['sd'] = add(f'{prefix}/sd.m3u', [e for e in selected if not e.hd])
         for category in sorted({c for e in selected for c in e.categories}):
-            item['categories'].append({'id': category, **add(f'{prefix}/{category}.m3u', [e for e in selected if category in e.categories])})
+            matching = [e for e in selected if category in e.categories]
+            item['categories'].append({
+                'id': category, **add(f'{prefix}/{category}.m3u', matching),
+                'hd': add(f'{prefix}/{category}_hd.m3u', [e for e in matching if e.hd]),
+                'sd': add(f'{prefix}/{category}_sd.m3u', [e for e in matching if not e.hd]),
+            })
         index['languages'].append(item)
     for category in sorted({c for e in entries for c in e.categories}):
         index['categories'].append({'id': category, **add(f'categories/{category}.m3u', [e for e in entries if category in e.categories])})

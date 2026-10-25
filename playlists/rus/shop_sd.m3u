@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ShoppingLive.ru" tvg-name="Shopping Live" group-title="Shop" tvg-language="rus" tvg-quality="576p",Shopping Live
+http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Yuvelirochka.ru" tvg-name="Yuvelirochka" group-title="Shop" tvg-language="rus" tvg-quality="576p",Yuvelirochka
+https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+

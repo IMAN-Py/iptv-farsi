@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FlashHaberTV.tr" tvg-name="Flash Haber TV" group-title="News" tvg-language="tur" tvg-quality="576i",Flash Haber TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber" group-title="News" tvg-language="tur" tvg-quality="360p",TGRT Haber
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+

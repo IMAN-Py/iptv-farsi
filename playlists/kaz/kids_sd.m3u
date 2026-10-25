@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Balapan.kz" tvg-name="Balapan" group-title="Kids" tvg-language="kaz" tvg-quality="576p",Balapan
+https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Mult.ru" tvg-name="Mult" group-title="Kids" tvg-language="kaz;rus" tvg-quality="576p",Mult
+http://31.148.48.15/Mult/index.m3u8
+
+#EXTINF:-1 tvg-id="Mult.ru" tvg-name="Mult" group-title="Kids" tvg-language="kaz;rus" tvg-quality="576p",Mult
+http://flussonic.linkintel.ru/Mult/index.m3u8
+
+#EXTINF:-1 tvg-id="Mult.ru" tvg-name="Mult" group-title="Kids" tvg-language="kaz;rus" tvg-quality="576p",Mult
+http://stream.mcquack.net/232/index.m3u8
+
+#EXTINF:-1 tvg-id="Mult.ru" tvg-name="Mult" group-title="Kids" tvg-language="kaz;rus" tvg-quality="576p",Mult
+https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
+

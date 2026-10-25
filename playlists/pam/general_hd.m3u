@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CLTV36.ph" tvg-name="CLTV 36" group-title="General" tvg-language="eng;pam;tgl" tvg-quality="720p",CLTV 36
+https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
+

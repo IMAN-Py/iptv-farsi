@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ORTM1.ml" tvg-name="ORTM 1" group-title="General" tvg-language="bam;fra" tvg-quality="540p",ORTM 1
+http://69.64.57.208/ortm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ORTM1.ml" tvg-name="ORTM 1" group-title="General" tvg-language="bam;fra" tvg-quality="576i",ORTM 1
+https://cs2.push2stream.com/ORTM-DVR/playlist.m3u8
+

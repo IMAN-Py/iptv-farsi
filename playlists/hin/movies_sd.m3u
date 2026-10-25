@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AllTimeMovies.in" tvg-name="All Time Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",All Time Movies
+https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="AllTimeMovies.in" tvg-name="All Time Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",All Time Movies
+https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
+
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" group-title="Movies" tvg-language="hin" tvg-quality="576i",B4U Kadak
+https://cdn.pishow.tv/ott/live/227/master.m3u8
+
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" group-title="Movies" tvg-language="hin" tvg-quality="576p",B4U Kadak
+https://mumt06.tangotv.in/qYyB8fXVB4UKADAK/index.m3u8
+
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" group-title="Movies" tvg-language="hin" tvg-quality="576p",B4U Kadak
+https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" group-title="Movies" tvg-language="hin" tvg-quality="576p",B4U Kadak
+https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8
+
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",B4U Movies
+http://66.102.126.10:8000/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-language="hin" tvg-quality="576i",B4U Movies
+https://cdn.pishow.tv/ott/live/419/master.m3u8
+
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",B4U Movies
+https://mumt06.tangotv.in/qYyB8fXVB4UMOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",B4U Movies
+https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-name="Bollywood Classic" group-title="Classic;Movies" tvg-language="hin;ron" tvg-quality="576p",Bollywood Classic
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-bollywood-classic/live_hq?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-name="Bollywood Classic" group-title="Classic;Movies" tvg-language="hin;ron" tvg-quality="576i",Bollywood Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8
+
+#EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-name="Bollywood Classic" group-title="Classic;Movies" tvg-language="hin;ron" tvg-quality="576p",Bollywood Classic
+https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-name="Bollywood HD" group-title="Movies" tvg-language="hin;rus" tvg-quality="576p",Bollywood HD
+https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
+
+#EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-name="Colors Cineplex" group-title="Movies" tvg-language="hin" tvg-quality="576p",Colors Cineplex
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
+
+#EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines
+https://cdn.pishow.tv/ott/live/1459/master.m3u8
+
+#EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines
+https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
+
+#EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines
+https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines
+https://tvsen3.aynaott.com/VamXuQH8/index.m3u8
+
+#EXTINF:-1 tvg-id="Goldmines2.in" tvg-name="Goldmines 2" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines 2
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8
+
+#EXTINF:-1 tvg-id="GoldminesAction.in" tvg-name="Goldmines Action" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines Action
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
+
+#EXTINF:-1 tvg-id="GoldminesBollywood.in" tvg-name="Goldmines Bollywood" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines Bollywood
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
+
+#EXTINF:-1 tvg-id="GoldminesBollywood.in" tvg-name="Goldmines Bollywood" group-title="Movies" tvg-language="hin" tvg-quality="576i",Goldmines Bollywood
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="GoldminesBollywood.in" tvg-name="Goldmines Bollywood" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines Bollywood
+https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="GoldminesBollywood.in" tvg-name="Goldmines Bollywood" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines Bollywood
+https://tvsen6.aynaott.com/55xNrLdf/index.m3u8
+
+#EXTINF:-1 tvg-id="GoldminesMovies.in" tvg-name="Goldmines Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/51/51_0.m3u8
+
+#EXTINF:-1 tvg-id="GoldminesMovies.in" tvg-name="Goldmines Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines Movies
+https://cdn.pishow.tv/ott/live/1461/master.m3u8
+
+#EXTINF:-1 tvg-id="GoldminesMovies.in" tvg-name="Goldmines Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines Movies
+https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="GoldminesMovies.in" tvg-name="Goldmines Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines Movies
+https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="GoldminesMovies.in" tvg-name="Goldmines Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",Goldmines Movies
+https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8
+
+#EXTINF:-1 tvg-id="IndiaTalkies.in" tvg-name="India Talkies" group-title="Movies" tvg-language="hin" tvg-quality="360p",India Talkies
+https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="MahaMovie.in" tvg-name="Maha Movie" group-title="Movies" tvg-language="hin" tvg-quality="576p",Maha Movie
+https://cdn.pishow.tv/ott/live/10007/master.m3u8
+
+#EXTINF:-1 tvg-id="ManoranjanGrand.in" tvg-name="Manoranjan Grand" group-title="Movies" tvg-language="hin" tvg-quality="576p",Manoranjan Grand
+https://mumt06.tangotv.in/qYyB8fXVMANORANJANGRAND/index.m3u8
+
+#EXTINF:-1 tvg-id="ManoranjanGrand.in" tvg-name="Manoranjan Grand" group-title="Movies" tvg-language="hin" tvg-quality="576p",Manoranjan Grand
+https://streams.tangotv.in/MANORANJANGRAND/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="MHOneMovies.in" tvg-name="MH One Movies" group-title="Movies" tvg-language="hin" tvg-quality="576p",MH One Movies
+https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8
+
+#EXTINF:-1 tvg-id="ShemarooJosh.in" tvg-name="Shemaroo Josh" group-title="Movies" tvg-language="hin" tvg-quality="576p",Shemaroo Josh
+https://cdn.pishow.tv/ott/live/337/master.m3u8
+
+#EXTINF:-1 tvg-id="ShemarooJosh.in" tvg-name="Shemaroo Josh" group-title="Movies" tvg-language="hin" tvg-quality="576p",Shemaroo Josh
+https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
+
+#EXTINF:-1 tvg-id="ShubhCinemaTV.in" tvg-name="Shubh Cinema TV" group-title="Movies" tvg-language="hin" tvg-quality="576p",Shubh Cinema TV
+https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" group-title="Movies" tvg-language="hin" tvg-quality="576p",Zee Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+

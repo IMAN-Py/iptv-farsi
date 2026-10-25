@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GuangxiVarietyTravelChannel.cn" tvg-name="Guangxi Variety & Travel Channel" group-title="General;Travel" tvg-language="zho" tvg-quality="576i",Guangxi Variety & Travel Channel
+http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+

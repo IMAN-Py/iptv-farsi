@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="Cine+ Classic" group-title="Movies" tvg-language="fra" tvg-quality="576i",Cine+ Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147/CineClassic/index.m3u8
+
+#EXTINF:-1 tvg-id="LollywoodHDTV.cd" tvg-name="Lollywood HD TV" group-title="Movies" tvg-language="fra" tvg-quality="576i",Lollywood HD TV
+https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8
+
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Series Films" group-title="Movies" tvg-language="fra" tvg-quality="576i",TF1 Series Films
+http://149.62.177.107:9999/TF1_Series_Films/index.m3u8
+

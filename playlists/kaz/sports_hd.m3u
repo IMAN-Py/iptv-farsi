@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="QazSport.kz" tvg-name="QazSport" group-title="Sports" tvg-language="kaz" tvg-quality="1080p",QazSport
+http://stream.mcquack.net/72/index.m3u8
+
+#EXTINF:-1 tvg-id="SportPlusQazaqstan.kz" tvg-name="Sport+ Qazaqstan" group-title="Sports" tvg-language="kaz" tvg-quality="1080p",Sport+ Qazaqstan
+https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
+

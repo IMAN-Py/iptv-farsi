@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CTSport.cz" tvg-name="CT Sport" group-title="Sports" tvg-language="ces" tvg-quality="720p",CT Sport
+http://88.212.15.17/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport4KCzechia.cz" tvg-name="Eurosport 4K Czechia" group-title="Sports" tvg-language="ces" tvg-quality="2160p",Eurosport 4K Czechia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/esp_4k_atk/playlist.m3u8
+

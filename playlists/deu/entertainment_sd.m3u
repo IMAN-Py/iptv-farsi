@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AnixePlus.de" tvg-name="Anixe +" group-title="Entertainment" tvg-language="deu" tvg-quality="360p",Anixe +
+https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
+
+#EXTINF:-1 tvg-id="AnixeHDSerie.de" tvg-name="Anixe HD Serie" group-title="Entertainment" tvg-language="deu" tvg-quality="360p",Anixe HD Serie
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+
+#EXTINF:-1 tvg-id="kabeleins.de" tvg-name="kabel eins" group-title="Entertainment" tvg-language="deu" tvg-quality="576i",kabel eins
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nitro.de" tvg-name="Nitro" group-title="Entertainment" tvg-language="deu" tvg-quality="576i",Nitro
+https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8
+

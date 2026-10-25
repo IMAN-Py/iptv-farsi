@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BakuTV.az" tvg-name="Baku.TV" group-title="News" tvg-language="aze" tvg-quality="576i",Baku.TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
+
+#EXTINF:-1 tvg-id="KapazTV.az" tvg-name="Kapaz TV" group-title="News" tvg-language="aze" tvg-quality="576i",Kapaz TV
+http://85.132.78.122:8050/hls/stream/index.m3u8
+

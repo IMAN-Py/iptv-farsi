@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="24Kitchen.us" tvg-name="24Kitchen" group-title="Cooking" tvg-language="bul" tvg-quality="1080p",24Kitchen
+http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8
+

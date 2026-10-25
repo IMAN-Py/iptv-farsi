@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AuroraArte.it" tvg-name="Aurora Arte" group-title="Culture" tvg-language="ita" tvg-quality="480p",Aurora Arte
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OrlerTV.it" tvg-name="Orler TV" group-title="Culture" tvg-language="ita" tvg-quality="420p",Orler TV
+https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WeddingTV.it" tvg-name="Wedding TV" group-title="Culture" tvg-language="ita" tvg-quality="576i",Wedding TV
+https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8
+

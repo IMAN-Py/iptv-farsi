@@ -1,0 +1,74 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AT5.nl" tvg-name="AT5" group-title="General" tvg-language="nld" tvg-quality="576i",AT5
+https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+
+#EXTINF:-1 tvg-id="BVN.nl" tvg-name="BVN" group-title="General" tvg-language="nld" tvg-quality="360p",BVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://lb.iptvnetwork.net/ls28/10025/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BVN.nl" tvg-name="BVN" group-title="General" tvg-language="nld" tvg-quality="576p",BVN
+https://tv.ft.md.npox.nl/2D3RhEOhAQWhBE5ucG8tcHJvZC1jYXQtMVhtpQFubnBvLXBsYXllci1hcGkEGmrU6TAHUMoWYxpMO-JwSGbPSI_FUeUZATYBGQE4owChAGVodHRwcwGhAHB0di5mdC5tZC5ucG94Lm5sBaEBeBovTDIvYzA2MjBmYWYvMjdlYTIwODguaXNtbFggydhaqdtF_IHCX4a0VwNuBEfPoPT2H6JQxyZeZQoJUxk/L2/c0620faf/27ea2088.isml/dash.mpd
+
+#EXTINF:-1 tvg-id="DitisHelmond.nl" tvg-name="Dit is Helmond" group-title="General" tvg-language="nld" tvg-quality="480p",Dit is Helmond
+http://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="DitisHelmond.nl" tvg-name="Dit is Helmond" group-title="General" tvg-language="nld" tvg-quality="480p",Dit is Helmond
+https://ms2.mx-cd.net/tv/228-1864150/Omroep_Helmond.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IdeaalTV.nl" tvg-name="Ideaal TV" group-title="General" tvg-language="nld" tvg-quality="480p",Ideaal TV
+https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KempenTV.nl" tvg-name="KempenTV" group-title="General" tvg-language="nld" tvg-quality="480p",KempenTV
+http://ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KempenTV.nl" tvg-name="KempenTV" group-title="General" tvg-language="nld" tvg-quality="480p",KempenTV
+https://ms2.mx-cd.net/tv/242-2079866/Omroep_de_Kempen.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LEOMiddelseTV.nl" tvg-name="LEO Middelse TV" group-title="General" tvg-language="nld" tvg-quality="480p",LEO Middelse TV
+https://ms7.mx-cd.net/tv/238-2061506/Omroep_LEO_TV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LINQTV.nl" tvg-name="LINQ TV" group-title="General" tvg-language="nld" tvg-quality="480p",LINQ TV
+https://ms7.mx-cd.net/dtv-09/246-2090022/Linq_Media_TV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ML5TV.nl" tvg-name="ML5 TV" group-title="General" tvg-language="nld" tvg-quality="480p",ML5 TV
+https://ms2.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ML5TV.nl" tvg-name="ML5 TV" group-title="General" tvg-language="nld" tvg-quality="480p",ML5 TV
+https://ms7.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NosTVBonaire2.bq" tvg-name="NosTV Bonaire 2" group-title="General" tvg-language="nld;pap" tvg-quality="576i",NosTV Bonaire 2
+https://stream2.nostvbonaire.com/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="Notele.be" tvg-name="Notele" group-title="General" tvg-language="nld" tvg-quality="576p",Notele
+https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NPO1.nl" tvg-name="NPO 1" group-title="General" tvg-language="nld" tvg-quality="360p",NPO 1
+https://lb.iptvnetwork.net/ls28/10001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OmroepCentraalTV.nl" tvg-name="Omroep Centraal TV" group-title="General" tvg-language="nld" tvg-quality="480p",Omroep Centraal TV
+https://ms2.mx-cd.net/tv/208-1258878/Omroep_Centraal_GB.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OmroepHoekscheWaard.nl" tvg-name="Omroep Hoeksche Waard" group-title="General" tvg-language="nld" tvg-quality="480p",Omroep Hoeksche Waard
+https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OmroepMeierijstad.nl" tvg-name="Omroep Meierijstad" group-title="General" tvg-language="nld" tvg-quality="480p",Omroep Meierijstad
+https://ms2.mx-cd.net/dtv-09/186-793530/Omroep_Meierij_TV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OmroepOnsWestBrabant.nl" tvg-name="Omroep Ons West Brabant" group-title="General" tvg-language="nld" tvg-quality="480p",Omroep Ons West Brabant
+https://ms2.mx-cd.net/tv/177-710139/Ons_West_Brabant_TV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OmroepTilburg.nl" tvg-name="Omroep Tilburg" group-title="General" tvg-language="nld" tvg-quality="480p",Omroep Tilburg
+https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OmroepTilburg.nl" tvg-name="Omroep Tilburg" group-title="General" tvg-language="nld" tvg-quality="480p",Omroep Tilburg
+https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OPENRotterdamTV.nl" tvg-name="OPEN Rotterdam TV" group-title="General" tvg-language="nld" tvg-quality="480p",OPEN Rotterdam TV
+https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ORTSTV.nl" tvg-name="ORTS TV" group-title="General" tvg-language="nld" tvg-quality="480p",ORTS TV
+https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVDirect13.cw" tvg-name="TV Direct 13" group-title="General" tvg-language="nld;pap" tvg-quality="480p",TV Direct 13
+https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+

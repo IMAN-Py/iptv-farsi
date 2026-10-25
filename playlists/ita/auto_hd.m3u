@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DiscoveryTurbo.it" tvg-name="Discovery Turbo" group-title="Auto" tvg-language="ita" tvg-quality="1080p",Discovery Turbo
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
+

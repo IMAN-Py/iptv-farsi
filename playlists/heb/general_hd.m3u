@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Channel13.il" tvg-name="Channel 13" group-title="General" tvg-language="heb" tvg-quality="1080p",Channel 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/295/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel13.il" tvg-name="Channel 13" group-title="General" tvg-language="heb" tvg-quality="720p",Channel 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel24.il" tvg-name="Channel 24" group-title="General" tvg-language="heb" tvg-quality="1080p",Channel 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/42/index.m3u8
+
+#EXTINF:-1 tvg-id="HOTZone.il" tvg-name="HOT Zone" group-title="General" tvg-language="heb" tvg-quality="1080p",HOT Zone
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/379/index.m3u8
+
+#EXTINF:-1 tvg-id="Kan11.il" tvg-name="Kan 11" group-title="General" tvg-language="heb" tvg-quality="1080p",Kan 11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Keshet12.il" tvg-name="Keshet 12" group-title="General" tvg-language="heb" tvg-quality="1080p",Keshet 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/294/index.m3u8
+
+#EXTINF:-1 tvg-id="Now14.il" tvg-name="Now 14" group-title="General" tvg-language="heb" tvg-quality="1080p",Now 14
+https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VivaPremium.il" tvg-name="Viva Premium" group-title="General" tvg-language="heb" tvg-quality="1080p",Viva Premium
+http://stream.mcquack.net/43/index.m3u8
+

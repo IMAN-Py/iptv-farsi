@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GongyoungHomeShopping.kr" tvg-name="Gongyoung Home Shopping" group-title="Shop" tvg-language="kor" tvg-quality="720p",Gongyoung Home Shopping
+https://etv.publichs.com/live5.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GSMyShop.kr" tvg-name="GS My Shop" group-title="Shop" tvg-language="kor" tvg-quality="1080p",GS My Shop
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HomeShopping.kr" tvg-name="Home & Shopping" group-title="Shop" tvg-language="kor" tvg-quality="720p",Home & Shopping
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HyundaiHomeShopping.kr" tvg-name="Hyundai Home Shopping" group-title="Shop" tvg-language="kor" tvg-quality="720p",Hyundai Home Shopping
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HyundaiHomeShoppingPlusShop.kr" tvg-name="Hyundai Home Shopping + Shop" group-title="Shop" tvg-language="kor" tvg-quality="720p",Hyundai Home Shopping + Shop
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KShopping.kr" tvg-name="K Shopping" group-title="Shop" tvg-language="kor" tvg-quality="1080p",K Shopping
+https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LotteHomeShopping.kr" tvg-name="Lotte Home Shopping" group-title="Shop" tvg-language="kor" tvg-quality="720p",Lotte Home Shopping
+https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+
+#EXTINF:-1 tvg-id="LotteOneTV.kr" tvg-name="Lotte OneTV" group-title="Shop" tvg-language="kor" tvg-quality="720p",Lotte OneTV
+https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+
+#EXTINF:-1 tvg-id="NSHomeShopping.kr" tvg-name="NS Home Shopping" group-title="Shop" tvg-language="kor" tvg-quality="720p",NS Home Shopping
+https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
+
+#EXTINF:-1 tvg-id="NSShopPlus.kr" tvg-name="NS Shop+" group-title="Shop" tvg-language="kor" tvg-quality="720p",NS Shop+
+https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
+
+#EXTINF:-1 tvg-id="ShinsegaeTVShopping.kr" tvg-name="Shinsegae TV Shopping" group-title="Shop" tvg-language="kor" tvg-quality="720p",Shinsegae TV Shopping
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShoppingNT.kr" tvg-name="Shopping NT" group-title="Shop" tvg-language="kor" tvg-quality="720p",Shopping NT
+https://live.shoppingntmall.com/live/10011.m3u8
+
+#EXTINF:-1 tvg-id="WShopping.kr" tvg-name="W Shopping" group-title="Shop" tvg-language="kor" tvg-quality="720p",W Shopping
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+

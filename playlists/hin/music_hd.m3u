@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9X Jalwa" group-title="Music" tvg-language="hin" tvg-quality="1080p",9X Jalwa
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+
+#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" group-title="Music" tvg-language="hin" tvg-quality="1080p",9XM
+https://9xjio.wiseplayout.com/9XM/master.m3u8
+
+#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" group-title="Music" tvg-language="hin" tvg-quality="1080p",9XM
+https://epiconvh.akamaized.net/live/9XM/master.m3u8
+
+#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" group-title="Music" tvg-language="hin" tvg-quality="1080p",9XM
+https://wiselp.wiseplayout.com/9XM/master.m3u8
+
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="1080p",B4U Music
+https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="1080p",B4U Music
+https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="Balle Balle" group-title="Music" tvg-language="hin" tvg-quality="720p",Balle Balle
+https://mcncdndigital.com/balleballetv/index.m3u8
+
+#EXTINF:-1 tvg-id="BoogleBollywood.in" tvg-name="Boogle Bollywood" group-title="Music" tvg-language="hin" tvg-quality="720p",Boogle Bollywood
+https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="EpicMusic.in" tvg-name="Epic Music" group-title="Music" tvg-language="hin" tvg-quality="1080p",Epic Music
+https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HindiHits.in" tvg-name="Hindi Hits" group-title="Music" tvg-language="hin" tvg-quality="720p",Hindi Hits
+https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India" group-title="Music" tvg-language="hin" tvg-quality="720p",Music India
+https://cdn.pishow.tv/ott/live/226/master.m3u8
+
+#EXTINF:-1 tvg-id="NHBollyRaga.in" tvg-name="NH BollyRaga" group-title="Music" tvg-language="hin" tvg-quality="1080p",NH BollyRaga
+https://jmp2.uk/stvp-IN460001373
+
+#EXTINF:-1 tvg-id="ShemarooFilmiGaane.in" tvg-name="Shemaroo Filmi Gaane" group-title="Movies;Music" tvg-language="hin" tvg-quality="1080p",Shemaroo Filmi Gaane
+https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SteelbirdMusic.in" tvg-name="Steelbird Music" group-title="Music" tvg-language="hin" tvg-quality="720p",Steelbird Music
+https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
+
+#EXTINF:-1 tvg-id="YRFMusic.in" tvg-name="YRF Music" group-title="Music" tvg-language="hin" tvg-quality="1080p",YRF Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YRFMusic.in" tvg-name="YRF Music" group-title="Music" tvg-language="hin" tvg-quality="1080p",YRF Music
+https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8
+
+#EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom" group-title="Music" tvg-language="hin" tvg-quality="720p",Zoom
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom" group-title="Music" tvg-language="hin" tvg-quality="720p",Zoom
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+

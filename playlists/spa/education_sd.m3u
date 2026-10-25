@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CampusTV.hn" tvg-name="Campus TV" group-title="Education" tvg-language="spa" tvg-quality="480p",Campus TV
+https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalUniversidad.ar" tvg-name="Canal Universidad" group-title="Education" tvg-language="spa" tvg-quality="576i",Canal Universidad
+https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8
+
+#EXTINF:-1 tvg-id="GVision.cl" tvg-name="GVision" group-title="Education" tvg-language="spa" tvg-quality="288p",GVision
+https://videostream.chileservidores.com:8081/tome/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleUV.mx" tvg-name="Tele UV" group-title="Education" tvg-language="spa" tvg-quality="480i",Tele UV
+https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVUniversidad.ar" tvg-name="TV Universidad" group-title="Education" tvg-language="spa" tvg-quality="576i",TV Universidad
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+
+#EXTINF:-1 tvg-id="UACJTV.mx" tvg-name="UACJ-TV" group-title="Education" tvg-language="spa" tvg-quality="480i",UACJ-TV
+https://5ca3e84a76d30.streamlock.net/uacj/videouacj/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UMAGTV.cl" tvg-name="UMAGTV" group-title="Education" tvg-language="spa" tvg-quality="480i",UMAGTV
+https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
+

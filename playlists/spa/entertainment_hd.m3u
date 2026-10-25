@@ -1,0 +1,609 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="13Realities.cl" tvg-name="13 Realities" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",13 Realities
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+
+#EXTINF:-1 tvg-id="13E.cl" tvg-name="13E" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",13E
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+
+#EXTINF:-1 tvg-id="AELatinAmerica.us" tvg-name="A&E Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",A&E Latin America
+http://138.121.15.230:9002/A&E/index.m3u8
+
+#EXTINF:-1 tvg-id="AELatinAmerica.us" tvg-name="A&E Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",A&E Latin America
+http://190.93.224.42/AYE/index.m3u8
+
+#EXTINF:-1 tvg-id="AbejalesTV.ve" tvg-name="AbejalesTV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",AbejalesTV
+https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AguacateTV.ve" tvg-name="Aguacate TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Aguacate TV
+https://stream.aguacatetv.com:3949/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="AlegreTVRD.do" tvg-name="Alegre TV RD" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Alegre TV RD
+https://streamunoapp.com:3149/live/alegretvlive.m3u8
+
+#EXTINF:-1 tvg-id="AlternaTV.ar" tvg-name="AlternaTV" group-title="Culture;Documentary;Entertainment;General;Movies;Music" tvg-language="spa" tvg-quality="720p",AlternaTV
+https://tv.alterna.ar/stream/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="AMCenEspanol.us" tvg-name="AMC en Espanol" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",AMC en Espanol
+https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTeVe.pr" tvg-name="America TeVe" group-title="Entertainment;General" tvg-language="spa" tvg-quality="1080p",America TeVe
+https://live.gideo.video/americateve2/master.m3u8
+
+#EXTINF:-1 tvg-id="ANCTelevision.co" tvg-name="ANC Television" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",ANC Television
+https://live.amelbatv.co:81/anctvlive/index.m3u8
+
+#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-name="Antares Television" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Antares Television
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Antena21.do" tvg-name="Antena 21" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Antena 21
+https://hls.tvabierta.net/hls/021.m3u8
+
+#EXTINF:-1 tvg-id="AzClic.mx" tvg-name="Az Clic" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Az Clic
+http://38.252.238.18:8000/play/a01g/index.m3u8
+
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-name="Azteca Internacional" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Azteca Internacional
+http://167.249.23.102:8000/play/a0a3/index.m3u8
+
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-name="Azteca Internacional" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+#EXTINF:-1 tvg-id="Bellavision.do" tvg-name="Bellavision" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Bellavision
+https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="bitMe.mx" tvg-name="bitMe" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",bitMe
+https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bitMeLatinAmerica.mx" tvg-name="bitMe Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",bitMe Latin America
+https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BonchesLatinosTV.do" tvg-name="Bonches Latinos TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Bonches Latinos TV
+https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BuenaTV.pr" tvg-name="Buena TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Buena TV
+https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal14Codazzi.co" tvg-name="Canal 14 Codazzi" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Canal 14 Codazzi
+https://eu1.servers10.com:8081/8056/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalChilote.cl" tvg-name="Canal Chilote" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Canal Chilote
+https://videostream.chileservidores.com:8081/chiloe2/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalNets.co" tvg-name="Canal Nets" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Canal Nets
+https://movil.ejeserver.com/live/nets.m3u8
+
+#EXTINF:-1 tvg-id="CanalNets.co" tvg-name="Canal Nets" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Canal Nets
+https://video.ejeserver.com/live/nets.m3u8
+
+#EXTINF:-1 tvg-id="CanalTROPlus.co" tvg-name="Canal TRO +" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Canal TRO +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalWomtv.co" tvg-name="Canal Womtv" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Canal Womtv
+https://live.amelbatv.co:81/womtvlive/index.m3u8
+
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-name="Canela TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Canela TV
+https://d3cx6yargdnl7q.cloudfront.net/canelatv.m3u8
+
+#EXTINF:-1 tvg-id="Capital21.mx" tvg-name="Capital 21" group-title="Culture;Entertainment" tvg-language="spa" tvg-quality="1080p",Capital 21
+https://video.cdmx.gob.mx/redes/stream.m3u8
+
+#EXTINF:-1 tvg-id="CarasTV.ar" tvg-name="Caras TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Caras TV
+https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChileChannel.cl" tvg-name="Chile Channel" group-title="Entertainment;Travel" tvg-language="eng;spa" tvg-quality="720p",Chile Channel
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+
+#EXTINF:-1 tvg-id="CibaenaTV.do" tvg-name="Cibaena TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Cibaena TV
+https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
+
+#EXTINF:-1 tvg-id="CineramaTelevision.bo" tvg-name="Cinerama Television" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Cinerama Television
+https://live.cineramatvbo.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="CiudadesdelOcioTV.es" tvg-name="Ciudades del Ocio TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Ciudades del Ocio TV
+https://cloudvideo.servers10.com:8081/8024/index.m3u8
+
+#EXTINF:-1 tvg-id="ClaroVisionTV.do" tvg-name="Claro Vision TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Claro Vision TV
+https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
+
+#EXTINF:-1 tvg-id="COCOTV.do" tvg-name="COCO TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",COCO TV
+https://edge.essastream.com/canalcocotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="COCOTV.do" tvg-name="COCO TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",COCO TV
+https://mlb.essastream.com:8081/canalcocotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ColosalTV.cr" tvg-name="Colosal TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DelReyTV.py" tvg-name="Del Rey TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Del Rey TV
+#EXTVLCOPT:http-referrer=https://tvonline.com.py/
+https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-name="Discovery Channel Latin America" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="1080p",Discovery Channel Latin America
+http://45.171.64.30:6060/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryWorld.us" tvg-name="Discovery World" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Discovery World
+http://168.196.127.137:6001/play/a097/index.m3u8
+
+#EXTINF:-1 tvg-id="ELatinAmerica.us" tvg-name="E! Latin America" group-title="Entertainment;News" tvg-language="spa" tvg-quality="720p",E! Latin America
+http://72.1.184.5:8089/play/a05d/index.m3u8
+
+#EXTINF:-1 tvg-id="ELatinAmerica.us" tvg-name="E! Latin America" group-title="Entertainment;News" tvg-language="spa" tvg-quality="1080p",E! Latin America
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EDNTV.hn" tvg-name="EDN TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",EDN TV
+https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElCanalFeliz.cl" tvg-name="El Canal Feliz" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",El Canal Feliz
+http://streaming.multicontenidos.cl:8081/live/canalfeliz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EmocionTV.cl" tvg-name="Emocion TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Emocion TV
+https://v1.tustreaming.cl/emociontv/index.m3u8
+
+#EXTINF:-1 tvg-id="ENTChannel.uk" tvg-name="ENT Channel" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",ENT Channel
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-id="ENTFamily.uk" tvg-name="ENT Family" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",ENT Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-id="EstacionLimacheTV.cl" tvg-name="Estacion Limache TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Estacion Limache TV
+https://v4.tustreaming.cl/limachemovil/index.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaGames.us" tvg-name="Estrella Games" group-title="Entertainment;Family" tvg-language="spa" tvg-quality="1080p",Estrella Games
+https://aegis-cloudfront-1.tubi.video/f28725de-4a81-4382-a86d-fac1d93b0d60/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaGames.us" tvg-name="Estrella Games" group-title="Entertainment;Family" tvg-language="spa" tvg-quality="1080p",Estrella Games
+https://amg00567-amg00567c1-firetv-us-4124.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaGames.us" tvg-name="Estrella Games" group-title="Entertainment;Family" tvg-language="spa" tvg-quality="1080p",Estrella Games
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaGames.us" tvg-name="Estrella Games" group-title="Entertainment;Family" tvg-language="spa" tvg-quality="1080p",Estrella Games
+https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaGames.us" tvg-name="Estrella Games" group-title="Entertainment;Family" tvg-language="spa" tvg-quality="1080p",Estrella Games
+https://estrella-games-oando.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Estrella TV
+https://aegis-cloudfront-1.tubi.video/20bf77c0-dc60-46ae-8e87-c01cc7a836fc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Estrella TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-distrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Estrella TV
+https://d1accqs1infy2u.cloudfront.net/EstrellaTV.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Estrella TV
+https://estrellatv-glewed.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Estrella TV
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Estrella TV
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Estrella TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Estrella TV
+https://estrellatv-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name="Estrella TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Estrella TV
+https://jmp2.uk/plu-5cf0622da00ca1e2f6fac712.m3u8
+
+#EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",FX Latin America
+http://15.204.246.24:8080/FXHD/index.m3u8
+
+#EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",FX Latin America
+http://168.196.127.137:6001/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",FX Latin America
+http://190.93.224.42/FX/index.m3u8
+
+#EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",FX Latin America
+http://38.252.238.18:8000/play/a01c/index.m3u8
+
+#EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",FX Latin America
+https://barinaslive1.boldmss.com/FX/FX.isml/FX.m3u8
+
+#EXTINF:-1 tvg-id="GardeniasTV.gt" tvg-name="Gardenias TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Gardenias TV
+https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GexTV.cr" tvg-name="Gex TV" group-title="Entertainment;Music" tvg-language="eng;spa" tvg-quality="1080p",Gex TV
+https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GiTelevision.do" tvg-name="Gi Television" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Gi Television
+https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8
+
+#EXTINF:-1 tvg-id="GikTVMX.mx" tvg-name="GikTVMX" group-title="Animation;Culture;Entertainment" tvg-language="spa" tvg-quality="720p",GikTVMX
+https://pistream.ddns.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="GirasolTV.hn" tvg-name="Girasol TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080i",Girasol TV
+https://s.emisoras.tv:8081/girasoltv/index.m3u8
+
+#EXTINF:-1 tvg-id="GOTV.py" tvg-name="GO TV" group-title="Entertainment;Music" tvg-language="spa" tvg-quality="720p",GO TV
+https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GTV.gt" tvg-name="GTV" group-title="Entertainment" tvg-language="spa" tvg-quality="768p",GTV
+https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8
+
+#EXTINF:-1 tvg-id="GuaroTV.ve" tvg-name="Guaro TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Guaro TV
+https://stream.guarotv.net:3592/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Historia.es" tvg-name="Historia" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Historia
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+
+#EXTINF:-1 tvg-id="Historia.es" tvg-name="Historia" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Historia
+https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8
+
+#EXTINF:-1 tvg-id="HOLAPlay.es" tvg-name="HOLA! Play" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",HOLA! Play
+https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
+
+#EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" tvg-name="Hola! TV Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Hola! TV Latin America
+http://15.204.246.24:8080/HOLATVHD/index.m3u8
+
+#EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" tvg-name="Hola! TV Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Hola! TV Latin America
+http://168.196.127.137:6001/play/a03q/index.m3u8
+
+#EXTINF:-1 tvg-id="HTVLive.do" tvg-name="HTV Live" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",HTV Live
+https://fox.hostlagarto.com:8081/canalhtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="IERTBCSCanal82.mx" tvg-name="IERTBCS Canal 8.2" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",IERTBCS Canal 8.2
+https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InterTV.ve" tvg-name="Inter TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Inter TV
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-name="ITV Deportes" group-title="Entertainment;Sports" tvg-language="spa" tvg-quality="720p",ITV Deportes
+https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
+
+#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-name="ITV Deportes" group-title="Entertainment;Sports" tvg-language="spa" tvg-quality="720p",ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
+#EXTINF:-1 tvg-id="JARABACOATV.do" tvg-name="JARABACOA TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",JARABACOA TV
+https://streaming.jarabacoatv.com/Jarabacoa_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-name="Kanal D Drama" group-title="Entertainment" tvg-language="spa;sqi;tur" tvg-quality="1080p",Kanal D Drama
+http://190.93.224.42/KANAL-D-DRAMA/index.m3u8
+
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-name="Kanal D Drama" group-title="Entertainment" tvg-language="spa;sqi;tur" tvg-quality="1080p",Kanal D Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-name="Kanal D Drama" group-title="Entertainment" tvg-language="spa;sqi;tur" tvg-quality="1080p",Kanal D Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD_principal_SRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-name="Kanal D Drama" group-title="Entertainment" tvg-language="spa;sqi;tur" tvg-quality="1080p",Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KNino.us" tvg-name="KNino" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",KNino
+https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/kninohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-id="KRGVTV52.us" tvg-name="KRGV-TV 5.2" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",KRGV-TV 5.2
+https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaMelinkanaTV.cl" tvg-name="La Melinkana TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",La Melinkana TV
+https://v1.tustreaming.cl/melinkana/index.m3u8
+
+#EXTINF:-1 tvg-id="LaNuestra.cl" tvg-name="La Nuestra" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",La Nuestra
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaNuevaRadioTV977.ec" tvg-name="La Nueva Radio TV 97.7" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",La Nueva Radio TV 97.7
+https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaTele.pe" tvg-name="La Tele" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",La Tele
+http://190.93.224.42/LA-TELE/index.m3u8
+
+#EXTINF:-1 tvg-id="LaTele.pe" tvg-name="La Tele" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",La Tele
+https://cablered.iptvperu.tv:1936/cablered/la_tele.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LAMIL35TV.ar" tvg-name="LAMIL35 TV" group-title="Animation;Classic;Entertainment" tvg-language="spa" tvg-quality="720p",LAMIL35 TV
+#EXTVLCOPT:http-referrer=https://www.lamil35.com.ar/
+https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LATV.us" tvg-name="LATV" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="1080p",LATV
+https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LATV.us" tvg-name="LATV" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="720p",LATV
+https://amg00779-latv-amg00779c1-klowdtv-us-2135.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-klowdtvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us" tvg-name="Lifetime Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Lifetime Latin America
+http://138.121.15.230:9002/LIFETIME/index.m3u8
+
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us" tvg-name="Lifetime Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Lifetime Latin America
+http://187.102.208.209:8000/play/a0ad/index.m3u8
+
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us" tvg-name="Lifetime Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Lifetime Latin America
+https://streaming.onnethn.com/LIFETIME/index.m3u8
+
+#EXTINF:-1 tvg-id="MakroDigitalTelevision.ec" tvg-name="MakroDigital Television" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MakroDigital Television
+http://iptv.makrodigitaltv.makrodigital.com:8081/makrodigitaltelevision/iptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MakroDigitalTelevision.ec" tvg-name="MakroDigital Television" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",MakroDigital Television
+#EXTVLCOPT:http-referrer=https://makrodigitaltelevision.com
+https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MasTalk.ve" tvg-name="Mas Talk" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Mas Talk
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+
+#EXTINF:-1 tvg-id="MaxivisionTV.gt" tvg-name="Maxivision TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Maxivision TV
+https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MaxTV.co" tvg-name="MaxTV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MaxTV
+https://inliveserver.com:1936/8078/8078/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.ar" tvg-name="Metro TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Metro TV
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.hn" tvg-name="Metro TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Metro TV
+https://s.emisoras.tv:8081/metrotv/index.m3u8
+
+#EXTINF:-1 tvg-id="MiTV.py" tvg-name="MiTV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",MiTV
+http://190.128.214.97:64333/play/a02w/index.m3u8
+
+#EXTINF:-1 tvg-id="MiTV.py" tvg-name="MiTV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MiTV
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MovistarPlus.pe" tvg-name="Movistar Plus" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Movistar Plus
+http://200.62.239.170:830/play/a08z/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVCatfish.us" tvg-name="MTV Catfish" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MTV Catfish
+https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8
+
+#EXTINF:-1 tvg-id="MTVConMiEx.us" tvg-name="MTV Con Mi Ex" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MTV Con Mi Ex
+https://jmp2.uk/plu-638693db857364000781b471.m3u8
+
+#EXTINF:-1 tvg-id="MTVDrag.us" tvg-name="MTV Drag" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MTV Drag
+https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8
+
+#EXTINF:-1 tvg-id="MTVEmbarazadaalos16.de" tvg-name="MTV Embarazada a los 16" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MTV Embarazada a los 16
+https://jmp2.uk/plu-5f98537a5a4341000733aefe.m3u8
+
+#EXTINF:-1 tvg-id="MTVGeordies.de" tvg-name="MTV Geordies" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MTV Geordies
+https://jmp2.uk/plu-627d3176d7dfa500077042f1.m3u8
+
+#EXTINF:-1 tvg-id="MTVJerseys.de" tvg-name="MTV Jerseys" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MTV Jerseys
+https://jmp2.uk/plu-62ac3d7dc23b400008ae5b5a.m3u8
+
+#EXTINF:-1 tvg-id="MTVLatinAmerica.us" tvg-name="MTV Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",MTV Latin America
+http://15.204.246.24:8080/MTVHD/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVLatinAmerica.us" tvg-name="MTV Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",MTV Latin America
+https://streaming.onnethn.com/MTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTVOriginals.de" tvg-name="MTV Originals" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MTV Originals
+https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
+
+#EXTINF:-1 tvg-id="MTVPlutoTV.us" tvg-name="MTV Pluto TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MTV Pluto TV
+https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
+
+#EXTINF:-1 tvg-id="MTVReality.us" tvg-name="MTV Reality" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MTV Reality
+https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
+
+#EXTINF:-1 tvg-id="MTVRidiculousness.us" tvg-name="MTV Ridiculousness" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MTV Ridiculousness
+https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
+
+#EXTINF:-1 tvg-id="MTVRocks.us" tvg-name="MTV Rocks" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MTV Rocks
+https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
+
+#EXTINF:-1 tvg-id="MTVVerguenzaajena.de" tvg-name="MTV Verguenza ajena" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MTV Verguenza ajena
+https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8
+
+#EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV2" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="720p",MTV2
+http://198.58.104.90:8989/mtv2/index.m3u8
+
+#EXTINF:-1 tvg-id="NeoTV.pe" tvg-name="Neo TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Neo TV
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/DigitalTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NeoTV.pe" tvg-name="Neo TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Neo TV
+https://live-evg7.tv360.bitel.com.pe/bitel/neotvSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" group-title="Entertainment" tvg-language="eng;jpn;spa" tvg-quality="720p",NHK World Premium
+https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
+
+#EXTINF:-1 tvg-id="NitidaTV.do" tvg-name="Nitida TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Nitida TV
+https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
+
+#EXTINF:-1 tvg-id="OasisTV.py" tvg-name="Oasis TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Oasis TV
+https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
+
+#EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-name="Pasiones Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Pasiones Latin America
+http://15.204.246.24:8080/PasionesHD/index.m3u8
+
+#EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-name="Pasiones Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Pasiones Latin America
+http://190.93.224.42/PASIONES/index.m3u8
+
+#EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-name="Pasiones Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Pasiones Latin America
+http://45.173.231.22:8000/play/a06n/index.m3u8
+
+#EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-name="Pasiones Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Pasiones Latin America
+http://45.224.97.181:9999/Pasiones/index.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAmoryMentiras.us" tvg-name="Pluto TV Amor y Mentiras" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Pluto TV Amor y Mentiras
+https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVGasolina.de" tvg-name="Pluto TV Gasolina" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Pluto TV Gasolina
+https://jmp2.uk/plu-65bd0f53dc10a40008e68b96.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVGoreSlasher.de" tvg-name="Pluto TV Gore & Slasher" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Pluto TV Gore & Slasher
+https://jmp2.uk/plu-66b0dfa1d512590008bfa7fd.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVImpacto.de" tvg-name="Pluto TV Impacto" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Pluto TV Impacto
+https://jmp2.uk/plu-68adc697116b783a33f99e6c.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVReality.us" tvg-name="Pluto TV Reality" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Pluto TV Reality
+https://jmp2.uk/plu-5dcde197f6591d0009839e04.m3u8
+
+#EXTINF:-1 tvg-id="PopuTV.py" tvg-name="Popu TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Popu TV
+http://190.108.83.69:8000/play/a070/index.m3u8
+
+#EXTINF:-1 tvg-id="PopuTV.py" tvg-name="Popu TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Popu TV
+#EXTVLCOPT:http-referrer=https://www.popular.com.py/
+https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
+
+#EXTINF:-1 tvg-id="PowerMaxRadioTV.ar" tvg-name="Power Max Radio TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Power Max Radio TV
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
+
+#EXTINF:-1 tvg-id="PronemsTV.do" tvg-name="Pronems TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Pronems TV
+https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PulaTV.do" tvg-name="Pula TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Pula TV
+https://fox.hostlagarto.com:8081/pulatv/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioCarnavalTV.es" tvg-name="Radio Carnaval TV" group-title="Entertainment;Music" tvg-language="spa" tvg-quality="720p",Radio Carnaval TV
+https://eu1.servers10.com:8081/8116/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioOmegaTV.hn" tvg-name="Radio Omega TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Radio Omega TV
+https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioUniversitariaSanAndres.bo" tvg-name="Radio Universitaria San Andres" group-title="Culture;Education;Entertainment" tvg-language="spa" tvg-quality="720p",Radio Universitaria San Andres
+https://edge.enhdtv.com/8054/index.m3u8
+
+#EXTINF:-1 tvg-id="RakutenViki.us" tvg-name="Rakuten Viki" group-title="Entertainment;Series" tvg-language="spa" tvg-quality="1080p",Rakuten Viki
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-name="RCN Mas" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",RCN Mas
+http://190.128.214.97:64333/play/a04v/index.m3u8
+
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-name="RCN Mas" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",RCN Mas
+http://45.224.96.220:18000/play/a098/index.m3u8
+
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-name="RCN Mas" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",RCN Mas
+http://45.226.205.96:48000/play/a0af/index.m3u8
+
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-name="RCN Mas" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",RCN Mas
+https://jmp2.uk/plu-69de4ad924a6d521f8b0a348.m3u8
+
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-name="RCN Mas" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",RCN Mas
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-name="RCN Mas" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",RCN Mas
+https://rcntv-rcnmas-1-us.roku.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",RCN Novelas
+http://170.238.200.199/rcn-novelas/index.m3u8
+
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",RCN Novelas
+https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",RCN Novelas
+https://stream1.bitred.cl/rcn-novelas/index.m3u8
+
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",RCN Novelas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://streaming.onnethn.com/RCN_NOVELAS/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedPlus.co" tvg-name="Red+" group-title="Entertainment;General;News" tvg-language="spa" tvg-quality="1080p",Red+
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+
+#EXTINF:-1 tvg-id="RevryLatinX.us" tvg-name="Revry LatinX" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="720p",Revry LatinX
+https://linear-142.frequency.stream/dist/24i/142/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RikuTV.pe" tvg-name="Riku TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Riku TV
+https://amixtv.com:8081/rikutv/index.m3u8
+
+#EXTINF:-1 tvg-id="RikuTV.pe" tvg-name="Riku TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Riku TV
+https://live-evg7.tv360.bitel.com.pe/bitel/riku/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RSVHonduras.hn" tvg-name="RSV Honduras" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",RSV Honduras
+https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SASTV.gt" tvg-name="SAS TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",SAS TV
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+
+#EXTINF:-1 tvg-id="SolTV.gq" tvg-name="SolTV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",SolTV
+https://stream.solmediaeg.com/soltv/soltv.m3u8
+
+#EXTINF:-1 tvg-id="StreamForce360.co" tvg-name="StreamForce 360" group-title="Entertainment;General" tvg-language="spa" tvg-quality="1080p",StreamForce 360
+https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
+
+#EXTINF:-1 tvg-id="Super7FM.do" tvg-name="Super7FM" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Super7FM
+https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
+
+#EXTINF:-1 tvg-id="TeleMas.cr" tvg-name="TeleMas" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",TeleMas
+https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Telemax.do" tvg-name="Telemax" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Telemax
+https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoCorpusChristi.us" tvg-name="Telemundo Corpus Christi" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Telemundo Corpus Christi
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+
+#EXTINF:-1 tvg-id="TeleplaySureste.mx" tvg-name="Teleplay Sureste" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Teleplay Sureste
+https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telerayo.hn" tvg-name="Telerayo" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Telerayo
+https://s.emisoras.tv:8081/telerayo/index.m3u8
+
+#EXTINF:-1 tvg-id="TeveColombia.co" tvg-name="TeveColombia" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",TeveColombia
+https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
+
+#EXTINF:-1 tvg-id="TurismoHD.do" tvg-name="Turismo HD" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="720p",Turismo HD
+https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCanalSur.do" tvg-name="TV Canal Sur" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",TV Canal Sur
+https://streamtvs.tvcanalsur.com.do/hls/index_720.m3u8
+
+#EXTINF:-1 tvg-id="TVCentro272HD.hn" tvg-name="TV Centro 27.2 HD" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",TV Centro 27.2 HD
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVKaliente.pe" tvg-name="TV Kaliente" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",TV Kaliente
+https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCARiBLatino.sx" tvg-name="TVCARiB Latino" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",TVCARiB Latino
+https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8
+
+#EXTINF:-1 tvg-id="TVMax.pa" tvg-name="TVMax" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",TVMax
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="UltraCasanareTV.co" tvg-name="Ultra Casanare TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Ultra Casanare TV
+https://eu1.servers10.com:8081/8072/index.m3u8
+
+#EXTINF:-1 tvg-id="Unifranz.bo" tvg-name="Unifranz" group-title="Education;Entertainment;News" tvg-language="spa" tvg-quality="720p",Unifranz
+https://edge.enhdtv.com/8192/index.m3u8
+
+#EXTINF:-1 tvg-id="Unifranz.bo" tvg-name="Unifranz" group-title="Education;Entertainment;News" tvg-language="spa" tvg-quality="720p",Unifranz
+https://live.enhdtv.com:8081/8192/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversTV.es" tvg-name="Univers TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Univers TV
+https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VBMediaTV.mx" tvg-name="VB Media TV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",VB Media TV
+https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
+
+#EXTINF:-1 tvg-id="VePlus.ve" tvg-name="Ve Plus" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Ve Plus
+http://186.148.196.100:8000/play/a01d
+
+#EXTINF:-1 tvg-id="VePlus.ve" tvg-name="Ve Plus" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Ve Plus
+http://190.61.114.186:8000/play/a03i/index.m3u8
+
+#EXTINF:-1 tvg-id="VisionNDV.do" tvg-name="Vision NDV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Vision NDV
+https://soportedvb.click:3891/live/visionndvlive.m3u8
+
+#EXTINF:-1 tvg-id="WEST.pe" tvg-name="WEST" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",WEST
+https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-name="WTV Canal 20" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",WTV Canal 20
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+
+#EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-name="WTV Canal 20" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",WTV Canal 20
+https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XperTV.cr" tvg-name="XperTV" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",XperTV
+http://45.163.139.42:8000/play/a02x/index.m3u8
+
+#EXTINF:-1 tvg-id="Yunavision.do" tvg-name="Yunavision" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Yunavision
+https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="ZAZ.mx" tvg-name="ZAZ" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",ZAZ
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+
+#EXTINF:-1 tvg-id="ZonaPlayTV.cl" tvg-name="Zona Play TV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",Zona Play TV
+https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8
+
+#EXTINF:-1 tvg-id="OPA.cr" tvg-name="¡OPA!" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",¡OPA!
+https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OPA.cr" tvg-name="¡OPA!" group-title="Entertainment" tvg-language="spa" tvg-quality="1080i",¡OPA!
+https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
+

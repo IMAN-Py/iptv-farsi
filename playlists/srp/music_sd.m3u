@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DMSat.rs" tvg-name="DM Sat" group-title="Music" tvg-language="srp" tvg-quality="576i",DM Sat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.40:5000
+
+#EXTINF:-1 tvg-id="DMSat.rs" tvg-name="DM Sat" group-title="Music" tvg-language="srp" tvg-quality="576p",DM Sat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/DMSat/index.m3u8
+
+#EXTINF:-1 tvg-id="RTSMuzika.rs" tvg-name="RTS Muzika" group-title="Music" tvg-language="srp" tvg-quality="576p",RTS Muzika
+https://de1.dstv.cx/RTSMuzika/index.m3u8
+
+#EXTINF:-1 tvg-id="TDIRadioTV.rs" tvg-name="TDI Radio TV" group-title="Music" tvg-language="srp" tvg-quality="576i",TDI Radio TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
+
+#EXTINF:-1 tvg-id="TVDugaPlus.rs" tvg-name="TV Duga+" group-title="Music" tvg-language="srp" tvg-quality="480p",TV Duga+
+http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
+

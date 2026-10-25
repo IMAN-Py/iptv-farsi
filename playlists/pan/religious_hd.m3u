@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AmritGurbani.in" tvg-name="Amrit Gurbani" group-title="Religious" tvg-language="pan" tvg-quality="720p",Amrit Gurbani
+https://samitaorigin.tangotv.in/AMRITGURBANI/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="AnandpurLive.in" tvg-name="Anandpur Live" group-title="Religious" tvg-language="pan" tvg-quality="720p",Anandpur Live
+https://mumt05.tangotv.in/87NeALx2ANANDPURLIVE/index.m3u8
+
+#EXTINF:-1 tvg-id="ChintpurniLive.in" tvg-name="Chintpurni Live" group-title="Religious" tvg-language="pan" tvg-quality="720p",Chintpurni Live
+https://samitaorigin.tangotv.in/CHINTPURNILIVE/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="DivyaBhajan.in" tvg-name="Divya Bhajan" group-title="Religious" tvg-language="pan" tvg-quality="1080p",Divya Bhajan
+https://jmp2.uk/stvp-IN1600002IQ
+
+#EXTINF:-1 tvg-id="DukhnivaranPatialaLive.in" tvg-name="Dukhnivaran Patiala Live" group-title="Religious" tvg-language="pan" tvg-quality="720p",Dukhnivaran Patiala Live
+https://samitaorigin.tangotv.in/DUKHNIWARAN/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="KnockBhakti.in" tvg-name="Knock Bhakti" group-title="Religious" tvg-language="pan" tvg-quality="1080p",Knock Bhakti
+https://knocktv2.wiseplayout.com/Knock_Bhakti_EST/master.m3u8
+
+#EXTINF:-1 tvg-id="NanaksarLive.in" tvg-name="Nanaksar Live" group-title="Religious" tvg-language="pan" tvg-quality="720p",Nanaksar Live
+https://mumt01.tangotv.in/O5aw8Zn3NANAKSARLIVE/index.m3u8
+
+#EXTINF:-1 tvg-id="NanaksarLive.in" tvg-name="Nanaksar Live" group-title="Religious" tvg-language="pan" tvg-quality="720p",Nanaksar Live
+https://samitaorigin.tangotv.in/NANAKSARLIVE/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="Saang.in" tvg-name="Saang" group-title="Religious" tvg-language="pan" tvg-quality="720p",Saang
+https://samitaorigin.tangotv.in/SAANGTV/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="ShreeHazurSahibji.in" tvg-name="Shree Hazur Sahibji" group-title="Religious" tvg-language="pan" tvg-quality="720p",Shree Hazur Sahibji
+https://samitaorigin.tangotv.in/SHREEHAZURSAHIBJI/SAMITAORIGIN/index.m3u8
+

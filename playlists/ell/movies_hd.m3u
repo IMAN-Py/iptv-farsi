@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Action24.gr" tvg-name="Action 24" group-title="Movies" tvg-language="ell" tvg-quality="1080p",Action 24
+http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+

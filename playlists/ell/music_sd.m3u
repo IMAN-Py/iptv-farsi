@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PlayTV.gr" tvg-name="Play TV" group-title="Music" tvg-language="ell" tvg-quality="480p",Play TV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+

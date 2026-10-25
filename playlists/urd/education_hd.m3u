@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PaighanTV.pk" tvg-name="Paighan TV" group-title="Education;Religious" tvg-language="urd" tvg-quality="1080p",Paighan TV
+http://116.90.120.151:8000/play/a00h/index.m3u8
+

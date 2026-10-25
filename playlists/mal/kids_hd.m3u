@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="720p",Cartoon Network
+https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-name="Discovery Kids" group-title="Kids" tvg-language="eng;hin;mal;tam;tel" tvg-quality="720p",Discovery Kids
+https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
+

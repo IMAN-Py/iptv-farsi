@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ETB2On.es" tvg-name="ETB2 On" group-title="Entertainment" tvg-language="eus" tvg-quality="1080p",ETB2 On
+https://cdn1.etbon.eus/etb2on/index.m3u8
+
+#EXTINF:-1 tvg-id="ETB2On.es" tvg-name="ETB2 On" group-title="Entertainment" tvg-language="eus" tvg-quality="1080p",ETB2 On
+https://cdn1.etbon.eus/etb2on/index.mpd
+

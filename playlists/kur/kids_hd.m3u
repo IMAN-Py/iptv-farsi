@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AfarinBaxcha.iq" tvg-name="Afarin Baxcha" group-title="Kids" tvg-language="kur" tvg-quality="1080p",Afarin Baxcha
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AfarinTV.iq" tvg-name="Afarin TV" group-title="Kids" tvg-language="kur" tvg-quality="720p",Afarin TV
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
+

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DiTV.se" tvg-name="Di TV" group-title="News" tvg-language="swe" tvg-quality="1080p",Di TV
+https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ExpressenTV.se" tvg-name="Expressen TV" group-title="News" tvg-language="swe" tvg-quality="1080p",Expressen TV
+https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
+

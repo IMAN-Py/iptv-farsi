@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Futbol.tj" tvg-name="Futbol" group-title="Sports" tvg-language="tgk" tvg-quality="1080p",Futbol
+http://185.121.1.163:8083/FootballHD/index.m3u8
+
+#EXTINF:-1 tvg-id="Futbol.tj" tvg-name="Futbol" group-title="Sports" tvg-language="tgk" tvg-quality="1080p",Futbol
+https://live.teleradiocom.tj/8/3m.m3u8
+

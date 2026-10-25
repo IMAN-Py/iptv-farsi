@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TurkmenOwazy.tm" tvg-name="Turkmen Owazy" group-title="Music" tvg-language="tuk" tvg-quality="406p",Turkmen Owazy
+https://alpha.tv.online.tm/hls/ch005.m3u8
+
+#EXTINF:-1 tvg-id="TurkmenOwazy.tm" tvg-name="Turkmen Owazy" group-title="Music" tvg-language="tuk" tvg-quality="406p",Turkmen Owazy
+https://alpha.tv.online.tm/legacyhls/ch005.m3u8
+

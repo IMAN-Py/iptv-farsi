@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ETVCinema.in" tvg-name="ETV Cinema" group-title="Movies" tvg-language="tel" tvg-quality="1080p",ETV Cinema
+https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVCinema.in" tvg-name="ETV Cinema" group-title="Movies" tvg-language="tel" tvg-quality="1080p",ETV Cinema
+https://mumbai-edge.smartplaytv.in/ETVCINEMA/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" group-title="Movies" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony Pix
+http://103.151.60.162:2122/play/a01d/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="StarMaaMovies.in" tvg-name="Star Maa Movies" group-title="Movies" tvg-language="tel" tvg-quality="720p",Star Maa Movies
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-id="StudioOnePlus.in" tvg-name="Studio One +" group-title="Movies" tvg-language="tel" tvg-quality="720p",Studio One +
+https://cdn.pishow.tv/ott/live/276/master.m3u8
+
+#EXTINF:-1 tvg-id="TollyTV.in" tvg-name="Tolly TV" group-title="Movies" tvg-language="tel" tvg-quality="1080p",Tolly TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
+

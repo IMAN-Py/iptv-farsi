@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BadaKhabar.in" tvg-name="Bada Khabar" group-title="News" tvg-language="ori" tvg-quality="576p",Bada Khabar
+https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8
+
+#EXTINF:-1 tvg-id="KalingaTV.in" tvg-name="Kalinga TV" group-title="News" tvg-language="ori" tvg-quality="576i",Kalinga TV
+https://cdn.pishow.tv/ott/live/1470/master.m3u8
+
+#EXTINF:-1 tvg-id="KalingaTV.in" tvg-name="Kalinga TV" group-title="News" tvg-language="ori" tvg-quality="576p",Kalinga TV
+https://mumbai-edge.smartplaytv.in/kalingatv/index.m3u8
+
+#EXTINF:-1 tvg-id="KalingaTV.in" tvg-name="Kalinga TV" group-title="News" tvg-language="ori" tvg-quality="576p",Kalinga TV
+https://mumt01.tangotv.in/O5aw8Zn3KALINGATV/index.m3u8
+
+#EXTINF:-1 tvg-id="KanakNews.in" tvg-name="Kanak News" group-title="News" tvg-language="ori" tvg-quality="576p",Kanak News
+https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8
+
+#EXTINF:-1 tvg-id="PrameyaNews7.in" tvg-name="Prameya News7" group-title="News" tvg-language="ori" tvg-quality="576p",Prameya News7
+https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8
+

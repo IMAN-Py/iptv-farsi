@@ -1,0 +1,88 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlrightTV.in" tvg-name="Alright! TV" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Alright! TV
+https://d3c7vdfq3tyeyw.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/rusk_media/v1/channel/ruskmedia/germane.m3u8
+
+#EXTINF:-1 tvg-id="AnjanTV.in" tvg-name="Anjan TV" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Anjan TV
+https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnmolTV.in" tvg-name="Anmol TV" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Anmol TV
+https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="ApnaPunjabTV.ca" tvg-name="Apna Punjab TV" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Apna Punjab TV
+https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Colors
+http://103.135.253.32:8080/Color-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Colors
+http://103.151.60.162:2122/play/a02q/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="ColorsMENA.in" tvg-name="Colors MENA" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Colors MENA
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dangal2.in" tvg-name="Dangal 2" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Dangal 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",DD National
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+
+#EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",DD National
+https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="720p",Discovery Channel
+https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="720p",Discovery Channel
+https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="EpicBharat.in" tvg-name="Epic Bharat" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Epic Bharat
+https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
+
+#EXTINF:-1 tvg-id="EpicBharat.in" tvg-name="Epic Bharat" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Epic Bharat
+https://epiconvh.akamaized.net/live/nazara/master.m3u8
+
+#EXTINF:-1 tvg-id="EpicTV.in" tvg-name="Epic TV" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Epic TV
+https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
+
+#EXTINF:-1 tvg-id="GangaurTV.in" tvg-name="Gangaur TV" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Gangaur TV
+https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
+
+#EXTINF:-1 tvg-id="ManoranjanTV.in" tvg-name="Manoranjan TV" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Manoranjan TV
+https://cdn.pishow.tv/ott/live/1013/master.m3u8
+
+#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-name="Shemaroo TV" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Shemaroo TV
+https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-name="Shemaroo TV" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Shemaroo TV
+https://cdn.pishow.tv/ott/live/230/master.m3u8
+
+#EXTINF:-1 tvg-id="ShemarooUmang.in" tvg-name="Shemaroo Umang" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Shemaroo Umang
+https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-name="Sony Entertainment Television" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Sony Entertainment Television
+http://38.96.178.205/SONYHD/index.m3u8
+
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-name="Sony SAB" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Sony SAB
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="StarPlus" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",StarPlus
+http://103.185.24.134:3001/Star-Plus/index.m3u8
+
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="StarPlus" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",StarPlus
+http://41.205.93.154/STAR-PLUS/index.m3u8
+
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="StarPlus" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",StarPlus
+http://66.102.126.10:8000/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeDilSe.in" tvg-name="Zee Dil Se" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Zee Dil Se
+https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZeeHorrorNights.in" tvg-name="Zee Horror Nights" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Zee Horror Nights
+https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Zee TV
+http://41.205.93.154/ZEE-TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Zingabad.in" tvg-name="Zingabad" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Zingabad
+https://stream.ottlive.co.in/zingabad/index.m3u8
+

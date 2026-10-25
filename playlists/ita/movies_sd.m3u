@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34" group-title="Movies" tvg-language="ita" tvg-quality="576i",Cine34
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
+

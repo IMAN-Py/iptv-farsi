@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CanalDiplomatico.ve" tvg-name="Canal Diplomatico" group-title="Culture" tvg-language="spa" tvg-quality="480i",Canal Diplomatico
+https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
+
+#EXTINF:-1 tvg-id="CostaRicaChannel.cr" tvg-name="Costa Rica Channel" group-title="Culture;Travel" tvg-language="spa" tvg-quality="576p",Costa Rica Channel
+https://video0.rogohosting.com:19360/8006/8006.m3u8
+
+#EXTINF:-1 tvg-id="Cultura24.pe" tvg-name="Cultura 24" group-title="Culture" tvg-language="spa" tvg-quality="480i",Cultura 24
+https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
+
+#EXTINF:-1 tvg-id="CulturaOnline.cl" tvg-name="Cultura Online" group-title="Culture" tvg-language="spa" tvg-quality="480i",Cultura Online
+https://streaming.bitsur.cl:3399/live/vdo532live.m3u8
+
+#EXTINF:-1 tvg-id="DiasporaTV.pe" tvg-name="Diaspora TV" group-title="Culture" tvg-language="spa" tvg-quality="480i",Diaspora TV
+https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8
+
+#EXTINF:-1 tvg-id="Manavision.ec" tvg-name="Manavision" group-title="Culture" tvg-language="spa" tvg-quality="480p",Manavision
+https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
+
+#EXTINF:-1 tvg-id="OndambientalTV.co" tvg-name="Ondambiental TV" group-title="Culture;Music" tvg-language="spa" tvg-quality="360p",Ondambiental TV
+https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SenalU.ar" tvg-name="Senal U" group-title="Culture" tvg-language="spa" tvg-quality="576i",Senal U
+https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
+
+#EXTINF:-1 tvg-id="SomosEntreRios.ar" tvg-name="Somos Entre Rios" group-title="Culture;Family;General" tvg-language="spa" tvg-quality="360p",Somos Entre Rios
+https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleAmiga.co" tvg-name="Tele Amiga" group-title="Culture" tvg-language="spa" tvg-quality="480p",Tele Amiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USMPTV.pe" tvg-name="USMPTV" group-title="Culture" tvg-language="spa" tvg-quality="480i",USMPTV
+#EXTVLCOPT:http-referrer=https://usmptv.pe/
+https://streamusmptv.ddns.net/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="VersoTV.cl" tvg-name="Verso TV" group-title="Culture" tvg-language="spa" tvg-quality="576i",Verso TV
+https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
+

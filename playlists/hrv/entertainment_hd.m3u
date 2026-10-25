@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVNova.hr" tvg-name="TV Nova" group-title="Entertainment" tvg-language="hrv" tvg-quality="720p",TV Nova
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+

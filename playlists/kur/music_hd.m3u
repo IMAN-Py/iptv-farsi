@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MedMuzik.tr" tvg-name="Med Muzik" group-title="Music" tvg-language="kur" tvg-quality="1080p",Med Muzik
+http://54.36.110.140/live3/live3.m3u8
+

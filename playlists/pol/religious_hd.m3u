@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EWTNPoland.pl" tvg-name="EWTN Poland" group-title="Religious" tvg-language="pol" tvg-quality="1080p",EWTN Poland
+https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
+

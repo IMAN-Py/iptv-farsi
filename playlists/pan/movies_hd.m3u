@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MoviePunjab.in" tvg-name="Movie Punjab" group-title="Movies" tvg-language="pan" tvg-quality="720p",Movie Punjab
+https://mumt01.tangotv.in/O5aw8Zn3MOVIEPUNJAB/index.m3u8
+
+#EXTINF:-1 tvg-id="MoviePunjab.in" tvg-name="Movie Punjab" group-title="Movies" tvg-language="pan" tvg-quality="720p",Movie Punjab
+https://samitaorigin.tangotv.in/MOVIEPUNJAB/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" group-title="Movies" tvg-language="pan" tvg-quality="720p",Pitaara
+https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PunjabiShorts.in" tvg-name="Punjabi Shorts" group-title="Movies" tvg-language="pan" tvg-quality="1080p",Punjabi Shorts
+https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
+

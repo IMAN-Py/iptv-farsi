@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BATVEducationalChannel.us" tvg-name="BATV Educational Channel" group-title="Education" tvg-language="eng" tvg-quality="480i",BATV Educational Channel
+https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Create.us" tvg-name="Create" group-title="Education" tvg-language="eng" tvg-quality="480i",Create
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CVCEducation.us" tvg-name="CVC Education" group-title="Education" tvg-language="eng" tvg-quality="480p",CVC Education
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8
+
+#EXTINF:-1 tvg-id="DetroitChannel22.us" tvg-name="Detroit Channel 22" group-title="Education" tvg-language="eng" tvg-quality="480i",Detroit Channel 22
+https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8
+
+#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-name="EBS English" group-title="Education" tvg-language="eng;kor" tvg-quality="400p",EBS English
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-name="EBS Plus 2" group-title="Education" tvg-language="eng;kor" tvg-quality="400p",EBS Plus 2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EnglishClubTV.uk" tvg-name="English Club TV" group-title="Education" tvg-language="eng" tvg-quality="576i",English Club TV
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EnglishClubTV.uk" tvg-name="English Club TV" group-title="Education" tvg-language="eng" tvg-quality="576i",English Club TV
+https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="GillettePublicAccessTelevisionChannel189.us" tvg-name="Gillette Public Access Television Channel 189" group-title="Education" tvg-language="eng" tvg-quality="480i",Gillette Public Access Television Channel 189
+https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8
+
+#EXTINF:-1 tvg-id="HCTVEducationalAccessChannel.us" tvg-name="HCTV Educational Access Channel" group-title="Education" tvg-language="eng" tvg-quality="480i",HCTV Educational Access Channel
+https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="MCPSSTV.us" tvg-name="MCPSS TV" group-title="Education" tvg-language="eng" tvg-quality="480i",MCPSS TV
+https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MonroeCommunityMediaEducationChannel.us" tvg-name="Monroe Community Media Education Channel" group-title="Education" tvg-language="eng" tvg-quality="480i",Monroe Community Media Education Channel
+https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
+
+#EXTINF:-1 tvg-id="NCMEducationalKidsChannel.us" tvg-name="NCM Educational & Kids Channel" group-title="Education;Kids" tvg-language="eng" tvg-quality="480i",NCM Educational & Kids Channel
+https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
+
+#EXTINF:-1 tvg-id="RedApple21.us" tvg-name="Red Apple 21" group-title="Education" tvg-language="eng" tvg-quality="480p",Red Apple 21
+https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StLuciePublicSchools.us" tvg-name="St Lucie Public Schools" group-title="Education" tvg-language="eng" tvg-quality="480i",St Lucie Public Schools
+https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8
+
+#EXTINF:-1 tvg-id="VyasChannel.in" tvg-name="Vyas Channel" group-title="Education" tvg-language="eng" tvg-quality="576p",Vyas Channel
+https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
+
+#EXTINF:-1 tvg-id="WPSTV.us" tvg-name="WPS-TV" group-title="Education" tvg-language="eng" tvg-quality="360p",WPS-TV
+https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
+

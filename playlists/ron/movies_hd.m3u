@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CinemaratonPlus.ro" tvg-name="Cinemaraton Plus" group-title="Movies" tvg-language="ron" tvg-quality="1080i",Cinemaraton Plus
+https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="FilmNow.ro" tvg-name="Film Now" group-title="Movies" tvg-language="ron" tvg-quality="1080i",Film Now
+https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HalloweenNonStop.ro" tvg-name="Halloween Non Stop" group-title="Movies" tvg-language="ron" tvg-quality="720p",Halloween Non Stop
+https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8
+
+#EXTINF:-1 tvg-id="NostalgiaTV.ro" tvg-name="Nostalgia TV" group-title="Movies" tvg-language="ron" tvg-quality="1080p",Nostalgia TV
+https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="ProCinema.ro" tvg-name="Pro Cinema" group-title="Movies" tvg-language="ron" tvg-quality="1080p",Pro Cinema
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0
+

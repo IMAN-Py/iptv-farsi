@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AratuOn.br" tvg-name="Aratu On" group-title="News" tvg-language="por" tvg-quality="480i",Aratu On
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BR8TV.br" tvg-name="BR8 TV" group-title="News" tvg-language="por" tvg-quality="480i",BR8 TV
+https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br" tvg-name="Canal Metropolitano de Noticias" group-title="News" tvg-language="por" tvg-quality="480i",Canal Metropolitano de Noticias
+https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" group-title="News" tvg-language="por" tvg-quality="576i",CNN Portugal
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
+
+#EXTINF:-1 tvg-id="J3NEWSTV.br" tvg-name="J3NEWS TV" group-title="News" tvg-language="por" tvg-quality="480i",J3NEWS TV
+https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" group-title="News" tvg-language="por" tvg-quality="480i",Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+
+#EXTINF:-1 tvg-id="RTPNoticias.pt" tvg-name="RTP Noticias" group-title="News" tvg-language="por" tvg-quality="504p",RTP Noticias
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+

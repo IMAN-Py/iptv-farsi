@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBSTV.ug" tvg-name="BBS TV" group-title="General" tvg-language="lug" tvg-quality="576i",BBS TV
+https://bbstv.ug/hls/ch01/index.m3u8
+
+#EXTINF:-1 tvg-id="BTMTV.ug" tvg-name="BTM TV" group-title="General" tvg-language="eng;lug" tvg-quality="480p",BTM TV
+https://btmug.zerocdn.org/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="BukeddeTV1.ug" tvg-name="Bukedde TV 1" group-title="General" tvg-language="lug" tvg-quality="576p",Bukedde TV 1
+https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8
+
+#EXTINF:-1 tvg-id="KRCTV.ug" tvg-name="KRC TV" group-title="General" tvg-language="eng;lug" tvg-quality="576i",KRC TV
+https://channels.ad-ug.com/live/ch03/index.m3u8
+

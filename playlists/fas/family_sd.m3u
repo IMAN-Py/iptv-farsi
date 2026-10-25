@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AVAFamily.ir" tvg-name="AVA Family" group-title="Family" tvg-language="fas" tvg-quality="576i",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+

@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" group-title="Entertainment" tvg-language="por" tvg-quality="576p",AXN White
+http://188.115.15.121:8000/play/a01u
+
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" group-title="Entertainment" tvg-language="por" tvg-quality="480p",AXN White
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://50.7.120.34:8080/AXN_WHITE/index.m3u8
+
+#EXTINF:-1 tvg-id="Blitstv.br" tvg-name="Blitstv" group-title="Entertainment" tvg-language="por" tvg-quality="480i",Blitstv
+https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChromaTV.br" tvg-name="Chroma TV" group-title="Entertainment" tvg-language="por" tvg-quality="480p",Chroma TV
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElementalChannel.br" tvg-name="Elemental Channel" group-title="Entertainment" tvg-language="por" tvg-quality="480i",Elemental Channel
+https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElyTV.br" tvg-name="ElyTV" group-title="Entertainment" tvg-language="por" tvg-quality="360p",ElyTV
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PetloversTV.br" tvg-name="Petlovers TV" group-title="Entertainment" tvg-language="por" tvg-quality="576i",Petlovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel" group-title="Entertainment" tvg-language="por" tvg-quality="576i",Star Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://znty.dyndns.org:5010/hls/fox.m3u8
+
+#EXTINF:-1 tvg-id="TVCuruca.br" tvg-name="TV Curuca" group-title="Entertainment" tvg-language="por" tvg-quality="360p",TV Curuca
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVDigitalBirigui.br" tvg-name="TV Digital Birigui" group-title="Entertainment" tvg-language="por" tvg-quality="640p",TV Digital Birigui
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVVicosa.br" tvg-name="TV Vicosa" group-title="Entertainment" tvg-language="por" tvg-quality="480p",TV Vicosa
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPlusPet.br" tvg-name="TV+Pet" group-title="Entertainment" tvg-language="por" tvg-quality="576i",TV+Pet
+https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+

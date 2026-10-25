@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HodHodFarsiTV.ir" tvg-name="HodHod Farsi TV" group-title="Kids" tvg-language="fas" tvg-quality="1080p",HodHod Farsi TV
+https://northtelecom.b-cdn.net/hodhodtv.m3u8
+
+#EXTINF:-1 tvg-id="PersianaTeen.fr" tvg-name="Persiana Teen" group-title="Kids" tvg-language="fas" tvg-quality="720p",Persiana Teen
+https://kphls.persiana.live/hls/stream.m3u8
+

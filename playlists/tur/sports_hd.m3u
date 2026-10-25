@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor" group-title="Sports" tvg-language="tur" tvg-quality="1080p",A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+#EXTINF:-1 tvg-id="HTSporTV.tr" tvg-name="HTSpor TV" group-title="Sports" tvg-language="tur" tvg-quality="1080p",HTSpor TV
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+
+#EXTINF:-1 tvg-id="SSport.tr" tvg-name="S Sport" group-title="Sports" tvg-language="eng;tur" tvg-quality="720p",S Sport
+https://corestream.siteyaptim.live/s-sport/index.m3u8
+
+#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport 2" group-title="Sports" tvg-language="eng;tur" tvg-quality="720p",S Sport 2
+https://corestream.siteyaptim.live/s-sport2/index.m3u8
+
+#EXTINF:-1 tvg-id="TJKTV.tr" tvg-name="TJK TV" group-title="Sports" tvg-language="tur" tvg-quality="1080p",TJK TV
+https://tjktv-live.tjk.org/tjktv.m3u8
+
+#EXTINF:-1 tvg-id="TJKTV2.tr" tvg-name="TJK TV 2" group-title="Sports" tvg-language="tur" tvg-quality="1080p",TJK TV 2
+https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
+
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor" group-title="Sports" tvg-language="tur" tvg-quality="720p",TRT Spor
+https://corestream.siteyaptim.live/trt-spor/index.m3u8
+
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-name="TRT Spor Yildiz" group-title="Sports" tvg-language="tur" tvg-quality="1440p",TRT Spor Yildiz
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
+

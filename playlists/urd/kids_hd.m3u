@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KidsZone.pk" tvg-name="Kids Zone" group-title="Kids" tvg-language="eng;urd" tvg-quality="720p",Kids Zone
+http://103.250.28.74:8000/play/a04m/index.m3u8
+

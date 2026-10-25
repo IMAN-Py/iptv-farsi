@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KantipurMax.np" tvg-name="Kantipur Max" group-title="Movies" tvg-language="nep" tvg-quality="576i",Kantipur Max
+https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
+

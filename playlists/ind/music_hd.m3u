@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV15.cn" tvg-name="CCTV-15" group-title="Music" tvg-language="ind;zho" tvg-quality="720p",CCTV-15
+http://74.91.26.218:82/live/cctv15hd.m3u8
+
+#EXTINF:-1 tvg-id="MusicInformationChannel.id" tvg-name="Music Information Channel" group-title="Music" tvg-language="ind" tvg-quality="720p",Music Information Channel
+#EXTVLCOPT:http-referrer=https://mic-indo.com/live
+https://mic.siar.us/mic/live/mic.m3u8
+
+#EXTINF:-1 tvg-id="OnlineTVNusantara.id" tvg-name="Online TV Nusantara" group-title="Culture;General;Music;News" tvg-language="ind" tvg-quality="720p",Online TV Nusantara
+https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8
+

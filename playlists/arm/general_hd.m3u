@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Armenia1.am" tvg-name="Armenia 1" group-title="General" tvg-language="arm" tvg-quality="1080p",Armenia 1
+https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
+
+#EXTINF:-1 tvg-id="Armenia1.am" tvg-name="Armenia 1" group-title="General" tvg-language="arm" tvg-quality="1080p",Armenia 1
+https://amtvusdvr.tulix.tv/am4abr/index.m3u8
+

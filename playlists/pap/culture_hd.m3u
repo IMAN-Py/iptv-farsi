@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Bonairetv.bq" tvg-name="Bonaire.tv" group-title="Culture" tvg-language="nld;pap" tvg-quality="1080p",Bonaire.tv
+https://media.streambrothers.com:1936/8506/8506/playlist.m3u8
+

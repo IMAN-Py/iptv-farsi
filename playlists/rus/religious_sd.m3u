@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3ABNRussia.ru" tvg-name="3ABN Russia" group-title="Religious" tvg-language="rus" tvg-quality="576i",3ABN Russia
+https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LifeTV.ee" tvg-name="Life TV" group-title="Religious" tvg-language="rus" tvg-quality="432p",Life TV
+http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
+
+#EXTINF:-1 tvg-id="LifeTV.ee" tvg-name="Life TV" group-title="Religious" tvg-language="rus" tvg-quality="432p",Life TV
+https://lifetv.bitflip.ee/live/stream1.m3u8
+
+#EXTINF:-1 tvg-id="MuzSoyuz.ru" tvg-name="Muz Soyuz" group-title="Music;Religious" tvg-language="rus" tvg-quality="576p",Muz Soyuz
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Soyuz.ru" tvg-name="Soyuz" group-title="Religious" tvg-language="rus" tvg-quality="576p",Soyuz
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spas.ru" tvg-name="Spas" group-title="Religious" tvg-language="rus" tvg-quality="576p",Spas
+http://31.148.5.241/kanal_12/index.m3u8
+
+#EXTINF:-1 tvg-id="Spas.ru" tvg-name="Spas" group-title="Religious" tvg-language="rus" tvg-quality="576p",Spas
+https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spas.ru" tvg-name="Spas" group-title="Religious" tvg-language="rus" tvg-quality="450p",Spas
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+
+#EXTINF:-1 tvg-id="Vera24.ru" tvg-name="Vera 24" group-title="Religious" tvg-language="rus" tvg-quality="576i",Vera 24
+https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
+

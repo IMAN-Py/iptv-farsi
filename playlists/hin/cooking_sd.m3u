@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" group-title="Cooking;Lifestyle" tvg-language="hin" tvg-quality="576p",Food Food
+https://cdn.pishow.tv/ott/live/267/master.m3u8
+
+#EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" group-title="Cooking;Lifestyle" tvg-language="hin" tvg-quality="576p",Food Food
+https://mumbai-edge.smartplaytv.in/FoodFood/index.m3u8
+
+#EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" group-title="Cooking;Lifestyle" tvg-language="hin" tvg-quality="576p",Food Food
+https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
+

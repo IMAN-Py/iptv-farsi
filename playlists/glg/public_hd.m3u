@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-name="Galicia TV Europa" group-title="General;Public" tvg-language="glg" tvg-quality="720p",Galicia TV Europa
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+

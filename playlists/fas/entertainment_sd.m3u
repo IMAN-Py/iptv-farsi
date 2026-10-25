@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="247BoxTV.ir" tvg-name="247 Box TV" group-title="Entertainment" tvg-language="fas" tvg-quality="576i",247 Box TV
+https://hls.247box.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="FX1.ir" tvg-name="FX 1" group-title="Entertainment" tvg-language="fas" tvg-quality="576i",FX 1
+https://fxtvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="FX2.ir" tvg-name="FX 2" group-title="Entertainment" tvg-language="fas" tvg-quality="576i",FX 2
+https://toonixhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="GEMEntertainment.tr" tvg-name="GEM Entertainment" group-title="Entertainment" tvg-language="fas" tvg-quality="576i",GEM Entertainment
+https://ca-rt.onetv.app/gementertainment/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="GEMRiver.tr" tvg-name="GEM River" group-title="Entertainment" tvg-language="fas" tvg-quality="576i",GEM River
+https://ca-rt.onetv.app/gemriver/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="GEMRiverPlus.tr" tvg-name="GEM River +" group-title="Entertainment" tvg-language="fas" tvg-quality="576i",GEM River +
+https://ca-rt.onetv.app/gemriverplus/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="Manoto.uk" tvg-name="Manoto" group-title="Entertainment" tvg-language="fas" tvg-quality="576i",Manoto
+https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="NamayeshTV.ir" tvg-name="Namayesh TV" group-title="Entertainment" tvg-language="fas" tvg-quality="576i",Namayesh TV
+https://ncdn.telewebion.ir/namayesh/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nasim.ir" tvg-name="Nasim" group-title="Entertainment" tvg-language="fas" tvg-quality="576i",Nasim
+https://ncdn.telewebion.ir/nasim/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OXIRTV.ir" tvg-name="OXIR TV" group-title="Entertainment" tvg-language="fas" tvg-quality="576i",OXIR TV
+https://hls.oxir.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Shabakeh7.us" tvg-name="Shabakeh 7" group-title="Entertainment" tvg-language="fas" tvg-quality="480i",Shabakeh 7
+https://sh7hls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TVITN.ir" tvg-name="TV ITN" group-title="Entertainment" tvg-language="fas" tvg-quality="576i",TV ITN
+https://itnhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="YourTimeTV.ir" tvg-name="YourTime TV" group-title="Entertainment" tvg-language="fas" tvg-quality="576i",YourTime TV
+https://hls.yourtime.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="YourTimeTV.ir" tvg-name="YourTime TV" group-title="Entertainment" tvg-language="fas" tvg-quality="576i",YourTime TV
+https://live.yourtime.tv/hls/stream.m3u8
+

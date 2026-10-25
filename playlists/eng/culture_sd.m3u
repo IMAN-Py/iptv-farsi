@@ -1,0 +1,44 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" group-title="Culture;Documentary" tvg-language="eng" tvg-quality="576i",BBC Four
+https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" group-title="Culture;Documentary" tvg-language="eng" tvg-quality="576i",BBC Four
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-id="ChannelS.bd" tvg-name="Channel S" group-title="Culture" tvg-language="ben;eng" tvg-quality="576i",Channel S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChannelS.uk" tvg-name="Channel S" group-title="Culture" tvg-language="ben;eng" tvg-quality="576p",Channel S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DDMizoram.in" tvg-name="DD Mizoram" group-title="Culture;News" tvg-language="eng;lus" tvg-quality="504p",DD Mizoram
+https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
+
+#EXTINF:-1 tvg-id="FlowersTVUSA.us" tvg-name="Flowers TV USA" group-title="Culture" tvg-language="eng;mal" tvg-quality="480i",Flowers TV USA
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FNX.us" tvg-name="FNX" group-title="Culture" tvg-language="eng" tvg-quality="480i",FNX
+#EXTVLCOPT:http-referrer=https://fnx.org/
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
+
+#EXTINF:-1 tvg-id="JTBSClassic.in" tvg-name="JTBS Classic" group-title="Culture;Religious" tvg-language="ben;eng" tvg-quality="480p",JTBS Classic
+https://jtbsclassic.dpdns.org/live.m3u8
+
+#EXTINF:-1 tvg-id="KIIOLD104.us" tvg-name="KIIO-LD 10.4" group-title="Culture" tvg-language="eng;hye" tvg-quality="480p",KIIO-LD 10.4
+https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
+
+#EXTINF:-1 tvg-id="MehranTV.pk" tvg-name="Mehran TV" group-title="Culture" tvg-language="eng" tvg-quality="576p",Mehran TV
+http://103.250.28.74:8000/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-name="Montreal Greek TV" group-title="Culture" tvg-language="ell;eng;fra" tvg-quality="480p",Montreal Greek TV
+http://live.greektv.ca/hls1/greektv.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" group-title="Culture;News" tvg-language="eng;jpn" tvg-quality="576p",NHK World-Japan
+https://mumt07.tangotv.in/zHjX9OFlNHKWORLD/index.m3u8
+
+#EXTINF:-1 tvg-id="NTAInternational.ng" tvg-name="NTA International" group-title="Culture" tvg-language="eng" tvg-quality="576p",NTA International
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperscreenTV.ng" tvg-name="Superscreen TV" group-title="Culture;Family" tvg-language="eng" tvg-quality="412p",Superscreen TV
+https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
+

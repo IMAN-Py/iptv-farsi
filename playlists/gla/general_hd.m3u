@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBCScotland.uk" tvg-name="BBC Scotland" group-title="General" tvg-language="eng;gla" tvg-quality="720p",BBC Scotland
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd
+

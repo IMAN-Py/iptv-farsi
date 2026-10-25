@@ -1,0 +1,64 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AntenneKaernten.at" tvg-name="Antenne Kaernten" group-title="Music" tvg-language="deu" tvg-quality="720p",Antenne Kaernten
+https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntenneSteiermark.at" tvg-name="Antenne Steiermark" group-title="Music" tvg-language="deu" tvg-quality="720p",Antenne Steiermark
+https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntenneVorarlberg.at" tvg-name="Antenne Vorarlberg" group-title="Music" tvg-language="deu" tvg-quality="720p",Antenne Vorarlberg
+https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntenneVorarlberg.at" tvg-name="Antenne Vorarlberg" group-title="Music" tvg-language="deu" tvg-quality="720p",Antenne Vorarlberg
+https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BibelTVMusik.de" tvg-name="Bibel TV Musik" group-title="Music" tvg-language="deu" tvg-quality="720p",Bibel TV Musik
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DASDING908.de" tvg-name="DASDING 90.8" group-title="Music" tvg-language="deu" tvg-quality="720p",DASDING 90.8
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+
+#EXTINF:-1 tvg-id="DeluxeLounge.de" tvg-name="Deluxe Lounge" group-title="Music" tvg-language="deu" tvg-quality="720p",Deluxe Lounge
+https://jmp2.uk/stvp-CHAJ0500413A
+
+#EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-name="Deluxe Music" group-title="Music" tvg-language="deu" tvg-quality="720p",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 tvg-id="DeluxeRap.de" tvg-name="Deluxe Rap" group-title="Music" tvg-language="deu;eng" tvg-quality="1080p",Deluxe Rap
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+
+#EXTINF:-1 tvg-id="DMF.de" tvg-name="DMF" group-title="Music" tvg-language="deu" tvg-quality="1080p",DMF
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HitradioO3.at" tvg-name="Hitradio O3" group-title="Music" tvg-language="deu" tvg-quality="720p",Hitradio O3
+https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd
+
+#EXTINF:-1 tvg-id="HitradioO3.at" tvg-name="Hitradio O3" group-title="Music" tvg-language="deu" tvg-quality="720p",Hitradio O3
+https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8
+
+#EXTINF:-1 tvg-id="HitradioO3.at" tvg-name="Hitradio O3" group-title="Music" tvg-language="deu" tvg-quality="720p",Hitradio O3
+https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
+
+#EXTINF:-1 tvg-id="Kronehit.at" tvg-name="Kronehit" group-title="Music" tvg-language="deu" tvg-quality="1080p",Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Lausitzwelle.de" tvg-name="Lausitzwelle" group-title="Music" tvg-language="deu" tvg-quality="1080p",Lausitzwelle
+https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
+
+#EXTINF:-1 tvg-id="MagentaMusik360.de" tvg-name="MagentaMusik 360" group-title="Music" tvg-language="deu" tvg-quality="1080p",MagentaMusik 360
+https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8
+
+#EXTINF:-1 tvg-id="Radio21TV.de" tvg-name="Radio 21 TV" group-title="Music" tvg-language="deu" tvg-quality="720p",Radio 21 TV
+https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-name="Stingray Classica" group-title="Music" tvg-language="deu;eng;fra;spa" tvg-quality="1080p",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="TVBozsikeHamburgHD.de" tvg-name="TV Bozsike Hamburg HD" group-title="Music" tvg-language="deu;hun" tvg-quality="1080p",TV Bozsike Hamburg HD
+https://rtmp.radiobozsike.com/hls/stream1.m3u8
+
+#EXTINF:-1 tvg-id="VolksmusikTV.de" tvg-name="Volksmusik TV" group-title="Music" tvg-language="deu" tvg-quality="1080p",Volksmusik TV
+https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XITEHits.nl" tvg-name="XITE Hits" group-title="Music" tvg-language="deu;eng" tvg-quality="1080p",XITE Hits
+https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
+

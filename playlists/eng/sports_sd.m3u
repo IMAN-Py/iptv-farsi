@@ -1,0 +1,171 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barca TV" group-title="Sports" tvg-language="cat;eng;spa" tvg-quality="576i",Barca TV
+https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
+
+#EXTINF:-1 tvg-id="BellatorMMA.us" tvg-name="Bellator MMA" group-title="Sports" tvg-language="eng" tvg-quality="480i",Bellator MMA
+https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
+
+#EXTINF:-1 tvg-id="DAZNCombat.uk" tvg-name="DAZN Combat" group-title="Sports" tvg-language="eng" tvg-quality="684p",DAZN Combat
+https://jmp2.uk/plu-648056f0f77b61000828f1ba.m3u8
+
+#EXTINF:-1 tvg-id="DAZNCombat.uk" tvg-name="DAZN Combat" group-title="Sports" tvg-language="eng" tvg-quality="684p",DAZN Combat
+https://jmp2.uk/plu-64805755536e0c0008a19fa1.m3u8
+
+#EXTINF:-1 tvg-id="DAZNCombat.uk" tvg-name="DAZN Combat" group-title="Sports" tvg-language="eng" tvg-quality="576i",DAZN Combat
+https://jmp2.uk/plu-64805922536e0c0008a1a1e6.m3u8
+
+#EXTINF:-1 tvg-id="DAZNCombat.uk" tvg-name="DAZN Combat" group-title="Sports" tvg-language="eng" tvg-quality="684p",DAZN Combat
+https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
+
+#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-name="Eleven Sports 1" group-title="Sports" tvg-language="eng" tvg-quality="576i",Eleven Sports 1
+http://92.114.85.87:8002/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="Sports" tvg-language="eng" tvg-quality="432p",ESPN
+http://tvsen7.aynascope.net/espn/index.m3u8
+
+#EXTINF:-1 tvg-id="FastFunBox.nl" tvg-name="Fast&FunBox" group-title="Sports" tvg-language="eng" tvg-quality="576i",Fast&FunBox
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FBTV.tr" tvg-name="FB TV" group-title="Sports" tvg-language="eng;tur" tvg-quality="576i",FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-name="FightBox" group-title="Sports" tvg-language="eng" tvg-quality="576i",FightBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://webtvstream.bhtelecom.ba/fightbox.m3u8
+
+#EXTINF:-1 tvg-id="Formula1AntenaPlay.ro" tvg-name="Formula 1 AntenaPlay" group-title="Sports" tvg-language="eng" tvg-quality="576p",Formula 1 AntenaPlay
+https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8
+
+#EXTINF:-1 tvg-id="MMATV.us" tvg-name="MMA TV" group-title="Sports" tvg-language="eng" tvg-quality="576p",MMA TV
+http://31.148.48.15/M1_Global/index.m3u8
+
+#EXTINF:-1 tvg-id="MMATVcom.ru" tvg-name="MMA-TV.com" group-title="Sports" tvg-language="eng;rus" tvg-quality="576p",MMA-TV.com
+https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="MMATVcom.ru" tvg-name="MMA-TV.com" group-title="Sports" tvg-language="eng;rus" tvg-quality="576i",MMA-TV.com
+https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam" group-title="Outdoor;Sports" tvg-language="eng" tvg-quality="576i",Monster Jam
+https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8
+
+#EXTINF:-1 tvg-id="NHLAntenaPlay.ro" tvg-name="NHL AntenaPlay" group-title="Sports" tvg-language="eng" tvg-quality="576i",NHL AntenaPlay
+https://live4dai.antenaplay.ro/live2_sdi03/live2_sdi03_600k.m3u8
+
+#EXTINF:-1 tvg-id="PFLMMA.us" tvg-name="PFL MMA" group-title="Sports" tvg-language="eng" tvg-quality="576i",PFL MMA
+https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8
+
+#EXTINF:-1 tvg-id="PGATour.us" tvg-name="PGA Tour" group-title="Sports" tvg-language="eng" tvg-quality="480i",PGA Tour
+https://jmp2.uk/plu-5de94dacb394a300099fa22a.m3u8
+
+#EXTINF:-1 tvg-id="PokerGo.us" tvg-name="PokerGo" group-title="Sports" tvg-language="eng" tvg-quality="480i",PokerGo
+https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8
+
+#EXTINF:-1 tvg-id="RallyTV.us" tvg-name="Rally TV" group-title="Sports" tvg-language="eng" tvg-quality="480i",Rally TV
+https://jmp2.uk/plu-696e0fe49ba4ac18057433ac.m3u8
+
+#EXTINF:-1 tvg-id="RealMadridTVEnglish.es" tvg-name="Real Madrid TV English" group-title="Sports" tvg-language="eng" tvg-quality="576i",Real Madrid TV English
+http://88.212.15.17/live/real_madrid_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="RealMadridTVEnglish.es" tvg-name="Real Madrid TV English" group-title="Sports" tvg-language="eng" tvg-quality="576i",Real Madrid TV English
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport 2" group-title="Sports" tvg-language="eng;tur" tvg-quality="576i",S Sport 2
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SonySportsTen1.in" tvg-name="Sony Sports Ten 1" group-title="Sports" tvg-language="eng" tvg-quality="576p",Sony Sports Ten 1
+http://103.151.60.162:2122/play/a01c/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="SonySportsTen2.in" tvg-name="Sony Sports Ten 2" group-title="Sports" tvg-language="eng" tvg-quality="576p",Sony Sports Ten 2
+http://103.151.60.162:2122/play/a01b/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="SonySportsTen5.in" tvg-name="Sony Sports Ten 5" group-title="Sports" tvg-language="ben;eng;mal" tvg-quality="576p",Sony Sports Ten 5
+http://103.151.60.162:2122/play/a028/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Sport.kg" tvg-name="Sport" group-title="Sports" tvg-language="eng;kir;rus" tvg-quality="480p",Sport
+https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
+
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Star Sports 2
+http://103.151.60.162:2122/play/a00v/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Star Sports 2
+http://103.151.60.162:2122/play/a019/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="StarSports3.in" tvg-name="Star Sports 3" group-title="Sports" tvg-language="ben;eng;hin;mal" tvg-quality="576p",Star Sports 3
+http://103.151.60.162:2122/play/a029/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-name="Strongman Champions League" group-title="Sports" tvg-language="eng" tvg-quality="576i",Strongman Champions League
+https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-name="Strongman Champions League" group-title="Sports" tvg-language="eng" tvg-quality="576i",Strongman Champions League
+https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-name="Strongman Champions League" group-title="Sports" tvg-language="eng" tvg-quality="576i",Strongman Champions League
+https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-name="Strongman Champions League" group-title="Sports" tvg-language="eng" tvg-quality="576i",Strongman Champions League
+https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TalentTV.lk" tvg-name="Talent TV" group-title="Sports" tvg-language="eng" tvg-quality="480p",Talent TV
+https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/index.m3u8
+
+#EXTINF:-1 tvg-id="TenCricket.in" tvg-name="Ten Cricket" group-title="Sports" tvg-language="eng" tvg-quality="576p",Ten Cricket
+http://103.151.60.162:2122/play/a0fj/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="TenSportsPakistan.pk" tvg-name="Ten Sports Pakistan" group-title="Sports" tvg-language="eng" tvg-quality="576i",Ten Sports Pakistan
+http://121.91.61.106:8000/play/a04h/index.m3u8
+
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" group-title="Sports" tvg-language="eng" tvg-quality="480i",Tennis Channel
+https://jmp2.uk/plu-6870c9333ffa5e0c914e9205.m3u8
+
+#EXTINF:-1 tvg-id="TheCyclingChannel.at" tvg-name="The Cycling Channel" group-title="Sports" tvg-language="deu;eng" tvg-quality="576i",The Cycling Channel
+https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
+
+#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars" group-title="Sports" tvg-language="eng" tvg-quality="576i",Trace Sport Stars
+https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
+
+#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars" group-title="Sports" tvg-language="eng;fra" tvg-quality="576p",Trace Sport Stars
+https://mumbai-edge.smartplaytv.in/TraceSport/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSBoxing.us" tvg-name="TVS Boxing" group-title="Sports" tvg-language="eng" tvg-quality="360p",TVS Boxing
+https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSClassicSports.us" tvg-name="TVS Classic Sports" group-title="Sports" tvg-language="eng" tvg-quality="360p",TVS Classic Sports
+https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSTurbo.us" tvg-name="TVS Turbo" group-title="Sports" tvg-language="eng" tvg-quality="360p",TVS Turbo
+https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
+
+#EXTINF:-1 tvg-id="Unite8Sports2.in" tvg-name="Unite8 Sports 2" group-title="Sports" tvg-language="eng" tvg-quality="576p",Unite8 Sports 2
+http://103.151.60.162:2122/play/a01m/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Unite8Sports2.in" tvg-name="Unite8 Sports 2" group-title="Sports" tvg-language="eng" tvg-quality="576i",Unite8 Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://59.103.38.46:8000/play/a126/index.m3u8
+
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour" group-title="Sports" tvg-language="eng" tvg-quality="480i",World Poker Tour
+https://jmp2.uk/plu-5616f9c0ada51f8004c4b091.m3u8
+
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour" group-title="Sports" tvg-language="eng" tvg-quality="576i",World Poker Tour
+https://jmp2.uk/plu-5ad8d796e738977e2c31094a.m3u8
+
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour" group-title="Sports" tvg-language="eng" tvg-quality="480i",World Poker Tour
+https://jmp2.uk/plu-608016e446d73500075ea7e0.m3u8
+
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour" group-title="Sports" tvg-language="eng" tvg-quality="480i",World Poker Tour
+https://jmp2.uk/plu-6080381ab7c9ea00074ec64c.m3u8
+
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour" group-title="Sports" tvg-language="eng" tvg-quality="480i",World Poker Tour
+https://jmp2.uk/plu-6177f8fdef21ab0007332b53.m3u8
+
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour" group-title="Sports" tvg-language="eng" tvg-quality="480i",World Poker Tour
+https://jmp2.uk/plu-617805a67267650007573ffd.m3u8
+
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour" group-title="Sports" tvg-language="eng" tvg-quality="480i",World Poker Tour
+https://jmp2.uk/plu-61781254560f2e00071b78ce.m3u8
+
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour" group-title="Sports" tvg-language="eng" tvg-quality="480i",World Poker Tour
+https://jmp2.uk/plu-62ea4b755e8e770007387b79.m3u8
+
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour" group-title="Sports" tvg-language="eng" tvg-quality="480i",World Poker Tour
+https://jmp2.uk/plu-63eba66da8b2270008436b10.m3u8
+

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GEBNetwork.us" tvg-name="GEB Network" group-title="Religious" tvg-language="vie" tvg-quality="1080p",GEB Network
+https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
+

@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="24News.in" tvg-name="24 News" group-title="News" tvg-language="mal" tvg-quality="576p",24 News
+https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="24News.in" tvg-name="24 News" group-title="News" tvg-language="mal" tvg-quality="396p",24 News
+https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" group-title="News" tvg-language="mal" tvg-quality="360p",Asianet News
+https://asianetnews.vgcdn.net/vglive-sk-917600/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" group-title="News" tvg-language="mal" tvg-quality="576p",Asianet News
+https://cdn.pishow.tv/ott/live/1297/master.m3u8
+
+#EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" group-title="News" tvg-language="mal" tvg-quality="576p",Asianet News
+https://streams.tangotv.in/ASIANETNEWS/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="BigTV24x7.in" tvg-name="Big TV 24x7" group-title="News" tvg-language="mal" tvg-quality="576i",Big TV 24x7
+https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
+
+#EXTINF:-1 tvg-id="BigTV24x7.in" tvg-name="Big TV 24x7" group-title="News" tvg-language="mal" tvg-quality="576i",Big TV 24x7
+https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="JanamTV.in" tvg-name="Janam TV" group-title="News" tvg-language="mal" tvg-quality="576p",Janam TV
+https://mumt03.tangotv.in/Dsly5z3HJANAMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="JanamTV.in" tvg-name="Janam TV" group-title="News" tvg-language="mal" tvg-quality="576p",Janam TV
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KairaliNews.in" tvg-name="Kairali News" group-title="News" tvg-language="mal" tvg-quality="576p",Kairali News
+https://mumt01.tangotv.in/O5aw8Zn3KAIRALINEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="Manorama News" group-title="News" tvg-language="mal" tvg-quality="576p",Manorama News
+https://cdn.pishow.tv/ott/live/463/master.m3u8
+
+#EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="Manorama News" group-title="News" tvg-language="mal" tvg-quality="576p",Manorama News
+https://streams.tangotv.in/MANORAMANEWSNORTH/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="MathrubhumiNews.in" tvg-name="Mathrubhumi News" group-title="News" tvg-language="mal" tvg-quality="576i",Mathrubhumi News
+https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MathrubhumiNews.in" tvg-name="Mathrubhumi News" group-title="News" tvg-language="mal" tvg-quality="576p",Mathrubhumi News
+https://streams.tangotv.in/MATHRUBHUMINEWS/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="MathrubhumiNews.in" tvg-name="Mathrubhumi News" group-title="News" tvg-language="mal" tvg-quality="576p",Mathrubhumi News
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MediaOne.in" tvg-name="Media One" group-title="News" tvg-language="mal" tvg-quality="576p",Media One
+https://streams.tangotv.in/MEDIAONETV/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="RajNewsMalayalam.in" tvg-name="Raj News Malayalam" group-title="News" tvg-language="mal" tvg-quality="576p",Raj News Malayalam
+https://mumt04.tangotv.in/m18aqlK4RAJNEWSMALAYALAM/index.m3u8
+
+#EXTINF:-1 tvg-id="ReporterTV.in" tvg-name="Reporter TV" group-title="News" tvg-language="mal" tvg-quality="576i",Reporter TV
+https://cdn.pishow.tv/ott/live/1510/master.m3u8
+
+#EXTINF:-1 tvg-id="ReporterTV.in" tvg-name="Reporter TV" group-title="News" tvg-language="mal" tvg-quality="576p",Reporter TV
+https://mumt07.tangotv.in/zHjX9OFlREPORTERTV/index.m3u8
+
+#EXTINF:-1 tvg-id="ReporterTV.in" tvg-name="Reporter TV" group-title="News" tvg-language="mal" tvg-quality="576p",Reporter TV
+https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
+

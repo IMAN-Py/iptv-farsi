@@ -1,0 +1,70 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AreYouTheOne.se" tvg-name="Are You The One?" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",Are You The One?
+https://jmp2.uk/plu-61c1db8ed6d97900076ea15c.m3u8
+
+#EXTINF:-1 tvg-id="BestofMTV.se" tvg-name="Best of MTV" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",Best of MTV
+https://jmp2.uk/plu-632afc466699570007ed1106.m3u8
+
+#EXTINF:-1 tvg-id="BestofTheDrewBarrymoreShow.se" tvg-name="Best of The Drew Barrymore Show" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",Best of The Drew Barrymore Show
+https://jmp2.uk/plu-630478cfdb5a4a0007ec255e.m3u8
+
+#EXTINF:-1 tvg-id="Boligjakten.se" tvg-name="Boligjakten" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",Boligjakten
+https://jmp2.uk/plu-61c1dc21b9587d0007e3fc15.m3u8
+
+#EXTINF:-1 tvg-id="CampKulinaris.se" tvg-name="Camp Kulinaris" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",Camp Kulinaris
+https://jmp2.uk/plu-61c1dce2fb9ae40007d0ac15.m3u8
+
+#EXTINF:-1 tvg-id="Charterfeber.se" tvg-name="Charterfeber" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",Charterfeber
+https://jmp2.uk/plu-61c1dda0fe470d00080f85b8.m3u8
+
+#EXTINF:-1 tvg-id="EventyrligOppussing.se" tvg-name="Eventyrlig Oppussing" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",Eventyrlig Oppussing
+https://jmp2.uk/plu-61c1de93244e500007581d69.m3u8
+
+#EXTINF:-1 tvg-id="GeordieShore.se" tvg-name="Geordie Shore" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",Geordie Shore
+https://jmp2.uk/plu-64424a1d5a0cd500083ed27c.m3u8
+
+#EXTINF:-1 tvg-id="JerseyShore.se" tvg-name="Jersey Shore" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",Jersey Shore
+https://jmp2.uk/plu-64424b21e1979c0008379681.m3u8
+
+#EXTINF:-1 tvg-id="JerseyShoreFamilyVacation.se" tvg-name="Jersey Shore Family Vacation" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",Jersey Shore Family Vacation
+https://jmp2.uk/plu-6728c87cc7626f0008b28149.m3u8
+
+#EXTINF:-1 tvg-id="Luksusfellen.se" tvg-name="Luksusfellen" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",Luksusfellen
+https://jmp2.uk/plu-61c1e060197fe600073c1ffb.m3u8
+
+#EXTINF:-1 tvg-id="MTVCatfish.se" tvg-name="MTV Catfish" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",MTV Catfish
+https://jmp2.uk/plu-61781a52a3638a00078fa57e.m3u8
+
+#EXTINF:-1 tvg-id="MTVDating.se" tvg-name="MTV Dating" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",MTV Dating
+https://jmp2.uk/plu-685140bd21f49d1b9d177e21.m3u8
+
+#EXTINF:-1 tvg-id="MTVExOnTheBeach.se" tvg-name="MTV Ex On The Beach" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",MTV Ex On The Beach
+https://jmp2.uk/plu-61c1d66518447e000717e4c2.m3u8
+
+#EXTINF:-1 tvg-id="MTVRidiculousness.se" tvg-name="MTV Ridiculousness" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",MTV Ridiculousness
+https://jmp2.uk/plu-62cd9e0d10bb020007005628.m3u8
+
+#EXTINF:-1 tvg-id="MTVTeenMom.se" tvg-name="MTV Teen Mom" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",MTV Teen Mom
+https://jmp2.uk/plu-61c1df62b7672a0007b6c9ba.m3u8
+
+#EXTINF:-1 tvg-id="MTVTheHills.se" tvg-name="MTV The Hills" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",MTV The Hills
+https://jmp2.uk/plu-61c1d56f28e94c0007827bdb.m3u8
+
+#EXTINF:-1 tvg-id="NRK3.no" tvg-name="NRK3" group-title="Entertainment" tvg-language="nor" tvg-quality="1080i",NRK3
+https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8
+
+#EXTINF:-1 tvg-id="ParadiseHotel.se" tvg-name="Paradise Hotel" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",Paradise Hotel
+https://jmp2.uk/plu-61c1db901346480007b7c345.m3u8
+
+#EXTINF:-1 tvg-id="PimpMyRide.se" tvg-name="Pimp My Ride" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",Pimp My Ride
+https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8
+
+#EXTINF:-1 tvg-id="RidiculousnessNyeepisoder.se" tvg-name="Ridiculousness: Nye episoder" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",Ridiculousness: Nye episoder
+https://jmp2.uk/plu-68dfa1a7fae18f8db6218222.m3u8
+
+#EXTINF:-1 tvg-id="SvenskaTruckers.se" tvg-name="Svenska Truckers" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",Svenska Truckers
+https://jmp2.uk/plu-645cc855e1979c000875ee47.m3u8
+
+#EXTINF:-1 tvg-id="TheDailyShow.se" tvg-name="The Daily Show" group-title="Entertainment" tvg-language="eng;nor" tvg-quality="720p",The Daily Show
+https://jmp2.uk/plu-65c0973311ced7000808d255.m3u8
+

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MNetKids.mk" tvg-name="M-Net Kids" group-title="Kids" tvg-language="mkd" tvg-quality="720p",M-Net Kids
+http://ares.mnet.mk/hls/mnet-kids.m3u8
+

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ManasTV.kg" tvg-name="Manas TV" group-title="Culture;Education;Entertainment" tvg-language="kir;tur" tvg-quality="576i",Manas TV
+http://120.70.60.179:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+
+#EXTINF:-1 tvg-id="PersianaTurkiye.fr" tvg-name="Persiana Turkiye" group-title="Entertainment" tvg-language="fas;tur" tvg-quality="576i",Persiana Turkiye
+https://turkhls.persiana.live/hls/stream.m3u8
+

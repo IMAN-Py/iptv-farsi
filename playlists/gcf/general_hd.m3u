@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ETV.gp" tvg-name="ETV" group-title="General" tvg-language="fra;gcf" tvg-quality="1080p",ETV
+https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
+

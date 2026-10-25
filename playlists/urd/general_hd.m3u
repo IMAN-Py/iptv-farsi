@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DDUrdu.in" tvg-name="DD Urdu" group-title="General" tvg-language="eng;hin;urd" tvg-quality="720p",DD Urdu
+https://cdn.pishow.tv/ott/live/8/master.m3u8
+
+#EXTINF:-1 tvg-id="Kay2HD.pk" tvg-name="Kay2 HD" group-title="General" tvg-language="urd" tvg-quality="1080p",Kay2 HD
+http://103.250.28.74:8000/play/a027/index.m3u8
+

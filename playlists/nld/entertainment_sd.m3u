@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ArubaTVPlus.aw" tvg-name="ArubaTV +" group-title="Entertainment" tvg-language="eng;nld;pap" tvg-quality="480i",ArubaTV +
+https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCNL.nl" tvg-name="BBC NL" group-title="Entertainment" tvg-language="nld" tvg-quality="360p",BBC NL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://lb.iptvnetwork.net/ls28/10021/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BonceTV.cw" tvg-name="Bonce TV" group-title="Entertainment" tvg-language="nld;pap" tvg-quality="480p",Bonce TV
+https://seswa.bonce.tv/hls/bonceswa.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.nl" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="nld" tvg-quality="360p",Discovery Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://lb.iptvnetwork.net/ls28/10015/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MagicPowerRadio.nl" tvg-name="Magic PowerRadio" group-title="Entertainment" tvg-language="nld" tvg-quality="288p",Magic PowerRadio
+https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VeronicaDisneyJr.nl" tvg-name="Veronica / Disney Jr." group-title="Entertainment;Kids" tvg-language="nld" tvg-quality="360p",Veronica / Disney Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://lb.iptvnetwork.net/ls28/10011/playlist.m3u8
+

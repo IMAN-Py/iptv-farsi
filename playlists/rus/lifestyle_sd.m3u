@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Doctor.ru" tvg-name="Doctor" group-title="Education;Lifestyle" tvg-language="rus" tvg-quality="576p",Doctor
+http://178.134.1.158:8081/doktor/index.m3u8
+
+#EXTINF:-1 tvg-id="Doctor.ru" tvg-name="Doctor" group-title="Education;Lifestyle" tvg-language="rus" tvg-quality="576p",Doctor
+http://stream.mcquack.net/80/index.m3u8
+
+#EXTINF:-1 tvg-id="Doctor.ru" tvg-name="Doctor" group-title="Education;Lifestyle" tvg-language="rus" tvg-quality="576i",Doctor
+https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DomashnieZhivotnye.ru" tvg-name="Domashnie Zhivotnye" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Domashnie Zhivotnye
+https://fs.uplink.kz/domashnie_zhivotnie/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="DomashnieZhivotnye.ru" tvg-name="Domashnie Zhivotnye" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Domashnie Zhivotnye
+https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Domashniy
+http://31.148.5.241/kanal_14/index.m3u8
+
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Domashniy
+http://stream.mcquack.net/227/index.m3u8
+
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Domashniy
+https://fs.uplink.kz/domashniy/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" group-title="Lifestyle" tvg-language="rus" tvg-quality="576i",Domashniy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/17.m3u8
+
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" group-title="Lifestyle" tvg-language="rus" tvg-quality="540p",Domashniy
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+
+#EXTINF:-1 tvg-id="NTVStyle.ru" tvg-name="NTV Style" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",NTV Style
+http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8
+
+#EXTINF:-1 tvg-id="NTVStyle.ru" tvg-name="NTV Style" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",NTV Style
+https://cdn.ntv.ru/th_style/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OtkritiymirZdorove.ru" tvg-name="Otkritiy mir. Zdorove" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Otkritiy mir. Zdorove
+https://v4.proofix.ru/0mir/index.m3u8
+
+#EXTINF:-1 tvg-id="ZdorovoeTV.ru" tvg-name="Zdorovoe TV" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Zdorovoe TV
+http://31.148.48.15/Zdorovoe_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="ZdorovoeTV.ru" tvg-name="Zdorovoe TV" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Zdorovoe TV
+https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Zhivi.ru" tvg-name="Zhivi!" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Zhivi!
+https://fs.uplink.kz/zhivi/mono.m3u8?token=onlinetv
+

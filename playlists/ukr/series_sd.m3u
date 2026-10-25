@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FilmUADrama.ua" tvg-name="FilmUADrama" group-title="Movies;Series" tvg-language="rus;ukr" tvg-quality="576i",FilmUADrama
+https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
+

@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="480i",BabyFirst
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="por" tvg-quality="480i",BabyFirst
+https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel" group-title="Kids" tvg-language="por" tvg-quality="576i",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://zntx.dyndns.org:8085/hls/disney.m3u8
+
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob" group-title="Kids" tvg-language="por" tvg-quality="576p",Gloob
+http://45.235.0.78/Gloob/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GloobWeb.br" tvg-name="Gloob Web" group-title="Kids" tvg-language="por" tvg-quality="576i",Gloob Web
+https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8
+
+#EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" group-title="Kids" tvg-language="ces;eng;heb;por;slk" tvg-quality="576p",JimJam Europe
+http://158.160.149.81:8080/269/index.m3u8
+
+#EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" group-title="Kids" tvg-language="ces;eng;heb;por;slk" tvg-quality="576p",JimJam Europe
+http://stream.mcquack.net/150/index.m3u8
+
+#EXTINF:-1 tvg-id="NewChannelPop.ca" tvg-name="New Channel Pop!" group-title="Kids" tvg-language="eng;ind;msa;por;rus" tvg-quality="480p",New Channel Pop!
+#EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6ab37c6c7e057f9063071c85
+https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon" group-title="Kids" tvg-language="por" tvg-quality="480p",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OReinoInfantil.us" tvg-name="O Reino Infantil" group-title="Kids" tvg-language="por" tvg-quality="480i",O Reino Infantil
+https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
+
+#EXTINF:-1 tvg-id="ReinoInfantil.mz" tvg-name="Reino Infantil" group-title="Kids" tvg-language="por" tvg-quality="576i",Reino Infantil
+https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
+

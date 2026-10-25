@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FonteTV.br" tvg-name="Fonte TV" group-title="Religious" tvg-language="por" tvg-quality="480i",Fonte TV
+https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8
+
+#EXTINF:-1 tvg-id="GospelCartoon.br" tvg-name="Gospel Cartoon" group-title="Religious" tvg-language="por" tvg-quality="360p",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GospelMovieTV.br" tvg-name="Gospel Movie TV" group-title="Religious" tvg-language="por" tvg-quality="360p",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlenitudeTV.br" tvg-name="Plenitude TV" group-title="Religious" tvg-language="por" tvg-quality="480i",Plenitude TV
+https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" group-title="Religious" tvg-language="por" tvg-quality="576p",Rede Vida
+https://cdn-5.nxplay.com.br/REDE_VIDA/index.m3u8
+
+#EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" group-title="Religious" tvg-language="por" tvg-quality="480p",TV Evangelizar
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-name="TV Terceiro Anjo" group-title="Religious" tvg-language="por" tvg-quality="360p",TV Terceiro Anjo
+https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVUniversal.br" tvg-name="TV Universal" group-title="Religious" tvg-language="por" tvg-quality="480p",TV Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+

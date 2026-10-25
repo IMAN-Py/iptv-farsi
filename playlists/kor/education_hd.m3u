@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NBS.kr" tvg-name="NBS" group-title="Education" tvg-language="kor" tvg-quality="720p",NBS
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OUN.kr" tvg-name="OUN" group-title="Education" tvg-language="kor" tvg-quality="1080p",OUN
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RyongnamsanTelevision.kp" tvg-name="Ryongnamsan Television" group-title="Education" tvg-language="kor" tvg-quality="720p",Ryongnamsan Television
+https://live.koryocdn.org/ryongnamsan/index.m3u8
+

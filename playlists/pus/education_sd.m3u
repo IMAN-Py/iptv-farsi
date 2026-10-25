@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ShamsTV.af" tvg-name="Shams TV" group-title="Education" tvg-language="prd;pus" tvg-quality="576i",Shams TV
+https://fflive-darya-educationtv.b-cdn.net/master.m3u8
+

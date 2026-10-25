@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DreamTV.ug" tvg-name="Dream TV" group-title="Religious" tvg-language="eng;lug" tvg-quality="480p",Dream TV
+https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="GuguddeTV.ug" tvg-name="Gugudde TV" group-title="Religious" tvg-language="eng;lug" tvg-quality="480p",Gugudde TV
+https://jk3lzqq4lw79-hls-live.5centscdn.com/gugudde/c9a1fdac6e082dd89e7173244f34d7b3.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-id="SaltTV.ug" tvg-name="Salt TV" group-title="Religious" tvg-language="eng;lug" tvg-quality="576i",Salt TV
+https://stream.salttelevision.com/hls/stream.m3u8
+

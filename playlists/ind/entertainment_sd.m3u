@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DensShowBiz.id" tvg-name="Dens ShowBiz" group-title="Entertainment" tvg-language="ind" tvg-quality="576i",Dens ShowBiz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8
+
+#EXTINF:-1 tvg-id="DensShowBiz.id" tvg-name="Dens ShowBiz" group-title="Entertainment" tvg-language="ind" tvg-quality="576i",Dens ShowBiz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
+

@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="CCTV-6" group-title="Movies" tvg-language="zho" tvg-quality="1080p",CCTV-6
+http://198.204.240.250:82/live/cctv6.m3u8
+
+#EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="CCTV-6" group-title="Movies" tvg-language="zho" tvg-quality="1080p",CCTV-6
+http://69.30.245.50/live/cctv6.m3u8
+
+#EXTINF:-1 tvg-id="CCTVStormTheater.cn" tvg-name="CCTV-Storm Theater" group-title="Movies" tvg-language="zho" tvg-quality="1080p",CCTV-Storm Theater
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-id="CCTVTheFirstTheater.cn" tvg-name="CCTV-The First Theater" group-title="Movies" tvg-language="zho" tvg-quality="1080p",CCTV-The First Theater
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-id="CHCAction.cn" tvg-name="CHC Action" group-title="Movies" tvg-language="zho" tvg-quality="1080p",CHC Action
+http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+
+#EXTINF:-1 tvg-id="MeiAhMovieChannel.hk" tvg-name="Mei Ah Movie Channel" group-title="Movies" tvg-language="zho" tvg-quality="1080p",Mei Ah Movie Channel
+http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
+
+#EXTINF:-1 tvg-id="MeiAhMovieChannel.hk" tvg-name="Mei Ah Movie Channel" group-title="Movies" tvg-language="zho" tvg-quality="1080p",Mei Ah Movie Channel
+http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
+
+#EXTINF:-1 tvg-id="MeiAhMovieChannel.hk" tvg-name="Mei Ah Movie Channel" group-title="Movies" tvg-language="zho" tvg-quality="1080p",Mei Ah Movie Channel
+http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
+

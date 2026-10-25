@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MNetInfo.mk" tvg-name="M-Net Info" group-title="News" tvg-language="mkd" tvg-quality="576i",M-Net Info
+https://live.mnet.mk/hls/mnet-info.m3u8
+

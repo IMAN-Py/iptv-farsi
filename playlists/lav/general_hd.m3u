@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LTV1.lv" tvg-name="LTV1" group-title="General" tvg-language="lav" tvg-quality="1080p",LTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/34/index.m3u8
+
+#EXTINF:-1 tvg-id="LTV1.lv" tvg-name="LTV1" group-title="General" tvg-language="lav" tvg-quality="1080p",LTV1
+https://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv1_pasaule/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVJurmala.lv" tvg-name="TV Jurmala" group-title="General" tvg-language="lav" tvg-quality="1080p",TV Jurmala
+https://air.star.lv/TV_Jurmala_multistream/index.m3u8
+

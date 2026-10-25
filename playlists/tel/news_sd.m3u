@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="10 TV" group-title="News" tvg-language="tel" tvg-quality="576p",10 TV
+https://cdn.pishow.tv/ott/live/391/master.m3u8
+
+#EXTINF:-1 tvg-id="6TVTelugu.in" tvg-name="6 TV Telugu" group-title="News" tvg-language="tel" tvg-quality="576p",6 TV Telugu
+https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8
+
+#EXTINF:-1 tvg-id="6TVTelugu.in" tvg-name="6 TV Telugu" group-title="News" tvg-language="tel" tvg-quality="360p",6 TV Telugu
+https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8
+
+#EXTINF:-1 tvg-id="6TVTelugu.in" tvg-name="6 TV Telugu" group-title="News" tvg-language="tel" tvg-quality="576p",6 TV Telugu
+https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-name="ABN Andhra Jyoti" group-title="News" tvg-language="tel" tvg-quality="576p",ABN Andhra Jyoti
+https://cdn.pishow.tv/ott/live/407/master.m3u8
+
+#EXTINF:-1 tvg-id="BIGTV.in" tvg-name="BIG TV" group-title="News" tvg-language="tel" tvg-quality="576p",BIG TV
+https://mumbai-edge.smartplaytv.in/BIGTV/index.m3u8
+
+#EXTINF:-1 tvg-id="BIGTV.in" tvg-name="BIG TV" group-title="News" tvg-language="tel" tvg-quality="576p",BIG TV
+https://yuppnimresmum.akamaized.net/120723/smil:bigtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="BRKNews.in" tvg-name="BRK News" group-title="News" tvg-language="tel" tvg-quality="576p",BRK News
+https://cdn.pishow.tv/ott/live/1037/master.m3u8
+
+#EXTINF:-1 tvg-id="BRKNews.in" tvg-name="BRK News" group-title="News" tvg-language="tel" tvg-quality="576p",BRK News
+https://d2gvyg6lvauoko.cloudfront.net/230226/brknews/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="CVRNews.in" tvg-name="CVR News" group-title="News" tvg-language="tel" tvg-quality="576p",CVR News
+https://mumbai-edge.smartplaytv.in/CVRNews/index.m3u8
+
+#EXTINF:-1 tvg-id="HMTV.in" tvg-name="HMTV" group-title="News" tvg-language="tel" tvg-quality="576p",HMTV
+https://mumbai-edge.smartplaytv.in/HMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="HMTV.in" tvg-name="HMTV" group-title="News" tvg-language="tel" tvg-quality="576p",HMTV
+https://yuppnimresmum.akamaized.net/28072023/smil:hmtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="INews.in" tvg-name="INews" group-title="News" tvg-language="tel" tvg-quality="576p",INews
+https://mumbai-edge.smartplaytv.in/INews/index.m3u8
+
+#EXTINF:-1 tvg-id="INews.in" tvg-name="INews" group-title="News" tvg-language="tel" tvg-quality="576p",INews
+https://mumt03.tangotv.in/Dsly5z3HINEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="INews.in" tvg-name="INews" group-title="News" tvg-language="tel" tvg-quality="576p",INews
+https://yuppnimresmum.akamaized.net/28072023/smil:inews.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="MahaaNews.in" tvg-name="Mahaa News" group-title="News" tvg-language="tel" tvg-quality="576i",Mahaa News
+https://cdn.pishow.tv/ott/live/401/master.m3u8
+
+#EXTINF:-1 tvg-id="MahaaNews.in" tvg-name="Mahaa News" group-title="News" tvg-language="tel" tvg-quality="576p",Mahaa News
+https://mumt07.tangotv.in/zHjX9OFlMAHAANEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="MahaaNews.in" tvg-name="Mahaa News" group-title="News" tvg-language="tel" tvg-quality="576p",Mahaa News
+https://yuppnimrestreammum.akamaized.net/181224/smil:mahatv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="MojoTV.in" tvg-name="Mojo TV" group-title="News" tvg-language="tel" tvg-quality="576p",Mojo TV
+https://mumt07.tangotv.in/zHjX9OFlMOJOTV/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVTelugu.in" tvg-name="NTV Telugu" group-title="News" tvg-language="tel" tvg-quality="576i",NTV Telugu
+https://cdn.pishow.tv/ott/live/383/master.m3u8
+
+#EXTINF:-1 tvg-id="NTVTelugu.in" tvg-name="NTV Telugu" group-title="News" tvg-language="tel" tvg-quality="576p",NTV Telugu
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Prime9News.in" tvg-name="Prime9 News" group-title="News" tvg-language="tel" tvg-quality="576p",Prime9 News
+https://mumt01.tangotv.in/O5aw8Zn3PRIME9NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="RajNewsTelugu.in" tvg-name="Raj News Telugu" group-title="News" tvg-language="tel" tvg-quality="576p",Raj News Telugu
+https://cdn.pishow.tv/ott/live/279/master.m3u8
+
+#EXTINF:-1 tvg-id="RajNewsTelugu.in" tvg-name="Raj News Telugu" group-title="News" tvg-language="tel" tvg-quality="576p",Raj News Telugu
+https://mumt04.tangotv.in/m18aqlK4RAJNEWSTELUGU/index.m3u8
+
+#EXTINF:-1 tvg-id="SakshiTV.in" tvg-name="Sakshi TV" group-title="News" tvg-language="tel" tvg-quality="576i",Sakshi TV
+https://cdn.pishow.tv/ott/live/1607/master.m3u8
+
+#EXTINF:-1 tvg-id="SakshiTV.in" tvg-name="Sakshi TV" group-title="News" tvg-language="tel" tvg-quality="576i",Sakshi TV
+https://cdn.pishow.tv/ott/live/409/master.m3u8
+
+#EXTINF:-1 tvg-id="SakshiTV.in" tvg-name="Sakshi TV" group-title="News" tvg-language="tel" tvg-quality="576p",Sakshi TV
+https://mumt07.tangotv.in/zHjX9OFlSAKSHITV/index.m3u8
+
+#EXTINF:-1 tvg-id="SakshiTV.in" tvg-name="Sakshi TV" group-title="News" tvg-language="tel" tvg-quality="576p",Sakshi TV
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNews.in" tvg-name="T News" group-title="News" tvg-language="tel" tvg-quality="576p",T News
+https://mumbai-edge.smartplaytv.in/TNews/index.m3u8
+
+#EXTINF:-1 tvg-id="TNews.in" tvg-name="T News" group-title="News" tvg-language="tel" tvg-quality="576p",T News
+https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="TNews.in" tvg-name="T News" group-title="News" tvg-language="tel" tvg-quality="576p",T News
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/TNews.m3u8
+
+#EXTINF:-1 tvg-id="TNews.in" tvg-name="T News" group-title="News" tvg-language="tel" tvg-quality="576p",T News
+https://yuppnimresmum.akamaized.net/120723/smil:tnews.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="TV5News.in" tvg-name="TV5 News" group-title="News" tvg-language="tel" tvg-quality="576i",TV5 News
+https://cdn.pishow.tv/ott/live/387/master.m3u8
+
+#EXTINF:-1 tvg-id="TV5News.in" tvg-name="TV5 News" group-title="News" tvg-language="tel" tvg-quality="576p",TV5 News
+https://mumbai-edge.smartplaytv.in/TV5Telugu/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5News.in" tvg-name="TV5 News" group-title="News" tvg-language="tel" tvg-quality="576p",TV5 News
+https://mumt07.tangotv.in/zHjX9OFlTV5NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5News.in" tvg-name="TV5 News" group-title="News" tvg-language="tel" tvg-quality="576p",TV5 News
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV5News.in" tvg-name="TV5 News" group-title="News" tvg-language="tel" tvg-quality="576p",TV5 News
+https://yuppnimresmum.akamaized.net/110322/tv5/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="TV9Telugu.in" tvg-name="TV9 Telugu" group-title="News" tvg-language="tel" tvg-quality="576p",TV9 Telugu
+https://streams.tangotv.in/TV9TELUGU/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="V6News.in" tvg-name="V6 News" group-title="News" tvg-language="tel" tvg-quality="576i",V6 News
+https://cdn.pishow.tv/ott/live/389/master.m3u8
+
+#EXTINF:-1 tvg-id="V6News.in" tvg-name="V6 News" group-title="News" tvg-language="tel" tvg-quality="576p",V6 News
+https://d1rc86nwwc9fag.cloudfront.net/140622/v6newsdev/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="V6News.in" tvg-name="V6 News" group-title="News" tvg-language="tel" tvg-quality="576p",V6 News
+https://mumbai-edge.smartplaytv.in/V6News/index.m3u8
+
+#EXTINF:-1 tvg-id="V6News.in" tvg-name="V6 News" group-title="News" tvg-language="tel" tvg-quality="576p",V6 News
+https://mumt05.tangotv.in/87NeALx2V6NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="V6News.in" tvg-name="V6 News" group-title="News" tvg-language="tel" tvg-quality="576p",V6 News
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/V6News.m3u8
+
+#EXTINF:-1 tvg-id="V6News.in" tvg-name="V6 News" group-title="News" tvg-language="tel" tvg-quality="576p",V6 News
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8
+

@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Animation;Kids" tvg-language="ukr" tvg-quality="576p",Cartoon Network CEE
+http://45.132.87.69:8080/cartoon_network/index.m3u8
+
+#EXTINF:-1 tvg-id="CinePlusKids.ua" tvg-name="Cine+ Kids" group-title="Kids" tvg-language="ukr" tvg-quality="576i",Cine+ Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI5MDYmc3Q9TUtpMWlxbmN6NGFDdjRrdmN0TkVtUQ%3D%3D&master=540
+
+#EXTINF:-1 tvg-id="CinePlusKids.ua" tvg-name="Cine+ Kids" group-title="Kids" tvg-language="ukr" tvg-quality="576p",Cine+ Kids
+http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Lale.ua" tvg-name="Lale" group-title="Kids" tvg-language="ukr" tvg-quality="576i",Lale
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-name="Nickelodeon" group-title="Kids" tvg-language="pol;ukr" tvg-quality="576i",Nickelodeon
+http://92.114.85.87:8013/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-id="NikiJunior.ua" tvg-name="Niki Junior" group-title="Kids" tvg-language="ukr" tvg-quality="576i",Niki Junior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://158.101.222.193:88/georgia_play.php?id=nikijunior
+

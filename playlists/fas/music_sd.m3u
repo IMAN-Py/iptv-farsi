@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AFNTV.ir" tvg-name="AFN TV" group-title="Music" tvg-language="fas" tvg-quality="576i",AFN TV
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GEM24B.tr" tvg-name="GEM 24B" group-title="Music" tvg-language="fas" tvg-quality="576i",GEM 24B
+https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="GEMMifa.tr" tvg-name="GEM Mifa" group-title="Music" tvg-language="fas" tvg-quality="576i",GEM Mifa
+https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="GEMMifaPlus.tr" tvg-name="GEM Mifa +" group-title="Music" tvg-language="fas" tvg-quality="576i",GEM Mifa +
+https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="NavahangTV.fi" tvg-name="Navahang TV" group-title="Music" tvg-language="fas" tvg-quality="576i",Navahang TV
+https://simahls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PersianaNostalgia.fr" tvg-name="Persiana Nostalgia" group-title="Classic;Music" tvg-language="fas" tvg-quality="576i",Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PMC.ae" tvg-name="PMC" group-title="Music" tvg-language="fas" tvg-quality="576i",PMC
+https://pmchls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="T2TV.ir" tvg-name="T2 TV" group-title="Music" tvg-language="fas" tvg-quality="576i",T2 TV
+https://t2hls.wns.live/hls/stream.m3u8
+

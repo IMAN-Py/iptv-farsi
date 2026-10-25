@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="VTV.mv" tvg-name="VTV" group-title="News" tvg-language="div" tvg-quality="1080p",VTV
+https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
+

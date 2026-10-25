@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HmongStarTV.us" tvg-name="Hmong Star TV" group-title="Culture" tvg-language="hmn;vie" tvg-quality="720p",Hmong Star TV
+https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HmongTVNetwork.us" tvg-name="Hmong TV Network" group-title="Culture" tvg-language="hmn;vie" tvg-quality="720p",Hmong TV Network
+https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="720p",Tra Vinh TV
+https://dethich.pw/thvl5/index.m3u8
+
+#EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="1080p",Tra Vinh TV
+https://freem3u.xyz/api/live/play.m3u8?vid=91
+
+#EXTINF:-1 tvg-id="VinhLongTV2.vn" tvg-name="Vinh Long TV 2" group-title="Culture;Entertainment" tvg-language="vie" tvg-quality="1080p",Vinh Long TV 2
+https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VinhLongTV2.vn" tvg-name="Vinh Long TV 2" group-title="Culture;Entertainment" tvg-language="vie" tvg-quality="720p",Vinh Long TV 2
+https://dethich.pw/thvl2/index.m3u8
+
+#EXTINF:-1 tvg-id="VinhLongTV4.vn" tvg-name="Vinh Long TV 4" group-title="Culture;Entertainment;Sports;Travel" tvg-language="vie" tvg-quality="720p",Vinh Long TV 4
+https://dethich.pw/thvl4/index.m3u8
+

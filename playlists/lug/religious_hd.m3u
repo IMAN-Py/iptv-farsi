@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SaltTV.ug" tvg-name="Salt TV" group-title="Religious" tvg-language="eng;lug" tvg-quality="1080p",Salt TV
+https://live.salttelevision.com/app/stream/abr.m3u8
+

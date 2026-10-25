@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barca TV" group-title="Sports" tvg-language="cat;eng;spa" tvg-quality="576i",Barca TV
+https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
+
+#EXTINF:-1 tvg-id="DeportesTVC.hn" tvg-name="Deportes TVC" group-title="Sports" tvg-language="spa" tvg-quality="480i",Deportes TVC
+https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2LatinAmerica.us" tvg-name="ESPN 2 Latin America" group-title="Sports" tvg-language="spa" tvg-quality="576i",ESPN 2 Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN3LatinAmerica.us" tvg-name="ESPN 3 Latin America" group-title="Sports" tvg-language="spa" tvg-quality="576i",ESPN 3 Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us" tvg-name="ESPN Latin America" group-title="Sports" tvg-language="spa" tvg-quality="576i",ESPN Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ESPNPremium.cl" tvg-name="ESPN Premium" group-title="Sports" tvg-language="spa" tvg-quality="576i",ESPN Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2" group-title="Sports" tvg-language="spa" tvg-quality="576i",Fox Sports 2
+#EXTVLCOPT:http-referrer=https://mi.tv/ar/canales/fox-sports-2
+https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FUTV.cr" tvg-name="FUTV" group-title="Sports" tvg-language="spa" tvg-quality="480i",FUTV
+http://190.61.90.17:40000/play/a03v/index.m3u8
+
+#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-name="ITV Deportes" group-title="Entertainment;Sports" tvg-language="spa" tvg-quality="480i",ITV Deportes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+
+#EXTINF:-1 tvg-id="L1Max.pe" tvg-name="L1 Max" group-title="Sports" tvg-language="spa" tvg-quality="480i",L1 Max
+https://cablered.iptvperu.tv:1936/cablered/liga1max.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MeridianoTV.ve" tvg-name="Meridiano TV" group-title="Sports" tvg-language="spa" tvg-quality="576p",Meridiano TV
+http://181.78.8.199:8000/play/a0fr/index.m3u8
+
+#EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-name="Monterrico TV" group-title="Sports" tvg-language="spa" tvg-quality="480i",Monterrico TV
+https://h.jcp.live.opencaster.com/play_src/index.m3u8
+
+#EXTINF:-1 tvg-id="OlympicChannel.es" tvg-name="Olympic Channel" group-title="Sports" tvg-language="spa" tvg-quality="576i",Olympic Channel
+https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8
+
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="Teledeporte" group-title="Sports" tvg-language="spa" tvg-quality="576i",Teledeporte
+https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-id="TigoSports.py" tvg-name="Tigo Sports" group-title="Sports" tvg-language="spa" tvg-quality="576i",Tigo Sports
+http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" group-title="Sports" tvg-language="spa" tvg-quality="576i",TyC Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
+
+#EXTINF:-1 tvg-id="TyCSportsUSA.ar" tvg-name="TyC Sports USA" group-title="Sports" tvg-language="spa" tvg-quality="576i",TyC Sports USA
+http://45.170.130.224:8000/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="Win Sports" group-title="Sports" tvg-language="spa" tvg-quality="576p",Win Sports
+http://168.228.44.241:9999/play/a050/index.m3u8
+

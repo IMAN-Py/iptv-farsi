@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlfaOmegaTV.ro" tvg-name="Alfa Omega TV" group-title="Religious" tvg-language="ron" tvg-quality="1080p",Alfa Omega TV
+https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
+
+#EXTINF:-1 tvg-id="AngelusTV.ro" tvg-name="Angelus TV" group-title="Religious" tvg-language="ron" tvg-quality="1080p",Angelus TV
+https://video.angelustv.ro/hls/angelustv.m3u8
+
+#EXTINF:-1 tvg-id="CredoTV.ro" tvg-name="Credo TV" group-title="Religious" tvg-language="ron" tvg-quality="720p",Credo TV
+http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CredoTV.ro" tvg-name="Credo TV" group-title="Religious" tvg-language="ron" tvg-quality="720p",Credo TV
+https://5bb3298db4821.streamlock.net/ctv/livecredo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-name="SperantaTV" group-title="Religious" tvg-language="ron" tvg-quality="1080p",SperantaTV
+https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
+

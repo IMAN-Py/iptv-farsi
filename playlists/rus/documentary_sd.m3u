@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="365daysTV.ru" tvg-name="365 days TV" group-title="Documentary" tvg-language="rus" tvg-quality="576p",365 days TV
+http://31.148.48.15/365_dney/index.m3u8
+
+#EXTINF:-1 tvg-id="365daysTV.ru" tvg-name="365 days TV" group-title="Documentary" tvg-language="rus" tvg-quality="576p",365 days TV
+http://stream.mcquack.net/70/index.m3u8
+
+#EXTINF:-1 tvg-id="365daysTV.ru" tvg-name="365 days TV" group-title="Documentary" tvg-language="rus" tvg-quality="576p",365 days TV
+https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="365daysTV.ru" tvg-name="365 days TV" group-title="Documentary" tvg-language="rus" tvg-quality="576p",365 days TV
+https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Arsenal.ru" tvg-name="Arsenal" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Arsenal
+https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DocuBox.nl" tvg-name="DocuBox" group-title="Documentary" tvg-language="rus" tvg-quality="576i",DocuBox
+http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Istoriya.ru" tvg-name="Istoriya" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Istoriya
+http://31.148.48.15/Istoriya/index.m3u8
+
+#EXTINF:-1 tvg-id="Istoriya.ru" tvg-name="Istoriya" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Istoriya
+http://hls127.freeott.top:8080/Istoriya/video.m3u8
+
+#EXTINF:-1 tvg-id="Istoriya.ru" tvg-name="Istoriya" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Istoriya
+https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Nano.ru" tvg-name="Nano" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Nano
+http://s1.tv-nano.com/Nano_rec/index.m3u8
+
+#EXTINF:-1 tvg-id="Nano.ru" tvg-name="Nano" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Nano
+http://stream.mcquack.net/419/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-name="National Geographic" group-title="Documentary" tvg-language="rus" tvg-quality="576p",National Geographic
+http://stream.mcquack.net/116/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-name="National Geographic" group-title="Documentary" tvg-language="rus" tvg-quality="576p",National Geographic
+https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="rus" tvg-quality="576p",National Geographic Wild
+https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Nauka" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Nauka
+http://stream.mcquack.net/125/index.m3u8
+
+#EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Nauka" group-title="Documentary" tvg-language="rus" tvg-quality="576i",Nauka
+https://vod.tuva.ru/nauka2/index.m3u8
+
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" group-title="Documentary" tvg-language="rus" tvg-quality="576i",RT Documentary
+https://streaming.thestream.cyou/live/554.m3u8
+
+#EXTINF:-1 tvg-id="Smotrim100Fakty.ru" tvg-name="Smotrim 100% Fakty" group-title="Documentary" tvg-language="rus" tvg-quality="576i",Smotrim 100% Fakty
+https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
+
+#EXTINF:-1 tvg-id="TERRA.ru" tvg-name="TERRA" group-title="Documentary" tvg-language="rus" tvg-quality="576p",TERRA
+http://31.148.48.15/Terra/index.m3u8
+
+#EXTINF:-1 tvg-id="TopSecret.ru" tvg-name="Top Secret" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Top Secret
+http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
+
+#EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Explore
+http://46.53.200.153:7777/play/a01i/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Explore
+http://stream.mcquack.net/239/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Explore
+https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju History
+http://178.124.179.122:8080/HistoryHD/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju History
+http://46.53.200.153:7777/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju History
+http://stream.mcquack.net/101/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju History
+https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Nature
+http://46.53.200.153:7777/play/a01k/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Nature
+https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" group-title="Documentary" tvg-language="rus" tvg-quality="576i",viju Nature
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+

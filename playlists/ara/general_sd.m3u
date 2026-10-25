@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2M.ma" tvg-name="2M" group-title="General" tvg-language="ara" tvg-quality="576i",2M
+http://185.9.2.18/chid_218/index.m3u8
+
+#EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde" group-title="General" tvg-language="ara;fra" tvg-quality="360p",2M Monde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=http://www.radio2m.ma/
+https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+
+#EXTINF:-1 tvg-id="AfaqTV.iq" tvg-name="Afaq TV" group-title="General" tvg-language="ara;eng" tvg-quality="576i",Afaq TV
+https://stream.afaq.iq/live/channel/afaqtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlIttihadTV.lb" tvg-name="Al Ittihad TV" group-title="General" tvg-language="ara" tvg-quality="552p",Al Ittihad TV
+http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
+
+#EXTINF:-1 tvg-id="AlIttihadTV.lb" tvg-name="Al Ittihad TV" group-title="General" tvg-language="ara" tvg-quality="552p",Al Ittihad TV
+https://live.alittihad.tv:444/ittihad/index.m3u8
+
+#EXTINF:-1 tvg-id="AlSaudiya.sa" tvg-name="Al Saudiya" group-title="General" tvg-language="ara" tvg-quality="360p",Al Saudiya
+https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8
+
+#EXTINF:-1 tvg-id="AlSaudiya.sa" tvg-name="Al Saudiya" group-title="General" tvg-language="ara" tvg-quality="576i",Al Saudiya
+https://list.iptvcat.com/my_list/s/c40a8dcdb403912a5a3d6a2a7b6be679.m3u8
+
+#EXTINF:-1 tvg-id="AlawlaTV.iq" tvg-name="Alawla TV" group-title="General" tvg-language="ara" tvg-quality="576i",Alawla TV
+https://live.alawla.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Althania.sy" tvg-name="Althania" group-title="General" tvg-language="ara" tvg-quality="576i",Althania
+https://qmcconnect.qa/api/StreamServices/arabictvsyria2/master.m3u8
+
+#EXTINF:-1 tvg-id="ERiTV1.er" tvg-name="ERi-TV 1" group-title="General" tvg-language="ara;eng;tig;tir" tvg-quality="576p",ERi-TV 1
+https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
+
+#EXTINF:-1 tvg-id="IraqFuture.iq" tvg-name="Iraq Future" group-title="General" tvg-language="ara" tvg-quality="480p",Iraq Future
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KaifaTV.jo" tvg-name="Kaifa TV" group-title="General" tvg-language="ara" tvg-quality="576p",Kaifa TV
+http://82.212.74.2:8000/live/7311.m3u8
+
+#EXTINF:-1 tvg-id="KTV1.kw" tvg-name="KTV 1" group-title="General" tvg-language="ara" tvg-quality="360p",KTV 1
+https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8
+
+#EXTINF:-1 tvg-id="LanaTV.lb" tvg-name="Lana TV" group-title="General" tvg-language="ara" tvg-quality="576p",Lana TV
+https://cdn.streamlane.tv/hls/ltv/master.m3u8
+
+#EXTINF:-1 tvg-id="LBC.sa" tvg-name="LBC" group-title="General" tvg-language="ara" tvg-quality="576p",LBC
+http://185.9.2.18/chid_327/index.m3u8
+
+#EXTINF:-1 tvg-id="LibyaAlWataniya.ly" tvg-name="Libya Al Wataniya" group-title="General" tvg-language="ara" tvg-quality="360p",Libya Al Wataniya
+https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
+
+#EXTINF:-1 tvg-id="OmanTV.om" tvg-name="Oman TV" group-title="General" tvg-language="ara" tvg-quality="576i",Oman TV
+http://trn03.bozztv.com/gin-omantv/index.m3u8
+
+#EXTINF:-1 tvg-id="OmanTV.om" tvg-name="Oman TV" group-title="General" tvg-language="ara" tvg-quality="360p",Oman TV
+https://cdn-globecast.akamaized.net/live/eds/oman_tv/hls_roku/index.m3u8
+
+#EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" tvg-name="Palestine Satellite Channel" group-title="General" tvg-language="ara" tvg-quality="360p",Palestine Satellite Channel
+https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8
+
+#EXTINF:-1 tvg-id="Palestinetv.ir" tvg-name="Palestinetv" group-title="General" tvg-language="ara;fas" tvg-quality="576i",Palestinetv
+https://ncdn.telewebion.ir/palestine/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioAlbaladTV.ps" tvg-name="Radio Albalad TV" group-title="General" tvg-language="ara" tvg-quality="576p",Radio Albalad TV
+https://streaming.zaytonatube.com:8081/radioalbalad/radioalbalad/index.m3u8
+
+#EXTINF:-1 tvg-id="RASDTV.eh" tvg-name="RASD TV" group-title="General" tvg-language="ara;spa" tvg-quality="404p",RASD TV
+https://cloud.streamingconnect.tv/hls/rasdtv/rasdtv.m3u8
+
+#EXTINF:-1 tvg-id="TeleTchad.td" tvg-name="Tele Tchad" group-title="General" tvg-language="ara;fra" tvg-quality="576i",Tele Tchad
+http://176.65.153.84:7013/play/a069/index.m3u8
+
+#EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-name="Turkmenistan" group-title="General" tvg-language="ara;cmn;eng;fra;rus;tuk" tvg-quality="406p",Turkmenistan
+https://alpha.tv.online.tm/hls/ch007.m3u8
+
+#EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-name="Turkmenistan" group-title="General" tvg-language="ara;cmn;eng;fra;rus;tuk" tvg-quality="406p",Turkmenistan
+https://alpha.tv.online.tm/legacyhls/ch007.m3u8
+
+#EXTINF:-1 tvg-id="VilayetTV.az" tvg-name="Vilayet TV" group-title="General" tvg-language="ara;aze" tvg-quality="576i",Vilayet TV
+https://nl.livekadeh.com/hls2/vilayet.m3u8
+

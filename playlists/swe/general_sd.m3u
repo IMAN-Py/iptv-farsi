@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NarTV.fi" tvg-name="Nar-TV" group-title="General" tvg-language="swe" tvg-quality="360p",Nar-TV
+https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
+

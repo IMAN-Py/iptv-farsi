@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DensLifeStyle.id" tvg-name="Dens Life & Style" group-title="Lifestyle" tvg-language="ind" tvg-quality="576i",Dens Life & Style
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
+
+#EXTINF:-1 tvg-id="DensPlay.id" tvg-name="Dens Play" group-title="Lifestyle" tvg-language="ind" tvg-quality="576i",Dens Play
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h225/index.m3u8
+
+#EXTINF:-1 tvg-id="DensPlay.id" tvg-name="Dens Play" group-title="Lifestyle" tvg-language="ind" tvg-quality="576i",Dens Play
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h246/index.m3u8
+

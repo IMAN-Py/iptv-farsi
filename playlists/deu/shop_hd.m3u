@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HSE.de" tvg-name="HSE" group-title="Shop" tvg-language="deu" tvg-quality="1080p",HSE
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HSEExtra.de" tvg-name="HSE Extra" group-title="Shop" tvg-language="deu" tvg-quality="1080p",HSE Extra
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Juwelo.de" tvg-name="Juwelo" group-title="Shop" tvg-language="deu" tvg-quality="720p",Juwelo
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
+
+#EXTINF:-1 tvg-id="QVC.de" tvg-name="QVC" group-title="Shop" tvg-language="deu" tvg-quality="720p",QVC
+https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
+

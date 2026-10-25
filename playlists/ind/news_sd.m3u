@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" group-title="News" tvg-language="ind" tvg-quality="576i",BeritaSatu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
+
+#EXTINF:-1 tvg-id="BNChannel.id" tvg-name="BN Channel" group-title="News" tvg-language="ind" tvg-quality="576i",BN Channel
+http://175.158.57.130:8888/stream/channelid/1402218159
+
+#EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" group-title="News" tvg-language="ind" tvg-quality="576i",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" group-title="News" tvg-language="ind" tvg-quality="576i",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" group-title="News" tvg-language="ind" tvg-quality="576i",CNN Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" group-title="News" tvg-language="ind" tvg-quality="576i",Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" group-title="News" tvg-language="ind" tvg-quality="576i",Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
+
+#EXTINF:-1 tvg-id="LingkarTV.id" tvg-name="Lingkar TV" group-title="Music;News;Religious" tvg-language="ind;jav" tvg-quality="576i",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" group-title="News" tvg-language="ind" tvg-quality="576i",Metro TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" group-title="Education;Outdoor" tvg-language="hin" tvg-quality="576p",DD Kisan
+https://cdn.pishow.tv/ott/live/223/master.m3u8
+
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" group-title="Education;Outdoor" tvg-language="hin" tvg-quality="504p",DD Kisan
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8
+

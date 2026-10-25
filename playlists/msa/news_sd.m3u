@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BeritaRTM.my" tvg-name="Berita RTM" group-title="News" tvg-language="eng;msa;tam;zho" tvg-quality="576i",Berita RTM
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+

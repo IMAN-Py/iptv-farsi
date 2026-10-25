@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="480i",AgroCanal
+https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
+
+#EXTINF:-1 tvg-id="CanalFDR.br" tvg-name="Canal FDR" group-title="Education;General" tvg-language="por" tvg-quality="480i",Canal FDR
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+
+#EXTINF:-1 tvg-id="CanalSaude.br" tvg-name="Canal Saude" group-title="Education;Lifestyle" tvg-language="por" tvg-quality="480i",Canal Saude
+https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
+
+#EXTINF:-1 tvg-id="OEncantadordeCaes.us" tvg-name="O Encantador de Caes" group-title="Education" tvg-language="por" tvg-quality="480i",O Encantador de Caes
+https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
+
+#EXTINF:-1 tvg-id="ProntosocorroHistoriasDeEmergencia.us" tvg-name="Pronto-socorro: Historias De Emergencia" group-title="Education" tvg-language="por" tvg-quality="480i",Pronto-socorro: Historias De Emergencia
+https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
+
+#EXTINF:-1 tvg-id="TVMackenzie.br" tvg-name="TV Mackenzie" group-title="Education" tvg-language="por" tvg-quality="480p",TV Mackenzie
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UniTVPortoAlegre.br" tvg-name="UniTV Porto Alegre" group-title="Education" tvg-language="por" tvg-quality="480p",UniTV Porto Alegre
+http://unitvaovivo.ufrgs.br:8080/live.ogg
+

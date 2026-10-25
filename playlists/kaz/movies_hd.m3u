@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KinoBoevik.kz" tvg-name="KinoBoevik" group-title="Movies" tvg-language="kaz;rus" tvg-quality="1080p",KinoBoevik
+https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Mirovoekino.kz" tvg-name="Mirovoe kino" group-title="Movies" tvg-language="kaz;rus" tvg-quality="1080p",Mirovoe kino
+https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="SilkWayCinema.kz" tvg-name="Silk Way Cinema" group-title="Movies" tvg-language="kaz;rus" tvg-quality="1080p",Silk Way Cinema
+https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8
+

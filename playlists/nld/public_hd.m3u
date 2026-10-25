@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FomixTV.nl" tvg-name="FomixTV" group-title="General;Music;Public" tvg-language="nld" tvg-quality="1080p",FomixTV
+#EXTVLCOPT:http-referrer=https://www.fomix.nl
+https://stream.fomixmedia.nl/FomixTV/video.m3u8
+

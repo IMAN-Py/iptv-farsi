@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MuzzOne.kz" tvg-name="MuzzOne" group-title="Music" tvg-language="eng;kaz;rus" tvg-quality="576i",MuzzOne
+#EXTVLCOPT:http-referrer=https://muzzone.tv/
+https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
+

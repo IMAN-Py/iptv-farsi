@@ -1,0 +1,98 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="arte" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",arte
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="arte" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",arte
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8
+
+#EXTINF:-1 tvg-id="Carac1.ch" tvg-name="Carac 1" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",Carac 1
+https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Carac2.ch" tvg-name="Carac 2" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",Carac 2
+https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Carac2.ch" tvg-name="Carac 2" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",Carac 2
+https://onefmmd.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Carac3.ch" tvg-name="Carac 3" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",Carac 3
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Carac3.ch" tvg-name="Carac 3" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",Carac 3
+https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Carac4.ch" tvg-name="Carac 4" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",Carac 4
+https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChandelTV.tg" tvg-name="Chandel TV" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",Chandel TV
+https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8
+
+#EXTINF:-1 tvg-id="D3TV.ml" tvg-name="D3 TV" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",D3 TV
+https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EVITV.cd" tvg-name="EVI TV" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",EVI TV
+https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8
+
+#EXTINF:-1 tvg-id="KC2.rw" tvg-name="KC2" group-title="Entertainment" tvg-language="eng;fra;kin" tvg-quality="720p",KC2
+http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="KC2.rw" tvg-name="KC2" group-title="Entertainment" tvg-language="eng;fra;kin" tvg-quality="720p",KC2
+https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="LaUne.be" tvg-name="La Une" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",La Une
+http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",M6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147:8080/M6/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVCLASSICS.de" tvg-name="MTV CLASSICS" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",MTV CLASSICS
+https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVANIMEGO.de" tvg-name="Pluto TV ANIME GO!" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",Pluto TV ANIME GO!
+https://jmp2.uk/plu-691b3669c48674840c3b832a.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFrenchCollection.de" tvg-name="Pluto TV French Collection" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",Pluto TV French Collection
+https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVInside.de" tvg-name="Pluto TV Inside" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",Pluto TV Inside
+https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTelerealiteFrance.de" tvg-name="Pluto TV Telerealite France" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",Pluto TV Telerealite France
+https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8
+
+#EXTINF:-1 tvg-id="RMCLife.fr" tvg-name="RMC Life" group-title="Entertainment;Interactive" tvg-language="fra" tvg-quality="1080p",RMC Life
+https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+
+#EXTINF:-1 tvg-id="SciFi.fr" tvg-name="SciFi" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",SciFi
+http://41.205.93.154/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-id="TalTV.ne" tvg-name="Tal TV" group-title="Entertainment" tvg-language="dje;fra;hau;tmh" tvg-quality="1080p",Tal TV
+https://mediaserver1.castpin.com/hls/taltv/index.m3u8
+
+#EXTINF:-1 tvg-id="TeenMom.de" tvg-name="Teen Mom" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",Teen Mom
+https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
+
+#EXTINF:-1 tvg-id="TeleMIX.us" tvg-name="TeleMIX" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",TeleMIX
+https://haititivi.com/haiti/telemix1/index.m3u8
+
+#EXTINF:-1 tvg-id="TR24Television.cm" tvg-name="TR24 Television" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",TR24 Television
+https://stream.it-innov.com/tr24/index.m3u8
+
+#EXTINF:-1 tvg-id="Turbo.de" tvg-name="Turbo" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",Turbo
+https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8
+
+#EXTINF:-1 tvg-id="TVCARiB.sx" tvg-name="TVCARiB" group-title="Entertainment" tvg-language="eng;fra" tvg-quality="720p",TVCARiB
+https://cdn.mycloudstream.io/hls/live/broadcast/s6nitpvn/index.m3u8
+
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" group-title="Entertainment" tvg-language="fra" tvg-quality="1086p",W9
+http://5.180.164.197:8080/W9/index.m3u8
+
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",W9
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8
+
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",W9
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd720.m3u8
+
+#EXTINF:-1 tvg-id="ZeeOne.uk" tvg-name="Zee One" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",Zee One
+https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
+

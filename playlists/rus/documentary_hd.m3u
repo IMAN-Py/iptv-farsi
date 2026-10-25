@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AnimalPlanet.ru" tvg-name="Animal Planet" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",Animal Planet
+http://stream.mcquack.net/114/index.m3u8
+
+#EXTINF:-1 tvg-id="CityEdenKinoDok.ru" tvg-name="City Eden KinoDok" group-title="Documentary;Series" tvg-language="rus" tvg-quality="1080p",City Eden KinoDok
+https://cityeden.catcast.tv/content/38354/index.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ru" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",Investigation Discovery
+http://stream.mcquack.net/205/index.m3u8
+
+#EXTINF:-1 tvg-id="Nano.ru" tvg-name="Nano" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",Nano
+http://185.23.80.23:8080/NANO_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-name="National Geographic" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",National Geographic
+http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="rus" tvg-quality="1080i",National Geographic Wild
+http://178.76.68.60:7442/50/mpegts
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",National Geographic Wild
+http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
+
+#EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Nauka" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",Nauka
+http://31.148.48.15/Nauka_2.0/index.m3u8
+
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",RT Documentary
+https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Smotrim100Fakty.ru" tvg-name="Smotrim 100% Fakty" group-title="Documentary" tvg-language="rus" tvg-quality="720p",Smotrim 100% Fakty
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="TERRA.ru" tvg-name="TERRA" group-title="Documentary" tvg-language="rus" tvg-quality="720p",TERRA
+http://31.148.48.15/Terra_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuPlusPlanet.ru" tvg-name="viju+ Planet" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",viju+ Planet
+http://stream.mcquack.net/240/index.m3u8
+

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" group-title="Travel" tvg-language="urd" tvg-quality="576i",Discover Pakistan
+http://103.86.135.164:9981/stream/channelid/2073419458?profile=pass&ticket=461AC76A96B0E3DC1FCFBFCF318709B61B2D3F5B
+
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" group-title="Travel" tvg-language="urd" tvg-quality="576i",Discover Pakistan
+http://103.86.135.164:9981/stream/channelid/2089283490?profile=pass&ticket=BB7D99860884A453E7DEA789EDFB5114621FEDED
+

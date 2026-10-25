@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="StarTamilTelevision.lk" tvg-name="Star Tamil Television" group-title="Movies" tvg-language="tam" tvg-quality="360p",Star Tamil Television
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
+
+#EXTINF:-1 tvg-id="SuriyanTV.in" tvg-name="Suriyan TV" group-title="Movies" tvg-language="tam" tvg-quality="576p",Suriyan TV
+https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8
+
+#EXTINF:-1 tvg-id="SuriyanTV.in" tvg-name="Suriyan TV" group-title="Movies" tvg-language="tam" tvg-quality="576p",Suriyan TV
+https://stream.sscloud7.com/live/suriyantv/index.m3u8
+

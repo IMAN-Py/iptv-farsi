@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SmashTV.mt" tvg-name="Smash TV" group-title="General" tvg-language="eng;mlt" tvg-quality="720p",Smash TV
+https://stream.smashmalta.com:25463/live/webplayer/livestream/47.m3u8
+

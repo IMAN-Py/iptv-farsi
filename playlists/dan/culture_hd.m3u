@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DR2.dk" tvg-name="DR2" group-title="Culture" tvg-language="dan" tvg-quality="1080p",DR2
+https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8
+

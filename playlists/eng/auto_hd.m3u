@@ -1,0 +1,82 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="30AWeLoveCars.us" tvg-name="30A We Love Cars" group-title="Auto" tvg-language="eng" tvg-quality="720p",30A We Love Cars
+https://30a-tv.com/feeds/vidaa/cars.m3u8
+
+#EXTINF:-1 tvg-id="CanalMotor.no" tvg-name="Canal Motor" group-title="Auto" tvg-language="eng;nor" tvg-quality="720p",Canal Motor
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalMotor.no" tvg-name="Canal Motor" group-title="Auto" tvg-language="eng;nor" tvg-quality="720p",Canal Motor
+https://digicom.hls.iptvdc.com/motorstv/index.m3u8
+
+#EXTINF:-1 tvg-id="Choppertown.us" tvg-name="Choppertown" group-title="Auto;Series" tvg-language="eng" tvg-quality="720p",Choppertown
+https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Choppertown.us" tvg-name="Choppertown" group-title="Auto;Series" tvg-language="eng" tvg-quality="720p",Choppertown
+https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.in" tvg-name="Discovery Turbo" group-title="Auto" tvg-language="eng" tvg-quality="720p",Discovery Turbo
+https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.us" tvg-name="Discovery Turbo" group-title="Auto" tvg-language="eng" tvg-quality="720p",Discovery Turbo
+http://41.205.93.154/ESPNNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="FunRoads.us" tvg-name="Fun Roads" group-title="Auto;Travel" tvg-language="eng" tvg-quality="720p",Fun Roads
+https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FunRoads.us" tvg-name="Fun Roads" group-title="Auto;Travel" tvg-language="eng" tvg-quality="720p",Fun Roads
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978
+
+#EXTINF:-1 tvg-id="FunRoads.us" tvg-name="Fun Roads" group-title="Auto;Travel" tvg-language="eng" tvg-quality="720p",Fun Roads
+https://www.funroads-hls1.com/funroads.m3u8
+
+#EXTINF:-1 tvg-id="InTrouble.nl" tvg-name="InTrouble" group-title="Auto;Outdoor;Sports" tvg-language="eng" tvg-quality="1080p",InTrouble
+https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InTrouble.nl" tvg-name="InTrouble" group-title="Auto;Outdoor;Sports" tvg-language="eng" tvg-quality="1080p",InTrouble
+https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InTrouble.nl" tvg-name="InTrouble" group-title="Auto;Outdoor;Sports" tvg-language="eng" tvg-quality="1080p",InTrouble
+https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" group-title="Auto" tvg-language="eng" tvg-quality="1080p",Motorvision
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+
+#EXTINF:-1 tvg-id="Motorvision.de" tvg-name="Motorvision" group-title="Auto" tvg-language="eng" tvg-quality="720p",Motorvision
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+
+#EXTINF:-1 tvg-id="PlutoTVCars.us" tvg-name="Pluto TV Cars" group-title="Auto" tvg-language="eng" tvg-quality="720p",Pluto TV Cars
+https://jmp2.uk/plu-69c592dff0f1a7d732dc6e36.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVMotor.se" tvg-name="Pluto TV Motor" group-title="Auto" tvg-language="dan;eng" tvg-quality="720p",Pluto TV Motor
+https://jmp2.uk/plu-68ac51dede4a734954b5a67a.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVMotor.se" tvg-name="Pluto TV Motor" group-title="Auto" tvg-language="eng;nor" tvg-quality="720p",Pluto TV Motor
+https://jmp2.uk/plu-68ac52b05190a45dc990ee39.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVMotor.se" tvg-name="Pluto TV Motor" group-title="Auto" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Motor
+https://jmp2.uk/plu-68ac52fac9b5923e0585578b.m3u8
+
+#EXTINF:-1 tvg-id="PowerNationTV.us" tvg-name="PowerNation TV" group-title="Auto" tvg-language="eng" tvg-quality="1080p",PowerNation TV
+https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerNationTV.us" tvg-name="PowerNation TV" group-title="Auto" tvg-language="eng" tvg-quality="1080p",PowerNation TV
+https://amg01258-raycomsports-powernationnz-samsungnz-q92ks.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerNationTV.us" tvg-name="PowerNation TV" group-title="Auto" tvg-language="eng" tvg-quality="1080p",PowerNation TV
+https://d1g3ue0w0jg45k.cloudfront.net/POWERNATION.m3u8
+
+#EXTINF:-1 tvg-id="REVNAction.us" tvg-name="REV'N Action" group-title="Auto;Outdoor;Series;Sports" tvg-language="eng" tvg-quality="720p",REV'N Action
+https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
+
+#EXTINF:-1 tvg-id="REVNAction.us" tvg-name="REV'N Action" group-title="Auto;Outdoor;Series;Sports" tvg-language="eng" tvg-quality="720p",REV'N Action
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="720p",Top Gear
+https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="720p",Top Gear
+https://d1daq1khzqxpku.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" group-title="Auto;Entertainment" tvg-language="eng" tvg-quality="720p",Top Gear
+https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8
+

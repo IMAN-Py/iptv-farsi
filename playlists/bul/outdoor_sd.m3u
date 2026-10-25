@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AgroTV.bg" tvg-name="Agro TV" group-title="Outdoor" tvg-language="bul" tvg-quality="480p",Agro TV
+https://restr2.bgtv.bg/agro/hls/agro.m3u8
+
+#EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" group-title="Outdoor" tvg-language="bul;ces;hun;ron" tvg-quality="576i",The Fishing & Hunting Channel
+http://88.212.15.17/live/test_fishing_hunting/playlist.m3u8
+

@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Atyray.kz" tvg-name="Atyray" group-title="General" tvg-language="kaz" tvg-quality="720p",Atyray
+https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
+
+#EXTINF:-1 tvg-id="Ertis.kz" tvg-name="Ertis" group-title="General" tvg-language="kaz" tvg-quality="1080p",Ertis
+https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
+
+#EXTINF:-1 tvg-id="JibekJoly.kz" tvg-name="Jibek Joly" group-title="General" tvg-language="kaz;rus" tvg-quality="1080p",Jibek Joly
+https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kokshe.kz" tvg-name="Kokshe" group-title="General" tvg-language="kaz" tvg-quality="720p",Kokshe
+https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
+
+#EXTINF:-1 tvg-id="KTK.kz" tvg-name="KTK" group-title="General" tvg-language="kaz;rus" tvg-quality="720p",KTK
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTK.kz" tvg-name="KTK" group-title="General" tvg-language="kaz;rus" tvg-quality="720p",KTK
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Qazaqstan.kz" tvg-name="Qazaqstan" group-title="General" tvg-language="kaz" tvg-quality="1080p",Qazaqstan
+http://stream.mcquack.net/71/index.m3u8
+
+#EXTINF:-1 tvg-id="Qazaqstan.kz" tvg-name="Qazaqstan" group-title="General" tvg-language="kaz" tvg-quality="1080p",Qazaqstan
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Qazaqstan.kz" tvg-name="Qazaqstan" group-title="General" tvg-language="kaz" tvg-quality="1080p",Qazaqstan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://megogo.net/
+https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8
+
+#EXTINF:-1 tvg-id="Qyzylorda.kz" tvg-name="Qyzylorda" group-title="General" tvg-language="kaz" tvg-quality="720p",Qyzylorda
+https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+
+#EXTINF:-1 tvg-id="Saryarqa.kz" tvg-name="Saryarqa" group-title="General" tvg-language="kaz" tvg-quality="720p",Saryarqa
+https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
+
+#EXTINF:-1 tvg-id="Semei.kz" tvg-name="Semei" group-title="General" tvg-language="kaz" tvg-quality="1080p",Semei
+#EXTVLCOPT:http-referrer=https://qazaqstan.tv/
+https://stream.kaztrk.kz/regional/semeytv/index.m3u8
+
+#EXTINF:-1 tvg-id="SilkWay.kz" tvg-name="Silk Way" group-title="General" tvg-language="eng;kaz;rus" tvg-quality="1080p",Silk Way
+https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8
+

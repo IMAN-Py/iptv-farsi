@@ -1,0 +1,92 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="31Kanal.kz" tvg-name="31 Kanal" group-title="General" tvg-language="kaz" tvg-quality="576p",31 Kanal
+http://stream.mcquack.net/388/index.m3u8
+
+#EXTINF:-1 tvg-id="31Kanal.kz" tvg-name="31 Kanal" group-title="General" tvg-language="kaz" tvg-quality="576p",31 Kanal
+https://fs.uplink.kz/31kanal/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="31Kanal.kz" tvg-name="31 Kanal" group-title="General" tvg-language="kaz" tvg-quality="576i",31 Kanal
+#EXTVLCOPT:http-referrer=https://31.kz/
+https://streams.adapto.kz/hls/live/31kz/main_stream.m3u8
+
+#EXTINF:-1 tvg-id="AlmatyTV.kz" tvg-name="Almaty TV" group-title="General" tvg-language="kaz;rus" tvg-quality="576p",Almaty TV
+https://fs.uplink.kz/almaty/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Aqjaiyq.kz" tvg-name="Aqjaiyq" group-title="General" tvg-language="kaz" tvg-quality="576p",Aqjaiyq
+https://stream.kaztrk.kz/regional/oraltv/index.m3u8
+
+#EXTINF:-1 tvg-id="Aqtobe.kz" tvg-name="Aqtobe" group-title="General" tvg-language="kaz" tvg-quality="576p",Aqtobe
+https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
+
+#EXTINF:-1 tvg-id="AstanaTV.kz" tvg-name="Astana TV" group-title="General" tvg-language="kaz" tvg-quality="576p",Astana TV
+http://stream.mcquack.net/28/index.m3u8
+
+#EXTINF:-1 tvg-id="AstanaTV.kz" tvg-name="Astana TV" group-title="General" tvg-language="kaz" tvg-quality="576p",Astana TV
+https://fs.uplink.kz/astana/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Channel7.kz" tvg-name="Channel 7" group-title="General" tvg-language="kaz;rus" tvg-quality="576p",Channel 7
+http://stream.mcquack.net/27/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel7.kz" tvg-name="Channel 7" group-title="General" tvg-language="kaz;rus" tvg-quality="576p",Channel 7
+https://fs.uplink.kz/7_kanal/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="ChannelOneEurasia.kz" tvg-name="Channel One Eurasia" group-title="General" tvg-language="kaz;rus" tvg-quality="576p",Channel One Eurasia
+https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Jambyl.kz" tvg-name="Jambyl" group-title="General" tvg-language="kaz" tvg-quality="360p",Jambyl
+https://stream.kaztrk.kz/regional/taraztv/index.m3u8
+
+#EXTINF:-1 tvg-id="JibekJoly.kz" tvg-name="Jibek Joly" group-title="General" tvg-language="eng;kaz;rus" tvg-quality="576p",Jibek Joly
+https://fs.uplink.kz/jibek_joly/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Khabar.kz" tvg-name="Khabar" group-title="General" tvg-language="kaz;rus" tvg-quality="576p",Khabar
+https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="KTK.kz" tvg-name="KTK" group-title="General" tvg-language="kaz;rus" tvg-quality="576p",KTK
+http://stream.mcquack.net/26/index.m3u8
+
+#EXTINF:-1 tvg-id="KTK.kz" tvg-name="KTK" group-title="General" tvg-language="kaz;rus" tvg-quality="576p",KTK
+https://fs.uplink.kz/ktk/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Mangystay.kz" tvg-name="Mangystay" group-title="General" tvg-language="eng;kaz;rus" tvg-quality="540p",Mangystay
+https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
+
+#EXTINF:-1 tvg-id="Novoetelevidenie.kz" tvg-name="Novoe televidenie" group-title="General" tvg-language="kaz" tvg-quality="576i",Novoe televidenie
+http://120.70.60.179:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
+
+#EXTINF:-1 tvg-id="Novoetelevidenie.kz" tvg-name="Novoe televidenie" group-title="General" tvg-language="kaz" tvg-quality="576p",Novoe televidenie
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Novoetelevidenie.kz" tvg-name="Novoe televidenie" group-title="General" tvg-language="kaz" tvg-quality="576p",Novoe televidenie
+https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Novoetelevidenie.kz" tvg-name="Novoe televidenie" group-title="General" tvg-language="kaz" tvg-quality="576i",Novoe televidenie
+https://live.zhanafm.kz:8181/memfs/fd715789-382f-4ec6-b4ba-d8e2fde59c7b.m3u8
+
+#EXTINF:-1 tvg-id="NTK.kz" tvg-name="NTK" group-title="General" tvg-language="kaz;rus" tvg-quality="576p",NTK
+http://stream.mcquack.net/389/index.m3u8
+
+#EXTINF:-1 tvg-id="NTK.kz" tvg-name="NTK" group-title="General" tvg-language="kaz;rus" tvg-quality="576p",NTK
+https://fs.uplink.kz/ntk/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Ontustik.kz" tvg-name="Ontustik" group-title="General" tvg-language="kaz" tvg-quality="360p",Ontustik
+https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
+
+#EXTINF:-1 tvg-id="Qazaqstan.kz" tvg-name="Qazaqstan" group-title="General" tvg-language="kaz" tvg-quality="576i",Qazaqstan
+http://120.70.60.179:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+
+#EXTINF:-1 tvg-id="Qazaqstan.kz" tvg-name="Qazaqstan" group-title="General" tvg-language="kaz" tvg-quality="576p",Qazaqstan
+https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="QazaqstanInternational.kz" tvg-name="Qazaqstan International" group-title="General" tvg-language="eng;kaz;rus" tvg-quality="576i",Qazaqstan International
+https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RikaTV.kz" tvg-name="Rika TV" group-title="General" tvg-language="kaz;rus" tvg-quality="480p",Rika TV
+https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SilkWay.kz" tvg-name="Silk Way" group-title="General" tvg-language="eng;kaz;rus" tvg-quality="576i",Silk Way
+https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ulytau.kz" tvg-name="Ulytau" group-title="General" tvg-language="kaz;rus" tvg-quality="576i",Ulytau
+https://ulytau.tv/hls/master.m3u8
+

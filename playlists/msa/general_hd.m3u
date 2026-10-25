@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTBGo.bn" tvg-name="RTB Go" group-title="General" tvg-language="eng;msa" tvg-quality="720p",RTB Go
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTBSukmaindera.bn" tvg-name="RTB Sukmaindera" group-title="General" tvg-language="eng;msa" tvg-quality="720p",RTB Sukmaindera
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" group-title="General" tvg-language="eng;msa" tvg-quality="1080p",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" group-title="General" tvg-language="eng;msa" tvg-quality="1080p",TV1
+https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047&token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047
+
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" group-title="General" tvg-language="eng;hin;msa;tam;zho" tvg-quality="1080p",TV2
+https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d
+

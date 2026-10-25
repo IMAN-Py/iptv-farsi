@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CafeTradeTV.ir" tvg-name="Cafe Trade TV" group-title="Business" tvg-language="fas" tvg-quality="480i",Cafe Trade TV
+https://cafetradehls.wns.live/hls/stream.m3u8
+

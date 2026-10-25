@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ComedyCentralenEspanol.us" tvg-name="Comedy Central en Espanol" group-title="Comedy" tvg-language="spa" tvg-quality="480i",Comedy Central en Espanol
+https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
+
+#EXTINF:-1 tvg-id="Vayasemanita.us" tvg-name="Vaya semanita" group-title="Comedy" tvg-language="spa" tvg-quality="576i",Vaya semanita
+https://jmp2.uk/plu-5f28009b150b2500077766b8.m3u8
+

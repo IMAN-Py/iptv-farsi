@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RadioTeleFullGospel.ht" tvg-name="Radio Tele Full Gospel" group-title="Religious" tvg-language="fra;hat" tvg-quality="576i",Radio Tele Full Gospel
+https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleSentinel.us" tvg-name="Radio Tele Sentinel" group-title="Religious" tvg-language="fra;hat" tvg-quality="480i",Radio Tele Sentinel
+https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlist.m3u8
+

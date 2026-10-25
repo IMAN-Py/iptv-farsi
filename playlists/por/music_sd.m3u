@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KpopTVPlay.br" tvg-name="KpopTV Play" group-title="Music" tvg-language="kor;por" tvg-quality="576p",KpopTV Play
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RFPtv.pt" tvg-name="RFPtv" group-title="Music" tvg-language="por" tvg-quality="360p",RFPtv
+https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCidade.cv" tvg-name="TV Cidade" group-title="Music" tvg-language="por" tvg-quality="576i",TV Cidade
+https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
+

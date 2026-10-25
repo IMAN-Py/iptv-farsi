@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BEATTV.nl" tvg-name="BEATTV" group-title="Entertainment;Music" tvg-language="nld" tvg-quality="1080p",BEATTV
+https://tv.beatfm.nl/live.m3u8
+
+#EXTINF:-1 tvg-id="MaLive.nl" tvg-name="MaLive" group-title="Entertainment" tvg-language="nld" tvg-quality="1080p",MaLive
+https://live.salto.nl/hls/malive_high.m3u8
+
+#EXTINF:-1 tvg-id="NosIslaTV.aw" tvg-name="Nos Isla TV" group-title="Entertainment" tvg-language="nld;pap" tvg-quality="1080p",Nos Isla TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NosIslaTV.aw" tvg-name="Nos Isla TV" group-title="Entertainment" tvg-language="nld;pap" tvg-quality="1080p",Nos Isla TV
+https://cdn01.setar.aw/Canal23/canal23/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NosPais.cw" tvg-name="Nos Pais" group-title="Entertainment" tvg-language="eng;nld;pap" tvg-quality="720p",Nos Pais
+https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioToppers.nl" tvg-name="RadioToppers" group-title="Entertainment" tvg-language="nld" tvg-quality="720p",RadioToppers
+https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Salto1.nl" tvg-name="Salto 1" group-title="Entertainment" tvg-language="nld" tvg-quality="720p",Salto 1
+https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8
+
+#EXTINF:-1 tvg-id="SBS6Classics.nl" tvg-name="SBS6 Classics" group-title="Entertainment" tvg-language="nld" tvg-quality="1080p",SBS6 Classics
+https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
+
+#EXTINF:-1 tvg-id="STARChannel.nl" tvg-name="STAR Channel" group-title="Entertainment" tvg-language="nld" tvg-quality="1080p",STAR Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://lb.iptvnetwork.net/ls28/10012/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VozDiBonaireTV.bq" tvg-name="Voz Di Bonaire TV" group-title="Entertainment" tvg-language="nld;pap" tvg-quality="720p",Voz Di Bonaire TV
+https://tv.westream.cloud/VozdiBonaireTV/VozdiBonaireTV.m3u8
+

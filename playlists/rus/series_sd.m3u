@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A2.ru" tvg-name="A2" group-title="Series" tvg-language="rus" tvg-quality="576p",A2
+http://31.148.48.15/A2/index.m3u8
+
+#EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" group-title="Movies;Series" tvg-language="rus" tvg-quality="576p",Amedia Hit
+http://flussonic.linkintel.ru/amedia-hit/index.m3u8
+
+#EXTINF:-1 tvg-id="Bolt.ru" tvg-name="Bolt" group-title="Movies;Series" tvg-language="rus" tvg-quality="576p",Bolt
+http://hls127.freeott.top:8080/Bolt/video.m3u8
+
+#EXTINF:-1 tvg-id="FilmUADrama.ua" tvg-name="FilmUADrama" group-title="Movies;Series" tvg-language="rus;ukr" tvg-quality="576i",FilmUADrama
+https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxLife.ru" tvg-name="Fox Life" group-title="Series" tvg-language="rus" tvg-quality="576p",Fox Life
+http://stream.mcquack.net/129/index.m3u8
+
+#EXTINF:-1 tvg-id="MirSeriala.ru" tvg-name="Mir Seriala" group-title="Series" tvg-language="rus" tvg-quality="576p",Mir Seriala
+http://176.118.197.101/MirSeriala/index.m3u8
+
+#EXTINF:-1 tvg-id="MirSeriala.ru" tvg-name="Mir Seriala" group-title="Series" tvg-language="rus" tvg-quality="576p",Mir Seriala
+http://31.148.48.15/Mir_Seriala/index.m3u8
+
+#EXTINF:-1 tvg-id="Nashe.ru" tvg-name="Nashe" group-title="Movies;Series" tvg-language="rus" tvg-quality="576p",Nashe
+http://stream.mcquack.net/217/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVSeries.ru" tvg-name="NTV Series" group-title="Series" tvg-language="rus" tvg-quality="576p",NTV Series
+http://stream.mcquack.net/301/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVSeries.ru" tvg-name="NTV Series" group-title="Series" tvg-language="rus" tvg-quality="576p",NTV Series
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTVHit.ru" tvg-name="NTV-Hit" group-title="Series" tvg-language="rus" tvg-quality="576p",NTV-Hit
+http://178.134.1.158:8081/ntvhit/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVHit.ru" tvg-name="NTV-Hit" group-title="Series" tvg-language="rus" tvg-quality="576p",NTV-Hit
+https://cdn.ntv.ru/th_hit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Saphire.ru" tvg-name="Saphire" group-title="Series" tvg-language="rus" tvg-quality="576p",Saphire
+http://31.148.48.15/Sapfir/index.m3u8
+
+#EXTINF:-1 tvg-id="Smotrim100Lyubov.ru" tvg-name="Smotrim 100% Lyubov" group-title="Series" tvg-language="rus" tvg-quality="576i",Smotrim 100% Lyubov
+https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
+
+#EXTINF:-1 tvg-id="Smotrim100Muzhskoe.ru" tvg-name="Smotrim 100% Muzhskoe" group-title="Series" tvg-language="rus" tvg-quality="576i",Smotrim 100% Muzhskoe
+https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
+
+#EXTINF:-1 tvg-id="ViasatEpicDrama.uk" tvg-name="Viasat Epic Drama" group-title="Series" tvg-language="rus" tvg-quality="576p",Viasat Epic Drama
+http://195.189.60.253/118/index.m3u8
+

@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BPXTVRadio.us" tvg-name="BPX TV Radio" group-title="Music" tvg-language="fra;hat" tvg-quality="480i",BPX TV Radio
+https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ClubbingTV.us" tvg-name="Clubbing TV" group-title="Music" tvg-language="eng;fra" tvg-quality="576i",Clubbing TV
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+
+#EXTINF:-1 tvg-id="FunVision.be" tvg-name="Fun Vision" group-title="Music" tvg-language="fra" tvg-quality="576i",Fun Vision
+https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
+
+#EXTINF:-1 tvg-id="IdentiteTeleCaraibes.mq" tvg-name="Identite Tele Caraibes" group-title="Music" tvg-language="fra" tvg-quality="548p",Identite Tele Caraibes
+https://vdo2.pro-fhi.net:3769/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="M6Music.fr" tvg-name="M6 Music" group-title="Music" tvg-language="fra" tvg-quality="576i",M6 Music
+https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
+
+#EXTINF:-1 tvg-id="MCMPop.fr" tvg-name="MCM Pop" group-title="Music" tvg-language="fra" tvg-quality="580p",MCM Pop
+http://188.115.15.121:8000/play/a014
+
+#EXTINF:-1 tvg-id="MCMTop.ru" tvg-name="MCM Top" group-title="Music" tvg-language="fra" tvg-quality="576p",MCM Top
+http://46.32.176.50/mcmtop/index.m3u8
+
+#EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="NRJ Hits" group-title="Music" tvg-language="fra" tvg-quality="576i",NRJ Hits
+https://test.946985.filegear-sg.me/proxy/a23981548880f405
+
+#EXTINF:-1 tvg-id="RadioTeleHit.ht" tvg-name="Radio Tele Hit" group-title="Music" tvg-language="fra;hat" tvg-quality="480p",Radio Tele Hit
+https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleKajou.us" tvg-name="Radio Tele Kajou" group-title="Music" tvg-language="fra" tvg-quality="480p",Radio Tele Kajou
+https://59d39900ebfb8.streamlock.net/RadioTelekAJOU/RadioTelekAJOU/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-name="Stingray Classica" group-title="Music" tvg-language="deu;eng;fra;spa" tvg-quality="480i",Stingray Classica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8
+
+#EXTINF:-1 tvg-id="TeleZoukla.mq" tvg-name="Tele Zoukla" group-title="Music" tvg-language="fra" tvg-quality="576i",Tele Zoukla
+https://vdo.pro-fhi.net:3228/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="Trace Latina" group-title="Music" tvg-language="fra" tvg-quality="576p",Trace Latina
+https://mumbai-edge.smartplaytv.in/TraceLatina/index.m3u8
+

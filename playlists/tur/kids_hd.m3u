@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="720p",BabyFirst
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJr.tr" tvg-name="Disney Jr." group-title="Animation;Kids" tvg-language="tur" tvg-quality="1080p",Disney Jr.
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
+
+#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-name="Minika Cocuk" group-title="Kids" tvg-language="tur" tvg-quality="720p",Minika Cocuk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+
+#EXTINF:-1 tvg-id="MinikaGo.tr" tvg-name="Minika Go" group-title="Kids" tvg-language="eng;tur" tvg-quality="720p",Minika Go
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+
+#EXTINF:-1 tvg-id="SpacetoonTurkey.tr" tvg-name="Spacetoon Turkey" group-title="Animation;Kids" tvg-language="tur" tvg-quality="720p",Spacetoon Turkey
+#EXTVLCOPT:http-referrer=https://spacetoon.com.tr/
+https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
+
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Cocuk" group-title="Kids" tvg-language="tur" tvg-quality="1440p",TRT Cocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-name="TRT Diyanet Cocuk" group-title="Kids" tvg-language="tur" tvg-quality="720p",TRT Diyanet Cocuk
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+

@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Cinema.mn" tvg-name="Cinema" group-title="Movies" tvg-language="mon" tvg-quality="720p",Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn1.skygo.mn/live/disk1/CinemaTV/HLS-FTA/CinemaTV.m3u8
+
+#EXTINF:-1 tvg-id="Cinema.mn" tvg-name="Cinema" group-title="Movies" tvg-language="mon" tvg-quality="1080p",Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd
+
+#EXTINF:-1 tvg-id="Cinema.mn" tvg-name="Cinema" group-title="Movies" tvg-language="mon" tvg-quality="720p",Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
+
+#EXTINF:-1 tvg-id="MovieBox.mn" tvg-name="MovieBox" group-title="Movies" tvg-language="mon" tvg-quality="1080p",MovieBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
+
+#EXTINF:-1 tvg-id="MovieBox.mn" tvg-name="MovieBox" group-title="Movies" tvg-language="mon" tvg-quality="720p",MovieBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
+

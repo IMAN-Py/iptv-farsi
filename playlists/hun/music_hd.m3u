@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OxygenMusic.hu" tvg-name="Oxygen Music" group-title="Music" tvg-language="hun" tvg-quality="1080p",Oxygen Music
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+
+#EXTINF:-1 tvg-id="TVBozsikeHamburgHD.de" tvg-name="TV Bozsike Hamburg HD" group-title="Music" tvg-language="deu;hun" tvg-quality="1080p",TV Bozsike Hamburg HD
+https://rtmp.radiobozsike.com/hls/stream1.m3u8
+

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MetroTV.in" tvg-name="Metro TV" group-title="General" tvg-language="tel" tvg-quality="1080p",Metro TV
+https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
+

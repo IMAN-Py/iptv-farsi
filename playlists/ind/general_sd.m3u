@@ -1,0 +1,126 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BandungTV.id" tvg-name="Bandung TV" group-title="General" tvg-language="ind" tvg-quality="360p",Bandung TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+
+#EXTINF:-1 tvg-id="BatamTV.id" tvg-name="Batam TV" group-title="General" tvg-language="ind" tvg-quality="480p",Batam TV
+http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BungoTV.id" tvg-name="Bungo TV" group-title="General" tvg-language="ind" tvg-quality="480p",Bungo TV
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CelebesTV.id" tvg-name="Celebes TV" group-title="General" tvg-language="ind" tvg-quality="576i",Celebes TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
+
+#EXTINF:-1 tvg-id="dTVi.id" tvg-name="dTVi" group-title="General" tvg-language="ind" tvg-quality="576i",dTVi
+https://e.siar.us/live/dtvi.m3u8
+
+#EXTINF:-1 tvg-id="DutaTV.id" tvg-name="Duta TV" group-title="General" tvg-language="ind" tvg-quality="360p",Duta TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EInternational.id" tvg-name="E International" group-title="General" tvg-language="ind" tvg-quality="576p",E International
+https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8
+
+#EXTINF:-1 tvg-id="EInternational.id" tvg-name="E International" group-title="General" tvg-language="ind" tvg-quality="576p",E International
+https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8
+
+#EXTINF:-1 tvg-id="EInternational.id" tvg-name="E International" group-title="General" tvg-language="ind" tvg-quality="576p",E International
+https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp410.310.578:2020.m3u8
+
+#EXTINF:-1 tvg-id="EInternational.id" tvg-name="E International" group-title="General" tvg-language="ind" tvg-quality="480p",E International
+https://vodcdn.bamboo-cloud.com/livehls/69a123b780c99d28cc0f0016/master.m3u8
+
+#EXTINF:-1 tvg-id="GrooviaKanal.id" tvg-name="Groovia Kanal" group-title="General" tvg-language="ind" tvg-quality="576p",Groovia Kanal
+https://gist.githubusercontent.com/iptvonlinetv/02d209207082846012c15305f7471c55/raw/4439b54b986e696e6fcfba7a53380d85b27bbbc1/udp450.500.723:6050.m3u8
+
+#EXTINF:-1 tvg-id="JambiTV.id" tvg-name="Jambi TV" group-title="General" tvg-language="ind" tvg-quality="576i",Jambi TV
+https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8
+
+#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" group-title="General" tvg-language="ind" tvg-quality="576i",JTV
+http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" group-title="General" tvg-language="ind" tvg-quality="480p",JTV
+http://122.248.43.242:1935/JTVMADURA/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" group-title="General" tvg-language="ind" tvg-quality="576i",JTV
+http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KilisuciTV.id" tvg-name="Kilisuci TV" group-title="General" tvg-language="ind" tvg-quality="576i",Kilisuci TV
+https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-name="Magna Channel" group-title="General" tvg-language="ind" tvg-quality="576i",Magna Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8
+
+#EXTINF:-1 tvg-id="MGSTV.id" tvg-name="MGSTV" group-title="General" tvg-language="ind" tvg-quality="360p",MGSTV
+#EXTVLCOPT:http-referrer=https://mgstv.co.id/live-streaming/
+https://mgstv.siar.us/live/mgstv.m3u8
+
+#EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" group-title="General" tvg-language="eng;ind" tvg-quality="576i",Moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-name="Nusantara TV" group-title="General" tvg-language="ind" tvg-quality="576i",Nusantara TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" group-title="General" tvg-language="ind" tvg-quality="576i",SCTV
+http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" group-title="General" tvg-language="ind" tvg-quality="576i",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="576i",TVRI
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+
+#EXTINF:-1 tvg-id="YOYInternational.id" tvg-name="YOY International" group-title="General" tvg-language="ind" tvg-quality="576p",YOY International
+https://gist.githubusercontent.com/iptvonlinetv/8a6b2f12e5e968537378f1245cea02c9/raw/78bf84476f8e24cc8ea9d5ac24855078c61b18db/udp305.575.530:3030.m3u8
+

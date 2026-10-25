@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ATR.ua" tvg-name="ATR" group-title="Culture" tvg-language="rus;ukr" tvg-quality="1080p",ATR
+http://stream.mcquack.net/244/index.m3u8
+
+#EXTINF:-1 tvg-id="ATR.ua" tvg-name="ATR" group-title="Culture" tvg-language="rus;ukr" tvg-quality="720p",ATR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="Belarus3.by" tvg-name="Belarus-3" group-title="Culture" tvg-language="bel;rus" tvg-quality="1080p",Belarus-3
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ministerstvoidey.ru" tvg-name="Ministerstvo idey" group-title="Culture" tvg-language="rus" tvg-quality="1080p",Ministerstvo idey
+https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OstWest24.de" tvg-name="Ost West 24" group-title="Culture;News" tvg-language="rus" tvg-quality="1080p",Ost West 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/455/index.m3u8
+
+#EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Culture" tvg-language="rus" tvg-quality="1080p",Russia-K
+https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Culture" tvg-language="rus" tvg-quality="1080p",Russia-K
+https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
+
+#EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Culture" tvg-language="rus" tvg-quality="1080p",Russia-K
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Culture" tvg-language="rus" tvg-quality="1080p",Russia-K
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" group-title="Culture" tvg-language="rus" tvg-quality="1080p",Russia-K
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
+

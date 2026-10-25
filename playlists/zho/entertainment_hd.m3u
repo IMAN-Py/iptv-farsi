@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" group-title="Entertainment" tvg-language="zho" tvg-quality="1080p",8TV
+#EXTVLCOPT:http-referrer=https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420325
+https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420325
+
+#EXTINF:-1 tvg-id="CCTV3.cn" tvg-name="CCTV-3" group-title="Entertainment" tvg-language="zho" tvg-quality="720p",CCTV-3
+http://74.91.26.218:82/live/cctv3hd.m3u8
+
+#EXTINF:-1 tvg-id="ChannelU.sg" tvg-name="Channel U" group-title="Entertainment" tvg-language="eng;kor;tha;zho" tvg-quality="720p",Channel U
+https://cdn.qd.je/163189/chu
+
+#EXTINF:-1 tvg-id="Jade.hk" tvg-name="Jade" group-title="Entertainment" tvg-language="yue;zho" tvg-quality="1080p",Jade
+http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
+
+#EXTINF:-1 tvg-id="KIX.hk" tvg-name="KIX" group-title="Entertainment" tvg-language="eng;ind;msa;zho" tvg-quality="1080p",KIX
+https://freem3u.xyz/api/live/play.m3u8?vid=9901
+
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="meWATCH LIVE 1" group-title="Entertainment" tvg-language="eng;mal;zho" tvg-quality="1080p",meWATCH LIVE 1
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+
+#EXTINF:-1 tvg-id="TDMEntertainment.mo" tvg-name="TDM Entertainment" group-title="Entertainment" tvg-language="yue;zho" tvg-quality="720p",TDM Entertainment
+https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-name="TVBS-Asia" group-title="Entertainment" tvg-language="zho" tvg-quality="1080p",TVBS-Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+

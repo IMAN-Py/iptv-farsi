@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ICnet1.ca" tvg-name="ICnet 1" group-title="Religious" tvg-language="fas" tvg-quality="480i",ICnet 1
+https://icnet1hls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ICnet2.ca" tvg-name="ICnet 2" group-title="Religious" tvg-language="fas" tvg-quality="480i",ICnet 2
+https://icnet2hls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="IranJewishTV.ir" tvg-name="Iran Jewish TV" group-title="Religious" tvg-language="fas" tvg-quality="576i",Iran Jewish TV
+http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KalemehTV.uk" tvg-name="Kalemeh TV" group-title="Religious" tvg-language="fas" tvg-quality="576i",Kalemeh TV
+https://kalemeh.tv/live/hls/gate.php?p=/live/ngrp:kalemeh_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MarjaeyatTVPersian.iq" tvg-name="Marjaeyat TV Persian" group-title="Religious" tvg-language="fas" tvg-quality="240p",Marjaeyat TV Persian
+https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MohabatTV.ir" tvg-name="Mohabat TV" group-title="Religious" tvg-language="fas" tvg-quality="540p",Mohabat TV
+http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MohabatTV.ir" tvg-name="Mohabat TV" group-title="Religious" tvg-language="fas" tvg-quality="540p",Mohabat TV
+https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MohabatTV.us" tvg-name="Mohabat TV" group-title="Religious" tvg-language="fas" tvg-quality="540p",Mohabat TV
+http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NourTV.ae" tvg-name="Nour TV" group-title="Religious" tvg-language="fas" tvg-quality="576i",Nour TV
+https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
+
+#EXTINF:-1 tvg-id="QuranTV.ir" tvg-name="Quran TV" group-title="Religious" tvg-language="fas" tvg-quality="576i",Quran TV
+https://ncdn.telewebion.ir/quran/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sat7Pars.cy" tvg-name="Sat 7 Pars" group-title="Religious" tvg-language="fas" tvg-quality="576i",Sat 7 Pars
+https://sat7phls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="VelayatTVNetwork.us" tvg-name="Velayat TV Network" group-title="Religious" tvg-language="fas" tvg-quality="480p",Velayat TV Network
+https://nl.livekadeh.com/hls2/velayattv.m3u8
+

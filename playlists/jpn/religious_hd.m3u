@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CGNTVJapan.jp" tvg-name="CGNTV Japan" group-title="Religious" tvg-language="jpn" tvg-quality="1080p",CGNTV Japan
+#EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+

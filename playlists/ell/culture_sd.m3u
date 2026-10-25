@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-name="Montreal Greek TV" group-title="Culture" tvg-language="ell;eng;fra" tvg-quality="480p",Montreal Greek TV
+http://live.greektv.ca/hls1/greektv.m3u8
+

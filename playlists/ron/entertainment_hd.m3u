@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Acasa.ro" tvg-name="Acasa" group-title="Entertainment" tvg-language="ron" tvg-quality="1080p",Acasa
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-pro2/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="AcasaGold.ro" tvg-name="Acasa Gold" group-title="Entertainment" tvg-language="ron" tvg-quality="1080p",Acasa Gold
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="RadioMoldovaTineret.md" tvg-name="Radio Moldova Tineret" group-title="Entertainment" tvg-language="ron" tvg-quality="1080p",Radio Moldova Tineret
+https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
+
+#EXTINF:-1 tvg-id="ROTVValencia.es" tvg-name="ROTV Valencia" group-title="Entertainment" tvg-language="ron" tvg-quality="720p",ROTV Valencia
+https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
+

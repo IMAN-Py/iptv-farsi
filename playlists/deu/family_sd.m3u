@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC" group-title="Family;Kids" tvg-language="deu" tvg-quality="576i",RiC
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8
+

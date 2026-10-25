@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="iTVHD.kh" tvg-name="iTV HD" group-title="Entertainment" tvg-language="khm" tvg-quality="576i",iTV HD
+https://ip.pdtvhd.com/Khmer/streams/ITVHD.m3u8
+
+#EXTINF:-1 tvg-id="iTVHD.kh" tvg-name="iTV HD" group-title="Entertainment" tvg-language="khm" tvg-quality="576i",iTV HD
+https://live.eac-news.com/Khmer/streams/ITVHD.m3u8
+
+#EXTINF:-1 tvg-id="MyTV.kh" tvg-name="My TV" group-title="Entertainment" tvg-language="khm" tvg-quality="576p",My TV
+https://live.happywatch99.com/mytvhdtv/c83cc584a878608f6b36a9717bd7a8ab.sdp/playlist.m3u8
+

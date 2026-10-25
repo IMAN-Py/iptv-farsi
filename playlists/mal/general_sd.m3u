@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCV.in" tvg-name="CCV" group-title="General" tvg-language="mal" tvg-quality="480p",CCV
+https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JeevanTV.in" tvg-name="Jeevan TV" group-title="General" tvg-language="mal" tvg-quality="576p",Jeevan TV
+https://cdn.pishow.tv/ott/live/1467/master.m3u8
+
+#EXTINF:-1 tvg-id="JeevanTV.in" tvg-name="Jeevan TV" group-title="General" tvg-language="mal" tvg-quality="576p",Jeevan TV
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/JeevanTV.m3u8
+
+#EXTINF:-1 tvg-id="KairaliArabia.in" tvg-name="Kairali Arabia" group-title="General" tvg-language="mal" tvg-quality="576p",Kairali Arabia
+https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
+
+#EXTINF:-1 tvg-id="KairaliTV.in" tvg-name="Kairali TV" group-title="General" tvg-language="mal" tvg-quality="576p",Kairali TV
+https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
+
+#EXTINF:-1 tvg-id="KairaliTV.in" tvg-name="Kairali TV" group-title="General" tvg-language="mal" tvg-quality="576p",Kairali TV
+https://streams.tangotv.in/KAIRALI/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7" group-title="General" tvg-language="eng;mal" tvg-quality="576i",NTV7
+https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+
+#EXTINF:-1 tvg-id="Starnet.in" tvg-name="Starnet" group-title="General" tvg-language="mal" tvg-quality="480p",Starnet
+https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Vision.in" tvg-name="Vision" group-title="General" tvg-language="mal" tvg-quality="576p",Vision
+http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
+

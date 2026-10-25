@@ -1,0 +1,798 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="101tvAntequera.es" tvg-name="101tv Antequera" group-title="General" tvg-language="spa" tvg-quality="576i",101tv Antequera
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="101tvSevilla.es" tvg-name="101tv Sevilla" group-title="General" tvg-language="spa" tvg-quality="576i",101tv Sevilla
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta318.cdnmedia.tv/101weblive/smil:sevilla.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="12tv.es" tvg-name="12tv" group-title="General" tvg-language="spa" tvg-quality="576i",12tv
+#EXTVLCOPT:http-referrer=https://www.12tv.es/
+https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
+
+#EXTINF:-1 tvg-id="15TV.mx" tvg-name="15TV" group-title="General" tvg-language="spa" tvg-quality="480i",15TV
+https://servilive.com:3380/live/v3n6thy7glive.m3u8
+
+#EXTINF:-1 tvg-id="360RFTV.cr" tvg-name="360 RFTV" group-title="General" tvg-language="spa" tvg-quality="576p",360 RFTV
+https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
+
+#EXTINF:-1 tvg-id="5tv.ar" tvg-name="5tv" group-title="General" tvg-language="spa" tvg-quality="480p",5tv
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5tv.ar" tvg-name="5tv" group-title="General" tvg-language="spa" tvg-quality="576i",5tv
+https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7TV.es" tvg-name="7TV" group-title="General" tvg-language="spa" tvg-quality="576i",7TV
+https://especial7tv.gestec-video.com/hls/7TVSEVILLA.m3u8
+
+#EXTINF:-1 tvg-id="7TV.es" tvg-name="7TV" group-title="General" tvg-language="spa" tvg-quality="576i",7TV
+https://especial7tv.gestec-video.com/hls/regional.m3u8
+
+#EXTINF:-1 tvg-id="7TV.es" tvg-name="7TV" group-title="General" tvg-language="spa" tvg-quality="576i",7TV
+https://streaming004.gestec-video.com/hls/7TVCORDOBA.m3u8
+
+#EXTINF:-1 tvg-id="7TV.es" tvg-name="7TV" group-title="General" tvg-language="spa" tvg-quality="576i",7TV
+https://streaming004.gestec-video.com/hls/7TVJAEN.m3u8
+
+#EXTINF:-1 tvg-id="7TV.es" tvg-name="7TV" group-title="General" tvg-language="spa" tvg-quality="576i",7TV
+https://streaming004.gestec-video.com/hls/7TVJEREZ.m3u8
+
+#EXTINF:-1 tvg-id="7TV.es" tvg-name="7TV" group-title="General" tvg-language="spa" tvg-quality="576i",7TV
+https://streaming004.gestec-video.com/hls/7TVMALAGA.m3u8
+
+#EXTINF:-1 tvg-id="8LaMarinaTV.es" tvg-name="8 La Marina TV" group-title="General" tvg-language="spa" tvg-quality="576p",8 La Marina TV
+https://streaming005.gestec-video.com/hls/canal24.m3u8
+
+#EXTINF:-1 tvg-id="ABTVBariloche.ar" tvg-name="ABTV Bariloche" group-title="General" tvg-language="spa" tvg-quality="576i",ABTV Bariloche
+https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8
+
+#EXTINF:-1 tvg-id="AbyaYalaTV.bo" tvg-name="Abya Yala TV" group-title="General" tvg-language="spa" tvg-quality="480i",Abya Yala TV
+https://seo.tv.bo/live.php?ch=abyayala_sd&token=seotv2026
+
+#EXTINF:-1 tvg-id="AGRFMTV.py" tvg-name="AGR FM TV" group-title="General" tvg-language="spa" tvg-quality="576i",AGR FM TV
+https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AiredeSantaFe.ar" tvg-name="Aire de Santa Fe" group-title="General" tvg-language="spa" tvg-quality="576i",Aire de Santa Fe
+https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
+
+#EXTINF:-1 tvg-id="AlacantiTV.es" tvg-name="Alacanti TV" group-title="General" tvg-language="spa" tvg-quality="576p",Alacanti TV
+https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+
+#EXTINF:-1 tvg-id="AlcarriaTV.es" tvg-name="Alcarria TV" group-title="General" tvg-language="spa" tvg-quality="576p",Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+
+#EXTINF:-1 tvg-id="AlcarriaTV.es" tvg-name="Alcarria TV" group-title="General" tvg-language="spa" tvg-quality="576p",Alcarria TV
+https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlfaOmegaVision.hn" tvg-name="Alfa & Omega Vision" group-title="General" tvg-language="spa" tvg-quality="480p",Alfa & Omega Vision
+https://srv.panelcast.net/dorian/dorian/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AMCanal.cl" tvg-name="AM Canal" group-title="General" tvg-language="spa" tvg-quality="480i",AM Canal
+https://streaming.bitsur.cl:3534/live/vdo1102live.m3u8
+
+#EXTINF:-1 tvg-id="AmazoniaTV.pe" tvg-name="Amazonia TV" group-title="General" tvg-language="spa" tvg-quality="480i",Amazonia TV
+https://servilive.com:3199/live/amazoniatvlive.m3u8
+
+#EXTINF:-1 tvg-id="AmazonicaTV.pe" tvg-name="Amazonica TV" group-title="General" tvg-language="spa" tvg-quality="576i",Amazonica TV
+https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8
+
+#EXTINF:-1 tvg-id="Ame47.do" tvg-name="Ame 47" group-title="General" tvg-language="spa" tvg-quality="576p",Ame 47
+https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmericaEstereoGuayaquil.ec" tvg-name="America Estereo Guayaquil" group-title="General" tvg-language="spa" tvg-quality="360p",America Estereo Guayaquil
+https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmericaEstereoTulcan.ec" tvg-name="America Estereo Tulcan" group-title="General" tvg-language="spa" tvg-quality="614p",America Estereo Tulcan
+https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Antena7.do" tvg-name="Antena 7" group-title="General" tvg-language="spa" tvg-quality="480p",Antena 7
+https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="AntenaTV.mx" tvg-name="Antena TV" group-title="General" tvg-language="spa" tvg-quality="480i",Antena TV
+https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnzoateguiTV.ve" tvg-name="Anzoategui TV" group-title="General" tvg-language="spa" tvg-quality="360p",Anzoategui TV
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-name="Argentinisima Satelital" group-title="General" tvg-language="spa" tvg-quality="540p",Argentinisima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:-1 tvg-id="AricaTV.cl" tvg-name="Arica TV" group-title="General" tvg-language="spa" tvg-quality="480p",Arica TV
+https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AricaTV.cl" tvg-name="Arica TV" group-title="General" tvg-language="spa" tvg-quality="480i",Arica TV
+https://envivo.arica.tv/hls/Live2025AricaTV.m3u8
+
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" group-title="General" tvg-language="spa" tvg-quality="480i",ATV
+#EXTVLCOPT:http-referrer=https://www.atv.pe/
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="AutonomaTV.cl" tvg-name="Autonoma TV" group-title="General" tvg-language="spa" tvg-quality="480i",Autonoma TV
+https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AYNITV.bo" tvg-name="AYNI TV" group-title="General" tvg-language="spa" tvg-quality="480i",AYNI TV
+https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BragadoTV.ar" tvg-name="Bragado TV" group-title="General" tvg-language="spa" tvg-quality="576i",Bragado TV
+https://mp.panelchs.com:1936/8028/ngrp:8028_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BragadoTV.ar" tvg-name="Bragado TV" group-title="General" tvg-language="spa" tvg-quality="576i",Bragado TV
+https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8
+
+#EXTINF:-1 tvg-id="CADTV.py" tvg-name="CAD TV" group-title="General" tvg-language="spa" tvg-quality="576i",CAD TV
+https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8
+
+#EXTINF:-1 tvg-id="CalderaVision.cl" tvg-name="Caldera Vision" group-title="General" tvg-language="spa" tvg-quality="480i",Caldera Vision
+https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CamuTV.do" tvg-name="Camu TV" group-title="General" tvg-language="spa" tvg-quality="480p",Camu TV
+https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1" group-title="General" tvg-language="spa" tvg-quality="576p",Canal 1
+http://138.121.15.230:9002/CANAL-UNO/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal1Nuble.cl" tvg-name="Canal 1 Nuble" group-title="General" tvg-language="spa" tvg-quality="576i",Canal 1 Nuble
+https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal10.ni" tvg-name="Canal 10" group-title="General" tvg-language="spa" tvg-quality="480i",Canal 10
+https://ddycmnicl95kp.cloudfront.net/live/ja5k3h31wv9r/master.m3u8
+
+#EXTINF:-1 tvg-id="Canal10.ni" tvg-name="Canal 10" group-title="General" tvg-language="spa" tvg-quality="360p",Canal 10
+https://www.canal10.com.ni/envivo
+
+#EXTINF:-1 tvg-id="Canal10.sv" tvg-name="Canal 10" group-title="General" tvg-language="spa" tvg-quality="576p",Canal 10
+http://45.167.2.101:8000/play/a0r8/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal11TuTV.sv" tvg-name="Canal 11 TuTV" group-title="General" tvg-language="spa" tvg-quality="349p",Canal 11 TuTV
+https://stream.giostreaming.app/canal11/canal11.m3u8
+
+#EXTINF:-1 tvg-id="Canal12.sv" tvg-name="Canal 12" group-title="General" tvg-language="spa" tvg-quality="576p",Canal 12
+http://186.33.26.18:8000/play/a0nw/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal12.sv" tvg-name="Canal 12" group-title="General" tvg-language="spa" tvg-quality="480i",Canal 12
+https://d2b5h5wyivfnfl.cloudfront.net/live/53108ffe-0b7e-46ab-bc14-3a9c30010939/ts:abr.m3u8
+
+#EXTINF:-1 tvg-id="Canal15ElZamorano.sv" tvg-name="Canal 15 El Zamorano" group-title="General" tvg-language="spa" tvg-quality="576i",Canal 15 El Zamorano
+https://vdo.tecnoservix.stream:3007/live/canal15zamoranolive.m3u8
+
+#EXTINF:-1 tvg-id="Canal2.cr" tvg-name="Canal 2" group-title="General" tvg-language="spa" tvg-quality="576p",Canal 2
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal2Gualeguay.ar" tvg-name="Canal 2 Gualeguay" group-title="General" tvg-language="spa" tvg-quality="576i",Canal 2 Gualeguay
+https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal21Tachira.ve" tvg-name="Canal 21 Tachira" group-title="General" tvg-language="spa" tvg-quality="360p",Canal 21 Tachira
+https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal3Impresionante.sv" tvg-name="Canal 3 Impresionante" group-title="General" tvg-language="spa" tvg-quality="480p",Canal 3 Impresionante
+https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
+
+#EXTINF:-1 tvg-id="Canal3Tacural.ar" tvg-name="Canal 3 Tacural" group-title="General" tvg-language="spa" tvg-quality="576i",Canal 3 Tacural
+http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Canal4Teleaire.ar" tvg-name="Canal 4 Teleaire" group-title="General" tvg-language="spa" tvg-quality="576i",Canal 4 Teleaire
+https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal4VillaDolores.ar" tvg-name="Canal 4 Villa Dolores" group-title="General" tvg-language="spa" tvg-quality="576i",Canal 4 Villa Dolores
+https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" group-title="General" tvg-language="spa" tvg-quality="576p",Canal 5
+http://206.135.11.174:8010/play/a0fl/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal5DelPueblo.ar" tvg-name="Canal 5 Del Pueblo" group-title="General" tvg-language="spa" tvg-quality="576i",Canal 5 Del Pueblo
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal5PuertoMontt.cl" tvg-name="Canal 5 Puerto Montt" group-title="General" tvg-language="spa" tvg-quality="480i",Canal 5 Puerto Montt
+https://5ff3d9babae13.streamlock.net/aufymdjpjf/aufymdjpjf/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal5TVChepes.ar" tvg-name="Canal 5 TV Chepes" group-title="General" tvg-language="spa" tvg-quality="576i",Canal 5 TV Chepes
+https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
+
+#EXTINF:-1 tvg-id="Canal51.hn" tvg-name="Canal 51" group-title="General" tvg-language="spa" tvg-quality="480i",Canal 51
+https://live.cn51hn.com/live/cn51.m3u8
+
+#EXTINF:-1 tvg-id="Canal6.ni" tvg-name="Canal 6" group-title="General" tvg-language="spa" tvg-quality="480p",Canal 6
+http://138.117.4.70:8075/Canal06_CooTel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal7.gt" tvg-name="Canal 7" group-title="General" tvg-language="spa" tvg-quality="576p",Canal 7
+http://200.115.120.1:8000/play/ca112/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-name="Canal 7 TeleValencia" group-title="General" tvg-language="cat;spa" tvg-quality="576p",Canal 7 TeleValencia
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal8CCProducciones.py" tvg-name="Canal 8 C&C Producciones" group-title="General" tvg-language="spa" tvg-quality="576i",Canal 8 C&C Producciones
+https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
+
+#EXTINF:-1 tvg-id="Canal9Cosespu.co" tvg-name="Canal 9 Cosespu" group-title="General" tvg-language="spa" tvg-quality="480i",Canal 9 Cosespu
+https://video2.lhdserver.es/canal9cosespu/live.m3u8
+
+#EXTINF:-1 tvg-id="Canal99Miramar.ar" tvg-name="Canal 99 Miramar" group-title="General" tvg-language="spa" tvg-quality="576i",Canal 99 Miramar
+https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
+
+#EXTINF:-1 tvg-id="CanalALMA.uy" tvg-name="Canal ALMA" group-title="General" tvg-language="spa" tvg-quality="576i",Canal ALMA
+#EXTVLCOPT:http-referrer=https://canalalma.tv
+https://stmv1.voxtvhd.com.br/canalalmatv/canalalmatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalCHD.co" tvg-name="Canal CHD" group-title="General" tvg-language="spa" tvg-quality="576i",Canal CHD
+https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalDos.co" tvg-name="Canal Dos" group-title="General" tvg-language="spa" tvg-quality="480i",Canal Dos
+https://stream2.micanal2.tv/hls/canal2.m3u8
+
+#EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura" group-title="General;Public" tvg-language="spa" tvg-quality="576p",Canal Extremadura
+https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
+
+#EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-name="Canal Institucional" group-title="General" tvg-language="spa" tvg-quality="576p",Canal Institucional
+http://138.121.15.230:9002/CANAL-INSTITUCIONAL/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalLuzTelevision.es" tvg-name="Canal Luz Television" group-title="General" tvg-language="spa" tvg-quality="576i",Canal Luz Television
+https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalOncePlus.uy" tvg-name="Canal Once Plus" group-title="General" tvg-language="spa" tvg-quality="576i",Canal Once Plus
+#EXTVLCOPT:http-referrer=https://canal11.uy
+https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalProvincial.ar" tvg-name="Canal Provincial" group-title="General" tvg-language="spa" tvg-quality="360p",Canal Provincial
+https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
+
+#EXTINF:-1 tvg-id="CanalSur.es" tvg-name="Canal Sur" group-title="General;Public" tvg-language="spa" tvg-quality="576i",Canal Sur
+https://cdn.stmify.com/zapitv/stream/CANAL_SUR/canal_sur_hd.mpd
+
+#EXTINF:-1 tvg-id="CanalTRV.sv" tvg-name="Canal TRV" group-title="General" tvg-language="spa" tvg-quality="576p",Canal TRV
+https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-name="Caracol Internacional" group-title="General" tvg-language="spa" tvg-quality="576p",Caracol Internacional
+http://138.59.177.78:9999/play/a0a8/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="576p",Caracol TV
+http://181.79.86.130:8000/play/a04w/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" group-title="General" tvg-language="spa" tvg-quality="480i",Caracol TV
+http://181.79.86.130:8000/play/a077/index.m3u8
+
+#EXTINF:-1 tvg-id="CaracolaTV.cl" tvg-name="Caracola TV" group-title="General" tvg-language="spa" tvg-quality="480i",Caracola TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CatatumboTV.ve" tvg-name="Catatumbo TV" group-title="General" tvg-language="spa" tvg-quality="406p",Catatumbo TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
+
+#EXTINF:-1 tvg-id="CBTVMichoacan.mx" tvg-name="CB TV Michoacan" group-title="General" tvg-language="spa" tvg-quality="480i",CB TV Michoacan
+https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CDN.do" tvg-name="CDN" group-title="General" tvg-language="spa" tvg-quality="480p",CDN
+http://187.245.231.226:8000/play/a0ss/index.m3u8
+
+#EXTINF:-1 tvg-id="CDN.do" tvg-name="CDN" group-title="General" tvg-language="spa" tvg-quality="576p",CDN
+http://190.61.90.17:40000/play/a03p/index.m3u8
+
+#EXTINF:-1 tvg-id="CerritosTV3.us" tvg-name="Cerritos TV3" group-title="General" tvg-language="eng;spa" tvg-quality="360p",Cerritos TV3
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ClaroTelevisionDominicana.do" tvg-name="Claro Television Dominicana" group-title="General" tvg-language="spa" tvg-quality="360p",Claro Television Dominicana
+https://streamunoapp.com:3960/live/claroteledomlive.m3u8
+
+#EXTINF:-1 tvg-id="CNCSantanderdeQuilichao.co" tvg-name="CNC Santander de Quilichao" group-title="General" tvg-language="spa" tvg-quality="480p",CNC Santander de Quilichao
+https://movil.ejeserver.com/live/cncsantander.m3u8
+
+#EXTINF:-1 tvg-id="CNCSantanderdeQuilichao.co" tvg-name="CNC Santander de Quilichao" group-title="General" tvg-language="spa" tvg-quality="480p",CNC Santander de Quilichao
+https://video.ejeserver.com/live/cncsantander.m3u8
+
+#EXTINF:-1 tvg-id="CorreaRadiovision.ar" tvg-name="Correa Radiovision" group-title="General" tvg-language="spa" tvg-quality="576i",Correa Radiovision
+https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CorrientesTV.ar" tvg-name="Corrientes TV" group-title="General" tvg-language="spa" tvg-quality="576i",Corrientes TV
+https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CTV.bo" tvg-name="CTV" group-title="General" tvg-language="spa" tvg-quality="480i",CTV
+https://live.ctvbolivia.com/hls/ctv.m3u8
+
+#EXTINF:-1 tvg-id="CTV35.cl" tvg-name="CTV35" group-title="General" tvg-language="spa" tvg-quality="576i",CTV35
+https://vdochile.com:3697/live/ctv35live.m3u8
+
+#EXTINF:-1 tvg-id="Cubavision.cu" tvg-name="Cubavision" group-title="General" tvg-language="spa" tvg-quality="480i",Cubavision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://teveo.cu/
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:9KJTMRBAm2BbnsYK.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CVVisionTV.do" tvg-name="CV Vision TV" group-title="General" tvg-language="spa" tvg-quality="288p",CV Vision TV
+https://eu1.servers10.com:8081/8128/index.m3u8
+
+#EXTINF:-1 tvg-id="CVATV.hn" tvg-name="CVA TV" group-title="General" tvg-language="spa" tvg-quality="480p",CVA TV
+http://190.124.161.21:8086/cvatv/live.m3u8
+
+#EXTINF:-1 tvg-id="CVNTV.pe" tvg-name="CVN TV" group-title="General" tvg-language="spa" tvg-quality="576i",CVN TV
+https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
+
+#EXTINF:-1 tvg-id="DeltaTV.bo" tvg-name="Delta TV" group-title="General" tvg-language="spa" tvg-quality="480i",Delta TV
+https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="DiferenciaRadioTV.cl" tvg-name="Diferencia Radio TV" group-title="General" tvg-language="spa" tvg-quality="576i",Diferencia Radio TV
+https://s1.radiumcast.top/memfs/674b2d4f-7d6e-49be-9c6c-3094868259d9.m3u8
+
+#EXTINF:-1 tvg-id="DuranTV.ec" tvg-name="Duran TV" group-title="General" tvg-language="spa" tvg-quality="480p",Duran TV
+https://cloudvideo.servers10.com:8081/8074/index.m3u8
+
+#EXTINF:-1 tvg-id="ECOTelevision.pe" tvg-name="ECO Television" group-title="General" tvg-language="spa" tvg-quality="576i",ECO Television
+https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="EcoTV.ar" tvg-name="Eco TV" group-title="General" tvg-language="spa" tvg-quality="576i",Eco TV
+https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="Ecuador TV" group-title="General" tvg-language="spa" tvg-quality="480i",Ecuador TV
+https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
+
+#EXTINF:-1 tvg-id="EGMChannel.cl" tvg-name="EGM Channel" group-title="General" tvg-language="spa" tvg-quality="480p",EGM Channel
+https://paneltv.online:1936/8186/8186/playlist.m3u8
+
+#EXTINF:-1 tvg-id="El3deConce.cl" tvg-name="El 3 de Conce" group-title="General" tvg-language="spa" tvg-quality="576i",El 3 de Conce
+https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" group-title="General" tvg-language="spa" tvg-quality="480p",El Trece
+http://190.108.83.69:8000/play/a01d/index.m3u8
+
+#EXTINF:-1 tvg-id="EmisoraComunitaria1041FM.co" tvg-name="Emisora Comunitaria 104.1 FM" group-title="General" tvg-language="spa" tvg-quality="576i",Emisora Comunitaria 104.1 FM
+https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EnfoqueDigitalTV.cl" tvg-name="Enfoque Digital TV" group-title="General" tvg-language="spa" tvg-quality="480i",Enfoque Digital TV
+https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EsteCanalTV.es" tvg-name="Este Canal TV" group-title="General" tvg-language="spa" tvg-quality="576p",Este Canal TV
+http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
+
+#EXTINF:-1 tvg-id="Evavision.cl" tvg-name="Evavision" group-title="General" tvg-language="spa" tvg-quality="480i",Evavision
+https://stmv2.voxtvhd.com.br/evavision/evavision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EvolucionTV.pe" tvg-name="Evolucion TV" group-title="General" tvg-language="spa" tvg-quality="576p",Evolucion TV
+https://edgectc.com/CTC_SAN_RAFAEL/index.m3u8
+
+#EXTINF:-1 tvg-id="F10HD.bo" tvg-name="F10 HD" group-title="General" tvg-language="spa" tvg-quality="480i",F10 HD
+https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+
+#EXTINF:-1 tvg-id="FAPTV.bo" tvg-name="FAP TV" group-title="General" tvg-language="spa" tvg-quality="480p",FAP TV
+https://nd106.republicaservers.com/hls/c7284/index.m3u8
+
+#EXTINF:-1 tvg-id="FolcloreandoTV.ar" tvg-name="Folcloreando TV" group-title="General" tvg-language="spa" tvg-quality="576i",Folcloreando TV
+https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GlobalTV.ve" tvg-name="GlobalTV" group-title="General" tvg-language="spa" tvg-quality="480p",GlobalTV
+https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8
+
+#EXTINF:-1 tvg-id="GloboTV.hn" tvg-name="Globo TV" group-title="General" tvg-language="spa" tvg-quality="480i",Globo TV
+https://stream.radiosmundiales.com/hls/globotvhonduras/globotvhonduras.m3u8
+
+#EXTINF:-1 tvg-id="Globovision.ve" tvg-name="Globovision" group-title="General" tvg-language="spa" tvg-quality="576p",Globovision
+http://181.78.8.199:8000/play/a09k/index.m3u8
+
+#EXTINF:-1 tvg-id="GrandeTV.ve" tvg-name="Grande TV" group-title="General" tvg-language="spa" tvg-quality="576i",Grande TV
+https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
+
+#EXTINF:-1 tvg-id="GuatusoTV.cr" tvg-name="Guatuso TV" group-title="General" tvg-language="spa" tvg-quality="480i",Guatuso TV
+https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GuayapeTV.hn" tvg-name="Guayape TV" group-title="General" tvg-language="spa" tvg-quality="480i",Guayape TV
+https://tv.bitstreaming.net:8443/live/guayapetv.m3u8
+
+#EXTINF:-1 tvg-id="HuachoPeruTV.pe" tvg-name="Huacho Peru TV" group-title="General" tvg-language="spa" tvg-quality="480i",Huacho Peru TV
+https://tv.huachotv.com/stream.m3u8
+
+#EXTINF:-1 tvg-id="HuascoTelevision.cl" tvg-name="Huasco Television" group-title="General" tvg-language="spa" tvg-quality="360p",Huasco Television
+https://paneltv.online:1936/8024/8024/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HuascoTelevision.cl" tvg-name="Huasco Television" group-title="General" tvg-language="spa" tvg-quality="480i",Huasco Television
+https://paneltv.online:1936/huasco/huasco/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-name="Imagen Universal TV" group-title="General" tvg-language="spa" tvg-quality="480i",Imagen Universal TV
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+
+#EXTINF:-1 tvg-id="IntercomarcalTV.es" tvg-name="Intercomarcal TV" group-title="General" tvg-language="spa" tvg-quality="576p",Intercomarcal TV
+https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
+
+#EXTINF:-1 tvg-id="IslaTV.ve" tvg-name="Isla TV" group-title="General" tvg-language="spa" tvg-quality="480p",Isla TV
+https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ItelTVCanal2.ar" tvg-name="Itel TV Canal 2" group-title="General" tvg-language="spa" tvg-quality="576i",Itel TV Canal 2
+https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JimaniTV.do" tvg-name="Jimani TV" group-title="General" tvg-language="spa" tvg-quality="360p",Jimani TV
+https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JuntosTV.pe" tvg-name="Juntos TV" group-title="General" tvg-language="spa" tvg-quality="576p",Juntos TV
+http://45.70.201.81:8000/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" group-title="General;Public" tvg-language="spa" tvg-quality="576i",La 2
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
+
+#EXTINF:-1 tvg-id="LaChilenaTV.cl" tvg-name="La Chilena TV" group-title="General" tvg-language="spa" tvg-quality="480i",La Chilena TV
+https://vdochile.com:3134/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="LaPopularTV.cl" tvg-name="La Popular TV" group-title="General" tvg-language="spa" tvg-quality="480i",La Popular TV
+https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" group-title="General" tvg-language="spa" tvg-quality="480i",La Red
+https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8
+
+#EXTINF:-1 tvg-id="LancelotTV.es" tvg-name="Lancelot TV" group-title="General" tvg-language="spa" tvg-quality="404p",Lancelot TV
+https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
+
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina" group-title="General" tvg-language="spa" tvg-quality="480i",Latina
+#EXTVLCOPT:http-referrer=https://latina.pe/
+https://cablered.iptvperu.tv:1936/cablered/latina_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LenaTV.do" tvg-name="Lena TV" group-title="General" tvg-language="spa" tvg-quality="576i",Lena TV
+https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LilaTVPencahue.cl" tvg-name="Lila TV Pencahue" group-title="General" tvg-language="spa" tvg-quality="576i",Lila TV Pencahue
+https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MarayTV.cl" tvg-name="Maray TV" group-title="General" tvg-language="spa" tvg-quality="576i",Maray TV
+https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MarlaVision.do" tvg-name="Marla Vision" group-title="General" tvg-language="spa" tvg-quality="576p",Marla Vision
+https://soportedvb.click:3877/live/merlavisionlive.m3u8
+
+#EXTINF:-1 tvg-id="MarsellaTV.co" tvg-name="Marsella TV" group-title="General" tvg-language="spa" tvg-quality="576i",Marsella TV
+https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MasNorteTV.co" tvg-name="Mas Norte TV" group-title="General" tvg-language="spa" tvg-quality="576i",Mas Norte TV
+https://live.arnoproducciones.com/hls/norte.m3u8
+
+#EXTINF:-1 tvg-id="MASTV.gt" tvg-name="MAS TV" group-title="General" tvg-language="spa" tvg-quality="480i",MAS TV
+https://cdn.streamhispanatv.net:3011/live/mastvgtlive.m3u8
+
+#EXTINF:-1 tvg-id="MasterTV.pe" tvg-name="Master TV" group-title="General" tvg-language="spa" tvg-quality="480p",Master TV
+https://live.obslivestream.com/mastertv/index.m3u8
+
+#EXTINF:-1 tvg-id="MegaVisionTV.do" tvg-name="MegaVision TV" group-title="General" tvg-language="spa" tvg-quality="480p",MegaVision TV
+http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MegaVisionTV.do" tvg-name="MegaVision TV" group-title="General" tvg-language="spa" tvg-quality="480p",MegaVision TV
+https://server2grupocam.com/megavision/MV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MiRadioTV.cl" tvg-name="Mi Radio TV" group-title="General" tvg-language="spa" tvg-quality="576i",Mi Radio TV
+https://scl.edge.grupoz.cl/miradio2/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MilenialTV.pe" tvg-name="Milenial TV" group-title="General" tvg-language="spa" tvg-quality="480i",Milenial TV
+https://www.milenial.news/salida/milenial.m3u8
+
+#EXTINF:-1 tvg-id="MisionesCuatro.ar" tvg-name="Misiones Cuatro" group-title="General" tvg-language="spa" tvg-quality="576i",Misiones Cuatro
+https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVS TV" group-title="General" tvg-language="spa" tvg-quality="480i",MVS TV
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
+#EXTINF:-1 tvg-id="NativaTV.cl" tvg-name="Nativa TV" group-title="General" tvg-language="spa" tvg-quality="480i",Nativa TV
+https://origin-us.streaminghd.cl/nativatv/nativatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NativaTV.cl" tvg-name="Nativa TV" group-title="General" tvg-language="spa" tvg-quality="480i",Nativa TV
+https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NeoTV.ar" tvg-name="Neo TV" group-title="General" tvg-language="spa" tvg-quality="576i",Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-id="NeoxTV.ar" tvg-name="Neox TV" group-title="General" tvg-language="spa" tvg-quality="576i",Neox TV
+https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
+
+#EXTINF:-1 tvg-id="NexTVCanal21.pa" tvg-name="Nex TV Canal 21" group-title="General" tvg-language="spa" tvg-quality="480i",Nex TV Canal 21
+https://movil.ejeserver.com/live/nextv.m3u8
+
+#EXTINF:-1 tvg-id="NexoTV.co" tvg-name="Nexo TV" group-title="General" tvg-language="spa" tvg-quality="576i",Nexo TV
+https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8
+
+#EXTINF:-1 tvg-id="NexxoTV.do" tvg-name="Nexxo TV" group-title="General" tvg-language="spa" tvg-quality="480i",Nexxo TV
+https://5790d294af2dc.streamlock.net/Nexxo/Nexxo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NGFederal.ar" tvg-name="NG Federal" group-title="General" tvg-language="spa" tvg-quality="576i",NG Federal
+https://617c5175c970b.streamlock.net:4444/tvlink/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NuestraImagenTV.gt" tvg-name="Nuestra Imagen TV" group-title="General" tvg-language="spa" tvg-quality="576i",Nuestra Imagen TV
+https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NuestraTeleInternacional.co" tvg-name="Nuestra Tele Internacional" group-title="General" tvg-language="spa" tvg-quality="576p",Nuestra Tele Internacional
+http://181.78.8.199:8000/play/a0a8/index.m3u8
+
+#EXTINF:-1 tvg-id="OccidentalTV.py" tvg-name="Occidental TV" group-title="General" tvg-language="spa" tvg-quality="576i",Occidental TV
+https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
+
+#EXTINF:-1 tvg-id="OndaAlgeciras.es" tvg-name="Onda Algeciras" group-title="General" tvg-language="spa" tvg-quality="576p",Onda Algeciras
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+
+#EXTINF:-1 tvg-id="OnzaTV.ve" tvg-name="Onza TV" group-title="General" tvg-language="spa" tvg-quality="480i",Onza TV
+https://live20.bozztv.com/giatv/giatv-onzatv1234/onzatv1234/chunks.m3u8
+
+#EXTINF:-1 tvg-id="OviedoTV.py" tvg-name="Oviedo TV" group-title="General" tvg-language="spa" tvg-quality="576i",Oviedo TV
+https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
+
+#EXTINF:-1 tvg-id="OzonoTV.pe" tvg-name="Ozono TV" group-title="General" tvg-language="spa" tvg-quality="576i",Ozono TV
+http://vps.chasquirouter.com/salida/ozono.m3u8
+
+#EXTINF:-1 tvg-id="PalenqueTV.bo" tvg-name="Palenque TV" group-title="General" tvg-language="spa" tvg-quality="576p",Palenque TV
+http://15.204.246.24:8080/PalenqueTVSD/index.m3u8
+
+#EXTINF:-1 tvg-id="PalenqueTV.bo" tvg-name="Palenque TV" group-title="General" tvg-language="spa" tvg-quality="480i",Palenque TV
+https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
+
+#EXTINF:-1 tvg-id="PancheTelevision.co" tvg-name="Panche Television" group-title="General" tvg-language="spa" tvg-quality="576i",Panche Television
+https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
+
+#EXTINF:-1 tvg-id="Paravision.py" tvg-name="Paravision" group-title="General" tvg-language="grn;spa" tvg-quality="576i",Paravision
+http://45.170.130.224:8000/play/a032/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="PeraviaVision.do" tvg-name="Peravia Vision" group-title="General" tvg-language="spa" tvg-quality="480p",Peravia Vision
+https://ss2.tvrdomi.com:1936/peraviavision/peraviavision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlanetaChannel.ec" tvg-name="Planeta Channel" group-title="General" tvg-language="spa" tvg-quality="480i",Planeta Channel
+https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
+
+#EXTINF:-1 tvg-id="PolarTV.cl" tvg-name="Polar TV" group-title="General" tvg-language="spa" tvg-quality="576i",Polar TV
+https://polartv.webredirect.org/memfs/319ac83c-e602-4e91-8104-2b5501380b5e.m3u8
+
+#EXTINF:-1 tvg-id="PortuguesaTelevision.ve" tvg-name="Portuguesa Television" group-title="General" tvg-language="spa" tvg-quality="480p",Portuguesa Television
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
+
+#EXTINF:-1 tvg-id="Primavera15.pe" tvg-name="Primavera 15" group-title="General" tvg-language="spa" tvg-quality="480i",Primavera 15
+https://mc.servidor.stream:19360/8244/8244.m3u8
+
+#EXTINF:-1 tvg-id="PromarTV.ve" tvg-name="PromarTV" group-title="General" tvg-language="spa" tvg-quality="576p",PromarTV
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PuntoTVDigital40.do" tvg-name="Punto TV Digital 40" group-title="General" tvg-language="spa" tvg-quality="576i",Punto TV Digital 40
+https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PuringlaTV.hn" tvg-name="Puringla TV" group-title="General" tvg-language="spa" tvg-quality="480i",Puringla TV
+https://stmv2.srvif.com/puringla/puringla/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioCoatanCanal21.gt" tvg-name="Radio Coatan Canal 21" group-title="General" tvg-language="spa" tvg-quality="480i",Radio Coatan Canal 21
+https://s2.tvdatta.com:3112/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="RadioGuairaTV.py" tvg-name="Radio Guaira TV" group-title="General" tvg-language="spa" tvg-quality="576i",Radio Guaira TV
+https://tvdatta.com:3991/live/guairatvlive.m3u8
+
+#EXTINF:-1 tvg-id="Radiotele.mx" tvg-name="Radiotele" group-title="General" tvg-language="spa" tvg-quality="352p",Radiotele
+http://linkrt.ddns.net:8080/hls/rtmorelia_MID.m3u8
+
+#EXTINF:-1 tvg-id="RASDTV.eh" tvg-name="RASD TV" group-title="General" tvg-language="ara;spa" tvg-quality="404p",RASD TV
+https://cloud.streamingconnect.tv/hls/rasdtv/rasdtv.m3u8
+
+#EXTINF:-1 tvg-id="RCTV3.us" tvg-name="RCTV3" group-title="General" tvg-language="eng;spa" tvg-quality="480p",RCTV3
+https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8
+
+#EXTINF:-1 tvg-id="RedInteriorTV.py" tvg-name="Red Interior TV" group-title="General" tvg-language="spa" tvg-quality="576i",Red Interior TV
+https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
+
+#EXTINF:-1 tvg-id="RedTVEVentanas.ec" tvg-name="Red TVE Ventanas" group-title="General" tvg-language="spa" tvg-quality="432p",Red TVE Ventanas
+https://s2.tvdatta.com:3825/live/redtvelive.m3u8
+
+#EXTINF:-1 tvg-id="RiberaTV.es" tvg-name="Ribera TV" group-title="General" tvg-language="cat;spa" tvg-quality="576p",Ribera TV
+https://common01.todostreaming.es/live/ribera-livestream.m3u8
+
+#EXTINF:-1 tvg-id="RocavisionTV.do" tvg-name="Rocavision TV" group-title="General" tvg-language="spa" tvg-quality="576i",Rocavision TV
+https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8
+
+#EXTINF:-1 tvg-id="RomanaTVCanal42.do" tvg-name="Romana TV Canal 42" group-title="General" tvg-language="spa" tvg-quality="480p",Romana TV Canal 42
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+
+#EXTINF:-1 tvg-id="RTP.bo" tvg-name="RTP" group-title="General" tvg-language="spa" tvg-quality="576p",RTP
+http://15.204.246.24:8080/RTPSD/index.m3u8
+
+#EXTINF:-1 tvg-id="RTP.bo" tvg-name="RTP" group-title="General" tvg-language="spa" tvg-quality="480i",RTP
+https://rtp.noxun.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="RTP.bo" tvg-name="RTP" group-title="General" tvg-language="spa" tvg-quality="480p",RTP
+https://rtp.noxun.net/hls480/stream2.m3u8
+
+#EXTINF:-1 tvg-id="RTP.bo" tvg-name="RTP" group-title="General" tvg-language="spa" tvg-quality="576p",RTP
+https://rtp.noxun.net/hls720/stream3.m3u8
+
+#EXTINF:-1 tvg-id="RTS.ec" tvg-name="RTS" group-title="General" tvg-language="spa" tvg-quality="480p",RTS
+https://d2w3o8zn50cs1k.cloudfront.net/ts:abr.m3u8
+
+#EXTINF:-1 tvg-id="SanLuisPlus.ar" tvg-name="San Luis +" group-title="General" tvg-language="spa" tvg-quality="576i",San Luis +
+https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
+
+#EXTINF:-1 tvg-id="SiembraTV.ve" tvg-name="Siembra TV" group-title="General" tvg-language="spa" tvg-quality="480i",Siembra TV
+https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SiscomTV.pe" tvg-name="Siscom TV" group-title="General" tvg-language="spa" tvg-quality="576i",Siscom TV
+https://video2.lhdserver.es/siscomtv/live.m3u8
+
+#EXTINF:-1 tvg-id="SNT.py" tvg-name="SNT" group-title="General" tvg-language="spa" tvg-quality="480p",SNT
+https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
+
+#EXTINF:-1 tvg-id="SomosEntreRios.ar" tvg-name="Somos Entre Rios" group-title="Culture;Family;General" tvg-language="spa" tvg-quality="360p",Somos Entre Rios
+https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SoonaTV.co" tvg-name="Soona TV" group-title="General" tvg-language="spa" tvg-quality="480i",Soona TV
+https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
+
+#EXTINF:-1 tvg-id="Super9TV.mx" tvg-name="Super9 TV" group-title="General" tvg-language="spa" tvg-quality="480p",Super9 TV
+https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SURTVItapua.py" tvg-name="SUR TV Itapua" group-title="General" tvg-language="spa" tvg-quality="576i",SUR TV Itapua
+http://45.170.130.224:8000/play/a036/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="SurenaTV.cl" tvg-name="Surena TV" group-title="General" tvg-language="spa" tvg-quality="576i",Surena TV
+https://vs20.live.opencaster.com/surenatv_187f915a/index.m3u8
+
+#EXTINF:-1 tvg-id="TAMTV.ve" tvg-name="TAM TV" group-title="General" tvg-language="spa" tvg-quality="480i",TAM TV
+https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="TC Television" group-title="General" tvg-language="spa" tvg-quality="480i",TC Television
+http://177.234.218.66:8084/play/a089/index.m3u8
+
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-name="TCS+" group-title="General" tvg-language="spa" tvg-quality="480p",TCS+
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+
+#EXTINF:-1 tvg-id="TeleOla44.do" tvg-name="Tele Ola 44" group-title="General" tvg-language="spa" tvg-quality="576i",Tele Ola 44
+https://teleola.ddns.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TelePosadas.ar" tvg-name="Tele Posadas" group-title="General" tvg-language="spa" tvg-quality="576p",Tele Posadas
+https://iptv.ixfo.com.ar:30443/live/TelePosadasTv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleAragua.ve" tvg-name="TeleAragua" group-title="General" tvg-language="spa" tvg-quality="480p",TeleAragua
+http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
+
+#EXTINF:-1 tvg-id="TeleBilbao.es" tvg-name="TeleBilbao" group-title="General" tvg-language="spa" tvg-quality="384p",TeleBilbao
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://tbilbo.dyndns.org/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Telecadena7y4.hn" tvg-name="Telecadena 7 y 4" group-title="General" tvg-language="spa" tvg-quality="576p",Telecadena 7 y 4
+http://45.167.2.101:8000/play/a07n/index.m3u8
+
+#EXTINF:-1 tvg-id="Telecentro.ve" tvg-name="Telecentro" group-title="General" tvg-language="spa" tvg-quality="480p",Telecentro
+https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
+
+#EXTINF:-1 tvg-id="Telecontacto.do" tvg-name="Telecontacto" group-title="General" tvg-language="spa" tvg-quality="480i",Telecontacto
+https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
+
+#EXTINF:-1 tvg-id="Telecosta.ec" tvg-name="Telecosta" group-title="General" tvg-language="spa" tvg-quality="480i",Telecosta
+https://telecosta.botlife.app/memfs/6ba9dc9a-aff4-4e4e-9466-a9f0c714b60b.m3u8
+
+#EXTINF:-1 tvg-id="Telefuturo.do" tvg-name="Telefuturo" group-title="General" tvg-language="spa" tvg-quality="480p",Telefuturo
+http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8
+
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-name="Teleislas" group-title="General" tvg-language="icr;spa" tvg-quality="576p",Teleislas
+http://181.78.211.244:8005/play/a08d/index.m3u8
+
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-name="Teleislas" group-title="General" tvg-language="icr;spa" tvg-quality="486p",Teleislas
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelemetroTV.do" tvg-name="Telemetro TV" group-title="General" tvg-language="spa" tvg-quality="576i",Telemetro TV
+https://streamunoapp.com:3366/live/telemetrolive.m3u8
+
+#EXTINF:-1 tvg-id="Telemicro.do" tvg-name="Telemicro" group-title="General" tvg-language="spa" tvg-quality="480p",Telemicro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0
+#EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/index_pc.php
+https://live2.telemicro.com.do/live/55/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telerama.ec" tvg-name="Telerama" group-title="General" tvg-language="spa" tvg-quality="240p",Telerama
+https://play.once.net.ec/telerama/live.tv/538.m3u8
+
+#EXTINF:-1 tvg-id="TeleredTelevision.cr" tvg-name="Telered Television" group-title="General" tvg-language="spa" tvg-quality="576p",Telered Television
+#EXTVLCOPT:http-referrer=https://teleredtelevision.com/
+https://k20.usastreams.com:8081/telered/index.m3u8
+
+#EXTINF:-1 tvg-id="Teleunion.do" tvg-name="Teleunion" group-title="General" tvg-language="spa" tvg-quality="480p",Teleunion
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Televen.ve" tvg-name="Televen" group-title="General" tvg-language="spa" tvg-quality="576p",Televen
+http://181.78.8.199:8000/play/a09j/index.m3u8
+
+#EXTINF:-1 tvg-id="TelevisoradeOriente.ve" tvg-name="Televisora de Oriente" group-title="General" tvg-language="spa" tvg-quality="406p",Televisora de Oriente
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+
+#EXTINF:-1 tvg-id="TicaVision.cr" tvg-name="TicaVision" group-title="General" tvg-language="spa" tvg-quality="480i",TicaVision
+https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TN8.ni" tvg-name="TN8" group-title="General" tvg-language="spa" tvg-quality="576p",TN8
+http://190.61.101.11:7050/play/a07j/index.m3u8
+
+#EXTINF:-1 tvg-id="TopTV.pe" tvg-name="Top TV" group-title="General" tvg-language="spa" tvg-quality="240p",Top TV
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+
+#EXTINF:-1 tvg-id="Trece.py" tvg-name="Trece" group-title="General" tvg-language="spa" tvg-quality="576i",Trece
+http://45.170.130.224:8000/play/a050/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Trivu.pe" tvg-name="Trivu" group-title="General" tvg-language="spa" tvg-quality="480i",Trivu
+https://stream2.trivutv.com/memfs/1bc8358a-665e-4bc1-a580-e4fcb54b5103.m3u8
+
+#EXTINF:-1 tvg-id="TRT.ve" tvg-name="TRT" group-title="General" tvg-language="spa" tvg-quality="410p",TRT
+https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVAire.py" tvg-name="TV Aire" group-title="General" tvg-language="spa" tvg-quality="576i",TV Aire
+https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
+
+#EXTINF:-1 tvg-id="TVCanal72.ar" tvg-name="TV Canal 72" group-title="General" tvg-language="spa" tvg-quality="576i",TV Canal 72
+https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVChile.cl" tvg-name="TV Chile" group-title="General" tvg-language="spa" tvg-quality="576p",TV Chile
+http://38.252.238.18:8000/play/a04b/index.m3u8
+
+#EXTINF:-1 tvg-id="TVHispanic.us" tvg-name="TV Hispanic" group-title="General" tvg-language="spa" tvg-quality="480i",TV Hispanic
+https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
+
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Peru" group-title="General" tvg-language="aym;que;spa" tvg-quality="480i",TV Peru
+https://cablered.iptvperu.tv:1936/cablered/tvperu_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRivera.co" tvg-name="TV Rivera" group-title="General" tvg-language="spa" tvg-quality="576i",TV Rivera
+https://movil.ejeserver.com/live/tvrivera.m3u8
+
+#EXTINF:-1 tvg-id="TVRivera.co" tvg-name="TV Rivera" group-title="General" tvg-language="spa" tvg-quality="576i",TV Rivera
+https://video.ejeserver.com/live/tvrivera.m3u8
+
+#EXTINF:-1 tvg-id="TVTun.gt" tvg-name="TV Tun" group-title="General" tvg-language="spa" tvg-quality="240p",TV Tun
+https://cdn.streamhispanatv.net:3832/live/tvtunlive.m3u8
+
+#EXTINF:-1 tvg-id="TV3LaPlata.co" tvg-name="TV3 La Plata" group-title="General" tvg-language="spa" tvg-quality="480p",TV3 La Plata
+https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr" tvg-name="TV5Monde Latin America" group-title="General" tvg-language="fra;spa" tvg-quality="576i",TV5Monde Latin America
+http://45.235.0.78/TV5_Monde/index.m3u8
+
+#EXTINF:-1 tvg-id="TVC.ec" tvg-name="TVC" group-title="General" tvg-language="spa" tvg-quality="480i",TVC
+https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8
+
+#EXTINF:-1 tvg-id="TVGE.gq" tvg-name="TVGE" group-title="General" tvg-language="spa" tvg-quality="576i",TVGE
+http://rtmp.ott.mx1.com/tvge1/tvge1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-name="TVO Canal 23" group-title="General" tvg-language="spa" tvg-quality="480i",TVO Canal 23
+http://45.167.2.101:8000/play/a0qo/index.m3u8
+
+#EXTINF:-1 tvg-id="TVR.es" tvg-name="TVR" group-title="General" tvg-language="spa" tvg-quality="360p",TVR
+https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UnionTV.py" tvg-name="Union TV" group-title="General" tvg-language="spa" tvg-quality="576i",Union TV
+https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UniregionTV.cl" tvg-name="Uniregion TV" group-title="General" tvg-language="spa" tvg-quality="576i",Uniregion TV
+https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ValeTV.ve" tvg-name="Vale TV" group-title="General" tvg-language="spa" tvg-quality="480p",Vale TV
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ValeTV.ve" tvg-name="Vale TV" group-title="General" tvg-language="spa" tvg-quality="480p",Vale TV
+https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ValleNuevoTV.do" tvg-name="Valle Nuevo TV" group-title="General" tvg-language="spa" tvg-quality="480i",Valle Nuevo TV
+https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Venevision.ve" tvg-name="Venevision" group-title="General" tvg-language="spa" tvg-quality="576p",Venevision
+http://181.78.8.199:8000/play/a0if/index.m3u8
+
+#EXTINF:-1 tvg-id="Venevision.ve" tvg-name="Venevision" group-title="General" tvg-language="spa" tvg-quality="480p",Venevision
+https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="VepacoTV.ve" tvg-name="Vepaco TV" group-title="General" tvg-language="spa" tvg-quality="480p",Vepaco TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+
+#EXTINF:-1 tvg-id="ViaTelevision.pe" tvg-name="Via Television" group-title="General" tvg-language="spa" tvg-quality="480i",Via Television
+https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
+
+#EXTINF:-1 tvg-id="Vision3000.do" tvg-name="Vision 3000" group-title="General" tvg-language="spa" tvg-quality="480i",Vision 3000
+https://ss2.tvrdomi.com:1936/vision3000/vision3000/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VivaTV.ni" tvg-name="Viva TV" group-title="General" tvg-language="spa" tvg-quality="576i",Viva TV
+https://cdn.amixtv.com/vivatv/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV.hn" tvg-name="VTV" group-title="General" tvg-language="spa" tvg-quality="480p",VTV
+https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-id="WaldivisionInternacional.hn" tvg-name="Waldivision Internacional" group-title="General" tvg-language="spa" tvg-quality="480i",Waldivision Internacional
+https://media.streambrothers.com:19360/8308/8308.m3u8
+
+#EXTINF:-1 tvg-id="WataVision.ve" tvg-name="Wata Vision" group-title="General" tvg-language="spa" tvg-quality="576i",Wata Vision
+https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8
+
+#EXTINF:-1 tvg-id="WuanPlus.ec" tvg-name="Wuan+" group-title="General" tvg-language="spa" tvg-quality="480i",Wuan+
+https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
+
+#EXTINF:-1 tvg-id="XEJTDT.mx" tvg-name="XEJ-TDT" group-title="General" tvg-language="spa" tvg-quality="614p",XEJ-TDT
+https://stream.oursnetworktv.com/latin/juarez50/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZeleveTV.pe" tvg-name="Zeleve TV" group-title="General" tvg-language="spa" tvg-quality="576i",Zeleve TV
+https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8
+
+#EXTINF:-1 tvg-id="ZonavisionTV.do" tvg-name="Zonavision TV" group-title="General" tvg-language="spa" tvg-quality="576i",Zonavision TV
+https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
+

@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3ABNFrench.us" tvg-name="3ABN French" group-title="Religious" tvg-language="fra" tvg-quality="480i",3ABN French
+https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ACTV.tg" tvg-name="AC TV" group-title="Religious" tvg-language="fra" tvg-quality="480p",AC TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/actvstream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChabibaTV.sn" tvg-name="Chabiba TV" group-title="Religious" tvg-language="fra" tvg-quality="360p",Chabiba TV
+https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8
+
+#EXTINF:-1 tvg-id="CNA.dz" tvg-name="CNA" group-title="Religious" tvg-language="ara;fra" tvg-quality="360p",CNA
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNA.dz" tvg-name="CNA" group-title="Religious" tvg-language="ara;fra" tvg-quality="360p",CNA
+https://live.creacast.com/cna/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DynamicGospelTV.tg" tvg-name="Dynamic Gospel TV" group-title="Religious" tvg-language="fra" tvg-quality="480p",Dynamic Gospel TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EcclesiaTV.ci" tvg-name="Ecclesia TV" group-title="Religious" tvg-language="fra" tvg-quality="576i",Ecclesia TV
+https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Esaie45Tele.cg" tvg-name="Esaie 45 Tele" group-title="Religious" tvg-language="fra" tvg-quality="576i",Esaie 45 Tele
+https://stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8
+
+#EXTINF:-1 tvg-id="ExploitsTV.ci" tvg-name="Exploits TV" group-title="Religious" tvg-language="fra" tvg-quality="576i",Exploits TV
+https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8
+
+#EXTINF:-1 tvg-id="ImpactTV.bf" tvg-name="Impact TV" group-title="Religious" tvg-language="fra" tvg-quality="576i",Impact TV
+https://edge11.vedge.infomaniak.com/livecast/ik:impacttv-2/manifest.m3u8
+
+#EXTINF:-1 tvg-id="KTO.fr" tvg-name="KTO" group-title="Religious" tvg-language="fra" tvg-quality="404p",KTO
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleAmenFM.ht" tvg-name="Radio Tele Amen FM" group-title="Religious" tvg-language="fra" tvg-quality="360p",Radio Tele Amen FM
+http://184.173.179.163:1935/daniel/daniel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleEvangileSansLimite.ca" tvg-name="Radio Tele Evangile Sans Limite" group-title="Religious" tvg-language="fra" tvg-quality="480i",Radio Tele Evangile Sans Limite
+https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleFullGospel.ht" tvg-name="Radio Tele Full Gospel" group-title="Religious" tvg-language="fra;hat" tvg-quality="576i",Radio Tele Full Gospel
+https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTelePuissance.us" tvg-name="Radio Tele Puissance" group-title="Religious" tvg-language="eng;fra" tvg-quality="480i",Radio Tele Puissance
+https://video1.getstreamhosting.com:1936/8560/8560/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleSentinel.us" tvg-name="Radio Tele Sentinel" group-title="Religious" tvg-language="fra;hat" tvg-quality="480i",Radio Tele Sentinel
+https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleWisdom.us" tvg-name="Radio Tele Wisdom" group-title="Religious" tvg-language="fra" tvg-quality="360p",Radio Tele Wisdom
+https://59d39900ebfb8.streamlock.net/daniel/daniel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCARiBGospel.sx" tvg-name="TVCARiB Gospel" group-title="Religious" tvg-language="eng;fra" tvg-quality="480p",TVCARiB Gospel
+https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8
+

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ManasTV.kg" tvg-name="Manas TV" group-title="Culture;Education;Entertainment" tvg-language="kir;tur" tvg-quality="1080p",Manas TV
+http://212.42.111.152:8080/hls/manas.m3u8
+

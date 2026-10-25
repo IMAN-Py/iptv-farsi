@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" group-title="News" tvg-language="sqi" tvg-quality="1080p",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+
+#EXTINF:-1 tvg-id="ntv.al" tvg-name="ntv" group-title="News" tvg-language="sqi" tvg-quality="720p",ntv
+https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8
+
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" group-title="News" tvg-language="sqi" tvg-quality="720p",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" group-title="News" tvg-language="sqi" tvg-quality="720p",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="RTSH24.al" tvg-name="RTSH 24" group-title="News" tvg-language="sqi" tvg-quality="1080p",RTSH 24
+http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri" group-title="News" tvg-language="sqi" tvg-quality="720p",Syri
+https://stream.syritv.al/live/syritv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVArta.xk" tvg-name="TV Arta" group-title="News" tvg-language="sqi" tvg-quality="720p",TV Arta
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+

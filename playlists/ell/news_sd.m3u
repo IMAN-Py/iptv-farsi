@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlertTV.gr" tvg-name="Alert TV" group-title="News" tvg-language="ell" tvg-quality="576p",Alert TV
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EgnatiaTV.gr" tvg-name="Egnatia TV" group-title="News" tvg-language="ell" tvg-quality="576p",Egnatia TV
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
+
+#EXTINF:-1 tvg-id="EuroTV.gr" tvg-name="Euro TV" group-title="News" tvg-language="ell" tvg-quality="432p",Euro TV
+https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ExtraProNews.gr" tvg-name="Extra ProNews" group-title="Entertainment;News;Shop" tvg-language="ell" tvg-quality="576p",Extra ProNews
+http://62.1.176.18:8888/extra/index.m3u8
+
+#EXTINF:-1 tvg-id="StartTV.gr" tvg-name="Start TV" group-title="News" tvg-language="ell" tvg-quality="480p",Start TV
+https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+

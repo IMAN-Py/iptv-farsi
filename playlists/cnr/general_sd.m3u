@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVTeuta.me" tvg-name="TV Teuta" group-title="General" tvg-language="cnr" tvg-quality="576i",TV Teuta
+http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
+

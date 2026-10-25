@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LietuvosRytasTV.lt" tvg-name="Lietuvos Rytas TV" group-title="Entertainment" tvg-language="lit" tvg-quality="1080p",Lietuvos Rytas TV
+https://live.lietuvosryto.tv/live/hls/eteris.m3u8
+

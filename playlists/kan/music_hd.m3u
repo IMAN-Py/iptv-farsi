@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PublicMusic.in" tvg-name="Public Music" group-title="Music" tvg-language="kan" tvg-quality="720p",Public Music
+https://cdn.pishow.tv/ott/live/441/master.m3u8
+

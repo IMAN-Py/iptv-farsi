@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Armenia1.am" tvg-name="Armenia 1" group-title="General" tvg-language="hye" tvg-quality="576i",Armenia 1
+https://dash2.antik.sk/live/test_armenia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArmeniaTVSatellite.am" tvg-name="Armenia TV Satellite" group-title="General" tvg-language="hye;rus" tvg-quality="576p",Armenia TV Satellite
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/175/index.m3u8
+

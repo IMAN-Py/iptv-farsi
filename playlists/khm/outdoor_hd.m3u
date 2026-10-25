@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ARDBTV.kh" tvg-name="ARDB TV" group-title="Outdoor" tvg-language="khm" tvg-quality="1080p",ARDB TV
+https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
+

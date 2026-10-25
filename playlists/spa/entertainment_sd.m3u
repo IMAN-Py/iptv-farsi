@@ -1,0 +1,157 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AdultSwim.us" tvg-name="Adult Swim" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="480i",Adult Swim
+https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us" tvg-name="Adult Swim Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Adult Swim Latin America
+http://170.244.209.30:8000/play/a02v/index.m3u8
+
+#EXTINF:-1 tvg-id="AltMediaTV.py" tvg-name="Alt Media TV" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Alt Media TV
+https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
+
+#EXTINF:-1 tvg-id="AMCenEspanol.us" tvg-name="AMC en Espanol" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",AMC en Espanol
+https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-name="Antares Television" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",Antares Television
+https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Antena21.do" tvg-name="Antena 21" group-title="Entertainment" tvg-language="spa" tvg-quality="480p",Antena 21
+https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="BacanTeVeo.ec" tvg-name="Bacan Te Veo" group-title="Entertainment" tvg-language="spa" tvg-quality="360p",Bacan Te Veo
+https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bitMe.mx" tvg-name="bitMe" group-title="Entertainment" tvg-language="spa" tvg-quality="576p",bitMe
+http://200.229.147.210:9999/play/a01y/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal10MardelPlata.ar" tvg-name="Canal 10 Mar del Plata" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Canal 10 Mar del Plata
+https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-id="Canal9Link.ar" tvg-name="Canal 9 Link" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Canal 9 Link
+https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalPulpoTV.ar" tvg-name="Canal Pulpo TV" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Canal Pulpo TV
+https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
+
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-name="Canela TV" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
+
+#EXTINF:-1 tvg-id="CanicaTV.co" tvg-name="Canica TV" group-title="Entertainment" tvg-language="spa" tvg-quality="240p",Canica TV
+https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CarasTV.ar" tvg-name="Caras TV" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Caras TV
+http://190.61.90.17:40000/play/a043/index.m3u8
+
+#EXTINF:-1 tvg-id="ColosalTV.cr" tvg-name="Colosal TV" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",Colosal TV
+https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DesdeElSurTV.uy" tvg-name="Desde El Sur TV" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Desde El Sur TV
+https://stmv.gmpro.top/surtv/surtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Enelpuntodemira.us" tvg-name="En el punto de mira" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",En el punto de mira
+https://jmp2.uk/plu-61922be835f3910007fc58f6.m3u8
+
+#EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",FX Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fx-key/chunks.m3u8
+
+#EXTINF:-1 tvg-id="GalaxiATeVe.do" tvg-name="GalaxiATeVe" group-title="Entertainment" tvg-language="spa" tvg-quality="360p",GalaxiATeVe
+https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
+
+#EXTINF:-1 tvg-id="GaviotaTV.ec" tvg-name="Gaviota TV" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",Gaviota TV
+https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8
+
+#EXTINF:-1 tvg-id="ImpactoTelevision.pe" tvg-name="Impacto Television" group-title="Entertainment" tvg-language="spa" tvg-quality="360p",Impacto Television
+https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
+
+#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-name="ITV Deportes" group-title="Entertainment;Sports" tvg-language="spa" tvg-quality="480i",ITV Deportes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+
+#EXTINF:-1 tvg-id="KoraTV.pe" tvg-name="Kora TV" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",Kora TV
+https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
+
+#EXTINF:-1 tvg-id="LaPotenteRadioTV.cr" tvg-name="La Potente Radio TV" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",La Potente Radio TV
+https://latamvdo.com:3626/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="LaTeleTuya.ve" tvg-name="La Tele Tuya" group-title="Entertainment" tvg-language="spa" tvg-quality="576p",La Tele Tuya
+http://181.78.8.199:8000/play/a0fs/index.m3u8
+
+#EXTINF:-1 tvg-id="LaraenRedes.ve" tvg-name="Lara en Redes" group-title="Entertainment" tvg-language="spa" tvg-quality="576p",Lara en Redes
+https://streamtv.laraenredes.com:3020/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="LatacungaTV.ec" tvg-name="LatacungaTV" group-title="Entertainment" tvg-language="spa" tvg-quality="360p",LatacungaTV
+https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MaximaTV.ve" tvg-name="Maxima TV" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Maxima TV
+https://maximatv.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="MelRadioTV.ec" tvg-name="Mel Radio TV" group-title="Entertainment" tvg-language="spa" tvg-quality="360p",Mel Radio TV
+https://eu1.servers10.com:8081/8334/index.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.ar" tvg-name="Metro TV" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Metro TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.ar" tvg-name="Metro TV" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Metro TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
+
+#EXTINF:-1 tvg-id="MovistarPlus.pe" tvg-name="Movistar Plus" group-title="Entertainment" tvg-language="spa" tvg-quality="576p",Movistar Plus
+http://190.108.91.206:9050/play/a0bb/index.m3u8
+
+#EXTINF:-1 tvg-id="MovistarPlus.pe" tvg-name="Movistar Plus" group-title="Entertainment" tvg-language="spa" tvg-quality="576p",Movistar Plus
+http://45.4.1.201:8000/play/a19y/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVenEspanol.us" tvg-name="MTV en Espanol" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="480i",MTV en Espanol
+https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
+
+#EXTINF:-1 tvg-id="NadaEsImposibleTV.cl" tvg-name="Nada Es Imposible TV" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",Nada Es Imposible TV
+https://vdochile.com:3194/live/mvqutymylive.m3u8
+
+#EXTINF:-1 tvg-id="NortenaTv.ve" tvg-name="Nortena Tv" group-title="Entertainment" tvg-language="spa" tvg-quality="576p",Nortena Tv
+https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-name="Pasiones Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",Pasiones Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/pasiones/chunks.m3u8
+
+#EXTINF:-1 tvg-id="PSN.mx" tvg-name="PSN" group-title="Entertainment;News" tvg-language="spa" tvg-quality="288p",PSN
+https://srspsn.live/live/livestream.m3u8
+
+#EXTINF:-1 tvg-id="RETV.do" tvg-name="R&E TV" group-title="Entertainment" tvg-language="spa" tvg-quality="480p",R&E TV
+https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioYguazuTV.ar" tvg-name="Radio Yguazu TV" group-title="Entertainment" tvg-language="spa" tvg-quality="480p",Radio Yguazu TV
+https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
+
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-name="RCN Mas" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",RCN Mas
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" group-title="Entertainment" tvg-language="spa" tvg-quality="480p",RCN Novelas
+http://181.65.191.173:8069/play/a061
+
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" group-title="Entertainment" tvg-language="spa" tvg-quality="576p",RCN Novelas
+http://181.78.8.199:8000/play/a0a7/index.m3u8
+
+#EXTINF:-1 tvg-id="RSVHonduras.hn" tvg-name="RSV Honduras" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",RSV Honduras
+https://live20.bozztv.com/dvrfl03/hondu/hondu-rsvhonduras/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperCable.cr" tvg-name="Super Cable" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",Super Cable
+http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Super7FM.do" tvg-name="Super7FM" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",Super7FM
+https://stream.haislin.com/super7fm/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleMas.cr" tvg-name="TeleMas" group-title="Entertainment" tvg-language="spa" tvg-quality="480p",TeleMas
+https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleplaySureste.mx" tvg-name="Teleplay Sureste" group-title="Entertainment" tvg-language="spa" tvg-quality="360p",Teleplay Sureste
+https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVGolfoUraba.co" tvg-name="TV Golfo Uraba" group-title="Entertainment" tvg-language="spa" tvg-quality="576i",TV Golfo Uraba
+https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVS.do" tvg-name="TVS" group-title="Entertainment" tvg-language="spa" tvg-quality="540p",TVS
+https://imagenuniversaltv.net:3741/live/tvslive.m3u8
+

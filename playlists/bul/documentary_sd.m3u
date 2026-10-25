@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="H2.bg" tvg-name="H2" group-title="Documentary" tvg-language="bul;eng" tvg-quality="576i",H2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03r
+
+#EXTINF:-1 tvg-id="History.bg" tvg-name="History" group-title="Documentary" tvg-language="bul" tvg-quality="576i",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0c1
+
+#EXTINF:-1 tvg-id="ID.bg" tvg-name="ID" group-title="Documentary" tvg-language="bul" tvg-quality="576i",ID
+http://213.91.179.28:8000/play/a0cf
+
+#EXTINF:-1 tvg-id="NationalGeographic.bg" tvg-name="National Geographic" group-title="Documentary" tvg-language="bul;eng" tvg-quality="576i",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0ct
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.bg" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="bul" tvg-quality="576i",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0cu
+

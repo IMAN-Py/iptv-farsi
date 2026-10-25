@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CanalSaude.br" tvg-name="Canal Saude" group-title="Education;Lifestyle" tvg-language="por" tvg-quality="720p",Canal Saude
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCozinha.us" tvg-name="Pluto TV Cozinha" group-title="Lifestyle" tvg-language="por" tvg-quality="720p",Pluto TV Cozinha
+https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKFOOD.us" tvg-name="Pluto TV KFOOD" group-title="Cooking;Lifestyle" tvg-language="por" tvg-quality="720p",Pluto TV KFOOD
+https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVViagens.us" tvg-name="Pluto TV Viagens" group-title="Lifestyle" tvg-language="por" tvg-quality="720p",Pluto TV Viagens
+https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8
+
+#EXTINF:-1 tvg-id="TLCLatinAmerica.us" tvg-name="TLC Latin America" group-title="Lifestyle" tvg-language="por" tvg-quality="720p",TLC Latin America
+http://79.127.238.228:14433
+

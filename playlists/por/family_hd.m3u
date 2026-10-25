@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" group-title="Family" tvg-language="por" tvg-quality="720p",The Pet Collective
+https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
+
+#EXTINF:-1 tvg-id="TVParaense.br" tvg-name="TV Paraense" group-title="Entertainment;Family;General;News" tvg-language="por" tvg-quality="720p",TV Paraense
+https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
+

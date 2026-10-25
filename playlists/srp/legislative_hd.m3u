@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+
+#EXTINF:-1 tvg-id="TVCG3.me" tvg-name="TVCG 3" group-title="Legislative" tvg-language="srp" tvg-quality="1080p",TVCG 3
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8
+

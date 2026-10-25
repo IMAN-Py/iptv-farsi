@@ -1,0 +1,277 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3ABNEnglish.us" tvg-name="3ABN English" group-title="Religious" tvg-language="eng" tvg-quality="480i",3ABN English
+https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" group-title="Animation;Kids;Religious" tvg-language="eng" tvg-quality="480i",3ABN Kids
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us" tvg-name="3ABN Praise Him Music Network" group-title="Music;Religious" tvg-language="eng" tvg-quality="480i",3ABN Praise Him Music Network
+https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3ABNProclaimNetwork.us" tvg-name="3ABN Proclaim! Network" group-title="Religious" tvg-language="eng" tvg-quality="480i",3ABN Proclaim! Network
+https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABNAfrica.us" tvg-name="ABN Africa" group-title="Religious" tvg-language="eng" tvg-quality="480p",ABN Africa
+https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
+
+#EXTINF:-1 tvg-id="ACNN.ng" tvg-name="ACNN" group-title="Religious" tvg-language="eng" tvg-quality="480p",ACNN
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AkaalChannel.uk" tvg-name="Akaal Channel" group-title="Religious" tvg-language="eng;pan" tvg-quality="396p",Akaal Channel
+https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
+
+#EXTINF:-1 tvg-id="AlphaDigital.ug" tvg-name="Alpha Digital" group-title="Religious" tvg-language="eng" tvg-quality="480p",Alpha Digital
+https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca" tvg-name="Amazing Discoveries TV" group-title="Religious" tvg-language="eng" tvg-quality="270p",Amazing Discoveries TV
+https://rpn.bozztv.com/gfaith/gfaith-amazing/index.m3u8
+
+#EXTINF:-1 tvg-id="AviationTV.ke" tvg-name="Aviation TV" group-title="Religious" tvg-language="eng" tvg-quality="480p",Aviation TV
+http://streamer02.nbo1.angani.co:1935/aviationtv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CapuchinTV.ke" tvg-name="Capuchin TV" group-title="Religious" tvg-language="eng" tvg-quality="576i",Capuchin TV
+https://goliveafrica.media:9998/live/64227f58b8413/index.m3u8
+
+#EXTINF:-1 tvg-id="CaribbeanGospelTV.jm" tvg-name="Caribbean Gospel TV" group-title="Religious" tvg-language="eng" tvg-quality="480i",Caribbean Gospel TV
+https://25466019af9b7aed.servers.dvcloud.tv/hls/iptv_providers/fhvtgifbqbcjp0g19mdd76t18tpalu4k.m3u8
+
+#EXTINF:-1 tvg-id="CaughtUpTV.ng" tvg-name="Caught-Up TV" group-title="Religious" tvg-language="eng" tvg-quality="480p",Caught-Up TV
+https://webstreaming-3.viewmedia.tv/web_031/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CDMInternacional.pr" tvg-name="CDM Internacional" group-title="Religious" tvg-language="eng;spa" tvg-quality="480p",CDM Internacional
+https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChosenTVEnglish.ng" tvg-name="Chosen TV English" group-title="Religious" tvg-language="eng" tvg-quality="576i",Chosen TV English
+https://live20.bozztv.com/dvrfl06/astv/astv-chosentv/index.m3u8
+
+#EXTINF:-1 tvg-id="ChosenTVEnglish.ng" tvg-name="Chosen TV English" group-title="Religious" tvg-language="eng" tvg-quality="360p",Chosen TV English
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cLoveworldTV.ng" tvg-name="cLoveworld TV" group-title="Religious" tvg-language="eng" tvg-quality="480p",cLoveworld TV
+https://live-hls-5rxy.livepush.io/live_cdn/em_LJ5aZjqp0LdiQ/index.m3u8
+
+#EXTINF:-1 tvg-id="CozaTV.ng" tvg-name="Coza TV" group-title="Religious" tvg-language="eng" tvg-quality="576p",Coza TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_019/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DareToDreamNetwork.us" tvg-name="Dare To Dream Network" group-title="Religious" tvg-language="eng" tvg-quality="480i",Dare To Dream Network
+https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DrGeneScott.us" tvg-name="Dr. Gene Scott" group-title="Religious" tvg-language="eng" tvg-quality="480p",Dr. Gene Scott
+https://wescottcc.piksel.tech/Manifest/UTB-NetworkStream.m3u8
+
+#EXTINF:-1 tvg-id="DreamTV.ug" tvg-name="Dream TV" group-title="Religious" tvg-language="eng;lug" tvg-quality="480p",Dream TV
+https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="DunamisTV.ng" tvg-name="Dunamis TV" group-title="Religious" tvg-language="eng" tvg-quality="576p",Dunamis TV
+https://atechgroupuk.site/DTV.m3u8
+
+#EXTINF:-1 tvg-id="EmanChannel.uk" tvg-name="Eman Channel" group-title="Religious" tvg-language="eng" tvg-quality="576p",Eman Channel
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Enlace.cr" tvg-name="Enlace" group-title="Religious" tvg-language="eng;spa" tvg-quality="576p",Enlace
+http://177.234.247.66:9975/Enlace/index.m3u8
+
+#EXTINF:-1 tvg-id="FaithAfrica.za" tvg-name="Faith Africa" group-title="Religious" tvg-language="eng" tvg-quality="576p",Faith Africa
+https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Firstlight.nz" tvg-name="Firstlight" group-title="Religious" tvg-language="eng" tvg-quality="576p",Firstlight
+https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FlameTV.ng" tvg-name="Flame TV" group-title="Religious" tvg-language="eng" tvg-quality="576p",Flame TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_010/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoursquareTV.ng" tvg-name="Foursquare TV" group-title="Religious" tvg-language="eng" tvg-quality="360p",Foursquare TV
+https://webstreaming-3.viewmedia.tv/web_033/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GNFTV.za" tvg-name="GNF TV" group-title="Religious" tvg-language="eng" tvg-quality="576p",GNF TV
+https://oqgdrb8my4rm-hls-live.5centscdn.com/GNF02/bcea197d8b00f79cb716c6288a861000.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-name="God Stands Kids Club TV" group-title="Kids;Religious" tvg-language="eng" tvg-quality="480i",God Stands Kids Club TV
+https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
+
+#EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-name="God Stands TV" group-title="Religious" tvg-language="eng" tvg-quality="480i",God Stands TV
+https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8
+
+#EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-name="God Stands TV" group-title="Religious" tvg-language="eng;urd" tvg-quality="480i",God Stands TV
+https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8
+
+#EXTINF:-1 tvg-id="GODTV.uk" tvg-name="GOD TV" group-title="Religious" tvg-language="eng" tvg-quality="576p",GOD TV
+https://cdn.pishow.tv/ott/live/1391/master.m3u8
+
+#EXTINF:-1 tvg-id="GODTV.uk" tvg-name="GOD TV" group-title="Religious" tvg-language="eng" tvg-quality="396p",GOD TV
+https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="GODTV.uk" tvg-name="GOD TV" group-title="Religious" tvg-language="eng" tvg-quality="576p",GOD TV
+https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GodsLearningChannel.us" tvg-name="God's Learning Channel" group-title="Religious" tvg-language="eng" tvg-quality="480p",God's Learning Channel
+https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GraceTV.in" tvg-name="Grace TV" group-title="Religious" tvg-language="eng" tvg-quality="360p",Grace TV
+https://samitaorigin.tangotv.in/GRACETV/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="GuguddeTV.ug" tvg-name="Gugudde TV" group-title="Religious" tvg-language="eng;lug" tvg-quality="480p",Gugudde TV
+https://jk3lzqq4lw79-hls-live.5centscdn.com/gugudde/c9a1fdac6e082dd89e7173244f34d7b3.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-id="HarvestUSA.in" tvg-name="Harvest USA" group-title="Religious" tvg-language="eng" tvg-quality="576p",Harvest USA
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HeavenBoundTV.ke" tvg-name="Heaven Bound TV" group-title="Religious" tvg-language="eng" tvg-quality="480p",Heaven Bound TV
+https://goliveafrica.media:9998/live/62580b337c021/index.m3u8
+
+#EXTINF:-1 tvg-id="HisGraceTV.ke" tvg-name="His Grace TV" group-title="Religious" tvg-language="eng" tvg-quality="480p",His Grace TV
+https://goliveafrica.media:9998/live/6593c35f9c090/index.m3u8
+
+#EXTINF:-1 tvg-id="HomebaseTV.za" tvg-name="Homebase TV" group-title="Religious" tvg-language="afr;eng" tvg-quality="480p",Homebase TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HomebaseTV.za" tvg-name="Homebase TV" group-title="Religious" tvg-language="afr;eng" tvg-quality="576p",Homebase TV
+https://webstreaming-2.viewmedia.tv/web_022/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelGhana.gh" tvg-name="Hope Channel Ghana" group-title="Religious" tvg-language="eng" tvg-quality="480p",Hope Channel Ghana
+https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelIndia.in" tvg-name="Hope Channel India" group-title="Religious" tvg-language="eng" tvg-quality="576p",Hope Channel India
+https://cdn.pishow.tv/ott/live/1385/master.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelIndia.in" tvg-name="Hope Channel India" group-title="Religious" tvg-language="eng" tvg-quality="576p",Hope Channel India
+https://mumt01.tangotv.in/O5aw8Zn3HOPECHANNELINDIA/index.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelPROYECTOJA.cr" tvg-name="Hope Channel PROYECTO JA" group-title="Family;Music;Religious" tvg-language="eng;spa" tvg-quality="360p",Hope Channel PROYECTO JA
+https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8
+
+#EXTINF:-1 tvg-id="IBNTV.tz" tvg-name="IBN TV" group-title="Religious" tvg-language="eng;swa" tvg-quality="480p",IBN TV
+http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8
+
+#EXTINF:-1 tvg-id="ICTV.ke" tvg-name="ICTV" group-title="Religious" tvg-language="eng" tvg-quality="480p",ICTV
+https://goliveafrica.media:9998/live/659a7f33bed3f/index.m3u8
+
+#EXTINF:-1 tvg-id="IIPCTV.ca" tvg-name="IIPC TV" group-title="Religious" tvg-language="eng" tvg-quality="480p",IIPC TV
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IslamChannel.uk" tvg-name="Islam Channel" group-title="Religious" tvg-language="eng" tvg-quality="576p",Islam Channel
+https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
+
+#EXTINF:-1 tvg-id="JTBSClassic.in" tvg-name="JTBS Classic" group-title="Culture;Religious" tvg-language="ben;eng" tvg-quality="480p",JTBS Classic
+https://jtbsclassic.dpdns.org/live.m3u8
+
+#EXTINF:-1 tvg-id="KSCE381.us" tvg-name="KSCE 38.1" group-title="Religious" tvg-language="eng;spa" tvg-quality="360p",KSCE 38.1
+https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KSCE383.us" tvg-name="KSCE 38.3" group-title="Religious" tvg-language="eng;spa" tvg-quality="360p",KSCE 38.3
+https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KSTVUganda.ug" tvg-name="KSTV Uganda" group-title="Religious" tvg-language="eng" tvg-quality="576i",KSTV Uganda
+https://live.esteem.africa/kstv/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="KSTVUganda.ug" tvg-name="KSTV Uganda" group-title="Religious" tvg-language="eng" tvg-quality="576i",KSTV Uganda
+https://unseenlive.s3.eu-west-1.amazonaws.com/kstv/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="LifevisionTV.us" tvg-name="LifevisionTV" group-title="Religious" tvg-language="eng" tvg-quality="406p",LifevisionTV
+https://tgn.bozztv.com/lifevision/lifevision/index.m3u8
+
+#EXTINF:-1 tvg-id="LivingFaithTV.us" tvg-name="Living Faith TV" group-title="Religious" tvg-language="eng;spa" tvg-quality="540p",Living Faith TV
+https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
+
+#EXTINF:-1 tvg-id="LoveworldSAT.ng" tvg-name="LoveworldSAT" group-title="Religious" tvg-language="eng" tvg-quality="576i",LoveworldSAT
+https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="MahaasinTV.tz" tvg-name="Mahaasin TV" group-title="Religious" tvg-language="eng;swa" tvg-quality="576i",Mahaasin TV
+https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8
+
+#EXTINF:-1 tvg-id="MercyTV.sl" tvg-name="Mercy TV" group-title="Religious" tvg-language="eng" tvg-quality="576i",Mercy TV
+https://cdn-cloudfront.eu-central-1.prod.ingest.aws-infra.dacast.com/live/bff8bd53-ee89-2c76-6a51-95a0003f7d96/master.m3u8
+
+#EXTINF:-1 tvg-id="MiracleTV.uk" tvg-name="Miracle TV" group-title="Religious" tvg-language="eng" tvg-quality="480p",Miracle TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MOFTV.ke" tvg-name="MOF TV" group-title="Religious" tvg-language="eng" tvg-quality="576i",MOF TV
+https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8
+
+#EXTINF:-1 tvg-id="MOGPATV.gh" tvg-name="MOGPA TV" group-title="Religious" tvg-language="eng" tvg-quality="576i",MOGPA TV
+https://bk7l2r2nyx53-hls-live.5centscdn.com/ablazetv/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MOGPATV.gh" tvg-name="MOGPA TV" group-title="Religious" tvg-language="eng" tvg-quality="576i",MOGPA TV
+https://srt.mogpa.org:30443/mogpatvplus/website_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MOGPATVPlus.gh" tvg-name="MOGPA TV Plus" group-title="Religious" tvg-language="eng" tvg-quality="576i",MOGPA TV Plus
+https://bk7l2r2nyx53-hls-live.5centscdn.com/mogpatvplus/2567a5ec9705eb7ac2c984033e06189d.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MoreGraceTV.ng" tvg-name="More Grace TV" group-title="Religious" tvg-language="eng" tvg-quality="410p",More Grace TV
+https://atechgroupuk.site/ETV.m3u8
+
+#EXTINF:-1 tvg-id="MorningCloudTV.ke" tvg-name="Morning Cloud TV" group-title="Religious" tvg-language="eng" tvg-quality="480p",Morning Cloud TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_026/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Munnaaru.mv" tvg-name="Munnaaru" group-title="Religious" tvg-language="div;eng" tvg-quality="576i",Munnaaru
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8
+
+#EXTINF:-1 tvg-id="MuslimNetworkTV.us" tvg-name="Muslim Network TV" group-title="Religious" tvg-language="ara;eng" tvg-quality="480i",Muslim Network TV
+https://afghantv.app/hls2/muslimnetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="MyRighteousTV.cm" tvg-name="My Righteous TV" group-title="Religious" tvg-language="eng" tvg-quality="576i",My Righteous TV
+https://live20.bozztv.com/ssh101/ssh101/myrighteous/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NewVisionTV.ng" tvg-name="New Vision TV" group-title="Religious" tvg-language="eng" tvg-quality="360p",New Vision TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NoursatEnglish.lb" tvg-name="Noursat English" group-title="Religious" tvg-language="eng" tvg-quality="576p",Noursat English
+https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NRBTV.us" tvg-name="NRBTV" group-title="Religious" tvg-language="eng" tvg-quality="480p",NRBTV
+https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OCNTV.us" tvg-name="OCN TV" group-title="Religious" tvg-language="eng" tvg-quality="480i",OCN TV
+https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8
+
+#EXTINF:-1 tvg-id="PanjabTV.uk" tvg-name="Panjab TV" group-title="Religious" tvg-language="eng" tvg-quality="576p",Panjab TV
+https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PentTV.gh" tvg-name="Pent TV" group-title="Religious" tvg-language="eng" tvg-quality="576i",Pent TV
+https://playlist.dacast.com/live/a72117af-d78e-7ffe-7c12-1af6cd4a8483-live-42172a86-494b-a866-498f-dbaff4b5e3c0/master.m3u8
+
+#EXTINF:-1 tvg-id="QuranTV.pk" tvg-name="Quran TV" group-title="Religious" tvg-language="eng" tvg-quality="576p",Quran TV
+http://103.250.28.74:8000/play/a03e/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioTelePuissance.us" tvg-name="Radio Tele Puissance" group-title="Religious" tvg-language="eng;fra" tvg-quality="480i",Radio Tele Puissance
+https://video1.getstreamhosting.com:1936/8560/8560/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RiddimHopeTV.tt" tvg-name="Riddim & Hope TV" group-title="Religious" tvg-language="eng" tvg-quality="576i",Riddim & Hope TV
+https://6zklxwavdw9b-hls-live.5centscdn.com/RIDDIMNHOPE/0954119dc19d9003dd5f4bb37b3f559e.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RLWTV.za" tvg-name="RLW TV" group-title="Religious" tvg-language="eng" tvg-quality="576p",RLW TV
+https://webstreaming-8.viewmedia.tv/web_119/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTNChicago.us" tvg-name="RTN Chicago" group-title="Religious" tvg-language="eng;ron" tvg-quality="480p",RTN Chicago
+https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SaltTV.ug" tvg-name="Salt TV" group-title="Religious" tvg-language="eng;lug" tvg-quality="576i",Salt TV
+https://stream.salttelevision.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="SeraphimTV.za" tvg-name="Seraphim TV" group-title="Religious" tvg-language="eng" tvg-quality="576i",Seraphim TV
+https://restream.churchtv247.co.za/Apostle/Hggc@24/1.m3u8
+
+#EXTINF:-1 tvg-id="TheIslamicNetwork.tt" tvg-name="The Islamic Network" group-title="Religious" tvg-language="eng" tvg-quality="480p",The Islamic Network
+http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheIslamicNetwork.tt" tvg-name="The Islamic Network" group-title="Religious" tvg-language="eng" tvg-quality="480i",The Islamic Network
+https://video1.getstreamhosting.com:1936/8322/8322/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheNowNetwork.us" tvg-name="The Now Network" group-title="Religious" tvg-language="eng" tvg-quality="480p",The Now Network
+https://mediaprod1.nowcast.cc:5443/LiveApp/streams/anZPy7eaVWLyDMZB1697488814699.m3u8
+
+#EXTINF:-1 tvg-id="TrinityTV.tt" tvg-name="Trinity TV" group-title="Religious" tvg-language="eng" tvg-quality="480p",Trinity TV
+https://5d00db0e0fcd5.streamlock.net/7410/7410/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCARiBGospel.sx" tvg-name="TVCARiB Gospel" group-title="Religious" tvg-language="eng;fra" tvg-quality="480p",TVCARiB Gospel
+https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8
+
+#EXTINF:-1 tvg-id="UrejeshoTVAfrica.ke" tvg-name="Urejesho TV Africa" group-title="Religious" tvg-language="eng;swa" tvg-quality="360p",Urejesho TV Africa
+https://goliveafrica.media:9998/live/64a26e4dd21a3/index.m3u8
+
+#EXTINF:-1 tvg-id="YadahTV.zw" tvg-name="Yadah TV" group-title="Religious" tvg-language="eng" tvg-quality="576p",Yadah TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_018/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZainabiaChannel.in" tvg-name="Zainabia Channel" group-title="Religious" tvg-language="eng;urd" tvg-quality="576i",Zainabia Channel
+https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
+

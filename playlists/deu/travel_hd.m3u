@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PeerTVSudtirol.it" tvg-name="Peer TV Sudtirol" group-title="Outdoor;Travel" tvg-language="deu" tvg-quality="1080p",Peer TV Sudtirol
+https://iptv.peer.biz/live/peertv.m3u8
+
+#EXTINF:-1 tvg-id="SchladmingDachsteinTV.at" tvg-name="Schladming-Dachstein TV" group-title="Travel" tvg-language="deu" tvg-quality="720p",Schladming-Dachstein TV
+https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+

@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="16AnnieIncinta.de" tvg-name="16 Anni e Incinta" group-title="Entertainment" tvg-language="ita" tvg-quality="720p",16 Anni e Incinta
+https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
+
+#EXTINF:-1 tvg-id="7Gold.it" tvg-name="7 Gold" group-title="Entertainment" tvg-language="ita" tvg-quality="1080p",7 Gold
+https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" group-title="Entertainment" tvg-language="ita" tvg-quality="1080i",Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ita" tvg-quality="1080p",Discovery Channel
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-id="GeordieShore.de" tvg-name="Geordie Shore" group-title="Entertainment" tvg-language="ita" tvg-quality="720p",Geordie Shore
+https://jmp2.uk/plu-619263ee9541940007d20d60.m3u8
+
+#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo" group-title="Entertainment" tvg-language="eng;ita" tvg-quality="1080p",Giallo
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-id="IlTestimone.de" tvg-name="Il Testimone" group-title="Entertainment" tvg-language="ita" tvg-quality="720p",Il Testimone
+https://jmp2.uk/plu-61fbd3f0733df400076c9a2d.m3u8
+
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris" group-title="Entertainment" tvg-language="eng;ita" tvg-quality="1080p",Iris
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVShore.de" tvg-name="Pluto TV Shore" group-title="Entertainment" tvg-language="ita" tvg-quality="720p",Pluto TV Shore
+https://jmp2.uk/plu-67e3b0d2443f0671bc8a1297.m3u8
+
+#EXTINF:-1 tvg-id="TeenMom.de" tvg-name="Teen Mom" group-title="Entertainment" tvg-language="ita" tvg-quality="720p",Teen Mom
+https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8
+

@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BajaiTV.hu" tvg-name="Bajai TV" group-title="General" tvg-language="hun" tvg-quality="720p",Bajai TV
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BerenteTV.hu" tvg-name="Berente TV" group-title="General" tvg-language="hun" tvg-quality="1080p",Berente TV
+https://stream.streaming4u.hu/BerenteTV/index.m3u8
+
+#EXTINF:-1 tvg-id="CsurgoTV.hu" tvg-name="Csurgo TV" group-title="General" tvg-language="hun" tvg-quality="720p",Csurgo TV
+http://79.120.178.90:1935/csurgotv/csurgolive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CsurgoTV.hu" tvg-name="Csurgo TV" group-title="General" tvg-language="hun" tvg-quality="720p",Csurgo TV
+https://5cd03f21c7193.streamlock.net/csurgotv/csurgolive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CsurgoTV.hu" tvg-name="Csurgo TV" group-title="General" tvg-language="hun" tvg-quality="720p",Csurgo TV
+https://cstv.medialivecdn.hu/csurgotv/27725804dc13aa23b3970414524d2dbf.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DaruTV.hu" tvg-name="Daru TV" group-title="General" tvg-language="hun" tvg-quality="720p",Daru TV
+https://5cd03f21c7193.streamlock.net/darutv/darutvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DSTV.hu" tvg-name="DSTV" group-title="General" tvg-language="hun" tvg-quality="720p",DSTV
+http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EgykerTV.hu" tvg-name="Egyker TV" group-title="General" tvg-language="hun" tvg-quality="1080p",Egyker TV
+https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8
+
+#EXTINF:-1 tvg-id="GloboTV.hu" tvg-name="Globo TV" group-title="General" tvg-language="hun" tvg-quality="720p",Globo TV
+https://stream.streaming4u.hu/GloboTV/index.m3u8
+
+#EXTINF:-1 tvg-id="HeviziTV.hu" tvg-name="Hevizi TV" group-title="General" tvg-language="hun" tvg-quality="1080p",Hevizi TV
+https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KaposTV.hu" tvg-name="Kapos TV" group-title="General" tvg-language="hun" tvg-quality="1080p",Kapos TV
+https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KarcagTV.hu" tvg-name="Karcag TV" group-title="General" tvg-language="hun" tvg-quality="720p",Karcag TV
+https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KiskorosTV.hu" tvg-name="Kiskoros TV" group-title="General" tvg-language="hun" tvg-quality="720p",Kiskoros TV
+https://5cd03f21c7193.streamlock.net/kiskorostv/korostvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KomlosTV.hu" tvg-name="Komlos TV" group-title="General" tvg-language="hun" tvg-quality="1080p",Komlos TV
+https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="OroszlanyiVarosiTelevizio.hu" tvg-name="Oroszlanyi Varosi Televizio" group-title="General" tvg-language="hun" tvg-quality="720p",Oroszlanyi Varosi Televizio
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OzdiVarosiTV.hu" tvg-name="Ozdi Varosi TV" group-title="General" tvg-language="hun" tvg-quality="720p",Ozdi Varosi TV
+http://stream.nmih.hu:7980/live.m3u8
+
+#EXTINF:-1 tvg-id="PilisTV.hu" tvg-name="PilisTV" group-title="General" tvg-language="hun" tvg-quality="1080p",PilisTV
+https://stream.streaming4u.hu/PilisTV/index.m3u8
+
+#EXTINF:-1 tvg-id="PVTV.hu" tvg-name="PVTV" group-title="General" tvg-language="hun" tvg-quality="720p",PVTV
+http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null
+
+#EXTINF:-1 tvg-id="RakosmenteTV.hu" tvg-name="Rakosmente TV" group-title="General" tvg-language="hun" tvg-quality="720p",Rakosmente TV
+http://rakosmentetv.hu:8080/hls/rmtv.m3u8
+
+#EXTINF:-1 tvg-id="RegioPluszTV.hu" tvg-name="RegioPlusz TV" group-title="General" tvg-language="hun" tvg-quality="1080p",RegioPlusz TV
+https://stream.streaming4u.hu/RegioPluszTV/index.m3u8
+
+#EXTINF:-1 tvg-id="SoltvadkertiTelevizio.hu" tvg-name="Soltvadkerti Televizio" group-title="General" tvg-language="hun" tvg-quality="720p",Soltvadkerti Televizio
+http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SzecsenyTV.hu" tvg-name="Szecseny TV" group-title="General" tvg-language="hun" tvg-quality="720p",Szecseny TV
+http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8
+
+#EXTINF:-1 tvg-id="SzolnokTV.hu" tvg-name="Szolnok TV" group-title="General" tvg-language="hun" tvg-quality="1080p",Szolnok TV
+https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TataiTV.hu" tvg-name="Tatai TV" group-title="General" tvg-language="hun" tvg-quality="1080p",Tatai TV
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrimedioTV.hu" tvg-name="Trimedio TV" group-title="General" tvg-language="hun" tvg-quality="1080p",Trimedio TV
+https://stream.streaming4u.hu/TriMedioTV/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSzentendre.hu" tvg-name="TV Szentendre" group-title="General" tvg-language="hun" tvg-quality="1080p",TV Szentendre
+https://stream.streaming4u.hu/TVSzentendre/index.m3u8
+

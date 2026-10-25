@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Weathernews.jp" tvg-name="Weathernews" group-title="Weather" tvg-language="jpn" tvg-quality="720p",Weathernews
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+

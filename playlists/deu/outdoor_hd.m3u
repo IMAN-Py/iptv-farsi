@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ANIMALKINGDOM.de" tvg-name="ANIMAL KINGDOM" group-title="Outdoor" tvg-language="deu;eng" tvg-quality="720p",ANIMAL KINGDOM
+https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
+
+#EXTINF:-1 tvg-id="PeerTVSudtirol.it" tvg-name="Peer TV Sudtirol" group-title="Outdoor;Travel" tvg-language="deu" tvg-quality="1080p",Peer TV Sudtirol
+https://iptv.peer.biz/live/peertv.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="deu" tvg-quality="1080p",Red Bull TV
+https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="deu" tvg-quality="1080p",Red Bull TV
+https://769a97d9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="deu" tvg-quality="720p",Red Bull TV
+https://jmp2.uk/plu-5e7cb84a172a0f0007da69e4.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="deu;eng" tvg-quality="1080p",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="deu;eng" tvg-quality="720p",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="deu;eng" tvg-quality="1080p",Red Bull TV
+https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8
+

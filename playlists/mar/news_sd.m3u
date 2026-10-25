@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="ABP Majha" group-title="News" tvg-language="mar" tvg-quality="576p",ABP Majha
+https://cdn.pishow.tv/ott/live/471/master.m3u8
+
+#EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="ABP Majha" group-title="News" tvg-language="mar" tvg-quality="576p",ABP Majha
+https://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8
+
+#EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="ABP Majha" group-title="News" tvg-language="mar" tvg-quality="360p",ABP Majha
+https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8
+
+#EXTINF:-1 tvg-id="JaiMaharashtra.in" tvg-name="Jai Maharashtra" group-title="News" tvg-language="mar" tvg-quality="576p",Jai Maharashtra
+https://d1msejlow1t3l4.cloudfront.net/fta/jaimaharashtra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LokshahiNews.in" tvg-name="Lokshahi News" group-title="News" tvg-language="mar" tvg-quality="576p",Lokshahi News
+https://mumt05.tangotv.in/87NeALx2LOKSAAHI/index.m3u8
+
+#EXTINF:-1 tvg-id="PudhariNews.in" tvg-name="Pudhari News" group-title="News" tvg-language="mar" tvg-quality="576p",Pudhari News
+https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="TV9Marathi.in" tvg-name="TV9 Marathi" group-title="News" tvg-language="mar" tvg-quality="576p",TV9 Marathi
+https://cdn.pishow.tv/ott/live/2/master.m3u8
+
+#EXTINF:-1 tvg-id="TV9Marathi.in" tvg-name="TV9 Marathi" group-title="News" tvg-language="mar" tvg-quality="576p",TV9 Marathi
+https://streams.tangotv.in/TV9MARATHI/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="Zee24Taas.in" tvg-name="Zee 24 Taas" group-title="News" tvg-language="mar" tvg-quality="576p",Zee 24 Taas
+https://streams.tangotv.in/ZEE24TAAS/ORIGIN/index.m3u8
+

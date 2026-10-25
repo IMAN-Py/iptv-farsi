@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DivyaDarshanTV.np" tvg-name="Divya Darshan TV" group-title="Religious" tvg-language="mai;nep" tvg-quality="1080p",Divya Darshan TV
+https://live.divyadarshantv.com/hls/0/stream.m3u8
+

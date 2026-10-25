@@ -1,0 +1,88 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" group-title="News;Public" tvg-language="spa" tvg-quality="720p",24 Horas
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-id="24HorasCanarias.es" tvg-name="24 Horas Canarias" group-title="News;Public" tvg-language="spa" tvg-quality="1080p",24 Horas Canarias
+http://185.47.212.25:8080/24h_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="24HorasCanarias.es" tvg-name="24 Horas Canarias" group-title="News;Public" tvg-language="spa" tvg-quality="720p",24 Horas Canarias
+https://ztnr.rtve.es/ztnr/5473142.m3u8
+
+#EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-name="24 Horas Catalunya" group-title="News;Public" tvg-language="cat;spa" tvg-quality="720p",24 Horas Catalunya
+https://ztnr.rtve.es/ztnr/4952053.m3u8
+
+#EXTINF:-1 tvg-id="APunt.es" tvg-name="A Punt" group-title="General;Public" tvg-language="cat;spa" tvg-quality="720p",A Punt
+https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
+
+#EXTINF:-1 tvg-id="AragonTVInternacional.es" tvg-name="Aragon TV Internacional" group-title="General;Public" tvg-language="spa" tvg-quality="720p",Aragon TV Internacional
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+#EXTINF:-1 tvg-id="CanalSur2.es" tvg-name="Canal Sur 2" group-title="General;Public" tvg-language="spa" tvg-quality="720p",Canal Sur 2
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="Canal Sur Andalucia" group-title="General;Public" tvg-language="spa" tvg-quality="1080p",Canal Sur Andalucia
+https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
+
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="Canal Sur Andalucia" group-title="General;Public" tvg-language="spa" tvg-quality="720p",Canal Sur Andalucia
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
+
+#EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" group-title="Kids;Public" tvg-language="spa" tvg-quality="1080p",Clan
+https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
+
+#EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" group-title="Kids;Public" tvg-language="spa" tvg-quality="720p",Clan
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8
+
+#EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" group-title="Kids;Public" tvg-language="spa" tvg-quality="1080p",Clan
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+
+#EXTINF:-1 tvg-id="ClanInternacional.es" tvg-name="Clan Internacional" group-title="Kids;Public" tvg-language="spa" tvg-quality="1080p",Clan Internacional
+http://168.228.44.241:9999/play/a04j/index.m3u8
+
+#EXTINF:-1 tvg-id="ClanInternacional.es" tvg-name="Clan Internacional" group-title="Kids;Public" tvg-language="spa" tvg-quality="1080p",Clan Internacional
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
+
+#EXTINF:-1 tvg-id="CMMTV.es" tvg-name="CMM TV" group-title="General;Public" tvg-language="spa" tvg-quality="1080p",CMM TV
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
+
+#EXTINF:-1 tvg-id="ETB2.es" tvg-name="ETB 2" group-title="General;Public" tvg-language="spa" tvg-quality="1080p",ETB 2
+https://cdn1.etbon.eus/etb2/index.m3u8
+
+#EXTINF:-1 tvg-id="ETBEvents1.es" tvg-name="ETB Events 1" group-title="General;Public" tvg-language="eus;spa" tvg-quality="1080p",ETB Events 1
+https://cdn1.etbon.eus/oc1/index.m3u8
+
+#EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" group-title="General;Public" tvg-language="spa" tvg-quality="2160p",La 1
+http://185.47.212.25:8080/tdp_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" group-title="General;Public" tvg-language="spa" tvg-quality="1086p",La 1
+https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd
+
+#EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
+
+#EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" group-title="General;Public" tvg-language="spa" tvg-quality="1080p",La 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="La1.es" tvg-name="La 1" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 1 Canarias
+https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main.m3u8
+
+#EXTINF:-1 tvg-id="La1Canarias.es" tvg-name="La 1 Canarias" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 1 Canarias
+https://ztnr.rtve.es/ztnr/5190066.m3u8
+
+#EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="720p",La 1 Catalunya
+https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
+
+#EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="720p",La 1 Catalunya
+https://ztnr.rtve.es/ztnr/3293681.m3u8
+
+#EXTINF:-1 tvg-id="La2Canarias.es" tvg-name="La 2 Canarias" group-title="General;Public" tvg-language="spa" tvg-quality="720p",La 2 Canarias
+https://ztnr.rtve.es/ztnr/5468585.m3u8
+
+#EXTINF:-1 tvg-id="La2Catalunya.es" tvg-name="La 2 Catalunya" group-title="General;Public" tvg-language="cat;spa" tvg-quality="720p",La 2 Catalunya
+https://ztnr.rtve.es/ztnr/3987218.m3u8
+
+#EXTINF:-1 tvg-id="UAATV.mx" tvg-name="UAA TV" group-title="Culture;Education;Public" tvg-language="spa" tvg-quality="1080p",UAA TV
+https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
+

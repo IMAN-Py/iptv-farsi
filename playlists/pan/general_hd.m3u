@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DiyaTV.us" tvg-name="Diya TV" group-title="General" tvg-language="eng;hin;pan" tvg-quality="1080p",Diya TV
+https://stream.diyatvinc.com/diya.m3u8
+
+#EXTINF:-1 tvg-id="GaundaPunjabTV.ca" tvg-name="Gaunda Punjab TV" group-title="General" tvg-language="pan" tvg-quality="720p",Gaunda Punjab TV
+http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
+

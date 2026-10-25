@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Avatar.se" tvg-name="Avatar" group-title="Animation;Kids;Series" tvg-language="dan;eng" tvg-quality="720p",Avatar
+https://jmp2.uk/plu-61c09b48d6d97900076e91c5.m3u8
+
+#EXTINF:-1 tvg-id="SouthPark.se" tvg-name="South Park" group-title="Animation;Comedy" tvg-language="dan;eng" tvg-quality="720p",South Park
+https://jmp2.uk/plu-61c098df897b9d00070375c8.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkArmageddon.se" tvg-name="South Park Armageddon" group-title="Animation;Comedy" tvg-language="dan;eng" tvg-quality="720p",South Park Armageddon
+https://jmp2.uk/plu-660bff28516d260008479e23.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkRockinOut.se" tvg-name="South Park Rockin' Out" group-title="Animation;Comedy" tvg-language="dan;eng" tvg-quality="720p",South Park Rockin' Out
+https://jmp2.uk/plu-664f132c8ea5560008ce4d86.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkButtersCollection.se" tvg-name="South Park: Butters Collection" group-title="Animation;Comedy" tvg-language="dan;eng" tvg-quality="720p",South Park: Butters Collection
+https://jmp2.uk/plu-65d87a66ec9fda0008a5ac11.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkCartmanCollection.se" tvg-name="South Park: Cartman Collection" group-title="Animation;Comedy" tvg-language="dan;eng" tvg-quality="720p",South Park: Cartman Collection
+https://jmp2.uk/plu-65d87a058145cb0008265c2e.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkIntotheStars.se" tvg-name="South Park: Into the Stars" group-title="Animation;Comedy" tvg-language="dan;eng" tvg-quality="720p",South Park: Into the Stars
+https://jmp2.uk/plu-664f0eaa8ce31100088036bd.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkKennyCollection.se" tvg-name="South Park: Kenny Collection" group-title="Animation;Comedy" tvg-language="dan;eng" tvg-quality="720p",South Park: Kenny Collection
+https://jmp2.uk/plu-65d879bd0d4561000805d190.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkKyleCollection.se" tvg-name="South Park: Kyle Collection" group-title="Animation;Comedy" tvg-language="dan;eng" tvg-quality="720p",South Park: Kyle Collection
+https://jmp2.uk/plu-65d87a908145cb0008265c6d.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkStanCollection.se" tvg-name="South Park: Stan Collection" group-title="Animation;Comedy" tvg-language="dan;eng" tvg-quality="720p",South Park: Stan Collection
+https://jmp2.uk/plu-65d879e266eec8000887e91b.m3u8
+

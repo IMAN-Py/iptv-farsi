@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AaryaaTV.in" tvg-name="Aaryaa TV" group-title="Music" tvg-language="tam" tvg-quality="1080p",Aaryaa TV
+https://stream.ottlive.co.in/aryatvtamil/index.m3u8
+
+#EXTINF:-1 tvg-id="PeppersTV.in" tvg-name="Peppers TV" group-title="Music" tvg-language="tam" tvg-quality="751p",Peppers TV
+https://cdn.pishow.tv/ott/live/1383/master.m3u8
+
+#EXTINF:-1 tvg-id="RajMusixTamil.in" tvg-name="Raj Musix Tamil" group-title="Music" tvg-language="tam" tvg-quality="1080p",Raj Musix Tamil
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
+
+#EXTINF:-1 tvg-id="SanaPlus.in" tvg-name="Sana Plus" group-title="Music" tvg-language="tam" tvg-quality="1080p",Sana Plus
+https://galaxyott.live/hls/sanaplus.m3u8
+
+#EXTINF:-1 tvg-id="SanaPlus.in" tvg-name="Sana Plus" group-title="Music" tvg-language="tam" tvg-quality="1080p",Sana Plus
+https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
+
+#EXTINF:-1 tvg-id="Tunes6.in" tvg-name="Tunes 6" group-title="Music" tvg-language="tam" tvg-quality="720p",Tunes 6
+https://stream.d6-pro.com/Tunes6music/live/video.m3u8
+
+#EXTINF:-1 tvg-id="UltimateTV.in" tvg-name="Ultimate TV" group-title="Music" tvg-language="tam" tvg-quality="1080p",Ultimate TV
+https://stream.ottlive.co.in/utvtamil/index.m3u8
+
+#EXTINF:-1 tvg-id="VaanavilTV.in" tvg-name="Vaanavil TV" group-title="Music" tvg-language="tam" tvg-quality="720p",Vaanavil TV
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VijayTakkar.in" tvg-name="Vijay Takkar" group-title="Music" tvg-language="tam" tvg-quality="1080p",Vijay Takkar
+https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
+
+#EXTINF:-1 tvg-id="YETMax.in" tvg-name="YET Max" group-title="Music" tvg-language="tam" tvg-quality="720p",YET Max
+https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8
+

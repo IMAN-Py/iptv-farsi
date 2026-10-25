@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ONMovies.vn" tvg-name="ON Movies" group-title="Movies" tvg-language="vie" tvg-quality="720p",ON Movies
+https://freem3u.xyz/api/live/play.m3u8?vid=181
+
+#EXTINF:-1 tvg-id="VinhLongTV3.vn" tvg-name="Vinh Long TV 3" group-title="Entertainment;Movies" tvg-language="vie" tvg-quality="720p",Vinh Long TV 3
+https://dethich.pw/thvl3/index.m3u8
+

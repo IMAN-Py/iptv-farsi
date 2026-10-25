@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="APATv.az" tvg-name="APA Tv" group-title="News" tvg-language="aze" tvg-quality="1080p",APA Tv
+http://stream.apa.tv/apastream/index.m3u8
+
+#EXTINF:-1 tvg-id="AznewsTV.se" tvg-name="Aznews TV" group-title="News" tvg-language="aze" tvg-quality="720p",Aznews TV
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+

@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ChannelWIN.in" tvg-name="Channel WIN" group-title="Religious" tvg-language="urd" tvg-quality="720p",Channel WIN
+https://cdn.pishow.tv/ott/live/229/master.m3u8
+
+#EXTINF:-1 tvg-id="GraceNetwork.pk" tvg-name="Grace Network" group-title="Religious" tvg-language="eng;urd" tvg-quality="720p",Grace Network
+https://livecdn.live247stream.com/grace/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ImamHusseinTV4.iq" tvg-name="Imam Hussein TV 4" group-title="Religious" tvg-language="urd" tvg-quality="1080p",Imam Hussein TV 4
+http://ur.imamhossaintv.com/live/ih4.m3u8
+
+#EXTINF:-1 tvg-id="ImamHusseinTV4.iq" tvg-name="Imam Hussein TV 4" group-title="Religious" tvg-language="urd" tvg-quality="1080p",Imam Hussein TV 4
+https://live.imamhossaintv.com/live/ih4.m3u8
+
+#EXTINF:-1 tvg-id="MadaniChannelUrdu.pk" tvg-name="Madani Channel Urdu" group-title="Religious" tvg-language="urd" tvg-quality="720p",Madani Channel Urdu
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
+
+#EXTINF:-1 tvg-id="MTA1World.uk" tvg-name="MTA1 World" group-title="Religious" tvg-language="ara;ben;deu;eng;fra;urd" tvg-quality="720p",MTA1 World
+https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA2Europe.uk" tvg-name="MTA2 Europe" group-title="Religious" tvg-language="ara;ben;deu;eng;fra;hin;urd" tvg-quality="720p",MTA2 Europe
+https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA4Africa.uk" tvg-name="MTA4 Africa" group-title="Religious" tvg-language="eng;fra;swa;urd" tvg-quality="1080p",MTA4 Africa
+https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA5Africa.uk" tvg-name="MTA5 Africa" group-title="Religious" tvg-language="eng;fra;swa;urd" tvg-quality="1080p",MTA5 Africa
+https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA6Asia.uk" tvg-name="MTA6 Asia" group-title="Religious" tvg-language="ara;ben;eng;ind;tam;urd" tvg-quality="1080p",MTA6 Asia
+https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA7Asia.uk" tvg-name="MTA7 Asia" group-title="Religious" tvg-language="ara;ben;eng;hin;mal;tam;urd" tvg-quality="1080p",MTA7 Asia
+https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NoorTV.uk" tvg-name="Noor TV" group-title="Religious" tvg-language="eng;urd" tvg-quality="720p",Noor TV
+https://sscsott.com/srt/noortvuk/index.m3u8
+
+#EXTINF:-1 tvg-id="PaighanTV.pk" tvg-name="Paighan TV" group-title="Education;Religious" tvg-language="urd" tvg-quality="1080p",Paighan TV
+http://116.90.120.151:8000/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-id="PeaceTVUrdu.ae" tvg-name="Peace TV Urdu" group-title="Religious" tvg-language="urd" tvg-quality="1080p",Peace TV Urdu
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+

@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KurdistanTV.iq" tvg-name="Kurdistan TV" group-title="General" tvg-language="ara;kur;tur" tvg-quality="720p",Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RojavaTV.sy" tvg-name="Rojava TV" group-title="General" tvg-language="ara;kur" tvg-quality="1080p",Rojava TV
+https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
+
+#EXTINF:-1 tvg-id="SercemTV.tr" tvg-name="Sercem TV" group-title="Culture;General;Religious" tvg-language="kur;tur;zza" tvg-quality="1080p",Sercem TV
+https://canli.sercemtv.com.tr/hls/0/stream.m3u8
+

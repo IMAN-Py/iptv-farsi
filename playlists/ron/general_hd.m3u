@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A7TV.ro" tvg-name="A7TV" group-title="General" tvg-language="ron" tvg-quality="1080p",A7TV
+https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArgesTV.ro" tvg-name="Arges TV" group-title="General" tvg-language="ron" tvg-quality="720p",Arges TV
+https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
+
+#EXTINF:-1 tvg-id="IasiTVLife.ro" tvg-name="IasiTV Life" group-title="General" tvg-language="ron" tvg-quality="1080p",IasiTV Life
+https://tv.streambox.ro/hls/itv/index.m3u8
+
+#EXTINF:-1 tvg-id="KapitalTV.ro" tvg-name="Kapital TV" group-title="General" tvg-language="ron" tvg-quality="1080p",Kapital TV
+#EXTVLCOPT:http-referrer=https://kapitaltv.ro/
+https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8
+
+#EXTINF:-1 tvg-id="MetropolaTV.ro" tvg-name="Metropola TV" group-title="General" tvg-language="ron" tvg-quality="1080p",Metropola TV
+https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Moldova1.md" tvg-name="Moldova 1" group-title="General" tvg-language="ron;rus" tvg-quality="1080p",Moldova 1
+https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
+
+#EXTINF:-1 tvg-id="Moldova2.md" tvg-name="Moldova 2" group-title="General" tvg-language="ron;rus" tvg-quality="1080p",Moldova 2
+https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
+
+#EXTINF:-1 tvg-id="MoldovaTV.md" tvg-name="Moldova TV" group-title="General" tvg-language="ron" tvg-quality="1080p",Moldova TV
+https://moldovatv.ro/live-tv/live.m3u8
+
+#EXTINF:-1 tvg-id="MuscelTV.ro" tvg-name="Muscel TV" group-title="General" tvg-language="ron" tvg-quality="720p",Muscel TV
+https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NasulTV.ro" tvg-name="Nasul TV" group-title="General" tvg-language="ron" tvg-quality="720p",Nasul TV
+https://live.nasul.tv/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="SorTV.md" tvg-name="Sor TV" group-title="General" tvg-language="ron" tvg-quality="720p",Sor TV
+http://188.237.212.16:8888/live/cameraFeed.m3u8
+
+#EXTINF:-1 tvg-id="Tele7ABCHD.ro" tvg-name="Tele7ABC HD" group-title="General" tvg-language="ron" tvg-quality="720p",Tele7ABC HD
+https://live.tele7abc.ro/hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="TVRIasi.ro" tvg-name="TVR Iasi" group-title="General" tvg-language="ron" tvg-quality="1080p",TVR Iasi
+http://82.208.141.70:8778/1.m3u8
+
+#EXTINF:-1 tvg-id="TVRIasi.ro" tvg-name="TVR Iasi" group-title="General" tvg-language="ron" tvg-quality="1080p",TVR Iasi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; rv:126.0) Gecko/20100101 Firefox/126.0
+#EXTVLCOPT:http-referrer=https://www.tvrplus.ro/
+https://tvr-tvriasi.cdn.zitec.com/live/tvriasi/main.m3u8
+
+#EXTINF:-1 tvg-id="TVRMoldova.md" tvg-name="TVR Moldova" group-title="General" tvg-language="ron" tvg-quality="1440p",TVR Moldova
+https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TVRMoldova.md" tvg-name="TVR Moldova" group-title="General" tvg-language="ron" tvg-quality="1080p",TVR Moldova
+https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRMoldova.md" tvg-name="TVR Moldova" group-title="General" tvg-language="ron" tvg-quality="720p",TVR Moldova
+https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8
+

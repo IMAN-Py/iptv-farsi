@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HANDICAPTV.fr" tvg-name="HANDICAP TV" group-title="Lifestyle" tvg-language="fra" tvg-quality="576i",HANDICAP TV
+https://srv.webtvmanager.fr:3697/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="SOSDocteurTV.tg" tvg-name="SOS Docteur TV" group-title="Lifestyle" tvg-language="fra" tvg-quality="480p",SOS Docteur TV
+https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-name="TV5Monde Style" group-title="Lifestyle" tvg-language="fra" tvg-quality="576i",TV5Monde Style
+http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-name="TV5Monde Style" group-title="Lifestyle" tvg-language="fra" tvg-quality="576i",TV5Monde Style
+http://103.190.232.129/stream/tvb/style?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+

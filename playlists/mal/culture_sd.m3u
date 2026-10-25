@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FlowersTVUSA.us" tvg-name="Flowers TV USA" group-title="Culture" tvg-language="eng;mal" tvg-quality="480i",Flowers TV USA
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GarshomTV.uk" tvg-name="Garshom TV" group-title="Culture" tvg-language="mal" tvg-quality="360p",Garshom TV
+https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+

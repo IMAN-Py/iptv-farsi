@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business" group-title="Business;News" tvg-language="fra" tvg-quality="1080p",BFM Business
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
+
+#EXTINF:-1 tvg-id="CanalZ.be" tvg-name="Canal Z" group-title="Business" tvg-language="fra" tvg-quality="1080p",Canal Z
+https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
+

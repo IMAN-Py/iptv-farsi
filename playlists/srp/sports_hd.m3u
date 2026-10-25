@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SOSKanalPlus.rs" tvg-name="SOS Kanal Plus" group-title="Sports" tvg-language="srp" tvg-quality="720p",SOS Kanal Plus
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+

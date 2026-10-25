@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ArubaTV.aw" tvg-name="Aruba.TV" group-title="Travel" tvg-language="eng;spa" tvg-quality="1080p",Aruba.TV
+https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" group-title="Culture;Travel" tvg-language="spa" tvg-quality="1080p",Aunar
+http://190.128.214.97:64333/play/a057/index.m3u8
+
+#EXTINF:-1 tvg-id="ChileChannel.cl" tvg-name="Chile Channel" group-title="Entertainment;Travel" tvg-language="eng;spa" tvg-quality="720p",Chile Channel
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+
+#EXTINF:-1 tvg-id="OEPMTV.do" tvg-name="OEPM TV" group-title="Travel" tvg-language="spa" tvg-quality="720p",OEPM TV
+https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SunChannel.ve" tvg-name="Sun Channel" group-title="Travel" tvg-language="spa" tvg-quality="720p",Sun Channel
+http://168.196.127.137:6001/play/a06p/index.m3u8
+
+#EXTINF:-1 tvg-id="Teletur.do" tvg-name="Teletur" group-title="Travel" tvg-language="spa" tvg-quality="720p",Teletur
+https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TurismoRDTV.do" tvg-name="Turismo RDTV" group-title="Travel" tvg-language="spa" tvg-quality="720p",Turismo RDTV
+https://streamunoapp.com:3086/live/telemileniolive.m3u8
+
+#EXTINF:-1 tvg-id="TuristikTV.mx" tvg-name="Turistik TV" group-title="Travel" tvg-language="spa" tvg-quality="720p",Turistik TV
+https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVOFF.bo" tvg-name="TV OFF" group-title="Travel" tvg-language="spa" tvg-quality="1080p",TV OFF
+https://edge.enhdtv.com/tvoff/index.m3u8
+

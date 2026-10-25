@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal3TVBiar.es" tvg-name="Canal 3 TV Biar" group-title="General" tvg-language="cat" tvg-quality="480p",Canal 3 TV Biar
+https://avantstreaming.es/hls/canal3.m3u8
+
+#EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-name="Canal 7 TeleValencia" group-title="General" tvg-language="cat;spa" tvg-quality="576p",Canal 7 TeleValencia
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RiberaTV.es" tvg-name="Ribera TV" group-title="General" tvg-language="cat;spa" tvg-quality="576p",Ribera TV
+https://common01.todostreaming.es/live/ribera-livestream.m3u8
+

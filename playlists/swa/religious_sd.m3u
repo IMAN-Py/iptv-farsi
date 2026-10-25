@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="IBNTV.tz" tvg-name="IBN TV" group-title="Religious" tvg-language="eng;swa" tvg-quality="480p",IBN TV
+http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8
+
+#EXTINF:-1 tvg-id="MahaasinTV.tz" tvg-name="Mahaasin TV" group-title="Religious" tvg-language="eng;swa" tvg-quality="576i",Mahaasin TV
+https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8
+
+#EXTINF:-1 tvg-id="MuugiTV.ke" tvg-name="Muugi TV" group-title="Religious" tvg-language="swa" tvg-quality="480p",Muugi TV
+https://goliveafrica.media:9998/live/62b3ffb71a3d6/index.m3u8
+
+#EXTINF:-1 tvg-id="NdurumeniTV.ke" tvg-name="Ndurumeni TV" group-title="Religious" tvg-language="swa" tvg-quality="480p",Ndurumeni TV
+https://goliveafrica.media:9998/live/6389d571d20af/index.m3u8
+
+#EXTINF:-1 tvg-id="UrejeshoTVAfrica.ke" tvg-name="Urejesho TV Africa" group-title="Religious" tvg-language="eng;swa" tvg-quality="360p",Urejesho TV Africa
+https://goliveafrica.media:9998/live/64a26e4dd21a3/index.m3u8
+

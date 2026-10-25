@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Belarus24.by" tvg-name="Belarus-24" group-title="News" tvg-language="bel;eng;rus" tvg-quality="1080p",Belarus-24
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PerviyInformationniy.by" tvg-name="Perviy Informationniy" group-title="News" tvg-language="bel;rus" tvg-quality="1080p",Perviy Informationniy
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
+

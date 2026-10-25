@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DhoomMusic.in" tvg-name="Dhoom Music" group-title="Music" tvg-language="ben" tvg-quality="720p",Dhoom Music
+https://cdn.pishow.tv/ott/live/1456/master.m3u8
+
+#EXTINF:-1 tvg-id="OrangeBanglaTV.in" tvg-name="Orange Bangla TV" group-title="Music" tvg-language="ben" tvg-quality="720p",Orange Bangla TV
+https://cdn.pishow.tv/ott/live/1499/master.m3u8
+
+#EXTINF:-1 tvg-id="SangeetBangla.in" tvg-name="Sangeet Bangla" group-title="Music" tvg-language="ben" tvg-quality="720p",Sangeet Bangla
+https://cdn.pishow.tv/ott/live/1143/master.m3u8
+
+#EXTINF:-1 tvg-id="ZBMusic.in" tvg-name="ZB Music" group-title="Music" tvg-language="ben" tvg-quality="720p",ZB Music
+https://server.zillarbarta.com/zbmusic/index.m3u8
+

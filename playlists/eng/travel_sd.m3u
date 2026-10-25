@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FunRoads.us" tvg-name="Fun Roads" group-title="Auto;Travel" tvg-language="eng" tvg-quality="404p",Fun Roads
+http://104.143.4.5:2080/funroads.m3u8
+
+#EXTINF:-1 tvg-id="RTGint.ru" tvg-name="RTG int." group-title="Travel" tvg-language="eng" tvg-quality="576i",RTG int.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0bw
+
+#EXTINF:-1 tvg-id="RTGTV.ru" tvg-name="RTG TV" group-title="Travel" tvg-language="eng;rus;tur" tvg-quality="576p",RTG TV
+http://31.148.48.15/RTG/index.m3u8
+
+#EXTINF:-1 tvg-id="TanzaniaSafariChannel.tz" tvg-name="Tanzania Safari Channel" group-title="Travel" tvg-language="eng;swa" tvg-quality="576p",Tanzania Safari Channel
+https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
+
+#EXTINF:-1 tvg-id="TravelChannel.pl" tvg-name="Travel Channel" group-title="Travel" tvg-language="eng" tvg-quality="576i",Travel Channel
+http://92.114.85.87:8011/play/a00d/index.m3u8
+

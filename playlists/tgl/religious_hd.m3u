@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTN47.ph" tvg-name="CCTN 47" group-title="Religious" tvg-language="tgl" tvg-quality="1080p",CCTN 47
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+
+#EXTINF:-1 tvg-id="INCRadio.ph" tvg-name="INC Radio" group-title="Religious" tvg-language="eng;tgl" tvg-quality="1080p",INC Radio
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8
+
+#EXTINF:-1 tvg-id="INCTV.ph" tvg-name="INC TV" group-title="Religious" tvg-language="tgl" tvg-quality="1080p",INC TV
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8
+

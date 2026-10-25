@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PlutoTVScience.us" tvg-name="Pluto TV Science" group-title="Documentary;Science" tvg-language="eng" tvg-quality="480i",Pluto TV Science
+https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
+
+#EXTINF:-1 tvg-id="SmithsonianChannelSelects.us" tvg-name="Smithsonian Channel Selects" group-title="Science" tvg-language="eng" tvg-quality="480i",Smithsonian Channel Selects
+https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
+
