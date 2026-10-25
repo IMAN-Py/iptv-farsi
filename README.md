@@ -119,9 +119,20 @@ Category lists contain channels tagged with that category by the source. A sport
 
 | Player | What to do |
 | --- | --- |
+| **[StreamVault](https://github.com/Davidona/StreamVault-IPTV) — suggested for Android TV** | Add an M3U source and paste a playlist URL from this repository. |
 | VLC desktop | Open a network stream, paste the playlist URL, and play. |
 | TiviMate / IPTV Smarters / other IPTV players | Add a playlist, choose M3U URL, paste a link, then refresh channels. |
 | Android TV / Apple TV | Use an app that supports M3U playlist URLs and add the same link. |
+
+### Android TV: StreamVault
+
+We suggest **[StreamVault](https://github.com/Davidona/StreamVault-IPTV)** for Android TV. It is a free player designed for TV remotes and supports M3U playlist URLs.
+
+1. Get the app from its **[official GitHub releases](https://github.com/Davidona/StreamVault-IPTV/releases/latest)** and install it on your Android TV device.
+2. Choose an M3U source and paste an [English playlist](playlists/eng/README.md), a [Farsi playlist](playlists/fas/README.md), or another link from the [directory](DIRECTORY.md).
+3. Let the playlist load, then browse the live channels and categories.
+
+برای اندروید تی‌وی، **[StreamVault](https://github.com/Davidona/StreamVault-IPTV)** را پیشنهاد می‌کنیم. پس از نصب، منبع M3U را انتخاب کنید و لینک پلی‌لیست فارسی یا زبان دلخواه را وارد کنید.
 
 **Use the raw URL**, starting with `https://raw.githubusercontent.com/`, rather than a GitHub file-view page. Player support and menu names vary. When one stream fails, try another stream for the same channel; availability depends on the broadcaster and your region.
 

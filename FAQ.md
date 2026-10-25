@@ -14,6 +14,10 @@ Use `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlist.m3u`.
 
 Open the [directory](DIRECTORY.md), choose a language, then copy its all-channels or category URL. Available languages and categories come from source metadata and are rebuilt automatically.
 
+### Which app do you suggest for Android TV?
+
+Try **[StreamVault](https://github.com/Davidona/StreamVault-IPTV)**, a free player with a TV-remote interface and M3U URL support. Download it from its [official releases](https://github.com/Davidona/StreamVault-IPTV/releases/latest), add an M3U source, and paste a playlist URL from this repository. See [setup instructions](README.md#setup). StreamVault is a separate project; these playlists provide live channel links, not an on-demand movie library.
+
 ### Why is a language or category missing?
 
 There may be no matching stream with usable language/feed metadata. Empty category lists are not advertised. A general channel that sometimes shows sport is not automatically a sports channel: categories come from iptv-org's channel database, not the current programme.
