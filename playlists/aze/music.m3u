@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KNMusicTV.az" tvg-name="KN Music TV" group-title="Music" tvg-language="aze" tvg-quality="576i",KN Music TV
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+

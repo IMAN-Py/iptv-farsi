@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ApnaChannel.pk" tvg-name="Apna Channel" group-title="General" tvg-language="eng;urd" tvg-quality="576p",Apna Channel
+http://115.42.65.142:9981/stream/channelid/1273966657
+
+#EXTINF:-1 tvg-id="aurLifeHD.pk" tvg-name="aurLife HD" group-title="General" tvg-language="eng;urd" tvg-quality="614p",aurLife HD
+http://124.109.47.101/hls/stream1.m3u8
+
+#EXTINF:-1 tvg-id="BSFilm.pk" tvg-name="BS Film" group-title="General" tvg-language="urd" tvg-quality="576p",BS Film
+https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BSFilm.pk" tvg-name="BS Film" group-title="General" tvg-language="urd" tvg-quality="576p",BS Film
+https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BSTV.pk" tvg-name="BSTV" group-title="General" tvg-language="urd" tvg-quality="576p",BSTV
+https://lbgo.bozztv.com/ssh101/ssh101/bstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DDUrdu.in" tvg-name="DD Urdu" group-title="General" tvg-language="eng;hin;urd" tvg-quality="720p",DD Urdu
+https://cdn.pishow.tv/ott/live/8/master.m3u8
+
+#EXTINF:-1 tvg-id="DDUrdu.in" tvg-name="DD Urdu" group-title="General" tvg-language="eng;hin;urd" tvg-quality="504p",DD Urdu
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8
+
+#EXTINF:-1 tvg-id="DDUrdu.in" tvg-name="DD Urdu" group-title="General" tvg-language="eng;hin;urd" tvg-quality="576p",DD Urdu
+https://mumbai-edge.smartplaytv.in/DDUrdu/index.m3u8
+
+#EXTINF:-1 tvg-id="JeremiahTV.pk" tvg-name="Jeremiah TV" group-title="General" tvg-language="urd" tvg-quality="576i",Jeremiah TV
+https://x.streamablecloud.com/stream/hls/jeremiahtv/1_2/index.m3u8
+
+#EXTINF:-1 tvg-id="JeremiahTV.pk" tvg-name="Jeremiah TV" group-title="General" tvg-language="urd" tvg-quality="576i",Jeremiah TV
+https://x.streamablecloud.com/stream/hls/jeremiahtv/index.m3u8
+
+#EXTINF:-1 tvg-id="Kay2HD.pk" tvg-name="Kay2 HD" group-title="General" tvg-language="urd" tvg-quality="1080p",Kay2 HD
+http://103.250.28.74:8000/play/a027/index.m3u8
+

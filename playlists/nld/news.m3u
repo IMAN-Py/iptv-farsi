@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HLNLive.be" tvg-name="HLN Live" group-title="News" tvg-language="nld" tvg-quality="720p",HLN Live
+https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
+
+#EXTINF:-1 tvg-id="NH.nl" tvg-name="NH" group-title="General;News" tvg-language="nld" tvg-quality="1080p",NH
+https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+

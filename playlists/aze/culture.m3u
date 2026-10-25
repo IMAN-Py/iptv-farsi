@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MedeniyyetTV.az" tvg-name="Medeniyyet TV" group-title="Culture" tvg-language="aze" tvg-quality="1080p",Medeniyyet TV
+https://str.yodacdn.net/medeniyyettele/index.m3u8
+

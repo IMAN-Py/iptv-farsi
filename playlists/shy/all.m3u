@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="StoryChannelTV.ma" tvg-name="StoryChannel TV" group-title="Culture" tvg-language="ara;asp;eng;fra;kab;rif;shi;shy;taq;tzm;xms" tvg-quality="720p",StoryChannel TV
+https://136044159.r.cdnsun.net/storychannel.m3u8
+
+#EXTINF:-1 tvg-id="TV4.dz" tvg-name="TV4" group-title="General" tvg-language="cnu;kab;mzb;shy;taq" tvg-quality="720p",TV4
+http://91.228.35.249:8001/1:0:1:06A6:3138:13E:820000:0:0:0
+

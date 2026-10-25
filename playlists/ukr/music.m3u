@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="4everMusic.ua" tvg-name="4ever Music" group-title="Music" tvg-language="ukr" tvg-quality="1080p",4ever Music
+http://stream.mcquack.net/257/index.m3u8
+
+#EXTINF:-1 tvg-id="Black.ua" tvg-name="Black" group-title="Music" tvg-language="ukr" tvg-quality="1080p",Black
+http://stream.mcquack.net/283/index.m3u8
+
+#EXTINF:-1 tvg-id="EUMusic.ua" tvg-name="EU Music" group-title="Music" tvg-language="ukr" tvg-quality="1080p",EU Music
+http://stream.mcquack.net/261/index.m3u8
+
+#EXTINF:-1 tvg-id="InRatingTV.ua" tvg-name="InRating TV" group-title="Music" tvg-language="ukr" tvg-quality="1080p",InRating TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/147/index.m3u8
+
+#EXTINF:-1 tvg-id="M1.ua" tvg-name="M1" group-title="Music" tvg-language="ukr" tvg-quality="720p",M1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://158.101.222.193:88/georgia_play.php?id=m1
+
+#EXTINF:-1 tvg-id="M1.ua" tvg-name="M1" group-title="Music" tvg-language="ukr" tvg-quality="1080p",M1
+http://dtv.vol.net.ua/M1-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="M1.ua" tvg-name="M1" group-title="Music" tvg-language="ukr" tvg-quality="1080p",M1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/218/index.m3u8
+
+#EXTINF:-1 tvg-id="M2.ua" tvg-name="M2" group-title="Music" tvg-language="ukr" tvg-quality="1080p",M2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/330/index.m3u8
+
+#EXTINF:-1 tvg-id="MegogoMusic.ua" tvg-name="Megogo Music" group-title="Music" tvg-language="ukr" tvg-quality="576i",Megogo Music
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
+
+#EXTINF:-1 tvg-id="Muzvar.ua" tvg-name="Muzvar" group-title="Music" tvg-language="ukr" tvg-quality="1080p",Muzvar
+https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Muzyka Pervogo" group-title="Music" tvg-language="rus;ukr" tvg-quality="576p",Muzyka Pervogo
+http://88.212.15.17/live/test_muzyka_pervogo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Muzyka Pervogo" group-title="Music" tvg-language="rus;ukr" tvg-quality="576p",Muzyka Pervogo
+http://stream.mcquack.net/153/index.m3u8
+
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Muzyka Pervogo" group-title="Music" tvg-language="rus;ukr" tvg-quality="576i",Muzyka Pervogo
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NASHEMusic.ua" tvg-name="NASHE Music" group-title="Music" tvg-language="ukr" tvg-quality="720p",NASHE Music
+https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UAMusic.ua" tvg-name="UA Music" group-title="Music" tvg-language="ukr" tvg-quality="1080p",UA Music
+http://stream.mcquack.net/281/index.m3u8
+
+#EXTINF:-1 tvg-id="VivaLatino.ua" tvg-name="¡Viva Latino!" group-title="Music" tvg-language="ukr" tvg-quality="1080p",¡Viva Latino!
+http://stream.mcquack.net/285/index.m3u8
+

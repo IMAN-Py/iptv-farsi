@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BSTV.hk" tvg-name="BSTV" group-title="Shop" tvg-language="yue;zho" tvg-quality="576p",BSTV
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LotusTV.mo" tvg-name="Lotus TV" group-title="General" tvg-language="eng;yue;zho" tvg-quality="576i",Lotus TV
+https://play-sh.quklive.com/live/1780907795235397.m3u8
+

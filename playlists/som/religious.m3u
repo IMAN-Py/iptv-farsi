@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DacwaTV.ke" tvg-name="Dacwa TV" group-title="Religious" tvg-language="som" tvg-quality="576p",Dacwa TV
+https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBNTVInternational.us" tvg-name="SBN TV International" group-title="Religious" tvg-language="eng;som;spa" tvg-quality="720p",SBN TV International
+https://watch.sardius.media/channels/Ea867F3e1F56B06/site_09a4778E89/live.m3u8
+

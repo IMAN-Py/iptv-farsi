@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HopeChannelBulgaria.bg" tvg-name="Hope Channel Bulgaria" group-title="Religious" tvg-language="bul" tvg-quality="576i",Hope Channel Bulgaria
+https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LightChannel.bg" tvg-name="Light Channel" group-title="Religious" tvg-language="bul" tvg-quality="480p",Light Channel
+https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg" tvg-name="Plovdiv Orthodox TV" group-title="Religious" tvg-language="bul" tvg-quality="1080p",Plovdiv Orthodox TV
+http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
+

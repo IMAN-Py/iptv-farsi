@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABHPTV.us" tvg-name="ABHP TV" group-title="Religious" tvg-language="vie" tvg-quality="480p",ABHP TV
+https://vietprocast.app/hls/abhp/index.m3u8
+
+#EXTINF:-1 tvg-id="DienBienTV.vn" tvg-name="Dien Bien TV" group-title="General" tvg-language="vie" tvg-quality="406p",Dien Bien TV
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
+
+#EXTINF:-1 tvg-id="DongNaiTV1.vn" tvg-name="Dong Nai TV 1" group-title="General;News" tvg-language="vie" tvg-quality="480p",Dong Nai TV 1
+http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="HTVSports.vn" tvg-name="HTV Sports" group-title="Sports" tvg-language="vie" tvg-quality="576i",HTV Sports
+https://dethich.pw/htvthethao/index.m3u8
+
+#EXTINF:-1 tvg-id="HungYenTV.vn" tvg-name="Hung Yen TV" group-title="General" tvg-language="vie" tvg-quality="480p",Hung Yen TV
+https://ott3.nethubtv.vn/live/hungyentv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ISTV.la" tvg-name="ISTV" group-title="General" tvg-language="vie" tvg-quality="480p",ISTV
+https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaoSVTV.vn" tvg-name="Lao SV TV" group-title="Shop" tvg-language="vie" tvg-quality="480p",Lao SV TV
+https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ONCine.vn" tvg-name="ON Cine" group-title="Series" tvg-language="vie" tvg-quality="576i",ON Cine
+https://freem3u.xyz/api/live/play.m3u8?vid=176
+
+#EXTINF:-1 tvg-id="QuangNamTV.vn" tvg-name="Quang Nam TV" group-title="Uncategorized" tvg-language="vie" tvg-quality="576i",Quang Nam TV
+https://freem3u.xyz/api/live/play.m3u8?vid=80
+
+#EXTINF:-1 tvg-id="TienGiangTV.vn" tvg-name="Tien Giang TV" group-title="Uncategorized" tvg-language="vie" tvg-quality="540p",Tien Giang TV
+https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="VBSTV.us" tvg-name="VBS TV" group-title="General" tvg-language="vie" tvg-quality="480p",VBS TV
+https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8
+

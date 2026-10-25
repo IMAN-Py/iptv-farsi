@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GugakTV.kr" tvg-name="Gugak TV" group-title="Music" tvg-language="kor" tvg-quality="1080p",Gugak TV
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KpopTVPlay.br" tvg-name="KpopTV Play" group-title="Music" tvg-language="kor;por" tvg-quality="576p",KpopTV Play
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBCAmerica.us" tvg-name="MBC America" group-title="Culture;Entertainment;Music" tvg-language="eng;kor" tvg-quality="1080p",MBC America
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
+

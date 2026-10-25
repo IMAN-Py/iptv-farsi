@@ -1,0 +1,76 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Awkward.se" tvg-name="Awkward" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Awkward
+https://jmp2.uk/plu-61c0925c738ecd000882450a.m3u8
+
+#EXTINF:-1 tvg-id="BeavisandButtHead.se" tvg-name="Beavis and Butt-Head" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Beavis and Butt-Head
+https://jmp2.uk/plu-6486e8984cfc2c0008b6844e.m3u8
+
+#EXTINF:-1 tvg-id="BroadCity.se" tvg-name="Broad City" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Broad City
+https://jmp2.uk/plu-65cba73611ced700082123bc.m3u8
+
+#EXTINF:-1 tvg-id="CarolineintheCity.se" tvg-name="Caroline in the City" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Caroline in the City
+https://jmp2.uk/plu-66a7aa44cd0d31000843942b.m3u8
+
+#EXTINF:-1 tvg-id="ChappellesShow.se" tvg-name="Chappelle's Show" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Chappelle's Show
+https://jmp2.uk/plu-65e976ad0d456100082d9b74.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentral.se" tvg-name="Comedy Central" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Comedy Central
+https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentralRoast.se" tvg-name="Comedy Central Roast" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Comedy Central Roast
+https://jmp2.uk/plu-6641fd41b18d700008e7e2b8.m3u8
+
+#EXTINF:-1 tvg-id="CrazyExGirlfriend.se" tvg-name="Crazy Ex-Girlfriend" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Crazy Ex-Girlfriend
+https://jmp2.uk/plu-693ae5660eedebc8d5db6579.m3u8
+
+#EXTINF:-1 tvg-id="EverybodyHatesChris.se" tvg-name="Everybody Hates Chris" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Everybody Hates Chris
+https://jmp2.uk/plu-63a1cab19ab2df0007bf1c8b.m3u8
+
+#EXTINF:-1 tvg-id="FamilyTies.se" tvg-name="Family Ties" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Family Ties
+https://jmp2.uk/plu-654a4a3ef91d250008ac089b.m3u8
+
+#EXTINF:-1 tvg-id="KeyPeele.se" tvg-name="Key & Peele" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Key & Peele
+https://jmp2.uk/plu-65cba715dc10a40008034917.m3u8
+
+#EXTINF:-1 tvg-id="ManwithaPlan.se" tvg-name="Man with a Plan" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Man with a Plan
+https://jmp2.uk/plu-678f88bb272ded16b1558c5e.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVHumor.se" tvg-name="Pluto TV Humor" group-title="Comedy;Movies" tvg-language="dan" tvg-quality="720p",Pluto TV Humor
+https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8
+
+#EXTINF:-1 tvg-id="Reno911.se" tvg-name="Reno 911" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Reno 911
+https://jmp2.uk/plu-65e9766eec9fda0008cb418a.m3u8
+
+#EXTINF:-1 tvg-id="SabrinatheTeenageWitch.se" tvg-name="Sabrina the Teenage Witch" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Sabrina the Teenage Witch
+https://jmp2.uk/plu-6512ecf63a0d700008db506a.m3u8
+
+#EXTINF:-1 tvg-id="SouthPark.se" tvg-name="South Park" group-title="Animation;Comedy" tvg-language="dan;eng" tvg-quality="720p",South Park
+https://jmp2.uk/plu-61c098df897b9d00070375c8.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkArmageddon.se" tvg-name="South Park Armageddon" group-title="Animation;Comedy" tvg-language="dan;eng" tvg-quality="720p",South Park Armageddon
+https://jmp2.uk/plu-660bff28516d260008479e23.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkRockinOut.se" tvg-name="South Park Rockin' Out" group-title="Animation;Comedy" tvg-language="dan;eng" tvg-quality="720p",South Park Rockin' Out
+https://jmp2.uk/plu-664f132c8ea5560008ce4d86.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkButtersCollection.se" tvg-name="South Park: Butters Collection" group-title="Animation;Comedy" tvg-language="dan;eng" tvg-quality="720p",South Park: Butters Collection
+https://jmp2.uk/plu-65d87a66ec9fda0008a5ac11.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkCartmanCollection.se" tvg-name="South Park: Cartman Collection" group-title="Animation;Comedy" tvg-language="dan;eng" tvg-quality="720p",South Park: Cartman Collection
+https://jmp2.uk/plu-65d87a058145cb0008265c2e.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkIntotheStars.se" tvg-name="South Park: Into the Stars" group-title="Animation;Comedy" tvg-language="dan;eng" tvg-quality="720p",South Park: Into the Stars
+https://jmp2.uk/plu-664f0eaa8ce31100088036bd.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkKennyCollection.se" tvg-name="South Park: Kenny Collection" group-title="Animation;Comedy" tvg-language="dan;eng" tvg-quality="720p",South Park: Kenny Collection
+https://jmp2.uk/plu-65d879bd0d4561000805d190.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkKyleCollection.se" tvg-name="South Park: Kyle Collection" group-title="Animation;Comedy" tvg-language="dan;eng" tvg-quality="720p",South Park: Kyle Collection
+https://jmp2.uk/plu-65d87a908145cb0008265c6d.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkStanCollection.se" tvg-name="South Park: Stan Collection" group-title="Animation;Comedy" tvg-language="dan;eng" tvg-quality="720p",South Park: Stan Collection
+https://jmp2.uk/plu-65d879e266eec8000887e91b.m3u8
+
+#EXTINF:-1 tvg-id="Tosh0.se" tvg-name="Tosh.0" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Tosh.0
+https://jmp2.uk/plu-65e977042873090008b48be9.m3u8
+

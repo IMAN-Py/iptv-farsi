@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barca TV" group-title="Sports" tvg-language="cat;eng;spa" tvg-quality="576i",Barca TV
+https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal10Emporda.es" tvg-name="Canal 10 Emporda" group-title="Uncategorized" tvg-language="cat" tvg-quality="360p",Canal 10 Emporda
+https://ventdelnord.tv:8080/escala/directe.m3u8
+
+#EXTINF:-1 tvg-id="Canal3TVBiar.es" tvg-name="Canal 3 TV Biar" group-title="General" tvg-language="cat" tvg-quality="480p",Canal 3 TV Biar
+https://avantstreaming.es/hls/canal3.m3u8
+
+#EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-name="Canal 7 TeleValencia" group-title="General" tvg-language="cat;spa" tvg-quality="576p",Canal 7 TeleValencia
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CortsValencianes.es" tvg-name="Corts Valencianes" group-title="Legislative" tvg-language="cat;spa" tvg-quality="480p",Corts Valencianes
+https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
+
+#EXTINF:-1 tvg-id="RiberaTV.es" tvg-name="Ribera TV" group-title="General" tvg-language="cat;spa" tvg-quality="576p",Ribera TV
+https://common01.todostreaming.es/live/ribera-livestream.m3u8
+
+#EXTINF:-1 tvg-id="Tac12.es" tvg-name="Tac12" group-title="Uncategorized" tvg-language="cat" tvg-quality="576i",Tac12
+https://ingest1-video.streaming-pro.com/tac12_ABR/stream/tacdotze/srtweb_1080/chunks.m3u8
+

@@ -1,0 +1,436 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" tvg-name="30A Darcizzle Offshore" group-title="Outdoor" tvg-language="eng" tvg-quality="720p",30A Darcizzle Offshore
+https://30a-tv.com/darcizzle.m3u8
+
+#EXTINF:-1 tvg-id="AgriculturaTV.cl" tvg-name="Agricultura TV" group-title="Outdoor" tvg-language="spa" tvg-quality="1080p",Agricultura TV
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AgroTV.bg" tvg-name="Agro TV" group-title="Outdoor" tvg-language="bul" tvg-quality="480p",Agro TV
+https://restr2.bgtv.bg/agro/hls/agro.m3u8
+
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-name="Agro TV" group-title="Outdoor" tvg-language="spa" tvg-quality="720p",Agro TV
+https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-name="Agro TV" group-title="Outdoor" tvg-language="spa" tvg-quality="720p",Agro TV
+https://play.agenciastreaming.com:8081/agrotv/index.m3u8
+
+#EXTINF:-1 tvg-id="AgroTV.ro" tvg-name="Agro TV" group-title="Outdoor" tvg-language="ron" tvg-quality="360p",Agro TV
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+
+#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="AgroBrasil TV" group-title="Outdoor" tvg-language="por" tvg-quality="720p",AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="AgroBrasil TV" group-title="Outdoor" tvg-language="por" tvg-quality="720p",AgroBrasil TV
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="720p",AgroCanal
+http://168.197.104.22/AGRO_CANAL/index.m3u8
+
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="720p",AgroCanal
+http://170.83.49.66:8083/AGROCANALHD/index.m3u8
+
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="720p",AgroCanal
+http://186.219.52.187/agro_canal/index.m3u8
+
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="720p",AgroCanal
+http://45.162.64.114/AGRO_CANAL/index.m3u8
+
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="480i",AgroCanal
+https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
+
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-name="Agrotendencia TV" group-title="Outdoor" tvg-language="spa" tvg-quality="1080p",Agrotendencia TV
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AKCTV.us" tvg-name="AKC TV" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",AKC TV
+https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
+
+#EXTINF:-1 tvg-id="AKCTV.us" tvg-name="AKC TV" group-title="Outdoor" tvg-language="eng" tvg-quality="480i",AKC TV
+https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
+
+#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-name="AKC TV Meet the Breeds" group-title="Outdoor" tvg-language="eng" tvg-quality="480i",AKC TV Meet the Breeds
+https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
+
+#EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-name="AKC TV Puppies" group-title="Outdoor" tvg-language="eng" tvg-quality="480i",AKC TV Puppies
+https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
+
+#EXTINF:-1 tvg-id="ANIMALKINGDOM.de" tvg-name="ANIMAL KINGDOM" group-title="Outdoor" tvg-language="deu;eng" tvg-quality="720p",ANIMAL KINGDOM
+https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
+
+#EXTINF:-1 tvg-id="ARDBTV.kh" tvg-name="ARDB TV" group-title="Outdoor" tvg-language="khm" tvg-quality="1080p",ARDB TV
+https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
+
+#EXTINF:-1 tvg-id="CanaldoCriador.br" tvg-name="Canal do Criador" group-title="Outdoor" tvg-language="por" tvg-quality="1080p",Canal do Criador
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalRural.br" tvg-name="Canal Rural" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Canal Rural
+http://170.83.49.66:8083/CANALRURALHD/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalRural.br" tvg-name="Canal Rural" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Canal Rural
+http://186.219.52.187/canal_rural/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV17.cn" tvg-name="CCTV-17" group-title="Education;Outdoor" tvg-language="zho" tvg-quality="1080p",CCTV-17
+http://74.91.26.218:82/live/cctv17hd.m3u8
+
+#EXTINF:-1 tvg-id="ChacraTV.ar" tvg-name="Chacra TV" group-title="Outdoor" tvg-language="spa" tvg-quality="576i",Chacra TV
+https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CiudadMagica.ar" tvg-name="Ciudad Magica" group-title="Outdoor" tvg-language="spa" tvg-quality="720p",Ciudad Magica
+https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CottageLife.ca" tvg-name="Cottage Life" group-title="Lifestyle;Outdoor" tvg-language="eng" tvg-quality="720p",Cottage Life
+http://185.246.209.113/CottageLife/index.m3u8
+
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" group-title="Education;Outdoor" tvg-language="hin" tvg-quality="576p",DD Kisan
+https://cdn.pishow.tv/ott/live/223/master.m3u8
+
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" group-title="Education;Outdoor" tvg-language="hin" tvg-quality="720p",DD Kisan
+https://cdn.pishow.tv/ott/live/9/master.m3u8
+
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" group-title="Education;Outdoor" tvg-language="hin" tvg-quality="504p",DD Kisan
+https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8
+
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" group-title="Education;Outdoor" tvg-language="hin" tvg-quality="1080p",DD Kisan
+https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8
+
+#EXTINF:-1 tvg-id="Dikayaokhota.ru" tvg-name="Dikaya okhota" group-title="Outdoor" tvg-language="rus" tvg-quality="1080p",Dikaya okhota
+http://stream.mcquack.net/274/index.m3u8
+
+#EXTINF:-1 tvg-id="Dikayarybalka.ru" tvg-name="Dikaya rybalka" group-title="Outdoor" tvg-language="rus" tvg-quality="1080p",Dikaya rybalka
+http://stream.mcquack.net/275/index.m3u8
+
+#EXTINF:-1 tvg-id="Dikij.ru" tvg-name="Dikij" group-title="Outdoor" tvg-language="rus" tvg-quality="576p",Dikij
+http://hls127.freeott.top:8080/Dikiy/video.m3u8
+
+#EXTINF:-1 tvg-id="Dikij.ru" tvg-name="Dikij" group-title="Outdoor" tvg-language="rus" tvg-quality="576p",Dikij
+https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DuckHuntingTV.us" tvg-name="Duck Hunting TV" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",Duck Hunting TV
+https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
+
+#EXTINF:-1 tvg-id="ElMundodelCampo.co" tvg-name="El Mundo del Campo" group-title="Outdoor" tvg-language="spa" tvg-quality="720p",El Mundo del Campo
+https://movil.ejeserver.com/live/elmundodelcampo.m3u8
+
+#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Fish TV
+http://168.197.104.22/FISH_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Fish TV
+http://170.83.16.50/FISH_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" group-title="Outdoor" tvg-language="por" tvg-quality="1080p",Fish TV
+http://190.128.214.97:64333/play/a006/index.m3u8
+
+#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Fish TV
+http://45.162.64.114/FISH_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-name="Horse & Country TV" group-title="Outdoor" tvg-language="eng" tvg-quality="720p",Horse & Country TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-name="Horse & Country TV" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",Horse & Country TV
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+
+#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-name="Horse & Country TV" group-title="Outdoor" tvg-language="eng" tvg-quality="720p",Horse & Country TV
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-name="Horse & Country TV" group-title="Outdoor" tvg-language="eng" tvg-quality="720p",Horse & Country TV
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InTrouble.nl" tvg-name="InTrouble" group-title="Auto;Outdoor;Sports" tvg-language="eng" tvg-quality="1080p",InTrouble
+https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InTrouble.nl" tvg-name="InTrouble" group-title="Auto;Outdoor;Sports" tvg-language="eng" tvg-quality="1080p",InTrouble
+https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InTrouble.nl" tvg-name="InTrouble" group-title="Auto;Outdoor;Sports" tvg-language="eng" tvg-quality="1080p",InTrouble
+https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-name="Italian Fishing TV" group-title="Outdoor" tvg-language="ita" tvg-quality="1080p",Italian Fishing TV
+https://fms.premio.link/fishingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
+https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="720p",Love Nature
+https://bamus-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="720p",Love Nature
+https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
+https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="eng" tvg-quality="2160p",Love Nature
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+
+#EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam" group-title="Outdoor;Sports" tvg-language="eng" tvg-quality="720p",Monster Jam
+https://4b9627c7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vbnN0ZXJKYW1fSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam" group-title="Outdoor;Sports" tvg-language="eng" tvg-quality="720p",Monster Jam
+https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
+
+#EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam" group-title="Outdoor;Sports" tvg-language="eng" tvg-quality="720p",Monster Jam
+https://jmp2.uk/plu-65c33fd4dc10a40008f26af8.m3u8
+
+#EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam" group-title="Outdoor;Sports" tvg-language="eng" tvg-quality="720p",Monster Jam
+https://jmp2.uk/plu-65c340383a116800078c8454.m3u8
+
+#EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam" group-title="Outdoor;Sports" tvg-language="eng" tvg-quality="720p",Monster Jam
+https://jmp2.uk/plu-65c340983ba51e00083988e8.m3u8
+
+#EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam" group-title="Outdoor;Sports" tvg-language="eng" tvg-quality="576i",Monster Jam
+https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8
+
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-name="Moya Planeta" group-title="Outdoor" tvg-language="rus" tvg-quality="720p",Moya Planeta
+http://31.148.48.15/Moya_Planeta_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-name="Moya Planeta" group-title="Outdoor" tvg-language="rus" tvg-quality="1080p",Moya Planeta
+http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-name="Moya Planeta" group-title="Outdoor" tvg-language="rus" tvg-quality="576p",Moya Planeta
+http://stream.mcquack.net/124/index.m3u8
+
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-name="Moya Planeta" group-title="Outdoor" tvg-language="rus" tvg-quality="576p",Moya Planeta
+https://fs.uplink.kz/moya_planeta/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Ohotnikirybolov.ru" tvg-name="Ohotnik i rybolov" group-title="Outdoor" tvg-language="rus" tvg-quality="1080p",Ohotnik i rybolov
+http://stream.mcquack.net/194/index.m3u8
+
+#EXTINF:-1 tvg-id="Ohotnikirybolov.ru" tvg-name="Ohotnik i rybolov" group-title="Outdoor" tvg-language="rus" tvg-quality="576i",Ohotnik i rybolov
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-name="Okhota i rybalka" group-title="Outdoor" tvg-language="eng;rus" tvg-quality="576p",Okhota i rybalka
+http://stream.mcquack.net/155/index.m3u8
+
+#EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-name="Okhota i rybalka" group-title="Outdoor" tvg-language="eng;rus" tvg-quality="576i",Okhota i rybalka
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="OutdoorAmerica.us" tvg-name="Outdoor America" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",Outdoor America
+https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OutdoorAmerica.us" tvg-name="Outdoor America" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",Outdoor America
+https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" group-title="Outdoor" tvg-language="eng" tvg-quality="720p",Outdoor Channel
+http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
+
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",Outdoor Channel
+https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",Outdoor Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d3ehdya3kqqd52.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-OutdoorChannelV2/455.m3u8?ads.vf=z_DyaXIqL6G
+
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" group-title="Outdoor" tvg-language="eng;vie" tvg-quality="1080p",Outdoor Channel
+https://freem3u.xyz/api/live/play.m3u8?vid=216
+
+#EXTINF:-1 tvg-id="OutsideTV.us" tvg-name="Outside TV" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",Outside TV
+https://desdobebr2wri.cloudfront.net/Outside.m3u8
+
+#EXTINF:-1 tvg-id="OutsideTV.us" tvg-name="Outside TV" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",Outside TV
+https://outsidetv-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OutsideTV.us" tvg-name="Outside TV" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",Outside TV
+https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PeerTVAltoAdige.it" tvg-name="Peer TV Alto Adige" group-title="Outdoor;Travel" tvg-language="ita" tvg-quality="1280p",Peer TV Alto Adige
+https://iptv.peer.biz/live/peertv-it.m3u8
+
+#EXTINF:-1 tvg-id="PeerTVSouthTyrol.it" tvg-name="Peer TV South Tyrol" group-title="Outdoor;Travel" tvg-language="eng" tvg-quality="1280p",Peer TV South Tyrol
+https://iptv.peer.biz/live/peertv-en.m3u8
+
+#EXTINF:-1 tvg-id="PeerTVSudtirol.it" tvg-name="Peer TV Sudtirol" group-title="Outdoor;Travel" tvg-language="deu" tvg-quality="1080p",Peer TV Sudtirol
+https://iptv.peer.biz/live/peertv.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAdventure.us" tvg-name="Pluto TV Adventure" group-title="Entertainment;Outdoor;Series" tvg-language="eng" tvg-quality="720p",Pluto TV Adventure
+https://jmp2.uk/plu-653bdb0fbdf3cf00089cc395.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAdventure.us" tvg-name="Pluto TV Adventure" group-title="Entertainment;Outdoor;Series" tvg-language="eng" tvg-quality="720p",Pluto TV Adventure
+https://jmp2.uk/plu-69d7ebb726eeec84158e28cb.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFishing.se" tvg-name="Pluto TV Fishing" group-title="Outdoor;Sports" tvg-language="dan" tvg-quality="720p",Pluto TV Fishing
+https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNaturaleza.us" tvg-name="Pluto TV Naturaleza" group-title="Documentary;Outdoor" tvg-language="spa" tvg-quality="720p",Pluto TV Naturaleza
+https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
+
+#EXTINF:-1 tvg-id="Poehali.ru" tvg-name="Poehali!" group-title="Entertainment;Outdoor" tvg-language="rus" tvg-quality="1080p",Poehali!
+http://31.148.48.15/Poehali/index.m3u8
+
+#EXTINF:-1 tvg-id="Poehali.ru" tvg-name="Poehali!" group-title="Entertainment;Outdoor" tvg-language="rus" tvg-quality="576p",Poehali!
+http://88.212.15.17/live/test_poehali/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ProductivaTV.py" tvg-name="Productiva TV" group-title="Outdoor" tvg-language="spa" tvg-quality="1080p",Productiva TV
+http://190.128.214.97:64333/play/a04i/index.m3u8
+
+#EXTINF:-1 tvg-id="ProductivaTV.py" tvg-name="Productiva TV" group-title="Outdoor" tvg-language="spa" tvg-quality="576i",Productiva TV
+https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
+
+#EXTINF:-1 tvg-id="PursuitUP.us" tvg-name="PursuitUP" group-title="Outdoor" tvg-language="eng" tvg-quality="720p",PursuitUP
+https://a-cdn.klowdtv.com/live2/pursuitup/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PursuitUP.us" tvg-name="PursuitUP" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",PursuitUP
+https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PursuitUP.us" tvg-name="PursuitUP" group-title="Outdoor" tvg-language="eng" tvg-quality="720p",PursuitUP
+https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PursuitUP.us" tvg-name="PursuitUP" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",PursuitUP
+https://linear-205.frequency.stream/dist/stirr/205/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PursuitUP.us" tvg-name="PursuitUP" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",PursuitUP
+https://linear-205.frequency.stream/dist/xumo/205/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PursuitUP.us" tvg-name="PursuitUP" group-title="Outdoor" tvg-language="eng" tvg-quality="720p",PursuitUP
+https://pursuitup-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="eng" tvg-quality="1080p",Red Bull TV
+https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="eng" tvg-quality="1080p",Red Bull TV
+https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="eng" tvg-quality="1080p",Red Bull TV
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="deu" tvg-quality="1080p",Red Bull TV
+https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="deu" tvg-quality="1080p",Red Bull TV
+https://769a97d9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="eng" tvg-quality="1080p",Red Bull TV
+https://76b17ec8b2424026b8e1523836cc90e7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-641-WORBEUENFAST-WHALETVPLUS/641/whaletvplus/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="spa" tvg-quality="1080p",Red Bull TV
+https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="por" tvg-quality="1080p",Red Bull TV
+https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="eng" tvg-quality="1080p",Red Bull TV
+https://d1hlbgn3fph0cz.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="eng" tvg-quality="1080p",Red Bull TV
+https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="eng" tvg-quality="1080p",Red Bull TV
+https://e7c8f7d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVi0xX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="deu" tvg-quality="720p",Red Bull TV
+https://jmp2.uk/plu-5e7cb84a172a0f0007da69e4.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="por" tvg-quality="720p",Red Bull TV
+https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="spa" tvg-quality="720p",Red Bull TV
+https://jmp2.uk/plu-67813f893886aa863497733d.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="deu;eng" tvg-quality="1080p",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="deu;eng" tvg-quality="720p",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" group-title="Outdoor;Sports" tvg-language="deu;eng" tvg-quality="1080p",Red Bull TV
+https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8
+
+#EXTINF:-1 tvg-id="REVNAction.us" tvg-name="REV'N Action" group-title="Auto;Outdoor;Series;Sports" tvg-language="eng" tvg-quality="720p",REV'N Action
+https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
+
+#EXTINF:-1 tvg-id="REVNAction.us" tvg-name="REV'N Action" group-title="Auto;Outdoor;Series;Sports" tvg-language="eng" tvg-quality="720p",REV'N Action
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
+
+#EXTINF:-1 tvg-id="Rybalka.ua" tvg-name="Rybalka" group-title="Outdoor" tvg-language="ukr" tvg-quality="1080p",Rybalka
+https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rybolov.ru" tvg-name="Rybolov" group-title="Outdoor" tvg-language="rus" tvg-quality="576p",Rybolov
+http://stream.mcquack.net/264/index.m3u8
+
+#EXTINF:-1 tvg-id="SpikeOutdoors.us" tvg-name="Spike Outdoors" group-title="Outdoor" tvg-language="eng" tvg-quality="480i",Spike Outdoors
+https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8
+
+#EXTINF:-1 tvg-id="SwamijiTVAmerican.at" tvg-name="Swamiji TV American" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",Swamiji TV American
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SwamijiTVAustralian.at" tvg-name="Swamiji TV Australian" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",Swamiji TV Australian
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SwamijiTVEuropean.at" tvg-name="Swamiji TV European" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",Swamiji TV European
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Terra Viva
+http://168.197.104.22/TERRAVIVA/index.m3u8
+
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Terra Viva
+http://170.83.16.50/TERRA_VIVA/index.m3u8
+
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Terra Viva
+http://170.83.49.66:8083/TERRAVIVAHD/index.m3u8
+
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Terra Viva
+http://45.162.64.114/TERRAVIVA/index.m3u8
+
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Terra Viva
+http://45.177.114.115/TERRAVIVA/index.m3u8
+
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" group-title="Outdoor" tvg-language="por" tvg-quality="720p",Terra Viva
+https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" group-title="Outdoor" tvg-language="bul;ces;hun;ron" tvg-quality="1080i",The Fishing & Hunting Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/fishing_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" group-title="Outdoor" tvg-language="bul;ces;hun;ron" tvg-quality="576i",The Fishing & Hunting Channel
+http://88.212.15.17/live/test_fishing_hunting/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trofei.ua" tvg-name="Trofei" group-title="Outdoor" tvg-language="rus;ukr" tvg-quality="1080p",Trofei
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/357/index.m3u8
+
+#EXTINF:-1 tvg-id="TVAgro.co" tvg-name="TVAgro" group-title="Outdoor" tvg-language="spa" tvg-quality="720p",TVAgro
+http://168.228.44.241:9999/play/a04n/index.m3u8
+
+#EXTINF:-1 tvg-id="TVAgro.co" tvg-name="TVAgro" group-title="Outdoor" tvg-language="spa" tvg-quality="1080p",TVAgro
+http://190.61.47.54:8000/play/a01k/index.m3u8
+
+#EXTINF:-1 tvg-id="UMCTV.co" tvg-name="UMC TV" group-title="Outdoor" tvg-language="spa" tvg-quality="720p",UMC TV
+https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WaterBear.ch" tvg-name="WaterBear" group-title="Documentary;Outdoor" tvg-language="eng" tvg-quality="1080p",WaterBear
+https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WaypointTV.us" tvg-name="Waypoint TV" group-title="Outdoor" tvg-language="eng" tvg-quality="720p",Waypoint TV
+https://aegis-cloudfront-1.tubi.video/5f3c2b46-3b02-48e8-8e7b-3ce1d89395ce/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WaypointTV.us" tvg-name="Waypoint TV" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",Waypoint TV
+https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WaypointTV.us" tvg-name="Waypoint TV" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",Waypoint TV
+https://djb4ma5fajjay.cloudfront.net/Waypoint_TV.m3u8
+
+#EXTINF:-1 tvg-id="WaypointTV.us" tvg-name="Waypoint TV" group-title="Outdoor" tvg-language="eng" tvg-quality="1080p",Waypoint TV
+https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" group-title="Documentary;Education;Outdoor;Relax" tvg-language="eng" tvg-quality="1080p",WildEarth
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" group-title="Documentary;Education;Outdoor;Relax" tvg-language="eng" tvg-quality="1080p",WildEarth
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" group-title="Documentary;Education;Outdoor;Relax" tvg-language="eng" tvg-quality="1080p",WildEarth
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" group-title="Documentary;Education;Outdoor;Relax" tvg-language="eng" tvg-quality="1080p",WildEarth
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" group-title="Documentary;Education;Outdoor;Relax" tvg-language="eng" tvg-quality="1080p",WildEarth
+https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" group-title="Documentary;Education;Outdoor;Relax" tvg-language="eng" tvg-quality="1080p",WildEarth
+https://wildearth-xumo.amagi.tv/master.m3u8
+

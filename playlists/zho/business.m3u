@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV2.cn" tvg-name="CCTV-2" group-title="Business" tvg-language="zho" tvg-quality="720p",CCTV-2
+http://74.91.26.218:82/live/cctv2hd.m3u8
+
+#EXTINF:-1 tvg-id="CGTNGlobalBiz.cn" tvg-name="CGTN Global Biz" group-title="Business" tvg-language="eng;zho" tvg-quality="1080p",CGTN Global Biz
+https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTNGlobalBiz.cn" tvg-name="CGTN Global Biz" group-title="Business" tvg-language="eng;zho" tvg-quality="1080p",CGTN Global Biz
+https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
+
+#EXTINF:-1 tvg-id="HongKongInternationalBusinessChannel.hk" tvg-name="Hong Kong International Business Channel" group-title="Business" tvg-language="eng;zho" tvg-quality="1080p",Hong Kong International Business Channel
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+
+#EXTINF:-1 tvg-id="HongKongInternationalBusinessChannel.hk" tvg-name="Hong Kong International Business Channel" group-title="Business" tvg-language="eng;zho" tvg-quality="576i",Hong Kong International Business Channel
+https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8
+
+#EXTINF:-1 tvg-id="JiangxiEconomyLifeChannel.cn" tvg-name="Jiangxi Economy & Life Channel" group-title="Business" tvg-language="zho" tvg-quality="576i",Jiangxi Economy & Life Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8
+
+#EXTINF:-1 tvg-id="XianBusinessInformationChannel.cn" tvg-name="Xi'an Business Information Channel" group-title="Business" tvg-language="zho" tvg-quality="180p",Xi'an Business Information Channel
+http://stream2.xiancity.cn/xatv3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XuzhouEconomicLifeChannel.cn" tvg-name="Xuzhou Economic Life Channel" group-title="Business" tvg-language="zho" tvg-quality="1080p",Xuzhou Economic Life Channel
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+

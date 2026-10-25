@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ChifengComprehensiveNewsChanel.cn" tvg-name="Chifeng Comprehensive News Chanel" group-title="News" tvg-language="aho;mon" tvg-quality="576i",Chifeng Comprehensive News Chanel
+http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
+
+#EXTINF:-1 tvg-id="LuxeTVMongolia.mn" tvg-name="Luxe TV Mongolia" group-title="General" tvg-language="mon" tvg-quality="576i",Luxe TV Mongolia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.2 Safari/605.1.15
+https://xykt-fix.github.io/channel/ottliv-038/index.m3u8
+
+#EXTINF:-1 tvg-id="MNPlus.mn" tvg-name="MN+" group-title="Movies" tvg-language="mon" tvg-quality="576i",MN+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8
+
+#EXTINF:-1 tvg-id="MNB.mn" tvg-name="MNB" group-title="General" tvg-language="mon" tvg-quality="576p",MNB
+https://live.mnb.mn/hls/mnb.stream.m3u8
+
+#EXTINF:-1 tvg-id="MNBMongoliinMedee.mn" tvg-name="MNB Mongoliin Medee" group-title="Uncategorized" tvg-language="mon" tvg-quality="576p",MNB Mongoliin Medee
+https://live.mnb.mn/hls/mn2.stream.m3u8
+
+#EXTINF:-1 tvg-id="NeiMonggolTV.cn" tvg-name="Nei Monggol TV" group-title="Uncategorized" tvg-language="mon;zho" tvg-quality="576i",Nei Monggol TV
+http://1.24.190.98:10080/hls/39/index.m3u8
+
+#EXTINF:-1 tvg-id="NeiMonggolTV.cn" tvg-name="Nei Monggol TV" group-title="Uncategorized" tvg-language="mon;zho" tvg-quality="576i",Nei Monggol TV
+http://110.19.156.172:9901/tsfile/live/1003_1.m3u8
+
+#EXTINF:-1 tvg-id="NeiMonggolTV.cn" tvg-name="Nei Monggol TV" group-title="Uncategorized" tvg-language="mon;zho" tvg-quality="576p",Nei Monggol TV
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8
+
+#EXTINF:-1 tvg-id="NeiMonggolTV2MongolianCultureChannel.cn" tvg-name="Nei Monggol TV 2 Mongolian Culture Channel" group-title="Culture" tvg-language="mon;zho" tvg-quality="576i",Nei Monggol TV 2 Mongolian Culture Channel
+http://1.24.190.98:10080/hls/40/index.m3u8
+
+#EXTINF:-1 tvg-id="NTV.mn" tvg-name="NTV" group-title="General" tvg-language="mon" tvg-quality="576i",NTV
+https://xykt-fix.github.io/channel/ottliv-036/index.m3u8
+

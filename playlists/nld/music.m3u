@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BEATTV.nl" tvg-name="BEATTV" group-title="Entertainment;Music" tvg-language="nld" tvg-quality="1080p",BEATTV
+https://tv.beatfm.nl/live.m3u8
+
+#EXTINF:-1 tvg-id="CoolFM989.aw" tvg-name="Cool FM 98.9" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="720p",Cool FM 98.9
+https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="DanceTelevision.nl" tvg-name="Dance Television" group-title="Music" tvg-language="nld" tvg-quality="1080p",Dance Television
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+
+#EXTINF:-1 tvg-id="DeepHouseDistrict.nl" tvg-name="Deep House District" group-title="Music" tvg-language="nld" tvg-quality="1080p",Deep House District
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+
+#EXTINF:-1 tvg-id="FomixTV.nl" tvg-name="FomixTV" group-title="General;Music;Public" tvg-language="nld" tvg-quality="1080p",FomixTV
+#EXTVLCOPT:http-referrer=https://www.fomix.nl
+https://stream.fomixmedia.nl/FomixTV/video.m3u8
+
+#EXTINF:-1 tvg-id="GigantFM.nl" tvg-name="Gigant FM" group-title="Music" tvg-language="nld" tvg-quality="720p",Gigant FM
+https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
+
+#EXTINF:-1 tvg-id="HeartRadioAruba.aw" tvg-name="Heart Radio Aruba" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="480i",Heart Radio Aruba
+https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
+
+#EXTINF:-1 tvg-id="HypeVisualRadio.nl" tvg-name="Hype Visual Radio" group-title="Music" tvg-language="eng;nld" tvg-quality="1080p",Hype Visual Radio
+https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JoeFM.be" tvg-name="Joe FM" group-title="Music" tvg-language="nld" tvg-quality="720p",Joe FM
+https://dpp-streamlive-plain.medialaancdn.be/joe_kijklive/plain/hls_hd.m3u8
+
+#EXTINF:-1 tvg-id="Klara.be" tvg-name="Klara" group-title="Music" tvg-language="nld" tvg-quality="720p",Klara
+https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="Klara.be" tvg-name="Klara" group-title="Music" tvg-language="nld" tvg-quality="720p",Klara
+https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a73ffcd3b/live.isml/.mpd
+
+#EXTINF:-1 tvg-id="Klara.be" tvg-name="Klara" group-title="Music" tvg-language="nld" tvg-quality="720p",Klara
+https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="Klara.be" tvg-name="Klara" group-title="Music" tvg-language="nld" tvg-quality="720p",Klara
+https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.mpd
+
+#EXTINF:-1 tvg-id="Live99FM.bq" tvg-name="Live99FM" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="1080p",Live99FM
+https://media.streambrothers.com:1936/8014/8014/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MNM.be" tvg-name="MNM" group-title="Music" tvg-language="nld" tvg-quality="720p",MNM
+https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="MNM.be" tvg-name="MNM" group-title="Music" tvg-language="nld" tvg-quality="720p",MNM
+https://live-radio-cf-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.mpd
+
+#EXTINF:-1 tvg-id="MNM.be" tvg-name="MNM" group-title="Music" tvg-language="nld" tvg-quality="720p",MNM
+https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="MNM.be" tvg-name="MNM" group-title="Music" tvg-language="nld" tvg-quality="720p",MNM
+https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.mpd
+
+#EXTINF:-1 tvg-id="Power1017FM.aw" tvg-name="Power 101.7 FM" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="720p",Power 101.7 FM
+https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QMusic.be" tvg-name="Q-Music" group-title="Music" tvg-language="nld" tvg-quality="1080p",Q-Music
+https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8
+
+#EXTINF:-1 tvg-id="Qmusic.nl" tvg-name="Qmusic" group-title="Music" tvg-language="nld" tvg-quality="720p",Qmusic
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+
+#EXTINF:-1 tvg-id="Qmusic.nl" tvg-name="Qmusic" group-title="Music" tvg-language="nld" tvg-quality="720p",Qmusic
+https://stream.qmusic.nl/qmusic/videohls.m3u8
+
+#EXTINF:-1 tvg-id="RadioJND.nl" tvg-name="Radio JND" group-title="Music" tvg-language="nld" tvg-quality="1080p",Radio JND
+https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioStaddenHaag.nl" tvg-name="Radio Stad den Haag" group-title="Music" tvg-language="eng;nld" tvg-quality="720p",Radio Stad den Haag
+https://rsdh.cloud-streams.com/rsdh/rsdh/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioNLTV.nl" tvg-name="RadioNL TV" group-title="Music" tvg-language="nld" tvg-quality="1080p",RadioNL TV
+https://stream.radionl.tv/radionltv/radionltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rararadio.nl" tvg-name="Rararadio" group-title="Music" tvg-language="eng;nld" tvg-quality="720p",Rararadio
+https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SaltoBrasaMusic.nl" tvg-name="Salto Brasa Music" group-title="Music" tvg-language="nld" tvg-quality="1080p",Salto Brasa Music
+https://salto-streams.nl/hls/sotv1.m3u8
+
+#EXTINF:-1 tvg-id="StuBru.be" tvg-name="StuBru" group-title="Music" tvg-language="nld" tvg-quality="720p",StuBru
+https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="StuBru.be" tvg-name="StuBru" group-title="Music" tvg-language="nld" tvg-quality="720p",StuBru
+https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.mpd
+
+#EXTINF:-1 tvg-id="StuBru.be" tvg-name="StuBru" group-title="Music" tvg-language="nld" tvg-quality="1080p",StuBru
+https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="StuBru.be" tvg-name="StuBru" group-title="Music" tvg-language="nld" tvg-quality="1080p",StuBru
+https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.mpd
+
+#EXTINF:-1 tvg-id="TMF.nl" tvg-name="TMF" group-title="Classic;Music" tvg-language="nld" tvg-quality="1080p",TMF
+https://tmf-nl-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-yourchannels-10-restreaming/bitok/eyJzdGlkIjoiMzUzNGNiZTAtNWY4MS00ZmU4LWE1NGYtYjgyMjJmMTM3ZmZjIiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%3D%3D/mpgmedia/TMF/TMF_NL/TMF_NL.m3u8
+
+#EXTINF:-1 tvg-id="VAMTV.cw" tvg-name="VAM TV" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="720p",VAM TV
+https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8
+
+#EXTINF:-1 tvg-id="VIPTV.aw" tvg-name="VIP TV" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="720p",VIP TV
+https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8
+
+#EXTINF:-1 tvg-id="VIPTV.aw" tvg-name="VIP TV" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="480i",VIP TV
+https://vs20.live.opencaster.com/viptvaruba_01e417ae/index.m3u8
+
+#EXTINF:-1 tvg-id="WavezFM.aw" tvg-name="Wavez FM" group-title="Music" tvg-language="nld;pap" tvg-quality="576i",Wavez FM
+https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE" group-title="Music" tvg-language="nld" tvg-quality="720p",XITE
+https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE" group-title="Music" tvg-language="nld" tvg-quality="720p",XITE
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE" group-title="Music" tvg-language="nld" tvg-quality="720p",XITE
+https://xite-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XITEHits.nl" tvg-name="XITE Hits" group-title="Music" tvg-language="eng;nld" tvg-quality="1080p",XITE Hits
+https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
+
+#EXTINF:-1 tvg-id="ZFMZoetermeerTV.nl" tvg-name="ZFM Zoetermeer TV" group-title="Music" tvg-language="nld" tvg-quality="720p",ZFM Zoetermeer TV
+https://zfmzoetermeer.nl/live/master.m3u8
+

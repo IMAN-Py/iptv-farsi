@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="iCarly.se" tvg-name="iCarly" group-title="Kids" tvg-language="eng;swe" tvg-quality="720p",iCarly
+https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVJuniorklubben.se" tvg-name="Pluto TV Juniorklubben" group-title="Kids" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Juniorklubben
+https://jmp2.uk/plu-61c0b7eb8929e40007ff5125.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTecknadeklassiker.se" tvg-name="Pluto TV Tecknade klassiker" group-title="Kids" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Tecknade klassiker
+https://jmp2.uk/plu-67f5095a3481170e6843d95d.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTecknat.se" tvg-name="Pluto TV Tecknat" group-title="Kids" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Tecknat
+https://jmp2.uk/plu-61c0b6f028e94c000782684a.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVUngdomsserier.se" tvg-name="Pluto TV Ungdomsserier" group-title="Kids" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Ungdomsserier
+https://jmp2.uk/plu-67f3fc1707d2ba4121bd34a8.m3u8
+
+#EXTINF:-1 tvg-id="SvampBobFyrkant.se" tvg-name="SvampBob Fyrkant" group-title="Kids" tvg-language="eng;swe" tvg-quality="720p",SvampBob Fyrkant
+https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8
+
+#EXTINF:-1 tvg-id="TotallyTurtles.se" tvg-name="Totally Turtles" group-title="Kids" tvg-language="eng;swe" tvg-quality="720p",Totally Turtles
+https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8
+

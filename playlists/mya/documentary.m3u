@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MRTVFarmer.mm" tvg-name="MRTV Farmer" group-title="Documentary;Lifestyle" tvg-language="mya" tvg-quality="480i",MRTV Farmer
+https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
+
+#EXTINF:-1 tvg-id="MWDDocumentary.mm" tvg-name="MWD Documentary" group-title="Documentary" tvg-language="mya" tvg-quality="480i",MWD Documentary
+http://203.81.84.130/hls/mwd_document/index.m3u8
+

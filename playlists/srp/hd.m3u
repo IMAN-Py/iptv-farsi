@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+
+#EXTINF:-1 tvg-id="NarodnaTV.rs" tvg-name="Narodna TV" group-title="Uncategorized" tvg-language="srp" tvg-quality="720p",Narodna TV
+https://edge8.pink.rs/narodnatv/index.m3u8
+
+#EXTINF:-1 tvg-id="Nova.rs" tvg-name="Nova" group-title="General" tvg-language="srp" tvg-quality="1080p",Nova
+https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas
+
+#EXTINF:-1 tvg-id="Pink.rs" tvg-name="Pink" group-title="Uncategorized" tvg-language="srp" tvg-quality="720p",Pink
+https://edge8.pink.rs/pinktv/index.m3u8
+
+#EXTINF:-1 tvg-id="Prva.rs" tvg-name="Prva" group-title="Uncategorized" tvg-language="srp" tvg-quality="1080p",Prva
+https://de1.dstv.cx/PrvaTVHD/index.m3u8
+
+#EXTINF:-1 tvg-id="PrvaKick.rs" tvg-name="Prva Kick" group-title="Uncategorized" tvg-language="srp" tvg-quality="1080p",Prva Kick
+https://de1.dstv.cx/PrvaKick/index.m3u8
+
+#EXTINF:-1 tvg-id="PrvaLife.rs" tvg-name="Prva Life" group-title="Uncategorized" tvg-language="srp" tvg-quality="1080p",Prva Life
+https://de1.dstv.cx/PrvaLife/index.m3u8
+
+#EXTINF:-1 tvg-id="PrvaMax.rs" tvg-name="Prva Max" group-title="Uncategorized" tvg-language="srp" tvg-quality="1080p",Prva Max
+https://de1.dstv.cx/PrvaMax/index.m3u8
+
+#EXTINF:-1 tvg-id="PrvaPlus.rs" tvg-name="Prva Plus" group-title="Uncategorized" tvg-language="srp" tvg-quality="1080p",Prva Plus
+https://de1.dstv.cx/PrvaPlus/index.m3u8
+
+#EXTINF:-1 tvg-id="PrvaWorld.rs" tvg-name="Prva World" group-title="Uncategorized" tvg-language="srp" tvg-quality="1080p",Prva World
+https://de1.dstv.cx/PrvaWorld/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioHitFMTV.rs" tvg-name="Radio Hit FM TV" group-title="Music" tvg-language="srp" tvg-quality="720p",Radio Hit FM TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
+
+#EXTINF:-1 tvg-id="RadioKarolinaTV.rs" tvg-name="Radio Karolina TV" group-title="Music" tvg-language="srp" tvg-quality="720p",Radio Karolina TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
+
+#EXTINF:-1 tvg-id="RadioLolaTV.rs" tvg-name="Radio Lola TV" group-title="Music" tvg-language="srp" tvg-quality="720p",Radio Lola TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
+
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1" group-title="Uncategorized" tvg-language="srp" tvg-quality="720p",RTS 1
+https://webtvstream.bhtelecom.ba/rts1.m3u8
+
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" group-title="Uncategorized" tvg-language="srp" tvg-quality="1080p",RTS 2
+https://de1.dstv.cx/RTS2HD/index.m3u8
+
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" group-title="Uncategorized" tvg-language="srp" tvg-quality="720p",RTS 2
+https://webtvstream.bhtelecom.ba/rts2.m3u8
+
+#EXTINF:-1 tvg-id="RTS3.rs" tvg-name="RTS 3" group-title="Uncategorized" tvg-language="srp" tvg-quality="720p",RTS 3
+http://185.81.240.65:15000/udp/233.233.233.36:12000
+
+#EXTINF:-1 tvg-id="RTSSvet.rs" tvg-name="RTS Svet" group-title="Uncategorized" tvg-language="srp" tvg-quality="1080p",RTS Svet
+https://de1.dstv.cx/RTSSvet/index.m3u8
+
+#EXTINF:-1 tvg-id="SOSKanalPlus.rs" tvg-name="SOS Kanal Plus" group-title="Sports" tvg-language="srp" tvg-quality="720p",SOS Kanal Plus
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopTV.rs" tvg-name="Top TV" group-title="Music" tvg-language="srp" tvg-quality="1080p",Top TV
+http://82.165.71.58:8081/TopTV/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMarsh.rs" tvg-name="TV Marsh" group-title="Uncategorized" tvg-language="srp" tvg-quality="720p",TV Marsh
+http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVNiksic.me" tvg-name="TV Niksic" group-title="Uncategorized" tvg-language="srp" tvg-quality="720p",TV Niksic
+https://tv.rtv-niksic.me/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TVCG1.me" tvg-name="TVCG 1" group-title="Uncategorized" tvg-language="srp" tvg-quality="1080p",TVCG 1
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCG2.me" tvg-name="TVCG 2" group-title="Uncategorized" tvg-language="srp" tvg-quality="1080p",TVCG 2
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCG3.me" tvg-name="TVCG 3" group-title="Legislative" tvg-language="srp" tvg-quality="1080p",TVCG 3
+https://rtcg-live-open-geo.morescreens.com/RTCG_1_003/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCGMNE.me" tvg-name="TVCG MNE" group-title="Uncategorized" tvg-language="srp" tvg-quality="1080p",TVCG MNE
+https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
+

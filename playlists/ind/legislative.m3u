@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MBGTV.id" tvg-name="MBG TV" group-title="Legislative" tvg-language="ind" tvg-quality="1080p",MBG TV
+https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRParlemen.id" tvg-name="TVR Parlemen" group-title="Legislative" tvg-language="ind" tvg-quality="720p",TVR Parlemen
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRParlemen.id" tvg-name="TVR Parlemen" group-title="Legislative" tvg-language="ind" tvg-quality="720p",TVR Parlemen
+https://ssv1.dpr.go.id/golive/livestream/playlist.m3u8
+

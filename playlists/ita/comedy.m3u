@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ComedyCentral.it" tvg-name="Comedy Central" group-title="Comedy" tvg-language="ita" tvg-quality="720p",Comedy Central
+http://team-tv.co:81/comedy/index.m3u8
+
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" group-title="Comedy" tvg-language="ita" tvg-quality="576i",FailArmy
+https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVScherzierisate.de" tvg-name="Pluto TV Scherzi e risate" group-title="Comedy" tvg-language="ita" tvg-quality="720p",Pluto TV Scherzi e risate
+https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8
+
+#EXTINF:-1 tvg-id="SouthPark.de" tvg-name="South Park" group-title="Animation;Comedy" tvg-language="ita" tvg-quality="720p",South Park
+https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8
+

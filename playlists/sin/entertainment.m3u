@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AsiaTV.lk" tvg-name="Asia TV" group-title="Entertainment;Family;General" tvg-language="eng;sin;tam" tvg-quality="720p",Asia TV
+https://stream.asiatvnet.com/1/live/master.m3u8
+
+#EXTINF:-1 tvg-id="CharanaTV.lk" tvg-name="Charana TV" group-title="Education;Entertainment" tvg-language="sin" tvg-quality="360p",Charana TV
+https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="HiruTV.lk" tvg-name="Hiru TV" group-title="Entertainment" tvg-language="sin" tvg-quality="360p",Hiru TV
+https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
+

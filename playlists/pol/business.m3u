@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TelewizjaBiznesowa.pl" tvg-name="Telewizja Biznesowa" group-title="Business" tvg-language="pol" tvg-quality="1080p",Telewizja Biznesowa
+https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+

@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="IlkeTV.tr" tvg-name="Ilke TV" group-title="Uncategorized" tvg-language="kur;tur;zza" tvg-quality="1080p",Ilke TV
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
+
+#EXTINF:-1 tvg-id="SercemTV.tr" tvg-name="Sercem TV" group-title="Culture;General;Religious" tvg-language="kur;tur;zza" tvg-quality="1080p",Sercem TV
+https://canli.sercemtv.com.tr/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TRT Kurdi" group-title="Uncategorized" tvg-language="kur;zza" tvg-quality="720p",TRT Kurdi
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="ZarokTV.tr" tvg-name="Zarok TV" group-title="Uncategorized" tvg-language="kur;zza" tvg-quality="720p",Zarok TV
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+

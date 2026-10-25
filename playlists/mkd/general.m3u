@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Alsat.mk" tvg-name="Alsat" group-title="General" tvg-language="mkd;sqi" tvg-quality="576i",Alsat
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
+
+#EXTINF:-1 tvg-id="CoolTV.mk" tvg-name="Cool TV" group-title="General" tvg-language="mkd" tvg-quality="1080p",Cool TV
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
+
+#EXTINF:-1 tvg-id="Kanal5.mk" tvg-name="Kanal 5" group-title="General" tvg-language="mkd" tvg-quality="360p",Kanal 5
+https://s2.teve.mk/tvstanici/2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MNetHD.mk" tvg-name="M-Net HD" group-title="General" tvg-language="mkd" tvg-quality="720p",M-Net HD
+http://ares.mnet.mk/hls/mnet.m3u8
+
+#EXTINF:-1 tvg-id="MNetHD.mk" tvg-name="M-Net HD" group-title="General" tvg-language="mkd" tvg-quality="576i",M-Net HD
+https://live.mnet.mk/hls/mnet.m3u8
+
+#EXTINF:-1 tvg-id="MTM.mk" tvg-name="MTM" group-title="General" tvg-language="mkd" tvg-quality="576i",MTM
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
+
+#EXTINF:-1 tvg-id="NasaTV.mk" tvg-name="Nasa TV" group-title="General" tvg-language="mkd" tvg-quality="1080p",Nasa TV
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+
+#EXTINF:-1 tvg-id="SutelTV.mk" tvg-name="Sutel TV" group-title="General" tvg-language="mkd" tvg-quality="576i",Sutel TV
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
+
+#EXTINF:-1 tvg-id="TVNOVA12.mk" tvg-name="TV NOVA 12" group-title="General" tvg-language="mkd" tvg-quality="576p",TV NOVA 12
+http://151.236.247.171:8080/nova/index.m3u8
+
+#EXTINF:-1 tvg-id="TVZdravkin.mk" tvg-name="TV Zdravkin" group-title="General" tvg-language="mkd" tvg-quality="400p",TV Zdravkin
+http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV21.mk" tvg-name="TV21" group-title="General" tvg-language="mkd;sqi" tvg-quality="576i",TV21
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
+

@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBCTravel.us" tvg-name="BBC Travel" group-title="Lifestyle" tvg-language="deu" tvg-quality="576i",BBC Travel
+https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.de" tvg-name="DMAX" group-title="Lifestyle" tvg-language="deu" tvg-quality="576p",DMAX
+http://5.180.164.197:8080/DMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC" group-title="Lifestyle" tvg-language="deu" tvg-quality="576p",TLC
+https://s6.hopslan.com/tlcX/index.m3u8
+

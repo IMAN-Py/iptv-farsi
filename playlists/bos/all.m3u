@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BHRT.ba" tvg-name="BHRT" group-title="Uncategorized" tvg-language="bos" tvg-quality="720p",BHRT
+https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
+
+#EXTINF:-1 tvg-id="BHRT.ba" tvg-name="BHRT" group-title="Uncategorized" tvg-language="bos" tvg-quality="270p",BHRT
+https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8
+
+#EXTINF:-1 tvg-id="BHT1.ba" tvg-name="BHT 1" group-title="General" tvg-language="bos" tvg-quality="720p",BHT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.1
+https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
+
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+
+#EXTINF:-1 tvg-id="Federalnatelevizija.ba" tvg-name="Federalna televizija" group-title="General" tvg-language="bos" tvg-quality="720p",Federalna televizija
+http://185.81.240.65:15000/udp/233.233.233.39:12000
+
+#EXTINF:-1 tvg-id="Kanal6.ba" tvg-name="Kanal 6" group-title="General" tvg-language="bos" tvg-quality="288p",Kanal 6
+https://restreamer1.tnt.ba/hls/kanal6.m3u8
+
+#EXTINF:-1 tvg-id="MISTelevizija.au" tvg-name="MIS Televizija" group-title="Culture" tvg-language="bos;eng" tvg-quality="720p",MIS Televizija
+https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NewsmaxBalkans.ba" tvg-name="Newsmax Balkans" group-title="News" tvg-language="bos" tvg-quality="1080p",Newsmax Balkans
+https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
+
+#EXTINF:-1 tvg-id="RTVGlasDrine.ba" tvg-name="RTV Glas Drine" group-title="General;Music" tvg-language="bos" tvg-quality="404p",RTV Glas Drine
+http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTVZenica.ba" tvg-name="RTV Zenica" group-title="Uncategorized" tvg-language="bos" tvg-quality="720p",RTV Zenica
+https://stream.rtvze.ba/live/123/123.m3u8
+
+#EXTINF:-1 tvg-id="SuperTV.ba" tvg-name="Super TV" group-title="General" tvg-language="bos" tvg-quality="720p",Super TV
+https://mirtv.club/live/mirtv/index.m3u8
+
+#EXTINF:-1 tvg-id="Televizija5.ba" tvg-name="Televizija 5" group-title="Uncategorized" tvg-language="bos" tvg-quality="576p",Televizija 5
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+
+#EXTINF:-1 tvg-id="TelevizijaM.ba" tvg-name="Televizija M" group-title="General" tvg-language="bos" tvg-quality="1080p",Televizija M
+https://live.tv-m.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TNTKidsTV.ba" tvg-name="TNT Kids TV" group-title="Kids" tvg-language="bos" tvg-quality="288p",TNT Kids TV
+https://restreamer1.tnt.ba/hls/tntkids.m3u8
+
+#EXTINF:-1 tvg-id="TVSlonExtra.ba" tvg-name="TV Slon Extra" group-title="Uncategorized" tvg-language="bos" tvg-quality="1080p",TV Slon Extra
+http://31.47.0.130:8082
+

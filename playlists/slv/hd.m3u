@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" group-title="Legislative" tvg-language="bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mlt;nld;pol;por;ron;slk;slv;spa;swe;ukr" tvg-quality="1080p",EbS
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8
+
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+
+#EXTINF:-1 tvg-id="ExodusTV.si" tvg-name="Exodus TV" group-title="Religious" tvg-language="slv" tvg-quality="720p",Exodus TV
+https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ExodusTV.si" tvg-name="Exodus TV" group-title="Religious" tvg-language="slv" tvg-quality="720p",Exodus TV
+https://584943999.r.worldssl.net/584943999/vzivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="History.si" tvg-name="History" group-title="Documentary" tvg-language="slv" tvg-quality="1080i",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/HistoryChannel/index.m3u8
+
+#EXTINF:-1 tvg-id="History.si" tvg-name="History" group-title="Documentary" tvg-language="slv" tvg-quality="1080p",History
+https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+
+#EXTINF:-1 tvg-id="TelevizijaUrslja.si" tvg-name="Televizija Urslja" group-title="General" tvg-language="slv" tvg-quality="1080p",Televizija Urslja
+http://ott.sgn.net/hls/tvurslja.m3u8
+
+#EXTINF:-1 tvg-id="TrzicTV.si" tvg-name="Trzic TV" group-title="Uncategorized" tvg-language="slv" tvg-quality="1080p",Trzic TV
+https://vpn.video2go.live:444/trzic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSLO1.si" tvg-name="TV SLO 1" group-title="Uncategorized" tvg-language="slv" tvg-quality="1080p",TV SLO 1
+http://23.88.66.93/SLO1/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSLO1.si" tvg-name="TV SLO 1" group-title="Uncategorized" tvg-language="slv" tvg-quality="1080i",TV SLO 1
+https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSLO2.si" tvg-name="TV SLO 2" group-title="Uncategorized" tvg-language="slv" tvg-quality="1080p",TV SLO 2
+http://23.88.66.93/SLO2/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSLO2.si" tvg-name="TV SLO 2" group-title="Uncategorized" tvg-language="slv" tvg-quality="1080i",TV SLO 2
+https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ViasatExplore.si" tvg-name="Viasat Explore" group-title="Documentary" tvg-language="slv" tvg-quality="1080i",Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/ViasatExplore/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatHistory.si" tvg-name="Viasat History" group-title="Documentary" tvg-language="slv" tvg-quality="1080i",Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/ViasatHistory/index.m3u8
+

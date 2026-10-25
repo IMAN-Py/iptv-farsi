@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SX3.es" tvg-name="SX3" group-title="Animation;Kids;Public" tvg-language="cat" tvg-quality="1080p",SX3
+https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="SX3.es" tvg-name="SX3" group-title="Animation;Kids;Public" tvg-language="cat" tvg-quality="1080p",SX3
+https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8
+

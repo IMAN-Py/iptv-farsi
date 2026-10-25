@@ -1,0 +1,228 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AadinathTV.in" tvg-name="Aadinath TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aadinath TV
+https://cdn.pishow.tv/ott/live/252/master.m3u8
+
+#EXTINF:-1 tvg-id="AadinathTV.in" tvg-name="Aadinath TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aadinath TV
+https://d2gvyg6lvauoko.cloudfront.net/230226/aadinathtv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="AadinathTV.in" tvg-name="Aadinath TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aadinath TV
+https://mumt01.tangotv.in/O5aw8Zn3AADINATHTV/index.m3u8
+
+#EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aastha
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/338/master.m3u8
+
+#EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" group-title="Religious" tvg-language="hin" tvg-quality="720p",Aastha
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" group-title="Religious" tvg-language="hin" tvg-quality="576i",Aastha
+https://cdn.pishow.tv/ott/live/1454/master.m3u8
+
+#EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" group-title="Religious" tvg-language="hin" tvg-quality="720p",Aastha
+https://mumbai-edge.smartplaytv.in/Aastha/index.m3u8
+
+#EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aastha
+https://mumt05.tangotv.in/87NeALx2AASTHA/index.m3u8
+
+#EXTINF:-1 tvg-id="AasthaBhajan.in" tvg-name="Aastha Bhajan" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aastha Bhajan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/339/master.m3u8
+
+#EXTINF:-1 tvg-id="AasthaBhajan.in" tvg-name="Aastha Bhajan" group-title="Religious" tvg-language="hin" tvg-quality="480p",Aastha Bhajan
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AasthaBhajan.in" tvg-name="Aastha Bhajan" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aastha Bhajan
+https://mumt05.tangotv.in/87NeALx2AASTHABHAJAN/index.m3u8
+
+#EXTINF:-1 tvg-id="AasthaPrime1.in" tvg-name="Aastha Prime 1" group-title="Religious" tvg-language="hin" tvg-quality="720p",Aastha Prime 1
+https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="ABNTVIndia.us" tvg-name="ABN TV India" group-title="Religious" tvg-language="hin" tvg-quality="540p",ABN TV India
+https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
+
+#EXTINF:-1 tvg-id="AdhyatmTV.in" tvg-name="Adhyatm TV" group-title="Religious" tvg-language="hin" tvg-quality="720p",Adhyatm TV
+https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8
+
+#EXTINF:-1 tvg-id="AnandTV.in" tvg-name="Anand TV" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Anand TV
+https://live.legitpro.co.in/anandtv/index.m3u8
+
+#EXTINF:-1 tvg-id="AnandWariTV.in" tvg-name="Anand Wari TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Anand Wari TV
+https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8
+
+#EXTINF:-1 tvg-id="AradanaTV.in" tvg-name="Aradana TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aradana TV
+https://cdn.pishow.tv/ott/live/961/master.m3u8
+
+#EXTINF:-1 tvg-id="AradanaTV.in" tvg-name="Aradana TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aradana TV
+https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8
+
+#EXTINF:-1 tvg-id="AwakeningTV.in" tvg-name="Awakening TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Awakening TV
+https://d2gvyg6lvauoko.cloudfront.net/230226/awakeningtv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="AwakeningTV.in" tvg-name="Awakening TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Awakening TV
+https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8
+
+#EXTINF:-1 tvg-id="BhaktiDhara.in" tvg-name="Bhakti Dhara" group-title="Religious" tvg-language="hin" tvg-quality="720p",Bhakti Dhara
+https://newsliveindia.com:4433/bhaktidhara/index.m3u8
+
+#EXTINF:-1 tvg-id="BhaktiSagar.in" tvg-name="Bhakti Sagar" group-title="Religious" tvg-language="hin" tvg-quality="576p",Bhakti Sagar
+https://mumt05.tangotv.in/87NeALx2BHAKTISAGAR/index.m3u8
+
+#EXTINF:-1 tvg-id="ChannelDivya.in" tvg-name="Channel Divya" group-title="Religious" tvg-language="hin" tvg-quality="720p",Channel Divya
+https://mumbai-edge.smartplaytv.in/channeldivya/index.m3u8
+
+#EXTINF:-1 tvg-id="ChannelDivya.in" tvg-name="Channel Divya" group-title="Religious" tvg-language="hin" tvg-quality="576p",Channel Divya
+https://mumt05.tangotv.in/87NeALx2DIVYA/index.m3u8
+
+#EXTINF:-1 tvg-id="ChannelDivya.in" tvg-name="Channel Divya" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Channel Divya
+https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Darshan24.in" tvg-name="Darshan 24" group-title="Religious" tvg-language="hin" tvg-quality="576p",Darshan 24
+https://mumt05.tangotv.in/87NeALx2DARSHAN24/index.m3u8
+
+#EXTINF:-1 tvg-id="DheeranTV.in" tvg-name="Dheeran TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Dheeran TV
+https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FatehTV.in" tvg-name="Fateh TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Fateh TV
+https://cdn.pishow.tv/ott/live/349/master.m3u8
+
+#EXTINF:-1 tvg-id="FatehTV.in" tvg-name="Fateh TV" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Fateh TV
+https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
+
+#EXTINF:-1 tvg-id="FGNChannel.in" tvg-name="FGN Channel" group-title="Religious" tvg-language="hin" tvg-quality="360p",FGN Channel
+https://samitaorigin.tangotv.in/FGNCHANNEL/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-name="God Stands TV" group-title="Religious" tvg-language="hin" tvg-quality="480i",God Stands TV
+https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8
+
+#EXTINF:-1 tvg-id="GurSikhSabhaTV.ca" tvg-name="GurSikh Sabha TV" group-title="Religious" tvg-language="hin" tvg-quality="720p",GurSikh Sabha TV
+http://cdn12.henico.net:8080/live/gsctv/index.m3u8
+
+#EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-name="Hare Krsna TV" group-title="Religious" tvg-language="hin" tvg-quality="720p",Hare Krsna TV
+https://airtelapp.shemaroo.com/harekrsnatv/smil:harekrsnatvadp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-name="Hare Krsna TV" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Hare Krsna TV
+https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
+
+#EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-name="Hare Krsna TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Hare Krsna TV
+https://mumt05.tangotv.in/87NeALx2HAREKRSNA/index.m3u8
+
+#EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-name="Hare Krsna TV" group-title="Religious" tvg-language="hin" tvg-quality="720p",Hare Krsna TV
+https://yuppparoriglin.akamaized.net/181224/smil:harekrishna.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="HosannaTV.in" tvg-name="Hosanna TV" group-title="Religious" tvg-language="hin" tvg-quality="1080i",Hosanna TV
+https://ktismaservers.in:3466/live/hosannattvhindhilive.m3u8
+
+#EXTINF:-1 tvg-id="HosannaTV.in" tvg-name="Hosanna TV" group-title="Religious" tvg-language="hin" tvg-quality="720p",Hosanna TV
+https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8
+
+#EXTINF:-1 tvg-id="IshwarBhaktiTV.in" tvg-name="Ishwar Bhakti TV" group-title="Religious" tvg-language="hin" tvg-quality="720p",Ishwar Bhakti TV
+https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IshwarBhaktiTV.in" tvg-name="Ishwar Bhakti TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Ishwar Bhakti TV
+https://mumt05.tangotv.in/87NeALx2ISHWARBHAKTI/index.m3u8
+
+#EXTINF:-1 tvg-id="JinvaniChannel.in" tvg-name="Jinvani Channel" group-title="Religious" tvg-language="hin" tvg-quality="720p",Jinvani Channel
+https://cdn.pishow.tv/ott/live/989/master.m3u8
+
+#EXTINF:-1 tvg-id="JinvaniChannel.in" tvg-name="Jinvani Channel" group-title="Religious" tvg-language="hin" tvg-quality="576p",Jinvani Channel
+https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8
+
+#EXTINF:-1 tvg-id="KanshiTV.uk" tvg-name="Kanshi TV" group-title="Religious" tvg-language="hin" tvg-quality="720p",Kanshi TV
+https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
+
+#EXTINF:-1 tvg-id="LLBNTVSouthAsia.us" tvg-name="LLBN TV South Asia" group-title="Religious" tvg-language="hin" tvg-quality="480p",LLBN TV South Asia
+https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/stream.m3u8
+
+#EXTINF:-1 tvg-id="MangalmayTV.in" tvg-name="Mangalmay TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Mangalmay TV
+https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="MercyTV.in" tvg-name="Mercy TV" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Mercy TV
+https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MercyTV.in" tvg-name="Mercy TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Mercy TV
+https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8
+
+#EXTINF:-1 tvg-id="MercyTV.in" tvg-name="Mercy TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Mercy TV
+https://mumt03.tangotv.in/Dsly5z3HMERCYTV/index.m3u8
+
+#EXTINF:-1 tvg-id="MHOneShraddha.in" tvg-name="MH One Shraddha" group-title="Religious" tvg-language="hin" tvg-quality="576p",MH One Shraddha
+https://livestream.jswk.online/mhoneshraddha/live/index.m3u8
+
+#EXTINF:-1 tvg-id="MHOneShraddha.in" tvg-name="MH One Shraddha" group-title="Religious" tvg-language="hin" tvg-quality="576p",MH One Shraddha
+https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8
+
+#EXTINF:-1 tvg-id="MTA2Europe.uk" tvg-name="MTA2 Europe" group-title="Religious" tvg-language="ara;ben;deu;eng;fra;hin;urd" tvg-quality="720p",MTA2 Europe
+https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA7Asia.uk" tvg-name="MTA7 Asia" group-title="Religious" tvg-language="ara;ben;eng;hin;mal;tam;urd" tvg-quality="1080p",MTA7 Asia
+https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PadharoSA.in" tvg-name="Padharo SA" group-title="Religious" tvg-language="hin" tvg-quality="720p",Padharo SA
+https://samitaorigin.tangotv.in/PADHAROSA/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="ParasGold.in" tvg-name="Paras Gold" group-title="Religious" tvg-language="hin" tvg-quality="576p",Paras Gold
+https://mumt04.tangotv.in/m18aqlK4PARASGOLD/index.m3u8
+
+#EXTINF:-1 tvg-id="PeaceofMindTV.in" tvg-name="Peace of Mind TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Peace of Mind TV
+https://mumbai-edge.smartplaytv.in/PeaceOfMind/index.m3u8
+
+#EXTINF:-1 tvg-id="PeaceofMindTV.in" tvg-name="Peace of Mind TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Peace of Mind TV
+https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="Sadhna.in" tvg-name="Sadhna" group-title="Religious" tvg-language="hin" tvg-quality="720p",Sadhna
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SadhnaTV.in" tvg-name="Sadhna TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Sadhna TV
+https://mumt05.tangotv.in/87NeALx2SADHNATV/index.m3u8
+
+#EXTINF:-1 tvg-id="SanskarTV.in" tvg-name="Sanskar TV" group-title="Culture;Religious" tvg-language="hin" tvg-quality="1080p",Sanskar TV
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+
+#EXTINF:-1 tvg-id="SanskarUK.in" tvg-name="Sanskar UK" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Sanskar UK
+https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
+
+#EXTINF:-1 tvg-id="SanskarUSA.in" tvg-name="Sanskar USA" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Sanskar USA
+https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+
+#EXTINF:-1 tvg-id="SanskarWebTV.in" tvg-name="Sanskar Web TV" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Sanskar Web TV
+https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8
+
+#EXTINF:-1 tvg-id="SatsangTV.in" tvg-name="Satsang TV" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Satsang TV
+https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
+
+#EXTINF:-1 tvg-id="SatsangWebTV.in" tvg-name="Satsang Web TV" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Satsang Web TV
+https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
+
+#EXTINF:-1 tvg-id="ShubhsandeshTV.in" tvg-name="Shubhsandesh TV" group-title="Religious" tvg-language="hin" tvg-quality="720p",Shubhsandesh TV
+https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="ShubhsandeshTV.in" tvg-name="Shubhsandesh TV" group-title="Religious" tvg-language="hin" tvg-quality="576i",Shubhsandesh TV
+https://cdn.pishow.tv/ott/live/457/master.m3u8
+
+#EXTINF:-1 tvg-id="ShubhsandeshTV.in" tvg-name="Shubhsandesh TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Shubhsandesh TV
+https://mumt03.tangotv.in/Dsly5z3HSHUBHSANDESH/index.m3u8
+
+#EXTINF:-1 tvg-id="SindhTV.in" tvg-name="Sindh TV" group-title="Religious" tvg-language="hin" tvg-quality="720p",Sindh TV
+https://samitaorigin.tangotv.in/SINDHTV/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="SohamTV.in" tvg-name="Soham TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Soham TV
+https://mumt03.tangotv.in/Dsly5z3HSOHAMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="SVBC4.in" tvg-name="SVBC 4" group-title="Religious" tvg-language="hin" tvg-quality="576p",SVBC 4
+https://mumt05.tangotv.in/87NeALx2SVBC4HINDI/index.m3u8
+
+#EXTINF:-1 tvg-id="SVBC4.in" tvg-name="SVBC 4" group-title="Religious" tvg-language="hin" tvg-quality="1080p",SVBC 4
+https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SwastikTV.in" tvg-name="Swastik TV" group-title="Religious" tvg-language="hin" tvg-quality="720p",Swastik TV
+https://server.playontv.in/swastiktv/index.m3u8
+
+#EXTINF:-1 tvg-id="TotalBhakti.in" tvg-name="Total Bhakti" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Total Bhakti
+https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8
+
+#EXTINF:-1 tvg-id="Vedic.in" tvg-name="Vedic" group-title="Religious" tvg-language="hin" tvg-quality="480p",Vedic
+https://aasthaott.akamaized.net/110923/smil:vedic.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Vedic.in" tvg-name="Vedic" group-title="Religious" tvg-language="hin" tvg-quality="576p",Vedic
+https://mumt05.tangotv.in/87NeALx2VEDIC/index.m3u8
+

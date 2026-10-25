@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ANT1.gr" tvg-name="ANT1" group-title="Entertainment" tvg-language="ell" tvg-quality="1080p",ANT1
+#EXTVLCOPT:http-user-agent=Chrome
+#EXTVLCOPT:http-referrer=http://watch.antennaplus.gr
+https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
+
+#EXTINF:-1 tvg-id="ANT1Cyprus.cy" tvg-name="ANT1 Cyprus" group-title="Entertainment" tvg-language="ell" tvg-quality="1080p",ANT1 Cyprus
+http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ERT3.gr" tvg-name="ERT3" group-title="Entertainment" tvg-language="ell" tvg-quality="1080p",ERT3
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8
+
+#EXTINF:-1 tvg-id="ExtraProNews.gr" tvg-name="Extra ProNews" group-title="Entertainment;News;Shop" tvg-language="ell" tvg-quality="576p",Extra ProNews
+http://62.1.176.18:8888/extra/index.m3u8
+
+#EXTINF:-1 tvg-id="NetmaxTV.gr" tvg-name="Netmax TV" group-title="Entertainment" tvg-language="ell" tvg-quality="720p",Netmax TV
+https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarChannel.gr" tvg-name="Star Channel" group-title="Entertainment" tvg-language="ell" tvg-quality="1080p",Star Channel
+http://livestar.siliconweb.com/starvod/star4/star4.m3u8
+
+#EXTINF:-1 tvg-id="StarChannelInternational.gr" tvg-name="Star Channel International" group-title="Entertainment" tvg-language="ell" tvg-quality="720p",Star Channel International
+https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
+
+#EXTINF:-1 tvg-id="StarChannelInternational.gr" tvg-name="Star Channel International" group-title="Entertainment" tvg-language="ell" tvg-quality="1080i",Star Channel International
+https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8
+
+#EXTINF:-1 tvg-id="VerginaTV.gr" tvg-name="Vergina TV" group-title="Entertainment;News" tvg-language="ell" tvg-quality="1080p",Vergina TV
+https://verginanews.gr:8443/hls_live/stream1.m3u8
+

@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Becker.se" tvg-name="Becker" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",Becker
+https://jmp2.uk/plu-672e1634e482950008c759a5.m3u8
+
+#EXTINF:-1 tvg-id="DiagnosisMurder.se" tvg-name="Diagnosis Murder" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",Diagnosis Murder
+https://jmp2.uk/plu-668bf91208d5490008065ffd.m3u8
+
+#EXTINF:-1 tvg-id="HappyDays.se" tvg-name="Happy Days" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",Happy Days
+https://jmp2.uk/plu-654a508d986ad20008a456a5.m3u8
+
+#EXTINF:-1 tvg-id="JAG.se" tvg-name="JAG" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",JAG
+https://jmp2.uk/plu-654a4fc753fc9700083ae79f.m3u8
+
+#EXTINF:-1 tvg-id="MacGyver.se" tvg-name="MacGyver" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",MacGyver
+https://jmp2.uk/plu-654a59d483595c0008187514.m3u8
+
+#EXTINF:-1 tvg-id="Matlock.se" tvg-name="Matlock" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",Matlock
+https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8
+
+#EXTINF:-1 tvg-id="MissionImpossible.se" tvg-name="Mission Impossible" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",Mission Impossible
+https://jmp2.uk/plu-639b4eb4da3fda0008036f6e.m3u8
+
+#EXTINF:-1 tvg-id="Rawhide.se" tvg-name="Rawhide" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",Rawhide
+https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8
+
+#EXTINF:-1 tvg-id="TheWildWildWest.se" tvg-name="The Wild Wild West" group-title="Classic;Series" tvg-language="eng;nor" tvg-quality="720p",The Wild Wild West
+https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8
+

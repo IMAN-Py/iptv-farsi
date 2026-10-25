@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola" group-title="Education" tvg-language="ita" tvg-quality="576p",Rai Scuola
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+
+#EXTINF:-1 tvg-id="Telepace3.it" tvg-name="Telepace 3" group-title="Education;Religious" tvg-language="ita" tvg-quality="1080p",Telepace 3
+https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
+

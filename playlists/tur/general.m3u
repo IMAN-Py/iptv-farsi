@@ -1,0 +1,181 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A2TV.tr" tvg-name="A2TV" group-title="General" tvg-language="tur" tvg-quality="1080p",A2TV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+
+#EXTINF:-1 tvg-id="AdaTV.cy" tvg-name="Ada TV" group-title="General" tvg-language="tur" tvg-quality="576i",Ada TV
+https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AksuTV.tr" tvg-name="Aksu TV" group-title="General" tvg-language="tur" tvg-quality="720p",Aksu TV
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlanyaPostaTV.tr" tvg-name="Alanya Posta TV" group-title="General" tvg-language="tur" tvg-quality="1080p",Alanya Posta TV
+https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AltasTV.tr" tvg-name="Altas TV" group-title="General" tvg-language="tur" tvg-quality="1080p",Altas TV
+https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnadoluNetTV.tr" tvg-name="Anadolu Net TV" group-title="General" tvg-language="tur" tvg-quality="1080p",Anadolu Net TV
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArasTV.tr" tvg-name="Aras TV" group-title="General" tvg-language="tur" tvg-quality="576p",Aras TV
+http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" group-title="General" tvg-language="tur" tvg-quality="360p",ATV
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" group-title="General" tvg-language="tur" tvg-quality="1080p",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="ATVAlanya.tr" tvg-name="ATV Alanya" group-title="General" tvg-language="tur" tvg-quality="720p",ATV Alanya
+http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATVAlanya.tr" tvg-name="ATV Alanya" group-title="General" tvg-language="tur" tvg-quality="1080p",ATV Alanya
+https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-name="Benguturk TV" group-title="General" tvg-language="tur" tvg-quality="1080p",Benguturk TV
+http://185.234.111.229:8000/play/a05u
+
+#EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-name="Benguturk TV" group-title="General" tvg-language="tur" tvg-quality="720p",Benguturk TV
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+
+#EXTINF:-1 tvg-id="CayTV.tr" tvg-name="Cay TV" group-title="General" tvg-language="tur" tvg-quality="720p",Cay TV
+https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CekmekoyTV.tr" tvg-name="Cekmekoy TV" group-title="General" tvg-language="tur" tvg-quality="1080p",Cekmekoy TV
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DenizPostasiTV.tr" tvg-name="Deniz Postasi TV" group-title="General" tvg-language="tur" tvg-quality="720p",Deniz Postasi TV
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ERTV.tr" tvg-name="ERTV" group-title="General" tvg-language="tur" tvg-quality="1080p",ERTV
+https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ErzurumWebTV.tr" tvg-name="Erzurum Web TV" group-title="General" tvg-language="tur" tvg-quality="720p",Erzurum Web TV
+https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
+
+#EXTINF:-1 tvg-id="ETVKayseri.tr" tvg-name="ETV Kayseri" group-title="General" tvg-language="tur" tvg-quality="720p",ETV Kayseri
+https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuroD.tr" tvg-name="Euro D" group-title="General" tvg-language="tur" tvg-quality="720p",Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HunatTV.tr" tvg-name="Hunat TV" group-title="General" tvg-language="tur" tvg-quality="480p",Hunat TV
+https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HunatTV.tr" tvg-name="Hunat TV" group-title="General" tvg-language="tur" tvg-quality="720p",Hunat TV
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kanal12.tr" tvg-name="Kanal 12" group-title="General" tvg-language="tur" tvg-quality="720p",Kanal 12
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kanal15.tr" tvg-name="Kanal 15" group-title="General" tvg-language="tur" tvg-quality="720p",Kanal 15
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kanal23.tr" tvg-name="Kanal 23" group-title="General" tvg-language="tur" tvg-quality="1080p",Kanal 23
+https://cdn-kanal23.yayin.com.tr/kanal23/index.m3u8
+
+#EXTINF:-1 tvg-id="Kanal23.tr" tvg-name="Kanal 23" group-title="General" tvg-language="tur" tvg-quality="720p",Kanal 23
+https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kanal26.tr" tvg-name="Kanal 26" group-title="General" tvg-language="tur" tvg-quality="720p",Kanal 26
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kanal3.tr" tvg-name="Kanal 3" group-title="General" tvg-language="tur" tvg-quality="720p",Kanal 3
+http://stream.taksimbilisim.com:1935/kanal3/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kanal3.tr" tvg-name="Kanal 3" group-title="General" tvg-language="tur" tvg-quality="1080p",Kanal 3
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kanal3.tr" tvg-name="Kanal 3" group-title="General" tvg-language="tur" tvg-quality="720p",Kanal 3
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3guncel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kanal3.tr" tvg-name="Kanal 3" group-title="General" tvg-language="tur" tvg-quality="1080p",Kanal 3
+https://waw2.artiyerelmedya.net/kanal3/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kanal32.tr" tvg-name="Kanal 32" group-title="General" tvg-language="tur" tvg-quality="720p",Kanal 32
+https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kanal33.tr" tvg-name="Kanal 33" group-title="General" tvg-language="tur" tvg-quality="720p",Kanal 33
+https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kanal34.tr" tvg-name="Kanal 34" group-title="General" tvg-language="tur" tvg-quality="720p",Kanal 34
+https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8
+
+#EXTINF:-1 tvg-id="Kanal58.tr" tvg-name="Kanal 58" group-title="General" tvg-language="tur" tvg-quality="720p",Kanal 58
+https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" group-title="General" tvg-language="tur" tvg-quality="1080p",Kanal D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+
+#EXTINF:-1 tvg-id="KanalFirat.tr" tvg-name="Kanal Firat" group-title="General" tvg-language="tur" tvg-quality="720p",Kanal Firat
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KanalHayat.tr" tvg-name="Kanal Hayat" group-title="General" tvg-language="tur" tvg-quality="1080p",Kanal Hayat
+https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
+
+#EXTINF:-1 tvg-id="KanalV.tr" tvg-name="Kanal V" group-title="General" tvg-language="tur" tvg-quality="720p",Kanal V
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KayTV.tr" tvg-name="Kay TV" group-title="General" tvg-language="tur" tvg-quality="576p",Kay TV
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KentTurk.tr" tvg-name="Kent Turk" group-title="General" tvg-language="tur" tvg-quality="720p",Kent Turk
+https://live.artidijitalmedya.com/artidijital_38kenttv/38kenttv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KentTurk.tr" tvg-name="Kent Turk" group-title="General" tvg-language="tur" tvg-quality="1080p",Kent Turk
+https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KocaeliTV.tr" tvg-name="Kocaeli TV" group-title="General" tvg-language="tur" tvg-quality="1080p",Kocaeli TV
+https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KonyaOlayTV.tr" tvg-name="Konya Olay TV" group-title="General" tvg-language="tur" tvg-quality="720p",Konya Olay TV
+https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KurdistanTV.iq" tvg-name="Kurdistan TV" group-title="General" tvg-language="ara;kur;tur" tvg-quality="720p",Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LineTV.tr" tvg-name="Line TV" group-title="General" tvg-language="tur" tvg-quality="720p",Line TV
+https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MaviKaradenizTV.tr" tvg-name="MaviKaradeniz TV" group-title="General" tvg-language="tur" tvg-quality="1080p",MaviKaradeniz TV
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MeltemTV.tr" tvg-name="Meltem TV" group-title="General" tvg-language="tur" tvg-quality="1080p",Meltem TV
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTurkTV.tr" tvg-name="MTurk TV" group-title="General" tvg-language="tur" tvg-quality="1080p",MTurk TV
+https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" group-title="General" tvg-language="tur" tvg-quality="576i",NTV
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+
+#EXTINF:-1 tvg-id="On4TV.tr" tvg-name="On4 TV" group-title="General" tvg-language="tur" tvg-quality="1080p",On4 TV
+https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SercemTV.tr" tvg-name="Sercem TV" group-title="Culture;General;Religious" tvg-language="kur;tur;zza" tvg-quality="1080p",Sercem TV
+https://canli.sercemtv.com.tr/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="TGRTBelgesel.tr" tvg-name="TGRT Belgesel" group-title="General" tvg-language="tur" tvg-quality="576p",TGRT Belgesel
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tivi6.tr" tvg-name="Tivi 6" group-title="General" tvg-language="tur" tvg-quality="720p",Tivi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRTGenc.tr" tvg-name="TRT Genc" group-title="Culture;General" tvg-language="tur" tvg-quality="1440p",TRT Genc
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" group-title="General" tvg-language="tur" tvg-quality="1080p",TV8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" group-title="General" tvg-language="tur" tvg-quality="1080p",TV8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+
+#EXTINF:-1 tvg-id="Van65TV.tr" tvg-name="Van 65 TV" group-title="General" tvg-language="tur" tvg-quality="576i",Van 65 TV
+https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WestAzerbaijanTV.ir" tvg-name="West Azerbaijan TV" group-title="General" tvg-language="aze;fas;kur;tur" tvg-quality="576i",West Azerbaijan TV
+https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YOLTV.de" tvg-name="YOL TV" group-title="General" tvg-language="tur" tvg-quality="576i",YOL TV
+https://live.yoltv.com/hls/stream.m3u8
+

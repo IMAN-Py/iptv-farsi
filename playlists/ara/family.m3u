@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlSouriyaTV.sy" tvg-name="Al-Souriya TV" group-title="Family" tvg-language="ara" tvg-quality="1080p",Al-Souriya TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC5.ae" tvg-name="MBC 5" group-title="Family" tvg-language="ara" tvg-quality="1080p",MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MNetSport.mk" tvg-name="M-Net Sport" group-title="Sports" tvg-language="mkd" tvg-quality="720p",M-Net Sport
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+
+#EXTINF:-1 tvg-id="MNetSport.mk" tvg-name="M-Net Sport" group-title="Sports" tvg-language="mkd" tvg-quality="576i",M-Net Sport
+https://live.mnet.mk/hls/mnet-sport.m3u8
+

@@ -1,0 +1,767 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="111TV.it" tvg-name="111 TV" group-title="General" tvg-language="eng;ita" tvg-quality="720p",111 TV
+https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
+
+#EXTINF:-1 tvg-id="16AnnieIncinta.de" tvg-name="16 Anni e Incinta" group-title="Entertainment" tvg-language="ita" tvg-quality="720p",16 Anni e Incinta
+https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
+
+#EXTINF:-1 tvg-id="7Gold.it" tvg-name="7 Gold" group-title="Entertainment" tvg-language="ita" tvg-quality="1080p",7 Gold
+https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7RadioVisione.it" tvg-name="7 RadioVisione" group-title="Music" tvg-language="ita" tvg-quality="720p",7 RadioVisione
+https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ACISportTV.it" tvg-name="ACI Sport TV" group-title="Sports" tvg-language="ita" tvg-quality="1080p",ACI Sport TV
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+
+#EXTINF:-1 tvg-id="Adnkronos.it" tvg-name="Adnkronos" group-title="News" tvg-language="ita" tvg-quality="720p",Adnkronos
+https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AltoAdigeTV.it" tvg-name="AltoAdige TV" group-title="General" tvg-language="ita" tvg-quality="720p",AltoAdige TV
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Andromeda.us" tvg-name="Andromeda" group-title="Series" tvg-language="ita" tvg-quality="720p",Andromeda
+https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
+
+#EXTINF:-1 tvg-id="Antenna2TV.it" tvg-name="Antenna 2 TV" group-title="General" tvg-language="ita" tvg-quality="720p",Antenna 2 TV
+https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntennaSud.it" tvg-name="Antenna Sud" group-title="General" tvg-language="ita" tvg-quality="720p",Antenna Sud
+https://live.antennasudwebtv.it:9443/hls/vod.m3u8
+
+#EXTINF:-1 tvg-id="AntennaSudExtra.it" tvg-name="Antenna Sud Extra" group-title="General" tvg-language="ita" tvg-quality="720p",Antenna Sud Extra
+https://live.antennasudwebtv.it:9443/hls/vod92.m3u8
+
+#EXTINF:-1 tvg-id="BeJoykids.it" tvg-name="BeJoy.kids" group-title="Kids" tvg-language="ita" tvg-quality="1080p",BeJoy.kids
+https://stream.paroledivita.org/bejoy.m3u8
+
+#EXTINF:-1 tvg-id="BergamoTV.it" tvg-name="Bergamo TV" group-title="General" tvg-language="ita" tvg-quality="1080p",Bergamo TV
+https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" group-title="Kids" tvg-language="ita" tvg-quality="720p",Boing
+https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8
+
+#EXTINF:-1 tvg-id="BomChannel.it" tvg-name="Bom Channel" group-title="General" tvg-language="ita" tvg-quality="720p",Bom Channel
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CafeTV24.it" tvg-name="CafeTV24" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",CafeTV24
+https://srvx1.selftv.video/cafe/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" group-title="Entertainment" tvg-language="ita" tvg-quality="1080i",Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="CasaItalia53.it" tvg-name="Casa Italia 53" group-title="Shop" tvg-language="ita" tvg-quality="720p",Casa Italia 53
+https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CinCin.de" tvg-name="Cin Cin" group-title="Classic;Series" tvg-language="ita" tvg-quality="720p",Cin Cin
+https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8
+
+#EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34" group-title="Movies" tvg-language="ita" tvg-quality="1080p",Cine34
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="ClassCNBC.it" tvg-name="Class CNBC" group-title="Business" tvg-language="ita" tvg-quality="1080p",Class CNBC
+https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ClassCNBC.it" tvg-name="Class CNBC" group-title="Business" tvg-language="ita" tvg-quality="1080p",Class CNBC
+https://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnROg
+
+#EXTINF:-1 tvg-id="ComedyCentral.it" tvg-name="Comedy Central" group-title="Comedy" tvg-language="ita" tvg-quality="720p",Comedy Central
+http://team-tv.co:81/comedy/index.m3u8
+
+#EXTINF:-1 tvg-id="CompanyTV.it" tvg-name="Company TV" group-title="Music" tvg-language="ita" tvg-quality="720p",Company TV
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="CusanoItaliaTV.it" tvg-name="Cusano Italia TV" group-title="General" tvg-language="ita" tvg-quality="720p",Cusano Italia TV
+https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="Deejay TV" group-title="General" tvg-language="ita" tvg-quality="1080p",Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DITV80.it" tvg-name="DI.TV 80" group-title="General" tvg-language="ita" tvg-quality="720p",DI.TV 80
+https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ita" tvg-quality="1080p",Discovery Channel
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.it" tvg-name="Discovery Turbo" group-title="Auto" tvg-language="ita" tvg-quality="1080p",Discovery Turbo
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" group-title="Lifestyle" tvg-language="eng;ita" tvg-quality="1080p",DMAX
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" group-title="Legislative" tvg-language="bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mlt;nld;pol;por;ron;slk;slv;spa;swe;ukr" tvg-quality="1080p",EbS
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8
+
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+
+#EXTINF:-1 tvg-id="EliveTVBrescia.it" tvg-name="Elive TV Brescia" group-title="General" tvg-language="ita" tvg-quality="720p",Elive TV Brescia
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EntellaTV.it" tvg-name="Entella TV" group-title="General" tvg-language="ita" tvg-quality="720p",Entella TV
+https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EtnaEspressoChannel.it" tvg-name="Etna Espresso Channel" group-title="News" tvg-language="ita" tvg-quality="720p",Etna Espresso Channel
+https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
+
+#EXTINF:-1 tvg-id="eTvMarche.it" tvg-name="eTv Marche" group-title="News" tvg-language="ita" tvg-quality="720p",eTv Marche
+https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="eTvRete7.it" tvg-name="eTv Rete 7" group-title="News" tvg-language="ita" tvg-quality="720p",eTv Rete 7
+https://live.ipstream.it/etv/etv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuroTV.it" tvg-name="Euro TV" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Euro TV
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-name="Euronews Italian" group-title="News" tvg-language="ita" tvg-quality="720p",Euronews Italian
+https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0l0YWxpYW5vX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-name="Euronews Italian" group-title="News" tvg-language="ita" tvg-quality="720p",Euronews Italian
+https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-name="Euronews Italian" group-title="News" tvg-language="ita" tvg-quality="720p",Euronews Italian
+https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
+#EXTINF:-1 tvg-id="FanoTV.it" tvg-name="Fano TV" group-title="General" tvg-language="ita" tvg-quality="1080p",Fano TV
+https://5cbd3bc28341f.streamlock.net:444/fanotv_live/_definst_/43DA-3923-9C72-4E9F/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-name="FIFA+" group-title="Sports" tvg-language="ita" tvg-quality="720p",FIFA+
+https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FMITALIA.it" tvg-name="FM ITALIA" group-title="Music" tvg-language="ita" tvg-quality="1080p",FM ITALIA
+https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="Food Network" group-title="Cooking" tvg-language="ita" tvg-quality="1080p",Food Network
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-id="GamberoRossoChannel.it" tvg-name="Gambero Rosso Channel" group-title="Cooking;Lifestyle" tvg-language="ita" tvg-quality="720p",Gambero Rosso Channel
+https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
+
+#EXTINF:-1 tvg-id="GeordieShore.de" tvg-name="Geordie Shore" group-title="Entertainment" tvg-language="ita" tvg-quality="720p",Geordie Shore
+https://jmp2.uk/plu-619263ee9541940007d20d60.m3u8
+
+#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo" group-title="Entertainment" tvg-language="eng;ita" tvg-quality="1080p",Giallo
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-id="GiornaleRadioTV.it" tvg-name="Giornale Radio TV" group-title="News" tvg-language="ita" tvg-quality="720p",Giornale Radio TV
+https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GiovanniPaoloTV.it" tvg-name="Giovanni Paolo TV" group-title="Religious" tvg-language="ita" tvg-quality="1080p",Giovanni Paolo TV
+https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GOTVCanale163.it" tvg-name="GO-TV Canale 163" group-title="General" tvg-language="ita" tvg-quality="720p",GO-TV Canale 163
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV" group-title="Lifestyle" tvg-language="eng;ita" tvg-quality="1080p",HGTV
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-id="HorseTV.it" tvg-name="Horse TV" group-title="Sports" tvg-language="ita" tvg-quality="720p",Horse TV
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HorseTV.it" tvg-name="Horse TV" group-title="Sports" tvg-language="ita" tvg-quality="720p",Horse TV
+https://streams2.sofast.tv/vglive-sk-469239/index.m3u8
+
+#EXTINF:-1 tvg-id="IcaroTV.it" tvg-name="Icaro TV" group-title="General" tvg-language="ita" tvg-quality="720p",Icaro TV
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IlTestimone.de" tvg-name="Il Testimone" group-title="Entertainment" tvg-language="ita" tvg-quality="720p",Il Testimone
+https://jmp2.uk/plu-61fbd3f0733df400076c9a2d.m3u8
+
+#EXTINF:-1 tvg-id="InterTV.it" tvg-name="Inter TV" group-title="Sports" tvg-language="ita" tvg-quality="1080p",Inter TV
+https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
+
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris" group-title="Entertainment" tvg-language="eng;ita" tvg-quality="1080p",Iris
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-name="Italian Fishing TV" group-title="Outdoor" tvg-language="ita" tvg-quality="1080p",Italian Fishing TV
+https://fms.premio.link/fishingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Italiana.it" tvg-name="Italiana" group-title="Documentary" tvg-language="ita" tvg-quality="1080p",Italiana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
+
+#EXTINF:-1 tvg-id="IuniorTV.it" tvg-name="Iunior TV" group-title="Kids" tvg-language="eng;ita" tvg-quality="1080p",Iunior TV
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
+
+#EXTINF:-1 tvg-id="IuniorTV.it" tvg-name="Iunior TV" group-title="Kids" tvg-language="eng;ita" tvg-quality="720p",Iunior TV
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KissKissNapoliTV.it" tvg-name="Kiss Kiss Napoli TV" group-title="Music" tvg-language="ita" tvg-quality="720p",Kiss Kiss Napoli TV
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KissKissTV.it" tvg-name="Kiss Kiss TV" group-title="Music" tvg-language="ita" tvg-quality="1080p",Kiss Kiss TV
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KissKissTV.it" tvg-name="Kiss Kiss TV" group-title="Music" tvg-language="ita" tvg-quality="720p",Kiss Kiss TV
+https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KissKissTV.it" tvg-name="Kiss Kiss TV" group-title="Music" tvg-language="ita" tvg-quality="720p",Kiss Kiss TV
+https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaCTV.it" tvg-name="La C TV" group-title="General" tvg-language="ita" tvg-quality="720p",La C TV
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaTR3Marsala.it" tvg-name="La TR3 Marsala" group-title="General" tvg-language="ita" tvg-quality="720p",La TR3 Marsala
+https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LA7.it" tvg-name="LA7" group-title="General" tvg-language="ita" tvg-quality="1080p",LA7
+https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8
+
+#EXTINF:-1 tvg-id="La7Cinema.it" tvg-name="La7 Cinema" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",La7 Cinema
+http://102.129.186.182:81/la7d/index.m3u8
+
+#EXTINF:-1 tvg-id="LA7d.it" tvg-name="LA7d" group-title="General" tvg-language="ita" tvg-quality="720p",LA7d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+
+#EXTINF:-1 tvg-id="LaCNews24.it" tvg-name="LaC News 24" group-title="News" tvg-language="ita" tvg-quality="720p",LaC News 24
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LazioStyleChannel.it" tvg-name="Lazio Style Channel" group-title="Sports" tvg-language="ita" tvg-quality="720p",Lazio Style Channel
+https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LeCronacheTV.it" tvg-name="Le Cronache TV" group-title="General" tvg-language="ita" tvg-quality="720p",Le Cronache TV
+http://77.68.40.210:8888/hls/cronache.m3u8
+
+#EXTINF:-1 tvg-id="LeCronacheTV.it" tvg-name="Le Cronache TV" group-title="General" tvg-language="ita" tvg-quality="720p",Le Cronache TV
+http://stucazz.com:8888/hls/cronache.m3u8
+
+#EXTINF:-1 tvg-id="LiraTV.it" tvg-name="Lira TV" group-title="News" tvg-language="ita" tvg-quality="720p",Lira TV
+https://5d79ae45bc63b.streamlock.net/Liratv/Liratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveThePlanet.es" tvg-name="Love The Planet" group-title="Documentary" tvg-language="ita" tvg-quality="1080p",Love The Planet
+https://amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="m2oTV.it" tvg-name="m2o TV" group-title="Music" tvg-language="ita" tvg-quality="1080p",m2o TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MadeinBOTV.it" tvg-name="MadeinBO TV" group-title="Sports" tvg-language="ita" tvg-quality="1080p",MadeinBO TV
+https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MediasetItalia.it" tvg-name="Mediaset Italia" group-title="General" tvg-language="ita" tvg-quality="1080p",Mediaset Italia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
+
+#EXTINF:-1 tvg-id="MediasetItalia.it" tvg-name="Mediaset Italia" group-title="General" tvg-language="ita" tvg-quality="1080p",Mediaset Italia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
+
+#EXTINF:-1 tvg-id="MediasetItalia.it" tvg-name="Mediaset Italia" group-title="General" tvg-language="ita" tvg-quality="1080p",Mediaset Italia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
+
+#EXTINF:-1 tvg-id="MediterraniaTV.it" tvg-name="MediterraniaTV" group-title="General" tvg-language="ita" tvg-quality="1080p",MediterraniaTV
+https://59bb40cf810aa.streamlock.net:4443/streamingvincente/streamingvincente/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MilanTV.it" tvg-name="Milan TV" group-title="Sports" tvg-language="ita" tvg-quality="720p",Milan TV
+http://team-tv.co:81/milan/index.m3u8
+
+#EXTINF:-1 tvg-id="MinformoTV.it" tvg-name="Minformo TV" group-title="News" tvg-language="ita" tvg-quality="720p",Minformo TV
+https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-name="Mr Bean Animated" group-title="Animation;Kids" tvg-language="ita" tvg-quality="1080p",Mr Bean Animated
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NauticalChannel.it" tvg-name="Nautical Channel" group-title="Sports" tvg-language="eng;fra;ita" tvg-quality="720p",Nautical Channel
+https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NauticalChannel.it" tvg-name="Nautical Channel" group-title="Sports" tvg-language="eng;fra;ita" tvg-quality="720p",Nautical Channel
+https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.it" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;ita" tvg-quality="720p",Nick Jr.
+http://102.129.186.182:81/nick/index.m3u8
+
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove" group-title="General" tvg-language="eng;ita" tvg-quality="1080p",Nove
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-id="NTN.it" tvg-name="NTN" group-title="General" tvg-language="ita" tvg-quality="720p",NTN
+https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OndaNovaraTV.it" tvg-name="Onda Novara TV" group-title="General" tvg-language="ita" tvg-quality="720p",Onda Novara TV
+https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
+
+#EXTINF:-1 tvg-id="PaciContemporaryChannel.it" tvg-name="Paci Contemporary Channel" group-title="Culture" tvg-language="ita" tvg-quality="720p",Paci Contemporary Channel
+https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PadrePioTV.it" tvg-name="Padre Pio TV" group-title="Religious" tvg-language="ita" tvg-quality="1080p",Padre Pio TV
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ParolediVita.it" tvg-name="Parole di Vita" group-title="Religious" tvg-language="ita" tvg-quality="1080p",Parole di Vita
+https://stream.paroledivita.org/paroledivita.m3u8
+
+#EXTINF:-1 tvg-id="PeerTVAltoAdige.it" tvg-name="Peer TV Alto Adige" group-title="Outdoor;Travel" tvg-language="ita" tvg-quality="1280p",Peer TV Alto Adige
+https://iptv.peer.biz/live/peertv-it.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAlbertoSordi.de" tvg-name="Pluto TV Alberto Sordi" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Alberto Sordi
+https://jmp2.uk/plu-661f8f01801af800083d9d81.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVChristmastuttolanno.de" tvg-name="Pluto TV Christmas tutto l'anno" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Christmas tutto l'anno
+https://jmp2.uk/plu-612e05b885183d0007958101.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCinemaItaliano.de" tvg-name="Pluto TV Cinema Italiano" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Cinema Italiano
+https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCinemaOrientale.de" tvg-name="Pluto TV Cinema Orientale" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Cinema Orientale
+https://jmp2.uk/plu-6786235bd648bf0008c2780a.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCucina.de" tvg-name="Pluto TV Cucina" group-title="Cooking;Lifestyle" tvg-language="ita" tvg-quality="720p",Pluto TV Cucina
+https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVDocumentari.de" tvg-name="Pluto TV Documentari" group-title="Documentary" tvg-language="ita" tvg-quality="720p",Pluto TV Documentari
+https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilm.de" tvg-name="Pluto TV Film" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Film
+https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmAncoraPiuRomantici.de" tvg-name="Pluto TV Film Ancora Piu Romantici" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Film Ancora Piu Romantici
+https://jmp2.uk/plu-699d87093d5dba980705cca8.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmAzione.de" tvg-name="Pluto TV Film Azione" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Film Azione
+https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmCommedia.de" tvg-name="Pluto TV Film Commedia" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Film Commedia
+https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmRomantici.de" tvg-name="Pluto TV Film Romantici" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Film Romantici
+https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmStorici.de" tvg-name="Pluto TV Film Storici" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Film Storici
+https://jmp2.uk/plu-68750875759366af05a151ce.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmThriller.de" tvg-name="Pluto TV Film Thriller" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Film Thriller
+https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVLegamiLetali.de" tvg-name="Pluto TV Legami Letali" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Legami Letali
+https://jmp2.uk/plu-64808a8c536e0c0008a276d1.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNatura.de" tvg-name="Pluto TV Natura" group-title="Documentary" tvg-language="ita" tvg-quality="720p",Pluto TV Natura
+https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNottidiPassione.de" tvg-name="Pluto TV Notti di Passione" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Notti di Passione
+https://jmp2.uk/plu-6911c9704316999535eb21cf.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNottidiSangue.de" tvg-name="Pluto TV Notti di Sangue" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Notti di Sangue
+https://jmp2.uk/plu-6911c92b4316999535eb1e08.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNottidiTerrore.de" tvg-name="Pluto TV Notti di Terrore" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Notti di Terrore
+https://jmp2.uk/plu-6911c8dd8caba6f046c5c5d5.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVRealLife.de" tvg-name="Pluto TV Real Life" group-title="Lifestyle" tvg-language="ita" tvg-quality="720p",Pluto TV Real Life
+https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVScherzierisate.de" tvg-name="Pluto TV Scherzi e risate" group-title="Comedy" tvg-language="ita" tvg-quality="720p",Pluto TV Scherzi e risate
+https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSerie.de" tvg-name="Pluto TV Serie" group-title="Series" tvg-language="ita" tvg-quality="720p",Pluto TV Serie
+https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSerieCrime.de" tvg-name="Pluto TV Serie Crime" group-title="Series" tvg-language="ita" tvg-quality="720p",Pluto TV Serie Crime
+https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSerieSciFi.de" tvg-name="Pluto TV Serie Sci-Fi" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Serie Sci-Fi
+https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVShore.de" tvg-name="Pluto TV Shore" group-title="Entertainment" tvg-language="ita" tvg-quality="720p",Pluto TV Shore
+https://jmp2.uk/plu-67e3b0d2443f0671bc8a1297.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSport.de" tvg-name="Pluto TV Sport" group-title="Sports" tvg-language="ita" tvg-quality="720p",Pluto TV Sport
+https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVStoria.de" tvg-name="Pluto TV Storia" group-title="Documentary" tvg-language="ita" tvg-quality="720p",Pluto TV Storia
+https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTeen.de" tvg-name="Pluto TV Teen" group-title="Kids" tvg-language="ita" tvg-quality="720p",Pluto TV Teen
+https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVToto.de" tvg-name="Pluto TV Toto" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Toto
+https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVViaggi.de" tvg-name="Pluto TV Viaggi" group-title="Lifestyle" tvg-language="ita" tvg-quality="720p",Pluto TV Viaggi
+https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVWestern.de" tvg-name="Pluto TV Western" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Western
+https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8
+
+#EXTINF:-1 tvg-id="PrimaTV.it" tvg-name="Prima TV" group-title="General" tvg-language="ita" tvg-quality="720p",Prima TV
+https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrimAntennaTV.it" tvg-name="PrimAntenna TV" group-title="General" tvg-language="ita" tvg-quality="720p",PrimAntenna TV
+https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Primocanale.it" tvg-name="Primocanale" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Primocanale
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QuartoCanaleFlegreo.it" tvg-name="Quarto Canale Flegreo" group-title="General" tvg-language="ita" tvg-quality="720p",Quarto Canale Flegreo
+https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioBirikinaTV.it" tvg-name="Radio Birikina TV" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Radio Birikina TV
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioBrunoTV.it" tvg-name="Radio Bruno TV" group-title="Music" tvg-language="ita" tvg-quality="720p",Radio Bruno TV
+http://stream7.xdevel.com/video0s975758-1051/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioCapitalTiVu.it" tvg-name="Radio Capital TiVu" group-title="Music;News" tvg-language="ita" tvg-quality="720p",Radio Capital TiVu
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RADIODISCOuntTV.ch" tvg-name="RADIO DISCOunt TV" group-title="Music" tvg-language="ita" tvg-quality="1080p",RADIO DISCOunt TV
+https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioIbizaTV.it" tvg-name="Radio Ibiza TV" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Radio Ibiza TV
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioNorbaTV.it" tvg-name="Radio Norba TV" group-title="General" tvg-language="ita" tvg-quality="1080p",Radio Norba TV
+https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="RadioNumberOne.it" tvg-name="Radio Number One" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Radio Number One
+https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioPiterPanTV.it" tvg-name="Radio Piter Pan TV" group-title="Music" tvg-language="ita" tvg-quality="720p",Radio Piter Pan TV
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioStudioDeltaTV.it" tvg-name="Radio Studio Delta TV" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Radio Studio Delta TV
+https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTaorminaSicilia.it" tvg-name="Radio Taormina Sicilia" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Radio Taormina Sicilia
+https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioZeta.it" tvg-name="Radio Zeta" group-title="Music" tvg-language="ita" tvg-quality="1080p",Radio Zeta
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="RadioZeta.it" tvg-name="Radio Zeta" group-title="Music" tvg-language="ita" tvg-quality="1080p",Radio Zeta
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="Radiofreccia.it" tvg-name="Radiofreccia" group-title="Music" tvg-language="ita" tvg-quality="1080p",Radiofreccia
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="Radiofreccia.it" tvg-name="Radiofreccia" group-title="Music" tvg-language="ita" tvg-quality="1080p",Radiofreccia
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Rai 1
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Rai 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Rai 3
+https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
+
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Rai 3
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Rai 4
+http://team-tv.co:81/rai4/index.m3u8
+
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Rai Gulp
+http://5.180.164.197:8080/RAIGULP/index.m3u8
+
+#EXTINF:-1 tvg-id="RaiItalia.it" tvg-name="Rai Italia" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Rai Italia
+http://138.59.177.78:9999/play/a0gf/index.m3u8
+
+#EXTINF:-1 tvg-id="RaiItalia.it" tvg-name="Rai Italia" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Rai Italia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8
+
+#EXTINF:-1 tvg-id="RaiItalia.it" tvg-name="Rai Italia" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Rai Italia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8
+
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" group-title="Movies" tvg-language="ita" tvg-quality="1080p",Rai Movie
+http://team-tv.co:81/raimovie/index.m3u8
+
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" group-title="News" tvg-language="ita" tvg-quality="1080p",Rai News 24
+https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
+
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" group-title="News" tvg-language="ita" tvg-quality="720p",Rai News 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Rai Storia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
+
+#EXTINF:-1 tvg-id="RaiWorldPremium.it" tvg-name="Rai World Premium" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Rai World Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es" tvg-name="Rakuten TV Action Movies" group-title="Movies" tvg-language="ita" tvg-quality="1080p",Rakuten TV Action Movies
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es" tvg-name="Rakuten TV Comedy Movies" group-title="Movies" tvg-language="ita" tvg-quality="1080p",Rakuten TV Comedy Movies
+https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es" tvg-name="Rakuten TV Drama Movies" group-title="Movies" tvg-language="ita" tvg-quality="1080p",Rakuten TV Drama Movies
+https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-name="Rakuten TV Family Movies" group-title="Family;Movies" tvg-language="ita" tvg-quality="1080p",Rakuten TV Family Movies
+https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.es" tvg-name="Rakuten TV Top Movies" group-title="Movies" tvg-language="ita" tvg-quality="1080p",Rakuten TV Top Movies
+https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
+
+#EXTINF:-1 tvg-id="RDSSocialTV.it" tvg-name="RDS Social TV" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",RDS Social TV
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
+
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Real Time
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-id="Rete55.it" tvg-name="Rete 55" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Rete 55
+https://stream.internet.one/Rete55_Live/index.m3u8
+
+#EXTINF:-1 tvg-id="ReteBiellaTV.it" tvg-name="Rete Biella TV" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Rete Biella TV
+https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ReteOro.it" tvg-name="Rete Oro" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Rete Oro
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ReteTVItalia.it" tvg-name="Rete TV Italia" group-title="General" tvg-language="ita" tvg-quality="1080p",Rete TV Italia
+https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Retemia.it" tvg-name="Retemia" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Retemia
+https://5db313b643fd8.streamlock.net/Retemia/Retemia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RomanticaTV.it" tvg-name="Romantica TV" group-title="General" tvg-language="ita" tvg-quality="1080p",Romantica TV
+https://stream10.xdevel.com/video0s977363-1901/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="RossiniTV.it" tvg-name="Rossini TV" group-title="General" tvg-language="ita" tvg-quality="720p",Rossini TV
+https://5cbd3bc28341f.streamlock.net:444/rossinitv_live/944A-63A6-9EB8-4492/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTCTelecalabria.it" tvg-name="RTC Telecalabria" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",RTC Telecalabria
+http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTCTelecalabria.it" tvg-name="RTC Telecalabria" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",RTC Telecalabria
+https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTL1025Best.it" tvg-name="RTL 102.5 Best" group-title="Music" tvg-language="ita" tvg-quality="1080p",RTL 102.5 Best
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="RTL1025BroSis.it" tvg-name="RTL 102.5 Bro&Sis" group-title="Music" tvg-language="ita" tvg-quality="1080p",RTL 102.5 Bro&Sis
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="RTL1025Caliente.it" tvg-name="RTL 102.5 Caliente" group-title="Music" tvg-language="ita" tvg-quality="1080p",RTL 102.5 Caliente
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="RTL1025Disco.it" tvg-name="RTL 102.5 Disco" group-title="Music" tvg-language="ita" tvg-quality="1080p",RTL 102.5 Disco
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="RTL1025Napule.it" tvg-name="RTL 102.5 Napule" group-title="Music" tvg-language="ita" tvg-quality="1080p",RTL 102.5 Napule
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="RTL1025Traffic.it" tvg-name="RTL 102.5 Traffic" group-title="Music" tvg-language="ita" tvg-quality="1080p",RTL 102.5 Traffic
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="RTL1025TV.it" tvg-name="RTL 102.5 TV" group-title="Music" tvg-language="ita" tvg-quality="1080p",RTL 102.5 TV
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="RTMTV.it" tvg-name="RTM TV" group-title="General" tvg-language="ita" tvg-quality="1080p",RTM TV
+https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTTRTrento.it" tvg-name="RTTR Trento" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",RTTR Trento
+https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SanMarinoRTV.sm" tvg-name="San Marino RTV" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",San Marino RTV
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SanMarinoRTVSport.sm" tvg-name="San Marino RTV Sport" group-title="Sports" tvg-language="ita" tvg-quality="720p",San Marino RTV Sport
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="SenatoTV.it" tvg-name="Senato TV" group-title="Legislative" tvg-language="ita" tvg-quality="1080p",Senato TV
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SophiaTV.it" tvg-name="Sophia TV" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Sophia TV
+https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SouthPark.de" tvg-name="South Park" group-title="Animation;Comedy" tvg-language="ita" tvg-quality="720p",South Park
+https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8
+
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" group-title="Sports" tvg-language="ita" tvg-quality="1080p",Sportitalia
+https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" group-title="Sports" tvg-language="ita" tvg-quality="720p",Sportitalia
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" group-title="Sports" tvg-language="ita" tvg-quality="1080p",Sportitalia
+https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" group-title="Sports" tvg-language="ita" tvg-quality="1080p",Sportitalia
+https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sportitalia24.it" tvg-name="Sportitalia 24" group-title="Sports" tvg-language="ita" tvg-quality="720p",Sportitalia 24
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SportitaliaMotori.it" tvg-name="Sportitalia Motori" group-title="Sports" tvg-language="ita" tvg-quality="720p",Sportitalia Motori
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-name="Sportitalia Solocalcio" group-title="Sports" tvg-language="ita" tvg-quality="720p",Sportitalia Solocalcio
+https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-name="Sportitalia Solocalcio" group-title="Sports" tvg-language="ita" tvg-quality="1080p",Sportitalia Solocalcio
+https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-name="Sportitalia Solocalcio" group-title="Sports" tvg-language="ita" tvg-quality="1080p",Sportitalia Solocalcio
+https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-name="Sportitalia Solocalcio" group-title="Sports" tvg-language="ita" tvg-quality="1080p",Sportitalia Solocalcio
+https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarTrekVoyager.de" tvg-name="Star Trek: Voyager" group-title="Movies;Series" tvg-language="ita" tvg-quality="720p",Star Trek: Voyager
+https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
+
+#EXTINF:-1 tvg-id="Stereo5TV.it" tvg-name="Stereo 5 TV" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Stereo 5 TV
+https://stream1.aswifi.it/stereo5/live/index.m3u8
+
+#EXTINF:-1 tvg-id="StorieCriminali.es" tvg-name="Storie Criminali" group-title="Documentary" tvg-language="ita" tvg-quality="1080p",Storie Criminali
+https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
+
+#EXTINF:-1 tvg-id="SuperJTVTeramo.it" tvg-name="Super J TV Teramo" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Super J TV Teramo
+http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperJTVTeramo.it" tvg-name="Super J TV Teramo" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Super J TV Teramo
+https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperSix.it" tvg-name="Super Six" group-title="General" tvg-language="ita" tvg-quality="720p",Super Six
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperTV.it" tvg-name="Super TV" group-title="General;Series" tvg-language="ita" tvg-quality="720p",Super TV
+http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperTV.it" tvg-name="Super TV" group-title="General;Series" tvg-language="ita" tvg-quality="720p",Super TV
+https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperTVOristano.it" tvg-name="Super TV Oristano" group-title="General" tvg-language="ita" tvg-quality="720p",Super TV Oristano
+http://193.70.81.40:1935/supertvoristano/supertvoristano/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperSpongeBob.us" tvg-name="Super! SpongeBob" group-title="Kids" tvg-language="ita" tvg-quality="720p",Super! SpongeBob
+https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8
+
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SuperTennis" group-title="Sports" tvg-language="ita" tvg-quality="1080p",SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TaurianovaTV.it" tvg-name="Taurianova TV" group-title="General" tvg-language="ita" tvg-quality="720p",Taurianova TV
+https://5f22d76e220e1.streamlock.net/taurianovatv/taurianovatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeatroTV.it" tvg-name="Teatro TV" group-title="Culture" tvg-language="ita" tvg-quality="720p",Teatro TV
+https://m.iostream.it/hls/teatrotv/teatrotv.m3u8
+
+#EXTINF:-1 tvg-id="TeenMom.de" tvg-name="Teen Mom" group-title="Entertainment" tvg-language="ita" tvg-quality="720p",Teen Mom
+https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8
+
+#EXTINF:-1 tvg-id="TeenageMutantNinjaTurtles.de" tvg-name="Teenage Mutant Ninja Turtles" group-title="Animation;Kids" tvg-language="ita" tvg-quality="720p",Teenage Mutant Ninja Turtles
+https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
+
+#EXTINF:-1 tvg-id="TeleChiara.it" tvg-name="Tele Chiara" group-title="General" tvg-language="ita" tvg-quality="720p",Tele Chiara
+http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleQuattro.it" tvg-name="Tele Quattro" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Tele Quattro
+https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelecityLombardia.it" tvg-name="Telecity Lombardia" group-title="General" tvg-language="ita" tvg-quality="1080p",Telecity Lombardia
+https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelecolorLombardia.it" tvg-name="Telecolor Lombardia" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Telecolor Lombardia
+https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telefriuli.it" tvg-name="Telefriuli" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Telefriuli
+https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telegranda.it" tvg-name="Telegranda" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Telegranda
+http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telejato.it" tvg-name="Telejato" group-title="News" tvg-language="ita" tvg-quality="720p",Telejato
+https://telejato.liberotratto.com/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="Telemantova.it" tvg-name="Telemantova" group-title="General" tvg-language="ita" tvg-quality="1080p",Telemantova
+https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleMistretta.it" tvg-name="TeleMistretta" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",TeleMistretta
+https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telemolise.it" tvg-name="Telemolise" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Telemolise
+http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telemontecarlo.it" tvg-name="Telemontecarlo" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Telemontecarlo
+https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telenova.it" tvg-name="Telenova" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Telenova
+https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telepace1.it" tvg-name="Telepace 1" group-title="Religious" tvg-language="ita" tvg-quality="1080p",Telepace 1
+https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telepace2.it" tvg-name="Telepace 2" group-title="Culture;Religious" tvg-language="eng;fra;ita" tvg-quality="1080p",Telepace 2
+https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telepace3.it" tvg-name="Telepace 3" group-title="Education;Religious" tvg-language="ita" tvg-quality="1080p",Telepace 3
+https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telepace4.it" tvg-name="Telepace 4" group-title="Religious" tvg-language="eng;fra;ita" tvg-quality="1080p",Telepace 4
+https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telepavia.it" tvg-name="Telepavia" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Telepavia
+http://wms.shared.streamshow.it/telepavia/mp4:telepavia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telepavia.it" tvg-name="Telepavia" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Telepavia
+http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telepavia.it" tvg-name="Telepavia" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Telepavia
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+
+#EXTINF:-1 tvg-id="TeleSanDomenico.it" tvg-name="TeleSanDomenico" group-title="Religious" tvg-language="ita" tvg-quality="1080p",TeleSanDomenico
+https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telestense.it" tvg-name="Telestense" group-title="General" tvg-language="ita" tvg-quality="720p",Telestense
+https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelesudTrapani.it" tvg-name="Telesud Trapani" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Telesud Trapani
+http://5cbd3bc28341f.streamlock.net:1935/telesud/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelesudTrapani.it" tvg-name="Telesud Trapani" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Telesud Trapani
+https://5cbd3bc28341f.streamlock.net:444/telesud/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleTicino.ch" tvg-name="TeleTicino" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",TeleTicino
+https://vstream-cdn.ch/hls/teleticino.m3u8
+
+#EXTINF:-1 tvg-id="TGCom24.it" tvg-name="TGCom24" group-title="News" tvg-language="ita" tvg-quality="720p",TGCom24
+https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
+
+#EXTINF:-1 tvg-id="TLTMolise.it" tvg-name="TLT Molise" group-title="General" tvg-language="ita" tvg-quality="1080p",TLT Molise
+https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrentinoTV.it" tvg-name="Trentino TV" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",Trentino TV
+https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCampane1.it" tvg-name="TV Campane 1" group-title="General" tvg-language="ita" tvg-quality="720p",TV Campane 1
+https://eu1.servers10.com:8081/8032/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPrato.it" tvg-name="TV Prato" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",TV Prato
+https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="TVYesItalia.it" tvg-name="TV Yes Italia" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",TV Yes Italia
+https://stream1.aswifi.it/radioyes/live/index.m3u8
+
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" group-title="Religious" tvg-language="ita" tvg-quality="720p",TV2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" group-title="Religious" tvg-language="ita" tvg-quality="720p",TV2000
+https://videotv2000-meride-tv.akamaized.net/branded/monoscopio/monoscopio.m3u8
+
+#EXTINF:-1 tvg-id="TVAVicenza.it" tvg-name="TVA Vicenza" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",TVA Vicenza
+http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVL.it" tvg-name="TVL" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",TVL
+https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Twentyseven.it" tvg-name="Twentyseven" group-title="Movies;Series" tvg-language="ita" tvg-quality="1080p",Twentyseven
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="UniNettunoUniversityTV.it" tvg-name="UniNettuno University TV" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",UniNettuno University TV
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VeraTV.it" tvg-name="Vera TV" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Vera TV
+http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VeraTV.it" tvg-name="Vera TV" group-title="Uncategorized" tvg-language="ita" tvg-quality="1080p",Vera TV
+http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VideoRola.it" tvg-name="Video Rola" group-title="Music" tvg-language="ita" tvg-quality="1080p",Video Rola
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+

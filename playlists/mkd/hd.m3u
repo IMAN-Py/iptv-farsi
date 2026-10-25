@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CoolTV.mk" tvg-name="Cool TV" group-title="General" tvg-language="mkd" tvg-quality="1080p",Cool TV
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
+
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+
+#EXTINF:-1 tvg-id="FolkKlubTV.au" tvg-name="Folk Klub TV" group-title="Music" tvg-language="mkd" tvg-quality="720p",Folk Klub TV
+http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
+
+#EXTINF:-1 tvg-id="FolkTV.mk" tvg-name="Folk TV" group-title="Music" tvg-language="mkd" tvg-quality="1080p",Folk TV
+https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
+
+#EXTINF:-1 tvg-id="INTVAustralia.au" tvg-name="INTV Australia" group-title="Music" tvg-language="mkd" tvg-quality="720p",INTV Australia
+http://tv1.intv.mk:1935/live/intv/index.m3u8
+
+#EXTINF:-1 tvg-id="JazzTV.mk" tvg-name="Jazz TV" group-title="Music" tvg-language="mkd" tvg-quality="1080p",Jazz TV
+https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
+
+#EXTINF:-1 tvg-id="LoveTV.mk" tvg-name="Love TV" group-title="Music" tvg-language="mkd" tvg-quality="1080p",Love TV
+https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+
+#EXTINF:-1 tvg-id="MNetHD.mk" tvg-name="M-Net HD" group-title="General" tvg-language="mkd" tvg-quality="720p",M-Net HD
+http://ares.mnet.mk/hls/mnet.m3u8
+
+#EXTINF:-1 tvg-id="MNetKids.mk" tvg-name="M-Net Kids" group-title="Kids" tvg-language="mkd" tvg-quality="720p",M-Net Kids
+http://ares.mnet.mk/hls/mnet-kids.m3u8
+
+#EXTINF:-1 tvg-id="MNetSport.mk" tvg-name="M-Net Sport" group-title="Sports" tvg-language="mkd" tvg-quality="720p",M-Net Sport
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+
+#EXTINF:-1 tvg-id="NasaTV.mk" tvg-name="Nasa TV" group-title="General" tvg-language="mkd" tvg-quality="1080p",Nasa TV
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+
+#EXTINF:-1 tvg-id="RockTV.mk" tvg-name="Rock TV" group-title="Music" tvg-language="mkd" tvg-quality="1080p",Rock TV
+https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+
+#EXTINF:-1 tvg-id="SkyFolkTV.mk" tvg-name="Sky Folk TV" group-title="Music" tvg-language="mkd" tvg-quality="720p",Sky Folk TV
+https://eu.live.skyfolk.mk/live.m3u8
+
+#EXTINF:-1 tvg-id="SkyFolkTV.mk" tvg-name="Sky Folk TV" group-title="Music" tvg-language="mkd" tvg-quality="720p",Sky Folk TV
+https://skyfolk.mk/live.m3u8
+
+#EXTINF:-1 tvg-id="StarPlusTelevizija.mk" tvg-name="Star Plus Televizija" group-title="Music" tvg-language="mkd" tvg-quality="1080p",Star Plus Televizija
+https://live.muzickatv.mk/live/StarMusic2.m3u8
+

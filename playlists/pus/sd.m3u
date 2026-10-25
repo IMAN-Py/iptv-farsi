@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="4Afghanistan.fr" tvg-name="4 Afghanistan" group-title="Uncategorized" tvg-language="prd;pus" tvg-quality="576i",4 Afghanistan
+https://4afghls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="4Afghanistan.fr" tvg-name="4 Afghanistan" group-title="Uncategorized" tvg-language="prd;pus" tvg-quality="576i",4 Afghanistan
+https://4afghls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ABNAfghanistan.us" tvg-name="ABN Afghanistan" group-title="Religious" tvg-language="prd;pus" tvg-quality="540p",ABN Afghanistan
+https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
+
+#EXTINF:-1 tvg-id="AmuTV.us" tvg-name="Amu TV" group-title="News" tvg-language="prd;pus" tvg-quality="480i",Amu TV
+https://jmc-live.ercdn.net/amutv/amutv.m3u8
+
+#EXTINF:-1 tvg-id="ImanTV.us" tvg-name="Iman TV" group-title="Religious" tvg-language="pus" tvg-quality="480p",Iman TV
+https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MashriqTV.pk" tvg-name="Mashriq TV" group-title="News" tvg-language="pus" tvg-quality="576p",Mashriq TV
+http://103.250.28.74:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-id="MashriqTV.pk" tvg-name="Mashriq TV" group-title="News" tvg-language="pus" tvg-quality="576i",Mashriq TV
+https://cdn4.mjunoon.tv:8087/streamtest/108M/chunks.m3u8
+
+#EXTINF:-1 tvg-id="PayameAfghanTV.us" tvg-name="Payam-e-Afghan TV" group-title="General" tvg-language="prd;pus" tvg-quality="480p",Payam-e-Afghan TV
+https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+
+#EXTINF:-1 tvg-id="ShamsTV.af" tvg-name="Shams TV" group-title="Education" tvg-language="prd;pus" tvg-quality="576i",Shams TV
+https://fflive-darya-educationtv.b-cdn.net/master.m3u8
+
+#EXTINF:-1 tvg-id="ShamshadTV.af" tvg-name="Shamshad TV" group-title="Entertainment" tvg-language="pus" tvg-quality="576i",Shamshad TV
+https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ToloTV.af" tvg-name="Tolo TV" group-title="General" tvg-language="pus" tvg-quality="576i",Tolo TV
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/tracks-v1a1/mono.m3u8
+

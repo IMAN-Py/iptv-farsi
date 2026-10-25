@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="5Plus.mm" tvg-name="5 Plus" group-title="Entertainment" tvg-language="mya" tvg-quality="720p",5 Plus
+https://mmtvs.exliatycl.online/5plus/stream.m3u8
+
+#EXTINF:-1 tvg-id="ChannelK.mm" tvg-name="Channel K" group-title="Entertainment" tvg-language="mya" tvg-quality="720p",Channel K
+https://mmtvs.exliatycl.online/channelk/stream.m3u8
+
+#EXTINF:-1 tvg-id="FortuneTV.mm" tvg-name="Fortune TV" group-title="Entertainment" tvg-language="mya" tvg-quality="720p",Fortune TV
+http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
+
+#EXTINF:-1 tvg-id="MEntertainmentChannel.mm" tvg-name="M Entertainment Channel" group-title="Entertainment" tvg-language="eng;mya" tvg-quality="720p",M Entertainment Channel
+https://mmtvs.exliatycl.online/mchannel/stream.m3u8
+
+#EXTINF:-1 tvg-id="MRTVEntertainment.mm" tvg-name="MRTV Entertainment" group-title="Entertainment" tvg-language="mya" tvg-quality="480i",MRTV Entertainment
+https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
+
+#EXTINF:-1 tvg-id="MWDVariety.mm" tvg-name="MWD Variety" group-title="Entertainment" tvg-language="mya" tvg-quality="720p",MWD Variety
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+

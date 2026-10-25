@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AtrakTV.ir" tvg-name="Atrak TV" group-title="General" tvg-language="fas;kmz;kur" tvg-quality="576i",Atrak TV
+https://ncdn.telewebion.ir/atrak/live/playlist.m3u8
+

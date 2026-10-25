@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TaivasTV7.fi" tvg-name="Taivas TV7" group-title="Religious" tvg-language="fin" tvg-quality="720p",Taivas TV7
+https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
+

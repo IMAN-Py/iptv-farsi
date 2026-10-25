@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="4everCinema.ua" tvg-name="4ever Cinema" group-title="Movies" tvg-language="ukr" tvg-quality="1080p",4ever Cinema
+http://stream.mcquack.net/258/index.m3u8
+
+#EXTINF:-1 tvg-id="Bolt.ua" tvg-name="Bolt" group-title="Movies;Series" tvg-language="ukr" tvg-quality="1080p",Bolt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/73/index.m3u8
+
+#EXTINF:-1 tvg-id="CinePlus.ua" tvg-name="Cine+" group-title="Movies" tvg-language="ukr" tvg-quality="576i",Cine+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2gzMy90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1MjM2MiZzdD12bmp2elZKY2JtUndKMkFzY1l0UWpR&master=567
+
+#EXTINF:-1 tvg-id="CinePlusHit.ua" tvg-name="Cine+ Hit" group-title="Movies" tvg-language="ukr" tvg-quality="576i",Cine+ Hit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw%3D%3D&master=539
+
+#EXTINF:-1 tvg-id="CinePlusLegend.ua" tvg-name="Cine+ Legend" group-title="Movies" tvg-language="ukr" tvg-quality="576i",Cine+ Legend
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ%3D%3D&master=568
+
+#EXTINF:-1 tvg-id="EnterFilm.ua" tvg-name="Enter-Film" group-title="Movies" tvg-language="ukr" tvg-quality="1080p",Enter-Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/322/index.m3u8
+
+#EXTINF:-1 tvg-id="FilmUALive.ua" tvg-name="FilmUA Live" group-title="Movies" tvg-language="ukr" tvg-quality="576i",FilmUA Live
+https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmUADrama.ua" tvg-name="FilmUADrama" group-title="Movies;Series" tvg-language="rus;ukr" tvg-quality="1080p",FilmUADrama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.99.215.227/FilmUADrama/index.m3u8
+
+#EXTINF:-1 tvg-id="FilmUADrama.ua" tvg-name="FilmUADrama" group-title="Movies;Series" tvg-language="rus;ukr" tvg-quality="576i",FilmUADrama
+https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HollywoodUkraine.ua" tvg-name="Hollywood Ukraine" group-title="Movies" tvg-language="ukr" tvg-quality="576p",Hollywood Ukraine
+http://dtv.vol.net.ua/Hollywood-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinoliving.ua" tvg-name="Kinoliving" group-title="Movies" tvg-language="ukr" tvg-quality="1080p",Kinoliving
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/445/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinowood.ua" tvg-name="Kinowood" group-title="Movies" tvg-language="ukr" tvg-quality="1080p",Kinowood
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/446/index.m3u8
+
+#EXTINF:-1 tvg-id="NasheLubimoeKinoUkraine.ua" tvg-name="Nashe Lubimoe Kino Ukraine" group-title="Movies" tvg-language="rus;ukr" tvg-quality="1080p",Nashe Lubimoe Kino Ukraine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/456/index.m3u8
+
+#EXTINF:-1 tvg-id="Prokino.ua" tvg-name="Prokino" group-title="Movies" tvg-language="ukr" tvg-quality="360p",Prokino
+http://dtv.vol.net.ua/ProKino/index.m3u8
+

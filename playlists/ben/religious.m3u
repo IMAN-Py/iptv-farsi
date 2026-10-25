@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AzanTV.ca" tvg-name="Azan TV" group-title="Religious" tvg-language="ben" tvg-quality="480i",Azan TV
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+
+#EXTINF:-1 tvg-id="IqraBangla.uk" tvg-name="Iqra Bangla" group-title="Religious" tvg-language="ben" tvg-quality="576p",Iqra Bangla
+https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8
+
+#EXTINF:-1 tvg-id="JTBSClassic.in" tvg-name="JTBS Classic" group-title="Culture;Religious" tvg-language="ben;eng" tvg-quality="480p",JTBS Classic
+https://jtbsclassic.dpdns.org/live.m3u8
+
+#EXTINF:-1 tvg-id="MadaniChannelBangla.bd" tvg-name="Madani Channel Bangla" group-title="Religious" tvg-language="ben" tvg-quality="1080p",Madani Channel Bangla
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+
+#EXTINF:-1 tvg-id="MTA1World.uk" tvg-name="MTA1 World" group-title="Religious" tvg-language="ara;ben;deu;eng;fra;urd" tvg-quality="720p",MTA1 World
+https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA2Europe.uk" tvg-name="MTA2 Europe" group-title="Religious" tvg-language="ara;ben;deu;eng;fra;hin;urd" tvg-quality="720p",MTA2 Europe
+https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA6Asia.uk" tvg-name="MTA6 Asia" group-title="Religious" tvg-language="ara;ben;eng;ind;tam;urd" tvg-quality="1080p",MTA6 Asia
+https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA7Asia.uk" tvg-name="MTA7 Asia" group-title="Religious" tvg-language="ara;ben;eng;hin;mal;tam;urd" tvg-quality="1080p",MTA7 Asia
+https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-name="Peace TV Bangla" group-title="Religious" tvg-language="ben" tvg-quality="1080p",Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+
+#EXTINF:-1 tvg-id="ZBBhakti.in" tvg-name="ZB Bhakti" group-title="Religious" tvg-language="ben" tvg-quality="720p",ZB Bhakti
+https://server.zillarbarta.com/zbbhakti/index.m3u8
+

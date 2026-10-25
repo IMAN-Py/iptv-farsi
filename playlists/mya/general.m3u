@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MRTV.mm" tvg-name="MRTV" group-title="General" tvg-language="mya" tvg-quality="480i",MRTV
+https://mrtvott.com/cache/MRTV-HD/master.m3u8
+
+#EXTINF:-1 tvg-id="MWD.mm" tvg-name="MWD" group-title="General" tvg-language="mya" tvg-quality="720p",MWD
+http://203.81.84.130/hls/mwd/index.m3u8
+

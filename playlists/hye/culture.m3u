@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KIIOLD101.us" tvg-name="KIIO-LD 10.1" group-title="Culture" tvg-language="eng;hye" tvg-quality="720p",KIIO-LD 10.1
+http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
+
+#EXTINF:-1 tvg-id="KIIOLD104.us" tvg-name="KIIO-LD 10.4" group-title="Culture" tvg-language="eng;hye" tvg-quality="480p",KIIO-LD 10.4
+https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
+
+#EXTINF:-1 tvg-id="LuysTV.tr" tvg-name="Luys TV" group-title="Culture" tvg-language="hye;tur" tvg-quality="1080p",Luys TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+

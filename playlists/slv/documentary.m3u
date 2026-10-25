@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="H2HD.si" tvg-name="H2 HD" group-title="Documentary" tvg-language="slv" tvg-quality="576i",H2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/HistoryChannel2/index.m3u8
+
+#EXTINF:-1 tvg-id="History.si" tvg-name="History" group-title="Documentary" tvg-language="slv" tvg-quality="1080i",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/HistoryChannel/index.m3u8
+
+#EXTINF:-1 tvg-id="History.si" tvg-name="History" group-title="Documentary" tvg-language="slv" tvg-quality="1080p",History
+https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+
+#EXTINF:-1 tvg-id="ViasatExplore.si" tvg-name="Viasat Explore" group-title="Documentary" tvg-language="slv" tvg-quality="1080i",Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/ViasatExplore/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatHistory.si" tvg-name="Viasat History" group-title="Documentary" tvg-language="slv" tvg-quality="1080i",Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/ViasatHistory/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatNature.si" tvg-name="Viasat Nature" group-title="Documentary" tvg-language="slv" tvg-quality="576i",Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/ViasatNature/index.m3u8
+

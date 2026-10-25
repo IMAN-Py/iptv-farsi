@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2TV.lt" tvg-name="2TV" group-title="Music" tvg-language="lit" tvg-quality="1080p",2TV
+https://lnk5511.bstrm.net/live/687e3ff1679c8d4d68fab6c5/hd/manifest.mpd
+
+#EXTINF:-1 tvg-id="BalticumTV.lt" tvg-name="Balticum TV" group-title="Uncategorized" tvg-language="lit" tvg-quality="576p",Balticum TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/376/index.m3u8
+
+#EXTINF:-1 tvg-id="BTV.lt" tvg-name="BTV" group-title="Uncategorized" tvg-language="lit" tvg-quality="576p",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/35/index.m3u8
+
+#EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" group-title="Legislative" tvg-language="bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mlt;nld;pol;por;ron;slk;slv;spa;swe;ukr" tvg-quality="1080p",EbS
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8
+
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+
+#EXTINF:-1 tvg-id="Go3Sport1.ee" tvg-name="Go3 Sport 1" group-title="Sports" tvg-language="est;lav;lit" tvg-quality="1080p",Go3 Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/416/index.m3u8
+
+#EXTINF:-1 tvg-id="InfoTV.lt" tvg-name="Info TV" group-title="News" tvg-language="lit" tvg-quality="1080p",Info TV
+https://lnk5511.bstrm.net/live/687e3fd2679c8d4d68fab65b/hd/manifest.mpd
+
+#EXTINF:-1 tvg-id="KidZoneMax.ee" tvg-name="KidZone Max" group-title="Kids" tvg-language="eng;est;lav;lit;rus" tvg-quality="1080p",KidZone Max
+#EXTVLCOPT:http-referrer=https://kidzonemax.lt
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd
+
+#EXTINF:-1 tvg-id="LietuvosRytasTV.lt" tvg-name="Lietuvos Rytas TV" group-title="Entertainment" tvg-language="lit" tvg-quality="1080p",Lietuvos Rytas TV
+https://live.lietuvosryto.tv/live/hls/eteris.m3u8
+
+#EXTINF:-1 tvg-id="LNK.lt" tvg-name="LNK" group-title="General" tvg-language="lit" tvg-quality="1080p",LNK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/30/index.m3u8
+
+#EXTINF:-1 tvg-id="LRTKlasika.lt" tvg-name="LRT Klasika" group-title="Music" tvg-language="lit" tvg-quality="1080p",LRT Klasika
+https://stream-live.lrt.lt/klasika/master.m3u8
+
+#EXTINF:-1 tvg-id="LRTLituanica.lt" tvg-name="LRT Lituanica" group-title="General" tvg-language="lit" tvg-quality="1080p",LRT Lituanica
+https://stream-live.lrt.lt/lituanica/master.m3u8
+
+#EXTINF:-1 tvg-id="LRTOpus.lt" tvg-name="LRT Opus" group-title="Music" tvg-language="lit" tvg-quality="1080p",LRT Opus
+https://stream-live.lrt.lt/opus/master.m3u8
+
+#EXTINF:-1 tvg-id="LRTPlius.lt" tvg-name="LRT Plius" group-title="Culture;Sports" tvg-language="lit" tvg-quality="1080p",LRT Plius
+http://stream.mcquack.net/353/index.m3u8
+
+#EXTINF:-1 tvg-id="LRTPlius.lt" tvg-name="LRT Plius" group-title="Culture;Sports" tvg-language="lit" tvg-quality="1080p",LRT Plius
+https://stream-live.lrt.lt/plius/master.m3u8
+
+#EXTINF:-1 tvg-id="LRTRadijas.lt" tvg-name="LRT Radijas" group-title="News" tvg-language="lit" tvg-quality="1080p",LRT Radijas
+https://stream-live.lrt.lt/radijas/master.m3u8
+
+#EXTINF:-1 tvg-id="LRTTV.lt" tvg-name="LRT TV" group-title="General" tvg-language="lit" tvg-quality="1080p",LRT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/31/index.m3u8
+
+#EXTINF:-1 tvg-id="LRTTV.lt" tvg-name="LRT TV" group-title="General" tvg-language="lit" tvg-quality="1080p",LRT TV
+https://stream-syncwords.lrt.lt/out/v1/channel-group-lrt-portal-prod-01/channel-lrt-portal-prod-01/endpoint-lrt-portal-prod-01/index.m3u8
+
+#EXTINF:-1 tvg-id="M1.lt" tvg-name="M-1" group-title="Music" tvg-language="lit" tvg-quality="480p",M-1
+https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerHitRadio.lt" tvg-name="Power Hit Radio" group-title="Music" tvg-language="lit" tvg-quality="576p",Power Hit Radio
+https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8
+
+#EXTINF:-1 tvg-id="TV1.lt" tvg-name="TV1" group-title="Uncategorized" tvg-language="lit" tvg-quality="1080p",TV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+https://lnk5511.bstrm.net/live/687e3fa8679c8d4d68fab5dd/hd/manifest.mpd
+
+#EXTINF:-1 tvg-id="TV3.lt" tvg-name="TV3" group-title="Uncategorized" tvg-language="lit" tvg-quality="1080p",TV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/29/index.m3u8
+
+#EXTINF:-1 tvg-id="TV6.lt" tvg-name="TV6" group-title="Uncategorized" tvg-language="lit" tvg-quality="576p",TV6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/375/index.m3u8
+
+#EXTINF:-1 tvg-id="TV8.lt" tvg-name="TV8" group-title="Uncategorized" tvg-language="lit" tvg-quality="576p",TV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/374/index.m3u8
+

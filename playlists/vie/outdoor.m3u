@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" group-title="Outdoor" tvg-language="eng;vie" tvg-quality="1080p",Outdoor Channel
+https://freem3u.xyz/api/live/play.m3u8?vid=216
+

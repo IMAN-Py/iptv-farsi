@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HluttawSD.mm" tvg-name="Hluttaw S & D" group-title="Legislative" tvg-language="mya" tvg-quality="480i",Hluttaw S & D
+https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
+
+#EXTINF:-1 tvg-id="MRTV.mm" tvg-name="MRTV" group-title="General" tvg-language="mya" tvg-quality="480i",MRTV
+https://mrtvott.com/cache/MRTV-HD/master.m3u8
+
+#EXTINF:-1 tvg-id="MRTVEntertainment.mm" tvg-name="MRTV Entertainment" group-title="Entertainment" tvg-language="mya" tvg-quality="480i",MRTV Entertainment
+https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
+
+#EXTINF:-1 tvg-id="MRTVFarmer.mm" tvg-name="MRTV Farmer" group-title="Documentary;Lifestyle" tvg-language="mya" tvg-quality="480i",MRTV Farmer
+https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
+
+#EXTINF:-1 tvg-id="MRTVNews.mm" tvg-name="MRTV News" group-title="News" tvg-language="mya" tvg-quality="480i",MRTV News
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+
+#EXTINF:-1 tvg-id="MRTVNRC.mm" tvg-name="MRTV NRC" group-title="Culture" tvg-language="mya" tvg-quality="480i",MRTV NRC
+https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
+
+#EXTINF:-1 tvg-id="MRTVSports.mm" tvg-name="MRTV Sports" group-title="Sports" tvg-language="mya" tvg-quality="480i",MRTV Sports
+https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
+
+#EXTINF:-1 tvg-id="MWDDocumentary.mm" tvg-name="MWD Documentary" group-title="Documentary" tvg-language="mya" tvg-quality="480i",MWD Documentary
+http://203.81.84.130/hls/mwd_document/index.m3u8
+
+#EXTINF:-1 tvg-id="MWDMovies.mm" tvg-name="MWD Movies" group-title="Movies" tvg-language="mya" tvg-quality="480i",MWD Movies
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+

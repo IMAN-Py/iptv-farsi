@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EdenTV.bj" tvg-name="Eden TV" group-title="General" tvg-language="ayb;fon;fra" tvg-quality="540p",Eden TV
+https://rtmp.edentv.bj/hls/stream.m3u8
+

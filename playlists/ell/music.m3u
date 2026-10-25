@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BarazaTV.gr" tvg-name="Baraza TV" group-title="Music" tvg-language="ell" tvg-quality="1080p",Baraza TV
+https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BarazaTVDeepHouse.gr" tvg-name="Baraza TV Deep House" group-title="Music" tvg-language="ell" tvg-quality="720p",Baraza TV Deep House
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BarazaTVRelaxing.gr" tvg-name="Baraza TV Relaxing" group-title="Music" tvg-language="ell" tvg-quality="720p",Baraza TV Relaxing
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EllinikosFM.gr" tvg-name="Ellinikos FM" group-title="Music" tvg-language="ell" tvg-quality="720p",Ellinikos FM
+https://rtmp.win:3603/live/ellinikosfmlive.m3u8
+
+#EXTINF:-1 tvg-id="MessatidaTV.gr" tvg-name="Messatida TV" group-title="Music" tvg-language="ell" tvg-quality="720p",Messatida TV
+https://rtmp.streams.ovh:8081/mtv/index.m3u8
+
+#EXTINF:-1 tvg-id="NRG91.gr" tvg-name="NRG 91" group-title="Music" tvg-language="ell" tvg-quality="720p",NRG 91
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+
+#EXTINF:-1 tvg-id="PanikTV.gr" tvg-name="Panik TV" group-title="Music" tvg-language="ell" tvg-quality="1080p",Panik TV
+https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlayTV.gr" tvg-name="Play TV" group-title="Music" tvg-language="ell" tvg-quality="480p",Play TV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+

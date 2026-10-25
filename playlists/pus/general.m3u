@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PayameAfghanTV.us" tvg-name="Payam-e-Afghan TV" group-title="General" tvg-language="prd;pus" tvg-quality="480p",Payam-e-Afghan TV
+https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+
+#EXTINF:-1 tvg-id="SharqRadioTV.af" tvg-name="Sharq Radio TV" group-title="General" tvg-language="pus" tvg-quality="1080p",Sharq Radio TV
+https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ToloTV.af" tvg-name="Tolo TV" group-title="General" tvg-language="pus" tvg-quality="576i",Tolo TV
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ZarinTV.us" tvg-name="Zarin TV" group-title="General" tvg-language="ara;pus" tvg-quality="1080p",Zarin TV
+https://fl1002.bozztv.com/gf-zarintv/index.m3u8
+

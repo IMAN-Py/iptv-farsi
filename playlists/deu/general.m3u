@@ -1,0 +1,283 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" group-title="General" tvg-language="deu" tvg-quality="576i",3sat
+https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" group-title="General" tvg-language="deu" tvg-quality="720p",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+
+#EXTINF:-1 tvg-id="AllgauTV.de" tvg-name="Allgau TV" group-title="General" tvg-language="deu" tvg-quality="1080p",Allgau TV
+https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AltenburgTV.de" tvg-name="Altenburg TV" group-title="General" tvg-language="deu" tvg-quality="1080p",Altenburg TV
+https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AltenburgTV.de" tvg-name="Altenburg TV" group-title="General" tvg-language="deu" tvg-quality="576i",Altenburg TV
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/132661/132661_264_live.m3u8
+
+#EXTINF:-1 tvg-id="ATV.at" tvg-name="ATV" group-title="General" tvg-language="deu" tvg-quality="1080p",ATV
+http://212.186.45.34:9981/stream/channelid/692531719?profile=pass
+
+#EXTINF:-1 tvg-id="AugsburgTV.de" tvg-name="Augsburg TV" group-title="General" tvg-language="deu" tvg-quality="1080p",Augsburg TV
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AugsburgTV.de" tvg-name="Augsburg TV" group-title="General" tvg-language="deu" tvg-quality="1080p",Augsburg TV
+https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BadenTV.de" tvg-name="Baden TV" group-title="General" tvg-language="deu" tvg-quality="1080p",Baden TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+
+#EXTINF:-1 tvg-id="BadenTV.de" tvg-name="Baden TV" group-title="General" tvg-language="deu" tvg-quality="1080p",Baden TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BadenTV.de" tvg-name="Baden TV" group-title="General" tvg-language="deu" tvg-quality="1080p",Baden TV
+https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste" group-title="General" tvg-language="deu" tvg-quality="1080p",Das Erste
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste" group-title="General" tvg-language="deu" tvg-quality="1080p",Das Erste
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+
+#EXTINF:-1 tvg-id="ErzTVStollberg.de" tvg-name="Erz-TV Stollberg" group-title="General" tvg-language="deu" tvg-quality="576p",Erz-TV Stollberg
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Filstalwelle.de" tvg-name="Filstalwelle" group-title="General" tvg-language="deu" tvg-quality="1080p",Filstalwelle
+https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FrankenFernsehen.de" tvg-name="Franken Fernsehen" group-title="General" tvg-language="deu" tvg-quality="1080p",Franken Fernsehen
+https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FS1Salzburg.at" tvg-name="FS1 Salzburg" group-title="General" tvg-language="deu" tvg-quality="720p",FS1 Salzburg
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+
+#EXTINF:-1 tvg-id="FS1Salzburg.at" tvg-name="FS1 Salzburg" group-title="General" tvg-language="deu" tvg-quality="720p",FS1 Salzburg
+https://stream.fs1.tv/hls/webstream.m3u8
+
+#EXTINF:-1 tvg-id="hrfernsehen.de" tvg-name="hr-fernsehen" group-title="General" tvg-language="deu" tvg-quality="1080i",hr-fernsehen
+https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hrfernsehen.de" tvg-name="hr-fernsehen" group-title="General" tvg-language="deu" tvg-quality="1080p",hr-fernsehen
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+
+#EXTINF:-1 tvg-id="Kanal12SprembergTV.de" tvg-name="Kanal12 Spremberg TV" group-title="General" tvg-language="deu" tvg-quality="404p",Kanal12 Spremberg TV
+https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LandleTV.at" tvg-name="Landle TV" group-title="General" tvg-language="deu" tvg-quality="1080p",Landle TV
+https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
+
+#EXTINF:-1 tvg-id="MDF1.de" tvg-name="MDF.1" group-title="General" tvg-language="deu" tvg-quality="1080p",MDF.1
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MDRFernsehen.de" tvg-name="MDR Fernsehen" group-title="General" tvg-language="deu" tvg-quality="576i",MDR Fernsehen
+https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MDRFernsehen.de" tvg-name="MDR Fernsehen" group-title="General" tvg-language="deu" tvg-quality="1080p",MDR Fernsehen
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
+
+#EXTINF:-1 tvg-id="MDRFernsehen.de" tvg-name="MDR Fernsehen" group-title="General" tvg-language="deu" tvg-quality="1080p",MDR Fernsehen
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
+
+#EXTINF:-1 tvg-id="MDRFernsehen.de" tvg-name="MDR Fernsehen" group-title="General" tvg-language="deu" tvg-quality="1080p",MDR Fernsehen
+https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
+
+#EXTINF:-1 tvg-id="MunchenTV.de" tvg-name="Munchen TV" group-title="General" tvg-language="deu" tvg-quality="1080p",Munchen TV
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv" group-title="General" tvg-language="deu" tvg-quality="576i",n-tv
+https://dash4.antik.sk/live/test_ntv_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBC1.na" tvg-name="NBC 1" group-title="General" tvg-language="afr;deu;eng" tvg-quality="576i",NBC 1
+https://hls2.nbcplus.na/hls/high_nbc1.m3u8
+
+#EXTINF:-1 tvg-id="NDRFernsehen.de" tvg-name="NDR Fernsehen" group-title="General" tvg-language="deu" tvg-quality="720p",NDR Fernsehen
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+
+#EXTINF:-1 tvg-id="NDRFernsehen.de" tvg-name="NDR Fernsehen" group-title="General" tvg-language="deu" tvg-quality="720p",NDR Fernsehen
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+
+#EXTINF:-1 tvg-id="NDRFernsehen.de" tvg-name="NDR Fernsehen" group-title="General" tvg-language="deu" tvg-quality="720p",NDR Fernsehen
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+
+#EXTINF:-1 tvg-id="NDRFernsehen.de" tvg-name="NDR Fernsehen" group-title="General" tvg-language="deu" tvg-quality="720p",NDR Fernsehen
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+
+#EXTINF:-1 tvg-id="NDRFernsehenInternational.de" tvg-name="NDR Fernsehen International" group-title="General" tvg-language="deu" tvg-quality="576i",NDR Fernsehen International
+https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NDRFernsehenInternational.de" tvg-name="NDR Fernsehen International" group-title="General" tvg-language="deu" tvg-quality="720p",NDR Fernsehen International
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+
+#EXTINF:-1 tvg-id="NiederbayernTV.de" tvg-name="Niederbayern TV" group-title="General" tvg-language="deu" tvg-quality="720p",Niederbayern TV
+https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
+
+#EXTINF:-1 tvg-id="NiederbayernTVDeggendorfStraubing.de" tvg-name="Niederbayern TV Deggendorf & Straubing" group-title="General" tvg-language="deu" tvg-quality="1080p",Niederbayern TV Deggendorf & Straubing
+https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
+
+#EXTINF:-1 tvg-id="NiederbayernTVLandshut.de" tvg-name="Niederbayern TV Landshut" group-title="General" tvg-language="deu" tvg-quality="1080p",Niederbayern TV Landshut
+https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NiederbayernTVLandshut.de" tvg-name="Niederbayern TV Landshut" group-title="General" tvg-language="deu" tvg-quality="1080p",Niederbayern TV Landshut
+https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8
+
+#EXTINF:-1 tvg-id="NiederbayernTVPassau.de" tvg-name="Niederbayern TV Passau" group-title="General" tvg-language="deu" tvg-quality="1080p",Niederbayern TV Passau
+https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8
+
+#EXTINF:-1 tvg-id="noa4Hamburg.de" tvg-name="noa4 Hamburg" group-title="General" tvg-language="deu" tvg-quality="1080p",noa4 Hamburg
+https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+
+#EXTINF:-1 tvg-id="noa4Norderstedt.de" tvg-name="noa4 Norderstedt" group-title="General" tvg-language="deu" tvg-quality="1080p",noa4 Norderstedt
+https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+
+#EXTINF:-1 tvg-id="OberpfalzTV.de" tvg-name="Oberpfalz TV" group-title="General" tvg-language="deu" tvg-quality="1080p",Oberpfalz TV
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OFTVOffenbach.de" tvg-name="OF-TV Offenbach" group-title="General" tvg-language="deu" tvg-quality="720p",OF-TV Offenbach
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OFTVOffenbach.de" tvg-name="OF-TV Offenbach" group-title="General" tvg-language="deu" tvg-quality="720p",OF-TV Offenbach
+https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OKDessau.de" tvg-name="OK Dessau" group-title="General" tvg-language="deu" tvg-quality="1080p",OK Dessau
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OKDessau.de" tvg-name="OK Dessau" group-title="General" tvg-language="deu" tvg-quality="1080p",OK Dessau
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OKDessau.de" tvg-name="OK Dessau" group-title="General" tvg-language="deu" tvg-quality="1080p",OK Dessau
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-dessau_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OKFlensburg.de" tvg-name="OK Flensburg" group-title="General" tvg-language="deu" tvg-quality="576p",OK Flensburg
+https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
+
+#EXTINF:-1 tvg-id="OKKaiserslautern.de" tvg-name="OK Kaiserslautern" group-title="General" tvg-language="deu" tvg-quality="720p",OK Kaiserslautern
+https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OKKassel.de" tvg-name="OK Kassel" group-title="General" tvg-language="deu" tvg-quality="720p",OK Kassel
+https://s.ok54.de/mok-ks/kassel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OKKiel.de" tvg-name="OK Kiel" group-title="General" tvg-language="deu" tvg-quality="576p",OK Kiel
+https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
+
+#EXTINF:-1 tvg-id="OKMagdeburg.de" tvg-name="OK Magdeburg" group-title="General" tvg-language="deu" tvg-quality="1080p",OK Magdeburg
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OKMagdeburg.de" tvg-name="OK Magdeburg" group-title="General" tvg-language="deu" tvg-quality="1080p",OK Magdeburg
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-magdeburg_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OKMerseburgQuerfurt.de" tvg-name="OK Merseburg-Querfurt" group-title="General" tvg-language="deu" tvg-quality="1080p",OK Merseburg-Querfurt
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OKMerseburgQuerfurt.de" tvg-name="OK Merseburg-Querfurt" group-title="General" tvg-language="deu" tvg-quality="1080p",OK Merseburg-Querfurt
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-merseburg_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OKRheinMain.de" tvg-name="OK Rhein-Main" group-title="General" tvg-language="deu" tvg-quality="576p",OK Rhein-Main
+https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OKSalzwedel.de" tvg-name="OK Salzwedel" group-title="General" tvg-language="deu" tvg-quality="1080p",OK Salzwedel
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OKSalzwedel.de" tvg-name="OK Salzwedel" group-title="General" tvg-language="deu" tvg-quality="1080p",OK Salzwedel
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OKSalzwedel.de" tvg-name="OK Salzwedel" group-title="General" tvg-language="deu" tvg-quality="1080p",OK Salzwedel
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-salzwedel_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OKStendal.de" tvg-name="OK Stendal" group-title="General" tvg-language="deu" tvg-quality="1080p",OK Stendal
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OKStendal.de" tvg-name="OK Stendal" group-title="General" tvg-language="deu" tvg-quality="1080p",OK Stendal
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OKTrier.de" tvg-name="OK Trier" group-title="General" tvg-language="deu" tvg-quality="720p",OK Trier
+https://s.ok54.de/ott/webstream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OKWeinstrasseNeustadt.de" tvg-name="OK Weinstrasse Neustadt" group-title="General" tvg-language="deu" tvg-quality="432p",OK Weinstrasse Neustadt
+https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OKWernigerode.de" tvg-name="OK Wernigerode" group-title="General" tvg-language="deu" tvg-quality="1080p",OK Wernigerode
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OKWernigerode.de" tvg-name="OK Wernigerode" group-title="General" tvg-language="deu" tvg-quality="1080p",OK Wernigerode
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OKTVLudwigshafen.de" tvg-name="OK-TV Ludwigshafen" group-title="General" tvg-language="deu" tvg-quality="720p",OK-TV Ludwigshafen
+https://s.ok54.de/oklu/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OK4.de" tvg-name="OK4" group-title="General" tvg-language="deu" tvg-quality="720p",OK4
+https://s.ok54.de/abr_ok4/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OK54.de" tvg-name="OK54" group-title="General" tvg-language="deu" tvg-quality="720p",OK54
+https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Okto.at" tvg-name="Okto" group-title="General" tvg-language="deu" tvg-quality="1080p",Okto
+https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1" group-title="General" tvg-language="deu" tvg-quality="576i",ORF 1
+https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
+
+#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" group-title="General" tvg-language="deu" tvg-quality="720p",ORF 2
+http://88.212.15.17/live/test_orf_zwei_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="P3tv.at" tvg-name="P3tv" group-title="General" tvg-language="deu" tvg-quality="720p",P3tv
+http://p3-6.mov.at:1935/live/weekstream/master.m3u8
+
+#EXTINF:-1 tvg-id="RFH.de" tvg-name="RFH" group-title="General" tvg-language="deu" tvg-quality="1080p",RFH
+http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RFH.de" tvg-name="RFH" group-title="General" tvg-language="deu" tvg-quality="1080p",RFH
+https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8
+
+#EXTINF:-1 tvg-id="RFO.de" tvg-name="RFO" group-title="General" tvg-language="deu" tvg-quality="1080p",RFO
+https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTLZwee.lu" tvg-name="RTL Zwee" group-title="General" tvg-language="deu;fra;ltz" tvg-quality="1080p",RTL Zwee
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SRF.de" tvg-name="SRF" group-title="General" tvg-language="deu" tvg-quality="1080p",SRF
+https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SteiermarkTV.at" tvg-name="Steiermark TV" group-title="General" tvg-language="deu" tvg-quality="1080p",Steiermark TV
+https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
+
+#EXTINF:-1 tvg-id="TVOberfranken.de" tvg-name="TV Oberfranken" group-title="General" tvg-language="deu" tvg-quality="1080p",TV Oberfranken
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen" group-title="General" tvg-language="deu" tvg-quality="576i",WDR Fernsehen
+https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen" group-title="General" tvg-language="deu" tvg-quality="720p",WDR Fernsehen
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen" group-title="General" tvg-language="deu" tvg-quality="720p",WDR Fernsehen
+https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen" group-title="General" tvg-language="deu" tvg-quality="720p",WDR Fernsehen
+https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen" group-title="General" tvg-language="deu" tvg-quality="720p",WDR Fernsehen
+https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen" group-title="General" tvg-language="deu" tvg-quality="720p",WDR Fernsehen
+https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen" group-title="General" tvg-language="deu" tvg-quality="720p",WDR Fernsehen
+https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen" group-title="General" tvg-language="deu" tvg-quality="720p",WDR Fernsehen
+https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen" group-title="General" tvg-language="deu" tvg-quality="720p",WDR Fernsehen
+https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen" group-title="General" tvg-language="deu" tvg-quality="720p",WDR Fernsehen
+https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen" group-title="General" tvg-language="deu" tvg-quality="720p",WDR Fernsehen
+https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen" group-title="General" tvg-language="deu" tvg-quality="720p",WDR Fernsehen
+https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
+
+#EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen" group-title="General" tvg-language="deu" tvg-quality="720p",WDR Fernsehen
+https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
+

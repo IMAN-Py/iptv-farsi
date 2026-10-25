@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TV2Comedy.hu" tvg-name="TV2 Comedy" group-title="Comedy" tvg-language="hun" tvg-quality="576i",TV2 Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/tv2_comedy/index.m3u8
+

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="InfoTV.lt" tvg-name="Info TV" group-title="News" tvg-language="lit" tvg-quality="1080p",Info TV
+https://lnk5511.bstrm.net/live/687e3fd2679c8d4d68fab65b/hd/manifest.mpd
+
+#EXTINF:-1 tvg-id="LRTRadijas.lt" tvg-name="LRT Radijas" group-title="News" tvg-language="lit" tvg-quality="1080p",LRT Radijas
+https://stream-live.lrt.lt/radijas/master.m3u8
+

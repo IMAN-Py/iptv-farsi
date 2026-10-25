@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlephBusiness.ro" tvg-name="Aleph Business" group-title="Business" tvg-language="ron" tvg-quality="1280p",Aleph Business
+https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JOBTV.ro" tvg-name="JOB TV" group-title="Business" tvg-language="ron" tvg-quality="1080p",JOB TV
+https://jobtvserver.eu/hls/stream.m3u8
+

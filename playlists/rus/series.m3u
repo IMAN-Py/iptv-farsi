@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="5minuttishiny.ru" tvg-name="5 minut tishiny" group-title="Series" tvg-language="rus" tvg-quality="1080p",5 minut tishiny
+https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
+
+#EXTINF:-1 tvg-id="A2.ru" tvg-name="A2" group-title="Series" tvg-language="rus" tvg-quality="576p",A2
+http://31.148.48.15/A2/index.m3u8
+
+#EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" group-title="Movies;Series" tvg-language="rus" tvg-quality="720p",Amedia Hit
+http://31.148.48.15/Amedia_HIT_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" group-title="Movies;Series" tvg-language="rus" tvg-quality="576p",Amedia Hit
+http://flussonic.linkintel.ru/amedia-hit/index.m3u8
+
+#EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" group-title="Movies;Series" tvg-language="rus" tvg-quality="1080p",Amedia Hit
+http://stream.mcquack.net/162/index.m3u8
+
+#EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-name="Amedia Premium" group-title="Movies;Series" tvg-language="rus" tvg-quality="720p",Amedia Premium
+http://31.148.48.15/Amedia_Premium_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Balabol.ru" tvg-name="Balabol" group-title="Series" tvg-language="rus" tvg-quality="1080p",Balabol
+https://cdn-dvr.ntv.ru/Balabol/index.m3u8
+
+#EXTINF:-1 tvg-id="Bolt.ru" tvg-name="Bolt" group-title="Movies;Series" tvg-language="rus" tvg-quality="576p",Bolt
+http://hls127.freeott.top:8080/Bolt/video.m3u8
+
+#EXTINF:-1 tvg-id="CityEdenKinoDok.ru" tvg-name="City Eden KinoDok" group-title="Documentary;Series" tvg-language="rus" tvg-quality="1080p",City Eden KinoDok
+https://cityeden.catcast.tv/content/38354/index.m3u8
+
+#EXTINF:-1 tvg-id="CityEdenTeleNovella.ru" tvg-name="City Eden TeleNovella" group-title="Series" tvg-language="rus" tvg-quality="1080p",City Eden TeleNovella
+https://cityeden.catcast.tv/content/46209/index.m3u8
+
+#EXTINF:-1 tvg-id="FilmUADrama.ua" tvg-name="FilmUADrama" group-title="Movies;Series" tvg-language="rus;ukr" tvg-quality="1080p",FilmUADrama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.99.215.227/FilmUADrama/index.m3u8
+
+#EXTINF:-1 tvg-id="FilmUADrama.ua" tvg-name="FilmUADrama" group-title="Movies;Series" tvg-language="rus;ukr" tvg-quality="576i",FilmUADrama
+https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxLife.ru" tvg-name="Fox Life" group-title="Series" tvg-language="rus" tvg-quality="576p",Fox Life
+http://stream.mcquack.net/129/index.m3u8
+
+#EXTINF:-1 tvg-id="MirSeriala.ru" tvg-name="Mir Seriala" group-title="Series" tvg-language="rus" tvg-quality="576p",Mir Seriala
+http://176.118.197.101/MirSeriala/index.m3u8
+
+#EXTINF:-1 tvg-id="MirSeriala.ru" tvg-name="Mir Seriala" group-title="Series" tvg-language="rus" tvg-quality="576p",Mir Seriala
+http://31.148.48.15/Mir_Seriala/index.m3u8
+
+#EXTINF:-1 tvg-id="Nashe.ru" tvg-name="Nashe" group-title="Movies;Series" tvg-language="rus" tvg-quality="576p",Nashe
+http://stream.mcquack.net/217/index.m3u8
+
+#EXTINF:-1 tvg-id="Nevskiy.ru" tvg-name="Nevskiy" group-title="Series" tvg-language="rus" tvg-quality="1080p",Nevskiy
+https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVSeries.ru" tvg-name="NTV Series" group-title="Series" tvg-language="rus" tvg-quality="576p",NTV Series
+http://stream.mcquack.net/301/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVSeries.ru" tvg-name="NTV Series" group-title="Series" tvg-language="rus" tvg-quality="576p",NTV Series
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTVHit.ru" tvg-name="NTV-Hit" group-title="Series" tvg-language="rus" tvg-quality="576p",NTV-Hit
+http://178.134.1.158:8081/ntvhit/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVHit.ru" tvg-name="NTV-Hit" group-title="Series" tvg-language="rus" tvg-quality="576p",NTV-Hit
+https://cdn.ntv.ru/th_hit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Perviyotdel.ru" tvg-name="Perviy otdel" group-title="Series" tvg-language="rus" tvg-quality="1080p",Perviy otdel
+https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
+
+#EXTINF:-1 tvg-id="Pes.ru" tvg-name="Pes" group-title="Series" tvg-language="rus" tvg-quality="1080p",Pes
+https://cdn-dvr.ntv.ru/Pes/index.m3u8
+
+#EXTINF:-1 tvg-id="Saphire.ru" tvg-name="Saphire" group-title="Series" tvg-language="rus" tvg-quality="576p",Saphire
+http://31.148.48.15/Sapfir/index.m3u8
+
+#EXTINF:-1 tvg-id="Saphire.ru" tvg-name="Saphire" group-title="Series" tvg-language="rus" tvg-quality="720p",Saphire
+http://31.148.48.15/Sapfir_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Saphire.ru" tvg-name="Saphire" group-title="Series" tvg-language="rus" tvg-quality="1080p",Saphire
+http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Saphire.ru" tvg-name="Saphire" group-title="Series" tvg-language="rus" tvg-quality="1080p",Saphire
+http://77.232.131.211/Sapfir/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Shef.ru" tvg-name="Shef" group-title="Series" tvg-language="rus" tvg-quality="1080p",Shef
+https://cdn-dvr.ntv.ru/Shef/index.m3u8
+
+#EXTINF:-1 tvg-id="Skorayapomoshch.ru" tvg-name="Skoraya pomoshch" group-title="Series" tvg-language="rus" tvg-quality="1080p",Skoraya pomoshch
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
+
+#EXTINF:-1 tvg-id="Smotrim100Lyubov.ru" tvg-name="Smotrim 100% Lyubov" group-title="Series" tvg-language="rus" tvg-quality="576i",Smotrim 100% Lyubov
+https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
+
+#EXTINF:-1 tvg-id="Smotrim100Lyubov.ru" tvg-name="Smotrim 100% Lyubov" group-title="Series" tvg-language="rus" tvg-quality="720p",Smotrim 100% Lyubov
+https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
+
+#EXTINF:-1 tvg-id="Smotrim100Muzhskoe.ru" tvg-name="Smotrim 100% Muzhskoe" group-title="Series" tvg-language="rus" tvg-quality="576i",Smotrim 100% Muzhskoe
+https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
+
+#EXTINF:-1 tvg-id="Smotrim100Muzhskoe.ru" tvg-name="Smotrim 100% Muzhskoe" group-title="Series" tvg-language="rus" tvg-quality="720p",Smotrim 100% Muzhskoe
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru" tvg-name="Smotrim Chestnyy Detektiv" group-title="Series" tvg-language="rus" tvg-quality="1080p",Smotrim Chestnyy Detektiv
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRUSPlus.de" tvg-name="TVRUS+" group-title="Series" tvg-language="rus" tvg-quality="1080p",TVRUS+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://83.228.75.166:8000/play/a0aq
+
+#EXTINF:-1 tvg-id="VelvetMentovskiyeSerialy.ru" tvg-name="Velvet. Mentovskiye Serialy" group-title="Series" tvg-language="rus" tvg-quality="1080p",Velvet. Mentovskiye Serialy
+https://cdn.rostelekom-tv.xyz/live/tWQ0ge9rspBQhRst.m3u8
+
+#EXTINF:-1 tvg-id="VelvetSeriesHits.ru" tvg-name="Velvet. Series Hits" group-title="Comedy;Family;Series" tvg-language="rus" tvg-quality="1080p",Velvet. Series Hits
+https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
+
+#EXTINF:-1 tvg-id="VelvetSvaty.ru" tvg-name="Velvet. Svaty" group-title="Family;Series" tvg-language="rus" tvg-quality="1080p",Velvet. Svaty
+https://cdn.rostelekom-tv.xyz/live/HSxyMqDlSVR54UTN.m3u8
+
+#EXTINF:-1 tvg-id="VelvetWorldSeries.ru" tvg-name="Velvet. World Series" group-title="Comedy;Family;Series" tvg-language="rus" tvg-quality="1080p",Velvet. World Series
+https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8
+
+#EXTINF:-1 tvg-id="ViasatEpicDrama.uk" tvg-name="Viasat Epic Drama" group-title="Series" tvg-language="rus" tvg-quality="576p",Viasat Epic Drama
+http://195.189.60.253/118/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatSerial.ua" tvg-name="Viasat Serial" group-title="Movies;Series" tvg-language="rus" tvg-quality="1080p",Viasat Serial
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599
+
+#EXTINF:-1 tvg-id="vijuTV1000romantica.ru" tvg-name="viju TV1000 romantica" group-title="Series" tvg-language="rus" tvg-quality="1080p",viju TV1000 romantica
+http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuPlusSerial.ru" tvg-name="viju+ Serial" group-title="Series" tvg-language="rus" tvg-quality="1080p",viju+ Serial
+http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuPlusSerial.ru" tvg-name="viju+ Serial" group-title="Series" tvg-language="rus" tvg-quality="1080p",viju+ Serial
+http://stream.mcquack.net/311/index.m3u8
+

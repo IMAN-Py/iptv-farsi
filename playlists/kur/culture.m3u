@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JinTV.nl" tvg-name="Jin TV" group-title="Culture" tvg-language="kur" tvg-quality="576i",Jin TV
+https://live.jintv.org/medialive/jintv.m3u8
+
+#EXTINF:-1 tvg-id="KomalaTV.se" tvg-name="Komala TV" group-title="Culture" tvg-language="kur" tvg-quality="576i",Komala TV
+https://komhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="SercemTV.tr" tvg-name="Sercem TV" group-title="Culture;General;Religious" tvg-language="kur;tur;zza" tvg-quality="1080p",Sercem TV
+https://canli.sercemtv.com.tr/hls/0/stream.m3u8
+

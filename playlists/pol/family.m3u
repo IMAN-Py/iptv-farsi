@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ActiveFamily.pl" tvg-name="Active Family" group-title="Family" tvg-language="pol" tvg-quality="1080i",Active Family
+http://92.114.85.87:8010/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-id="CANALPlus360.pl" tvg-name="CANAL+ 360" group-title="Family" tvg-language="pol" tvg-quality="576i",CANAL+ 360
+http://92.114.85.87:8019/play/a003/index.m3u8
+

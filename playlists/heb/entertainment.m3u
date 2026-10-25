@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RealityChannel.il" tvg-name="Reality Channel" group-title="Entertainment" tvg-language="heb" tvg-quality="576i",Reality Channel
+https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8
+
+#EXTINF:-1 tvg-id="VacationChannel.il" tvg-name="Vacation Channel" group-title="Entertainment" tvg-language="heb" tvg-quality="576i",Vacation Channel
+https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8
+

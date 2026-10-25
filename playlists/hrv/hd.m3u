@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CMCTV.hr" tvg-name="CMC TV" group-title="Music" tvg-language="hrv" tvg-quality="1080p",CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+
+#EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" group-title="Legislative" tvg-language="bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mlt;nld;pol;por;ron;slk;slv;spa;swe;ukr" tvg-quality="1080p",EbS
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8
+
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+
+#EXTINF:-1 tvg-id="HRT1.hr" tvg-name="HRT 1" group-title="General" tvg-language="hrv" tvg-quality="1080p",HRT 1
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
+
+#EXTINF:-1 tvg-id="HRT1.hr" tvg-name="HRT 1" group-title="General" tvg-language="hrv" tvg-quality="720p",HRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt1.m3u8
+
+#EXTINF:-1 tvg-id="HRT2.hr" tvg-name="HRT 2" group-title="General" tvg-language="hrv" tvg-quality="1080p",HRT 2
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
+
+#EXTINF:-1 tvg-id="HRT2.hr" tvg-name="HRT 2" group-title="General" tvg-language="hrv" tvg-quality="720p",HRT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt2.m3u8
+
+#EXTINF:-1 tvg-id="HRT3.hr" tvg-name="HRT 3" group-title="Culture;Documentary" tvg-language="hrv" tvg-quality="720p",HRT 3
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
+
+#EXTINF:-1 tvg-id="HRT3.hr" tvg-name="HRT 3" group-title="Culture;Documentary" tvg-language="hrv" tvg-quality="720p",HRT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
+
+#EXTINF:-1 tvg-id="HRT4.hr" tvg-name="HRT 4" group-title="News" tvg-language="hrv" tvg-quality="720p",HRT 4
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
+
+#EXTINF:-1 tvg-id="KlapeiTambureTV.hr" tvg-name="Klape i Tambure TV" group-title="Music" tvg-language="hrv" tvg-quality="1080p",Klape i Tambure TV
+https://stream.cmctv.hr:49998/kit/live.m3u8
+
+#EXTINF:-1 tvg-id="LibertasTV.hr" tvg-name="Libertas TV" group-title="General" tvg-language="hrv" tvg-quality="1080p",Libertas TV
+https://stream.luci.xyz/hls/LTV.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.hr" tvg-name="National Geographic" group-title="Documentary" tvg-language="hrv" tvg-quality="1080p",National Geographic
+http://176.61.157.250/NationalGeographic/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.hr" tvg-name="Nickelodeon" group-title="Kids" tvg-language="hrv" tvg-quality="1080p",Nickelodeon
+http://176.61.157.250/Nickelodeon/index.m3u8
+
+#EXTINF:-1 tvg-id="NovaTV.hr" tvg-name="Nova TV" group-title="General" tvg-language="hrv" tvg-quality="1080p",Nova TV
+http://176.61.157.250/NovaTV/index.m3u8
+
+#EXTINF:-1 tvg-id="OTV.hr" tvg-name="OTV" group-title="News" tvg-language="hrv" tvg-quality="720p",OTV
+https://stream.agatin.hr:3559/live/otvlive.m3u8
+
+#EXTINF:-1 tvg-id="RadioTelevizijaBanovina.hr" tvg-name="Radio Televizija Banovina" group-title="Uncategorized" tvg-language="hrv" tvg-quality="1080p",Radio Televizija Banovina
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
+
+#EXTINF:-1 tvg-id="SBTV.hr" tvg-name="SBTV" group-title="General" tvg-language="hrv" tvg-quality="1080p",SBTV
+https://live.leveex.hr/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="ShiftTV.hr" tvg-name="Shift TV" group-title="Auto" tvg-language="hrv" tvg-quality="1080p",Shift TV
+https://hls.shift.tv/live/shifttv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="STV.hr" tvg-name="STV" group-title="General" tvg-language="hrv" tvg-quality="720p",STV
+http://89.201.163.244:8080/hls/hdmi.m3u8
+
+#EXTINF:-1 tvg-id="TVJadran.hr" tvg-name="TV Jadran" group-title="News" tvg-language="hrv" tvg-quality="720p",TV Jadran
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+
+#EXTINF:-1 tvg-id="TVNova.hr" tvg-name="TV Nova" group-title="Entertainment" tvg-language="hrv" tvg-quality="720p",TV Nova
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+
+#EXTINF:-1 tvg-id="TVZapad.hr" tvg-name="TV Zapad" group-title="General" tvg-language="hrv" tvg-quality="1080p",TV Zapad
+http://85.94.67.158/TVZAPAD/index.fmp4.m3u8
+

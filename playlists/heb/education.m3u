@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KanEducational.il" tvg-name="Kan Educational" group-title="Education" tvg-language="heb" tvg-quality="720p",Kan Educational
+http://stream.mcquack.net/378/index.m3u8
+

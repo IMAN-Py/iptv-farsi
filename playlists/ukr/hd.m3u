@@ -1,0 +1,444 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1Plus1International.ua" tvg-name="1+1 International" group-title="General" tvg-language="ukr" tvg-quality="720p",1+1 International
+https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1Plus1Marafon.ua" tvg-name="1+1 Marafon" group-title="General" tvg-language="ukr" tvg-quality="1080p",1+1 Marafon
+https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1Plus1Ukraina.ua" tvg-name="1+1 Ukraina" group-title="General" tvg-language="ukr" tvg-quality="1080p",1+1 Ukraina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://stream.mcquack.net/219/index.m3u8
+
+#EXTINF:-1 tvg-id="2Plus2.ua" tvg-name="2+2" group-title="General" tvg-language="ukr" tvg-quality="1080p",2+2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/173/index.m3u8
+
+#EXTINF:-1 tvg-id="24Kanal.ua" tvg-name="24 Kanal" group-title="News" tvg-language="ukr" tvg-quality="720p",24 Kanal
+https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4everCinema.ua" tvg-name="4ever Cinema" group-title="Movies" tvg-language="ukr" tvg-quality="1080p",4ever Cinema
+http://stream.mcquack.net/258/index.m3u8
+
+#EXTINF:-1 tvg-id="4everDrama.ua" tvg-name="4ever Drama" group-title="Series" tvg-language="ukr" tvg-quality="1080p",4ever Drama
+http://stream.mcquack.net/260/index.m3u8
+
+#EXTINF:-1 tvg-id="4everMusic.ua" tvg-name="4ever Music" group-title="Music" tvg-language="ukr" tvg-quality="1080p",4ever Music
+http://stream.mcquack.net/257/index.m3u8
+
+#EXTINF:-1 tvg-id="4everTheater.ua" tvg-name="4ever Theater" group-title="Entertainment" tvg-language="ukr" tvg-quality="1080p",4ever Theater
+http://stream.mcquack.net/259/index.m3u8
+
+#EXTINF:-1 tvg-id="6sotok.ua" tvg-name="6 sotok" group-title="General" tvg-language="ukr" tvg-quality="1080p",6 sotok
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/405/index.m3u8
+
+#EXTINF:-1 tvg-id="6TVGorlovka.ru" tvg-name="6 TV Gorlovka" group-title="General" tvg-language="rus;ukr" tvg-quality="720p",6 TV Gorlovka
+http://91.214.48.158:4022/udp/224.2.2.4:10000
+
+#EXTINF:-1 tvg-id="ApostropheTV.ua" tvg-name="Apostrophe TV" group-title="News" tvg-language="ukr" tvg-quality="1080p",Apostrophe TV
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
+
+#EXTINF:-1 tvg-id="ArmyTV.ua" tvg-name="Army TV" group-title="News" tvg-language="ukr" tvg-quality="1080p",Army TV
+https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
+
+#EXTINF:-1 tvg-id="ATR.ua" tvg-name="ATR" group-title="Culture" tvg-language="rus;ukr" tvg-quality="1080p",ATR
+http://stream.mcquack.net/244/index.m3u8
+
+#EXTINF:-1 tvg-id="ATR.ua" tvg-name="ATR" group-title="Culture" tvg-language="rus;ukr" tvg-quality="720p",ATR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="BaltaTV.ua" tvg-name="Balta TV" group-title="General" tvg-language="ukr" tvg-quality="768p",Balta TV
+http://194.50.51.34/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BamBarBiaTV.ua" tvg-name="BamBarBia.TV" group-title="Travel" tvg-language="ukr" tvg-quality="720p",BamBarBia.TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Black.ua" tvg-name="Black" group-title="Music" tvg-language="ukr" tvg-quality="1080p",Black
+http://stream.mcquack.net/283/index.m3u8
+
+#EXTINF:-1 tvg-id="Bolt.ua" tvg-name="Bolt" group-title="Movies;Series" tvg-language="ukr" tvg-quality="1080p",Bolt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/73/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel11.ua" tvg-name="Channel 11" group-title="General" tvg-language="ukr" tvg-quality="720p",Channel 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel24.ua" tvg-name="Channel 24" group-title="News" tvg-language="ukr" tvg-quality="1080p",Channel 24
+https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel5.ua" tvg-name="Channel 5" group-title="News" tvg-language="ukr" tvg-quality="1080p",Channel 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/291/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel5.ua" tvg-name="Channel 5" group-title="News" tvg-language="ukr" tvg-quality="1080p",Channel 5
+https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+
+#EXTINF:-1 tvg-id="Channel7Ukraine.ua" tvg-name="Channel 7 Ukraine" group-title="General" tvg-language="ukr" tvg-quality="720p",Channel 7 Ukraine
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel7Ukraine.ua" tvg-name="Channel 7 Ukraine" group-title="General" tvg-language="ukr" tvg-quality="720p",Channel 7 Ukraine
+https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChemodanTV.ua" tvg-name="Chemodan TV" group-title="Documentary;Education" tvg-language="eng;ukr" tvg-quality="1080p",Chemodan TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/399/index.m3u8
+
+#EXTINF:-1 tvg-id="Cherniveckiypromin.ua" tvg-name="Cherniveckiy promin" group-title="News" tvg-language="ukr" tvg-quality="720p",Cherniveckiy promin
+https://langate.tv/promin/live_720/index.m3u8
+
+#EXTINF:-1 tvg-id="ContinentE.ua" tvg-name="Continent E" group-title="Uncategorized" tvg-language="ukr" tvg-quality="1080p",Continent E
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/449/index.m3u8
+
+#EXTINF:-1 tvg-id="Dacha.ua" tvg-name="Dacha" group-title="Uncategorized" tvg-language="rus;ukr" tvg-quality="1080p",Dacha
+https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiviSport.ua" tvg-name="DiviSport" group-title="Sports" tvg-language="ukr" tvg-quality="1080p",DiviSport
+http://stream.mcquack.net/457/index.m3u8
+
+#EXTINF:-1 tvg-id="DniproTV.ua" tvg-name="Dnipro TV" group-title="General" tvg-language="ukr" tvg-quality="1080p",Dnipro TV
+http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DonbassOnline.ua" tvg-name="Donbass Online" group-title="News" tvg-language="ukr" tvg-quality="1080p",Donbass Online
+http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DynamoKyivTV.ua" tvg-name="Dynamo Kyiv TV" group-title="Sports" tvg-language="ukr" tvg-quality="1080p",Dynamo Kyiv TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/396/index.m3u8
+
+#EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" group-title="Legislative" tvg-language="bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mlt;nld;pol;por;ron;slk;slv;spa;swe;ukr" tvg-quality="1080p",EbS
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8
+
+#EXTINF:-1 tvg-id="EkoTV.ua" tvg-name="Eko TV" group-title="Science" tvg-language="ukr" tvg-quality="720p",Eko TV
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
+
+#EXTINF:-1 tvg-id="EnterFilm.ua" tvg-name="Enter-Film" group-title="Movies" tvg-language="ukr" tvg-quality="1080p",Enter-Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/322/index.m3u8
+
+#EXTINF:-1 tvg-id="Equalympic.ua" tvg-name="Equalympic" group-title="Sports" tvg-language="ukr" tvg-quality="1080p",Equalympic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/485/index.m3u8
+
+#EXTINF:-1 tvg-id="EspresoTV.ua" tvg-name="Espreso TV" group-title="News" tvg-language="ukr" tvg-quality="1080p",Espreso TV
+https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
+
+#EXTINF:-1 tvg-id="EspresoTV.ua" tvg-name="Espreso TV" group-title="News" tvg-language="ukr" tvg-quality="1080p",Espreso TV
+https://dash2.antik.sk/live/test_espresso/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EUMusic.ua" tvg-name="EU Music" group-title="Music" tvg-language="ukr" tvg-quality="1080p",EU Music
+http://stream.mcquack.net/261/index.m3u8
+
+#EXTINF:-1 tvg-id="EWTNUkraine.ua" tvg-name="EWTN Ukraine" group-title="Religious" tvg-language="ukr" tvg-quality="1080p",EWTN Ukraine
+https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fashion.ua" tvg-name="Fashion" group-title="Uncategorized" tvg-language="ukr" tvg-quality="1080p",Fashion
+http://stream.mcquack.net/288/index.m3u8
+
+#EXTINF:-1 tvg-id="FilmUADrama.ua" tvg-name="FilmUADrama" group-title="Movies;Series" tvg-language="rus;ukr" tvg-quality="1080p",FilmUADrama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.99.215.227/FilmUADrama/index.m3u8
+
+#EXTINF:-1 tvg-id="GIT.ua" tvg-name="GIT" group-title="News" tvg-language="ukr" tvg-quality="720p",GIT
+https://stream.uagit.tv/gittv.m3u8
+
+#EXTINF:-1 tvg-id="IUAtv.ua" tvg-name="I-UA.tv" group-title="News" tvg-language="ukr" tvg-quality="1080p",I-UA.tv
+https://kie2.cdn.i-ua.tv/hlsme/iuatv.m3u8
+
+#EXTINF:-1 tvg-id="ICTV.ua" tvg-name="ICTV" group-title="Entertainment" tvg-language="ukr" tvg-quality="1080p",ICTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/158/index.m3u8
+
+#EXTINF:-1 tvg-id="ICTV2.ua" tvg-name="ICTV2" group-title="Entertainment" tvg-language="ukr" tvg-quality="1080p",ICTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/368/index.m3u8
+
+#EXTINF:-1 tvg-id="InRatingTV.ua" tvg-name="InRating TV" group-title="Music" tvg-language="ukr" tvg-quality="1080p",InRating TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/147/index.m3u8
+
+#EXTINF:-1 tvg-id="Inter.ua" tvg-name="Inter" group-title="General" tvg-language="ukr" tvg-quality="1080p",Inter
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/174/index.m3u8
+
+#EXTINF:-1 tvg-id="InterPlus.ua" tvg-name="Inter+" group-title="General" tvg-language="ukr" tvg-quality="720p",Inter+
+https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IRT.ua" tvg-name="IRT" group-title="General" tvg-language="ukr" tvg-quality="720p",IRT
+https://stream.irt.ua/memfs/8fac7cbb-3356-4a03-bb77-4439b727ebd2.m3u8
+
+#EXTINF:-1 tvg-id="Islandia.ua" tvg-name="Islandia" group-title="Uncategorized" tvg-language="ukr" tvg-quality="720p",Islandia
+https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="K1.ua" tvg-name="K1" group-title="Entertainment" tvg-language="ukr" tvg-quality="1080p",K1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/270/index.m3u8
+
+#EXTINF:-1 tvg-id="K2.ua" tvg-name="K2" group-title="Entertainment" tvg-language="ukr" tvg-quality="1080p",K2
+http://stream.mcquack.net/324/index.m3u8
+
+#EXTINF:-1 tvg-id="K2.ua" tvg-name="K2" group-title="Entertainment" tvg-language="ukr" tvg-quality="720p",K2
+https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KinoKazka.es" tvg-name="KinoKazka" group-title="Kids" tvg-language="ukr" tvg-quality="1080p",KinoKazka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/167/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinoliving.ua" tvg-name="Kinoliving" group-title="Movies" tvg-language="ukr" tvg-quality="1080p",Kinoliving
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/445/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinowood.ua" tvg-name="Kinowood" group-title="Movies" tvg-language="ukr" tvg-quality="1080p",Kinowood
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/446/index.m3u8
+
+#EXTINF:-1 tvg-id="Kyiv.ua" tvg-name="Kyiv" group-title="News" tvg-language="ukr" tvg-quality="1080p",Kyiv
+https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+
+#EXTINF:-1 tvg-id="LuxTV.ua" tvg-name="Lux TV" group-title="General" tvg-language="ukr" tvg-quality="1080p",Lux TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+http://777905.live.tvstitch.com/stream.m3u8?m=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9sdXgtdHYvdmlkZW8ubTN1OD90b2tlbj1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamFHRnVibVZzWDJsa0lqbzBNekVzSW1Ob1lXNXVaV3hmYm1GdFpTSTZJa3hWV0NCVVZpSXNJbWx3SWpvaU1UYzRMakV6Tmk0ME1pNHlNakFpTENKamIzVnVkSEo1SWpvaVZXdHlZV2x1WlNJc0luVnpaWEpmYVdRaU9tNTFiR3dzSW5WelpYSmZjR2h2Ym1VaU9tNTFiR3dzSW5WelpYSmZjbTlzWlhNaU9sdGRMQ0p3Y205bWFXeGxYMmxrSWpwdWRXeHNMQ0p6WlhOemFXOXVYMmxrSWpvaU56ZGpabVUzTkdJdE1USmtaQzAwTTJSbExXSmtNVGt0WVRKaFptUmtabUUwT0RWaElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hOekk0TnpOOS5GV2NmZDBhOV93dEVONmozWS1GaFNFYzFjbV9uamh1VVZmWjhiZzVLcG84&channel=431
+
+#EXTINF:-1 tvg-id="M1.ua" tvg-name="M1" group-title="Music" tvg-language="ukr" tvg-quality="720p",M1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://158.101.222.193:88/georgia_play.php?id=m1
+
+#EXTINF:-1 tvg-id="M1.ua" tvg-name="M1" group-title="Music" tvg-language="ukr" tvg-quality="1080p",M1
+http://dtv.vol.net.ua/M1-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="M1.ua" tvg-name="M1" group-title="Music" tvg-language="ukr" tvg-quality="1080p",M1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/218/index.m3u8
+
+#EXTINF:-1 tvg-id="M2.ua" tvg-name="M2" group-title="Music" tvg-language="ukr" tvg-quality="1080p",M2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/330/index.m3u8
+
+#EXTINF:-1 tvg-id="MaincastCybersport.ua" tvg-name="Maincast Cybersport" group-title="Sports" tvg-language="ukr" tvg-quality="1080p",Maincast Cybersport
+http://stream.mcquack.net/487/index.m3u8
+
+#EXTINF:-1 tvg-id="MaincastSport.ua" tvg-name="Maincast Sport" group-title="Sports" tvg-language="ukr" tvg-quality="1080p",Maincast Sport
+http://stream.mcquack.net/490/index.m3u8
+
+#EXTINF:-1 tvg-id="MasonTV.ua" tvg-name="Mason TV" group-title="Entertainment" tvg-language="ukr" tvg-quality="1080p",Mason TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/346/index.m3u8
+
+#EXTINF:-1 tvg-id="Mega.ua" tvg-name="Mega" group-title="Uncategorized" tvg-language="ukr" tvg-quality="1080p",Mega
+http://dtv.vol.net.ua/MEGA_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Mega.ua" tvg-name="Mega" group-title="Uncategorized" tvg-language="ukr" tvg-quality="1080p",Mega
+http://stream.mcquack.net/325/index.m3u8
+
+#EXTINF:-1 tvg-id="Mega.ua" tvg-name="Mega" group-title="Uncategorized" tvg-language="ukr" tvg-quality="720p",Mega
+https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Muzvar.ua" tvg-name="Muzvar" group-title="Music" tvg-language="ukr" tvg-quality="1080p",Muzvar
+https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyUkrainaTV.ua" tvg-name="My-Ukraina TV" group-title="News" tvg-language="ukr" tvg-quality="1080p",My-Ukraina TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/442/index.m3u8
+
+#EXTINF:-1 tvg-id="NasheLubimoeKinoUkraine.ua" tvg-name="Nashe Lubimoe Kino Ukraine" group-title="Movies" tvg-language="rus;ukr" tvg-quality="1080p",Nashe Lubimoe Kino Ukraine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/456/index.m3u8
+
+#EXTINF:-1 tvg-id="NASHEMusic.ua" tvg-name="NASHE Music" group-title="Music" tvg-language="ukr" tvg-quality="720p",NASHE Music
+https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.ua" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="ukr" tvg-quality="720p",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://46.32.176.50/natgeowild/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.ua" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="ukr" tvg-quality="1080p",National Geographic Wild
+http://dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="NikiJunior.ua" tvg-name="Niki Junior" group-title="Kids" tvg-language="ukr" tvg-quality="1080p",Niki Junior
+http://stream.mcquack.net/262/index.m3u8
+
+#EXTINF:-1 tvg-id="NikiKids.ua" tvg-name="Niki Kids" group-title="Kids" tvg-language="ukr" tvg-quality="1080p",Niki Kids
+http://stream.mcquack.net/271/index.m3u8
+
+#EXTINF:-1 tvg-id="NovyiChannel.ua" tvg-name="Novyi Channel" group-title="Entertainment" tvg-language="rus;ukr" tvg-quality="1080p",Novyi Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/157/index.m3u8
+
+#EXTINF:-1 tvg-id="NTKTV.ua" tvg-name="NTK TV" group-title="General" tvg-language="ukr" tvg-quality="1080p",NTK TV
+https://stream.ntktv.ua/s/ntk/ntk.m3u8
+
+#EXTINF:-1 tvg-id="NTN.ua" tvg-name="NTN" group-title="General" tvg-language="ukr" tvg-quality="1080p",NTN
+http://stream.mcquack.net/326/index.m3u8
+
+#EXTINF:-1 tvg-id="NTN.ua" tvg-name="NTN" group-title="General" tvg-language="ukr" tvg-quality="1080i",NTN
+https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OnePlanet.ua" tvg-name="One Planet" group-title="General" tvg-language="ukr" tvg-quality="1080p",One Planet
+http://dtv.vol.net.ua/OnePlanet/index.m3u8
+
+#EXTINF:-1 tvg-id="OnePlanet.ua" tvg-name="One Planet" group-title="General" tvg-language="ukr" tvg-quality="1080p",One Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/448/index.m3u8
+
+#EXTINF:-1 tvg-id="OTSE.ua" tvg-name="OTSE" group-title="Entertainment" tvg-language="ukr" tvg-quality="1080p",OTSE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/329/index.m3u8
+
+#EXTINF:-1 tvg-id="Pershyi.ua" tvg-name="Pershyi" group-title="General" tvg-language="ukr" tvg-quality="1080p",Pershyi
+https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+
+#EXTINF:-1 tvg-id="Pershyiavtomobilnyi.ua" tvg-name="Pershyi avtomobilnyi" group-title="Auto" tvg-language="ukr" tvg-quality="1080p",Pershyi avtomobilnyi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/404/index.m3u8
+
+#EXTINF:-1 tvg-id="PershyiZahidnyi.ua" tvg-name="Pershyi Zahidnyi" group-title="Legislative" tvg-language="ukr" tvg-quality="1080p",Pershyi Zahidnyi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/246/index.m3u8
+
+#EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua" tvg-name="Pervyy gorodskoy. Odessa" group-title="General" tvg-language="rus;ukr" tvg-quality="1080p",Pervyy gorodskoy. Odessa
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PixelTV.ua" tvg-name="Pixel TV" group-title="Kids" tvg-language="ukr" tvg-quality="1080p",Pixel TV
+http://stream.mcquack.net/323/index.m3u8
+
+#EXTINF:-1 tvg-id="PixelTV.ua" tvg-name="Pixel TV" group-title="Kids" tvg-language="ukr" tvg-quality="720p",Pixel TV
+https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PLUSPLUS.ua" tvg-name="PLUSPLUS" group-title="Kids" tvg-language="ukr" tvg-quality="1080p",PLUSPLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/339/index.m3u8
+
+#EXTINF:-1 tvg-id="PravdaTUT.ua" tvg-name="PravdaTUT" group-title="Uncategorized" tvg-language="ukr" tvg-quality="720p",PravdaTUT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua.m3u8
+
+#EXTINF:-1 tvg-id="PTV.ua" tvg-name="PTV" group-title="News" tvg-language="ukr" tvg-quality="720p",PTV
+https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadaTV.ua" tvg-name="Rada TV" group-title="Legislative" tvg-language="eng;rus;ukr" tvg-quality="720p",Rada TV
+https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RAZ3.ua" tvg-name="RAZ 3" group-title="Uncategorized" tvg-language="ukr" tvg-quality="720p",RAZ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3&master=180
+
+#EXTINF:-1 tvg-id="Reporter.ua" tvg-name="Reporter" group-title="News" tvg-language="ukr" tvg-quality="720p",Reporter
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rivne1.ua" tvg-name="Rivne 1" group-title="General" tvg-language="ukr" tvg-quality="720p",Rivne 1
+https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rybalka.ua" tvg-name="Rybalka" group-title="Outdoor" tvg-language="ukr" tvg-quality="1080p",Rybalka
+https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SaltTV.ua" tvg-name="Salt TV" group-title="Uncategorized" tvg-language="ukr" tvg-quality="1080p",Salt TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/398/index.m3u8
+
+#EXTINF:-1 tvg-id="SetantaSports.uk" tvg-name="Setanta Sports" group-title="Sports" tvg-language="eng;ukr" tvg-quality="1080p",Setanta Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/313/index.m3u8
+
+#EXTINF:-1 tvg-id="SetantaSportsPlusUkraine.ua" tvg-name="Setanta Sports+ Ukraine" group-title="Sports" tvg-language="rus;ukr" tvg-quality="1080p",Setanta Sports+ Ukraine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/390/index.m3u8
+
+#EXTINF:-1 tvg-id="SferaTV.ua" tvg-name="Sfera-TV" group-title="General" tvg-language="ukr" tvg-quality="720p",Sfera-TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Simon.ua" tvg-name="Simon" group-title="General" tvg-language="rus;ukr" tvg-quality="720p",Simon
+https://hls.simon.ua/live-HD/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SK1.ua" tvg-name="SK 1" group-title="News" tvg-language="ukr" tvg-quality="720p",SK 1
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sport1Baltic.ua" tvg-name="Sport 1 Baltic" group-title="Sports" tvg-language="eng;rus;ukr" tvg-quality="1080p",Sport 1 Baltic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/461/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport2.ua" tvg-name="Sport 2" group-title="Sports" tvg-language="ukr" tvg-quality="1080p",Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/392/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport3.ua" tvg-name="Sport 3" group-title="Sports" tvg-language="ukr" tvg-quality="1080p",Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/393/index.m3u8
+
+#EXTINF:-1 tvg-id="STB.ua" tvg-name="STB" group-title="Uncategorized" tvg-language="ukr" tvg-quality="1080p",STB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/156/index.m3u8
+
+#EXTINF:-1 tvg-id="SuspilneKrym.ua" tvg-name="Suspilne. Krym" group-title="General" tvg-language="ukr" tvg-quality="1080p",Suspilne. Krym
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/436/index.m3u8
+
+#EXTINF:-1 tvg-id="SuspilneKultura.ua" tvg-name="Suspilne. Kultura" group-title="Culture" tvg-language="ukr" tvg-quality="1080p",Suspilne. Kultura
+http://stream.mcquack.net/435/index.m3u8
+
+#EXTINF:-1 tvg-id="SuspilneSport.ua" tvg-name="Suspilne. Sport" group-title="Sports" tvg-language="ukr" tvg-quality="1080p",Suspilne. Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/444/index.m3u8
+
+#EXTINF:-1 tvg-id="SvitPlus.ua" tvg-name="Svit+" group-title="General" tvg-language="ukr" tvg-quality="1080p",Svit+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/358/index.m3u8
+
+#EXTINF:-1 tvg-id="Televsesvit.ua" tvg-name="Televsesvit" group-title="Uncategorized" tvg-language="ukr" tvg-quality="1080p",Televsesvit
+https://televsesvit.cdn-04.cosmonova.net.ua/hls/televsesvit_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="Ternopil1.ua" tvg-name="Ternopil 1" group-title="News" tvg-language="ukr" tvg-quality="720p",Ternopil 1
+https://ott.columbus.te.ua/ternopil1/index.m3u8
+
+#EXTINF:-1 tvg-id="TET.ua" tvg-name="TET" group-title="Uncategorized" tvg-language="ukr" tvg-quality="1080p",TET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/338/index.m3u8
+
+#EXTINF:-1 tvg-id="TISTV.ua" tvg-name="TIS TV" group-title="Uncategorized" tvg-language="ukr" tvg-quality="720p",TIS TV
+https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRKIldana.ua" tvg-name="TRK Ildana" group-title="General" tvg-language="ukr" tvg-quality="720p",TRK Ildana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://pravdatytkyiv.cdn-01.cosmonova.net.ua/hls/pradva-tut-ildana_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="Trofei.ua" tvg-name="Trofei" group-title="Outdoor" tvg-language="rus;ukr" tvg-quality="1080p",Trofei
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/357/index.m3u8
+
+#EXTINF:-1 tvg-id="TUSO.ua" tvg-name="TUSO" group-title="Shop" tvg-language="ukr" tvg-quality="720p",TUSO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
+
+#EXTINF:-1 tvg-id="TV4.ua" tvg-name="TV-4" group-title="Uncategorized" tvg-language="ukr" tvg-quality="720p",TV-4
+https://vs2126.vcdn.biz/c27a63fda28be51f87a7d0046de1f4b8_megogo/live/hls/b/700_2490/u_sid/0/o/71044361/rsid/393818da-edd4-44bd-b2db-4ebf226abd3d/u_uid/0/u_vod/1/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/5.63.189.224*asn/u_did/web_0voqy4czLIxD4iwJZ0z0GctEMa9GIH7A/type.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tviyserial.ua" tvg-name="Tviy serial" group-title="Series" tvg-language="ukr" tvg-quality="1080p",Tviy serial
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/466/index.m3u8
+
+#EXTINF:-1 tvg-id="UAMusic.ua" tvg-name="UA Music" group-title="Music" tvg-language="ukr" tvg-quality="1080p",UA Music
+http://stream.mcquack.net/281/index.m3u8
+
+#EXTINF:-1 tvg-id="UNIANSerial.ua" tvg-name="UNIAN Serial" group-title="General" tvg-language="ukr" tvg-quality="1080p",UNIAN Serial
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/341/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatHistory.ua" tvg-name="Viasat History" group-title="Documentary" tvg-language="ukr" tvg-quality="1080p",Viasat History
+http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8
+
+#EXTINF:-1 tvg-id="Z.ua" tvg-name="Z" group-title="Uncategorized" tvg-language="ukr" tvg-quality="1080p",Z
+https://stream.ztv.zp.ua/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="Zoom.ua" tvg-name="Zoom" group-title="Entertainment" tvg-language="ukr" tvg-quality="1080p",Zoom
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/327/index.m3u8
+
+#EXTINF:-1 tvg-id="VivaLatino.ua" tvg-name="¡Viva Latino!" group-title="Music" tvg-language="ukr" tvg-quality="1080p",¡Viva Latino!
+http://stream.mcquack.net/285/index.m3u8
+

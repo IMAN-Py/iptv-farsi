@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ExtraProNews.gr" tvg-name="Extra ProNews" group-title="Entertainment;News;Shop" tvg-language="ell" tvg-quality="576p",Extra ProNews
+http://62.1.176.18:8888/extra/index.m3u8
+
+#EXTINF:-1 tvg-id="HighTV.gr" tvg-name="High TV" group-title="Shop" tvg-language="ell" tvg-quality="720p",High TV
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+

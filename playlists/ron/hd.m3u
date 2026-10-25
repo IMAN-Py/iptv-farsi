@@ -1,0 +1,216 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A7TV.ro" tvg-name="A7TV" group-title="General" tvg-language="ron" tvg-quality="1080p",A7TV
+https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Acasa.ro" tvg-name="Acasa" group-title="Entertainment" tvg-language="ron" tvg-quality="1080p",Acasa
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-pro2/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="AcasaGold.ro" tvg-name="Acasa Gold" group-title="Entertainment" tvg-language="ron" tvg-quality="1080p",Acasa Gold
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="AlephBusiness.ro" tvg-name="Aleph Business" group-title="Business" tvg-language="ron" tvg-quality="1280p",Aleph Business
+https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlephNews.ro" tvg-name="Aleph News" group-title="News" tvg-language="ron" tvg-quality="720p",Aleph News
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlfaOmegaTV.ro" tvg-name="Alfa Omega TV" group-title="Religious" tvg-language="ron" tvg-quality="1080p",Alfa Omega TV
+https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
+
+#EXTINF:-1 tvg-id="AngelusTV.ro" tvg-name="Angelus TV" group-title="Religious" tvg-language="ron" tvg-quality="1080p",Angelus TV
+https://video.angelustv.ro/hls/angelustv.m3u8
+
+#EXTINF:-1 tvg-id="Antena3CNN.ro" tvg-name="Antena 3 CNN" group-title="News" tvg-language="ron" tvg-quality="1080p",Antena 3 CNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0
+https://live3vox.antenaplay.ro/a3free/a3free.m3u8
+
+#EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="Antena Monden" group-title="Lifestyle" tvg-language="ron" tvg-quality="720p",Antena Monden
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArgesTV.ro" tvg-name="Arges TV" group-title="General" tvg-language="ron" tvg-quality="720p",Arges TV
+https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="720p",BabyFirst
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+
+#EXTINF:-1 tvg-id="BoomTV.ro" tvg-name="Boom TV" group-title="Music" tvg-language="ron" tvg-quality="1080p",Boom TV
+#EXTVLCOPT:http-referrer=https://tvboom.ro/
+https://tvboom.ro/live-tv/live.m3u8
+
+#EXTINF:-1 tvg-id="Chefiro.ro" tvg-name="Chefi.ro" group-title="Cooking" tvg-language="ron" tvg-quality="1080p",Chefi.ro
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
+
+#EXTINF:-1 tvg-id="CinemaratonPlus.ro" tvg-name="Cinemaraton Plus" group-title="Movies" tvg-language="ron" tvg-quality="1080i",Cinemaraton Plus
+https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="CredoTV.ro" tvg-name="Credo TV" group-title="Religious" tvg-language="ron" tvg-quality="720p",Credo TV
+http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CredoTV.ro" tvg-name="Credo TV" group-title="Religious" tvg-language="ron" tvg-quality="720p",Credo TV
+https://5bb3298db4821.streamlock.net/ctv/livecredo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" group-title="News" tvg-language="ron" tvg-quality="1080i",Digi 24
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tele-moldova-plus/live_hq?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" group-title="News" tvg-language="ron" tvg-quality="720p",Digi 24
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Digi Sport 2
+https://lbgo.bozztv.com/ssh101/ssh101/digisport222/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DottoTV.ro" tvg-name="Dotto TV" group-title="News" tvg-language="ron" tvg-quality="1080p",Dotto TV
+https://live.dottotv.ro/index.m3u8
+
+#EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" group-title="Legislative" tvg-language="bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mlt;nld;pol;por;ron;slk;slv;spa;swe;ukr" tvg-quality="1080p",EbS
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8
+
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+
+#EXTINF:-1 tvg-id="EMITV.ro" tvg-name="EMI TV" group-title="Music" tvg-language="ron" tvg-quality="1080i",EMI TV
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-emi/live_hq?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="FilmNow.ro" tvg-name="Film Now" group-title="Movies" tvg-language="ron" tvg-quality="1080i",Film Now
+https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HalloweenNonStop.ro" tvg-name="Halloween Non Stop" group-title="Movies" tvg-language="ron" tvg-quality="720p",Halloween Non Stop
+https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8
+
+#EXTINF:-1 tvg-id="IasiTVLife.ro" tvg-name="IasiTV Life" group-title="General" tvg-language="ron" tvg-quality="1080p",IasiTV Life
+https://tv.streambox.ro/hls/itv/index.m3u8
+
+#EXTINF:-1 tvg-id="ImpactTV.ro" tvg-name="Impact TV" group-title="Music" tvg-language="ron" tvg-quality="1080p",Impact TV
+#EXTVLCOPT:http-referrer=https://tvimpact.ro/
+https://live.tvimpact.ro:8088/hevc/index.m3u8
+
+#EXTINF:-1 tvg-id="ImpactTV2.ro" tvg-name="Impact TV 2" group-title="Music" tvg-language="ron" tvg-quality="1080p",Impact TV 2
+https://online.tvimpact.live/hls/impact_tv2.m3u8
+
+#EXTINF:-1 tvg-id="ImpactTVDance.ro" tvg-name="Impact TV Dance" group-title="Music" tvg-language="ron" tvg-quality="1080p",Impact TV Dance
+https://online.tvimpact.live/hls/dancetv.m3u8
+
+#EXTINF:-1 tvg-id="ImpactTVManele.ro" tvg-name="Impact TV Manele" group-title="Music" tvg-language="ron" tvg-quality="1080p",Impact TV Manele
+https://online.tvimpact.live/hls/impact_tv.m3u8
+
+#EXTINF:-1 tvg-id="JOBTV.ro" tvg-name="JOB TV" group-title="Business" tvg-language="ron" tvg-quality="1080p",JOB TV
+https://jobtvserver.eu/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="KapitalTV.ro" tvg-name="Kapital TV" group-title="General" tvg-language="ron" tvg-quality="1080p",Kapital TV
+#EXTVLCOPT:http-referrer=https://kapitaltv.ro/
+https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8
+
+#EXTINF:-1 tvg-id="KissTV.ro" tvg-name="Kiss TV" group-title="Music" tvg-language="ron" tvg-quality="1080p",Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+
+#EXTINF:-1 tvg-id="LiraTV.es" tvg-name="LiraTV" group-title="Music" tvg-language="ron" tvg-quality="720p",LiraTV
+https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MagicTV.ro" tvg-name="Magic TV" group-title="Music" tvg-language="ron" tvg-quality="720p",Magic TV
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+
+#EXTINF:-1 tvg-id="MetropolaTV.ro" tvg-name="Metropola TV" group-title="General" tvg-language="ron" tvg-quality="1080p",Metropola TV
+https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mireasa.ro" tvg-name="Mireasa" group-title="Series" tvg-language="ron" tvg-quality="720p",Mireasa
+https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Moldova1.md" tvg-name="Moldova 1" group-title="General" tvg-language="ron;rus" tvg-quality="1080p",Moldova 1
+https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
+
+#EXTINF:-1 tvg-id="Moldova2.md" tvg-name="Moldova 2" group-title="General" tvg-language="ron;rus" tvg-quality="1080p",Moldova 2
+https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
+
+#EXTINF:-1 tvg-id="MoldovaTV.md" tvg-name="Moldova TV" group-title="General" tvg-language="ron" tvg-quality="1080p",Moldova TV
+https://moldovatv.ro/live-tv/live.m3u8
+
+#EXTINF:-1 tvg-id="MuscelTV.ro" tvg-name="Muscel TV" group-title="General" tvg-language="ron" tvg-quality="720p",Muscel TV
+https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NasulTV.ro" tvg-name="Nasul TV" group-title="General" tvg-language="ron" tvg-quality="720p",Nasul TV
+https://live.nasul.tv/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="NostalgiaTV.ro" tvg-name="Nostalgia TV" group-title="Movies" tvg-language="ron" tvg-quality="1080p",Nostalgia TV
+https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="PrivescEuTV.md" tvg-name="Privesc.Eu TV" group-title="Legislative" tvg-language="ron" tvg-quality="2160p",Privesc.Eu TV
+https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ProArena.ro" tvg-name="Pro Arena" group-title="Uncategorized" tvg-language="ron" tvg-quality="1080p",Pro Arena
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-prox/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="ProCinema.ro" tvg-name="Pro Cinema" group-title="Movies" tvg-language="ron" tvg-quality="1080p",Pro Cinema
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="PROTV.ro" tvg-name="PRO TV" group-title="Uncategorized" tvg-language="eng;ron" tvg-quality="1080p",PRO TV
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="PROTVNews.ro" tvg-name="PROTV News" group-title="News" tvg-language="ron" tvg-quality="1080p",PROTV News
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+
+#EXTINF:-1 tvg-id="RadioFxNet.ro" tvg-name="Radio Fx Net" group-title="Music" tvg-language="eng;ron" tvg-quality="720p",Radio Fx Net
+https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioMoldovaTineret.md" tvg-name="Radio Moldova Tineret" group-title="Entertainment" tvg-language="ron" tvg-quality="1080p",Radio Moldova Tineret
+https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
+
+#EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro" tvg-name="Radio Romania Antena Satelor" group-title="Music" tvg-language="ron" tvg-quality="720p",Radio Romania Antena Satelor
+https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RealitateaPlus.ro" tvg-name="Realitatea Plus" group-title="Uncategorized" tvg-language="ron" tvg-quality="720p",Realitatea Plus
+https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
+
+#EXTINF:-1 tvg-id="RealitateaSportiva.ro" tvg-name="Realitatea Sportiva" group-title="Sports" tvg-language="ron" tvg-quality="720p",Realitatea Sportiva
+https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+
+#EXTINF:-1 tvg-id="RockTV.ro" tvg-name="Rock TV" group-title="Music" tvg-language="ron" tvg-quality="720p",Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+#EXTINF:-1 tvg-id="ROTVValencia.es" tvg-name="ROTV Valencia" group-title="Entertainment" tvg-language="ron" tvg-quality="720p",ROTV Valencia
+https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
+
+#EXTINF:-1 tvg-id="SorTV.md" tvg-name="Sor TV" group-title="General" tvg-language="ron" tvg-quality="720p",Sor TV
+http://188.237.212.16:8888/live/cameraFeed.m3u8
+
+#EXTINF:-1 tvg-id="SperantaTV.ro" tvg-name="SperantaTV" group-title="Religious" tvg-language="ron" tvg-quality="1080p",SperantaTV
+https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
+
+#EXTINF:-1 tvg-id="SuperTV.ro" tvg-name="Super TV" group-title="Music" tvg-language="ron" tvg-quality="1080i",Super TV
+#EXTVLCOPT:http-referrer=https://supertv.ro
+https://live.supertv.ro/live/supertv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tele7ABCHD.ro" tvg-name="Tele7ABC HD" group-title="General" tvg-language="ron" tvg-quality="720p",Tele7ABC HD
+https://live.tele7abc.ro/hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" group-title="Outdoor" tvg-language="bul;ces;hun;ron" tvg-quality="1080i",The Fishing & Hunting Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/fishing_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="TraditionalTV.ro" tvg-name="Traditional TV" group-title="Music" tvg-language="ron" tvg-quality="1080p",Traditional TV
+http://83.103.149.75:8085/udp/239.30.0.9:4000
+
+#EXTINF:-1 tvg-id="TVSUD.ro" tvg-name="TV SUD" group-title="News" tvg-language="ron" tvg-quality="1080p",TV SUD
+https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
+
+#EXTINF:-1 tvg-id="TVRIasi.ro" tvg-name="TVR Iasi" group-title="General" tvg-language="ron" tvg-quality="1080p",TVR Iasi
+http://82.208.141.70:8778/1.m3u8
+
+#EXTINF:-1 tvg-id="TVRIasi.ro" tvg-name="TVR Iasi" group-title="General" tvg-language="ron" tvg-quality="1080p",TVR Iasi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; rv:126.0) Gecko/20100101 Firefox/126.0
+#EXTVLCOPT:http-referrer=https://www.tvrplus.ro/
+https://tvr-tvriasi.cdn.zitec.com/live/tvriasi/main.m3u8
+
+#EXTINF:-1 tvg-id="TVRMoldova.md" tvg-name="TVR Moldova" group-title="General" tvg-language="ron" tvg-quality="1440p",TVR Moldova
+https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TVRMoldova.md" tvg-name="TVR Moldova" group-title="General" tvg-language="ron" tvg-quality="1080p",TVR Moldova
+https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRMoldova.md" tvg-name="TVR Moldova" group-title="General" tvg-language="ron" tvg-quality="720p",TVR Moldova
+https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8
+
+#EXTINF:-1 tvg-id="UTV.ro" tvg-name="UTV" group-title="Uncategorized" tvg-language="ron" tvg-quality="1080i",UTV
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8
+
+#EXTINF:-1 tvg-id="VoceaBasarabieiTV.md" tvg-name="Vocea Basarabiei TV" group-title="Uncategorized" tvg-language="ron" tvg-quality="720p",Vocea Basarabiei TV
+https://storage.voceabasarabiei.md/vocea/vocea.m3u8
+

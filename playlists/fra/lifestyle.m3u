@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FashionTV.ru" tvg-name="FashionTV" group-title="Lifestyle" tvg-language="fra" tvg-quality="1080p",FashionTV
+http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr" tvg-name="FashionTV Paris L'Original" group-title="Lifestyle" tvg-language="fra" tvg-quality="1080p",FashionTV Paris L'Original
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+
+#EXTINF:-1 tvg-id="GuideLoveTV.ci" tvg-name="Guide Love TV" group-title="Lifestyle" tvg-language="fra" tvg-quality="720p",Guide Love TV
+https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HANDICAPTV.fr" tvg-name="HANDICAP TV" group-title="Lifestyle" tvg-language="fra" tvg-quality="576i",HANDICAP TV
+https://srv.webtvmanager.fr:3697/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="LuxeTV.lu" tvg-name="Luxe TV" group-title="Lifestyle" tvg-language="eng;fra;rus;zho" tvg-quality="1080p",Luxe TV
+http://103.154.3.101:5001/live/1736.m3u8
+
+#EXTINF:-1 tvg-id="LuxeTV.lu" tvg-name="Luxe TV" group-title="Lifestyle" tvg-language="eng;fra;rus;zho" tvg-quality="1080p",Luxe TV
+http://nmk.ioapk.com:5050/4gtv-live121/index.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCuisine.de" tvg-name="Pluto TV Cuisine" group-title="Cooking;Lifestyle" tvg-language="fra" tvg-quality="720p",Pluto TV Cuisine
+https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
+
+#EXTINF:-1 tvg-id="SOSDocteurTV.tg" tvg-name="SOS Docteur TV" group-title="Lifestyle" tvg-language="fra" tvg-quality="480p",SOS Docteur TV
+https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV5MONDEChefs.fr" tvg-name="TV5MONDE Chefs" group-title="Cooking;Lifestyle" tvg-language="fra" tvg-quality="1080p",TV5MONDE Chefs
+https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-name="TV5Monde Style" group-title="Lifestyle" tvg-language="fra" tvg-quality="576i",TV5Monde Style
+http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-name="TV5Monde Style" group-title="Lifestyle" tvg-language="fra" tvg-quality="576i",TV5Monde Style
+http://103.190.232.129/stream/tvb/style?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-name="TV5Monde Style" group-title="Lifestyle" tvg-language="fra" tvg-quality="1080p",TV5Monde Style
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+
+#EXTINF:-1 tvg-id="VoyagesSaveurs.es" tvg-name="Voyages & Saveurs" group-title="Lifestyle;Travel" tvg-language="fra" tvg-quality="720p",Voyages & Saveurs
+https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
+

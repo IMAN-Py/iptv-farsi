@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CT2.cz" tvg-name="CT2" group-title="Documentary" tvg-language="ces" tvg-quality="576i",CT2
+http://88.212.15.17/live/test_ct2_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="History.cz" tvg-name="History" group-title="Documentary" tvg-language="ces" tvg-quality="576i",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.212.15.17/live/test_history/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.hu" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="ces;eng;hun" tvg-quality="576i",Investigation Discovery
+http://88.212.15.17/live/id_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.cz" tvg-name="National Geographic" group-title="Documentary" tvg-language="ces" tvg-quality="576i",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_ngc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="ces" tvg-quality="576i",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_ngw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spektrum.cz" tvg-name="Spektrum" group-title="Documentary" tvg-language="ces;slk" tvg-quality="576i",Spektrum
+http://88.212.15.17/live/test_spektrum/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ViasatExplore.cz" tvg-name="Viasat Explore" group-title="Documentary" tvg-language="ces" tvg-quality="576i",Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_viasat_explore_atk_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ViasatHistory.cz" tvg-name="Viasat History" group-title="Documentary" tvg-language="ces" tvg-quality="576i",Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_viasat_history_atk_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ViasatNature.cz" tvg-name="Viasat Nature" group-title="Documentary" tvg-language="ces" tvg-quality="576i",Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_viasat_nature_atk_tv/playlist.m3u8
+

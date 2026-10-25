@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AntenneA.cd" tvg-name="Antenne A" group-title="General" tvg-language="fra;lin" tvg-quality="576i",Antenne A
+http://51.254.199.122:8080/antenne_a-plus/index.m3u8
+
+#EXTINF:-1 tvg-id="DigitalCongoTV.cd" tvg-name="Digital Congo TV" group-title="General" tvg-language="fra;kon;lin;lua;swa" tvg-quality="576i",Digital Congo TV
+http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
+
+#EXTINF:-1 tvg-id="RTNC.cd" tvg-name="RTNC" group-title="General" tvg-language="fra;lin" tvg-quality="1080p",RTNC
+https://kali.vdopanel.com:3850/live/masterlive.m3u8
+
+#EXTINF:-1 tvg-id="RTNC3.cd" tvg-name="RTNC 3" group-title="General" tvg-language="fra;lin" tvg-quality="576i",RTNC 3
+http://51.254.199.122:8080/e-cableRTNC3/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleCongo.cg" tvg-name="Tele Congo" group-title="General" tvg-language="fra;lin;mkw" tvg-quality="720p",Tele Congo
+http://51.254.199.122:8080/telecongo/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleCongo.cg" tvg-name="Tele Congo" group-title="General" tvg-language="fra;lin;mkw" tvg-quality="576i",Tele Congo
+http://trn03.bozztv.com/gin-telecongo/index.m3u8
+

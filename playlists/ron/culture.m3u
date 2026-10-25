@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVRCultural.ro" tvg-name="TVR Cultural" group-title="Culture" tvg-language="ron" tvg-quality="576i",TVR Cultural
+https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
+

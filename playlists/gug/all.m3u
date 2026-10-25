@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ParaguayTV.py" tvg-name="Paraguay TV" group-title="General" tvg-language="gug;spa" tvg-quality="1080p",Paraguay TV
+https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
+

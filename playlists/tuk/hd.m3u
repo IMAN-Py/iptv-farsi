@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBCNewsPashto.uk" tvg-name="BBC News Pashto" group-title="Uncategorized" tvg-language="prd;pus;tuk" tvg-quality="720p",BBC News Pashto
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-id="BBCNewsPashto.uk" tvg-name="BBC News Pashto" group-title="Uncategorized" tvg-language="prd;pus;tuk" tvg-quality="720p",BBC News Pashto
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/t=3840/v=pv14/b=5070016/main.m3u8
+

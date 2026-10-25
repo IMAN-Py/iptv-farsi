@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="720p",AgroCanal
+http://168.197.104.22/AGRO_CANAL/index.m3u8
+
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="720p",AgroCanal
+http://170.83.49.66:8083/AGROCANALHD/index.m3u8
+
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="720p",AgroCanal
+http://186.219.52.187/agro_canal/index.m3u8
+
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="720p",AgroCanal
+http://45.162.64.114/AGRO_CANAL/index.m3u8
+
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" group-title="Education;Outdoor" tvg-language="por" tvg-quality="480i",AgroCanal
+https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
+
+#EXTINF:-1 tvg-id="BemMaisTV.br" tvg-name="Bem Mais TV" group-title="Culture;Education" tvg-language="por" tvg-quality="1080p",Bem Mais TV
+#EXTVLCOPT:http-referrer=https://bemmaistv.com.br/
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" group-title="Education" tvg-language="por" tvg-quality="720p",Canal Educacao
+http://168.197.104.22/CANAL_EDUCACAO/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" group-title="Education" tvg-language="por" tvg-quality="720p",Canal Educacao
+http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" group-title="Education" tvg-language="por" tvg-quality="720p",Canal Educacao
+http://45.177.114.115/CANAL_EDUCACAO/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" group-title="Education" tvg-language="por" tvg-quality="720p",Canal Educacao
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalFDR.br" tvg-name="Canal FDR" group-title="Education;General" tvg-language="por" tvg-quality="480i",Canal FDR
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura" group-title="Education" tvg-language="por" tvg-quality="720p",Canal Futura
+http://170.83.16.50/FUTURA/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura" group-title="Education" tvg-language="por" tvg-quality="720p",Canal Futura
+http://186.219.52.187/futura/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura" group-title="Education" tvg-language="por" tvg-quality="720p",Canal Futura
+http://45.162.64.114/FUTURA/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalSaude.br" tvg-name="Canal Saude" group-title="Education;Lifestyle" tvg-language="por" tvg-quality="720p",Canal Saude
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalSaude.br" tvg-name="Canal Saude" group-title="Education;Lifestyle" tvg-language="por" tvg-quality="480i",Canal Saude
+https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
+
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura" group-title="Education" tvg-language="por" tvg-quality="720p",Futura
+http://170.83.49.66:8083/FUTURAHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ISTV.br" tvg-name="ISTV" group-title="Education" tvg-language="por" tvg-quality="720p",ISTV
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OEncantadordeCaes.us" tvg-name="O Encantador de Caes" group-title="Education" tvg-language="por" tvg-quality="480i",O Encantador de Caes
+https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVMinhaObsessaoFavorita.us" tvg-name="Pluto TV Minha Obsessao Favorita" group-title="Education" tvg-language="por" tvg-quality="720p",Pluto TV Minha Obsessao Favorita
+https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVMisterios.us" tvg-name="Pluto TV Misterios" group-title="Education" tvg-language="por" tvg-quality="720p",Pluto TV Misterios
+https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNatureza.us" tvg-name="Pluto TV Natureza" group-title="Education" tvg-language="por" tvg-quality="720p",Pluto TV Natureza
+https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVPaisagensporStingray.us" tvg-name="Pluto TV Paisagens por Stingray" group-title="Education" tvg-language="por" tvg-quality="720p",Pluto TV Paisagens por Stingray
+https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVVidaReal.us" tvg-name="Pluto TV Vida Real" group-title="Education" tvg-language="por" tvg-quality="720p",Pluto TV Vida Real
+https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
+
+#EXTINF:-1 tvg-id="ProntosocorroHistoriasDeEmergencia.us" tvg-name="Pronto-socorro: Historias De Emergencia" group-title="Education" tvg-language="por" tvg-quality="480i",Pronto-socorro: Historias De Emergencia
+https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
+
+#EXTINF:-1 tvg-id="RedeMinas.br" tvg-name="Rede Minas" group-title="Education" tvg-language="por" tvg-quality="720p",Rede Minas
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedeMinas.br" tvg-name="Rede Minas" group-title="Education" tvg-language="por" tvg-quality="1080p",Rede Minas
+https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
+
+#EXTINF:-1 tvg-id="SantaCeciliaTV.br" tvg-name="Santa Cecilia TV" group-title="Education" tvg-language="por" tvg-quality="1080p",Santa Cecilia TV
+http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SantaCeciliaTV.br" tvg-name="Santa Cecilia TV" group-title="Education" tvg-language="por" tvg-quality="1080p",Santa Cecilia TV
+https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMackenzie.br" tvg-name="TV Mackenzie" group-title="Education" tvg-language="por" tvg-quality="480p",TV Mackenzie
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVUFG.br" tvg-name="TV UFG" group-title="Education" tvg-language="por" tvg-quality="720p",TV UFG
+http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVUFOP.br" tvg-name="TV UFOP" group-title="Culture;Education;Public" tvg-language="por" tvg-quality="1080p",TV UFOP
+https://app.tvufop.com.br/hls/tvufop.m3u8
+
+#EXTINF:-1 tvg-id="TVERS.br" tvg-name="TVE RS" group-title="Culture;Education" tvg-language="por" tvg-quality="1080p",TVE RS
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UnisulTV.br" tvg-name="Unisul TV" group-title="Culture;Education" tvg-language="por" tvg-quality="720p",Unisul TV
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+
+#EXTINF:-1 tvg-id="UniTVPortoAlegre.br" tvg-name="UniTV Porto Alegre" group-title="Education" tvg-language="por" tvg-quality="480p",UniTV Porto Alegre
+http://unitvaovivo.ufrgs.br:8080/live.ogg
+

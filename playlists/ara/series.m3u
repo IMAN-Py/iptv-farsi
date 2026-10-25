@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BabAlHara.sa" tvg-name="Bab Al Hara" group-title="Series" tvg-language="ara" tvg-quality="1080p",Bab Al Hara
+https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Maraya.sa" tvg-name="Maraya" group-title="Series" tvg-language="ara" tvg-quality="1080p",Maraya
+https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBCDramaUSA.us" tvg-name="MBC Drama USA" group-title="Series" tvg-language="ara" tvg-quality="1080p",MBC Drama USA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCMasrDrama.sa" tvg-name="MBC Masr Drama" group-title="Series" tvg-language="ara" tvg-quality="1080p",MBC Masr Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
+
+#EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-name="Rotana Drama" group-title="Series" tvg-language="ara" tvg-quality="1080p",Rotana Drama
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
+

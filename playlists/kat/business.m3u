@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BMGTV.ge" tvg-name="BMG TV" group-title="Business" tvg-language="kat" tvg-quality="576i",BMG TV
+https://tv.nucast.tv/lb/ge/bmg/index.m3u8
+

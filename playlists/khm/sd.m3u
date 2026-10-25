@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BayonTV.kh" tvg-name="Bayon TV" group-title="General" tvg-language="khm" tvg-quality="576i",Bayon TV
+https://ip.pdtvhd.com/Khmer/streams/Bayonhd.m3u8
+
+#EXTINF:-1 tvg-id="BayonTV.kh" tvg-name="Bayon TV" group-title="General" tvg-language="khm" tvg-quality="576i",Bayon TV
+https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BTVNews.kh" tvg-name="BTV News" group-title="News" tvg-language="khm" tvg-quality="576i",BTV News
+https://server.dtvhd.com/memfs/cf0911cf-4ccc-47b1-8996-e5d705442b89.m3u8
+
+#EXTINF:-1 tvg-id="CTN.kh" tvg-name="CTN" group-title="Uncategorized" tvg-language="khm" tvg-quality="576i",CTN
+https://live.happywatch99.com/ctnhdtv/c83cc584a878608f6b36a9717bd7a8ab.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CTV9.kh" tvg-name="CTV 9" group-title="Uncategorized" tvg-language="khm" tvg-quality="576i",CTV 9
+https://stream.pdtvhd.com/live/streams/ctv9_hd_playlist.m3u8
+
+#EXTINF:-1 tvg-id="CTV8HD.kh" tvg-name="CTV8 HD" group-title="General" tvg-language="khm" tvg-quality="576i",CTV8 HD
+https://ip.pdtvhd.com/Khmer/streams/CTV8HD.m3u8
+
+#EXTINF:-1 tvg-id="CTV8HD.kh" tvg-name="CTV8 HD" group-title="General" tvg-language="khm" tvg-quality="576i",CTV8 HD
+https://server.dtvhd.com/memfs/92d5968d-1b58-486d-a1ba-7b5a3f21c16c.m3u8
+
+#EXTINF:-1 tvg-id="FreshNews.kh" tvg-name="Fresh News" group-title="News" tvg-language="khm" tvg-quality="576i",Fresh News
+http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="iTVHD.kh" tvg-name="iTV HD" group-title="Entertainment" tvg-language="khm" tvg-quality="576i",iTV HD
+https://ip.pdtvhd.com/Khmer/streams/ITVHD.m3u8
+
+#EXTINF:-1 tvg-id="iTVHD.kh" tvg-name="iTV HD" group-title="Entertainment" tvg-language="khm" tvg-quality="576i",iTV HD
+https://live.eac-news.com/Khmer/streams/ITVHD.m3u8
+
+#EXTINF:-1 tvg-id="KomsanTV.kh" tvg-name="Komsan TV" group-title="Movies" tvg-language="khm" tvg-quality="576i",Komsan TV
+http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MSJTV.kh" tvg-name="MSJ TV" group-title="General" tvg-language="khm" tvg-quality="576i",MSJ TV
+http://119.15.85.85:5080/LiveApp/streams/MSJTV_hd_playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyTV.kh" tvg-name="My TV" group-title="Entertainment" tvg-language="khm" tvg-quality="576p",My TV
+https://live.happywatch99.com/mytvhdtv/c83cc584a878608f6b36a9717bd7a8ab.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTV.kh" tvg-name="NTV" group-title="Uncategorized" tvg-language="khm" tvg-quality="576i",NTV
+http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
+
+#EXTINF:-1 tvg-id="NTV.kh" tvg-name="NTV" group-title="Uncategorized" tvg-language="khm" tvg-quality="576i",NTV
+https://stream.pdtvhd.com/LiveApp/streams/ntvhd.m3u8
+
+#EXTINF:-1 tvg-id="SangkemTV.kh" tvg-name="Sangkem TV" group-title="Religious" tvg-language="khm" tvg-quality="576i",Sangkem TV
+https://live.sangkemtv.com/memfs/sangkem.m3u8
+
+#EXTINF:-1 tvg-id="TownTV.kh" tvg-name="Town TV" group-title="Uncategorized" tvg-language="khm" tvg-quality="576i",Town TV
+https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8
+
+#EXTINF:-1 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia" group-title="Uncategorized" tvg-language="khm" tvg-quality="576i",TV5 Cambodia
+https://ip.pdtvhd.com/Khmer/streams/CTV5.m3u8
+

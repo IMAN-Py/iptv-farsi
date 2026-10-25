@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3StonesTV.ke" tvg-name="3 Stones TV" group-title="General" tvg-language="eng;kik;swa" tvg-quality="240p",3 Stones TV
+https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8
+
+#EXTINF:-1 tvg-id="NiceTVKenya.ke" tvg-name="Nice TV Kenya" group-title="General" tvg-language="eng;kik" tvg-quality="720p",Nice TV Kenya
+https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8
+

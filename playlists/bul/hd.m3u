@@ -1,0 +1,148 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="24Kitchen.us" tvg-name="24Kitchen" group-title="Cooking" tvg-language="bul" tvg-quality="1080p",24Kitchen
+http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8
+
+#EXTINF:-1 tvg-id="BNT1.bg" tvg-name="BNT 1" group-title="General" tvg-language="bul" tvg-quality="720p",BNT 1
+http://hls127.freeott.top:8080/BG_BNT_1/video.m3u8
+
+#EXTINF:-1 tvg-id="BNT1.bg" tvg-name="BNT 1" group-title="General" tvg-language="bul" tvg-quality="1080p",BNT 1
+https://shift03.isp.bg/BNT1_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="BNT2.bg" tvg-name="BNT 2" group-title="General" tvg-language="bul" tvg-quality="720p",BNT 2
+http://hls127.freeott.top:8080/BG_BNT_2_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="BNT2.bg" tvg-name="BNT 2" group-title="General" tvg-language="bul" tvg-quality="1080p",BNT 2
+https://shift03.isp.bg/BNT2_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="BNT3.bg" tvg-name="BNT 3" group-title="General" tvg-language="bul" tvg-quality="720p",BNT 3
+http://hls127.freeott.top:8080/BG_BNT_3_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="BNT3.bg" tvg-name="BNT 3" group-title="General" tvg-language="bul" tvg-quality="1080p",BNT 3
+https://shift03.isp.bg/BNT3_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="BNT4.bg" tvg-name="BNT 4" group-title="General" tvg-language="bul" tvg-quality="720p",BNT 4
+http://hls127.freeott.top:8080/BG_BNT_4_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="BNT4.bg" tvg-name="BNT 4" group-title="General" tvg-language="bul" tvg-quality="1080p",BNT 4
+https://shift03.isp.bg/BNT4_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="CodeFashionTV.bg" tvg-name="Code Fashion TV" group-title="Lifestyle" tvg-language="bul" tvg-quality="1080p",Code Fashion TV
+https://cdn2.invivo.bg/Codefashion_5500/index.m3u8
+
+#EXTINF:-1 tvg-id="CodeHealthTV.bg" tvg-name="Code Health TV" group-title="Lifestyle" tvg-language="bul" tvg-quality="1080p",Code Health TV
+https://cdn2.invivo.bg/codehealth_test/index.m3u8
+
+#EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" group-title="Legislative" tvg-language="bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mlt;nld;pol;por;ron;slk;slv;spa;swe;ukr" tvg-quality="1080p",EbS
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8
+
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl" tvg-name="FILMBOX+ Love & Crime" group-title="Movies" tvg-language="bul" tvg-quality="720p",FILMBOX+ Love & Crime
+http://hls127.freeott.top:8080/BG_FilmBox_Stars_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
+https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="720p",Love Nature
+https://bamus-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="720p",Love Nature
+https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
+https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
+
+#EXTINF:-1 tvg-id="MagicTV.bg" tvg-name="Magic TV" group-title="Music" tvg-language="bul" tvg-quality="720p",Magic TV
+https://bss1.neterra.tv/magictv/magictv.m3u8
+
+#EXTINF:-1 tvg-id="MaxSport1.bg" tvg-name="Max Sport 1" group-title="Sports" tvg-language="bul" tvg-quality="720p",Max Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36x
+http://213.91.179.28:8000/play/a0as
+
+#EXTINF:-1 tvg-id="MaxSport1.bg" tvg-name="Max Sport 1" group-title="Sports" tvg-language="bul" tvg-quality="1080p",Max Sport 1
+http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="MaxSport2.bg" tvg-name="Max Sport 2" group-title="Sports" tvg-language="bul" tvg-quality="720p",Max Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://213.91.179.28:8000/play/a0at
+
+#EXTINF:-1 tvg-id="MaxSport2.bg" tvg-name="Max Sport 2" group-title="Sports" tvg-language="bul" tvg-quality="1080p",Max Sport 2
+http://hls127.freeott.top:8080/BG_MAX_Sport_2_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="MaxSport3.bg" tvg-name="Max Sport 3" group-title="Sports" tvg-language="bul" tvg-quality="720p",Max Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://213.91.179.28:8000/play/a0ar
+
+#EXTINF:-1 tvg-id="MaxSport3.bg" tvg-name="Max Sport 3" group-title="Sports" tvg-language="bul" tvg-quality="1080p",Max Sport 3
+http://hls127.freeott.top:8080/BG_MAX_Sport_3_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="MaxSport4.bg" tvg-name="Max Sport 4" group-title="Sports" tvg-language="bul" tvg-quality="1080p",Max Sport 4
+http://hls127.freeott.top:8080/BG_MAX_Sport_4_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="MovieStar.bg" tvg-name="Movie Star" group-title="Movies" tvg-language="bul" tvg-quality="720p",Movie Star
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/MovieStar/index.m3u8
+
+#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-name="MyZen TV" group-title="Relax" tvg-language="bul;eng;fra;rus;spa;tur" tvg-quality="1080p",MyZen TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-name="MyZen TV" group-title="Relax" tvg-language="bul;eng;fra;rus;spa;tur" tvg-quality="1080p",MyZen TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.bg" tvg-name="National Geographic" group-title="Documentary" tvg-language="bul;eng" tvg-quality="1080p",National Geographic
+http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.bg" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="bul" tvg-quality="1080p",National Geographic Wild
+http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg" tvg-name="Plovdiv Orthodox TV" group-title="Religious" tvg-language="bul" tvg-quality="1080p",Plovdiv Orthodox TV
+http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-name="Show Turk" group-title="Uncategorized" tvg-language="bul;tur" tvg-quality="1080p",Show Turk
+https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8
+
+#EXTINF:-1 tvg-id="StarChannel.bg" tvg-name="Star Channel" group-title="Movies" tvg-language="bul;eng" tvg-quality="720p",Star Channel
+http://hls127.freeott.top:8080/BG_FOX/video.m3u8
+
+#EXTINF:-1 tvg-id="StarCrime.bg" tvg-name="Star Crime" group-title="Series" tvg-language="bul" tvg-quality="720p",Star Crime
+http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8
+
+#EXTINF:-1 tvg-id="StarLife.bg" tvg-name="Star Life" group-title="Series" tvg-language="bul" tvg-quality="720p",Star Life
+http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8
+
+#EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" group-title="Outdoor" tvg-language="bul;ces;hun;ron" tvg-quality="1080i",The Fishing & Hunting Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/fishing_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="TheVoice.bg" tvg-name="The Voice" group-title="Music" tvg-language="bul" tvg-quality="720p",The Voice
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
+
+#EXTINF:-1 tvg-id="ThisisBulgariaHD.bg" tvg-name="This is Bulgaria HD" group-title="Entertainment" tvg-language="bul" tvg-quality="1080p",This is Bulgaria HD
+https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
+
+#EXTINF:-1 tvg-id="TVRodina.bg" tvg-name="TV Rodina" group-title="Music" tvg-language="bul" tvg-quality="1080p",TV Rodina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/RodinaTV/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatExplore.bg" tvg-name="Viasat Explore" group-title="Documentary" tvg-language="bul" tvg-quality="1080p",Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatHistory.bg" tvg-name="Viasat History" group-title="Documentary" tvg-language="bul" tvg-quality="1080p",Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" group-title="Movies" tvg-language="bul" tvg-quality="1080p",Viasat Kino
+http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="ViasatNature.bg" tvg-name="Viasat Nature" group-title="Documentary" tvg-language="bul" tvg-quality="1080p",Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatNature_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="VivacomArena.bg" tvg-name="Vivacom Arena" group-title="Uncategorized" tvg-language="bul" tvg-quality="720p",Vivacom Arena
+http://hls127.freeott.top:8080/BG_Vivacom_Arena_HD/video.m3u8
+

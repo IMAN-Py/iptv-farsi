@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" group-title="Cooking" tvg-language="spa" tvg-quality="1080p",El Gourmet
+http://138.121.15.230:9002/EL-GOURMET/index.m3u8
+
+#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" group-title="Cooking" tvg-language="spa" tvg-quality="1080p",El Gourmet
+http://15.204.246.24:8080/ElGourmetHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" group-title="Cooking" tvg-language="spa" tvg-quality="1080p",El Gourmet
+http://190.61.101.11:7050/play/a09s/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" group-title="Cooking" tvg-language="spa" tvg-quality="1080p",El Gourmet
+https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetworkLatinAmerica.us" tvg-name="Food Network Latin America" group-title="Cooking" tvg-language="spa" tvg-quality="1080p",Food Network Latin America
+http://168.196.127.137:6001/play/a09v/index.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCocina.de" tvg-name="Pluto TV Cocina" group-title="Cooking;Lifestyle" tvg-language="spa" tvg-quality="720p",Pluto TV Cocina
+https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
+
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-name="Tastemade en Espanol" group-title="Cooking" tvg-language="spa" tvg-quality="1080p",Tastemade en Espanol
+https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
+

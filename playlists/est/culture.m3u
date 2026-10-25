@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ETV2.ee" tvg-name="ETV 2" group-title="Culture;Kids" tvg-language="est" tvg-quality="720p",ETV 2
+https://sb.err.ee/live/etv2.m3u8
+

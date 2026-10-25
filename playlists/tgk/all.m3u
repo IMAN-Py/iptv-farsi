@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Badakhshon.tj" tvg-name="Badakhshon" group-title="General" tvg-language="tgk" tvg-quality="576p",Badakhshon
+http://185.121.1.163:8083/Badakhshon/index.m3u8
+
+#EXTINF:-1 tvg-id="Badakhshon.tj" tvg-name="Badakhshon" group-title="General" tvg-language="tgk" tvg-quality="576p",Badakhshon
+https://live.teleradiocom.tj/11/3m.m3u8
+
+#EXTINF:-1 tvg-id="DushanbeHD.tj" tvg-name="Dushanbe HD" group-title="General" tvg-language="tgk" tvg-quality="1080p",Dushanbe HD
+http://185.121.1.163:8083/DushanbeHD/index.m3u8
+
+#EXTINF:-1 tvg-id="DushanbeHD.tj" tvg-name="Dushanbe HD" group-title="General" tvg-language="tgk" tvg-quality="1080p",Dushanbe HD
+https://live.teleradiocom.tj/7/3m.m3u8
+
+#EXTINF:-1 tvg-id="Futbol.tj" tvg-name="Futbol" group-title="Sports" tvg-language="tgk" tvg-quality="1080p",Futbol
+http://185.121.1.163:8083/FootballHD/index.m3u8
+
+#EXTINF:-1 tvg-id="Futbol.tj" tvg-name="Futbol" group-title="Sports" tvg-language="tgk" tvg-quality="1080p",Futbol
+https://live.teleradiocom.tj/8/3m.m3u8
+
+#EXTINF:-1 tvg-id="IlmvaTabiat.tj" tvg-name="Ilm va Tabiat" group-title="Science" tvg-language="tgk" tvg-quality="1080p",Ilm va Tabiat
+https://live.teleradiocom.tj/15/3m.m3u8
+
+#EXTINF:-1 tvg-id="Jahonnamo.tj" tvg-name="Jahonnamo" group-title="General" tvg-language="tgk" tvg-quality="1080p",Jahonnamo
+https://live.teleradiocom.tj/4/3m.m3u8
+
+#EXTINF:-1 tvg-id="Khatlon.tj" tvg-name="Khatlon" group-title="General" tvg-language="tgk" tvg-quality="576p",Khatlon
+https://live.teleradiocom.tj/10/3m.m3u8
+
+#EXTINF:-1 tvg-id="PamirTV.ca" tvg-name="Pamir TV" group-title="Culture;Music" tvg-language="eng;pus;tgk" tvg-quality="1080p",Pamir TV
+http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="TMT.tj" tvg-name="TMT" group-title="General" tvg-language="tgk" tvg-quality="1080p",TMT
+https://live.teleradiocom.tj/9/3m.m3u8
+
+#EXTINF:-1 tvg-id="Tojikiston.tj" tvg-name="Tojikiston" group-title="General" tvg-language="tgk" tvg-quality="1080p",Tojikiston
+https://live.teleradiocom.tj/1/3m.m3u8
+
+#EXTINF:-1 tvg-id="TVBahoriston.tj" tvg-name="TV Bahoriston" group-title="Kids" tvg-language="tgk" tvg-quality="1080p",TV Bahoriston
+https://live.teleradiocom.tj/3/3m.m3u8
+
+#EXTINF:-1 tvg-id="TVKulob.tj" tvg-name="TV Kulob" group-title="General" tvg-language="tgk" tvg-quality="576p",TV Kulob
+https://live.teleradiocom.tj/12/3m.m3u8
+
+#EXTINF:-1 tvg-id="TVSafina.tj" tvg-name="TV Safina" group-title="Uncategorized" tvg-language="tgk" tvg-quality="1080p",TV Safina
+https://live.teleradiocom.tj/2/3m.m3u8
+
+#EXTINF:-1 tvg-id="TVSayohi.tj" tvg-name="TV Sayohi" group-title="Travel" tvg-language="tgk" tvg-quality="1080p",TV Sayohi
+https://live.teleradiocom.tj/16/3m.m3u8
+
+#EXTINF:-1 tvg-id="TVSinamo.tj" tvg-name="TV Sinamo" group-title="Uncategorized" tvg-language="tgk" tvg-quality="1080p",TV Sinamo
+https://live.teleradiocom.tj/6/3m.m3u8
+
+#EXTINF:-1 tvg-id="TVSugd.tj" tvg-name="TV Sugd" group-title="General" tvg-language="tgk" tvg-quality="1080p",TV Sugd
+https://live.teleradiocom.tj/14/3m.m3u8
+

@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AbdulmajeedAbdullah.sa" tvg-name="Abdulmajeed Abdullah" group-title="Music" tvg-language="ara" tvg-quality="1080p",Abdulmajeed Abdullah
+https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
+
+#EXTINF:-1 tvg-id="AghaniAghaniTV.lb" tvg-name="Aghani Aghani TV" group-title="Music" tvg-language="ara" tvg-quality="1080p",Aghani Aghani TV
+https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
+
+#EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-name="Arabica TV" group-title="Music" tvg-language="ara" tvg-quality="720p",Arabica TV
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElRadio9090FM.eg" tvg-name="El Radio 9090 FM" group-title="Music" tvg-language="ara" tvg-quality="480p",El Radio 9090 FM
+https://9090video.mobtada.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Fairuz.sa" tvg-name="Fairuz" group-title="Music" tvg-language="ara" tvg-quality="1080p",Fairuz
+https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FalastiniTV.ps" tvg-name="Falastini TV" group-title="Music" tvg-language="ara" tvg-quality="1080p",Falastini TV
+https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IshtarTV.iq" tvg-name="Ishtar TV" group-title="Culture;Music;Religious" tvg-language="ara" tvg-quality="1080p",Ishtar TV
+https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JeddahRadio.sa" tvg-name="Jeddah Radio" group-title="Music" tvg-language="ara" tvg-quality="1080p",Jeddah Radio
+https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8
+
+#EXTINF:-1 tvg-id="JordanSongs.jo" tvg-name="Jordan Songs" group-title="Music" tvg-language="ara" tvg-quality="1080p",Jordan Songs
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MajidAlMohandis.sa" tvg-name="Majid Al Mohandis" group-title="Music" tvg-language="ara" tvg-quality="1080p",Majid Al Mohandis
+https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MarinaTV.kw" tvg-name="Marina TV" group-title="Music" tvg-language="ara" tvg-quality="1080p",Marina TV
+https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Mazzika.eg" tvg-name="Mazzika" group-title="Music" tvg-language="ara" tvg-quality="576p",Mazzika
+http://149.100.11.235:8080/Mazzika/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCMood.sa" tvg-name="MBC Mood" group-title="Music" tvg-language="ara" tvg-quality="1080p",MBC Mood
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
+
+#EXTINF:-1 tvg-id="MelodyFM.jo" tvg-name="Melody FM" group-title="Music" tvg-language="ara" tvg-quality="720p",Melody FM
+https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mfm.lb" tvg-name="mfm" group-title="Music" tvg-language="ara" tvg-quality="1080p",mfm
+https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MohammedAbdo.sa" tvg-name="Mohammed Abdo" group-title="Music" tvg-language="ara" tvg-quality="1080p",Mohammed Abdo
+https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8
+
+#EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-name="Mosaique FM" group-title="Music" tvg-language="ara" tvg-quality="1080p",Mosaique FM
+https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="NidaeAlIslamRadio.sa" tvg-name="Nidae AlIslam Radio" group-title="Music" tvg-language="ara" tvg-quality="1080p",Nidae AlIslam Radio
+https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NogoumFMTV.eg" tvg-name="NogoumFMTV" group-title="Music" tvg-language="ara" tvg-quality="672p",NogoumFMTV
+https://nogoumtv.nrpstream.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="OneTV.lb" tvg-name="One TV" group-title="Music" tvg-language="ara" tvg-quality="720p",One TV
+https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OneFM.lb" tvg-name="OneFM" group-title="Music" tvg-language="ara" tvg-quality="720p",OneFM
+https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PanoramaFM.sa" tvg-name="Panorama FM" group-title="Music" tvg-language="ara" tvg-quality="1080p",Panorama FM
+https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
+
+#EXTINF:-1 tvg-id="PanoramaFM.sa" tvg-name="Panorama FM" group-title="Music" tvg-language="ara" tvg-quality="1080p",Panorama FM
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-panorama-fm/ea22f3856a1b772f793c43eb5d1c0636/index.m3u8
+
+#EXTINF:-1 tvg-id="RabehSaqer.sa" tvg-name="Rabeh Saqer" group-title="Music" tvg-language="ara" tvg-quality="1080p",Rabeh Saqer
+https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RashidAlMajed.sa" tvg-name="Rashid AlMajed" group-title="Music" tvg-language="ara" tvg-quality="1080p",Rashid AlMajed
+https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8
+
+#EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-name="Rotana Khalijia" group-title="Music" tvg-language="ara" tvg-quality="1080p",Rotana Khalijia
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-name="Rotana Music" group-title="Music" tvg-language="ara" tvg-quality="1080p",Rotana Music
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tarab.sa" tvg-name="Tarab" group-title="Music" tvg-language="ara" tvg-quality="1080p",Tarab
+https://shd-amg-fast.edgenextcdn.net/tx002/playlist.m3u8
+

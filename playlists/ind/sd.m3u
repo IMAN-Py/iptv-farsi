@@ -1,0 +1,289 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AhsanTV.id" tvg-name="Ahsan TV" group-title="Religious" tvg-language="ind" tvg-quality="576i",Ahsan TV
+https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AshiilTV.id" tvg-name="Ashiil TV" group-title="Religious" tvg-language="ind" tvg-quality="480p",Ashiil TV
+#EXTVLCOPT:http-referrer=https://ashiil.tv/
+https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AshiilTV.id" tvg-name="Ashiil TV" group-title="Religious" tvg-language="ind" tvg-quality="480p",Ashiil TV
+https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
+
+#EXTINF:-1 tvg-id="BandungTV.id" tvg-name="Bandung TV" group-title="General" tvg-language="ind" tvg-quality="360p",Bandung TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+
+#EXTINF:-1 tvg-id="BatamTV.id" tvg-name="Batam TV" group-title="General" tvg-language="ind" tvg-quality="480p",Batam TV
+http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" group-title="News" tvg-language="ind" tvg-quality="576i",BeritaSatu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
+
+#EXTINF:-1 tvg-id="BNChannel.id" tvg-name="BN Channel" group-title="News" tvg-language="ind" tvg-quality="576i",BN Channel
+http://175.158.57.130:8888/stream/channelid/1402218159
+
+#EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" group-title="News" tvg-language="ind" tvg-quality="576i",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" group-title="News" tvg-language="ind" tvg-quality="576i",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
+
+#EXTINF:-1 tvg-id="BungoTV.id" tvg-name="Bungo TV" group-title="General" tvg-language="ind" tvg-quality="480p",Bungo TV
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CelebesTV.id" tvg-name="Celebes TV" group-title="General" tvg-language="ind" tvg-quality="576i",Celebes TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" group-title="Business" tvg-language="ind" tvg-quality="576i",CNBC Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" group-title="News" tvg-language="ind" tvg-quality="576i",CNN Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="DavikaTV.id" tvg-name="Davika TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="480p",Davika TV
+#EXTVLCOPT:http-referrer=https://davikatv.co/livestreaming/
+https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DensFoodChannel.id" tvg-name="Dens Food Channel" group-title="Cooking" tvg-language="ind" tvg-quality="576i",Dens Food Channel
+https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
+
+#EXTINF:-1 tvg-id="DensFoodChannel.id" tvg-name="Dens Food Channel" group-title="Cooking" tvg-language="ind" tvg-quality="576i",Dens Food Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
+
+#EXTINF:-1 tvg-id="DensKnowledge.id" tvg-name="Dens Knowledge" group-title="Education" tvg-language="ind" tvg-quality="576i",Dens Knowledge
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
+
+#EXTINF:-1 tvg-id="DensLifeStyle.id" tvg-name="Dens Life & Style" group-title="Lifestyle" tvg-language="ind" tvg-quality="576i",Dens Life & Style
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
+
+#EXTINF:-1 tvg-id="DensPlay.id" tvg-name="Dens Play" group-title="Lifestyle" tvg-language="ind" tvg-quality="576i",Dens Play
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h225/index.m3u8
+
+#EXTINF:-1 tvg-id="DensPlay.id" tvg-name="Dens Play" group-title="Lifestyle" tvg-language="ind" tvg-quality="576i",Dens Play
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h246/index.m3u8
+
+#EXTINF:-1 tvg-id="DensShowBiz.id" tvg-name="Dens ShowBiz" group-title="Entertainment" tvg-language="ind" tvg-quality="576i",Dens ShowBiz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8
+
+#EXTINF:-1 tvg-id="DensShowBiz.id" tvg-name="Dens ShowBiz" group-title="Entertainment" tvg-language="ind" tvg-quality="576i",Dens ShowBiz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
+
+#EXTINF:-1 tvg-id="DMITV.id" tvg-name="DMI TV" group-title="Religious" tvg-language="ind" tvg-quality="576i",DMI TV
+https://tvstreamcast.com/tawaftv.m3u8
+
+#EXTINF:-1 tvg-id="dTVi.id" tvg-name="dTVi" group-title="General" tvg-language="ind" tvg-quality="576i",dTVi
+https://e.siar.us/live/dtvi.m3u8
+
+#EXTINF:-1 tvg-id="DutaTV.id" tvg-name="Duta TV" group-title="General" tvg-language="ind" tvg-quality="360p",Duta TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EInternational.id" tvg-name="E International" group-title="General" tvg-language="ind" tvg-quality="576p",E International
+https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8
+
+#EXTINF:-1 tvg-id="EInternational.id" tvg-name="E International" group-title="General" tvg-language="ind" tvg-quality="576p",E International
+https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8
+
+#EXTINF:-1 tvg-id="EInternational.id" tvg-name="E International" group-title="General" tvg-language="ind" tvg-quality="576p",E International
+https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp410.310.578:2020.m3u8
+
+#EXTINF:-1 tvg-id="EInternational.id" tvg-name="E International" group-title="General" tvg-language="ind" tvg-quality="480p",E International
+https://vodcdn.bamboo-cloud.com/livehls/69a123b780c99d28cc0f0016/master.m3u8
+
+#EXTINF:-1 tvg-id="GrooviaKanal.id" tvg-name="Groovia Kanal" group-title="General" tvg-language="ind" tvg-quality="576p",Groovia Kanal
+https://gist.githubusercontent.com/iptvonlinetv/02d209207082846012c15305f7471c55/raw/4439b54b986e696e6fcfba7a53380d85b27bbbc1/udp450.500.723:6050.m3u8
+
+#EXTINF:-1 tvg-id="GrooviaKids.id" tvg-name="Groovia Kids" group-title="Kids" tvg-language="ind" tvg-quality="576p",Groovia Kids
+https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
+
+#EXTINF:-1 tvg-id="HITSMovies.sg" tvg-name="HITS Movies" group-title="Movies" tvg-language="eng;ind" tvg-quality="576p",HITS Movies
+http://103.151.60.162:2122/play/a01h/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="IAmChannel.id" tvg-name="I Am Channel" group-title="Religious" tvg-language="ind" tvg-quality="576p",I Am Channel
+#EXTVLCOPT:http-referrer=https://iamchannel.org/
+https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="JakTV.id" tvg-name="Jak TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="576i",Jak TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8
+
+#EXTINF:-1 tvg-id="JambiTV.id" tvg-name="Jambi TV" group-title="General" tvg-language="ind" tvg-quality="576i",Jambi TV
+https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8
+
+#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" group-title="General" tvg-language="ind" tvg-quality="576i",JTV
+http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" group-title="General" tvg-language="ind" tvg-quality="480p",JTV
+http://122.248.43.242:1935/JTVMADURA/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" group-title="General" tvg-language="ind" tvg-quality="576i",JTV
+http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KidsTV.id" tvg-name="Kids TV" group-title="Kids" tvg-language="ind" tvg-quality="576i",Kids TV
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+
+#EXTINF:-1 tvg-id="KilisuciTV.id" tvg-name="Kilisuci TV" group-title="General" tvg-language="ind" tvg-quality="576i",Kilisuci TV
+https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" group-title="News" tvg-language="ind" tvg-quality="576i",Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" group-title="News" tvg-language="ind" tvg-quality="576i",Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
+
+#EXTINF:-1 tvg-id="LingkarTV.id" tvg-name="Lingkar TV" group-title="Music;News;Religious" tvg-language="ind;jav" tvg-quality="576i",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+
+#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-name="Magna Channel" group-title="General" tvg-language="ind" tvg-quality="576i",Magna Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" group-title="News" tvg-language="ind" tvg-quality="576i",Metro TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MGSTV.id" tvg-name="MGSTV" group-title="General" tvg-language="ind" tvg-quality="360p",MGSTV
+#EXTVLCOPT:http-referrer=https://mgstv.co.id/live-streaming/
+https://mgstv.siar.us/live/mgstv.m3u8
+
+#EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" group-title="General" tvg-language="eng;ind" tvg-quality="576i",Moji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+
+#EXTINF:-1 tvg-id="MyKidz.id" tvg-name="My Kidz" group-title="Kids" tvg-language="ind" tvg-quality="576i",My Kidz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
+
+#EXTINF:-1 tvg-id="NewChannelPop.ca" tvg-name="New Channel Pop!" group-title="Kids" tvg-language="eng;ind;msa;por;rus" tvg-quality="480p",New Channel Pop!
+#EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6ab37c6c7e057f9063071c85
+https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
+
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-name="Nusantara TV" group-title="General" tvg-language="ind" tvg-quality="576i",Nusantara TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
+
+#EXTINF:-1 tvg-id="PKTV.id" tvg-name="PKTV" group-title="Uncategorized" tvg-language="ind" tvg-quality="480p",PKTV
+#EXTVLCOPT:http-referrer=https://pktvkaltim.com/acara/live-content/?noamp=mobile
+https://streaming.id18.tunnel.my.id/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="RadarLampungTV.id" tvg-name="Radar Lampung TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="480p",Radar Lampung TV
+#EXTVLCOPT:http-referrer=https://radartvnews.com/live-streaming/
+https://www.streaming.radartv.co.id/hls/test.m3u8
+
+#EXTINF:-1 tvg-id="RodjaTV.id" tvg-name="Rodja TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="576i",Rodja TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" group-title="General" tvg-language="ind" tvg-quality="576i",SCTV
+http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" group-title="General" tvg-language="ind" tvg-quality="576i",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+
+#EXTINF:-1 tvg-id="Simpang5TV.id" tvg-name="Simpang5 TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="360p",Simpang5 TV
+http://122.248.43.242:1935/SIMPANG5TV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SurauTV.id" tvg-name="Surau TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="576i",Surau TV
+https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
+
+#EXTINF:-1 tvg-id="TegarTVLampung.id" tvg-name="Tegar TV Lampung" group-title="Uncategorized" tvg-language="ind" tvg-quality="480p",Tegar TV Lampung
+http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TegarTVLampung.id" tvg-name="Tegar TV Lampung" group-title="Uncategorized" tvg-language="ind" tvg-quality="480p",Tegar TV Lampung
+https://5bf7b725107e5.streamlock.net/tegartv/tegartv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvOne.id" tvg-name="tvOne" group-title="Uncategorized" tvg-language="ind" tvg-quality="576i",tvOne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="576i",TVRI
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="480p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-name="TVRI Sport" group-title="Sports" tvg-language="ind" tvg-quality="576i",TVRI Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
+
+#EXTINF:-1 tvg-id="UChannel.id" tvg-name="U Channel" group-title="Uncategorized" tvg-language="ind" tvg-quality="576i",U Channel
+#EXTVLCOPT:http-referrer=https://www.u-channel.tv
+https://srs.u-channel.tv/live/uchannel-tv.m3u8
+
+#EXTINF:-1 tvg-id="YOYInternational.id" tvg-name="YOY International" group-title="General" tvg-language="ind" tvg-quality="576p",YOY International
+https://gist.githubusercontent.com/iptvonlinetv/8a6b2f12e5e968537378f1245cea02c9/raw/78bf84476f8e24cc8ea9d5ac24855078c61b18db/udp305.575.530:3030.m3u8
+

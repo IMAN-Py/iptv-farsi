@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DDGoa.in" tvg-name="DD Goa" group-title="General" tvg-language="kok;mar" tvg-quality="504p",DD Goa
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8
+
+#EXTINF:-1 tvg-id="DDSahyadri.in" tvg-name="DD Sahyadri" group-title="General" tvg-language="mar" tvg-quality="504p",DD Sahyadri
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
+

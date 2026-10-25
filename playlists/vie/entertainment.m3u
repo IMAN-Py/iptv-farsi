@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AnGiangTV2.vn" tvg-name="An Giang TV 2" group-title="Entertainment" tvg-language="vie" tvg-quality="1080p",An Giang TV 2
+https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
+
+#EXTINF:-1 tvg-id="AnGiangTV3.vn" tvg-name="An Giang TV 3" group-title="Entertainment" tvg-language="vie" tvg-quality="1080p",An Giang TV 3
+https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
+
+#EXTINF:-1 tvg-id="DongNaiTV2.vn" tvg-name="Dong Nai TV 2" group-title="Entertainment;Sports" tvg-language="vie" tvg-quality="1080p",Dong Nai TV 2
+https://freem3u.xyz/api/live/play.m3u8?vid=255
+
+#EXTINF:-1 tvg-id="DongNaiTV2.vn" tvg-name="Dong Nai TV 2" group-title="Entertainment;Sports" tvg-language="vie" tvg-quality="720p",Dong Nai TV 2
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
+
+#EXTINF:-1 tvg-id="HTV2.vn" tvg-name="HTV2" group-title="Entertainment;General" tvg-language="vie" tvg-quality="720p",HTV2
+https://dethich.pw/htv2/index.m3u8
+
+#EXTINF:-1 tvg-id="HTV3.vn" tvg-name="HTV3" group-title="Entertainment;General;Series" tvg-language="vie" tvg-quality="720p",HTV3
+https://dethich.pw/htv3/index.m3u8
+
+#EXTINF:-1 tvg-id="ONVieGiaiTri.vn" tvg-name="ON Vie Giai Tri" group-title="Entertainment" tvg-language="vie" tvg-quality="1080p",ON Vie Giai Tri
+https://freem3u.xyz/api/live/play.m3u8?vid=180
+
+#EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="720p",Tra Vinh TV
+https://dethich.pw/thvl5/index.m3u8
+
+#EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="1080p",Tra Vinh TV
+https://freem3u.xyz/api/live/play.m3u8?vid=91
+
+#EXTINF:-1 tvg-id="VinhLongTV2.vn" tvg-name="Vinh Long TV 2" group-title="Culture;Entertainment" tvg-language="vie" tvg-quality="1080p",Vinh Long TV 2
+https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VinhLongTV2.vn" tvg-name="Vinh Long TV 2" group-title="Culture;Entertainment" tvg-language="vie" tvg-quality="720p",Vinh Long TV 2
+https://dethich.pw/thvl2/index.m3u8
+
+#EXTINF:-1 tvg-id="VinhLongTV3.vn" tvg-name="Vinh Long TV 3" group-title="Entertainment;Movies" tvg-language="vie" tvg-quality="720p",Vinh Long TV 3
+https://dethich.pw/thvl3/index.m3u8
+
+#EXTINF:-1 tvg-id="VinhLongTV4.vn" tvg-name="Vinh Long TV 4" group-title="Culture;Entertainment;Sports;Travel" tvg-language="vie" tvg-quality="720p",Vinh Long TV 4
+https://dethich.pw/thvl4/index.m3u8
+

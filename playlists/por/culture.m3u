@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1" group-title="Culture" tvg-language="por" tvg-quality="720p",Arte 1
+http://168.197.104.22/ARTE1/index.m3u8
+
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1" group-title="Culture" tvg-language="por" tvg-quality="720p",Arte 1
+http://170.83.16.50/ARTE_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1" group-title="Culture" tvg-language="por" tvg-quality="720p",Arte 1
+http://45.162.64.114/ARTE1/index.m3u8
+
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1" group-title="Culture" tvg-language="por" tvg-quality="720p",Arte 1
+http://45.177.114.115/ARTE1/index.m3u8
+
+#EXTINF:-1 tvg-id="BemMaisTV.br" tvg-name="Bem Mais TV" group-title="Culture;Education" tvg-language="por" tvg-quality="1080p",Bem Mais TV
+#EXTVLCOPT:http-referrer=https://bemmaistv.com.br/
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="STZTV.br" tvg-name="STZ TV" group-title="Culture;News" tvg-language="por" tvg-quality="1080p",STZ TV
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVdasArtes.br" tvg-name="TV das Artes" group-title="Culture" tvg-language="por" tvg-quality="360p",TV das Artes
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVLifeAmerica.br" tvg-name="TV Life America" group-title="Culture" tvg-language="por" tvg-quality="720p",TV Life America
+https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
+
+#EXTINF:-1 tvg-id="TVUFOP.br" tvg-name="TV UFOP" group-title="Culture;Education;Public" tvg-language="por" tvg-quality="1080p",TV UFOP
+https://app.tvufop.com.br/hls/tvufop.m3u8
+
+#EXTINF:-1 tvg-id="TVERS.br" tvg-name="TVE RS" group-title="Culture;Education" tvg-language="por" tvg-quality="1080p",TVE RS
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UnisulTV.br" tvg-name="Unisul TV" group-title="Culture;Education" tvg-language="por" tvg-quality="720p",Unisul TV
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+

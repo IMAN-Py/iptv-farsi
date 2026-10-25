@@ -1,0 +1,553 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" group-title="Entertainment" tvg-language="zho" tvg-quality="576i",8TV
+http://cdn6.163189.xyz/163189/8tv
+
+#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" group-title="Entertainment" tvg-language="zho" tvg-quality="576i",8TV
+https://tonton-live-switch-ssar.akamaized.net/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
+
+#EXTINF:-1 tvg-id="AnhuiTV.cn" tvg-name="Anhui TV" group-title="Uncategorized" tvg-language="zho" tvg-quality="576i",Anhui TV
+https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
+
+#EXTINF:-1 tvg-id="AnshunComprehensiveNewsChannel.cn" tvg-name="Anshun Comprehensive News Channel" group-title="News" tvg-language="zho" tvg-quality="576i",Anshun Comprehensive News Channel
+https://hplayer1.juyun.tv/camera/154379194.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="480i",BabyFirst
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+
+#EXTINF:-1 tvg-id="BaichengTV.cn" tvg-name="Baicheng TV" group-title="General" tvg-language="zho" tvg-quality="576i",Baicheng TV
+https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
+
+#EXTINF:-1 tvg-id="BeautifulLifeTV.tw" tvg-name="Beautiful Life TV" group-title="Religious" tvg-language="zho" tvg-quality="480i",Beautiful Life TV
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BeijingSatelliteTV.cn" tvg-name="Beijing Satellite TV" group-title="General" tvg-language="zho" tvg-quality="576i",Beijing Satellite TV
+http://ivi.bupt.edu.cn/hls/btv1.m3u8
+
+#EXTINF:-1 tvg-id="BeritaRTM.my" tvg-name="Berita RTM" group-title="News" tvg-language="eng;msa;tam;zho" tvg-quality="576i",Berita RTM
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+
+#EXTINF:-1 tvg-id="BingtuanSatelliteTV.cn" tvg-name="Bingtuan Satellite TV" group-title="Uncategorized" tvg-language="zho" tvg-quality="540p",Bingtuan Satellite TV
+http://112.25.48.68/live/program/live/btws/1300000/mnf.m3u8
+
+#EXTINF:-1 tvg-id="BRTVKakuChildrensChannel.cn" tvg-name="BRTV Kaku Childrens Channel" group-title="Kids" tvg-language="zho" tvg-quality="576i",BRTV Kaku Childrens Channel
+http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
+
+#EXTINF:-1 tvg-id="BSTV.hk" tvg-name="BSTV" group-title="Shop" tvg-language="yue;zho" tvg-quality="576p",BSTV
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CCTVPlus1.cn" tvg-name="CCTV+ 1" group-title="News" tvg-language="zho" tvg-quality="600p",CCTV+ 1
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CCTVPlus2.cn" tvg-name="CCTV+ 2" group-title="News" tvg-language="zho" tvg-quality="600p",CCTV+ 2
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV-1" group-title="General" tvg-language="zho" tvg-quality="576i",CCTV-1
+https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
+
+#EXTINF:-1 tvg-id="CCTV10.cn" tvg-name="CCTV-10" group-title="Education" tvg-language="zho" tvg-quality="576i",CCTV-10
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4America.cn" tvg-name="CCTV-4 America" group-title="General" tvg-language="eng;zho" tvg-quality="576i",CCTV-4 America
+https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4Europe.cn" tvg-name="CCTV-4 Europe" group-title="General" tvg-language="eng;zho" tvg-quality="576i",CCTV-4 Europe
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-name="CCTV-5+" group-title="Sports" tvg-language="zho" tvg-quality="576i",CCTV-5+
+https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
+
+#EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="CCTV-6" group-title="Movies" tvg-language="zho" tvg-quality="576i",CCTV-6
+https://live.eac-news.com/CCTV/streams/cctv6.m3u8
+
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-name="CCTV-9" group-title="Documentary" tvg-language="zho" tvg-quality="576i",CCTV-9
+https://xykt-fix.github.io/Y77.m3u8
+
+#EXTINF:-1 tvg-id="CCTVWomensFashion.cn" tvg-name="CCTV-Women's Fashion" group-title="Lifestyle" tvg-language="zho" tvg-quality="576p",CCTV-Women's Fashion
+http://223.110.245.169/PLTV/4/224/3221227026/index.m3u8
+
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="Celestial Movies" group-title="Movies" tvg-language="zho" tvg-quality="576i",Celestial Movies
+http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CETV1.cn" tvg-name="CETV-1" group-title="Education" tvg-language="zho" tvg-quality="576p",CETV-1
+http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
+
+#EXTINF:-1 tvg-id="CETV2.cn" tvg-name="CETV-2" group-title="Education" tvg-language="zho" tvg-quality="576p",CETV-2
+http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="576p",CGTN
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="576i",CGTN
+https://dash4.antik.sk/live/test_cgtn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="576i",CGTN
+https://h5cul1yar48um3t.wcetv.com/hls/cgtn.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="576p",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-id="ChaozhouPublicChannel.cn" tvg-name="Chaozhou Public Channel" group-title="General" tvg-language="zho" tvg-quality="576i",Chaozhou Public Channel
+http://113.64.146.48:1688/hls/4/index.m3u8
+
+#EXTINF:-1 tvg-id="ChinaWeatherChannel.cn" tvg-name="China Weather Channel" group-title="Weather" tvg-language="zho" tvg-quality="576p",China Weather Channel
+http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+
+#EXTINF:-1 tvg-id="ChuxiongNewsChannel.cn" tvg-name="Chuxiong News Channel" group-title="News" tvg-language="zho" tvg-quality="576i",Chuxiong News Channel
+http://hwapi.yntv.net/ew265l/848y54.m3u8
+
+#EXTINF:-1 tvg-id="ChuzhouPublicChannel.cn" tvg-name="Chuzhou Public Channel" group-title="General" tvg-language="zho" tvg-quality="400p",Chuzhou Public Channel
+http://live.cztv.cc:85/live/ggpd.m3u8
+
+#EXTINF:-1 tvg-id="ChuzhouScienceEducationChannel.cn" tvg-name="Chuzhou Science & Education Channel" group-title="Education;Science" tvg-language="zho" tvg-quality="400p",Chuzhou Science & Education Channel
+http://live.cztv.cc:85/live/sjpd.m3u8
+
+#EXTINF:-1 tvg-id="CNDFilmDiscoveryChannel.cn" tvg-name="CND Film Discovery Channel" group-title="Documentary" tvg-language="zho" tvg-quality="576p",CND Film Discovery Channel
+http://125.210.152.18:9090/live/FXZL_750.m3u8
+
+#EXTINF:-1 tvg-id="CNDFilmMiddleSchoolChannel.cn" tvg-name="CND Film Middle School Channel" group-title="Movies" tvg-language="zho" tvg-quality="576i",CND Film Middle School Channel
+http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
+
+#EXTINF:-1 tvg-id="CNDFilmMiddleSchoolChannel.cn" tvg-name="CND Film Middle School Channel" group-title="Movies" tvg-language="zho" tvg-quality="576i",CND Film Middle School Channel
+http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=
+
+#EXTINF:-1 tvg-id="CTSNews.tw" tvg-name="CTS News" group-title="News" tvg-language="zho" tvg-quality="480i",CTS News
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+
+#EXTINF:-1 tvg-id="DAAITV.id" tvg-name="DAAI TV" group-title="Religious" tvg-language="zho" tvg-quality="576i",DAAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
+
+#EXTINF:-1 tvg-id="DAAITV.id" tvg-name="DAAI TV" group-title="Religious" tvg-language="zho" tvg-quality="576i",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+
+#EXTINF:-1 tvg-id="DongguanComprehensiveNewsChannel.cn" tvg-name="Dongguan Comprehensive News Channel" group-title="News" tvg-language="zho" tvg-quality="576i",Dongguan Comprehensive News Channel
+http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
+
+#EXTINF:-1 tvg-id="DongguanComprehensiveNewsChannel.cn" tvg-name="Dongguan Comprehensive News Channel" group-title="News" tvg-language="zho" tvg-quality="576i",Dongguan Comprehensive News Channel
+https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+
+#EXTINF:-1 tvg-id="DragonTVInternational.cn" tvg-name="Dragon TV International" group-title="General" tvg-language="zho" tvg-quality="480p",Dragon TV International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservesd-1.dens.tv/s/s29/index.m3u8
+
+#EXTINF:-1 tvg-id="DragonTVInternational.cn" tvg-name="Dragon TV International" group-title="General" tvg-language="zho" tvg-quality="576i",Dragon TV International
+https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
+
+#EXTINF:-1 tvg-id="EBCForeignMovie.tw" tvg-name="EBC Foreign Movie" group-title="Movies" tvg-language="zho" tvg-quality="480i",EBC Foreign Movie
+http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv
+
+#EXTINF:-1 tvg-id="FujianComprehensiveChannel.cn" tvg-name="Fujian Comprehensive Channel" group-title="General" tvg-language="zho" tvg-quality="576i",Fujian Comprehensive Channel
+http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88
+
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-name="God Stands Kids Club TV" group-title="Kids;Religious" tvg-language="zho" tvg-quality="480i",God Stands Kids Club TV
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
+
+#EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-name="God Stands TV" group-title="Religious" tvg-language="zho" tvg-quality="480i",God Stands TV
+https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
+
+#EXTINF:-1 tvg-id="GoldenEagleCartoon.cn" tvg-name="Golden Eagle Cartoon" group-title="Animation;Kids" tvg-language="zho" tvg-quality="576i",Golden Eagle Cartoon
+http://1.24.190.98:10080/hls/51/index.m3u8
+
+#EXTINF:-1 tvg-id="GoldenEagleCartoon.cn" tvg-name="Golden Eagle Cartoon" group-title="Animation;Kids" tvg-language="zho" tvg-quality="540p",Golden Eagle Cartoon
+http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8
+
+#EXTINF:-1 tvg-id="GoldenEagleCartoon.cn" tvg-name="Golden Eagle Cartoon" group-title="Animation;Kids" tvg-language="zho" tvg-quality="576p",Golden Eagle Cartoon
+http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8
+
+#EXTINF:-1 tvg-id="GoldenEagleCartoon.cn" tvg-name="Golden Eagle Cartoon" group-title="Animation;Kids" tvg-language="zho" tvg-quality="576p",Golden Eagle Cartoon
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
+
+#EXTINF:-1 tvg-id="GuangdongSatelliteTV.cn" tvg-name="Guangdong Satellite TV" group-title="Uncategorized" tvg-language="zho" tvg-quality="576i",Guangdong Satellite TV
+https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8
+
+#EXTINF:-1 tvg-id="GuangdongTVAmerica.us" tvg-name="Guangdong TV America" group-title="General" tvg-language="zho" tvg-quality="576i",Guangdong TV America
+https://h5cul1yar48um3t.wcetv.com/hls/gdtv.m3u8
+
+#EXTINF:-1 tvg-id="GuangxiVarietyTravelChannel.cn" tvg-name="Guangxi Variety & Travel Channel" group-title="General;Travel" tvg-language="zho" tvg-quality="576i",Guangxi Variety & Travel Channel
+http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="GuangzhouTV.cn" tvg-name="Guangzhou TV" group-title="General" tvg-language="zho" tvg-quality="576i",Guangzhou TV
+https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+
+#EXTINF:-1 tvg-id="GuizhouTV.cn" tvg-name="Guizhou TV" group-title="General" tvg-language="zho" tvg-quality="360p",Guizhou TV
+http://125.210.152.18:9090/live/GZWSHD_H265.m3u8
+
+#EXTINF:-1 tvg-id="GuizhouTV.cn" tvg-name="Guizhou TV" group-title="General" tvg-language="zho" tvg-quality="576p",Guizhou TV
+http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU
+
+#EXTINF:-1 tvg-id="GuizhouTV.cn" tvg-name="Guizhou TV" group-title="General" tvg-language="zho" tvg-quality="576p",Guizhou TV
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225787/index.m3u8
+
+#EXTINF:-1 tvg-id="HakkaTV.tw" tvg-name="Hakka TV" group-title="Culture" tvg-language="zho" tvg-quality="480i",Hakka TV
+https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
+
+#EXTINF:-1 tvg-id="HarbinComprehensiveNewsChannel.cn" tvg-name="Harbin Comprehensive News Channel" group-title="News" tvg-language="zho" tvg-quality="576i",Harbin Comprehensive News Channel
+https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
+
+#EXTINF:-1 tvg-id="HarbinMovieChannel.cn" tvg-name="Harbin Movie Channel" group-title="Movies" tvg-language="zho" tvg-quality="576i",Harbin Movie Channel
+https://stream.hrbtv.net/yspd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HebeiTV.cn" tvg-name="Hebei TV" group-title="General" tvg-language="zho" tvg-quality="576i",Hebei TV
+https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8
+
+#EXTINF:-1 tvg-id="HebiNewsChannel.cn" tvg-name="Hebi News Channel" group-title="News" tvg-language="zho" tvg-quality="480p",Hebi News Channel
+http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
+
+#EXTINF:-1 tvg-id="HeilongjiangTV.cn" tvg-name="Heilongjiang TV" group-title="General" tvg-language="zho" tvg-quality="576p",Heilongjiang TV
+http://183.207.248.71/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG
+
+#EXTINF:-1 tvg-id="HezhengTV.cn" tvg-name="Hezheng TV" group-title="General" tvg-language="zho" tvg-quality="576i",Hezheng TV
+http://117.156.28.119/270000001111/1110000149/index.m3u8
+
+#EXTINF:-1 tvg-id="HongKongInternationalBusinessChannel.hk" tvg-name="Hong Kong International Business Channel" group-title="Business" tvg-language="eng;zho" tvg-quality="576i",Hong Kong International Business Channel
+https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8
+
+#EXTINF:-1 tvg-id="HunanEconomyChannel.cn" tvg-name="Hunan Economy Channel" group-title="General" tvg-language="zho" tvg-quality="576i",Hunan Economy Channel
+https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
+
+#EXTINF:-1 tvg-id="HunanNewsChannel.cn" tvg-name="Hunan News Channel" group-title="News" tvg-language="zho" tvg-quality="576i",Hunan News Channel
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
+
+#EXTINF:-1 tvg-id="HunanPoliticsLawChannel.cn" tvg-name="Hunan Politics & Law Channel" group-title="Legislative" tvg-language="zho" tvg-quality="576i",Hunan Politics & Law Channel
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
+
+#EXTINF:-1 tvg-id="HunanWomensChannel.cn" tvg-name="Hunan Womens Channel" group-title="Lifestyle" tvg-language="zho" tvg-quality="576i",Hunan Womens Channel
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
+
+#EXTINF:-1 tvg-id="JiangsuCityChannel.cn" tvg-name="Jiangsu City Channel" group-title="General" tvg-language="zho" tvg-quality="576p",Jiangsu City Channel
+http://183.207.248.71/gitv/live1/G_JSCS/G_JSCS
+
+#EXTINF:-1 tvg-id="JiangsuCityChannel.cn" tvg-name="Jiangsu City Channel" group-title="General" tvg-language="zho" tvg-quality="576p",Jiangsu City Channel
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225929/index.m3u8
+
+#EXTINF:-1 tvg-id="JiangsuEducationalChannel.cn" tvg-name="Jiangsu Educational Channel" group-title="Education" tvg-language="zho" tvg-quality="576p",Jiangsu Educational Channel
+http://183.207.248.71/gitv/live1/G_JSJY/G_JSJY
+
+#EXTINF:-1 tvg-id="JiangsuEducationalChannel.cn" tvg-name="Jiangsu Educational Channel" group-title="Education" tvg-language="zho" tvg-quality="576p",Jiangsu Educational Channel
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
+
+#EXTINF:-1 tvg-id="JiangsuMovieChannel.cn" tvg-name="Jiangsu Movie Channel" group-title="Movies" tvg-language="zho" tvg-quality="576p",Jiangsu Movie Channel
+http://183.207.248.71/gitv/live1/G_JSYS/G_JSYS
+
+#EXTINF:-1 tvg-id="JiangsuMovieChannel.cn" tvg-name="Jiangsu Movie Channel" group-title="Movies" tvg-language="zho" tvg-quality="576p",Jiangsu Movie Channel
+http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
+
+#EXTINF:-1 tvg-id="JiangsuPublicNewsChannel.cn" tvg-name="Jiangsu Public & News Channel" group-title="General" tvg-language="zho" tvg-quality="576p",Jiangsu Public & News Channel
+http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG
+
+#EXTINF:-1 tvg-id="JiangsuPublicNewsChannel.cn" tvg-name="Jiangsu Public & News Channel" group-title="General" tvg-language="zho" tvg-quality="576i",Jiangsu Public & News Channel
+https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
+
+#EXTINF:-1 tvg-id="JiangsuSatelliteTV.cn" tvg-name="Jiangsu Satellite TV" group-title="Uncategorized" tvg-language="zho" tvg-quality="576p",Jiangsu Satellite TV
+http://183.207.248.71/gitv/live1/JSWS-HD/JSWS-HD
+
+#EXTINF:-1 tvg-id="JiangsuSportsLeisureChannel.cn" tvg-name="Jiangsu Sports & Leisure Channel" group-title="Sports" tvg-language="zho" tvg-quality="576p",Jiangsu Sports & Leisure Channel
+http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY
+
+#EXTINF:-1 tvg-id="JiangsuSportsLeisureChannel.cn" tvg-name="Jiangsu Sports & Leisure Channel" group-title="Sports" tvg-language="zho" tvg-quality="576p",Jiangsu Sports & Leisure Channel
+http://183.207.249.12/PLTV/4/224/3221225935/index.m3u8
+
+#EXTINF:-1 tvg-id="JiangsuSportsLeisureChannel.cn" tvg-name="Jiangsu Sports & Leisure Channel" group-title="Sports" tvg-language="zho" tvg-quality="576p",Jiangsu Sports & Leisure Channel
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225935/index.m3u8
+
+#EXTINF:-1 tvg-id="JiangsuVarietyChannel.cn" tvg-name="Jiangsu Variety Channel" group-title="Entertainment" tvg-language="zho" tvg-quality="576p",Jiangsu Variety Channel
+http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY
+
+#EXTINF:-1 tvg-id="JiangxiChildrensChannel.cn" tvg-name="Jiangxi Children's Channel" group-title="Animation;Kids" tvg-language="zho" tvg-quality="576i",Jiangxi Children's Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
+
+#EXTINF:-1 tvg-id="JiangxiCityChannel.cn" tvg-name="Jiangxi City Channel" group-title="General" tvg-language="zho" tvg-quality="576i",Jiangxi City Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8
+
+#EXTINF:-1 tvg-id="JiangxiEconomyLifeChannel.cn" tvg-name="Jiangxi Economy & Life Channel" group-title="Business" tvg-language="zho" tvg-quality="576i",Jiangxi Economy & Life Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8
+
+#EXTINF:-1 tvg-id="JiangxiMovieChannel.cn" tvg-name="Jiangxi Movie Channel" group-title="Movies" tvg-language="zho" tvg-quality="576i",Jiangxi Movie Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
+
+#EXTINF:-1 tvg-id="JiangxiPublicAgricultureChannel.cn" tvg-name="Jiangxi Public & Agriculture Channel" group-title="General" tvg-language="zho" tvg-quality="576i",Jiangxi Public & Agriculture Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8
+
+#EXTINF:-1 tvg-id="JiangxiTV.cn" tvg-name="Jiangxi TV" group-title="Uncategorized" tvg-language="zho" tvg-quality="360p",Jiangxi TV
+http://125.210.152.18:9090/live/JXWSHD_H265.m3u8
+
+#EXTINF:-1 tvg-id="JiangxiTV.cn" tvg-name="Jiangxi TV" group-title="Uncategorized" tvg-language="zho" tvg-quality="576p",Jiangxi TV
+http://183.207.248.71/gitv/live1/JXWS/JXWS
+
+#EXTINF:-1 tvg-id="JiangxiTV.cn" tvg-name="Jiangxi TV" group-title="Uncategorized" tvg-language="zho" tvg-quality="576p",Jiangxi TV
+http://183.207.249.15/PLTV/4/224/3221225798/index.m3u8
+
+#EXTINF:-1 tvg-id="JilinCityChannel.cn" tvg-name="Jilin City Channel" group-title="Lifestyle" tvg-language="zho" tvg-quality="576i",Jilin City Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8
+
+#EXTINF:-1 tvg-id="JilinLifestyleChannel.cn" tvg-name="Jilin Lifestyle Channel" group-title="Lifestyle" tvg-language="zho" tvg-quality="576i",Jilin Lifestyle Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8
+
+#EXTINF:-1 tvg-id="JilinMovieChannel.cn" tvg-name="Jilin Movie Channel" group-title="Movies" tvg-language="zho" tvg-quality="576i",Jilin Movie Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
+
+#EXTINF:-1 tvg-id="JilinRuralChannel.cn" tvg-name="Jilin Rural Channel" group-title="Education;Lifestyle;Science" tvg-language="zho" tvg-quality="576i",Jilin Rural Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
+
+#EXTINF:-1 tvg-id="JiuquanTVNewsComprehensiveChannel.cn" tvg-name="Jiuquan TV News Comprehensive Channel" group-title="News" tvg-language="zho" tvg-quality="576p",Jiuquan TV News Comprehensive Channel
+http://117.156.28.119/270000001111/1110000001/index.m3u8
+
+#EXTINF:-1 tvg-id="KangbaTV.cn" tvg-name="Kangba TV" group-title="General" tvg-language="zho" tvg-quality="576i",Kangba TV
+http://110.185.237.164:8888/hls/30/index.m3u8
+
+#EXTINF:-1 tvg-id="LanzhouComprehensiveNewsChannel.cn" tvg-name="Lanzhou Comprehensive News Channel" group-title="News" tvg-language="zho" tvg-quality="576i",Lanzhou Comprehensive News Channel
+https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
+
+#EXTINF:-1 tvg-id="LanzhouCultureTourismChannel.cn" tvg-name="Lanzhou Culture & Tourism Channel" group-title="Culture" tvg-language="zho" tvg-quality="576i",Lanzhou Culture & Tourism Channel
+https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
+
+#EXTINF:-1 tvg-id="LiangshanTV.cn" tvg-name="Liangshan TV" group-title="General" tvg-language="zho" tvg-quality="576i",Liangshan TV
+http://118.122.2.29:9999/hls/47/index.m3u8
+
+#EXTINF:-1 tvg-id="LiaoningTV.cn" tvg-name="Liaoning TV" group-title="General" tvg-language="zho" tvg-quality="576p",Liaoning TV
+http://183.207.248.71/cntv/live1/liaoningstv/liaoningstv
+
+#EXTINF:-1 tvg-id="LiaoningTV.cn" tvg-name="Liaoning TV" group-title="General" tvg-language="zho" tvg-quality="576p",Liaoning TV
+http://183.207.249.12/PLTV/4/224/3221225802/index.m3u8
+
+#EXTINF:-1 tvg-id="LiaoningTV.cn" tvg-name="Liaoning TV" group-title="General" tvg-language="zho" tvg-quality="576p",Liaoning TV
+http://183.207.249.71/PLTV/3/224/3221225566/index.m3u8
+
+#EXTINF:-1 tvg-id="LLBNTVChinese.us" tvg-name="LLBN TV Chinese" group-title="Religious" tvg-language="zho" tvg-quality="480p",LLBN TV Chinese
+https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
+
+#EXTINF:-1 tvg-id="LotusTV.mo" tvg-name="Lotus TV" group-title="General" tvg-language="eng;yue;zho" tvg-quality="576i",Lotus TV
+https://play-sh.quklive.com/live/1780907795235397.m3u8
+
+#EXTINF:-1 tvg-id="NanchangNewsGeneralistChannel.cn" tvg-name="Nanchang News & Generalist Channel" group-title="General" tvg-language="zho" tvg-quality="576i",Nanchang News & Generalist Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
+
+#EXTINF:-1 tvg-id="NeiMonggolTV.cn" tvg-name="Nei Monggol TV" group-title="Uncategorized" tvg-language="mon;zho" tvg-quality="576i",Nei Monggol TV
+http://1.24.190.98:10080/hls/39/index.m3u8
+
+#EXTINF:-1 tvg-id="NeiMonggolTV.cn" tvg-name="Nei Monggol TV" group-title="Uncategorized" tvg-language="mon;zho" tvg-quality="576i",Nei Monggol TV
+http://110.19.156.172:9901/tsfile/live/1003_1.m3u8
+
+#EXTINF:-1 tvg-id="NeiMonggolTV.cn" tvg-name="Nei Monggol TV" group-title="Uncategorized" tvg-language="mon;zho" tvg-quality="576p",Nei Monggol TV
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8
+
+#EXTINF:-1 tvg-id="NeiMonggolTV2MongolianCultureChannel.cn" tvg-name="Nei Monggol TV 2 Mongolian Culture Channel" group-title="Culture" tvg-language="mon;zho" tvg-quality="576i",Nei Monggol TV 2 Mongolian Culture Channel
+http://1.24.190.98:10080/hls/40/index.m3u8
+
+#EXTINF:-1 tvg-id="NingxiaSatelliteChannel.cn" tvg-name="Ningxia Satellite Channel" group-title="Entertainment" tvg-language="zho" tvg-quality="540p",Ningxia Satellite Channel
+http://112.25.48.68/live/program/live/nxws/1300000/mnf.m3u8
+
+#EXTINF:-1 tvg-id="NingxiaSatelliteChannel.cn" tvg-name="Ningxia Satellite Channel" group-title="Entertainment" tvg-language="zho" tvg-quality="576p",Ningxia Satellite Channel
+http://117.169.120.140:8080/live/ningxiastv/.m3u8
+
+#EXTINF:-1 tvg-id="NingxiaSatelliteChannel.cn" tvg-name="Ningxia Satellite Channel" group-title="Entertainment" tvg-language="zho" tvg-quality="576p",Ningxia Satellite Channel
+http://183.207.248.11/PLTV/4/224/3221225842/index.m3u8
+
+#EXTINF:-1 tvg-id="NingxiaSatelliteChannel.cn" tvg-name="Ningxia Satellite Channel" group-title="Entertainment" tvg-language="zho" tvg-quality="576p",Ningxia Satellite Channel
+http://183.207.248.71/gitv/live1/G_NINGXIA/G_NINGXIA
+
+#EXTINF:-1 tvg-id="NingxiaSatelliteChannel.cn" tvg-name="Ningxia Satellite Channel" group-title="Entertainment" tvg-language="zho" tvg-quality="576p",Ningxia Satellite Channel
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225842/index.m3u8
+
+#EXTINF:-1 tvg-id="NingxiaSatelliteChannel.cn" tvg-name="Ningxia Satellite Channel" group-title="Entertainment" tvg-language="zho" tvg-quality="576p",Ningxia Satellite Channel
+http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
+
+#EXTINF:-1 tvg-id="NTDTV.us" tvg-name="NTD TV" group-title="General" tvg-language="eng;zho" tvg-quality="480i",NTD TV
+https://live.ntdtv.com/uwlive990/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTDTVAsiaPacific.us" tvg-name="NTD TV Asia-Pacific" group-title="General" tvg-language="zho" tvg-quality="480i",NTD TV Asia-Pacific
+https://live.ntdtv.com/aplive200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTDTVCanada.us" tvg-name="NTD TV Canada" group-title="General" tvg-language="eng;zho" tvg-quality="480i",NTD TV Canada
+https://live.ntdtv.com/cwlive220/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTDTVCanada.us" tvg-name="NTD TV Canada" group-title="General" tvg-language="eng;zho" tvg-quality="480i",NTD TV Canada
+https://live.ntdtv.com/mllive860/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTDTVChina.us" tvg-name="NTD TV China" group-title="General" tvg-language="zho" tvg-quality="480i",NTD TV China
+https://live.ntdtv.com/cnlive900/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Okey.my" tvg-name="Okey" group-title="General" tvg-language="eng;msa;pan;tam;zho" tvg-quality="576i",Okey
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+
+#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-name="Phoenix Chinese Channel" group-title="General" tvg-language="zho" tvg-quality="576p",Phoenix Chinese Channel
+http://125.210.152.18:9090/live/FHZW_1200.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-name="Phoenix InfoNews Channel" group-title="News" tvg-language="zho" tvg-quality="576p",Phoenix InfoNews Channel
+http://125.210.152.18:9090/live/FHZX_1200.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-name="Phoenix InfoNews Channel" group-title="News" tvg-language="zho" tvg-quality="576i",Phoenix InfoNews Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/s/s23/index.m3u8
+
+#EXTINF:-1 tvg-id="PingxiangTVNewsChannel.cn" tvg-name="Pingxiang TV News Channel" group-title="News" tvg-language="zho" tvg-quality="576p",Pingxiang TV News Channel
+http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
+
+#EXTINF:-1 tvg-id="PTS3.tw" tvg-name="PTS 3" group-title="Uncategorized" tvg-language="zho" tvg-quality="480i",PTS 3
+http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv
+
+#EXTINF:-1 tvg-id="QinghaiTV.cn" tvg-name="Qinghai TV" group-title="Uncategorized" tvg-language="zho" tvg-quality="540p",Qinghai TV
+http://112.25.48.68/live/program/live/qhws/1300000/mnf.m3u8
+
+#EXTINF:-1 tvg-id="QinghaiTV.cn" tvg-name="Qinghai TV" group-title="Uncategorized" tvg-language="zho" tvg-quality="576p",Qinghai TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
+
+#EXTINF:-1 tvg-id="QinghaiTV.cn" tvg-name="Qinghai TV" group-title="Uncategorized" tvg-language="zho" tvg-quality="576i",Qinghai TV
+https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+
+#EXTINF:-1 tvg-id="QTV1.cn" tvg-name="QTV-1" group-title="News" tvg-language="zho" tvg-quality="576i",QTV-1
+http://119.166.53.110:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="QTV1.cn" tvg-name="QTV-1" group-title="News" tvg-language="zho" tvg-quality="576i",QTV-1
+http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+
+#EXTINF:-1 tvg-id="QTV2.cn" tvg-name="QTV-2" group-title="Lifestyle" tvg-language="zho" tvg-quality="576i",QTV-2
+http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+
+#EXTINF:-1 tvg-id="QTV3.cn" tvg-name="QTV-3" group-title="Movies" tvg-language="zho" tvg-quality="576i",QTV-3
+http://119.166.53.110:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="QTV3.cn" tvg-name="QTV-3" group-title="Movies" tvg-language="zho" tvg-quality="576i",QTV-3
+http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+
+#EXTINF:-1 tvg-id="QTV4.cn" tvg-name="QTV-4" group-title="General" tvg-language="zho" tvg-quality="576i",QTV-4
+http://119.166.53.110:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="QTV4.cn" tvg-name="QTV-4" group-title="General" tvg-language="zho" tvg-quality="576i",QTV-4
+http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
+
+#EXTINF:-1 tvg-id="QTV5.cn" tvg-name="QTV-5" group-title="General" tvg-language="zho" tvg-quality="576i",QTV-5
+http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
+
+#EXTINF:-1 tvg-id="QTV6.cn" tvg-name="QTV-6" group-title="Kids;Lifestyle" tvg-language="zho" tvg-quality="576i",QTV-6
+http://119.166.53.110:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="QTV6.cn" tvg-name="QTV-6" group-title="Kids;Lifestyle" tvg-language="zho" tvg-quality="576i",QTV-6
+http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+
+#EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-name="RTHK TV 31" group-title="Uncategorized" tvg-language="zho" tvg-quality="360p",RTHK TV 31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+
+#EXTINF:-1 tvg-id="RTHKTV32.hk" tvg-name="RTHK TV 32" group-title="Uncategorized" tvg-language="eng;zho" tvg-quality="360p",RTHK TV 32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+
+#EXTINF:-1 tvg-id="ShandongTV.cn" tvg-name="Shandong TV" group-title="Uncategorized" tvg-language="zho" tvg-quality="576p",Shandong TV
+http://183.207.248.71/gitv/live1/SDWS/SDWS
+
+#EXTINF:-1 tvg-id="ShandongTV.cn" tvg-name="Shandong TV" group-title="Uncategorized" tvg-language="zho" tvg-quality="576p",Shandong TV
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225804/index.m3u8
+
+#EXTINF:-1 tvg-id="ShandongTVAgriculturalScienceChannel.cn" tvg-name="Shandong TV Agricultural Science Channel" group-title="Science" tvg-language="zho" tvg-quality="406p",Shandong TV Agricultural Science Channel
+http://livealone302.iqilu.com/iqilu/nkpd.m3u8
+
+#EXTINF:-1 tvg-id="ShandongTVChildrensChannel.cn" tvg-name="Shandong TV Children's Channel" group-title="Kids" tvg-language="zho" tvg-quality="406p",Shandong TV Children's Channel
+http://livealone302.iqilu.com/iqilu/sepd.m3u8
+
+#EXTINF:-1 tvg-id="ShandongTVVarietyChannel.cn" tvg-name="Shandong TV Variety Channel" group-title="Uncategorized" tvg-language="zho" tvg-quality="406p",Shandong TV Variety Channel
+http://livealone302.iqilu.com/iqilu/zypd.m3u8
+
+#EXTINF:-1 tvg-id="SichuanSatelliteTV.cn" tvg-name="Sichuan Satellite TV" group-title="Uncategorized" tvg-language="zho" tvg-quality="540p",Sichuan Satellite TV
+http://112.25.48.68/live/program/live/scws/1300000/mnf.m3u8
+
+#EXTINF:-1 tvg-id="SichuanSatelliteTV.cn" tvg-name="Sichuan Satellite TV" group-title="Uncategorized" tvg-language="zho" tvg-quality="360p",Sichuan Satellite TV
+http://125.210.152.18:9090/live/SCWSHD_H265.m3u8
+
+#EXTINF:-1 tvg-id="SichuanSatelliteTV.cn" tvg-name="Sichuan Satellite TV" group-title="Uncategorized" tvg-language="zho" tvg-quality="576p",Sichuan Satellite TV
+http://183.207.248.71/gitv/live1/SCWS/SCWS
+
+#EXTINF:-1 tvg-id="SichuanSatelliteTV.cn" tvg-name="Sichuan Satellite TV" group-title="Uncategorized" tvg-language="zho" tvg-quality="576p",Sichuan Satellite TV
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8
+
+#EXTINF:-1 tvg-id="SichuanSatelliteTV.cn" tvg-name="Sichuan Satellite TV" group-title="Uncategorized" tvg-language="zho" tvg-quality="576p",Sichuan Satellite TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
+
+#EXTINF:-1 tvg-id="SipingTV.cn" tvg-name="Siping TV" group-title="General" tvg-language="zho" tvg-quality="576i",Siping TV
+http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
+
+#EXTINF:-1 tvg-id="SJTV.tw" tvg-name="SJTV" group-title="Uncategorized" tvg-language="zho" tvg-quality="480i",SJTV
+http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv
+
+#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" tvg-name="Taiwan Indigenous TV" group-title="General" tvg-language="zho" tvg-quality="480i",Taiwan Indigenous TV
+https://h5cul1yar48um3t.wcetv.com/hls/titv.m3u8
+
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" group-title="Movies" tvg-language="eng;tha;zho" tvg-quality="540p",Thrill
+https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
+
+#EXTINF:-1 tvg-id="TianjinTV.cn" tvg-name="Tianjin TV" group-title="Uncategorized" tvg-language="zho" tvg-quality="576p",Tianjin TV
+http://183.207.249.12/PLTV/4/224/3221225808/index.m3u8
+
+#EXTINF:-1 tvg-id="TianjinTV.cn" tvg-name="Tianjin TV" group-title="Uncategorized" tvg-language="zho" tvg-quality="576p",Tianjin TV
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225808/index.m3u8
+
+#EXTINF:-1 tvg-id="TonghuaTV.cn" tvg-name="Tonghua TV" group-title="News" tvg-language="zho" tvg-quality="576i",Tonghua TV
+http://139.211.217.79:9004/hls/75/index.m3u8
+
+#EXTINF:-1 tvg-id="TVBSNews.tw" tvg-name="TVBS News" group-title="News" tvg-language="zho" tvg-quality="480i",TVBS News
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+
+#EXTINF:-1 tvg-id="WCETVDigitalChannel318.us" tvg-name="WCETV Digital Channel 31.8" group-title="General" tvg-language="zho" tvg-quality="576i",WCETV Digital Channel 31.8
+https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
+
+#EXTINF:-1 tvg-id="WXTV.tw" tvg-name="WXTV" group-title="Religious" tvg-language="zho" tvg-quality="480p",WXTV
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+
+#EXTINF:-1 tvg-id="XianBusinessInformationChannel.cn" tvg-name="Xi'an Business Information Channel" group-title="Business" tvg-language="zho" tvg-quality="180p",Xi'an Business Information Channel
+http://stream2.xiancity.cn/xatv3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XianSilkRoadChannel.cn" tvg-name="Xi'an Silk Road Channel" group-title="Uncategorized" tvg-language="zho" tvg-quality="404p",Xi'an Silk Road Channel
+http://stream2.xiancity.cn/xatv5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XinjiangTV1.cn" tvg-name="Xinjiang TV 1" group-title="Uncategorized" tvg-language="zho" tvg-quality="576i",Xinjiang TV 1
+https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
+
+#EXTINF:-1 tvg-id="XizangTVChinese.cn" tvg-name="Xizang TV Chinese" group-title="Uncategorized" tvg-language="zho" tvg-quality="576i",Xizang TV Chinese
+https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
+
+#EXTINF:-1 tvg-id="YanbianSatelliteTV.cn" tvg-name="Yanbian Satellite TV" group-title="Uncategorized" tvg-language="zho" tvg-quality="576p",Yanbian Satellite TV
+http://223.110.245.139/PLTV/4/224/3221227002/index.m3u8
+
+#EXTINF:-1 tvg-id="YanbianSatelliteTV.cn" tvg-name="Yanbian Satellite TV" group-title="Uncategorized" tvg-language="zho" tvg-quality="576p",Yanbian Satellite TV
+http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8
+
+#EXTINF:-1 tvg-id="YanbianSatelliteTV.cn" tvg-name="Yanbian Satellite TV" group-title="Uncategorized" tvg-language="zho" tvg-quality="576p",Yanbian Satellite TV
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227002/index.m3u8
+
+#EXTINF:-1 tvg-id="YouManCartoonChannel.cn" tvg-name="You Man Cartoon Channel" group-title="Animation;Kids" tvg-language="zho" tvg-quality="576p",You Man Cartoon Channel
+http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
+
+#EXTINF:-1 tvg-id="YouManCartoonChannel.cn" tvg-name="You Man Cartoon Channel" group-title="Animation;Kids" tvg-language="zho" tvg-quality="576p",You Man Cartoon Channel
+http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
+
+#EXTINF:-1 tvg-id="YunnanSatelliteTV.cn" tvg-name="Yunnan Satellite TV" group-title="General" tvg-language="zho" tvg-quality="576p",Yunnan Satellite TV
+http://183.207.248.71/cntv/live1/yunnanstv/yunnanstv
+
+#EXTINF:-1 tvg-id="YunnanSatelliteTV.cn" tvg-name="Yunnan Satellite TV" group-title="General" tvg-language="zho" tvg-quality="576p",Yunnan Satellite TV
+http://183.207.248.71/gitv/live1/G_YUNNAN/G_YUNNAN
+
+#EXTINF:-1 tvg-id="YunnanSatelliteTV.cn" tvg-name="Yunnan Satellite TV" group-title="General" tvg-language="zho" tvg-quality="576p",Yunnan Satellite TV
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225591/index.m3u8
+
+#EXTINF:-1 tvg-id="YunnanSatelliteTV.cn" tvg-name="Yunnan Satellite TV" group-title="General" tvg-language="zho" tvg-quality="576p",Yunnan Satellite TV
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8
+
+#EXTINF:-1 tvg-id="YunnanSatelliteTV.cn" tvg-name="Yunnan Satellite TV" group-title="General" tvg-language="zho" tvg-quality="576p",Yunnan Satellite TV
+http://223.110.245.173/PLTV/4/224/3221225838/index.m3u8
+
+#EXTINF:-1 tvg-id="YunnanSatelliteTV.cn" tvg-name="Yunnan Satellite TV" group-title="General" tvg-language="zho" tvg-quality="576p",Yunnan Satellite TV
+http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
+
+#EXTINF:-1 tvg-id="YunnanSatelliteTV.cn" tvg-name="Yunnan Satellite TV" group-title="General" tvg-language="zho" tvg-quality="576i",Yunnan Satellite TV
+https://h5cul1yar48um3t.wcetv.com/hls/yunnantv.m3u8
+
+#EXTINF:-1 tvg-id="ZhejiangInternationalChannel.cn" tvg-name="Zhejiang International Channel" group-title="Uncategorized" tvg-language="zho" tvg-quality="576i",Zhejiang International Channel
+https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+
+#EXTINF:-1 tvg-id="ZhejiangSatelliteTV.cn" tvg-name="Zhejiang Satellite TV" group-title="Uncategorized" tvg-language="zho" tvg-quality="576p",Zhejiang Satellite TV
+http://183.207.248.71/gitv/live1/G_ZHEJIANG/G_ZHEJIANG
+

@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BadaKhabar.in" tvg-name="Bada Khabar" group-title="News" tvg-language="ori" tvg-quality="576p",Bada Khabar
+https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8
+
+#EXTINF:-1 tvg-id="DDOdia.in" tvg-name="DD Odia" group-title="General" tvg-language="ori" tvg-quality="504p",DD Odia
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
+
+#EXTINF:-1 tvg-id="DDOdia.in" tvg-name="DD Odia" group-title="General" tvg-language="ori" tvg-quality="576p",DD Odia
+https://mumbai-edge.smartplaytv.in/ddodiya/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVBalBharat.in" tvg-name="ETV Bal Bharat" group-title="Kids" tvg-language="asm;ben;eng;guj;hin;kan;mal;mar;ori;pan;tam;tel" tvg-quality="576p",ETV Bal Bharat
+http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
+
+#EXTINF:-1 tvg-id="KalingaTV.in" tvg-name="Kalinga TV" group-title="News" tvg-language="ori" tvg-quality="576i",Kalinga TV
+https://cdn.pishow.tv/ott/live/1470/master.m3u8
+
+#EXTINF:-1 tvg-id="KalingaTV.in" tvg-name="Kalinga TV" group-title="News" tvg-language="ori" tvg-quality="576p",Kalinga TV
+https://mumbai-edge.smartplaytv.in/kalingatv/index.m3u8
+
+#EXTINF:-1 tvg-id="KalingaTV.in" tvg-name="Kalinga TV" group-title="News" tvg-language="ori" tvg-quality="576p",Kalinga TV
+https://mumt01.tangotv.in/O5aw8Zn3KALINGATV/index.m3u8
+
+#EXTINF:-1 tvg-id="KanakNews.in" tvg-name="Kanak News" group-title="News" tvg-language="ori" tvg-quality="576p",Kanak News
+https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCTV.in" tvg-name="MBC TV" group-title="General" tvg-language="ori" tvg-quality="576p",MBC TV
+https://cdn.pishow.tv/ott/live/1017/master.m3u8
+
+#EXTINF:-1 tvg-id="MBCTV.in" tvg-name="MBC TV" group-title="General" tvg-language="ori" tvg-quality="576p",MBC TV
+https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8
+
+#EXTINF:-1 tvg-id="NandighoshaTV.in" tvg-name="Nandighosha TV" group-title="General" tvg-language="ori" tvg-quality="576p",Nandighosha TV
+https://mumt05.tangotv.in/87NeALx2NANDIGHOSHATV/index.m3u8
+
+#EXTINF:-1 tvg-id="OdishaTV.in" tvg-name="Odisha TV" group-title="Culture" tvg-language="ori" tvg-quality="576i",Odisha TV
+https://cdn.pishow.tv/ott/live/1600/master.m3u8
+
+#EXTINF:-1 tvg-id="OdishaTV.in" tvg-name="Odisha TV" group-title="Culture" tvg-language="ori" tvg-quality="576p",Odisha TV
+https://streams.tangotv.in/OTVLIVE24X7/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="PrameyaNews7.in" tvg-name="Prameya News7" group-title="News" tvg-language="ori" tvg-quality="576p",Prameya News7
+https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8
+
+#EXTINF:-1 tvg-id="PrarthanaLife.in" tvg-name="Prarthana Life" group-title="Uncategorized" tvg-language="ori" tvg-quality="576p",Prarthana Life
+https://cdn.pishow.tv/ott/live/1500/master.m3u8
+
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="576p",Sony Yay!
+http://103.165.93.31:8095/sonyYay/index.m3u8
+
+#EXTINF:-1 tvg-id="StarKiran.in" tvg-name="Star Kiran" group-title="Entertainment" tvg-language="ori" tvg-quality="576p",Star Kiran
+http://103.151.60.162:2122/play/a032/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="TarangTV.in" tvg-name="Tarang TV" group-title="Entertainment" tvg-language="ori" tvg-quality="576p",Tarang TV
+https://mumbai-edge.smartplaytv.in/tarang/index.m3u8
+

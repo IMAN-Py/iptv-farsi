@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LRTPlius.lt" tvg-name="LRT Plius" group-title="Culture;Sports" tvg-language="lit" tvg-quality="1080p",LRT Plius
+http://stream.mcquack.net/353/index.m3u8
+
+#EXTINF:-1 tvg-id="LRTPlius.lt" tvg-name="LRT Plius" group-title="Culture;Sports" tvg-language="lit" tvg-quality="1080p",LRT Plius
+https://stream-live.lrt.lt/plius/master.m3u8
+

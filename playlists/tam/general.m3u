@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AsiaTV.lk" tvg-name="Asia TV" group-title="Entertainment;Family;General" tvg-language="eng;sin;tam" tvg-quality="720p",Asia TV
+https://stream.asiatvnet.com/1/live/master.m3u8
+
+#EXTINF:-1 tvg-id="DDTamil.in" tvg-name="DD Tamil" group-title="General" tvg-language="tam" tvg-quality="1080p",DD Tamil
+https://cdn.pishow.tv/ott/live/1737/master.m3u8
+
+#EXTINF:-1 tvg-id="DDTamil.in" tvg-name="DD Tamil" group-title="General" tvg-language="tam" tvg-quality="1080p",DD Tamil
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+
+#EXTINF:-1 tvg-id="IBCTamil.uk" tvg-name="IBC Tamil" group-title="General" tvg-language="tam" tvg-quality="1080p",IBC Tamil
+https://ibc.massstream.net/IBC/index.m3u8
+
+#EXTINF:-1 tvg-id="KalaignarTV.in" tvg-name="Kalaignar TV" group-title="General" tvg-language="tam" tvg-quality="396p",Kalaignar TV
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="Makkal TV" group-title="General" tvg-language="tam" tvg-quality="576i",Makkal TV
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="Makkal TV" group-title="General" tvg-language="tam" tvg-quality="576p",Makkal TV
+https://mumbai-edge.smartplaytv.in/MakkalTV/index.m3u8
+
+#EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="Makkal TV" group-title="General" tvg-language="tam" tvg-quality="576p",Makkal TV
+https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8
+
+#EXTINF:-1 tvg-id="MeiAlaiTV.in" tvg-name="Mei Alai TV" group-title="General" tvg-language="tam" tvg-quality="576p",Mei Alai TV
+https://meialai.iptelevishion.com/meialai/2/index.m3u8
+
+#EXTINF:-1 tvg-id="Okey.my" tvg-name="Okey" group-title="General" tvg-language="eng;msa;pan;tam;zho" tvg-quality="576i",Okey
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" group-title="General" tvg-language="eng;hin;msa;tam;zho" tvg-quality="1080p",TV2
+https://live.mana2.my/Tv2/index.m3u8?auth_key=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d&token=1745177833-e4f0090e3d3b4ed1b2b4f5df87a24d34-0-d43f8be1101f9bb00363d62de6514e4d
+

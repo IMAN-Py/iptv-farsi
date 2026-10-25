@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TUSO.ua" tvg-name="TUSO" group-title="Shop" tvg-language="ukr" tvg-quality="720p",TUSO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
+

@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PSMNews.mv" tvg-name="PSM News" group-title="News" tvg-language="div;eng" tvg-quality="576i",PSM News
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8
+
+#EXTINF:-1 tvg-id="VTV.mv" tvg-name="VTV" group-title="News" tvg-language="div" tvg-quality="576i",VTV
+https://sunplay-cdn.bitratelabs.com/live/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV.mv" tvg-name="VTV" group-title="News" tvg-language="div" tvg-quality="1080p",VTV
+https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
+

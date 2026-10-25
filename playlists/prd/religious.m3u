@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABNAfghanistan.us" tvg-name="ABN Afghanistan" group-title="Religious" tvg-language="prd;pus" tvg-quality="540p",ABN Afghanistan
+https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
+

@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dokusat.de" tvg-name="Dokusat" group-title="Documentary" tvg-language="deu" tvg-quality="1080p",Dokusat
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="kabeleinsDoku.de" tvg-name="kabel eins Doku" group-title="Documentary" tvg-language="deu" tvg-quality="576i",kabel eins Doku
+http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass
+
+#EXTINF:-1 tvg-id="kabeleinsDoku.de" tvg-name="kabel eins Doku" group-title="Documentary" tvg-language="deu" tvg-quality="720p",kabel eins Doku
+https://s6.hopslan.com/dokuX/index.m3u8
+
+#EXTINF:-1 tvg-id="LoveThePlanet.es" tvg-name="Love The Planet" group-title="Documentary" tvg-language="deu" tvg-quality="1080p",Love The Planet
+https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku" group-title="Documentary" tvg-language="deu" tvg-quality="576i",N24 Doku
+https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAnimals.de" tvg-name="Pluto TV Animals" group-title="Documentary" tvg-language="deu" tvg-quality="720p",Pluto TV Animals
+https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVExplore.de" tvg-name="Pluto TV Explore" group-title="Documentary" tvg-language="deu" tvg-quality="720p",Pluto TV Explore
+https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFood.de" tvg-name="Pluto TV Food" group-title="Cooking;Documentary" tvg-language="deu" tvg-quality="720p",Pluto TV Food
+https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVMystery.de" tvg-name="Pluto TV Mystery" group-title="Documentary" tvg-language="deu" tvg-quality="720p",Pluto TV Mystery
+https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNature.de" tvg-name="Pluto TV Nature" group-title="Documentary" tvg-language="deu" tvg-quality="720p",Pluto TV Nature
+https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVReportagen.de" tvg-name="Pluto TV Reportagen" group-title="Documentary" tvg-language="deu" tvg-quality="720p",Pluto TV Reportagen
+https://jmp2.uk/plu-68ada3edf84960586ad31c7d.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSpace.de" tvg-name="Pluto TV Space" group-title="Documentary" tvg-language="deu" tvg-quality="720p",Pluto TV Space
+https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
+
+#EXTINF:-1 tvg-id="TerraMaterWILD.de" tvg-name="Terra Mater WILD" group-title="Documentary" tvg-language="deu" tvg-quality="1080p",Terra Mater WILD
+https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TerraMaterWILD.de" tvg-name="Terra Mater WILD" group-title="Documentary" tvg-language="deu" tvg-quality="720p",Terra Mater WILD
+https://jmp2.uk/plu-65b923f90cb1a100088a03ab.m3u8
+

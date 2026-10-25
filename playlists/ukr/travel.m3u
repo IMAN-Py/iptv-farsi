@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BamBarBiaTV.ua" tvg-name="BamBarBia.TV" group-title="Travel" tvg-language="ukr" tvg-quality="720p",BamBarBia.TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
+

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PillarTV.ke" tvg-name="Pillar TV" group-title="Religious" tvg-language="eng;kik;swa" tvg-quality="720p",Pillar TV
+https://goliveafrica.media:9998/live/627e198474bd1/index.m3u8
+

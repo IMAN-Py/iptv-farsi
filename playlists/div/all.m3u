@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Channel13.mv" tvg-name="Channel 13" group-title="General" tvg-language="div" tvg-quality="720p",Channel 13
+https://stream.theyraonline.com/live/channel13@live/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel13.mv" tvg-name="Channel 13" group-title="General" tvg-language="div" tvg-quality="576i",Channel 13
+https://sunplay-cdn.bitratelabs.com/live/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8_1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="MMTV.mv" tvg-name="MMTV" group-title="General" tvg-language="div;eng" tvg-quality="1080p",MMTV
+https://sendlive.online/hls/mmtv.m3u8
+
+#EXTINF:-1 tvg-id="Munnaaru.mv" tvg-name="Munnaaru" group-title="Religious" tvg-language="div;eng" tvg-quality="576i",Munnaaru
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8
+
+#EXTINF:-1 tvg-id="NTV.mv" tvg-name="NTV" group-title="General" tvg-language="div" tvg-quality="576i",NTV
+https://sunplay-cdn.bitratelabs.com/live/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/index.m3u8
+
+#EXTINF:-1 tvg-id="PSMNews.mv" tvg-name="PSM News" group-title="News" tvg-language="div;eng" tvg-quality="576i",PSM News
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8
+
+#EXTINF:-1 tvg-id="RaajjeTV.mv" tvg-name="Raajje TV" group-title="General" tvg-language="div;eng" tvg-quality="576i",Raajje TV
+https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8
+
+#EXTINF:-1 tvg-id="TVMaldives.mv" tvg-name="TV Maldives" group-title="General" tvg-language="div;eng" tvg-quality="576i",TV Maldives
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/9e93379c0d46ee588b99263d95bd9c42/manifest/video.m3u8
+
+#EXTINF:-1 tvg-id="TVMaldives.mv" tvg-name="TV Maldives" group-title="General" tvg-language="div;eng" tvg-quality="576i",TV Maldives
+https://lana.psm.mv/live/tvm.m3u8
+
+#EXTINF:-1 tvg-id="VTV.mv" tvg-name="VTV" group-title="News" tvg-language="div" tvg-quality="576i",VTV
+https://sunplay-cdn.bitratelabs.com/live/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV.mv" tvg-name="VTV" group-title="News" tvg-language="div" tvg-quality="1080p",VTV
+https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YES.mv" tvg-name="YES" group-title="Culture;Entertainment;Sports" tvg-language="div" tvg-quality="576i",YES
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
+
+#EXTINF:-1 tvg-id="YES.mv" tvg-name="YES" group-title="Culture;Entertainment;Sports" tvg-language="div" tvg-quality="576i",YES
+https://lana.psm.mv/live/yes.m3u8
+

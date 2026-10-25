@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" group-title="Legislative" tvg-language="bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mlt;nld;pol;por;ron;slk;slv;spa;swe;ukr" tvg-quality="1080p",EbS
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8
+
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+
+#EXTINF:-1 tvg-id="ETV.ee" tvg-name="ETV" group-title="General" tvg-language="est" tvg-quality="720p",ETV
+https://sb.err.ee/live/etv.m3u8
+
+#EXTINF:-1 tvg-id="ETV2.ee" tvg-name="ETV 2" group-title="Culture;Kids" tvg-language="est" tvg-quality="720p",ETV 2
+https://sb.err.ee/live/etv2.m3u8
+
+#EXTINF:-1 tvg-id="ETVPlus.ee" tvg-name="ETV+" group-title="Entertainment" tvg-language="est;rus" tvg-quality="720p",ETV+
+https://sb.err.ee/live/etvpluss.m3u8
+
+#EXTINF:-1 tvg-id="Go3Sport1.ee" tvg-name="Go3 Sport 1" group-title="Sports" tvg-language="est;lav;lit" tvg-quality="1080p",Go3 Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/416/index.m3u8
+
+#EXTINF:-1 tvg-id="KidZoneMax.ee" tvg-name="KidZone Max" group-title="Kids" tvg-language="eng;est;lav;lit;rus" tvg-quality="1080p",KidZone Max
+#EXTVLCOPT:http-referrer=https://kidzonemax.lt
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd
+
+#EXTINF:-1 tvg-id="Riigikogu.ee" tvg-name="Riigikogu" group-title="Uncategorized" tvg-language="est" tvg-quality="720p",Riigikogu
+https://router.euddn.net/862366dd346d6b6392d5231546f3d179/smil:rk_live_1.smil/playlist.m3u8?c=8005
+
+#EXTINF:-1 tvg-id="TaevasTV7.fi" tvg-name="Taevas TV7" group-title="Religious" tvg-language="est" tvg-quality="720p",Taevas TV7
+https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
+

@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PlusMaisUm.br" tvg-name="+MaisUm" group-title="Entertainment;General;Movies;Music" tvg-language="por" tvg-quality="720p",+MaisUm
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="AdrenalinaPuraTV.us" tvg-name="Adrenalina Pura TV" group-title="Movies" tvg-language="por" tvg-quality="576i",Adrenalina Pura TV
+https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
+
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC Latin America" group-title="Movies" tvg-language="por" tvg-quality="720p",AMC Latin America
+http://170.83.49.66:8083/AMCHD/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN" group-title="Movies" tvg-language="por" tvg-quality="720p",AXN
+http://170.83.16.50/AXN/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN" group-title="Movies" tvg-language="por" tvg-quality="720p",AXN
+http://170.83.49.66:8083/AXNHD/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN" group-title="Movies" tvg-language="por" tvg-quality="1080p",AXN
+http://188.115.15.121:8000/play/a02z
+
+#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN" group-title="Movies" tvg-language="por" tvg-quality="576i",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://znty.dyndns.org:5010/hls/axn.m3u8
+
+#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="AXN Movies" group-title="Movies" tvg-language="por" tvg-quality="720p",AXN Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+
+#EXTINF:-1 tvg-id="CINDIETV.br" tvg-name="CINDIE TV" group-title="Movies" tvg-language="eng;por;spa" tvg-quality="1080p",CINDIE TV
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+
+#EXTINF:-1 tvg-id="CINDIETV.br" tvg-name="CINDIE TV" group-title="Movies" tvg-language="eng;por;spa" tvg-quality="1080p",CINDIE TV
+https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8?ads.vf=grWTpG3NQNi
+
+#EXTINF:-1 tvg-id="CineTerror.us" tvg-name="Cine Terror" group-title="Movies" tvg-language="por" tvg-quality="720p",Cine Terror
+https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
+
+#EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-name="Classique TV" group-title="Movies" tvg-language="por" tvg-quality="360p",Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmesSuspense.us" tvg-name="Filmes Suspense" group-title="Movies" tvg-language="por" tvg-quality="720p",Filmes Suspense
+https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
+
+#EXTINF:-1 tvg-id="GhostTV.br" tvg-name="Ghost TV" group-title="Movies" tvg-language="por" tvg-quality="712p",Ghost TV
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-name="Kuriakos Cine" group-title="Movies" tvg-language="por" tvg-quality="1080p",Kuriakos Cine
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.br" tvg-name="MyTime Movie Network" group-title="Movies" tvg-language="por" tvg-quality="720p",MyTime Movie Network
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVBangBang.us" tvg-name="Pluto TV Bang Bang" group-title="Movies" tvg-language="por" tvg-quality="720p",Pluto TV Bang Bang
+https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineClassicos.us" tvg-name="Pluto TV Cine Classicos" group-title="Movies" tvg-language="por" tvg-quality="720p",Pluto TV Cine Classicos
+https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineComedia.us" tvg-name="Pluto TV Cine Comedia" group-title="Movies" tvg-language="por" tvg-quality="720p",Pluto TV Cine Comedia
+https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineComediaRomantica.us" tvg-name="Pluto TV Cine Comedia Romantica" group-title="Movies" tvg-language="por" tvg-quality="720p",Pluto TV Cine Comedia Romantica
+https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineCrime.us" tvg-name="Pluto TV Cine Crime" group-title="Movies" tvg-language="por" tvg-quality="720p",Pluto TV Cine Crime
+https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineDrama.us" tvg-name="Pluto TV Cine Drama" group-title="Movies" tvg-language="por" tvg-quality="720p",Pluto TV Cine Drama
+https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineFamilia.us" tvg-name="Pluto TV Cine Familia" group-title="Movies" tvg-language="por" tvg-quality="720p",Pluto TV Cine Familia
+https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineInspiracao.us" tvg-name="Pluto TV Cine Inspiracao" group-title="Movies" tvg-language="por" tvg-quality="720p",Pluto TV Cine Inspiracao
+https://jmp2.uk/plu-5fa991b1f09e020007e78626.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineRomance.us" tvg-name="Pluto TV Cine Romance" group-title="Movies" tvg-language="por" tvg-quality="720p",Pluto TV Cine Romance
+https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCineSucessos.us" tvg-name="Pluto TV Cine Sucessos" group-title="Movies" tvg-language="por" tvg-quality="720p",Pluto TV Cine Sucessos
+https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFiccaoCientifica.us" tvg-name="Pluto TV Ficcao Cientifica" group-title="Movies" tvg-language="por" tvg-quality="720p",Pluto TV Ficcao Cientifica
+https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmesAcao.us" tvg-name="Pluto TV Filmes Acao" group-title="Movies" tvg-language="por" tvg-quality="720p",Pluto TV Filmes Acao
+https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmesAventura.us" tvg-name="Pluto TV Filmes Aventura" group-title="Movies" tvg-language="por" tvg-quality="720p",Pluto TV Filmes Aventura
+https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmesdeLuta.us" tvg-name="Pluto TV Filmes de Luta" group-title="Movies" tvg-language="por" tvg-quality="720p",Pluto TV Filmes de Luta
+https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmesNacionais.us" tvg-name="Pluto TV Filmes Nacionais" group-title="Movies" tvg-language="por" tvg-quality="720p",Pluto TV Filmes Nacionais
+https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNetmovies.us" tvg-name="Pluto TV Netmovies" group-title="Movies" tvg-language="por" tvg-quality="720p",Pluto TV Netmovies
+https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTerrorTrash.us" tvg-name="Pluto TV Terror Trash" group-title="Movies" tvg-language="por" tvg-quality="720p",Pluto TV Terror Trash
+https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
+
+#EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies" group-title="Movies" tvg-language="por" tvg-quality="720p",Sony Movies
+http://168.197.104.22/SONY_MOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies" group-title="Movies" tvg-language="por" tvg-quality="720p",Sony Movies
+http://170.83.16.50/SONY_MOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies" group-title="Movies" tvg-language="por" tvg-quality="720p",Sony Movies
+http://45.162.64.114/SONY_MOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies" group-title="Movies" tvg-language="por" tvg-quality="720p",Sony Movies
+http://45.177.114.115/SONY_MOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="StarMovies.pt" tvg-name="Star Movies" group-title="Movies" tvg-language="por" tvg-quality="576i",Star Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://znty.dyndns.org:5010/hls/foxm.m3u8
+
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action" group-title="Movies" tvg-language="por" tvg-quality="1080p",Telecine Action
+http://46.151.196.223:14326/
+

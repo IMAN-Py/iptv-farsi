@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MRTVSports.mm" tvg-name="MRTV Sports" group-title="Sports" tvg-language="mya" tvg-quality="480i",MRTV Sports
+https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
+

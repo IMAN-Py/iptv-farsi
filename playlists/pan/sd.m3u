@@ -1,0 +1,158 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="576i",9X Tashan
+https://cdn.pishow.tv/ott/live/1613/master.m3u8
+
+#EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="576p",9X Tashan
+https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8
+
+#EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="576p",9X Tashan
+https://streams.tangotv.in/9XTASHAN/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="576p",9X Tashan
+https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8
+
+#EXTINF:-1 tvg-id="AkaalChannel.uk" tvg-name="Akaal Channel" group-title="Religious" tvg-language="eng;pan" tvg-quality="396p",Akaal Channel
+https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
+
+#EXTINF:-1 tvg-id="AmritGurbani.in" tvg-name="Amrit Gurbani" group-title="Religious" tvg-language="pan" tvg-quality="360p",Amrit Gurbani
+https://mumt04.tangotv.in/m18aqlK4AMRITGURBANI/index.m3u8
+
+#EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV" group-title="News" tvg-language="pan" tvg-quality="576i",Chardikla Time TV
+https://cdn.pishow.tv/ott/live/1627/master.m3u8
+
+#EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV" group-title="News" tvg-language="pan" tvg-quality="576p",Chardikla Time TV
+https://mumt07.tangotv.in/zHjX9OFlCHARDIKALATIMETV/index.m3u8
+
+#EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV" group-title="News" tvg-language="pan" tvg-quality="576p",Chardikla Time TV
+https://streams.tangotv.in/CHARDIKALATIMETV/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="ChintpurniLive.in" tvg-name="Chintpurni Live" group-title="Religious" tvg-language="pan" tvg-quality="360p",Chintpurni Live
+https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8
+
+#EXTINF:-1 tvg-id="DailyPostTV.in" tvg-name="Daily Post TV" group-title="News" tvg-language="pan" tvg-quality="576p",Daily Post TV
+https://streams.tangotv.in/DAILYPOST/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="DDPunjabi.in" tvg-name="DD Punjabi" group-title="Culture" tvg-language="pan" tvg-quality="504p",DD Punjabi
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVBalBharat.in" tvg-name="ETV Bal Bharat" group-title="Kids" tvg-language="asm;ben;eng;guj;hin;kan;mal;mar;ori;pan;tam;tel" tvg-quality="576p",ETV Bal Bharat
+http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
+
+#EXTINF:-1 tvg-id="FalakTV.pk" tvg-name="Falak TV" group-title="Entertainment" tvg-language="pan;urd" tvg-quality="576i",Falak TV
+https://falak.rst.ae/index.m3u8
+
+#EXTINF:-1 tvg-id="Fast1.in" tvg-name="Fast1" group-title="Uncategorized" tvg-language="pan" tvg-quality="576p",Fast1
+https://cdn.pishow.tv/ott/live/10008/master.m3u8
+
+#EXTINF:-1 tvg-id="Fast1.in" tvg-name="Fast1" group-title="Uncategorized" tvg-language="pan" tvg-quality="576p",Fast1
+https://mumt03.tangotv.in/Dsly5z3HFast1/index.m3u8
+
+#EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-name="God Stands TV" group-title="Religious" tvg-language="pan" tvg-quality="480i",God Stands TV
+https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8
+
+#EXTINF:-1 tvg-id="GTCNews.in" tvg-name="GTC News" group-title="News" tvg-language="pan" tvg-quality="576p",GTC News
+https://mumt03.tangotv.in/Dsly5z3HGTCNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",GTC Punjabi
+https://mumt01.tangotv.in/O5aw8Zn3GTC/index.m3u8
+
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",GTC Punjabi
+https://streams.tangotv.in/GTC/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="LivingIndiaNews.in" tvg-name="Living India News" group-title="News" tvg-language="pan" tvg-quality="576p",Living India News
+https://cdn.pishow.tv/ott/live/324/master.m3u8
+
+#EXTINF:-1 tvg-id="LivingIndiaNews.in" tvg-name="Living India News" group-title="News" tvg-language="pan" tvg-quality="576p",Living India News
+https://streams.tangotv.in/LIVINGINDIANEWS/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="MahaPunjabi.in" tvg-name="Maha Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576i",Maha Punjabi
+https://cdn.pishow.tv/ott/live/1521/master.m3u8
+
+#EXTINF:-1 tvg-id="ManoranjanMovies.in" tvg-name="Manoranjan Movies" group-title="Movies" tvg-language="pan" tvg-quality="576p",Manoranjan Movies
+https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="Mh1News.in" tvg-name="Mh 1 News" group-title="News" tvg-language="pan" tvg-quality="360p",Mh 1 News
+https://livestream.jswk.online/mhonenews/live/index.m3u8
+
+#EXTINF:-1 tvg-id="Mh1News.in" tvg-name="Mh 1 News" group-title="News" tvg-language="pan" tvg-quality="576p",Mh 1 News
+https://livestream.jswk.online/mhonenews/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mh1News.in" tvg-name="Mh 1 News" group-title="News" tvg-language="pan" tvg-quality="576p",Mh 1 News
+https://mumt04.tangotv.in/m18aqlK4MHONENEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="Mh1News.in" tvg-name="Mh 1 News" group-title="News" tvg-language="pan" tvg-quality="576p",Mh 1 News
+https://streams.tangotv.in/MHONENEWS/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="MHOne.in" tvg-name="MH One" group-title="General" tvg-language="pan" tvg-quality="360p",MH One
+https://samitaorigin.tangotv.in/MHONE/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="NamdhariTV.in" tvg-name="Namdhari TV" group-title="Religious" tvg-language="pan" tvg-quality="404p",Namdhari TV
+https://namdhari.tv/live/sbs1.m3u8
+
+#EXTINF:-1 tvg-id="Okey.my" tvg-name="Okey" group-title="General" tvg-language="eng;msa;pan;tam;zho" tvg-quality="576i",Okey
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+
+#EXTINF:-1 tvg-id="Pankh.in" tvg-name="Pankh" group-title="Music" tvg-language="pan" tvg-quality="360p",Pankh
+https://samitaorigin.tangotv.in/PANKH/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" group-title="Movies" tvg-language="pan" tvg-quality="576p",Pitaara
+https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8
+
+#EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" group-title="Movies" tvg-language="pan" tvg-quality="576p",Pitaara
+https://streams.tangotv.in/PITAARA/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="PTCChakde.in" tvg-name="PTC Chakde" group-title="Music" tvg-language="pan" tvg-quality="576p",PTC Chakde
+https://mumt06.tangotv.in/qYyB8fXVPTCCHAKDE/index.m3u8
+
+#EXTINF:-1 tvg-id="PTCMusic.in" tvg-name="PTC Music" group-title="Music" tvg-language="pan" tvg-quality="576i",PTC Music
+https://cdn.pishow.tv/ott/live/1501/master.m3u8
+
+#EXTINF:-1 tvg-id="PTCMusic.in" tvg-name="PTC Music" group-title="Music" tvg-language="pan" tvg-quality="576p",PTC Music
+https://mumt04.tangotv.in/m18aqlK4PTCMUSIC/index.m3u8
+
+#EXTINF:-1 tvg-id="PTCNews.in" tvg-name="PTC News" group-title="News" tvg-language="pan" tvg-quality="576p",PTC News
+https://cdn.pishow.tv/ott/live/1502/master.m3u8
+
+#EXTINF:-1 tvg-id="PTCNews.in" tvg-name="PTC News" group-title="News" tvg-language="pan" tvg-quality="576p",PTC News
+https://mumt06.tangotv.in/qYyB8fXVPTCNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="PTCNews.in" tvg-name="PTC News" group-title="News" tvg-language="pan" tvg-quality="576p",PTC News
+https://streams.tangotv.in/PTCNEWS/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576i",PTC Punjabi
+https://cdn.pishow.tv/ott/live/1604/master.m3u8
+
+#EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",PTC Punjabi
+https://mumt04.tangotv.in/m18aqlK4PTCPUNJABI/index.m3u8
+
+#EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",PTC Punjabi
+https://streams.tangotv.in/PTCPUNJABI/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="PTCPunjabiGold.in" tvg-name="PTC Punjabi Gold" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",PTC Punjabi Gold
+https://mumt04.tangotv.in/m18aqlK4PTCPUNJABIGOLD/index.m3u8
+
+#EXTINF:-1 tvg-id="PTCPunjabiGold.in" tvg-name="PTC Punjabi Gold" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",PTC Punjabi Gold
+https://streams.tangotv.in/PTCPUNJABIGOLD/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="PTCSimran.in" tvg-name="PTC Simran" group-title="Religious" tvg-language="pan" tvg-quality="576i",PTC Simran
+https://cdn.pishow.tv/ott/live/1503/master.m3u8
+
+#EXTINF:-1 tvg-id="PTCSimran.in" tvg-name="PTC Simran" group-title="Religious" tvg-language="pan" tvg-quality="576p",PTC Simran
+https://mumt05.tangotv.in/87NeALx2PTCSIMRAN/index.m3u8
+
+#EXTINF:-1 tvg-id="PTCSimran.in" tvg-name="PTC Simran" group-title="Religious" tvg-language="pan" tvg-quality="576p",PTC Simran
+https://streams.tangotv.in/PTCSIMRAN/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="Ragni.in" tvg-name="Ragni" group-title="Religious" tvg-language="pan" tvg-quality="360p",Ragni
+https://samitaorigin.tangotv.in/RAGNITV/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="TabbarHits.in" tvg-name="Tabbar Hits" group-title="Music" tvg-language="pan" tvg-quality="576p",Tabbar Hits
+https://mumt04.tangotv.in/m18aqlK4TABBARHITS/index.m3u8
+
+#EXTINF:-1 tvg-id="TabbarHits.in" tvg-name="Tabbar Hits" group-title="Music" tvg-language="pan" tvg-quality="576p",Tabbar Hits
+https://streams.tangotv.in/TABBARHITS/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="WorldPunjabiTV.in" tvg-name="World Punjabi TV" group-title="News" tvg-language="pan" tvg-quality="576p",World Punjabi TV
+https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8
+

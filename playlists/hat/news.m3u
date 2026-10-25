@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HaitiNewsChannel.ht" tvg-name="Haiti News Channel" group-title="News" tvg-language="fra;hat" tvg-quality="1080p",Haiti News Channel
+https://cdn.haititivi.com/website/haitinews/index.m3u8
+
+#EXTINF:-1 tvg-id="HaitiNewsChannel.ht" tvg-name="Haiti News Channel" group-title="News" tvg-language="fra;hat" tvg-quality="720p",Haiti News Channel
+https://haititivi.com/website/haitinews/index.m3u8
+

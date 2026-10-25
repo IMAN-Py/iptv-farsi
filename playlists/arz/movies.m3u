@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Aflam.sa" tvg-name="Aflam" group-title="Movies" tvg-language="ara;arz" tvg-quality="1080p",Aflam
+https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
+

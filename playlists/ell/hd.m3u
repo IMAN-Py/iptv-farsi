@@ -1,0 +1,210 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="4E.gr" tvg-name="4E" group-title="Religious" tvg-language="ell" tvg-quality="1080p",4E
+http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Action24.gr" tvg-name="Action 24" group-title="Movies" tvg-language="ell" tvg-quality="1080p",Action 24
+http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AeolosTV.gr" tvg-name="Aeolos TV" group-title="General" tvg-language="ell" tvg-quality="1080p",Aeolos TV
+https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AigaioTV.gr" tvg-name="Aigaio TV" group-title="General" tvg-language="ell" tvg-quality="720p",Aigaio TV
+https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlfaSport.cy" tvg-name="Alfa Sport" group-title="Sports" tvg-language="ell" tvg-quality="1080p",Alfa Sport
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
+
+#EXTINF:-1 tvg-id="AlphaTV.gr" tvg-name="Alpha TV" group-title="General" tvg-language="ell" tvg-quality="1080p",Alpha TV
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ANT1.gr" tvg-name="ANT1" group-title="Entertainment" tvg-language="ell" tvg-quality="1080p",ANT1
+#EXTVLCOPT:http-user-agent=Chrome
+#EXTVLCOPT:http-referrer=http://watch.antennaplus.gr
+https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
+
+#EXTINF:-1 tvg-id="ANT1Cyprus.cy" tvg-name="ANT1 Cyprus" group-title="Entertainment" tvg-language="ell" tvg-quality="1080p",ANT1 Cyprus
+http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ART.gr" tvg-name="ART" group-title="Culture" tvg-language="ell" tvg-quality="1080p",ART
+https://rumble.com/live-hls-dvr/78ixwi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstraTV.gr" tvg-name="Astra TV" group-title="News" tvg-language="ell" tvg-quality="1080p",Astra TV
+https://server.gointernet.gr/live/livestream.m3u8
+
+#EXTINF:-1 tvg-id="BarazaTV.gr" tvg-name="Baraza TV" group-title="Music" tvg-language="ell" tvg-quality="1080p",Baraza TV
+https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BarazaTVDeepHouse.gr" tvg-name="Baraza TV Deep House" group-title="Music" tvg-language="ell" tvg-quality="720p",Baraza TV Deep House
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BarazaTVRelaxing.gr" tvg-name="Baraza TV Relaxing" group-title="Music" tvg-language="ell" tvg-quality="720p",Baraza TV Relaxing
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BestTV.gr" tvg-name="Best TV" group-title="Uncategorized" tvg-language="ell" tvg-quality="720p",Best TV
+http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BlueSkyTV.gr" tvg-name="Blue Sky TV" group-title="General" tvg-language="ell" tvg-quality="720p",Blue Sky TV
+https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CenterTV.gr" tvg-name="Center TV" group-title="General" tvg-language="ell" tvg-quality="1080p",Center TV
+https://eu1.streams.gr:8081/centertv/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel8.gr" tvg-name="Channel 8" group-title="Uncategorized" tvg-language="ell" tvg-quality="1080p",Channel 8
+https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CityChannel.cy" tvg-name="City Channel" group-title="Uncategorized" tvg-language="ell" tvg-quality="720p",City Channel
+https://dev.aftermind.xyz/edge-hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx
+
+#EXTINF:-1 tvg-id="CorfuChannel.gr" tvg-name="Corfu Channel" group-title="News" tvg-language="ell" tvg-quality="720p",Corfu Channel
+https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DELTATV.gr" tvg-name="DELTA TV" group-title="General" tvg-language="ell" tvg-quality="720p",DELTA TV
+http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DionTV.gr" tvg-name="Dion TV" group-title="General" tvg-language="ell" tvg-quality="1080p",Dion TV
+https://rtmp.win:3650/live/diontvlive.m3u8
+
+#EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" group-title="Legislative" tvg-language="bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mlt;nld;pol;por;ron;slk;slv;spa;swe;ukr" tvg-quality="1080p",EbS
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8
+
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+
+#EXTINF:-1 tvg-id="EcclesiaTV.gr" tvg-name="Ecclesia TV" group-title="Uncategorized" tvg-language="ell" tvg-quality="1080p",Ecclesia TV
+https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EllinikosFM.gr" tvg-name="Ellinikos FM" group-title="Music" tvg-language="ell" tvg-quality="720p",Ellinikos FM
+https://rtmp.win:3603/live/ellinikosfmlive.m3u8
+
+#EXTINF:-1 tvg-id="ENAChannel.gr" tvg-name="ENA Channel" group-title="General" tvg-language="ell" tvg-quality="1080p",ENA Channel
+https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EpirusTV1.gr" tvg-name="Epirus TV1" group-title="General" tvg-language="ell" tvg-quality="720p",Epirus TV1
+https://rtmp.win:3929/live/epiruslive.m3u8
+
+#EXTINF:-1 tvg-id="ERTCosmos.gr" tvg-name="ERT Cosmos" group-title="General" tvg-language="ell" tvg-quality="1080p",ERT Cosmos
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
+
+#EXTINF:-1 tvg-id="ERTCosmosCyprus.cy" tvg-name="ERT Cosmos Cyprus" group-title="General" tvg-language="ell" tvg-quality="1080p",ERT Cosmos Cyprus
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8
+
+#EXTINF:-1 tvg-id="ERTNews.gr" tvg-name="ERT News" group-title="News" tvg-language="ell" tvg-quality="1080p",ERT News
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
+
+#EXTINF:-1 tvg-id="ERTSports1.gr" tvg-name="ERT Sports 1" group-title="Sports" tvg-language="ell" tvg-quality="1080p",ERT Sports 1
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
+
+#EXTINF:-1 tvg-id="ERTSports2.gr" tvg-name="ERT Sports 2" group-title="Sports" tvg-language="ell" tvg-quality="1080p",ERT Sports 2
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
+
+#EXTINF:-1 tvg-id="ERT3.gr" tvg-name="ERT3" group-title="Entertainment" tvg-language="ell" tvg-quality="1080p",ERT3
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsGreek.fr" tvg-name="Euronews Greek" group-title="News" tvg-language="ell" tvg-quality="720p",Euronews Greek
+https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
+
+#EXTINF:-1 tvg-id="GnomiTV.gr" tvg-name="Gnomi TV" group-title="General" tvg-language="ell" tvg-quality="1080p",Gnomi TV
+https://live.streams.ovh:8081/gnomitv/index.m3u8
+
+#EXTINF:-1 tvg-id="HellenicParliamentTV.gr" tvg-name="Hellenic Parliament TV" group-title="Legislative" tvg-language="ell" tvg-quality="1080p",Hellenic Parliament TV
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
+
+#EXTINF:-1 tvg-id="HellenicTV.uk" tvg-name="Hellenic TV" group-title="Uncategorized" tvg-language="ell" tvg-quality="720p",Hellenic TV
+https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HighTV.gr" tvg-name="High TV" group-title="Shop" tvg-language="ell" tvg-quality="720p",High TV
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IonianTV.gr" tvg-name="Ionian TV" group-title="General" tvg-language="ell" tvg-quality="1080p",Ionian TV
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IonianTV.gr" tvg-name="Ionian TV" group-title="General" tvg-language="ell" tvg-quality="720p",Ionian TV
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KontraChannel.gr" tvg-name="Kontra Channel" group-title="General" tvg-language="ell" tvg-quality="1080p",Kontra Channel
+https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KosTV.gr" tvg-name="Kos TV" group-title="General" tvg-language="ell" tvg-quality="720p",Kos TV
+https://eu1.streams.gr:8081/kostv/index.m3u8
+
+#EXTINF:-1 tvg-id="KritiTV.gr" tvg-name="Kriti TV" group-title="General" tvg-language="ell" tvg-quality="1080p",Kriti TV
+https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MesogeiosTV.gr" tvg-name="Mesogeios TV" group-title="General" tvg-language="ell" tvg-quality="720p",Mesogeios TV
+https://rtmp.win:3793/live/mesogeiostvlive.m3u8
+
+#EXTINF:-1 tvg-id="MessatidaTV.gr" tvg-name="Messatida TV" group-title="Music" tvg-language="ell" tvg-quality="720p",Messatida TV
+https://rtmp.streams.ovh:8081/mtv/index.m3u8
+
+#EXTINF:-1 tvg-id="NaftemporikiTV.gr" tvg-name="Naftemporiki TV" group-title="News" tvg-language="ell" tvg-quality="1080p",Naftemporiki TV
+https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
+
+#EXTINF:-1 tvg-id="NeaTV.gr" tvg-name="Nea TV" group-title="General" tvg-language="ell" tvg-quality="720p",Nea TV
+https://live.neatv.gr:8888/hls/neatv.m3u8
+
+#EXTINF:-1 tvg-id="NeaTV.gr" tvg-name="Nea TV" group-title="General" tvg-language="ell" tvg-quality="720p",Nea TV
+https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
+
+#EXTINF:-1 tvg-id="NetmaxTV.gr" tvg-name="Netmax TV" group-title="Entertainment" tvg-language="ell" tvg-quality="720p",Netmax TV
+https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NotioiTV.gr" tvg-name="Notioi TV" group-title="General" tvg-language="ell" tvg-quality="1080p",Notioi TV
+https://srv.streamserver.gr:3451/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="NRG91.gr" tvg-name="NRG 91" group-title="Music" tvg-language="ell" tvg-quality="720p",NRG 91
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+
+#EXTINF:-1 tvg-id="OneChannel.gr" tvg-name="One Channel" group-title="General" tvg-language="ell" tvg-quality="1080p",One Channel
+https://onechannel.siliconweb.com/one/stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="PanikTV.gr" tvg-name="Panik TV" group-title="Music" tvg-language="ell" tvg-quality="1080p",Panik TV
+https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ReloadPlay.gr" tvg-name="Reload Play" group-title="Uncategorized" tvg-language="ell" tvg-quality="720p",Reload Play
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RIKSat.cy" tvg-name="RIK Sat" group-title="Uncategorized" tvg-language="ell" tvg-quality="720p",RIK Sat
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RIKSat.cy" tvg-name="RIK Sat" group-title="Uncategorized" tvg-language="ell" tvg-quality="720p",RIK Sat
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkaiTV.gr" tvg-name="Skai TV" group-title="General" tvg-language="ell" tvg-quality="720p",Skai TV
+http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
+
+#EXTINF:-1 tvg-id="StarChannel.gr" tvg-name="Star Channel" group-title="Entertainment" tvg-language="ell" tvg-quality="1080p",Star Channel
+http://livestar.siliconweb.com/starvod/star4/star4.m3u8
+
+#EXTINF:-1 tvg-id="StarChannelInternational.gr" tvg-name="Star Channel International" group-title="Entertainment" tvg-language="ell" tvg-quality="720p",Star Channel International
+https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
+
+#EXTINF:-1 tvg-id="StarChannelInternational.gr" tvg-name="Star Channel International" group-title="Entertainment" tvg-language="ell" tvg-quality="1080i",Star Channel International
+https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8
+
+#EXTINF:-1 tvg-id="StarKentrikisElladas.gr" tvg-name="Star Kentrikis Elladas" group-title="General;News" tvg-language="ell" tvg-quality="1080p",Star Kentrikis Elladas
+https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
+
+#EXTINF:-1 tvg-id="SyrosTV1.gr" tvg-name="Syros TV1" group-title="General" tvg-language="ell" tvg-quality="720p",Syros TV1
+https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telekriti.gr" tvg-name="Telekriti" group-title="General" tvg-language="ell" tvg-quality="720p",Telekriti
+https://neon.streams.gr:8081/telekriti/index.m3u8
+
+#EXTINF:-1 tvg-id="ThrakiNetTV.gr" tvg-name="Thraki Net TV" group-title="General" tvg-language="ell" tvg-quality="1080p",Thraki Net TV
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopChannel.gr" tvg-name="Top Channel" group-title="General" tvg-language="ell" tvg-quality="720p",Top Channel
+https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRT.gr" tvg-name="TRT" group-title="News" tvg-language="ell" tvg-quality="720p",TRT
+https://av.hellasnet.tv/rst/trt/main_stream.m3u8
+
+#EXTINF:-1 tvg-id="TV100.gr" tvg-name="TV 100" group-title="General" tvg-language="ell" tvg-quality="720p",TV 100
+https://gwebstream.net/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="VerginaTV.gr" tvg-name="Vergina TV" group-title="Entertainment;News" tvg-language="ell" tvg-quality="1080p",Vergina TV
+https://verginanews.gr:8443/hls_live/stream1.m3u8
+
+#EXTINF:-1 tvg-id="VouliTV.cy" tvg-name="Vouli TV" group-title="News" tvg-language="ell" tvg-quality="1080p",Vouli TV
+https://dev.aftermind.xyz/edge-hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
+

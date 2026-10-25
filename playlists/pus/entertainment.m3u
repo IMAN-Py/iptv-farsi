@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AVTKhyber.pk" tvg-name="AVT Khyber" group-title="Entertainment" tvg-language="pus" tvg-quality="1080p",AVT Khyber
+http://115.42.65.142:9981/stream/channelid/1380586642
+
+#EXTINF:-1 tvg-id="LemarTV.af" tvg-name="Lemar TV" group-title="Entertainment" tvg-language="pus" tvg-quality="720p",Lemar TV
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
+
+#EXTINF:-1 tvg-id="Pashto1.pk" tvg-name="Pashto 1" group-title="Entertainment" tvg-language="pus" tvg-quality="1080p",Pashto 1
+http://103.250.28.74:8000/play/a00t/index.m3u8
+
+#EXTINF:-1 tvg-id="ShamshadTV.af" tvg-name="Shamshad TV" group-title="Entertainment" tvg-language="pus" tvg-quality="576i",Shamshad TV
+https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
+

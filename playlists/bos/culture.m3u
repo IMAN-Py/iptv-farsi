@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MISTelevizija.au" tvg-name="MIS Televizija" group-title="Culture" tvg-language="bos;eng" tvg-quality="720p",MIS Televizija
+https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
+

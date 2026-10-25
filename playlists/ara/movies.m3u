@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Aflam.sa" tvg-name="Aflam" group-title="Movies" tvg-language="ara;arz" tvg-quality="1080p",Aflam
+https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="iFilmArabic.ir" tvg-name="iFilm Arabic" group-title="Movies" tvg-language="ara" tvg-quality="576i",iFilm Arabic
+https://live.presstv.co.uk/hls/ifilmar.m3u8
+
+#EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-name="MBC Bollywood" group-title="Movies" tvg-language="ara;eng;hin" tvg-quality="1080p",MBC Bollywood
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.sa" tvg-name="MBC+ Drama" group-title="Movies" tvg-language="ara" tvg-quality="1080p",MBC+ Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+
+#EXTINF:-1 tvg-id="MixHollywood.eg" tvg-name="Mix Hollywood" group-title="Movies" tvg-language="ara" tvg-quality="1080p",Mix Hollywood
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="MoviesAction.sa" tvg-name="Movies Action" group-title="Movies" tvg-language="ara;eng" tvg-quality="1080p",Movies Action
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MoviesThriller.sa" tvg-name="Movies Thriller" group-title="Movies" tvg-language="ara;eng" tvg-quality="1080p",Movies Thriller
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NileDrama.eg" tvg-name="Nile Drama" group-title="Movies" tvg-language="ara" tvg-quality="576p",Nile Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://entv.dz/
+http://185.9.2.18/chid_352/index.m3u8
+
+#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg" tvg-name="Rotana Cinema Egypt" group-title="Movies" tvg-language="ara" tvg-quality="1080p",Rotana Cinema Egypt
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-name="Rotana Cinema KSA" group-title="Movies" tvg-language="ara" tvg-quality="1080p",Rotana Cinema KSA
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
+

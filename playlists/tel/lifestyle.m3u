@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CVRHealth.in" tvg-name="CVR Health" group-title="Lifestyle" tvg-language="tel" tvg-quality="576p",CVR Health
+https://cdn.pishow.tv/ott/live/395/master.m3u8
+
+#EXTINF:-1 tvg-id="CVRHealth.in" tvg-name="CVR Health" group-title="Lifestyle" tvg-language="tel" tvg-quality="576p",CVR Health
+https://mumbai-edge.smartplaytv.in/CVRHealth/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVLife.in" tvg-name="ETV Life" group-title="Lifestyle" tvg-language="tel" tvg-quality="1080p",ETV Life
+https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8
+

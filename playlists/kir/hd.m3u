@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ManasTV.kg" tvg-name="Manas TV" group-title="Culture;Education;Entertainment" tvg-language="kir;tur" tvg-quality="1080p",Manas TV
+http://212.42.111.152:8080/hls/manas.m3u8
+
+#EXTINF:-1 tvg-id="NextTV.kg" tvg-name="Next TV" group-title="Uncategorized" tvg-language="kir;rus" tvg-quality="1080p",Next TV
+http://gohoski.fvds.ru:3000/mediabay/601/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OshPirim.kg" tvg-name="Osh Pirim" group-title="General" tvg-language="kir;rus" tvg-quality="1080p",Osh Pirim
+http://gohoski.fvds.ru:3000/mediabay/697/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV15.kg" tvg-name="TV15" group-title="General" tvg-language="kir;rus" tvg-quality="1080p",TV15
+http://gohoski.fvds.ru:3000/mediabay/655/playlist.m3u8
+

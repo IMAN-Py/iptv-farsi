@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KKRtv.dk" tvg-name="KKRtv" group-title="Religious" tvg-language="dan" tvg-quality="720p",KKRtv
+http://stream.kkr.dk/live/kkr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KKRtv.dk" tvg-name="KKRtv" group-title="Religious" tvg-language="dan" tvg-quality="720p",KKRtv
+http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
+

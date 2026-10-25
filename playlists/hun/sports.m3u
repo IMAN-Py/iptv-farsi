@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Arena4.hu" tvg-name="Arena4" group-title="Sports" tvg-language="hun" tvg-quality="576i",Arena4
+http://88.212.15.17/live/arena4/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="hun" tvg-quality="576i",Eurosport 1
+http://88.212.15.17/live/esp1_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="hun" tvg-quality="576i",Eurosport 2
+http://88.212.15.17/live/esp2_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="Loversenykozvetites.hu" tvg-name="Loverseny kozvetites" group-title="Sports" tvg-language="hun" tvg-quality="420p",Loverseny kozvetites
+http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="M4Sport.hu" tvg-name="M4 Sport" group-title="Sports" tvg-language="hun" tvg-quality="576i",M4 Sport
+http://88.212.15.17/live/m4_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="M4Sport.hu" tvg-name="M4 Sport" group-title="Sports" tvg-language="hun" tvg-quality="1080p",M4 Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/uatlmvixrr/index.m3u8
+
+#EXTINF:-1 tvg-id="Match4.hu" tvg-name="Match4" group-title="Sports" tvg-language="hun" tvg-quality="1080p",Match4
+http://141.94.193.53:80/Match4_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Spiler1.hu" tvg-name="Spiler 1" group-title="Sports" tvg-language="hun" tvg-quality="576i",Spiler 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/spiler1/index.m3u8
+
+#EXTINF:-1 tvg-id="Spiler2.hu" tvg-name="Spiler 2" group-title="Sports" tvg-language="hun" tvg-quality="576i",Spiler 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/spiler2/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport1.hu" tvg-name="Sport 1" group-title="Sports" tvg-language="hun" tvg-quality="576i",Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/sport1_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport2.hu" tvg-name="Sport 2" group-title="Sports" tvg-language="hun" tvg-quality="576i",Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/sport2_hun/index.m3u8
+

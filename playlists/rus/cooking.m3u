@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CityEdenReceptyGurmana.ru" tvg-name="City Eden Recepty Gurmana" group-title="Cooking" tvg-language="rus" tvg-quality="1080p",City Eden Recepty Gurmana
+https://cityeden.catcast.tv/content/47516/index.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork.ru" tvg-name="Food Network" group-title="Cooking" tvg-language="rus" tvg-quality="1080p",Food Network
+http://stream.mcquack.net/298/index.m3u8
+
+#EXTINF:-1 tvg-id="Kuhnya.ru" tvg-name="Kuhnya" group-title="Cooking" tvg-language="rus" tvg-quality="576p",Kuhnya
+http://stream.mcquack.net/179/index.m3u8
+
+#EXTINF:-1 tvg-id="Kuhnya.ru" tvg-name="Kuhnya" group-title="Cooking" tvg-language="rus" tvg-quality="576p",Kuhnya
+https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="KulinarTV.ru" tvg-name="Kulinar TV" group-title="Cooking" tvg-language="rus" tvg-quality="576p",Kulinar TV
+https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+
+#EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" group-title="Cooking" tvg-language="rus" tvg-quality="576p",Telecafe
+http://31.148.48.15/Telekafe/index.m3u8
+
+#EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" group-title="Cooking" tvg-language="rus" tvg-quality="576p",Telecafe
+http://88.212.15.17/live/test_telecafe_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" group-title="Cooking" tvg-language="rus" tvg-quality="576p",Telecafe
+http://stream.mcquack.net/314/index.m3u8
+
+#EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" group-title="Cooking" tvg-language="rus" tvg-quality="720p",Telecafe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
+
+#EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" group-title="Cooking" tvg-language="rus" tvg-quality="576p",Telecafe
+https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" group-title="Cooking" tvg-language="rus" tvg-quality="576i",Telecafe
+https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
+

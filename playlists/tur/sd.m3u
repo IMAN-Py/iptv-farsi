@@ -1,0 +1,158 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AdaTV.cy" tvg-name="Ada TV" group-title="General" tvg-language="tur" tvg-quality="576i",Ada TV
+https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArasTV.tr" tvg-name="Aras TV" group-title="General" tvg-language="tur" tvg-quality="576p",Aras TV
+http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" group-title="General" tvg-language="tur" tvg-quality="360p",ATV
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+
+#EXTINF:-1 tvg-id="ATVAvrupa.tr" tvg-name="ATV Avrupa" group-title="Uncategorized" tvg-language="tur" tvg-quality="576p",ATV Avrupa
+https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="480i",BabyFirst
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BabyTV" group-title="Kids" tvg-language="tur" tvg-quality="576i",BabyTV
+https://saran-live.ercdn.net/babytv/index.m3u8
+
+#EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-name="beIN Box Office 1" group-title="Movies" tvg-language="tur" tvg-quality="576i",beIN Box Office 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://nord.ayakkabiparti.lol/box1/index.m3u8
+
+#EXTINF:-1 tvg-id="beINBoxOffice2.tr" tvg-name="beIN Box Office 2" group-title="Movies" tvg-language="tur" tvg-quality="576i",beIN Box Office 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://nord.ayakkabiparti.lol/box2/index.m3u8
+
+#EXTINF:-1 tvg-id="beINBoxOffice3.tr" tvg-name="beIN Box Office 3" group-title="Movies" tvg-language="tur" tvg-quality="576i",beIN Box Office 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://nord.ayakkabiparti.lol/box3/index.m3u8
+
+#EXTINF:-1 tvg-id="beINMoviesStars.tr" tvg-name="beIN Movies Stars" group-title="Movies" tvg-language="tur" tvg-quality="576i",beIN Movies Stars
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://nord.ayakkabiparti.lol/bsaction1/index.m3u8
+
+#EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-name="beIN Movies Turk" group-title="Movies" tvg-language="tur" tvg-quality="576i",beIN Movies Turk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://nord.ayakkabiparti.lol/bsturk/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1Turk.tr" tvg-name="beIN Sports 1 Turk" group-title="Sports" tvg-language="tur" tvg-quality="576i",beIN Sports 1 Turk
+https://andro.mangeinde4.lat/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1 tvg-id="beINSports2Turk.tr" tvg-name="beIN Sports 2 Turk" group-title="Sports" tvg-language="tur" tvg-quality="576i",beIN Sports 2 Turk
+https://andro.mangeinde4.lat/checklist/androstreamlivebs2.m3u8
+
+#EXTINF:-1 tvg-id="beINSports3Turk.tr" tvg-name="beIN Sports 3 Turk" group-title="Sports" tvg-language="tur" tvg-quality="576i",beIN Sports 3 Turk
+https://andro.mangeinde4.lat/checklist/androstreamlivebs3.m3u8
+
+#EXTINF:-1 tvg-id="beINSports4Turk.tr" tvg-name="beIN Sports 4 Turk" group-title="Sports" tvg-language="tur" tvg-quality="576i",beIN Sports 4 Turk
+https://andro.mangeinde4.lat/checklist/androstreamlivebs4.m3u8
+
+#EXTINF:-1 tvg-id="beINSports5Turk.tr" tvg-name="beIN Sports 5 Turk" group-title="Sports" tvg-language="tur" tvg-quality="576i",beIN Sports 5 Turk
+https://andro.mangeinde4.lat/checklist/androstreamlivebs5.m3u8
+
+#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-name="beIN Sports Haber" group-title="Sports" tvg-language="tur" tvg-quality="576i",beIN Sports Haber
+https://andro.mangeinde4.lat/checklist/androstreamlivebsh.m3u8
+
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" group-title="Business" tvg-language="tur" tvg-quality="576i",Bloomberg HT
+http://193.123.61.120:3000/kanal/bloomberght
+
+#EXTINF:-1 tvg-id="BricveSatrancTV.tr" tvg-name="Bric ve Satranc TV" group-title="Uncategorized" tvg-language="tur" tvg-quality="480p",Bric ve Satranc TV
+http://139.162.182.79/live/test/index.m3u8
+
+#EXTINF:-1 tvg-id="CNBCe.tr" tvg-name="CNBC-e" group-title="Business;Series" tvg-language="tur" tvg-quality="576i",CNBC-e
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+
+#EXTINF:-1 tvg-id="DostTV.tr" tvg-name="Dost TV" group-title="Religious" tvg-language="tur" tvg-quality="576p",Dost TV
+https://dost.stream.emsal.im/tv/live.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="tur" tvg-quality="576i",Eurosport 1
+https://andro.mangeinde4.lat/checklist/androstreamlivees1.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="tur" tvg-quality="576i",Eurosport 2
+https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8
+
+#EXTINF:-1 tvg-id="FBTV.tr" tvg-name="FB TV" group-title="Sports" tvg-language="eng;tur" tvg-quality="576i",FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FinestTV.de" tvg-name="Finest TV" group-title="Music" tvg-language="deu;tur" tvg-quality="288p",Finest TV
+https://media.finest.tv/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="FlashHaberTV.tr" tvg-name="Flash Haber TV" group-title="News" tvg-language="tur" tvg-quality="576i",Flash Haber TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HunatTV.tr" tvg-name="Hunat TV" group-title="General" tvg-language="tur" tvg-quality="480p",Hunat TV
+https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KayTV.tr" tvg-name="Kay TV" group-title="General" tvg-language="tur" tvg-quality="576p",Kay TV
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ManasTV.kg" tvg-name="Manas TV" group-title="Culture;Education;Entertainment" tvg-language="kir;tur" tvg-quality="576i",Manas TV
+http://120.70.60.179:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+
+#EXTINF:-1 tvg-id="MercanTV.tr" tvg-name="Mercan TV" group-title="Uncategorized" tvg-language="tur" tvg-quality="576p",Mercan TV
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-name="Minika Cocuk" group-title="Kids" tvg-language="tur" tvg-quality="576p",Minika Cocuk
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+
+#EXTINF:-1 tvg-id="MinikaGo.tr" tvg-name="Minika Go" group-title="Kids" tvg-language="eng;tur" tvg-quality="576p",Minika Go
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+
+#EXTINF:-1 tvg-id="MovieSmartTurk.tr" tvg-name="MovieSmart Turk" group-title="Movies" tvg-language="tur" tvg-quality="576p",MovieSmart Turk
+http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174
+
+#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-name="National Geographic" group-title="Documentary" tvg-language="tur" tvg-quality="576i",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://nord.ayakkabiparti.lol/natgeo/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="tur" tvg-quality="576i",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
+
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" group-title="General" tvg-language="tur" tvg-quality="576i",NTV
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+
+#EXTINF:-1 tvg-id="PersianaTurkiye.fr" tvg-name="Persiana Turkiye" group-title="Entertainment" tvg-language="fas;tur" tvg-quality="576i",Persiana Turkiye
+https://turkhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-name="PowerTurk TV" group-title="Uncategorized" tvg-language="tur" tvg-quality="576i",PowerTurk TV
+https://powerturk.blutv.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTGTV.ru" tvg-name="RTG TV" group-title="Travel" tvg-language="eng;rus;tur" tvg-quality="576p",RTG TV
+http://31.148.48.15/RTG/index.m3u8
+
+#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport 2" group-title="Sports" tvg-language="eng;tur" tvg-quality="576i",S Sport 2
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TGRTBelgesel.tr" tvg-name="TGRT Belgesel" group-title="General" tvg-language="tur" tvg-quality="576p",TGRT Belgesel
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber" group-title="News" tvg-language="tur" tvg-quality="360p",TGRT Haber
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Muzik" group-title="Music" tvg-language="tur" tvg-quality="576i",TRT Muzik
+https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TV42.tr" tvg-name="TV 42" group-title="Uncategorized" tvg-language="tur" tvg-quality="576i",TV 42
+https://canli.tv42.com.tr/memfs/d936e417-c4bd-4d42-89a2-02f289892d1d.m3u8
+
+#EXTINF:-1 tvg-id="TVDen.tr" tvg-name="TV Den" group-title="Uncategorized" tvg-language="tur" tvg-quality="576p",TV Den
+http://canli.tvden.com.tr/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="Ulke TV" group-title="Uncategorized" tvg-language="tur" tvg-quality="576i",Ulke TV
+http://217.174.229.138:8000/play/a0el
+
+#EXTINF:-1 tvg-id="Van65TV.tr" tvg-name="Van 65 TV" group-title="General" tvg-language="tur" tvg-quality="576i",Van 65 TV
+https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VavTV.tr" tvg-name="Vav TV" group-title="Uncategorized" tvg-language="tur" tvg-quality="576i",Vav TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WestAzerbaijanTV.ir" tvg-name="West Azerbaijan TV" group-title="General" tvg-language="aze;fas;kur;tur" tvg-quality="576i",West Azerbaijan TV
+https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YOLTV.de" tvg-name="YOL TV" group-title="General" tvg-language="tur" tvg-quality="576i",YOL TV
+https://live.yoltv.com/hls/stream.m3u8
+

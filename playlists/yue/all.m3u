@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AsianDrama.hk" tvg-name="Asian Drama" group-title="Entertainment" tvg-language="yue" tvg-quality="1080p",Asian Drama
+http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
+
+#EXTINF:-1 tvg-id="BSTV.hk" tvg-name="BSTV" group-title="Shop" tvg-language="yue;zho" tvg-quality="576p",BSTV
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoldenJade.hk" tvg-name="Golden Jade" group-title="Uncategorized" tvg-language="yue" tvg-quality="1080p",Golden Jade
+http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
+
+#EXTINF:-1 tvg-id="HOYInfotainment.hk" tvg-name="HOY Infotainment" group-title="Uncategorized" tvg-language="yue" tvg-quality="1080p",HOY Infotainment
+https://hoytv-live-stream.hoy.tv/ch78/index.m3u8
+
+#EXTINF:-1 tvg-id="HOYTV.hk" tvg-name="HOY TV" group-title="General" tvg-language="yue" tvg-quality="1080p",HOY TV
+https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
+
+#EXTINF:-1 tvg-id="Jade.hk" tvg-name="Jade" group-title="Entertainment" tvg-language="yue;zho" tvg-quality="1080p",Jade
+http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
+
+#EXTINF:-1 tvg-id="LotusTV.mo" tvg-name="Lotus TV" group-title="General" tvg-language="eng;yue;zho" tvg-quality="720p",Lotus TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+
+#EXTINF:-1 tvg-id="LotusTV.mo" tvg-name="Lotus TV" group-title="General" tvg-language="eng;yue;zho" tvg-quality="576i",Lotus TV
+https://play-sh.quklive.com/live/1780907795235397.m3u8
+
+#EXTINF:-1 tvg-id="PetClubTV.hk" tvg-name="Pet Club TV" group-title="Entertainment" tvg-language="yue" tvg-quality="1080p",Pet Club TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PetClubTV.hk" tvg-name="Pet Club TV" group-title="Entertainment" tvg-language="yue" tvg-quality="1080p",Pet Club TV
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TDMEntertainment.mo" tvg-name="TDM Entertainment" group-title="Entertainment" tvg-language="yue;zho" tvg-quality="720p",TDM Entertainment
+https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+

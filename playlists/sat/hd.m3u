@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KTVBangla.in" tvg-name="KTV Bangla" group-title="General" tvg-language="ben;sat" tvg-quality="720p",KTV Bangla
+https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
+

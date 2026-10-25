@@ -1,0 +1,398 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="100AutoMotoTV.bg" tvg-name="100% Auto Moto TV" group-title="Auto" tvg-language="bul;eng" tvg-quality="406p",100% Auto Moto TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24Kitchen.us" tvg-name="24Kitchen" group-title="Cooking" tvg-language="bul" tvg-quality="1080p",24Kitchen
+http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8
+
+#EXTINF:-1 tvg-id="78TV.bg" tvg-name="7/8 TV" group-title="Entertainment" tvg-language="bul" tvg-quality="576i",7/8 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0cn
+
+#EXTINF:-1 tvg-id="AgroTV.bg" tvg-name="Agro TV" group-title="Outdoor" tvg-language="bul" tvg-quality="480p",Agro TV
+https://restr2.bgtv.bg/agro/hls/agro.m3u8
+
+#EXTINF:-1 tvg-id="AMCEurope.uk" tvg-name="AMC Europe" group-title="Movies" tvg-language="bul" tvg-quality="576i",AMC Europe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://212.70.131.37:8000/play/a05k
+
+#EXTINF:-1 tvg-id="AMCEurope.uk" tvg-name="AMC Europe" group-title="Movies" tvg-language="bul" tvg-quality="576i",AMC Europe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0by
+
+#EXTINF:-1 tvg-id="AMCEurope.uk" tvg-name="AMC Europe" group-title="Movies" tvg-language="bul" tvg-quality="576p",AMC Europe
+http://hls127.freeott.top:8080/BG_AMC/video.m3u8
+
+#EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" group-title="Movies" tvg-language="bul" tvg-quality="576i",AXN Black
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.17:5000
+
+#EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" group-title="Movies" tvg-language="bul" tvg-quality="576p",AXN Black
+http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8
+
+#EXTINF:-1 tvg-id="AXNCEE.es" tvg-name="AXN CEE" group-title="Movies" tvg-language="bul" tvg-quality="576i",AXN CEE
+http://85.11.144.9:4222/AXN
+
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" group-title="Entertainment" tvg-language="bul" tvg-quality="576i",AXN White
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.18:5000
+
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" group-title="Entertainment" tvg-language="bul" tvg-quality="576p",AXN White
+http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTVBulgaria.bg" tvg-name="Bloomberg TV Bulgaria" group-title="Business" tvg-language="bul" tvg-quality="576i",Bloomberg TV Bulgaria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a04m
+
+#EXTINF:-1 tvg-id="BNT1.bg" tvg-name="BNT 1" group-title="General" tvg-language="bul" tvg-quality="576i",BNT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a046
+
+#EXTINF:-1 tvg-id="BNT1.bg" tvg-name="BNT 1" group-title="General" tvg-language="bul" tvg-quality="720p",BNT 1
+http://hls127.freeott.top:8080/BG_BNT_1/video.m3u8
+
+#EXTINF:-1 tvg-id="BNT1.bg" tvg-name="BNT 1" group-title="General" tvg-language="bul" tvg-quality="1080p",BNT 1
+https://shift03.isp.bg/BNT1_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="BNT2.bg" tvg-name="BNT 2" group-title="General" tvg-language="bul" tvg-quality="576i",BNT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a049
+
+#EXTINF:-1 tvg-id="BNT2.bg" tvg-name="BNT 2" group-title="General" tvg-language="bul" tvg-quality="720p",BNT 2
+http://hls127.freeott.top:8080/BG_BNT_2_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="BNT2.bg" tvg-name="BNT 2" group-title="General" tvg-language="bul" tvg-quality="1080p",BNT 2
+https://shift03.isp.bg/BNT2_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="BNT3.bg" tvg-name="BNT 3" group-title="General" tvg-language="bul" tvg-quality="576i",BNT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03x
+
+#EXTINF:-1 tvg-id="BNT3.bg" tvg-name="BNT 3" group-title="General" tvg-language="bul" tvg-quality="720p",BNT 3
+http://hls127.freeott.top:8080/BG_BNT_3_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="BNT3.bg" tvg-name="BNT 3" group-title="General" tvg-language="bul" tvg-quality="1080p",BNT 3
+https://shift03.isp.bg/BNT3_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="BNT4.bg" tvg-name="BNT 4" group-title="General" tvg-language="bul" tvg-quality="576i",BNT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a04u
+
+#EXTINF:-1 tvg-id="BNT4.bg" tvg-name="BNT 4" group-title="General" tvg-language="bul" tvg-quality="720p",BNT 4
+http://hls127.freeott.top:8080/BG_BNT_4_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="BNT4.bg" tvg-name="BNT 4" group-title="General" tvg-language="bul" tvg-quality="1080p",BNT 4
+https://shift03.isp.bg/BNT4_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="BOXTV.bg" tvg-name="BOX TV" group-title="Music" tvg-language="bul" tvg-quality="576i",BOX TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0an
+
+#EXTINF:-1 tvg-id="bTV.bg" tvg-name="bTV" group-title="General" tvg-language="bul" tvg-quality="576i",bTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03w
+
+#EXTINF:-1 tvg-id="bTVAction.bg" tvg-name="bTV Action" group-title="Movies" tvg-language="bul" tvg-quality="576i",bTV Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a04n
+
+#EXTINF:-1 tvg-id="bTVCinema.bg" tvg-name="bTV Cinema" group-title="Movies" tvg-language="bul" tvg-quality="576i",bTV Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a04i
+
+#EXTINF:-1 tvg-id="bTVComedy.bg" tvg-name="bTV Comedy" group-title="Comedy" tvg-language="bul" tvg-quality="576i",bTV Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a04k
+
+#EXTINF:-1 tvg-id="bTVLady.bg" tvg-name="bTV Lady" group-title="Movies" tvg-language="bul" tvg-quality="576i",bTV Lady
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a05i
+
+#EXTINF:-1 tvg-id="BulgariaOnAir.bg" tvg-name="Bulgaria On Air" group-title="News" tvg-language="bul" tvg-quality="576i",Bulgaria On Air
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a05x
+
+#EXTINF:-1 tvg-id="cinebox.bg" tvg-name="cine.box" group-title="Movies" tvg-language="bul" tvg-quality="576i",cine.box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://212.70.131.37:8000/play/a08b
+
+#EXTINF:-1 tvg-id="CineStar1Bulgaria.bg" tvg-name="CineStar 1 Bulgaria" group-title="Movies" tvg-language="bul" tvg-quality="576i",CineStar 1 Bulgaria
+http://213.91.179.28:8000/play/a05h
+
+#EXTINF:-1 tvg-id="CityTV.bg" tvg-name="City TV" group-title="Music" tvg-language="bul" tvg-quality="576p",City TV
+https://tv.city.bg/play/tshls/citytv/index.m3u8
+
+#EXTINF:-1 tvg-id="CodeFashionTV.bg" tvg-name="Code Fashion TV" group-title="Lifestyle" tvg-language="bul" tvg-quality="1080p",Code Fashion TV
+https://cdn2.invivo.bg/Codefashion_5500/index.m3u8
+
+#EXTINF:-1 tvg-id="CodeHealthTV.bg" tvg-name="Code Health TV" group-title="Lifestyle" tvg-language="bul" tvg-quality="1080p",Code Health TV
+https://cdn2.invivo.bg/codehealth_test/index.m3u8
+
+#EXTINF:-1 tvg-id="Diema.bg" tvg-name="Diema" group-title="Movies" tvg-language="bul" tvg-quality="576i",Diema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a045
+
+#EXTINF:-1 tvg-id="DiemaFamily.bg" tvg-name="Diema Family" group-title="Family" tvg-language="bul" tvg-quality="576i",Diema Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a047
+
+#EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-name="Disney Channel" group-title="Kids" tvg-language="bul;eng" tvg-quality="576i",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a059
+
+#EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-name="Disney Channel" group-title="Kids" tvg-language="bul;eng" tvg-quality="576i",Disney Channel
+http://87.120.179.187:8000/play/a010
+
+#EXTINF:-1 tvg-id="DSTV.bg" tvg-name="DSTV" group-title="Music" tvg-language="bul" tvg-quality="614p",DSTV
+http://46.249.95.140:8081/hls/data.m3u8
+
+#EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" group-title="Legislative" tvg-language="bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mlt;nld;pol;por;ron;slk;slv;spa;swe;ukr" tvg-quality="1080p",EbS
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8
+
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+
+#EXTINF:-1 tvg-id="EKids.bg" tvg-name="EKids" group-title="Kids" tvg-language="bul" tvg-quality="576p",EKids
+http://78.108.244.134:8899/ekids
+
+#EXTINF:-1 tvg-id="Eurocom.bg" tvg-name="Eurocom" group-title="General" tvg-language="bul" tvg-quality="360p",Eurocom
+https://live.ecomservice.bg/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsBulgaria.bg" tvg-name="Euronews Bulgaria" group-title="News" tvg-language="bul" tvg-quality="576i",Euronews Bulgaria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a05e
+
+#EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl" tvg-name="FILMBOX+ Emotion" group-title="Movies" tvg-language="bul" tvg-quality="576i",FILMBOX+ Emotion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a04r
+
+#EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl" tvg-name="FILMBOX+ Love & Crime" group-title="Movies" tvg-language="bul" tvg-quality="576i",FILMBOX+ Love & Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a066
+
+#EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl" tvg-name="FILMBOX+ Love & Crime" group-title="Movies" tvg-language="bul" tvg-quality="720p",FILMBOX+ Love & Crime
+http://hls127.freeott.top:8080/BG_FilmBox_Stars_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-name="FILMBOX+ One" group-title="Movies" tvg-language="bul" tvg-quality="576i",FILMBOX+ One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a06i
+
+#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-name="FILMBOX+ One" group-title="Movies" tvg-language="bul" tvg-quality="576p",FILMBOX+ One
+http://hls127.freeott.top:8080/BG_Filmbox/video.m3u8
+
+#EXTINF:-1 tvg-id="H2.bg" tvg-name="H2" group-title="Documentary" tvg-language="bul;eng" tvg-quality="576i",H2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03r
+
+#EXTINF:-1 tvg-id="History.bg" tvg-name="History" group-title="Documentary" tvg-language="bul" tvg-quality="576i",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0c1
+
+#EXTINF:-1 tvg-id="HitMixMusic.bg" tvg-name="Hit Mix Music" group-title="Music" tvg-language="bul" tvg-quality="576i",Hit Mix Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0cl
+
+#EXTINF:-1 tvg-id="HopeChannelBulgaria.bg" tvg-name="Hope Channel Bulgaria" group-title="Religious" tvg-language="bul" tvg-quality="576i",Hope Channel Bulgaria
+https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ID.bg" tvg-name="ID" group-title="Documentary" tvg-language="bul" tvg-quality="576i",ID
+http://213.91.179.28:8000/play/a0cf
+
+#EXTINF:-1 tvg-id="KinoNova.bg" tvg-name="Kino Nova" group-title="Movies" tvg-language="bul" tvg-quality="576i",Kino Nova
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a041
+
+#EXTINF:-1 tvg-id="LightChannel.bg" tvg-name="Light Channel" group-title="Religious" tvg-language="bul" tvg-quality="480p",Light Channel
+https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
+https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="720p",Love Nature
+https://bamus-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="720p",Love Nature
+https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
+https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
+
+#EXTINF:-1 tvg-id="MagicTV.bg" tvg-name="Magic TV" group-title="Music" tvg-language="bul" tvg-quality="720p",Magic TV
+https://bss1.neterra.tv/magictv/magictv.m3u8
+
+#EXTINF:-1 tvg-id="MaxSport1.bg" tvg-name="Max Sport 1" group-title="Sports" tvg-language="bul" tvg-quality="720p",Max Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36x
+http://213.91.179.28:8000/play/a0as
+
+#EXTINF:-1 tvg-id="MaxSport1.bg" tvg-name="Max Sport 1" group-title="Sports" tvg-language="bul" tvg-quality="1080p",Max Sport 1
+http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="MaxSport2.bg" tvg-name="Max Sport 2" group-title="Sports" tvg-language="bul" tvg-quality="720p",Max Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://213.91.179.28:8000/play/a0at
+
+#EXTINF:-1 tvg-id="MaxSport2.bg" tvg-name="Max Sport 2" group-title="Sports" tvg-language="bul" tvg-quality="1080p",Max Sport 2
+http://hls127.freeott.top:8080/BG_MAX_Sport_2_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="MaxSport3.bg" tvg-name="Max Sport 3" group-title="Sports" tvg-language="bul" tvg-quality="720p",Max Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://213.91.179.28:8000/play/a0ar
+
+#EXTINF:-1 tvg-id="MaxSport3.bg" tvg-name="Max Sport 3" group-title="Sports" tvg-language="bul" tvg-quality="1080p",Max Sport 3
+http://hls127.freeott.top:8080/BG_MAX_Sport_3_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="MaxSport4.bg" tvg-name="Max Sport 4" group-title="Sports" tvg-language="bul" tvg-quality="576i",Max Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a05n
+
+#EXTINF:-1 tvg-id="MaxSport4.bg" tvg-name="Max Sport 4" group-title="Sports" tvg-language="bul" tvg-quality="1080p",Max Sport 4
+http://hls127.freeott.top:8080/BG_MAX_Sport_4_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="MovieStar.bg" tvg-name="Movie Star" group-title="Movies" tvg-language="bul" tvg-quality="576i",Movie Star
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.160:5000
+
+#EXTINF:-1 tvg-id="MovieStar.bg" tvg-name="Movie Star" group-title="Movies" tvg-language="bul" tvg-quality="720p",Movie Star
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/MovieStar/index.m3u8
+
+#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-name="MyZen TV" group-title="Relax" tvg-language="bul;eng;fra;rus;spa;tur" tvg-quality="1080p",MyZen TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-name="MyZen TV" group-title="Relax" tvg-language="bul;eng;fra;rus;spa;tur" tvg-quality="1080p",MyZen TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.bg" tvg-name="National Geographic" group-title="Documentary" tvg-language="bul;eng" tvg-quality="576i",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0ct
+
+#EXTINF:-1 tvg-id="NationalGeographic.bg" tvg-name="National Geographic" group-title="Documentary" tvg-language="bul;eng" tvg-quality="1080p",National Geographic
+http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.bg" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="bul" tvg-quality="576i",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0cu
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.bg" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="bul" tvg-quality="1080p",National Geographic Wild
+http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.bg" tvg-name="Nickelodeon" group-title="Kids" tvg-language="bul" tvg-quality="576i",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a056
+
+#EXTINF:-1 tvg-id="Nickelodeon.bg" tvg-name="Nickelodeon" group-title="Kids" tvg-language="bul" tvg-quality="576i",Nickelodeon
+http://87.120.179.187:8000/play/a00x
+
+#EXTINF:-1 tvg-id="Nickelodeon.bg" tvg-name="Nickelodeon" group-title="Kids" tvg-language="bul" tvg-quality="576p",Nickelodeon
+http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8
+
+#EXTINF:-1 tvg-id="Nostalgia.bg" tvg-name="Nostalgia" group-title="Classic" tvg-language="bul" tvg-quality="576i",Nostalgia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03q
+
+#EXTINF:-1 tvg-id="Nova.bg" tvg-name="Nova" group-title="General" tvg-language="bul" tvg-quality="576i",Nova
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03l
+
+#EXTINF:-1 tvg-id="NovaNews.bg" tvg-name="Nova News" group-title="News" tvg-language="bul" tvg-quality="576i",Nova News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a063
+
+#EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg" tvg-name="Plovdiv Orthodox TV" group-title="Religious" tvg-language="bul" tvg-quality="1080p",Plovdiv Orthodox TV
+http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RING.bg" tvg-name="RING" group-title="Kids" tvg-language="bul" tvg-quality="576i",RING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a06e
+
+#EXTINF:-1 tvg-id="RMTV.bg" tvg-name="RMTV" group-title="Uncategorized" tvg-language="bul" tvg-quality="288p",RMTV
+https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
+
+#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-name="Show Turk" group-title="Uncategorized" tvg-language="bul;tur" tvg-quality="1080p",Show Turk
+https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8
+
+#EXTINF:-1 tvg-id="StarChannel.bg" tvg-name="Star Channel" group-title="Movies" tvg-language="bul;eng" tvg-quality="576i",Star Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0c9
+
+#EXTINF:-1 tvg-id="StarChannel.bg" tvg-name="Star Channel" group-title="Movies" tvg-language="bul;eng" tvg-quality="720p",Star Channel
+http://hls127.freeott.top:8080/BG_FOX/video.m3u8
+
+#EXTINF:-1 tvg-id="StarCrime.bg" tvg-name="Star Crime" group-title="Series" tvg-language="bul" tvg-quality="576i",Star Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0cs
+
+#EXTINF:-1 tvg-id="StarCrime.bg" tvg-name="Star Crime" group-title="Series" tvg-language="bul" tvg-quality="720p",Star Crime
+http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8
+
+#EXTINF:-1 tvg-id="StarLife.bg" tvg-name="Star Life" group-title="Series" tvg-language="bul" tvg-quality="576i",Star Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0cr
+
+#EXTINF:-1 tvg-id="StarLife.bg" tvg-name="Star Life" group-title="Series" tvg-language="bul" tvg-quality="720p",Star Life
+http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8
+
+#EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" group-title="Outdoor" tvg-language="bul;ces;hun;ron" tvg-quality="1080i",The Fishing & Hunting Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/fishing_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" group-title="Outdoor" tvg-language="bul;ces;hun;ron" tvg-quality="576i",The Fishing & Hunting Channel
+http://88.212.15.17/live/test_fishing_hunting/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheVoice.bg" tvg-name="The Voice" group-title="Music" tvg-language="bul" tvg-quality="720p",The Voice
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
+
+#EXTINF:-1 tvg-id="ThisisBulgariaHD.bg" tvg-name="This is Bulgaria HD" group-title="Entertainment" tvg-language="bul" tvg-quality="1080p",This is Bulgaria HD
+https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
+
+#EXTINF:-1 tvg-id="TiankovFolk.bg" tvg-name="Tiankov Folk" group-title="Music" tvg-language="bul" tvg-quality="576p",Tiankov Folk
+https://streamer103.neterra.tv/tiankov-folk/live.m3u8
+
+#EXTINF:-1 tvg-id="TiankovOrientFolk.bg" tvg-name="Tiankov Orient Folk" group-title="Music" tvg-language="bul" tvg-quality="576p",Tiankov Orient Folk
+https://streamer103.neterra.tv/tiankov-orient/live.m3u8
+
+#EXTINF:-1 tvg-id="TravelTV.bg" tvg-name="Travel TV" group-title="Travel" tvg-language="bul" tvg-quality="576p",Travel TV
+https://streamer103.neterra.tv/travel/live.m3u8
+
+#EXTINF:-1 tvg-id="TVRodina.bg" tvg-name="TV Rodina" group-title="Music" tvg-language="bul" tvg-quality="1080p",TV Rodina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/RodinaTV/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSpravedlivaBulgariya.bg" tvg-name="TV Spravedliva Bulgariya" group-title="General" tvg-language="bul" tvg-quality="576i",TV Spravedliva Bulgariya
+https://tv.tvsb.bg/112.m3u8
+
+#EXTINF:-1 tvg-id="TVZagora.bg" tvg-name="TV Zagora" group-title="General" tvg-language="bul" tvg-quality="576p",TV Zagora
+http://zagoratv.ddns.net:8080/tvzagora.m3u8
+
+#EXTINF:-1 tvg-id="TV1000.bg" tvg-name="TV1000" group-title="Movies" tvg-language="bul" tvg-quality="576i",TV1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.100:5000
+
+#EXTINF:-1 tvg-id="TV1000.bg" tvg-name="TV1000" group-title="Movies" tvg-language="bul" tvg-quality="576i",TV1000
+http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+
+#EXTINF:-1 tvg-id="ViasatExplore.bg" tvg-name="Viasat Explore" group-title="Documentary" tvg-language="bul" tvg-quality="1080p",Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatHistory.bg" tvg-name="Viasat History" group-title="Documentary" tvg-language="bul" tvg-quality="1080p",Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" group-title="Movies" tvg-language="bul" tvg-quality="1080p",Viasat Kino
+http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="ViasatNature.bg" tvg-name="Viasat Nature" group-title="Documentary" tvg-language="bul" tvg-quality="1080p",Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatNature_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="VivacomArena.bg" tvg-name="Vivacom Arena" group-title="Uncategorized" tvg-language="bul" tvg-quality="576i",Vivacom Arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a053
+
+#EXTINF:-1 tvg-id="VivacomArena.bg" tvg-name="Vivacom Arena" group-title="Uncategorized" tvg-language="bul" tvg-quality="720p",Vivacom Arena
+http://hls127.freeott.top:8080/BG_Vivacom_Arena_HD/video.m3u8
+

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DigitalCongoTV.cd" tvg-name="Digital Congo TV" group-title="General" tvg-language="fra;kon;lin;lua;swa" tvg-quality="576i",Digital Congo TV
+http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
+

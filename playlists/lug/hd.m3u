@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SaltTV.ug" tvg-name="Salt TV" group-title="Religious" tvg-language="eng;lug" tvg-quality="1080p",Salt TV
+https://live.salttelevision.com/app/stream/abr.m3u8
+
+#EXTINF:-1 tvg-id="TayariWestTV.ug" tvg-name="Tayari West TV" group-title="General" tvg-language="cgg;lug" tvg-quality="1080p",Tayari West TV
+https://stream.hydeinnovations.com/tarari-west/index.m3u8
+

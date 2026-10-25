@@ -8,9 +8,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: playlist-refresh
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -26,17 +31,23 @@ jobs:
       - name: Test playlist generation
         run: python -m unittest discover -s tests
 
-      - name: Generate Farsi playlists
-        run: python iptv_builder.py --lang fas --output playlist.m3u
+      - name: Generate languages and categories
+        run: python iptv_builder.py --collection
+
+      - name: Refresh playlist directory
+        run: python scripts/update_catalog.py
+
+      - name: Validate published collection
+        run: python scripts/validate_collection.py
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add playlist.m3u playlist_hd.m3u playlist_sd.m3u
+          git add playlist.m3u playlist_hd.m3u playlist_sd.m3u playlists categories index.json README.md DIRECTORY.md CHANNELS.md
           if git diff --staged --quiet; then
             echo "No playlist changes"
           else
-            git commit -m "chore: refresh Farsi playlists"
+            git commit -m "chore: refresh language and category playlists"
             git push
           fi

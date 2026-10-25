@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FilmCafe.hu" tvg-name="Film Cafe" group-title="Movies" tvg-language="rom" tvg-quality="576i",Film Cafe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8
+

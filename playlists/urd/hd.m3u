@@ -1,0 +1,158 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="365News.pk" tvg-name="365 News" group-title="News" tvg-language="urd" tvg-quality="720p",365 News
+https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8
+
+#EXTINF:-1 tvg-id="7News.pk" tvg-name="7 News" group-title="News" tvg-language="urd" tvg-quality="720p",7 News
+https://sscsott.com/7news/live/index.m3u8
+
+#EXTINF:-1 tvg-id="8XM.pk" tvg-name="8XM" group-title="Music" tvg-language="urd" tvg-quality="1080p",8XM
+https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8
+
+#EXTINF:-1 tvg-id="92NewsHD.pk" tvg-name="92 News HD" group-title="News" tvg-language="urd" tvg-quality="720p",92 News HD
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AajEntertainment.pk" tvg-name="Aaj Entertainment" group-title="Entertainment" tvg-language="urd" tvg-quality="1080p",Aaj Entertainment
+https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
+
+#EXTINF:-1 tvg-id="ABNNews.pk" tvg-name="ABN News" group-title="News" tvg-language="urd" tvg-quality="1080p",ABN News
+http://115.42.65.142:9981/stream/channelid/966869781
+
+#EXTINF:-1 tvg-id="ARYMusik.pk" tvg-name="ARY Musik" group-title="Music" tvg-language="urd" tvg-quality="1080p",ARY Musik
+#EXTVLCOPT:http-referrer=https://live.arydigital.tv/
+https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
+
+#EXTINF:-1 tvg-id="ATV.pk" tvg-name="ATV" group-title="Entertainment" tvg-language="urd" tvg-quality="1080p",ATV
+http://115.42.65.142:9981/stream/channelid/299762256
+
+#EXTINF:-1 tvg-id="BolEntertainment.pk" tvg-name="Bol Entertainment" group-title="Entertainment" tvg-language="urd" tvg-quality="1080p",Bol Entertainment
+https://vodzong.mjunoon.tv:8087/streamtest/Channel5-159-4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChannelWIN.in" tvg-name="Channel WIN" group-title="Religious" tvg-language="urd" tvg-quality="720p",Channel WIN
+https://cdn.pishow.tv/ott/live/229/master.m3u8
+
+#EXTINF:-1 tvg-id="DDUrdu.in" tvg-name="DD Urdu" group-title="General" tvg-language="eng;hin;urd" tvg-quality="720p",DD Urdu
+https://cdn.pishow.tv/ott/live/8/master.m3u8
+
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" group-title="Travel" tvg-language="urd" tvg-quality="1080p",Discover Pakistan
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DunyaNews.pk" tvg-name="Dunya News" group-title="News" tvg-language="urd" tvg-quality="720p",Dunya News
+https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DunyaNews.pk" tvg-name="Dunya News" group-title="News" tvg-language="urd" tvg-quality="720p",Dunya News
+https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DunyaNewsUK.uk" tvg-name="Dunya News UK" group-title="News" tvg-language="eng;urd" tvg-quality="720p",Dunya News UK
+https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EawazTV.ca" tvg-name="Eawaz TV" group-title="Culture" tvg-language="urd" tvg-quality="720p",Eawaz TV
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ExpressEntertainment.pk" tvg-name="Express Entertainment" group-title="Entertainment" tvg-language="urd" tvg-quality="1080p",Express Entertainment
+https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
+
+#EXTINF:-1 tvg-id="GraceNetwork.pk" tvg-name="Grace Network" group-title="Religious" tvg-language="eng;urd" tvg-quality="720p",Grace Network
+https://livecdn.live247stream.com/grace/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HumTV.pk" tvg-name="Hum TV" group-title="Entertainment" tvg-language="urd" tvg-quality="720p",Hum TV
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="ImamHusseinTV4.iq" tvg-name="Imam Hussein TV 4" group-title="Religious" tvg-language="urd" tvg-quality="1080p",Imam Hussein TV 4
+http://ur.imamhossaintv.com/live/ih4.m3u8
+
+#EXTINF:-1 tvg-id="ImamHusseinTV4.iq" tvg-name="Imam Hussein TV 4" group-title="Religious" tvg-language="urd" tvg-quality="1080p",Imam Hussein TV 4
+https://live.imamhossaintv.com/live/ih4.m3u8
+
+#EXTINF:-1 tvg-id="JooMusic.pk" tvg-name="JooMusic" group-title="Music" tvg-language="eng;urd" tvg-quality="720p",JooMusic
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kay2HD.pk" tvg-name="Kay2 HD" group-title="General" tvg-language="urd" tvg-quality="1080p",Kay2 HD
+http://103.250.28.74:8000/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-id="KidsZone.pk" tvg-name="Kids Zone" group-title="Kids" tvg-language="eng;urd" tvg-quality="720p",Kids Zone
+http://103.250.28.74:8000/play/a04m/index.m3u8
+
+#EXTINF:-1 tvg-id="LahoreNews.pk" tvg-name="Lahore News" group-title="News" tvg-language="urd" tvg-quality="720p",Lahore News
+https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LahoreRang.pk" tvg-name="Lahore Rang" group-title="News" tvg-language="urd" tvg-quality="1080p",Lahore Rang
+http://103.250.28.74:8000/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-id="MNews.pk" tvg-name="M News" group-title="News" tvg-language="urd" tvg-quality="1080p",M News
+https://cdn.rabta.stream/M-News/index.m3u8
+
+#EXTINF:-1 tvg-id="MSports.pk" tvg-name="M Sports" group-title="Sports" tvg-language="urd" tvg-quality="1080p",M Sports
+https://cdn.rabta.stream/M-Sports/index.m3u8
+
+#EXTINF:-1 tvg-id="MadaniChannelUrdu.pk" tvg-name="Madani Channel Urdu" group-title="Religious" tvg-language="urd" tvg-quality="720p",Madani Channel Urdu
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
+
+#EXTINF:-1 tvg-id="MTA1World.uk" tvg-name="MTA1 World" group-title="Religious" tvg-language="ara;ben;deu;eng;fra;urd" tvg-quality="720p",MTA1 World
+https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA2Europe.uk" tvg-name="MTA2 Europe" group-title="Religious" tvg-language="ara;ben;deu;eng;fra;hin;urd" tvg-quality="720p",MTA2 Europe
+https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA4Africa.uk" tvg-name="MTA4 Africa" group-title="Religious" tvg-language="eng;fra;swa;urd" tvg-quality="1080p",MTA4 Africa
+https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA5Africa.uk" tvg-name="MTA5 Africa" group-title="Religious" tvg-language="eng;fra;swa;urd" tvg-quality="1080p",MTA5 Africa
+https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA6Asia.uk" tvg-name="MTA6 Asia" group-title="Religious" tvg-language="ara;ben;eng;ind;tam;urd" tvg-quality="1080p",MTA6 Asia
+https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA7Asia.uk" tvg-name="MTA7 Asia" group-title="Religious" tvg-language="ara;ben;eng;hin;mal;tam;urd" tvg-quality="1080p",MTA7 Asia
+https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NeoNews.pk" tvg-name="Neo News" group-title="News" tvg-language="urd" tvg-quality="1080p",Neo News
+http://103.250.28.74:8000/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-id="NeoNews.pk" tvg-name="Neo News" group-title="News" tvg-language="urd" tvg-quality="1080p",Neo News
+https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NewsOne.pk" tvg-name="News One" group-title="News" tvg-language="urd" tvg-quality="720p",News One
+https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News18DelhiNCRJK.in" tvg-name="News18 Delhi NCR JK" group-title="News" tvg-language="hin;urd" tvg-quality="1080p",News18 Delhi NCR JK
+https://n18syndication.akamaized.net/bpk-tv/News18_JKLH_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="News18Urdu.in" tvg-name="News18 Urdu" group-title="News" tvg-language="urd" tvg-quality="1080p",News18 Urdu
+https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="NoorTV.uk" tvg-name="Noor TV" group-title="Religious" tvg-language="eng;urd" tvg-quality="720p",Noor TV
+https://sscsott.com/srt/noortvuk/index.m3u8
+
+#EXTINF:-1 tvg-id="PaighanTV.pk" tvg-name="Paighan TV" group-title="Education;Religious" tvg-language="urd" tvg-quality="1080p",Paighan TV
+http://116.90.120.151:8000/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-id="PeaceTVUrdu.ae" tvg-name="Peace TV Urdu" group-title="Religious" tvg-language="urd" tvg-quality="1080p",Peace TV Urdu
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+
+#EXTINF:-1 tvg-id="PKSports.pk" tvg-name="PK Sports" group-title="Sports" tvg-language="urd" tvg-quality="720p",PK Sports
+https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PTVNews.pk" tvg-name="PTV News" group-title="News" tvg-language="urd" tvg-quality="1080p",PTV News
+http://103.250.28.74:8000/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-id="PTVSports.pk" tvg-name="PTV Sports" group-title="Sports" tvg-language="urd" tvg-quality="1080p",PTV Sports
+http://103.250.28.74:8000/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-id="PTVSports.pk" tvg-name="PTV Sports" group-title="Sports" tvg-language="urd" tvg-quality="720p",PTV Sports
+https://tvsen7.aynascope.net/Sports1/index.m3u8
+
+#EXTINF:-1 tvg-id="SABTV.pk" tvg-name="SAB TV" group-title="Entertainment" tvg-language="urd" tvg-quality="1080p",SAB TV
+https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="SalaamTV.in" tvg-name="Salaam TV" group-title="News" tvg-language="urd" tvg-quality="720p",Salaam TV
+https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
+
+#EXTINF:-1 tvg-id="SalaamTV.in" tvg-name="Salaam TV" group-title="News" tvg-language="urd" tvg-quality="720p",Salaam TV
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/af896be5-4743-41fc-8b6a-eb05e44f3a6e/3.m3u8
+
+#EXTINF:-1 tvg-id="SkyNewsUrdu.pk" tvg-name="Sky News Urdu" group-title="News" tvg-language="urd" tvg-quality="720p",Sky News Urdu
+https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SunoNewsHD.pk" tvg-name="Suno News HD" group-title="News" tvg-language="urd" tvg-quality="1080p",Suno News HD
+http://103.250.28.74:8000/play/a02a/index.m3u8
+

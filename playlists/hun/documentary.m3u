@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="hun" tvg-quality="576i",BBC Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/bbce_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="History.hu" tvg-name="History" group-title="Documentary" tvg-language="hun" tvg-quality="576i",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/history_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.hu" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="ces;eng;hun" tvg-quality="576i",Investigation Discovery
+http://88.212.15.17/live/id_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.hu" tvg-name="National Geographic" group-title="Documentary" tvg-language="hun" tvg-quality="576i",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/ngc_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.hu" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="hun" tvg-quality="576i",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/ngw_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="Spektrum.hu" tvg-name="Spektrum" group-title="Documentary" tvg-language="hun" tvg-quality="576i",Spektrum
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/spektrum_hun/index.m3u8
+

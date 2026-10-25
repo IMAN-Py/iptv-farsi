@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NBC1.na" tvg-name="NBC 1" group-title="General" tvg-language="afr;deu;eng" tvg-quality="576i",NBC 1
+https://hls2.nbcplus.na/hls/high_nbc1.m3u8
+

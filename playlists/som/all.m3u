@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ArlaadiTV.so" tvg-name="Arlaadi TV" group-title="General" tvg-language="som" tvg-quality="576i",Arlaadi TV
+https://ap02.iqplay.tv:8082/iqb8002/alr114iapp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DacwaTV.ke" tvg-name="Dacwa TV" group-title="Religious" tvg-language="som" tvg-quality="576p",Dacwa TV
+https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HirshabelleTV.so" tvg-name="Hirshabelle TV" group-title="General" tvg-language="som" tvg-quality="576p",Hirshabelle TV
+http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KalsanTV.uk" tvg-name="Kalsan TV" group-title="Culture" tvg-language="som" tvg-quality="576p",Kalsan TV
+https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PuntlandTV.so" tvg-name="Puntland TV" group-title="General" tvg-language="som" tvg-quality="720p",Puntland TV
+http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SaabTV.so" tvg-name="Saab TV" group-title="General" tvg-language="som" tvg-quality="576p",Saab TV
+https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SaabTV.so" tvg-name="Saab TV" group-title="General" tvg-language="som" tvg-quality="576p",Saab TV
+https://cd198.anystream.uk:9092/iqapp/s03btv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBCTV.so" tvg-name="SBC TV" group-title="General" tvg-language="som" tvg-quality="720p",SBC TV
+http://cdn.mediavisionuae.com:1935/live/sbctv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBNTVInternational.us" tvg-name="SBN TV International" group-title="Religious" tvg-language="eng;som;spa" tvg-quality="720p",SBN TV International
+https://watch.sardius.media/channels/Ea867F3e1F56B06/site_09a4778E89/live.m3u8
+
+#EXTINF:-1 tvg-id="SNTVDaljir.so" tvg-name="SNTV Daljir" group-title="General" tvg-language="som" tvg-quality="576p",SNTV Daljir
+https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SomaliNationalTV.so" tvg-name="Somali National TV" group-title="General" tvg-language="som" tvg-quality="576p",Somali National TV
+https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
+

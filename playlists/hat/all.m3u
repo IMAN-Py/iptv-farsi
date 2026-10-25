@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BPXTVRadio.us" tvg-name="BPX TV Radio" group-title="Music" tvg-language="fra;hat" tvg-quality="480i",BPX TV Radio
+https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HaitiNewsChannel.ht" tvg-name="Haiti News Channel" group-title="News" tvg-language="fra;hat" tvg-quality="1080p",Haiti News Channel
+https://cdn.haititivi.com/website/haitinews/index.m3u8
+
+#EXTINF:-1 tvg-id="HaitiNewsChannel.ht" tvg-name="Haiti News Channel" group-title="News" tvg-language="fra;hat" tvg-quality="720p",Haiti News Channel
+https://haititivi.com/website/haitinews/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioTele4VEH.ht" tvg-name="Radio Tele 4VEH" group-title="Religious" tvg-language="fra;hat" tvg-quality="720p",Radio Tele 4VEH
+https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleFullGospel.ht" tvg-name="Radio Tele Full Gospel" group-title="Religious" tvg-language="fra;hat" tvg-quality="576i",Radio Tele Full Gospel
+https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleHit.ht" tvg-name="Radio Tele Hit" group-title="Music" tvg-language="fra;hat" tvg-quality="480p",Radio Tele Hit
+https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTelePlanetCompas.ht" tvg-name="Radio Tele Planet Compas" group-title="General" tvg-language="fra;hat" tvg-quality="720p",Radio Tele Planet Compas
+https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleSentinel.us" tvg-name="Radio Tele Sentinel" group-title="Religious" tvg-language="fra;hat" tvg-quality="480i",Radio Tele Sentinel
+https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTelevisionShilo.ht" tvg-name="Radio Television Shilo" group-title="General" tvg-language="fra;hat" tvg-quality="720p",Radio Television Shilo
+https://watch.haitilive.net/freehb/rtvs/index.m3u8
+
+#EXTINF:-1 tvg-id="RTHTV1.us" tvg-name="RTH-TV1" group-title="General" tvg-language="fra;hat" tvg-quality="1080p",RTH-TV1
+https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4203440/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTHTV2Gospel.us" tvg-name="RTH-TV2 Gospel" group-title="Religious" tvg-language="fra;hat" tvg-quality="720p",RTH-TV2 Gospel
+https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleHaiti.ht" tvg-name="Tele Haiti" group-title="General" tvg-language="eng;fra;hat" tvg-quality="1088p",Tele Haiti
+http://66.175.238.147:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleLouange.ht" tvg-name="Tele Louange" group-title="Religious" tvg-language="fra;hat" tvg-quality="1080p",Tele Louange
+https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelePam.us" tvg-name="Tele Pam" group-title="General" tvg-language="eng;fra;hat" tvg-quality="1080p",Tele Pam
+https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="TNH.ht" tvg-name="TNH" group-title="General" tvg-language="fra;hat" tvg-quality="720p",TNH
+https://bozztv.com/dvrfl03/hdirect/hdirect-telecaraibes/index.m3u8
+

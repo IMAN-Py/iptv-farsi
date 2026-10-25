@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ERiTV1.er" tvg-name="ERi-TV 1" group-title="General" tvg-language="ara;eng;tig;tir" tvg-quality="576p",ERi-TV 1
+https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
+

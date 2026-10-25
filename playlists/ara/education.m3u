@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlAlamiya2.sd" tvg-name="Al Alamiya 2" group-title="Education" tvg-language="ara" tvg-quality="576i",Al Alamiya 2
+http://82.212.74.98:8000/live/7815.m3u8
+
+#EXTINF:-1 tvg-id="AlHiwarTV.uk" tvg-name="Al Hiwar TV" group-title="Education" tvg-language="ara" tvg-quality="1080p",Al Hiwar TV
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-name="Asharq Discovery" group-title="Documentary;Education" tvg-language="ara" tvg-quality="1080p",Asharq Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="DabangaTV.sd" tvg-name="Dabanga TV" group-title="Education;News" tvg-language="ara" tvg-quality="1080p",Dabanga TV
+https://hls.dabangasudan.org/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="MasterChefsAcademyTV.uk" tvg-name="Master Chefs Academy TV" group-title="Cooking;Education" tvg-language="ara;eng" tvg-quality="720p",Master Chefs Academy TV
+https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="PalestineEdu.ps" tvg-name="Palestine Edu" group-title="Education" tvg-language="ara" tvg-quality="1080p",Palestine Edu
+https://pbc.furrera.ps/PalestineEDU/index.m3u8
+

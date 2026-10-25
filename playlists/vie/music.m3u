@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ONMusic.vn" tvg-name="ON Music" group-title="Music" tvg-language="vie" tvg-quality="1080p",ON Music
+https://freem3u.xyz/api/live/play.m3u8?vid=185
+
+#EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="720p",Tra Vinh TV
+https://dethich.pw/thvl5/index.m3u8
+
+#EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="1080p",Tra Vinh TV
+https://freem3u.xyz/api/live/play.m3u8?vid=91
+

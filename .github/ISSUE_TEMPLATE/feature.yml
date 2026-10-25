@@ -1,0 +1,17 @@
+name: Suggest an improvement
+description: Help improve playlist discovery, player setup, or the generator.
+title: "[Idea]: "
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: What are you trying to do?
+      description: Describe the problem and who would benefit.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested improvement
+    validations:
+      required: true

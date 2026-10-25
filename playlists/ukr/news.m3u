@@ -1,0 +1,80 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="100NEWS.ua" tvg-name="100% NEWS" group-title="Business;News" tvg-language="rus;ukr" tvg-quality="576p",100% NEWS
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+
+#EXTINF:-1 tvg-id="24Kanal.ua" tvg-name="24 Kanal" group-title="News" tvg-language="ukr" tvg-quality="720p",24 Kanal
+https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ApostropheTV.ua" tvg-name="Apostrophe TV" group-title="News" tvg-language="ukr" tvg-quality="1080p",Apostrophe TV
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
+
+#EXTINF:-1 tvg-id="ArmyTV.ua" tvg-name="Army TV" group-title="News" tvg-language="ukr" tvg-quality="576p",Army TV
+http://195.54.52.40/test/index.m3u8
+
+#EXTINF:-1 tvg-id="ArmyTV.ua" tvg-name="Army TV" group-title="News" tvg-language="ukr" tvg-quality="1080p",Army TV
+https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
+
+#EXTINF:-1 tvg-id="Channel24.ua" tvg-name="Channel 24" group-title="News" tvg-language="ukr" tvg-quality="1080p",Channel 24
+https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel5.ua" tvg-name="Channel 5" group-title="News" tvg-language="ukr" tvg-quality="1080p",Channel 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/291/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel5.ua" tvg-name="Channel 5" group-title="News" tvg-language="ukr" tvg-quality="1080p",Channel 5
+https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+
+#EXTINF:-1 tvg-id="Cherniveckiypromin.ua" tvg-name="Cherniveckiy promin" group-title="News" tvg-language="ukr" tvg-quality="720p",Cherniveckiy promin
+https://langate.tv/promin/live_720/index.m3u8
+
+#EXTINF:-1 tvg-id="ChPinfo.ua" tvg-name="ChP info" group-title="News" tvg-language="ukr" tvg-quality="576p",ChP info
+http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8
+
+#EXTINF:-1 tvg-id="DonbassOnline.ua" tvg-name="Donbass Online" group-title="News" tvg-language="ukr" tvg-quality="1080p",Donbass Online
+http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EspresoTV.ua" tvg-name="Espreso TV" group-title="News" tvg-language="ukr" tvg-quality="1080p",Espreso TV
+https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
+
+#EXTINF:-1 tvg-id="EspresoTV.ua" tvg-name="Espreso TV" group-title="News" tvg-language="ukr" tvg-quality="1080p",Espreso TV
+https://dash2.antik.sk/live/test_espresso/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EspresoTV.ua" tvg-name="Espreso TV" group-title="News" tvg-language="ukr" tvg-quality="576i",Espreso TV
+https://dash4.antik.sk/live/test_espresso/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GIT.ua" tvg-name="GIT" group-title="News" tvg-language="ukr" tvg-quality="720p",GIT
+https://stream.uagit.tv/gittv.m3u8
+
+#EXTINF:-1 tvg-id="IUAtv.ua" tvg-name="I-UA.tv" group-title="News" tvg-language="ukr" tvg-quality="1080p",I-UA.tv
+https://kie2.cdn.i-ua.tv/hlsme/iuatv.m3u8
+
+#EXTINF:-1 tvg-id="Kyiv.ua" tvg-name="Kyiv" group-title="News" tvg-language="ukr" tvg-quality="1080p",Kyiv
+https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+
+#EXTINF:-1 tvg-id="MyUkrainaTV.ua" tvg-name="My-Ukraina TV" group-title="News" tvg-language="ukr" tvg-quality="1080p",My-Ukraina TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/442/index.m3u8
+
+#EXTINF:-1 tvg-id="ObozrevatelTV.ua" tvg-name="Obozrevatel TV" group-title="News" tvg-language="ukr" tvg-quality="576i",Obozrevatel TV
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8
+
+#EXTINF:-1 tvg-id="PershiyXTVMedia.ua" tvg-name="Pershiy XTV Media" group-title="News" tvg-language="ukr" tvg-quality="576p",Pershiy XTV Media
+https://hls.xtvmedia.pp.ua:8443/hls/trk1tv.m3u8
+
+#EXTINF:-1 tvg-id="PTV.ua" tvg-name="PTV" group-title="News" tvg-language="ukr" tvg-quality="720p",PTV
+https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Reporter.ua" tvg-name="Reporter" group-title="News" tvg-language="ukr" tvg-quality="720p",Reporter
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SK1.ua" tvg-name="SK 1" group-title="News" tvg-language="ukr" tvg-quality="576i",SK 1
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SK1.ua" tvg-name="SK 1" group-title="News" tvg-language="ukr" tvg-quality="720p",SK 1
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ternopil1.ua" tvg-name="Ternopil 1" group-title="News" tvg-language="ukr" tvg-quality="720p",Ternopil 1
+https://ott.columbus.te.ua/ternopil1/index.m3u8
+

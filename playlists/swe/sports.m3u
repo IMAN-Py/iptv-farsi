@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ATGLive.se" tvg-name="ATG Live" group-title="Sports" tvg-language="swe" tvg-quality="720p",ATG Live
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVHandbollHighlights.se" tvg-name="Pluto TV Handboll Highlights" group-title="Sports" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Handboll Highlights
+https://jmp2.uk/plu-68dfa3e2cc3c6cd904052c41.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVHandbollLive.se" tvg-name="Pluto TV Handboll Live" group-title="Sports" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Handboll Live
+https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSnooker900.se" tvg-name="Pluto TV Snooker 900" group-title="Sports" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Snooker 900
+https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSport.se" tvg-name="Pluto TV Sport" group-title="Sports" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Sport
+https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8
+

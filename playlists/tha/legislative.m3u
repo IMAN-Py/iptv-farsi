@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ThaiParliamentTelevision.th" tvg-name="Thai Parliament Television" group-title="Legislative" tvg-language="tha" tvg-quality="1080p",Thai Parliament Television
+https://tv-live.tpchannel.org/live/tv.m3u8
+

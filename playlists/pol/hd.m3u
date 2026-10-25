@@ -1,0 +1,274 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ActiveFamily.pl" tvg-name="Active Family" group-title="Family" tvg-language="pol" tvg-quality="1080i",Active Family
+http://92.114.85.87:8010/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-id="ATMRozrywkaREWORK.pl" tvg-name="ATM Rozrywka REWORK" group-title="Entertainment" tvg-language="pol" tvg-quality="720p",ATM Rozrywka REWORK
+https://grupaatmrr.org.pl:8888/fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="AXNPoland.pl" tvg-name="AXN Poland" group-title="Movies" tvg-language="pol" tvg-quality="1080p",AXN Poland
+http://92.114.85.87:8015/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-id="AXNSpin.pl" tvg-name="AXN Spin" group-title="Series" tvg-language="pol" tvg-quality="1080p",AXN Spin
+http://92.114.85.87:8010/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="720p",BabyFirst
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+
+#EXTINF:-1 tvg-id="BialogardzkaTelewizjaKablowa.pl" tvg-name="Bialogardzka Telewizja Kablowa" group-title="Entertainment" tvg-language="pol" tvg-quality="1080p",Bialogardzka Telewizja Kablowa
+https://bsmbialogard.pl/live/index.m3u8
+
+#EXTINF:-1 tvg-id="BTB.pl" tvg-name="BTB" group-title="General" tvg-language="pol" tvg-quality="1080p",BTB
+https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8
+
+#EXTINF:-1 tvg-id="BTB2.pl" tvg-name="BTB 2" group-title="General" tvg-language="pol" tvg-quality="1080p",BTB 2
+https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8
+
+#EXTINF:-1 tvg-id="BTB3.pl" tvg-name="BTB 3" group-title="General" tvg-language="pol" tvg-quality="1080p",BTB 3
+https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8
+
+#EXTINF:-1 tvg-id="BTBInfo.pl" tvg-name="BTB Info" group-title="Documentary;News" tvg-language="eng;pol" tvg-quality="1080p",BTB Info
+https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
+
+#EXTINF:-1 tvg-id="BTBInfo.pl" tvg-name="BTB Info" group-title="Documentary;News" tvg-language="eng;pol" tvg-quality="1080p",BTB Info
+https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8
+
+#EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-name="Disco Polo Music" group-title="Music" tvg-language="pol" tvg-quality="1080p",Disco Polo Music
+http://185.227.34.179:8080/disco-polo-music/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoPoloMusic.pl" tvg-name="Disco Polo Music" group-title="Music" tvg-language="pol" tvg-quality="1080p",Disco Polo Music
+http://92.114.85.87:8014/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="Disney Channel" group-title="Kids" tvg-language="pol" tvg-quality="1080p",Disney Channel
+http://185.227.34.179:8080/disney-channel-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="DrGMedicalExaminer.pl" tvg-name="Dr G Medical Examiner" group-title="General" tvg-language="pol" tvg-quality="720p",Dr G Medical Examiner
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008
+
+#EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" group-title="Legislative" tvg-language="bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mlt;nld;pol;por;ron;slk;slv;spa;swe;ukr" tvg-quality="1080p",EbS
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8
+
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+
+#EXTINF:-1 tvg-id="Echo24.pl" tvg-name="Echo24" group-title="General" tvg-language="pol" tvg-quality="720p",Echo24
+https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8
+
+#EXTINF:-1 tvg-id="EskaRockTV.pl" tvg-name="Eska Rock TV" group-title="Music" tvg-language="pol" tvg-quality="1080p",Eska Rock TV
+http://92.114.85.87:8016/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-id="EskaTV.pl" tvg-name="Eska TV" group-title="Music" tvg-language="pol" tvg-quality="1080p",Eska TV
+http://92.114.85.87:8018/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-id="EskaTVExtra.pl" tvg-name="Eska TV Extra" group-title="Music" tvg-language="pol" tvg-quality="1080p",Eska TV Extra
+http://92.114.85.87:8016/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-id="Euronews.pl" tvg-name="Euronews" group-title="News" tvg-language="pol" tvg-quality="720p",Euronews
+https://7060743b4b224241b86325460b14d152.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/eyJzdGlkIjoiMTE3OTllNGEtYmU1OC00ZjQyLTkxOTYtY2VlYWQzZGU2MDJjIiwibWt0IjoicGwiLCJjaCI6Njc2OSwicHRmIjo1fQ==/26235/euronews-pl.m3u8
+
+#EXTINF:-1 tvg-id="Euronews.pl" tvg-name="Euronews" group-title="News" tvg-language="pol" tvg-quality="720p",Euronews
+https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport1Polska.pl" tvg-name="Eurosport 1 Polska" group-title="Sports" tvg-language="pol" tvg-quality="1080p",Eurosport 1 Polska
+http://57.128.210.196:8080/264/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2Polska.pl" tvg-name="Eurosport 2 Polska" group-title="Sports" tvg-language="pol" tvg-quality="1080p",Eurosport 2 Polska
+http://57.128.210.196:8080/263/index.m3u8
+
+#EXTINF:-1 tvg-id="EWTNPoland.pl" tvg-name="EWTN Poland" group-title="Religious" tvg-language="pol" tvg-quality="1080p",EWTN Poland
+https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl" tvg-name="FILMBOX+ Comedy" group-title="Movies" tvg-language="pol" tvg-quality="720p",FILMBOX+ Comedy
+http://92.114.85.87:8008/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl" tvg-name="FILMBOX+ Emotion" group-title="Movies" tvg-language="pol" tvg-quality="720p",FILMBOX+ Emotion
+http://92.114.85.87:8008/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-id="Mango.pl" tvg-name="Mango" group-title="Shop" tvg-language="pol" tvg-quality="1080p",Mango
+https://lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8
+
+#EXTINF:-1 tvg-id="NewTV.pl" tvg-name="NewTV" group-title="General" tvg-language="pol" tvg-quality="1080p",NewTV
+https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="NewTV.pl" tvg-name="NewTV" group-title="General" tvg-language="pol" tvg-quality="1080p",NewTV
+https://1409502578.rsc.cdn77.org/live/stream-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NowaTV.pl" tvg-name="Nowa TV" group-title="General" tvg-language="pol" tvg-quality="1080p",Nowa TV
+http://92.114.85.87:8001/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat" group-title="General" tvg-language="pol" tvg-quality="1080p",Polsat
+https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
+
+#EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="Polsat 2" group-title="General" tvg-language="pol" tvg-quality="1080p",Polsat 2
+http://57.128.210.196:8080/208/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatFilm.pl" tvg-name="Polsat Film" group-title="Movies" tvg-language="pol" tvg-quality="1080i",Polsat Film
+http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10208.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
+
+#EXTINF:-1 tvg-id="PolsatGames.pl" tvg-name="Polsat Games" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",Polsat Games
+http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10209.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
+
+#EXTINF:-1 tvg-id="PolsatMusic.pl" tvg-name="Polsat Music" group-title="Music" tvg-language="pol" tvg-quality="1080p",Polsat Music
+http://92.114.85.87:8001/play/a00z/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="Polsat News" group-title="News" tvg-language="pol" tvg-quality="1080p",Polsat News
+https://cdn-s-lb2.pluscdn.pl/lv/1517830/349/hls/f03a76f3/masterlist.m3u8
+
+#EXTINF:-1 tvg-id="PolsatNews.pl" tvg-name="Polsat News" group-title="News" tvg-language="pol" tvg-quality="1080p",Polsat News
+https://cdn-s-playnow-live.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
+
+#EXTINF:-1 tvg-id="PolsatNews2.pl" tvg-name="Polsat News 2" group-title="News" tvg-language="pol" tvg-quality="1080p",Polsat News 2
+https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd
+
+#EXTINF:-1 tvg-id="PolsatNewsPolityka.pl" tvg-name="Polsat News Polityka" group-title="News" tvg-language="pol" tvg-quality="1080p",Polsat News Polityka
+https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8
+
+#EXTINF:-1 tvg-id="PolsatNewsPolityka.pl" tvg-name="Polsat News Polityka" group-title="News" tvg-language="pol" tvg-quality="1080p",Polsat News Polityka
+https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
+
+#EXTINF:-1 tvg-id="PolsatRodzina.pl" tvg-name="Polsat Rodzina" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",Polsat Rodzina
+http://57.128.210.196:8080/197/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatRodzina.pl" tvg-name="Polsat Rodzina" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080i",Polsat Rodzina
+http://92.114.85.87:8014/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatSeriale.pl" tvg-name="Polsat Seriale" group-title="Series" tvg-language="pol" tvg-quality="1080p",Polsat Seriale
+http://57.128.210.196:8080/196/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatSeriale.pl" tvg-name="Polsat Seriale" group-title="Series" tvg-language="pol" tvg-quality="1080i",Polsat Seriale
+http://92.114.85.87:8014/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-name="Polsat Sport 1" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",Polsat Sport 1
+http://57.128.210.196:8080/193/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-name="Polsat Sport 1" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",Polsat Sport 1
+http://cdn-s-lb2.pluscdn.pl/lv/1544303/939/dash/7f74b079/live.mpd
+
+#EXTINF:-1 tvg-id="PolsatSport2.pl" tvg-name="Polsat Sport 2" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",Polsat Sport 2
+http://57.128.210.196:8080/195/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatSport3.pl" tvg-name="Polsat Sport 3" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",Polsat Sport 3
+http://57.128.210.196:8080/192/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="Polsat Sport Fight" group-title="Sports" tvg-language="pol" tvg-quality="1080p",Polsat Sport Fight
+http://57.128.210.196:8080/194/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatViasatHistory.pl" tvg-name="Polsat Viasat History" group-title="Documentary" tvg-language="pol" tvg-quality="1080p",Polsat Viasat History
+http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Puls2.pl" tvg-name="Puls 2" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",Puls 2
+http://193.24.244.60:1001/udp/239.254.4.122:6060
+
+#EXTINF:-1 tvg-id="Puls2.pl" tvg-name="Puls 2" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",Puls 2
+https://edge01.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioRAM.pl" tvg-name="Radio RAM" group-title="Music" tvg-language="pol" tvg-quality="1080p",Radio RAM
+https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadiowaCzworka.pl" tvg-name="Radiowa Czworka" group-title="Entertainment" tvg-language="pol" tvg-quality="1080p",Radiowa Czworka
+https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedCarpetTVInternational.pl" tvg-name="Red Carpet TV International" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",Red Carpet TV International
+https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8
+
+#EXTINF:-1 tvg-id="RemontyTV.pl" tvg-name="Remonty TV" group-title="Entertainment" tvg-language="pol" tvg-quality="1080p",Remonty TV
+https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8
+
+#EXTINF:-1 tvg-id="Royalworld.pl" tvg-name="Royalworld" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",Royalworld
+https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarsTV.pl" tvg-name="Stars TV" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",Stars TV
+http://92.114.85.87:8001/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-id="TeletoonPlus.pl" tvg-name="Teletoon+" group-title="Animation;Kids" tvg-language="pol" tvg-quality="1080i",Teletoon+
+http://92.114.85.87:8009/play/a006/index.m3u8
+
+#EXTINF:-1 tvg-id="TelewizjaBiznesowa.pl" tvg-name="Telewizja Biznesowa" group-title="Business" tvg-language="pol" tvg-quality="1080p",Telewizja Biznesowa
+https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+
+#EXTINF:-1 tvg-id="TelewizjaiTTV.pl" tvg-name="Telewizja iTTV" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",Telewizja iTTV
+https://5d84fe297ee2b.streamlock.net/sercanie/scj_florek.stream_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelewizjaJaslo.pl" tvg-name="Telewizja Jaslo" group-title="General" tvg-language="pol" tvg-quality="720p",Telewizja Jaslo
+https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelewizjaLuban.pl" tvg-name="Telewizja Luban" group-title="General" tvg-language="pol" tvg-quality="720p",Telewizja Luban
+http://stream.herissons.cloud/hls/tvluban.m3u8
+
+#EXTINF:-1 tvg-id="TelewizjaRelax.pl" tvg-name="Telewizja Relax" group-title="General" tvg-language="pol" tvg-quality="1080p",Telewizja Relax
+https://srv1.streamingo.pl/memfs/be50f17e-6579-4bdf-86b1-31207aec85b8.m3u8
+
+#EXTINF:-1 tvg-id="TimelessDiziChannel.pl" tvg-name="Timeless Dizi Channel" group-title="Uncategorized" tvg-language="pol;tur" tvg-quality="1080p",Timeless Dizi Channel
+http://hls127.freeott.top:8080/BG_Dizi_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="TopMoviesPolska.pl" tvg-name="Top Movies Polska" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",Top Movies Polska
+https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
+
+#EXTINF:-1 tvg-id="TVASTA.pl" tvg-name="TV ASTA" group-title="General" tvg-language="pol" tvg-quality="720p",TV ASTA
+https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVOkazje.pl" tvg-name="TV Okazje" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",TV Okazje
+https://lb2-e3-20.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd
+
+#EXTINF:-1 tvg-id="TVPuls.pl" tvg-name="TV Puls" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",TV Puls
+https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPuls.pl" tvg-name="TV Puls" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",TV Puls
+https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8
+
+#EXTINF:-1 tvg-id="TVRegionalnaLubin.pl" tvg-name="TV Regionalna Lubin" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",TV Regionalna Lubin
+https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8
+
+#EXTINF:-1 tvg-id="TVTorun.pl" tvg-name="TV Torun" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",TV Torun
+http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVTrwam.pl" tvg-name="TV Trwam" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",TV Trwam
+https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
+
+#EXTINF:-1 tvg-id="TV4.pl" tvg-name="TV4" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",TV4
+https://cdn-s-playnow-live.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
+
+#EXTINF:-1 tvg-id="TV6.pl" tvg-name="TV6" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",TV6
+http://57.128.210.196:8080/160/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPHD.pl" tvg-name="TVP HD" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",TVP HD
+http://57.128.210.196:8080/141/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPKultura.pl" tvg-name="TVP Kultura" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",TVP Kultura
+http://92.114.85.87:8006/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="TVP Seriale" group-title="Series" tvg-language="pol" tvg-quality="1080p",TVP Seriale
+http://92.114.85.87:8019/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPSport.pl" tvg-name="TVP Sport" group-title="Sports" tvg-language="pol" tvg-quality="1080p",TVP Sport
+http://57.128.210.196:8080/134/index.m3u8
+
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP1" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",TVP1
+http://57.128.210.196:8080/144/index.m3u8
+
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP2" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080p",TVP2
+http://57.128.210.196:8080/143/index.m3u8
+
+#EXTINF:-1 tvg-id="TVT.pl" tvg-name="TVT" group-title="Uncategorized" tvg-language="pol" tvg-quality="720p",TVT
+https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
+
+#EXTINF:-1 tvg-id="TwojaTV.pl" tvg-name="Twoja.TV" group-title="Uncategorized" tvg-language="eng;pol" tvg-quality="1080p",Twoja.TV
+https://stream.twoja.tv/ttv_hls/live.m3u8
+
+#EXTINF:-1 tvg-id="TwojaTV.pl" tvg-name="Twoja.TV" group-title="Uncategorized" tvg-language="eng;pol" tvg-quality="1080p",Twoja.TV
+https://stream.twoja.tv/ttv_hls/live_720p/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatEpicDrama.uk" tvg-name="Viasat Epic Drama" group-title="Series" tvg-language="pol" tvg-quality="1080p",Viasat Epic Drama
+http://92.114.85.87:8001/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatExploreClassic.pl" tvg-name="Viasat Explore Classic" group-title="Uncategorized" tvg-language="pol" tvg-quality="720p",Viasat Explore Classic
+https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ViasatTrueCrime.pl" tvg-name="Viasat True Crime" group-title="Uncategorized" tvg-language="pol" tvg-quality="1080i",Viasat True Crime
+http://92.114.85.87:8010/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="VOXMusicTV.pl" tvg-name="VOX Music TV" group-title="Music" tvg-language="pol" tvg-quality="1080p",VOX Music TV
+http://92.114.85.87:8016/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="WPolscePL.pl" tvg-name="W Polsce PL" group-title="Uncategorized" tvg-language="pol" tvg-quality="720p",W Polsce PL
+https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
+

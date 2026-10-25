@@ -1,0 +1,627 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="10Bold.au" tvg-name="10 Bold" group-title="Lifestyle;Relax" tvg-language="eng" tvg-quality="1080p",10 Bold
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
+
+#EXTINF:-1 tvg-id="13P.cl" tvg-name="13P" group-title="Lifestyle" tvg-language="spa" tvg-quality="720p",13P
+https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
+
+#EXTINF:-1 tvg-id="30ALuxeLifeDiscovered.us" tvg-name="30A Luxe Life Discovered" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",30A Luxe Life Discovered
+https://30a-tv.com/feeds/vidaa/luxelife.m3u8
+
+#EXTINF:-1 tvg-id="366TV.ua" tvg-name="36.6 TV" group-title="Lifestyle" tvg-language="ukr" tvg-quality="576i",36.6 TV
+https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9Life.au" tvg-name="9Life" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",9Life
+https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
+
+#EXTINF:-1 tvg-id="AlmaTV.it" tvg-name="Alma TV" group-title="Lifestyle" tvg-language="ita" tvg-quality="576p",Alma TV
+http://151.0.207.99:1935/AlmaTv/AlmaTv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlmaTV.it" tvg-name="Alma TV" group-title="Lifestyle" tvg-language="ita" tvg-quality="576i",Alma TV
+http://80.79.6.221:25461/smash/public/27
+
+#EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="Antena Monden" group-title="Lifestyle" tvg-language="ron" tvg-quality="720p",Antena Monden
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntiquesRoadTrip.us" tvg-name="Antiques Road Trip" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",Antiques Road Trip
+https://aegis-cloudfront-1.tubi.video/b42ac280-5300-4db0-8a63-2ec2e52c5b5c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntiquesRoadTrip.us" tvg-name="Antiques Road Trip" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Antiques Road Trip
+https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntiquesRoadTrip.us" tvg-name="Antiques Road Trip" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Antiques Road Trip
+https://amg02333-pbs-amg02333c5-samsung-nz-2440.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntiquesRoadTrip.us" tvg-name="Antiques Road Trip" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Antiques Road Trip
+https://amg02333-pbs-amg02333c9-firetv-us-4249.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntiquesRoadTrip.us" tvg-name="Antiques Road Trip" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Antiques Road Trip
+https://d3v8uchko88gmi.cloudfront.net/PBSART_GB.m3u8
+
+#EXTINF:-1 tvg-id="AntiquesRoadTrip.us" tvg-name="Antiques Road Trip" group-title="Lifestyle" tvg-language="eng" tvg-quality="480i",Antiques Road Trip
+https://jmp2.uk/plu-615b8ec39e878900073f419a.m3u8
+
+#EXTINF:-1 tvg-id="AntiquesRoadTrip.us" tvg-name="Antiques Road Trip" group-title="Lifestyle" tvg-language="eng" tvg-quality="480i",Antiques Road Trip
+https://jmp2.uk/plu-6364f6cd308d210007b5eee9.m3u8
+
+#EXTINF:-1 tvg-id="AntiquesRoadTrip.us" tvg-name="Antiques Road Trip" group-title="Lifestyle" tvg-language="eng" tvg-quality="480i",Antiques Road Trip
+https://jmp2.uk/plu-66f135b45e4a6e0008b80606.m3u8
+
+#EXTINF:-1 tvg-id="apartTV.lu" tvg-name="apart TV" group-title="Business;Culture;Lifestyle" tvg-language="ltz" tvg-quality="1080p",apart TV
+https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AspireTVLife.us" tvg-name="Aspire TV Life" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Aspire TV Life
+https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AutenticTravel.de" tvg-name="Autentic Travel" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",Autentic Travel
+https://autentic-autentictravel-1-gb.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AutenticTravel.de" tvg-name="Autentic Travel" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Autentic Travel
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AyushTV.in" tvg-name="Ayush TV" group-title="Lifestyle" tvg-language="kan" tvg-quality="576p",Ayush TV
+http://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AyushTV.in" tvg-name="Ayush TV" group-title="Lifestyle" tvg-language="kan" tvg-quality="360p",Ayush TV
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="AyushTV.in" tvg-name="Ayush TV" group-title="Lifestyle" tvg-language="kan" tvg-quality="576i",Ayush TV
+https://cdn.pishow.tv/ott/live/221/master.m3u8
+
+#EXTINF:-1 tvg-id="AyushTV.in" tvg-name="Ayush TV" group-title="Lifestyle" tvg-language="kan" tvg-quality="576p",Ayush TV
+https://mumt07.tangotv.in/zHjX9OFlAYUSHTV/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCHomeGarden.us" tvg-name="BBC Home & Garden" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",BBC Home & Garden
+https://d11r33s5i066xh.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCTravel.us" tvg-name="BBC Travel" group-title="Lifestyle" tvg-language="deu" tvg-quality="576i",BBC Travel
+https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
+
+#EXTINF:-1 tvg-id="BeautyON.ro" tvg-name="Beauty ON" group-title="Lifestyle" tvg-language="ron" tvg-quality="576p",Beauty ON
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-a7-tv/live_hq?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="BetterHealthTV.us" tvg-name="Better Health TV" group-title="Lifestyle" tvg-language="eng" tvg-quality="480p",Better Health TV
+https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
+
+#EXTINF:-1 tvg-id="BizTV.us" tvg-name="Biz TV" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Biz TV
+https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BizTV.us" tvg-name="Biz TV" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Biz TV
+https://thegateway.app/BizAndYou/BizTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BiznetLifestyle.id" tvg-name="Biznet Lifestyle" group-title="Lifestyle" tvg-language="ind" tvg-quality="1080p",Biznet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="BizzTV.tt" tvg-name="Bizz TV" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Bizz TV
+https://stream.bizzmedia.biz/bizz_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="Boligkjopiblinde.se" tvg-name="Boligkjop i blinde" group-title="Cooking;Lifestyle" tvg-language="eng;nor" tvg-quality="720p",Boligkjop i blinde
+https://jmp2.uk/plu-63c6a1c46d126a000760b91c.m3u8
+
+#EXTINF:-1 tvg-id="Boligkobiblinde.se" tvg-name="Boligkob i blinde" group-title="Cooking;Lifestyle" tvg-language="dan;eng" tvg-quality="720p",Boligkob i blinde
+https://jmp2.uk/plu-63c6a27a4faf1c0007b48f7b.m3u8
+
+#EXTINF:-1 tvg-id="BuyingBlindDenmark.se" tvg-name="Buying Blind Denmark" group-title="Cooking;Lifestyle" tvg-language="eng;swe" tvg-quality="720p",Buying Blind Denmark
+https://jmp2.uk/plu-63c6a7544faf1c0007b496d7.m3u8
+
+#EXTINF:-1 tvg-id="CanalSaude.br" tvg-name="Canal Saude" group-title="Education;Lifestyle" tvg-language="por" tvg-quality="720p",Canal Saude
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalSaude.br" tvg-name="Canal Saude" group-title="Education;Lifestyle" tvg-language="por" tvg-quality="480i",Canal Saude
+https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
+
+#EXTINF:-1 tvg-id="CCTV12.cn" tvg-name="CCTV-12" group-title="Lifestyle" tvg-language="zho" tvg-quality="720p",CCTV-12
+http://74.91.26.218:82/live/cctv12hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTVHealth.cn" tvg-name="CCTV-Health" group-title="Lifestyle" tvg-language="zho" tvg-quality="1080p",CCTV-Health
+http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-id="CCTVWomensFashion.cn" tvg-name="CCTV-Women's Fashion" group-title="Lifestyle" tvg-language="zho" tvg-quality="576p",CCTV-Women's Fashion
+http://223.110.245.169/PLTV/4/224/3221227026/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTVWomensFashion.cn" tvg-name="CCTV-Women's Fashion" group-title="Lifestyle" tvg-language="zho" tvg-quality="1080p",CCTV-Women's Fashion
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-id="CEACOMTV.bo" tvg-name="CEACOM TV" group-title="General;Lifestyle;Music;News" tvg-language="spa" tvg-quality="1080p",CEACOM TV
+https://eu1.servers10.com:8081/ceacom/index.m3u8
+
+#EXTINF:-1 tvg-id="CinePride.us" tvg-name="CinePride" group-title="Lifestyle" tvg-language="spa" tvg-quality="720p",CinePride
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2223
+
+#EXTINF:-1 tvg-id="CityEdenMedZdrav.ru" tvg-name="City Eden MedZdrav" group-title="Lifestyle" tvg-language="rus" tvg-quality="1080p",City Eden MedZdrav
+https://cityeden.catcast.tv/content/47519/index.m3u8
+
+#EXTINF:-1 tvg-id="CodeFashionTV.bg" tvg-name="Code Fashion TV" group-title="Lifestyle" tvg-language="bul" tvg-quality="1080p",Code Fashion TV
+https://cdn2.invivo.bg/Codefashion_5500/index.m3u8
+
+#EXTINF:-1 tvg-id="CodeHealthTV.bg" tvg-name="Code Health TV" group-title="Lifestyle" tvg-language="bul" tvg-quality="1080p",Code Health TV
+https://cdn2.invivo.bg/codehealth_test/index.m3u8
+
+#EXTINF:-1 tvg-id="CottageLife.ca" tvg-name="Cottage Life" group-title="Lifestyle;Outdoor" tvg-language="eng" tvg-quality="720p",Cottage Life
+http://185.246.209.113/CottageLife/index.m3u8
+
+#EXTINF:-1 tvg-id="CTVLifeChannel.ca" tvg-name="CTV Life Channel" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",CTV Life Channel
+http://185.246.209.113/ANIMALPLANETHD/index.m3u8
+
+#EXTINF:-1 tvg-id="CVRHealth.in" tvg-name="CVR Health" group-title="Lifestyle" tvg-language="tel" tvg-quality="576p",CVR Health
+https://cdn.pishow.tv/ott/live/395/master.m3u8
+
+#EXTINF:-1 tvg-id="CVRHealth.in" tvg-name="CVR Health" group-title="Lifestyle" tvg-language="tel" tvg-quality="576p",CVR Health
+https://mumbai-edge.smartplaytv.in/CVRHealth/index.m3u8
+
+#EXTINF:-1 tvg-id="DensLifeStyle.id" tvg-name="Dens Life & Style" group-title="Lifestyle" tvg-language="ind" tvg-quality="576i",Dens Life & Style
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
+
+#EXTINF:-1 tvg-id="DensPlay.id" tvg-name="Dens Play" group-title="Lifestyle" tvg-language="ind" tvg-quality="576i",Dens Play
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h225/index.m3u8
+
+#EXTINF:-1 tvg-id="DensPlay.id" tvg-name="Dens Play" group-title="Lifestyle" tvg-language="ind" tvg-quality="576i",Dens Play
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h246/index.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.de" tvg-name="DMAX" group-title="Lifestyle" tvg-language="deu" tvg-quality="576p",DMAX
+http://5.180.164.197:8080/DMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" group-title="Lifestyle" tvg-language="eng;ita" tvg-quality="1080p",DMAX
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-id="Doctor.ru" tvg-name="Doctor" group-title="Education;Lifestyle" tvg-language="rus" tvg-quality="576p",Doctor
+http://178.134.1.158:8081/doktor/index.m3u8
+
+#EXTINF:-1 tvg-id="Doctor.ru" tvg-name="Doctor" group-title="Education;Lifestyle" tvg-language="rus" tvg-quality="1080p",Doctor
+http://31.148.48.15/Doktor/index.m3u8
+
+#EXTINF:-1 tvg-id="Doctor.ru" tvg-name="Doctor" group-title="Education;Lifestyle" tvg-language="rus" tvg-quality="576p",Doctor
+http://stream.mcquack.net/80/index.m3u8
+
+#EXTINF:-1 tvg-id="Doctor.ru" tvg-name="Doctor" group-title="Education;Lifestyle" tvg-language="rus" tvg-quality="576i",Doctor
+https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DomashnieZhivotnye.ru" tvg-name="Domashnie Zhivotnye" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Domashnie Zhivotnye
+https://fs.uplink.kz/domashnie_zhivotnie/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="DomashnieZhivotnye.ru" tvg-name="Domashnie Zhivotnye" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Domashnie Zhivotnye
+https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Domashniy
+http://31.148.5.241/kanal_14/index.m3u8
+
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Domashniy
+http://stream.mcquack.net/227/index.m3u8
+
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Domashniy
+https://fs.uplink.kz/domashniy/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" group-title="Lifestyle" tvg-language="rus" tvg-quality="576i",Domashniy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/17.m3u8
+
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" group-title="Lifestyle" tvg-language="rus" tvg-quality="540p",Domashniy
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+
+#EXTINF:-1 tvg-id="ElMueble.es" tvg-name="El Mueble" group-title="Lifestyle" tvg-language="spa" tvg-quality="720p",El Mueble
+https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
+
+#EXTINF:-1 tvg-id="ETVLife.in" tvg-name="ETV Life" group-title="Lifestyle" tvg-language="tel" tvg-quality="1080p",ETV Life
+https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8
+
+#EXTINF:-1 tvg-id="FashionFinds.us" tvg-name="Fashion Finds" group-title="Lifestyle;Shop" tvg-language="eng" tvg-quality="720p",Fashion Finds
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
+
+#EXTINF:-1 tvg-id="FashionTV.ua" tvg-name="Fashion TV" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Fashion TV
+http://stream.mcquack.net/287/index.m3u8
+
+#EXTINF:-1 tvg-id="FashionLifeStyle.ru" tvg-name="Fashion&LifeStyle" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Fashion&LifeStyle
+http://31.148.48.15/Fashion_One_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FashionLifeStyle.ru" tvg-name="Fashion&LifeStyle" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Fashion&LifeStyle
+http://stream.mcquack.net/119/index.m3u8
+
+#EXTINF:-1 tvg-id="FashionBox.nl" tvg-name="FashionBox" group-title="Lifestyle" tvg-language="eng" tvg-quality="576i",FashionBox
+https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FashionTV.ru" tvg-name="FashionTV" group-title="Lifestyle" tvg-language="fra" tvg-quality="1080p",FashionTV
+http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-name="FashionTV Europe" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",FashionTV Europe
+https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr" tvg-name="FashionTV Paris L'Original" group-title="Lifestyle" tvg-language="fra" tvg-quality="1080p",FashionTV Paris L'Original
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+
+#EXTINF:-1 tvg-id="FashionTVSecrets.fr" tvg-name="FashionTV Secrets" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",FashionTV Secrets
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
+
+#EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" group-title="Cooking;Lifestyle" tvg-language="hin" tvg-quality="576p",Food Food
+https://cdn.pishow.tv/ott/live/267/master.m3u8
+
+#EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" group-title="Cooking;Lifestyle" tvg-language="hin" tvg-quality="576p",Food Food
+https://mumbai-edge.smartplaytv.in/FoodFood/index.m3u8
+
+#EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" group-title="Cooking;Lifestyle" tvg-language="hin" tvg-quality="576p",Food Food
+https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
+
+#EXTINF:-1 tvg-id="FortunaTV.tr" tvg-name="Fortuna TV" group-title="Lifestyle" tvg-language="tur" tvg-quality="720p",Fortuna TV
+https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GamberoRossoChannel.it" tvg-name="Gambero Rosso Channel" group-title="Cooking;Lifestyle" tvg-language="ita" tvg-quality="720p",Gambero Rosso Channel
+https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
+
+#EXTINF:-1 tvg-id="GEMLife.tr" tvg-name="GEM Life" group-title="Lifestyle" tvg-language="fas" tvg-quality="480i",GEM Life
+https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="GlobalFashionChannel.us" tvg-name="Global Fashion Channel" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Global Fashion Channel
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoodLife.il" tvg-name="Good Life" group-title="Lifestyle" tvg-language="heb" tvg-quality="576p",Good Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/47/index.m3u8
+
+#EXTINF:-1 tvg-id="GuideLoveTV.ci" tvg-name="Guide Love TV" group-title="Lifestyle" tvg-language="fra" tvg-quality="720p",Guide Love TV
+https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HANDICAPTV.fr" tvg-name="HANDICAP TV" group-title="Lifestyle" tvg-language="fra" tvg-quality="576i",HANDICAP TV
+https://srv.webtvmanager.fr:3697/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="HangulatTV.hu" tvg-name="Hangulat TV" group-title="Lifestyle" tvg-language="hun" tvg-quality="720p",Hangulat TV
+https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8
+
+#EXTINF:-1 tvg-id="HealthChannel.il" tvg-name="Health Channel" group-title="Lifestyle" tvg-language="heb" tvg-quality="1080p",Health Channel
+http://89.33.29.115:8080/Health/index.m3u8
+
+#EXTINF:-1 tvg-id="HGTV.hu" tvg-name="HGTV" group-title="Lifestyle" tvg-language="hun" tvg-quality="576i",HGTV
+http://88.212.15.17/live/hgtv_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV" group-title="Lifestyle" tvg-language="eng;ita" tvg-quality="1080p",HGTV
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",HGTV
+http://tvsen7.aynascope.net/hgtv/index.m3u8
+
+#EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTV Asia" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",HGTV Asia
+https://freem3u.xyz/api/live/play.m3u8?vid=99
+
+#EXTINF:-1 tvg-id="HGTVLatinAmerica.us" tvg-name="HGTV Latin America" group-title="Lifestyle" tvg-language="spa" tvg-quality="1080p",HGTV Latin America
+http://38.87.224.19:2220/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-id="HobbyMaker.uk" tvg-name="Hobby Maker" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",Hobby Maker
+https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HogarTV.co" tvg-name="Hogar TV" group-title="Lifestyle" tvg-language="spa" tvg-quality="1080p",Hogar TV
+http://190.61.47.54:8000/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-id="HunanWomensChannel.cn" tvg-name="Hunan Womens Channel" group-title="Lifestyle" tvg-language="zho" tvg-quality="576i",Hunan Womens Channel
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
+
+#EXTINF:-1 tvg-id="INFAST.nl" tvg-name="INFAST" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",INFAST
+https://amg00861-amg00861c11-rlaxx-uk-3950.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="INFAST.nl" tvg-name="INFAST" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",INFAST
+https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="INFAST.nl" tvg-name="INFAST" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",INFAST
+https://amg00861-terncloud-amg00861c5-cineverse-us-963.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestyleushd-cineverseus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="INFAST.nl" tvg-name="INFAST" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",INFAST
+https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="INFAST.nl" tvg-name="INFAST" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",INFAST
+https://amg00861-terninternation-lifestyle-samsungnz-e3zqy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="INFAST.nl" tvg-name="INFAST" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",INFAST
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="INFAST.nl" tvg-name="INFAST" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",INFAST
+https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="INFAST.nl" tvg-name="INFAST" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",INFAST
+https://lifestyle-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JilinCityChannel.cn" tvg-name="Jilin City Channel" group-title="Lifestyle" tvg-language="zho" tvg-quality="576i",Jilin City Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8
+
+#EXTINF:-1 tvg-id="JilinLifestyleChannel.cn" tvg-name="Jilin Lifestyle Channel" group-title="Lifestyle" tvg-language="zho" tvg-quality="576i",Jilin Lifestyle Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8
+
+#EXTINF:-1 tvg-id="JilinRuralChannel.cn" tvg-name="Jilin Rural Channel" group-title="Education;Lifestyle;Science" tvg-language="zho" tvg-quality="576i",Jilin Rural Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
+
+#EXTINF:-1 tvg-id="KaloopyTV.us" tvg-name="Kaloopy TV" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Kaloopy TV
+https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
+
+#EXTINF:-1 tvg-id="KappaTV.in" tvg-name="Kappa TV" group-title="Lifestyle" tvg-language="mal" tvg-quality="576p",Kappa TV
+https://cdn.pishow.tv/ott/live/1123/master.m3u8
+
+#EXTINF:-1 tvg-id="KappaTV.in" tvg-name="Kappa TV" group-title="Lifestyle" tvg-language="mal" tvg-quality="576p",Kappa TV
+https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KappaTV.in" tvg-name="Kappa TV" group-title="Lifestyle" tvg-language="mal" tvg-quality="576p",Kappa TV
+https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8
+
+#EXTINF:-1 tvg-id="Kochenpatoppen.se" tvg-name="Koch'en pa toppen" group-title="Cooking;Lifestyle" tvg-language="dan;eng" tvg-quality="720p",Koch'en pa toppen
+https://jmp2.uk/plu-660d667519ca71000849a1e1.m3u8
+
+#EXTINF:-1 tvg-id="Localish.us" tvg-name="Localish" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",Localish
+https://aegis-cloudfront-1.tubi.video/0ecc85a2-5e1b-482a-9c69-3eaaee160f2e/index.m3u8
+
+#EXTINF:-1 tvg-id="Localish.us" tvg-name="Localish" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Localish
+https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8
+
+#EXTINF:-1 tvg-id="LogosTVSalud.es" tvg-name="Logos TV Salud" group-title="Lifestyle" tvg-language="spa" tvg-quality="720p",Logos TV Salud
+https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LuxeTV.lu" tvg-name="Luxe TV" group-title="Lifestyle" tvg-language="eng;fra;rus;zho" tvg-quality="1080p",Luxe TV
+http://103.154.3.101:5001/live/1736.m3u8
+
+#EXTINF:-1 tvg-id="LuxeTV.lu" tvg-name="Luxe TV" group-title="Lifestyle" tvg-language="eng;fra;rus;zho" tvg-quality="1080p",Luxe TV
+http://nmk.ioapk.com:5050/4gtv-live121/index.m3u8
+
+#EXTINF:-1 tvg-id="LuxembourgGlobalRadioTV.lu" tvg-name="Luxembourg Global Radio TV" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Luxembourg Global Radio TV
+https://stream.globalradio.lu/lgr/index.m3u8
+
+#EXTINF:-1 tvg-id="MagnoliaNetwork.us" tvg-name="Magnolia Network" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",Magnolia Network
+http://190.197.41.183/MAGNOLIA_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="MasterChefDanmarksstorstemadtalenter.se" tvg-name="MasterChef Danmarks storste madtalenter" group-title="Cooking;Lifestyle" tvg-language="dan;eng" tvg-quality="720p",MasterChef Danmarks storste madtalenter
+https://jmp2.uk/plu-61c19edbf535220007075c4e.m3u8
+
+#EXTINF:-1 tvg-id="Medknivenforstruben.se" tvg-name="Med kniven for struben" group-title="Cooking;Lifestyle" tvg-language="dan;eng" tvg-quality="720p",Med kniven for struben
+https://jmp2.uk/plu-63e3b33e8795f300087e6a46.m3u8
+
+#EXTINF:-1 tvg-id="MediCOOLTV.ro" tvg-name="MediCOOL TV" group-title="Lifestyle" tvg-language="ron" tvg-quality="576i",MediCOOL TV
+https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
+
+#EXTINF:-1 tvg-id="MonteCarloDigitalTelevision.fr" tvg-name="Monte Carlo Digital Television" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Monte Carlo Digital Television
+https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
+
+#EXTINF:-1 tvg-id="MRTVFarmer.mm" tvg-name="MRTV Farmer" group-title="Documentary;Lifestyle" tvg-language="mya" tvg-quality="480i",MRTV Farmer
+https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
+
+#EXTINF:-1 tvg-id="NBCLXHome.us" tvg-name="NBC LX Home" group-title="Entertainment;Lifestyle" tvg-language="eng" tvg-quality="720p",NBC LX Home
+https://dn7vkzd5khpp3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jnz0hbnuaajo2/b3d9d2ee-94c1-4de2-bb46-b1ed009f4f30/4.m3u8
+
+#EXTINF:-1 tvg-id="NBCLXHome.us" tvg-name="NBC LX Home" group-title="Entertainment;Lifestyle" tvg-language="eng" tvg-quality="1080p",NBC LX Home
+https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8
+
+#EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-name="NDTV Good Times" group-title="Lifestyle" tvg-language="eng;hin;tam" tvg-quality="1080p",NDTV Good Times
+https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-name="NDTV Good Times" group-title="Lifestyle" tvg-language="eng;hin;tam" tvg-quality="396p",NDTV Good Times
+https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NowMediaTelevision.us" tvg-name="NowMedia Television" group-title="Lifestyle;News" tvg-language="spa" tvg-quality="1080p",NowMedia Television
+https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
+
+#EXTINF:-1 tvg-id="NowMediaTelevision.us" tvg-name="NowMedia Television" group-title="Lifestyle;News" tvg-language="eng" tvg-quality="1080p",NowMedia Television
+https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVStyle.ru" tvg-name="NTV Style" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",NTV Style
+http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8
+
+#EXTINF:-1 tvg-id="NTVStyle.ru" tvg-name="NTV Style" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",NTV Style
+https://cdn.ntv.ru/th_style/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NutaGold.pl" tvg-name="Nuta Gold" group-title="Documentary;Lifestyle" tvg-language="pol" tvg-quality="576i",Nuta Gold
+http://92.114.85.87:8010/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="ONLife.vn" tvg-name="ON Life" group-title="Lifestyle" tvg-language="vie" tvg-quality="720p",ON Life
+https://freem3u.xyz/api/live/play.m3u8?vid=188
+
+#EXTINF:-1 tvg-id="ONO2TV.vn" tvg-name="ON O2TV" group-title="Lifestyle" tvg-language="vie" tvg-quality="1080p",ON O2TV
+https://freem3u.xyz/api/live/play.m3u8?vid=136
+
+#EXTINF:-1 tvg-id="OtkritiymirZdorove.ru" tvg-name="Otkritiy mir. Zdorove" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Otkritiy mir. Zdorove
+https://v4.proofix.ru/0mir/index.m3u8
+
+#EXTINF:-1 tvg-id="OWN.us" tvg-name="OWN" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",OWN
+http://23.237.104.106:8080/USA_OWN/index.m3u8
+
+#EXTINF:-1 tvg-id="PBSTravel.us" tvg-name="PBS Travel" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",PBS Travel
+https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
+
+#EXTINF:-1 tvg-id="PlousTV.ve" tvg-name="Plous TV" group-title="Lifestyle" tvg-language="eng;spa" tvg-quality="1080p",Plous TV
+https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCocina.de" tvg-name="Pluto TV Cocina" group-title="Cooking;Lifestyle" tvg-language="spa" tvg-quality="720p",Pluto TV Cocina
+https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCozinha.us" tvg-name="Pluto TV Cozinha" group-title="Lifestyle" tvg-language="por" tvg-quality="720p",Pluto TV Cozinha
+https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCucina.de" tvg-name="Pluto TV Cucina" group-title="Cooking;Lifestyle" tvg-language="ita" tvg-quality="720p",Pluto TV Cucina
+https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCuisine.de" tvg-name="Pluto TV Cuisine" group-title="Cooking;Lifestyle" tvg-language="fra" tvg-quality="720p",Pluto TV Cuisine
+https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVDiseno.de" tvg-name="Pluto TV Diseno" group-title="Lifestyle" tvg-language="spa" tvg-quality="720p",Pluto TV Diseno
+https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVEstilodeVida.us" tvg-name="Pluto TV Estilo de Vida" group-title="Lifestyle" tvg-language="spa" tvg-quality="720p",Pluto TV Estilo de Vida
+https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKFOOD.us" tvg-name="Pluto TV KFOOD" group-title="Cooking;Lifestyle" tvg-language="por" tvg-quality="720p",Pluto TV KFOOD
+https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVRealLife.de" tvg-name="Pluto TV Real Life" group-title="Lifestyle" tvg-language="ita" tvg-quality="720p",Pluto TV Real Life
+https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVViagens.us" tvg-name="Pluto TV Viagens" group-title="Lifestyle" tvg-language="por" tvg-quality="720p",Pluto TV Viagens
+https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVViaggi.de" tvg-name="Pluto TV Viaggi" group-title="Lifestyle" tvg-language="ita" tvg-quality="720p",Pluto TV Viaggi
+https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
+
+#EXTINF:-1 tvg-id="QTV2.cn" tvg-name="QTV-2" group-title="Lifestyle" tvg-language="zho" tvg-quality="576i",QTV-2
+http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+
+#EXTINF:-1 tvg-id="QTV6.cn" tvg-name="QTV-6" group-title="Kids;Lifestyle" tvg-language="zho" tvg-quality="576i",QTV-6
+http://119.166.53.110:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="QTV6.cn" tvg-name="QTV-6" group-title="Kids;Lifestyle" tvg-language="zho" tvg-quality="576i",QTV-6
+http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Revry.us" tvg-name="Revry" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Revry
+https://d36jpyyja698yd.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Revry.us" tvg-name="Revry" group-title="Lifestyle" tvg-language="eng" tvg-quality="480i",Revry
+https://jmp2.uk/plu-674f735a2fb8a100087bf253.m3u8
+
+#EXTINF:-1 tvg-id="Revry.us" tvg-name="Revry" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Revry
+https://linear-43.frequency.stream/dist/24i/43/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Revry.us" tvg-name="Revry" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",Revry
+https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RevryNews.us" tvg-name="Revry News" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",Revry News
+https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RevryQueer.us" tvg-name="Revry Queer" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",Revry Queer
+https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RevryQueer.us" tvg-name="Revry Queer" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",Revry Queer
+https://linear-43.frequency.stream/mt/galxy/43/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SaliraTV.id" tvg-name="Salira TV" group-title="Culture;Lifestyle" tvg-language="ind" tvg-quality="720p",Salira TV
+https://live.salira.tv/p/3870/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="SaliraTV.id" tvg-name="Salira TV" group-title="Culture;Lifestyle" tvg-language="ind" tvg-quality="720p",Salira TV
+https://live.salira.tv:3870/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="SenalesTV.do" tvg-name="Senales TV" group-title="Lifestyle" tvg-language="spa" tvg-quality="480i",Senales TV
+https://live.dionelysterrero.com/senalestv/stream.m3u8
+
+#EXTINF:-1 tvg-id="Skonneombygninger.se" tvg-name="Skonne ombygninger" group-title="Cooking;Lifestyle" tvg-language="dan;eng" tvg-quality="720p",Skonne ombygninger
+https://jmp2.uk/plu-61c19d329b8260000744331b.m3u8
+
+#EXTINF:-1 tvg-id="SmartLifeStyleTV.us" tvg-name="Smart LifeStyle TV" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",Smart LifeStyle TV
+https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
+
+#EXTINF:-1 tvg-id="SoReal.us" tvg-name="So... Real" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",So... Real
+https://all3media-soreal-1-gb.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SOSDocteurTV.tg" tvg-name="SOS Docteur TV" group-title="Lifestyle" tvg-language="fra" tvg-quality="480p",SOS Docteur TV
+https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarCrime.pt" tvg-name="Star Crime" group-title="Lifestyle" tvg-language="por" tvg-quality="576i",Star Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://znty.dyndns.org:5010/hls/foxcrime.m3u8
+
+#EXTINF:-1 tvg-id="StarLife.pt" tvg-name="Star Life" group-title="Lifestyle" tvg-language="por" tvg-quality="576i",Star Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://znty.dyndns.org:5010/hls/foxlife.m3u8
+
+#EXTINF:-1 tvg-id="StugfixarnaNorge.se" tvg-name="Stugfixarna Norge" group-title="Cooking;Lifestyle" tvg-language="eng;swe" tvg-quality="720p",Stugfixarna Norge
+https://jmp2.uk/plu-61c18ec6ac860c0007684981.m3u8
+
+#EXTINF:-1 tvg-id="SuperyachtTV.mc" tvg-name="Superyacht TV" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Superyacht TV
+https://sy.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TheDesignNetwork.us" tvg-name="The Design Network" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",The Design Network
+https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheDesignNetwork.us" tvg-name="The Design Network" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",The Design Network
+https://amg00441-amg00441c1-samsung-au-6606.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheDesignNetwork.us" tvg-name="The Design Network" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",The Design Network
+https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheDesignNetwork.us" tvg-name="The Design Network" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",The Design Network
+https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8
+
+#EXTINF:-1 tvg-id="TheJamieOliverChannel.us" tvg-name="The Jamie Oliver Channel" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",The Jamie Oliver Channel
+https://aegis-cloudfront-1.tubi.video/28fb04b8-8d48-4c2a-833a-7f51059a405d/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheJamieOliverChannel.us" tvg-name="The Jamie Oliver Channel" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",The Jamie Oliver Channel
+https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8
+
+#EXTINF:-1 tvg-id="TheJamieOliverChannel.us" tvg-name="The Jamie Oliver Channel" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",The Jamie Oliver Channel
+https://jamieoliver-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheJamieOliverChannel.us" tvg-name="The Jamie Oliver Channel" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",The Jamie Oliver Channel
+https://jmp2.uk/plu-64dab9df3d48f40008868091.m3u8
+
+#EXTINF:-1 tvg-id="TheJamieOliverChannel.us" tvg-name="The Jamie Oliver Channel" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",The Jamie Oliver Channel
+https://pb-gxzycliwq14lw.akamaized.net/Jamie_Oliver.m3u8
+
+#EXTINF:-1 tvg-id="TilMiddagHos.se" tvg-name="Til Middag Hos" group-title="Cooking;Lifestyle" tvg-language="dan;eng" tvg-quality="720p",Til Middag Hos
+https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8
+
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC" group-title="Lifestyle" tvg-language="deu" tvg-quality="576p",TLC
+https://s6.hopslan.com/tlcX/index.m3u8
+
+#EXTINF:-1 tvg-id="TLC.hu" tvg-name="TLC" group-title="Lifestyle" tvg-language="eng;hun" tvg-quality="576i",TLC
+http://88.212.15.17/live/tlc_hungary/index.m3u8
+
+#EXTINF:-1 tvg-id="TLC.in" tvg-name="TLC" group-title="Lifestyle" tvg-language="eng;hin" tvg-quality="720p",TLC
+https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="TLC.in" tvg-name="TLC" group-title="Lifestyle" tvg-language="eng;hin" tvg-quality="720p",TLC
+https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="TLC.ru" tvg-name="TLC" group-title="Lifestyle" tvg-language="rus" tvg-quality="1080p",TLC
+http://stream.mcquack.net/168/index.m3u8
+
+#EXTINF:-1 tvg-id="TLCLatinAmerica.us" tvg-name="TLC Latin America" group-title="Lifestyle" tvg-language="spa" tvg-quality="1080p",TLC Latin America
+http://38.134.250.110:8000/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-id="TLCLatinAmerica.us" tvg-name="TLC Latin America" group-title="Lifestyle" tvg-language="por" tvg-quality="720p",TLC Latin America
+http://79.127.238.228:14433
+
+#EXTINF:-1 tvg-id="TVPaprika.cz" tvg-name="TV Paprika" group-title="Lifestyle;Travel" tvg-language="ces" tvg-quality="576i",TV Paprika
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_parpika_tv_sd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPaprika.hu" tvg-name="TV Paprika" group-title="Lifestyle;Travel" tvg-language="hun" tvg-quality="576i",TV Paprika
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/parpika_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPaprika.ro" tvg-name="TV Paprika" group-title="Lifestyle;Travel" tvg-language="ron" tvg-quality="576i",TV Paprika
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://galandriel1.thobias11.cfd/papi/usergendxs3jk0s9nd.m3u8
+
+#EXTINF:-1 tvg-id="TV3Life.lv" tvg-name="TV3 Life" group-title="Entertainment;Lifestyle" tvg-language="lav" tvg-quality="1080p",TV3 Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/373/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5MONDEChefs.fr" tvg-name="TV5MONDE Chefs" group-title="Cooking;Lifestyle" tvg-language="fra" tvg-quality="1080p",TV5MONDE Chefs
+https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-name="TV5Monde Style" group-title="Lifestyle" tvg-language="fra" tvg-quality="576i",TV5Monde Style
+http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-name="TV5Monde Style" group-title="Lifestyle" tvg-language="fra" tvg-quality="576i",TV5Monde Style
+http://103.190.232.129/stream/tvb/style?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-name="TV5Monde Style" group-title="Lifestyle" tvg-language="fra" tvg-quality="1080p",TV5Monde Style
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+
+#EXTINF:-1 tvg-id="VoyagesSaveurs.es" tvg-name="Voyages & Saveurs" group-title="Lifestyle;Travel" tvg-language="fra" tvg-quality="720p",Voyages & Saveurs
+https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
+
+#EXTINF:-1 tvg-id="Wapp.cl" tvg-name="Wapp" group-title="Lifestyle" tvg-language="spa" tvg-quality="720p",Wapp
+https://stream.wapptv.cl/video/index.m3u8
+
+#EXTINF:-1 tvg-id="YachtingTV.cz" tvg-name="Yachting TV" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",Yachting TV
+https://streams2.sofast.tv/vglive-sk-461164/index.m3u8
+
+#EXTINF:-1 tvg-id="ZdorovoeTV.ru" tvg-name="Zdorovoe TV" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Zdorovoe TV
+http://31.148.48.15/Zdorovoe_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="ZdorovoeTV.ru" tvg-name="Zdorovoe TV" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Zdorovoe TV
+https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Zhivi.ru" tvg-name="Zhivi!" group-title="Lifestyle" tvg-language="rus" tvg-quality="1080p",Zhivi!
+http://31.148.48.15/Zhivi/index.m3u8
+
+#EXTINF:-1 tvg-id="Zhivi.ru" tvg-name="Zhivi!" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Zhivi!
+https://fs.uplink.kz/zhivi/mono.m3u8?token=onlinetv
+

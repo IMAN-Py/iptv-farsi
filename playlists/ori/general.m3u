@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DDOdia.in" tvg-name="DD Odia" group-title="General" tvg-language="ori" tvg-quality="504p",DD Odia
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
+
+#EXTINF:-1 tvg-id="DDOdia.in" tvg-name="DD Odia" group-title="General" tvg-language="ori" tvg-quality="576p",DD Odia
+https://mumbai-edge.smartplaytv.in/ddodiya/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCTV.in" tvg-name="MBC TV" group-title="General" tvg-language="ori" tvg-quality="576p",MBC TV
+https://cdn.pishow.tv/ott/live/1017/master.m3u8
+
+#EXTINF:-1 tvg-id="MBCTV.in" tvg-name="MBC TV" group-title="General" tvg-language="ori" tvg-quality="576p",MBC TV
+https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8
+
+#EXTINF:-1 tvg-id="NandighoshaTV.in" tvg-name="Nandighosha TV" group-title="General" tvg-language="ori" tvg-quality="576p",Nandighosha TV
+https://mumt05.tangotv.in/87NeALx2NANDIGHOSHATV/index.m3u8
+

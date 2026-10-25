@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NesihaTV.et" tvg-name="Nesiha TV" group-title="Religious" tvg-language="amh" tvg-quality="720p",Nesiha TV
+https://stream.cisk.tech/nasihatv/index.m3u8
+

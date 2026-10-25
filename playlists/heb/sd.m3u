@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="480i",BabyFirst
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+
+#EXTINF:-1 tvg-id="GoodLife.il" tvg-name="Good Life" group-title="Lifestyle" tvg-language="heb" tvg-quality="576p",Good Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/47/index.m3u8
+
+#EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" group-title="Kids" tvg-language="ces;eng;heb;por;slk" tvg-quality="576p",JimJam Europe
+http://158.160.149.81:8080/269/index.m3u8
+
+#EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" group-title="Kids" tvg-language="ces;eng;heb;por;slk" tvg-quality="576p",JimJam Europe
+http://stream.mcquack.net/150/index.m3u8
+
+#EXTINF:-1 tvg-id="KabbalahforthePeopleIsrael.il" tvg-name="Kabbalah for the People Israel" group-title="Religious" tvg-language="heb" tvg-quality="504p",Kabbalah for the People Israel
+https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KnessetChannel.il" tvg-name="Knesset Channel" group-title="Legislative" tvg-language="heb" tvg-quality="576p",Knesset Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/48/index.m3u8
+
+#EXTINF:-1 tvg-id="KnessetChannel.il" tvg-name="Knesset Channel" group-title="Legislative" tvg-language="heb" tvg-quality="480p",Knesset Channel
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RealityChannel.il" tvg-name="Reality Channel" group-title="Entertainment" tvg-language="heb" tvg-quality="576i",Reality Channel
+https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8
+
+#EXTINF:-1 tvg-id="VacationChannel.il" tvg-name="Vacation Channel" group-title="Entertainment" tvg-language="heb" tvg-quality="576i",Vacation Channel
+https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8
+
+#EXTINF:-1 tvg-id="Zoom.il" tvg-name="Zoom" group-title="Kids" tvg-language="heb" tvg-quality="576p",Zoom
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/377/index.m3u8
+

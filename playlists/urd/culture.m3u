@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EawazTV.ca" tvg-name="Eawaz TV" group-title="Culture" tvg-language="urd" tvg-quality="720p",Eawaz TV
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HarPalGeo.pk" tvg-name="HarPal Geo" group-title="Culture" tvg-language="urd" tvg-quality="360p",HarPal Geo
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+

@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BSTV.hk" tvg-name="BSTV" group-title="Shop" tvg-language="yue;zho" tvg-quality="576p",BSTV
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FengshangShoppingChannel.cn" tvg-name="Fengshang Shopping Channel" group-title="Shop" tvg-language="zho" tvg-quality="1080p",Fengshang Shopping Channel
+http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
+
+#EXTINF:-1 tvg-id="MOMOTV.tw" tvg-name="MOMO TV" group-title="Shop" tvg-language="zho" tvg-quality="1080p",MOMO TV
+http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
+

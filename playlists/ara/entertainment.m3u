@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FujairahTV.ae" tvg-name="Fujairah TV" group-title="Entertainment" tvg-language="ara" tvg-quality="720p",Fujairah TV
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kurdsat.iq" tvg-name="Kurdsat" group-title="Entertainment" tvg-language="ara;kur" tvg-quality="576p",Kurdsat
+http://185.9.2.18/chid_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Kurdsat.iq" tvg-name="Kurdsat" group-title="Entertainment" tvg-language="ara;kur" tvg-quality="1080p",Kurdsat
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+
+#EXTINF:-1 tvg-id="MBC4.ae" tvg-name="MBC 4" group-title="Entertainment" tvg-language="ara" tvg-quality="1080p",MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="MBC Drama" group-title="Entertainment" tvg-language="ara" tvg-quality="1080p",MBC Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
+
+#EXTINF:-1 tvg-id="RitmuTV.kw" tvg-name="Ritmu TV" group-title="Entertainment" tvg-language="ara" tvg-quality="576i",Ritmu TV
+https://659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8
+

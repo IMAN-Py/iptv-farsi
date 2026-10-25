@@ -1,0 +1,64 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AllehassenChris.de" tvg-name="Alle hassen Chris" group-title="Comedy" tvg-language="deu" tvg-quality="720p",Alle hassen Chris
+https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8
+
+#EXTINF:-1 tvg-id="Becker.de" tvg-name="Becker" group-title="Comedy" tvg-language="deu" tvg-quality="720p",Becker
+https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8
+
+#EXTINF:-1 tvg-id="CCPlutoTV.de" tvg-name="CC Pluto TV" group-title="Comedy" tvg-language="deu" tvg-quality="720p",CC Pluto TV
+https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central" group-title="Comedy" tvg-language="deu" tvg-quality="576i",Comedy Central
+https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
+
+#EXTINF:-1 tvg-id="FrasierBeruhmteGaste.de" tvg-name="Frasier: Beruhmte Gaste" group-title="Comedy" tvg-language="deu" tvg-quality="720p",Frasier: Beruhmte Gaste
+https://jmp2.uk/plu-6790fa9e1cfc4aa96dfadcef.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAdultAnimation.de" tvg-name="Pluto TV Adult Animation" group-title="Animation;Comedy" tvg-language="deu" tvg-quality="720p",Pluto TV Adult Animation
+https://jmp2.uk/plu-67f68bd2135aeda9ddf0ef54.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVComedyTherapie.de" tvg-name="Pluto TV Comedy Therapie" group-title="Comedy" tvg-language="deu" tvg-quality="720p",Pluto TV Comedy Therapie
+https://jmp2.uk/plu-69b968ba255fecb01f602257.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVDeutscheComedy.de" tvg-name="Pluto TV Deutsche Comedy" group-title="Comedy" tvg-language="deu" tvg-quality="720p",Pluto TV Deutsche Comedy
+https://jmp2.uk/plu-6672f49f61a39900089db68e.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFranBesteMamaMomente.de" tvg-name="Pluto TV Fran: Beste Mama-Momente" group-title="Comedy" tvg-language="deu" tvg-quality="720p",Pluto TV Fran: Beste Mama-Momente
+https://jmp2.uk/plu-69b968e011fc7b9e27c0d958.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKultComedies.de" tvg-name="Pluto TV Kult Comedies" group-title="Comedy;Movies" tvg-language="deu" tvg-quality="720p",Pluto TV Kult Comedies
+https://jmp2.uk/plu-66337de656fc840008ff7a65.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVLaughsinSpanish.de" tvg-name="Pluto TV Laughs in Spanish" group-title="Comedy" tvg-language="deu" tvg-quality="720p",Pluto TV Laughs in Spanish
+https://jmp2.uk/plu-69a554179a3f3bb488c7d2be.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSitcoms.de" tvg-name="Pluto TV Sitcoms" group-title="Comedy;Series" tvg-language="deu" tvg-quality="720p",Pluto TV Sitcoms
+https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVWorstofBundy.de" tvg-name="Pluto TV Worst of Bundy" group-title="Comedy" tvg-language="deu" tvg-quality="720p",Pluto TV Worst of Bundy
+https://jmp2.uk/plu-69b968ca1c36025fd0a3d92d.m3u8
+
+#EXTINF:-1 tvg-id="SabrinaTotalverhext.de" tvg-name="Sabrina: Total verhext!" group-title="Comedy" tvg-language="deu" tvg-quality="720p",Sabrina: Total verhext!
+https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkButtersCollection.de" tvg-name="South Park: Butters Collection" group-title="Animation;Comedy" tvg-language="deu" tvg-quality="720p",South Park: Butters Collection
+https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkCartmanCollection.de" tvg-name="South Park: Cartman Collection" group-title="Animation;Comedy" tvg-language="deu" tvg-quality="720p",South Park: Cartman Collection
+https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkKennyCollection.de" tvg-name="South Park: Kenny Collection" group-title="Animation;Comedy" tvg-language="deu" tvg-quality="720p",South Park: Kenny Collection
+https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkKyleCollection.de" tvg-name="South Park: Kyle Collection" group-title="Animation;Comedy" tvg-language="deu" tvg-quality="720p",South Park: Kyle Collection
+https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkOriginalVersion.de" tvg-name="South Park: Original Version" group-title="Animation;Comedy" tvg-language="deu" tvg-quality="720p",South Park: Original Version
+https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkStanCollection.de" tvg-name="South Park: Stan Collection" group-title="Animation;Comedy" tvg-language="deu" tvg-quality="720p",South Park: Stan Collection
+https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
+
+#EXTINF:-1 tvg-id="TakeshisCastle.de" tvg-name="Takeshi's Castle" group-title="Comedy" tvg-language="deu" tvg-quality="720p",Takeshi's Castle
+https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
+

@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Boligkobiblinde.se" tvg-name="Boligkob i blinde" group-title="Cooking;Lifestyle" tvg-language="dan;eng" tvg-quality="720p",Boligkob i blinde
+https://jmp2.uk/plu-63c6a27a4faf1c0007b48f7b.m3u8
+
+#EXTINF:-1 tvg-id="Kochenpatoppen.se" tvg-name="Koch'en pa toppen" group-title="Cooking;Lifestyle" tvg-language="dan;eng" tvg-quality="720p",Koch'en pa toppen
+https://jmp2.uk/plu-660d667519ca71000849a1e1.m3u8
+
+#EXTINF:-1 tvg-id="MasterChefDanmarksstorstemadtalenter.se" tvg-name="MasterChef Danmarks storste madtalenter" group-title="Cooking;Lifestyle" tvg-language="dan;eng" tvg-quality="720p",MasterChef Danmarks storste madtalenter
+https://jmp2.uk/plu-61c19edbf535220007075c4e.m3u8
+
+#EXTINF:-1 tvg-id="Medknivenforstruben.se" tvg-name="Med kniven for struben" group-title="Cooking;Lifestyle" tvg-language="dan;eng" tvg-quality="720p",Med kniven for struben
+https://jmp2.uk/plu-63e3b33e8795f300087e6a46.m3u8
+
+#EXTINF:-1 tvg-id="Skonneombygninger.se" tvg-name="Skonne ombygninger" group-title="Cooking;Lifestyle" tvg-language="dan;eng" tvg-quality="720p",Skonne ombygninger
+https://jmp2.uk/plu-61c19d329b8260000744331b.m3u8
+
+#EXTINF:-1 tvg-id="TilMiddagHos.se" tvg-name="Til Middag Hos" group-title="Cooking;Lifestyle" tvg-language="dan;eng" tvg-quality="720p",Til Middag Hos
+https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8
+

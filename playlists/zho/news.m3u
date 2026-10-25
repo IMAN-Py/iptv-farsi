@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AnshunComprehensiveNewsChannel.cn" tvg-name="Anshun Comprehensive News Channel" group-title="News" tvg-language="zho" tvg-quality="576i",Anshun Comprehensive News Channel
+https://hplayer1.juyun.tv/camera/154379194.m3u8
+
+#EXTINF:-1 tvg-id="BeritaRTM.my" tvg-name="Berita RTM" group-title="News" tvg-language="eng;msa;tam;zho" tvg-quality="576i",Berita RTM
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+
+#EXTINF:-1 tvg-id="CCTVPlus1.cn" tvg-name="CCTV+ 1" group-title="News" tvg-language="zho" tvg-quality="600p",CCTV+ 1
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CCTVPlus2.cn" tvg-name="CCTV+ 2" group-title="News" tvg-language="zho" tvg-quality="600p",CCTV+ 2
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="CCTV-13" group-title="News" tvg-language="zho" tvg-quality="720p",CCTV-13
+http://74.91.26.218:82/live/cctv13hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="CCTV-13" group-title="News" tvg-language="zho" tvg-quality="1080p",CCTV-13
+http://go.bkpcp.top/mg/cctv13
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="576p",CGTN
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="720p",CGTN
+https://0472.org/hls/cgtn.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="1080p",CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="720p",CGTN
+https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="576i",CGTN
+https://dash4.antik.sk/live/test_cgtn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="1080p",CGTN
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="1080p",CGTN
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="576i",CGTN
+https://h5cul1yar48um3t.wcetv.com/hls/cgtn.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="1080p",CGTN
+https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
+
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="News" tvg-language="eng;zho" tvg-quality="576p",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-id="ChuxiongNewsChannel.cn" tvg-name="Chuxiong News Channel" group-title="News" tvg-language="zho" tvg-quality="576i",Chuxiong News Channel
+http://hwapi.yntv.net/ew265l/848y54.m3u8
+
+#EXTINF:-1 tvg-id="ChuzhouNewsChannel.cn" tvg-name="Chuzhou News Channel" group-title="News" tvg-language="zho" tvg-quality="1080p",Chuzhou News Channel
+http://live.cztv.cc:85/live/xwpd.m3u8
+
+#EXTINF:-1 tvg-id="CTSNews.tw" tvg-name="CTS News" group-title="News" tvg-language="zho" tvg-quality="480i",CTS News
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+
+#EXTINF:-1 tvg-id="DHA.tr" tvg-name="DHA" group-title="News" tvg-language="deu;eng;tur;zho" tvg-quality="720p",DHA
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DongguanComprehensiveNewsChannel.cn" tvg-name="Dongguan Comprehensive News Channel" group-title="News" tvg-language="zho" tvg-quality="576i",Dongguan Comprehensive News Channel
+http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
+
+#EXTINF:-1 tvg-id="DongguanComprehensiveNewsChannel.cn" tvg-name="Dongguan Comprehensive News Channel" group-title="News" tvg-language="zho" tvg-quality="576i",Dongguan Comprehensive News Channel
+https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+
+#EXTINF:-1 tvg-id="EBCFinancialNews.tw" tvg-name="EBC Financial News" group-title="News" tvg-language="zho" tvg-quality="1080p",EBC Financial News
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+
+#EXTINF:-1 tvg-id="EBCNews.tw" tvg-name="EBC News" group-title="News" tvg-language="zho" tvg-quality="1080p",EBC News
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+
+#EXTINF:-1 tvg-id="FTVTaiwan.tw" tvg-name="FTV Taiwan" group-title="News" tvg-language="zho" tvg-quality="720p",FTV Taiwan
+http://seb.sason.top/ptv/ftv.php?id=tw
+
+#EXTINF:-1 tvg-id="HarbinComprehensiveNewsChannel.cn" tvg-name="Harbin Comprehensive News Channel" group-title="News" tvg-language="zho" tvg-quality="576i",Harbin Comprehensive News Channel
+https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
+
+#EXTINF:-1 tvg-id="HebiNewsChannel.cn" tvg-name="Hebi News Channel" group-title="News" tvg-language="zho" tvg-quality="480p",Hebi News Channel
+http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
+
+#EXTINF:-1 tvg-id="HunanNewsChannel.cn" tvg-name="Hunan News Channel" group-title="News" tvg-language="zho" tvg-quality="576i",Hunan News Channel
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
+
+#EXTINF:-1 tvg-id="JiuquanTVNewsComprehensiveChannel.cn" tvg-name="Jiuquan TV News Comprehensive Channel" group-title="News" tvg-language="zho" tvg-quality="576p",Jiuquan TV News Comprehensive Channel
+http://117.156.28.119/270000001111/1110000001/index.m3u8
+
+#EXTINF:-1 tvg-id="LanzhouComprehensiveNewsChannel.cn" tvg-name="Lanzhou Comprehensive News Channel" group-title="News" tvg-language="zho" tvg-quality="576i",Lanzhou Comprehensive News Channel
+https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-name="Phoenix InfoNews Channel" group-title="News" tvg-language="zho" tvg-quality="576p",Phoenix InfoNews Channel
+http://125.210.152.18:9090/live/FHZX_1200.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-name="Phoenix InfoNews Channel" group-title="News" tvg-language="zho" tvg-quality="720p",Phoenix InfoNews Channel
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-name="Phoenix InfoNews Channel" group-title="News" tvg-language="zho" tvg-quality="720p",Phoenix InfoNews Channel
+http://php.17186.eu.org/phtv/fhzx.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-name="Phoenix InfoNews Channel" group-title="News" tvg-language="zho" tvg-quality="576i",Phoenix InfoNews Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/s/s23/index.m3u8
+
+#EXTINF:-1 tvg-id="PingxiangTVNewsChannel.cn" tvg-name="Pingxiang TV News Channel" group-title="News" tvg-language="zho" tvg-quality="576p",Pingxiang TV News Channel
+http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8
+
+#EXTINF:-1 tvg-id="QTV1.cn" tvg-name="QTV-1" group-title="News" tvg-language="zho" tvg-quality="576i",QTV-1
+http://119.166.53.110:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="QTV1.cn" tvg-name="QTV-1" group-title="News" tvg-language="zho" tvg-quality="576i",QTV-1
+http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+
+#EXTINF:-1 tvg-id="SETNews.tw" tvg-name="SET News" group-title="News" tvg-language="zho" tvg-quality="1080p",SET News
+http://seb.sason.top/sc/sllive_fhd.m3u8
+
+#EXTINF:-1 tvg-id="TDMInformation.mo" tvg-name="TDM Information" group-title="News" tvg-language="zho" tvg-quality="720p",TDM Information
+https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TonghuaTV.cn" tvg-name="Tonghua TV" group-title="News" tvg-language="zho" tvg-quality="576i",Tonghua TV
+http://139.211.217.79:9004/hls/75/index.m3u8
+
+#EXTINF:-1 tvg-id="TonghuaTV.cn" tvg-name="Tonghua TV" group-title="News" tvg-language="zho" tvg-quality="1080p",Tonghua TV
+http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+
+#EXTINF:-1 tvg-id="TonghuaTV.cn" tvg-name="Tonghua TV" group-title="News" tvg-language="zho" tvg-quality="1080p",Tonghua TV
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+
+#EXTINF:-1 tvg-id="TVBSNews.tw" tvg-name="TVBS News" group-title="News" tvg-language="zho" tvg-quality="480i",TVBS News
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+

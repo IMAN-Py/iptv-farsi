@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BeJoykids.it" tvg-name="BeJoy.kids" group-title="Kids" tvg-language="ita" tvg-quality="1080p",BeJoy.kids
+https://stream.paroledivita.org/bejoy.m3u8
+
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" group-title="Kids" tvg-language="ita" tvg-quality="720p",Boing
+https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8
+
+#EXTINF:-1 tvg-id="IuniorTV.it" tvg-name="Iunior TV" group-title="Kids" tvg-language="eng;ita" tvg-quality="1080p",Iunior TV
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
+
+#EXTINF:-1 tvg-id="IuniorTV.it" tvg-name="Iunior TV" group-title="Kids" tvg-language="eng;ita" tvg-quality="720p",Iunior TV
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-name="Mr Bean Animated" group-title="Animation;Kids" tvg-language="ita" tvg-quality="1080p",Mr Bean Animated
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.it" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;ita" tvg-quality="720p",Nick Jr.
+http://102.129.186.182:81/nick/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.it" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;ita" tvg-quality="576i",Nick Jr.
+https://streamer-jv9.pages.dev/italy/nickjr.m3u
+
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ita" tvg-quality="576i",Nickelodeon
+https://hostemea1236.s.gy/italia/nikc/23/32/93/locos.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTeen.de" tvg-name="Pluto TV Teen" group-title="Kids" tvg-language="ita" tvg-quality="720p",Pluto TV Teen
+https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8
+
+#EXTINF:-1 tvg-id="Super.it" tvg-name="Super!" group-title="Kids" tvg-language="ita" tvg-quality="576i",Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperiCarly.us" tvg-name="Super! iCarly" group-title="Kids" tvg-language="ita" tvg-quality="576i",Super! iCarly
+https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8
+
+#EXTINF:-1 tvg-id="SuperPop.us" tvg-name="Super! Pop" group-title="Kids" tvg-language="ita" tvg-quality="576i",Super! Pop
+https://jmp2.uk/plu-6093f7b5bb49b90007cecaad.m3u8
+
+#EXTINF:-1 tvg-id="SuperSpongeBob.us" tvg-name="Super! SpongeBob" group-title="Kids" tvg-language="ita" tvg-quality="720p",Super! SpongeBob
+https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8
+
+#EXTINF:-1 tvg-id="TeenageMutantNinjaTurtles.de" tvg-name="Teenage Mutant Ninja Turtles" group-title="Animation;Kids" tvg-language="ita" tvg-quality="720p",Teenage Mutant Ninja Turtles
+https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
+

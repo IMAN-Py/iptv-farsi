@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTSHSport.al" tvg-name="RTSH Sport" group-title="Sports" tvg-language="sqi" tvg-quality="1080p",RTSH Sport
+http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
+

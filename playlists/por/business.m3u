@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LaboralTV.br" tvg-name="Laboral TV" group-title="Business" tvg-language="por" tvg-quality="360p",Laboral TV
+https://tv.laboralsst.com.br/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="MNTV.mz" tvg-name="MNTV" group-title="Business" tvg-language="por" tvg-quality="576i",MNTV
+https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8
+

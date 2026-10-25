@@ -1,0 +1,181 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="10 TV" group-title="News" tvg-language="tel" tvg-quality="720p",10 TV
+https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
+
+#EXTINF:-1 tvg-id="4SiDESTV.in" tvg-name="4 SiDES TV" group-title="News" tvg-language="tel" tvg-quality="1080p",4 SiDES TV
+https://stream.ottlive.co.in/4sidestv/index.m3u8
+
+#EXTINF:-1 tvg-id="9PlusNews.in" tvg-name="9 Plus News" group-title="News" tvg-language="tel" tvg-quality="1080p",9 Plus News
+https://stream.ottlive.co.in/9plusnews/index.m3u8
+
+#EXTINF:-1 tvg-id="99TV.in" tvg-name="99TV" group-title="News" tvg-language="tel" tvg-quality="720p",99TV
+https://cdn.pishow.tv/ott/live/1211/master.m3u8
+
+#EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-name="ABN Andhra Jyoti" group-title="News" tvg-language="tel" tvg-quality="720p",ABN Andhra Jyoti
+https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8
+
+#EXTINF:-1 tvg-id="BhakthiTV.in" tvg-name="Bhakthi TV" group-title="Religious" tvg-language="tel" tvg-quality="720p",Bhakthi TV
+https://cdn.pishow.tv/ott/live/397/master.m3u8
+
+#EXTINF:-1 tvg-id="BIGTV.in" tvg-name="BIG TV" group-title="News" tvg-language="tel" tvg-quality="720p",BIG TV
+https://cdn.pishow.tv/ott/live/1059/master.m3u8
+
+#EXTINF:-1 tvg-id="BRKNews.in" tvg-name="BRK News" group-title="News" tvg-language="tel" tvg-quality="720p",BRK News
+https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="720p",Cartoon Network
+https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="ben;bho;eng;hin;kan;sgn;tam;tel" tvg-quality="1080p",DD Sports
+https://cdn.pishow.tv/ott/live/1161/master.m3u8
+
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="ben;bho;eng;hin;kan;sgn;tam;tel" tvg-quality="720p",DD Sports
+https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="720p",Discovery Channel
+https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="720p",Discovery Channel
+https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-name="Discovery Kids" group-title="Kids" tvg-language="eng;hin;mal;tam;tel" tvg-quality="720p",Discovery Kids
+https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.in" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Disney Channel
+http://66.102.126.10:8000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-name="ETV Andhra Pradesh" group-title="News" tvg-language="tel" tvg-quality="1080p",ETV Andhra Pradesh
+https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVAndhraPradesh.in" tvg-name="ETV Andhra Pradesh" group-title="News" tvg-language="tel" tvg-quality="1080p",ETV Andhra Pradesh
+https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVBeats.in" tvg-name="ETV Beats" group-title="Music" tvg-language="tel" tvg-quality="1080p",ETV Beats
+https://jmp2.uk/stvp-IN4900002RV
+
+#EXTINF:-1 tvg-id="ETVCinema.in" tvg-name="ETV Cinema" group-title="Movies" tvg-language="tel" tvg-quality="1080p",ETV Cinema
+https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVCinema.in" tvg-name="ETV Cinema" group-title="Movies" tvg-language="tel" tvg-quality="1080p",ETV Cinema
+https://mumbai-edge.smartplaytv.in/ETVCINEMA/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVComedy.in" tvg-name="ETV Comedy" group-title="Comedy" tvg-language="tel" tvg-quality="1080p",ETV Comedy
+https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ETVJosh.in" tvg-name="ETV Josh" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",ETV Josh
+https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ETVLife.in" tvg-name="ETV Life" group-title="Lifestyle" tvg-language="tel" tvg-quality="1080p",ETV Life
+https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVMusic.in" tvg-name="ETV Music" group-title="Music" tvg-language="tel" tvg-quality="1080p",ETV Music
+https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVNews.in" tvg-name="ETV News" group-title="News" tvg-language="tel" tvg-quality="1080p",ETV News
+https://cc-3448kp65yhc5w.akamaized.net/WWBI/Amagi/ETV_News_IN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ETVPlus.in" tvg-name="ETV Plus" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",ETV Plus
+https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVPlus.in" tvg-name="ETV Plus" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",ETV Plus
+https://mumbai-edge.smartplaytv.in/ETVPLUS/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVTelangana.in" tvg-name="ETV Telangana" group-title="News" tvg-language="tel" tvg-quality="1080p",ETV Telangana
+https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVTelangana.in" tvg-name="ETV Telangana" group-title="News" tvg-language="tel" tvg-quality="1080p",ETV Telangana
+https://mumbai-edge.smartplaytv.in/ETVTG/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVTelugu.in" tvg-name="ETV Telugu" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",ETV Telugu
+https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8
+
+#EXTINF:-1 tvg-id="HinduDharmam.in" tvg-name="Hindu Dharmam" group-title="Religious" tvg-language="tel" tvg-quality="1080p",Hindu Dharmam
+https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8
+
+#EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name="History TV18" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",History TV18
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name="History TV18" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",History TV18
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HMTV.in" tvg-name="HMTV" group-title="News" tvg-language="tel" tvg-quality="720p",HMTV
+https://cdn.pishow.tv/ott/live/280/master.m3u8
+
+#EXTINF:-1 tvg-id="INews.in" tvg-name="INews" group-title="News" tvg-language="tel" tvg-quality="720p",INews
+https://cdn.pishow.tv/ott/live/411/master.m3u8
+
+#EXTINF:-1 tvg-id="MahaaBhakti.in" tvg-name="Mahaa Bhakti" group-title="Religious" tvg-language="tel" tvg-quality="1080p",Mahaa Bhakti
+https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8
+
+#EXTINF:-1 tvg-id="MahaaMax.in" tvg-name="Mahaa Max" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",Mahaa Max
+https://mumbai-edge.smartplaytv.in/MahaMax/index.m3u8
+
+#EXTINF:-1 tvg-id="MahaaNews.in" tvg-name="Mahaa News" group-title="News" tvg-language="tel" tvg-quality="1080p",Mahaa News
+https://mumbai-edge.smartplaytv.in/MahaNews/index.m3u8
+
+#EXTINF:-1 tvg-id="MangoMobileTV.in" tvg-name="Mango Mobile TV" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",Mango Mobile TV
+https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.in" tvg-name="Metro TV" group-title="General" tvg-language="tel" tvg-quality="1080p",Metro TV
+https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVTelugu.in" tvg-name="NTV Telugu" group-title="News" tvg-language="tel" tvg-quality="1080p",NTV Telugu
+https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
+
+#EXTINF:-1 tvg-id="PMCTelugu.in" tvg-name="PMC Telugu" group-title="Religious" tvg-language="tel" tvg-quality="1080p",PMC Telugu
+https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
+
+#EXTINF:-1 tvg-id="Prime9News.in" tvg-name="Prime9 News" group-title="News" tvg-language="tel" tvg-quality="1080p",Prime9 News
+https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
+
+#EXTINF:-1 tvg-id="RajMusixTelugu.in" tvg-name="Raj Musix Telugu" group-title="Music" tvg-language="tel" tvg-quality="720p",Raj Musix Telugu
+https://cdn.pishow.tv/ott/live/1213/master.m3u8
+
+#EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-name="Sony BBC Earth" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony BBC Earth
+http://103.185.24.134:3001/SONY-BBC/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" group-title="Movies" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony Pix
+http://103.151.60.162:2122/play/a01d/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="StarMaa.in" tvg-name="Star Maa" group-title="Entertainment" tvg-language="tel" tvg-quality="720p",Star Maa
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-id="StarMaaMovies.in" tvg-name="Star Maa Movies" group-title="Movies" tvg-language="tel" tvg-quality="720p",Star Maa Movies
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="720p",Star Sports 2
+http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
+
+#EXTINF:-1 tvg-id="StudioOnePlus.in" tvg-name="Studio One +" group-title="Movies" tvg-language="tel" tvg-quality="720p",Studio One +
+https://cdn.pishow.tv/ott/live/276/master.m3u8
+
+#EXTINF:-1 tvg-id="SubhavaarthaTV.in" tvg-name="Subhavaartha TV" group-title="Religious" tvg-language="tel" tvg-quality="720p",Subhavaartha TV
+https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SVBC.in" tvg-name="SVBC" group-title="Religious" tvg-language="tel" tvg-quality="720p",SVBC
+https://mumbai-edge.smartplaytv.in/SVBC/index.m3u8
+
+#EXTINF:-1 tvg-id="SVBC.in" tvg-name="SVBC" group-title="Religious" tvg-language="tel" tvg-quality="1080p",SVBC
+https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SwatantraTV.in" tvg-name="Swatantra TV" group-title="News" tvg-language="tel" tvg-quality="1080p",Swatantra TV
+https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
+
+#EXTINF:-1 tvg-id="TNews.in" tvg-name="T News" group-title="News" tvg-language="tel" tvg-quality="720p",T News
+https://cdn.pishow.tv/ott/live/385/master.m3u8
+
+#EXTINF:-1 tvg-id="TeluguOne.in" tvg-name="Telugu One" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",Telugu One
+https://teluguone-yupptv.vgcdn.net/v1/019be9e3f04d1ea55784338b5c3e89/019be9e4474415fc60e93459e1e808/teluguone_2500k.m3u8
+
+#EXTINF:-1 tvg-id="TollyTV.in" tvg-name="Tolly TV" group-title="Movies" tvg-language="tel" tvg-quality="1080p",Tolly TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TV9Telugu.in" tvg-name="TV9 Telugu" group-title="News" tvg-language="tel" tvg-quality="720p",TV9 Telugu
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WOWKidz.in" tvg-name="WOW Kidz" group-title="Animation;Kids" tvg-language="tel" tvg-quality="720p",WOW Kidz
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="ZeeTeluguNews.in" tvg-name="Zee Telugu News" group-title="News" tvg-language="tel" tvg-quality="720p",Zee Telugu News
+https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8
+

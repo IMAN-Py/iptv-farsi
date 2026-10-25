@@ -1,0 +1,316 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="13T.cl" tvg-name="13T" group-title="Series" tvg-language="spa" tvg-quality="720p",13T
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
+#EXTINF:-1 tvg-id="AcapulcoShore.us" tvg-name="Acapulco Shore" group-title="Series" tvg-language="spa" tvg-quality="720p",Acapulco Shore
+https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
+
+#EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us" tvg-name="AMC Series Latin America" group-title="Series" tvg-language="spa" tvg-quality="1080p",AMC Series Latin America
+http://45.171.64.30:6060/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us" tvg-name="AMC Series Latin America" group-title="Series" tvg-language="spa" tvg-quality="1080p",AMC Series Latin America
+https://streaming.onnethn.com/AMC/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Anaylos7.us" tvg-name="Ana y los 7" group-title="Series" tvg-language="spa" tvg-quality="576i",Ana y los 7
+https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
+
+#EXTINF:-1 tvg-id="Andromeda.us" tvg-name="Andromeda" group-title="Series" tvg-language="spa" tvg-quality="576i",Andromeda
+https://jmp2.uk/plu-6177fb39b68ef1000725e59e.m3u8
+
+#EXTINF:-1 tvg-id="Andromeda.us" tvg-name="Andromeda" group-title="Series" tvg-language="spa" tvg-quality="576i",Andromeda
+https://jmp2.uk/plu-617807a1a3a6160007f615e4.m3u8
+
+#EXTINF:-1 tvg-id="Andromeda.us" tvg-name="Andromeda" group-title="Series" tvg-language="spa" tvg-quality="576i",Andromeda
+https://jmp2.uk/plu-6178156e54712100072d6b2b.m3u8
+
+#EXTINF:-1 tvg-id="Andromeda.us" tvg-name="Andromeda" group-title="Series" tvg-language="spa" tvg-quality="576i",Andromeda
+https://jmp2.uk/plu-663a163f8ea5560008a3f234.m3u8
+
+#EXTINF:-1 tvg-id="Andromeda.us" tvg-name="Andromeda" group-title="Series" tvg-language="spa" tvg-quality="576i",Andromeda
+https://jmp2.uk/plu-6850335b5965a2fd49f7e36d.m3u8
+
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="Az Corazon" group-title="Series" tvg-language="spa" tvg-quality="720p",Az Corazon
+http://200.115.120.1:8000/play/ca020/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCDrama.uk" tvg-name="BBC Drama" group-title="Series" tvg-language="spa" tvg-quality="1080p",BBC Drama
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCDrama.uk" tvg-name="BBC Drama" group-title="Series" tvg-language="spa" tvg-quality="576i",BBC Drama
+https://jmp2.uk/plu-60d35a74c63c3c0008df6a90.m3u8
+
+#EXTINF:-1 tvg-id="CSIMiami.us" tvg-name="CSI: Miami" group-title="Series" tvg-language="spa" tvg-quality="720p",CSI: Miami
+https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8
+
+#EXTINF:-1 tvg-id="CurroJimenez.us" tvg-name="Curro Jimenez" group-title="Series" tvg-language="spa" tvg-quality="576i",Curro Jimenez
+https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8
+
+#EXTINF:-1 tvg-id="ElComisario.us" tvg-name="El Comisario" group-title="Series" tvg-language="spa" tvg-quality="576i",El Comisario
+https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8
+
+#EXTINF:-1 tvg-id="Elencantadordeperros.us" tvg-name="El encantador de perros" group-title="Series" tvg-language="spa" tvg-quality="576i",El encantador de perros
+https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8
+
+#EXTINF:-1 tvg-id="Elencantadordeperros.us" tvg-name="El encantador de perros" group-title="Series" tvg-language="spa" tvg-quality="576i",El encantador de perros
+https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
+
+#EXTINF:-1 tvg-id="Empenosalobestia.us" tvg-name="Empenos a lo bestia" group-title="Series" tvg-language="spa" tvg-quality="576i",Empenos a lo bestia
+https://jmp2.uk/plu-5f23102d5e239d00074b092a.m3u8
+
+#EXTINF:-1 tvg-id="Empenosalobestia.us" tvg-name="Empenos a lo bestia" group-title="Series" tvg-language="spa" tvg-quality="576i",Empenos a lo bestia
+https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8
+
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="Europa Europa" group-title="Series" tvg-language="eng;spa" tvg-quality="1080p",Europa Europa
+http://138.121.15.230:9002/EUROPA-EUROPA/index.m3u8
+
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="Europa Europa" group-title="Series" tvg-language="eng;spa" tvg-quality="1080p",Europa Europa
+http://38.252.238.18:8000/play/a01d/index.m3u8
+
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="Europa Europa" group-title="Series" tvg-language="eng;spa" tvg-quality="1080p",Europa Europa
+https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" group-title="Movies;Series" tvg-language="eng;spa" tvg-quality="720p",HBO
+http://tvsen7.aynascope.net/hbo/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="720p",HBO 2 Latin America
+http://15.204.246.24:8080/HBO2HD/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="1080p",HBO 2 Latin America
+http://45.171.64.30:6060/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="1080i",HBO 2 Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/hbo2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits" group-title="Movies;Series" tvg-language="eng;spa" tvg-quality="720p",HBO Hits
+http://tvsen7.aynascope.net/hbo2/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="480i",HBO Xtreme Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8
+
+#EXTINF:-1 tvg-id="iCarly.us" tvg-name="iCarly" group-title="Series" tvg-language="spa" tvg-quality="720p",iCarly
+https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
+
+#EXTINF:-1 tvg-id="Investiga.us" tvg-name="Investiga" group-title="Series" tvg-language="spa" tvg-quality="720p",Investiga
+https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
+
+#EXTINF:-1 tvg-id="KenanKel.us" tvg-name="Kenan & Kel" group-title="Series" tvg-language="spa" tvg-quality="720p",Kenan & Kel
+https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
+
+#EXTINF:-1 tvg-id="LaRosadeGuadalupe.us" tvg-name="La Rosa de Guadalupe" group-title="Series" tvg-language="spa" tvg-quality="360p",La Rosa de Guadalupe
+https://app.viloud.tv/hls/channel/9c88161fe675b59d4b008c776f033960.m3u8
+
+#EXTINF:-1 tvg-id="LatinaClasicos.pe" tvg-name="Latina Clasicos" group-title="Series" tvg-language="spa" tvg-quality="1080p",Latina Clasicos
+http://45.171.108.253:8888/LATINA/index.m3u8
+
+#EXTINF:-1 tvg-id="LatinaClasicos.pe" tvg-name="Latina Clasicos" group-title="Series" tvg-language="spa" tvg-quality="1080p",Latina Clasicos
+https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LosarchivosdelFBI.us" tvg-name="Los archivos del FBI" group-title="Series" tvg-language="spa" tvg-quality="576i",Los archivos del FBI
+https://jmp2.uk/plu-5e67d41b93312100076f3fca.m3u8
+
+#EXTINF:-1 tvg-id="LosarchivosdelFBI.us" tvg-name="Los archivos del FBI" group-title="Series" tvg-language="spa" tvg-quality="576i",Los archivos del FBI
+https://jmp2.uk/plu-5f1acbed25948a0007ffbe65.m3u8
+
+#EXTINF:-1 tvg-id="LosAsesinatosdeMidsomer.us" tvg-name="Los Asesinatos de Midsomer" group-title="Series" tvg-language="spa" tvg-quality="576i",Los Asesinatos de Midsomer
+https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8
+
+#EXTINF:-1 tvg-id="LosAsesinatosdeMidsomer.us" tvg-name="Los Asesinatos de Midsomer" group-title="Series" tvg-language="spa" tvg-quality="576i",Los Asesinatos de Midsomer
+https://jmp2.uk/plu-6764203df433320008836bc6.m3u8
+
+#EXTINF:-1 tvg-id="Medium.de" tvg-name="Medium" group-title="Movies;Series" tvg-language="spa" tvg-quality="720p",Medium
+https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8
+
+#EXTINF:-1 tvg-id="MegaFiccion.cl" tvg-name="Mega Ficcion" group-title="Series" tvg-language="spa" tvg-quality="1080p",Mega Ficcion
+http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
+
+#EXTINF:-1 tvg-id="MiExtranaObsesion.us" tvg-name="Mi Extrana Obsesion" group-title="Series" tvg-language="spa" tvg-quality="576i",Mi Extrana Obsesion
+https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8
+
+#EXTINF:-1 tvg-id="Misteriossinresolver.us" tvg-name="Misterios sin resolver" group-title="Series" tvg-language="spa" tvg-quality="480i",Misterios sin resolver
+https://jmp2.uk/plu-5f4d882d5233170007ee880e.m3u8
+
+#EXTINF:-1 tvg-id="Misteriossinresolver.us" tvg-name="Misterios sin resolver" group-title="Series" tvg-language="spa" tvg-quality="480i",Misterios sin resolver
+https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
+
+#EXTINF:-1 tvg-id="MTVDating.us" tvg-name="MTV Dating" group-title="Series" tvg-language="spa" tvg-quality="720p",MTV Dating
+https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
+
+#EXTINF:-1 tvg-id="MTVTeenMom.us" tvg-name="MTV Teen Mom" group-title="Series" tvg-language="spa" tvg-quality="720p",MTV Teen Mom
+https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8
+
+#EXTINF:-1 tvg-id="NCIS.us" tvg-name="NCIS" group-title="Series" tvg-language="spa" tvg-quality="720p",NCIS
+https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8
+
+#EXTINF:-1 tvg-id="Novelisima.us" tvg-name="Novelisima" group-title="Series" tvg-language="spa" tvg-quality="1080p",Novelisima
+http://138.59.177.78:9999/play/a0gg/index.m3u8
+
+#EXTINF:-1 tvg-id="Novelisima.us" tvg-name="Novelisima" group-title="Series" tvg-language="spa" tvg-quality="480i",Novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+
+#EXTINF:-1 tvg-id="Numeros.us" tvg-name="Numeros" group-title="Series" tvg-language="spa" tvg-quality="720p",Numeros
+https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8
+
+#EXTINF:-1 tvg-id="PantallaClasicaEC.ec" tvg-name="Pantalla Clasica EC" group-title="Movies;Series" tvg-language="spa" tvg-quality="512p",Pantalla Clasica EC
+https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAventura.us" tvg-name="Pluto TV Aventura" group-title="Series" tvg-language="spa" tvg-quality="720p",Pluto TV Aventura
+https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVDogelcazarrecompensas.us" tvg-name="Pluto TV Dog el cazarrecompensas" group-title="Series" tvg-language="spa" tvg-quality="480i",Pluto TV Dog el cazarrecompensas
+https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVDramasCoreanos.us" tvg-name="Pluto TV Dramas Coreanos" group-title="Series" tvg-language="spa" tvg-quality="720p",Pluto TV Dramas Coreanos
+https://jmp2.uk/plu-6185a9a88b2ce30007de5128.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVDramasCoreanosTeen.us" tvg-name="Pluto TV Dramas Coreanos Teen" group-title="Series" tvg-language="spa" tvg-quality="720p",Pluto TV Dramas Coreanos Teen
+https://jmp2.uk/plu-6661d5424b10960008599fa3.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKDrama.de" tvg-name="Pluto TV K-Drama" group-title="Series" tvg-language="spa" tvg-quality="720p",Pluto TV K-Drama
+https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVMinutoParaGanar.us" tvg-name="Pluto TV Minuto Para Ganar" group-title="Series" tvg-language="spa" tvg-quality="480i",Pluto TV Minuto Para Ganar
+https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVMisteriosMedicos.us" tvg-name="Pluto TV Misterios Medicos" group-title="Series" tvg-language="spa" tvg-quality="480i",Pluto TV Misterios Medicos
+https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNovelas.us" tvg-name="Pluto TV Novelas" group-title="Series" tvg-language="spa" tvg-quality="480i",Pluto TV Novelas
+https://jmp2.uk/plu-5cf96c0222df39f1a338d163.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNovelas.us" tvg-name="Pluto TV Novelas" group-title="Series" tvg-language="spa" tvg-quality="720p",Pluto TV Novelas
+https://jmp2.uk/plu-5dcde0cc2efd2700090b7ff4.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNovelasdeMexico.us" tvg-name="Pluto TV Novelas de Mexico" group-title="Series" tvg-language="spa" tvg-quality="720p",Pluto TV Novelas de Mexico
+https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNovelasdeOtrosContinentes.us" tvg-name="Pluto TV Novelas de Otros Continentes" group-title="Series" tvg-language="spa" tvg-quality="720p",Pluto TV Novelas de Otros Continentes
+https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNovelasdeVenezuela.us" tvg-name="Pluto TV Novelas de Venezuela" group-title="Series" tvg-language="spa" tvg-quality="720p",Pluto TV Novelas de Venezuela
+https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSciFi.us" tvg-name="Pluto TV Sci-Fi" group-title="Movies;Series" tvg-language="spa" tvg-quality="480i",Pluto TV Sci-Fi
+https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSciFi.us" tvg-name="Pluto TV Sci-Fi" group-title="Movies;Series" tvg-language="spa" tvg-quality="720p",Pluto TV Sci-Fi
+https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSeries.us" tvg-name="Pluto TV Series" group-title="Series" tvg-language="spa" tvg-quality="720p",Pluto TV Series
+https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSeriescriminales.de" tvg-name="Pluto TV Series criminales" group-title="Series" tvg-language="spa" tvg-quality="720p",Pluto TV Series criminales
+https://jmp2.uk/plu-65cf6ab58145cb0008129ca8.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSeriesdeAccion.us" tvg-name="Pluto TV Series de Accion" group-title="Series" tvg-language="spa" tvg-quality="720p",Pluto TV Series de Accion
+https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSeriesdeComedia.us" tvg-name="Pluto TV Series de Comedia" group-title="Series" tvg-language="spa" tvg-quality="720p",Pluto TV Series de Comedia
+https://jmp2.uk/plu-655f626d57fe4a00085c7c3e.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSeriesdeCrimen.us" tvg-name="Pluto TV Series de Crimen" group-title="Series" tvg-language="spa" tvg-quality="720p",Pluto TV Series de Crimen
+https://jmp2.uk/plu-655f62ff954b020008c91ec6.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSeriesdeDrama.us" tvg-name="Pluto TV Series de Drama" group-title="Series" tvg-language="spa" tvg-quality="720p",Pluto TV Series de Drama
+https://jmp2.uk/plu-655f636d954b020008c93299.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSeriesdeOtrosContinentes.us" tvg-name="Pluto TV Series de Otros Continentes" group-title="Series" tvg-language="spa" tvg-quality="720p",Pluto TV Series de Otros Continentes
+https://jmp2.uk/plu-6806d570c178637410ae4962.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSeriesdeSciFi.us" tvg-name="Pluto TV Series de Sci-Fi" group-title="Series" tvg-language="spa" tvg-quality="720p",Pluto TV Series de Sci-Fi
+https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSeriesLatinas.us" tvg-name="Pluto TV Series Latinas" group-title="Series" tvg-language="spa" tvg-quality="720p",Pluto TV Series Latinas
+https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTelenovelasClasicas.de" tvg-name="Pluto TV Telenovelas Clasicas" group-title="Series" tvg-language="spa" tvg-quality="720p",Pluto TV Telenovelas Clasicas
+https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVZombies.de" tvg-name="Pluto TV Zombies" group-title="Movies;Series" tvg-language="spa" tvg-quality="720p",Pluto TV Zombies
+https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
+
+#EXTINF:-1 tvg-id="RakutenViki.us" tvg-name="Rakuten Viki" group-title="Entertainment;Series" tvg-language="spa" tvg-quality="1080p",Rakuten Viki
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sintetasnohayparaiso.us" tvg-name="Sin tetas no hay paraiso" group-title="Series" tvg-language="spa" tvg-quality="576i",Sin tetas no hay paraiso
+https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
+
+#EXTINF:-1 tvg-id="StarChannel.cl" tvg-name="Star Channel" group-title="Movies;Series" tvg-language="spa" tvg-quality="720p",Star Channel
+http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="StarChannel.co" tvg-name="Star Channel" group-title="Movies;Series" tvg-language="spa" tvg-quality="1080p",Star Channel
+http://190.61.47.54:8000/play/a035/index.m3u8
+
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="1080p",Star Channel Latin America
+http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
+
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="1080i",Star Channel Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="480i",Star Channel Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="StarTrek.us" tvg-name="Star Trek" group-title="Series" tvg-language="spa" tvg-quality="720p",Star Trek
+https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
+
+#EXTINF:-1 tvg-id="StarTrekVoyager.de" tvg-name="Star Trek: Voyager" group-title="Movies;Series" tvg-language="spa" tvg-quality="720p",Star Trek: Voyager
+https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
+
+#EXTINF:-1 tvg-id="TheNewDetectives.us" tvg-name="The New Detectives" group-title="Series" tvg-language="spa" tvg-quality="720p",The New Detectives
+https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8
+
+#EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx" tvg-name="Tlnovelas Latin America" group-title="Series" tvg-language="spa" tvg-quality="1080p",Tlnovelas Latin America
+http://138.121.15.230:9002/TELENOVELAS/index.m3u8
+
+#EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx" tvg-name="Tlnovelas Latin America" group-title="Series" tvg-language="spa" tvg-quality="1080p",Tlnovelas Latin America
+http://209.14.115.253:8081/TELENOVELAS/index.m3u8
+
+#EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-name="Tlnovelas Mexico" group-title="Series" tvg-language="spa" tvg-quality="1080p",Tlnovelas Mexico
+http://167.249.23.102:8000/play/a0g8/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",TNT Novelas
+http://158.172.155.130:8000/play/a0at/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",TNT Novelas
+http://190.61.47.54:8000/play/a02f/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",TNT Novelas
+http://190.93.224.42/TNT-NOVELAS/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTNovelas.us" tvg-name="TNT Novelas" group-title="Series" tvg-language="spa" tvg-quality="576i",TNT Novelas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/tntnovelas.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TNTSeriesLatinAmerica.us" tvg-name="TNT Series Latin America" group-title="Series" tvg-language="spa" tvg-quality="1080p",TNT Series Latin America
+http://168.196.127.137:6001/play/a095/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSeriesLatinAmerica.us" tvg-name="TNT Series Latin America" group-title="Series" tvg-language="spa" tvg-quality="480i",TNT Series Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TNTseries.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TodoNovelas.es" tvg-name="Todo Novelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",Todo Novelas
+https://amg00711-zylo-amg00711c3-rakuten-es-5794.playouts.now.amagi.tv/playlist/amg00711-zylofast-frecuencianovelas-rakutenes/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TodoNovelas.es" tvg-name="Todo Novelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",Todo Novelas
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
+
+#EXTINF:-1 tvg-id="TVEStar.es" tvg-name="TVE Star" group-title="Series" tvg-language="spa" tvg-quality="1080p",TVE Star
+http://38.252.238.18:8000/play/a01h/index.m3u8
+
+#EXTINF:-1 tvg-id="TVEStar.es" tvg-name="TVE Star" group-title="Series" tvg-language="spa" tvg-quality="1080p",TVE Star
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
+
+#EXTINF:-1 tvg-id="TVEStar.es" tvg-name="TVE Star" group-title="Series" tvg-language="spa" tvg-quality="576p",TVE Star
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
+
+#EXTINF:-1 tvg-id="TVEStar.es" tvg-name="TVE Star" group-title="Series" tvg-language="spa" tvg-quality="1080p",TVE Star
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+
+#EXTINF:-1 tvg-id="UnivisionTlnovelas.us" tvg-name="Univision Tlnovelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",Univision Tlnovelas
+http://200.115.120.1:8000/play/ca110/index.m3u8
+
+#EXTINF:-1 tvg-id="UnivisionTlnovelas.us" tvg-name="Univision Tlnovelas" group-title="Series" tvg-language="spa" tvg-quality="1080p",Univision Tlnovelas
+http://45.6.4.35/TELENOVELAS/index.m3u8
+

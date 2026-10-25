@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind;jav" tvg-quality="720p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+

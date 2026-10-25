@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LTV7.lv" tvg-name="LTV7" group-title="Entertainment" tvg-language="lav" tvg-quality="576i",LTV7
+http://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv7_pasaule/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LTV7.lv" tvg-name="LTV7" group-title="Entertainment" tvg-language="lav" tvg-quality="1080p",LTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/371/index.m3u8
+
+#EXTINF:-1 tvg-id="LTV7.lv" tvg-name="LTV7" group-title="Entertainment" tvg-language="lav" tvg-quality="1080p",LTV7
+https://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv7_pasaule/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV3Life.lv" tvg-name="TV3 Life" group-title="Entertainment;Lifestyle" tvg-language="lav" tvg-quality="1080p",TV3 Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/373/index.m3u8
+

@@ -1,0 +1,86 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34" group-title="Movies" tvg-language="ita" tvg-quality="1080p",Cine34
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34" group-title="Movies" tvg-language="ita" tvg-quality="576i",Cine34
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAlbertoSordi.de" tvg-name="Pluto TV Alberto Sordi" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Alberto Sordi
+https://jmp2.uk/plu-661f8f01801af800083d9d81.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVChristmastuttolanno.de" tvg-name="Pluto TV Christmas tutto l'anno" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Christmas tutto l'anno
+https://jmp2.uk/plu-612e05b885183d0007958101.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCinemaItaliano.de" tvg-name="Pluto TV Cinema Italiano" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Cinema Italiano
+https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCinemaOrientale.de" tvg-name="Pluto TV Cinema Orientale" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Cinema Orientale
+https://jmp2.uk/plu-6786235bd648bf0008c2780a.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilm.de" tvg-name="Pluto TV Film" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Film
+https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmAncoraPiuRomantici.de" tvg-name="Pluto TV Film Ancora Piu Romantici" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Film Ancora Piu Romantici
+https://jmp2.uk/plu-699d87093d5dba980705cca8.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmAzione.de" tvg-name="Pluto TV Film Azione" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Film Azione
+https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmCommedia.de" tvg-name="Pluto TV Film Commedia" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Film Commedia
+https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmRomantici.de" tvg-name="Pluto TV Film Romantici" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Film Romantici
+https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmStorici.de" tvg-name="Pluto TV Film Storici" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Film Storici
+https://jmp2.uk/plu-68750875759366af05a151ce.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilmThriller.de" tvg-name="Pluto TV Film Thriller" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Film Thriller
+https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVLegamiLetali.de" tvg-name="Pluto TV Legami Letali" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Legami Letali
+https://jmp2.uk/plu-64808a8c536e0c0008a276d1.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNottidiPassione.de" tvg-name="Pluto TV Notti di Passione" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Notti di Passione
+https://jmp2.uk/plu-6911c9704316999535eb21cf.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNottidiSangue.de" tvg-name="Pluto TV Notti di Sangue" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Notti di Sangue
+https://jmp2.uk/plu-6911c92b4316999535eb1e08.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNottidiTerrore.de" tvg-name="Pluto TV Notti di Terrore" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Notti di Terrore
+https://jmp2.uk/plu-6911c8dd8caba6f046c5c5d5.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSerieSciFi.de" tvg-name="Pluto TV Serie Sci-Fi" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Serie Sci-Fi
+https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVToto.de" tvg-name="Pluto TV Toto" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Toto
+https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVWestern.de" tvg-name="Pluto TV Western" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Western
+https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8
+
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" group-title="Movies" tvg-language="ita" tvg-quality="1080p",Rai Movie
+http://team-tv.co:81/raimovie/index.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es" tvg-name="Rakuten TV Action Movies" group-title="Movies" tvg-language="ita" tvg-quality="1080p",Rakuten TV Action Movies
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es" tvg-name="Rakuten TV Comedy Movies" group-title="Movies" tvg-language="ita" tvg-quality="1080p",Rakuten TV Comedy Movies
+https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es" tvg-name="Rakuten TV Drama Movies" group-title="Movies" tvg-language="ita" tvg-quality="1080p",Rakuten TV Drama Movies
+https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-name="Rakuten TV Family Movies" group-title="Family;Movies" tvg-language="ita" tvg-quality="1080p",Rakuten TV Family Movies
+https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.es" tvg-name="Rakuten TV Top Movies" group-title="Movies" tvg-language="ita" tvg-quality="1080p",Rakuten TV Top Movies
+https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
+
+#EXTINF:-1 tvg-id="StarTrekVoyager.de" tvg-name="Star Trek: Voyager" group-title="Movies;Series" tvg-language="ita" tvg-quality="720p",Star Trek: Voyager
+https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
+
+#EXTINF:-1 tvg-id="Twentyseven.it" tvg-name="Twentyseven" group-title="Movies;Series" tvg-language="ita" tvg-quality="1080p",Twentyseven
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
+

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CanalPlusActionEurope.nl" tvg-name="Canal+ Action Europe" group-title="Movies" tvg-language="dut" tvg-quality="360p",Canal+ Action Europe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://lb.iptvnetwork.net/ls28/10020/playlist.m3u8
+

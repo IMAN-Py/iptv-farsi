@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ClassCNBC.it" tvg-name="Class CNBC" group-title="Business" tvg-language="ita" tvg-quality="1080p",Class CNBC
+https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ClassCNBC.it" tvg-name="Class CNBC" group-title="Business" tvg-language="ita" tvg-quality="1080p",Class CNBC
+https://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnROg
+

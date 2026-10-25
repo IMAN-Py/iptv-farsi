@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTNBTV.bi" tvg-name="RTNB TV" group-title="General" tvg-language="eng;fra;run;swa" tvg-quality="576i",RTNB TV
+https://tv1-stream.rtnb.bi/hls/master.m3u8
+

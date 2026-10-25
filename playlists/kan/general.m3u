@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DDChandana.in" tvg-name="DD Chandana" group-title="General" tvg-language="kan" tvg-quality="576i",DD Chandana
+https://cdn.pishow.tv/ott/live/28/master.m3u8
+
+#EXTINF:-1 tvg-id="DDChandana.in" tvg-name="DD Chandana" group-title="General" tvg-language="kan" tvg-quality="504p",DD Chandana
+https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8
+
+#EXTINF:-1 tvg-id="NKRTVKannada.in" tvg-name="NKR TV Kannada" group-title="General" tvg-language="kan" tvg-quality="576p",NKR TV Kannada
+https://mumt05.tangotv.in/87NeALx2NKRTV/index.m3u8
+
+#EXTINF:-1 tvg-id="NKRTVKannada.in" tvg-name="NKR TV Kannada" group-title="General" tvg-language="kan" tvg-quality="1080p",NKR TV Kannada
+https://stream.ottlive.co.in/nkrtv/index.m3u8
+

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AsiaTV.lk" tvg-name="Asia TV" group-title="Entertainment;Family;General" tvg-language="eng;sin;tam" tvg-quality="720p",Asia TV
+https://stream.asiatvnet.com/1/live/master.m3u8
+

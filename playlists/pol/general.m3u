@@ -1,0 +1,58 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BTB.pl" tvg-name="BTB" group-title="General" tvg-language="pol" tvg-quality="1080p",BTB
+https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8
+
+#EXTINF:-1 tvg-id="BTB2.pl" tvg-name="BTB 2" group-title="General" tvg-language="pol" tvg-quality="1080p",BTB 2
+https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8
+
+#EXTINF:-1 tvg-id="BTB3.pl" tvg-name="BTB 3" group-title="General" tvg-language="pol" tvg-quality="1080p",BTB 3
+https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8
+
+#EXTINF:-1 tvg-id="DrGMedicalExaminer.pl" tvg-name="Dr G Medical Examiner" group-title="General" tvg-language="pol" tvg-quality="720p",Dr G Medical Examiner
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008
+
+#EXTINF:-1 tvg-id="Echo24.pl" tvg-name="Echo24" group-title="General" tvg-language="pol" tvg-quality="720p",Echo24
+https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8
+
+#EXTINF:-1 tvg-id="FokusTV.pl" tvg-name="Fokus TV" group-title="General" tvg-language="pol" tvg-quality="576i",Fokus TV
+http://92.114.85.87:8018/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="NewTV.pl" tvg-name="NewTV" group-title="General" tvg-language="pol" tvg-quality="1080p",NewTV
+https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="NewTV.pl" tvg-name="NewTV" group-title="General" tvg-language="pol" tvg-quality="1080p",NewTV
+https://1409502578.rsc.cdn77.org/live/stream-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NowaTV.pl" tvg-name="Nowa TV" group-title="General" tvg-language="pol" tvg-quality="1080p",Nowa TV
+http://92.114.85.87:8001/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat" group-title="General" tvg-language="pol" tvg-quality="1080p",Polsat
+https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
+
+#EXTINF:-1 tvg-id="Polsat2.pl" tvg-name="Polsat 2" group-title="General" tvg-language="pol" tvg-quality="1080p",Polsat 2
+http://57.128.210.196:8080/208/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperPolsat.pl" tvg-name="Super Polsat" group-title="General" tvg-language="pol" tvg-quality="576i",Super Polsat
+http://92.114.85.87:8004/play/a00c/index.m3u8
+
+#EXTINF:-1 tvg-id="SzlagierTV.pl" tvg-name="Szlagier TV" group-title="General" tvg-language="pol" tvg-quality="576i",Szlagier TV
+http://92.114.85.87:8010/play/a00l/index.m3u8
+
+#EXTINF:-1 tvg-id="TelewizjaJaslo.pl" tvg-name="Telewizja Jaslo" group-title="General" tvg-language="pol" tvg-quality="720p",Telewizja Jaslo
+https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelewizjaLuban.pl" tvg-name="Telewizja Luban" group-title="General" tvg-language="pol" tvg-quality="720p",Telewizja Luban
+http://stream.herissons.cloud/hls/tvluban.m3u8
+
+#EXTINF:-1 tvg-id="TelewizjaRegionalnaZary.pl" tvg-name="Telewizja Regionalna Zary" group-title="General" tvg-language="pol" tvg-quality="576i",Telewizja Regionalna Zary
+https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8
+
+#EXTINF:-1 tvg-id="TelewizjaRelax.pl" tvg-name="Telewizja Relax" group-title="General" tvg-language="pol" tvg-quality="1080p",Telewizja Relax
+https://srv1.streamingo.pl/memfs/be50f17e-6579-4bdf-86b1-31207aec85b8.m3u8
+
+#EXTINF:-1 tvg-id="TVASTA.pl" tvg-name="TV ASTA" group-title="General" tvg-language="pol" tvg-quality="720p",TV ASTA
+https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVKStella.pl" tvg-name="TVK Stella" group-title="General;News" tvg-language="pol" tvg-quality="576p",TVK Stella
+https://stream.tvkstella.pl/stella/stella.m3u8
+

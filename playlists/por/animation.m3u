@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="por" tvg-quality="720p",Cartoon Network Latin America
+http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="por" tvg-quality="720p",Cartoon Network Latin America
+http://45.162.64.114/CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentralSouthPark.us" tvg-name="Comedy Central South Park" group-title="Animation;Comedy" tvg-language="por" tvg-quality="720p",Comedy Central South Park
+https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
+http://138.59.227.20:8000/play/a06w/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
+http://15.204.246.24:8080/DisneyHD/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
+http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="720p",Disney Channel Latin America
+http://190.14.10.19:16000/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="720p",Disney Channel Latin America
+http://45.166.93.156:9999/play/a0f3/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
+http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
+http://45.185.163.75:8000/play/a02j/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
+http://45.70.201.81:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
+https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8
+
+#EXTINF:-1 tvg-id="Geekdot.br" tvg-name="Geekdot" group-title="Animation" tvg-language="por" tvg-quality="720p",Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-name="Kuriakos Kids" group-title="Animation;Kids;Religious" tvg-language="por" tvg-quality="1080p",Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Naruto.us" tvg-name="Naruto" group-title="Animation" tvg-language="por" tvg-quality="480i",Naruto
+https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
+
+#EXTINF:-1 tvg-id="NickOnline.br" tvg-name="NickOnline" group-title="Animation;Kids" tvg-language="por" tvg-quality="720p",NickOnline
+https://x1colegal.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="NickOnlineBobEsponja.br" tvg-name="NickOnline Bob Esponja" group-title="Animation;Kids" tvg-language="por" tvg-quality="720p",NickOnline Bob Esponja
+https://bob.x1colegal.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAnime.us" tvg-name="Pluto TV Anime" group-title="Animation" tvg-language="por" tvg-quality="720p",Pluto TV Anime
+https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAnimeAcao.us" tvg-name="Pluto TV Anime Acao" group-title="Animation" tvg-language="por" tvg-quality="720p",Pluto TV Anime Acao
+https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkColecaoCartman.us" tvg-name="South Park: Colecao Cartman" group-title="Animation;Comedy" tvg-language="por" tvg-quality="720p",South Park: Colecao Cartman
+https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkColecaoKenny.us" tvg-name="South Park: Colecao Kenny" group-title="Animation;Comedy" tvg-language="por" tvg-quality="720p",South Park: Colecao Kenny
+https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkColecaoKyle.us" tvg-name="South Park: Colecao Kyle" group-title="Animation;Comedy" tvg-language="por" tvg-quality="720p",South Park: Colecao Kyle
+https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkColecaoStan.us" tvg-name="South Park: Colecao Stan" group-title="Animation;Comedy" tvg-language="por" tvg-quality="720p",South Park: Colecao Stan
+https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
+
+#EXTINF:-1 tvg-id="Tokusato.us" tvg-name="Tokusato" group-title="Animation" tvg-language="por" tvg-quality="480i",Tokusato
+https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
+
+#EXTINF:-1 tvg-id="Tokusato.us" tvg-name="Tokusato" group-title="Animation" tvg-language="por" tvg-quality="480i",Tokusato
+https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="1080p",Tooncast
+http://38.134.250.110:8000/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="720p",Tooncast
+https://streaming.onnethn.com/TOONCAST/playlist.m3u8
+

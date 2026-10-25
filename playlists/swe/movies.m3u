@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MerryChristmasfromViafree.se" tvg-name="Merry Christmas from Viafree" group-title="Movies" tvg-language="eng;swe" tvg-quality="720p",Merry Christmas from Viafree
+https://jmp2.uk/plu-6304854ac6073d0007259fe1.m3u8
+
+#EXTINF:-1 tvg-id="NonStopKungFu.se" tvg-name="NonStop Kung Fu" group-title="Movies" tvg-language="eng;swe" tvg-quality="720p",NonStop Kung Fu
+https://jmp2.uk/plu-6728d33f030a2c0008edf4be.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAction.se" tvg-name="Pluto TV Action" group-title="Movies;Series" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Action
+https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVBudTerence.se" tvg-name="Pluto TV Bud & Terence" group-title="Movies" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Bud & Terence
+https://jmp2.uk/plu-65b917720d9ab4000833f323.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFilm.se" tvg-name="Pluto TV Film" group-title="Movies" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Film
+https://jmp2.uk/plu-61c0afa0a09bbe00078f8378.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVHarlequin.se" tvg-name="Pluto TV Harlequin" group-title="Movies" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Harlequin
+https://jmp2.uk/plu-68c01bed508ba507f0d0dd60.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVHorror.se" tvg-name="Pluto TV Horror" group-title="Movies;Series" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Horror
+https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVJohnWayne.se" tvg-name="Pluto TV John Wayne" group-title="Movies" tvg-language="eng;swe" tvg-quality="720p",Pluto TV John Wayne
+https://jmp2.uk/plu-655caaaac0fc8800086f5d99.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKomedi.se" tvg-name="Pluto TV Komedi" group-title="Comedy;Movies" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Komedi
+https://jmp2.uk/plu-61c0b36d18447e000717d686.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKultfilmer.se" tvg-name="Pluto TV Kultfilmer" group-title="Movies" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Kultfilmer
+https://jmp2.uk/plu-63dbe8c8a9957100087798a3.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVParanormal.se" tvg-name="Pluto TV Paranormal" group-title="Movies" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Paranormal
+https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVRomantik.se" tvg-name="Pluto TV Romantik" group-title="Movies" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Romantik
+https://jmp2.uk/plu-63a19da6847a090007f230da.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSciFi.se" tvg-name="Pluto TV Sci-Fi" group-title="Movies;Series" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Sci-Fi
+https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVWildWest.se" tvg-name="Pluto TV Wild West" group-title="Movies;Series" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Wild West
+https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8
+
+#EXTINF:-1 tvg-id="StarTrekMovies.se" tvg-name="Star Trek Movies" group-title="Movies" tvg-language="eng;swe" tvg-quality="720p",Star Trek Movies
+https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8
+
+#EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.se" tvg-name="Star Trek: The Original Series" group-title="Movies;Series" tvg-language="eng;swe" tvg-quality="720p",Star Trek: The Original Series
+https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8
+
+#EXTINF:-1 tvg-id="TheTwilightZone.se" tvg-name="The Twilight Zone" group-title="Movies;Series" tvg-language="eng;swe" tvg-quality="720p",The Twilight Zone
+https://jmp2.uk/plu-6512d6c92ce8e40008bd5c81.m3u8
+
+#EXTINF:-1 tvg-id="ViafreeMovies.se" tvg-name="Viafree Movies" group-title="Movies" tvg-language="eng;swe" tvg-quality="720p",Viafree Movies
+https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
+

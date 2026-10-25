@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EPlanetTV.ir" tvg-name="EPlanet TV" group-title="Documentary" tvg-language="fas" tvg-quality="720p",EPlanet TV
+https://eplhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="GEMNature.tr" tvg-name="GEM Nature" group-title="Documentary" tvg-language="fas" tvg-quality="480i",GEM Nature
+https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="PersianaDocs.fr" tvg-name="Persiana Docs" group-title="Documentary" tvg-language="fas" tvg-quality="720p",Persiana Docs
+https://scihls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PersianaTravel.fr" tvg-name="Persiana Travel" group-title="Documentary" tvg-language="fas" tvg-quality="720p",Persiana Travel
+https://mardomhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PersianaTravel.fr" tvg-name="Persiana Travel" group-title="Documentary" tvg-language="fas" tvg-quality="720p",Persiana Travel
+https://ptravelhls.persiana.live/hls/stream.m3u8
+

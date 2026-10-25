@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ShiftTV.hr" tvg-name="Shift TV" group-title="Auto" tvg-language="hrv" tvg-quality="1080p",Shift TV
+https://hls.shift.tv/live/shifttv/playlist.m3u8
+

@@ -1,0 +1,209 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AnimalPlanet.cz" tvg-name="Animal Planet" group-title="Uncategorized" tvg-language="ces" tvg-quality="576i",Animal Planet
+http://88.212.15.17/live/test_animal_planet_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport1.sk" tvg-name="Arena Sport 1" group-title="Sports" tvg-language="ces;slk" tvg-quality="576i",Arena Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.212.15.17/live/test_arenasport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AXNCEE.es" tvg-name="AXN CEE" group-title="Movies" tvg-language="ces" tvg-quality="576i",AXN CEE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.212.15.17/live/test_axn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Animation;Kids" tvg-language="ces" tvg-quality="576i",Cartoon Network CEE
+http://88.212.15.17/live/test_cartoon_network_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-name="Cartoonito CEE" group-title="Kids" tvg-language="ces" tvg-quality="576i",Cartoonito CEE
+http://88.212.15.17/live/test_boomerang_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.cz" tvg-name="Cinemax" group-title="Movies" tvg-language="ces" tvg-quality="576i",Cinemax
+http://88.212.15.17/live/test_cinemax_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax2.cz" tvg-name="Cinemax 2" group-title="Movies" tvg-language="ces" tvg-quality="576i",Cinemax 2
+http://88.212.15.17/live/test_cinemax2_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CT1.cz" tvg-name="CT1" group-title="General" tvg-language="ces" tvg-quality="576i",CT1
+http://88.212.15.17/live/test_ct1_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CT2.cz" tvg-name="CT2" group-title="Documentary" tvg-language="ces" tvg-quality="576i",CT2
+http://88.212.15.17/live/test_ct2_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CT24.cz" tvg-name="CT24" group-title="News" tvg-language="ces" tvg-quality="576i",CT24
+https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.cz" tvg-name="Discovery Channel" group-title="Uncategorized" tvg-language="ces" tvg-quality="576i",Discovery Channel
+http://88.212.15.17/live/test_discovery_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.cz" tvg-name="Disney Channel" group-title="Kids" tvg-language="ces" tvg-quality="576i",Disney Channel
+http://88.212.15.17/live/test_disney/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.hu" tvg-name="Disney Channel" group-title="Kids" tvg-language="ces;hun" tvg-quality="576i",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/disney_channel_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.cz" tvg-name="Disney Junior" group-title="Kids" tvg-language="ces" tvg-quality="576i",Disney Junior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_disney_junior/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmPlus.cz" tvg-name="Film+" group-title="Movies" tvg-language="ces" tvg-quality="576i",Film+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_film_plus_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork.cz" tvg-name="Food Network" group-title="Uncategorized" tvg-language="ces" tvg-quality="576i",Food Network
+http://88.212.15.17/live/test_food_network_atk_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GolfChannel.cz" tvg-name="Golf Channel" group-title="Sports" tvg-language="ces" tvg-quality="576i",Golf Channel
+https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO.cz" tvg-name="HBO" group-title="Movies" tvg-language="ces" tvg-quality="576i",HBO
+http://88.212.15.17/live/test_hbo_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO2.cz" tvg-name="HBO 2" group-title="Movies" tvg-language="ces" tvg-quality="576i",HBO 2
+http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO3.cz" tvg-name="HBO 3" group-title="Movies" tvg-language="ces" tvg-quality="576i",HBO 3
+http://88.212.15.17/live/test_hbo3_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HGTV.cz" tvg-name="HGTV" group-title="Uncategorized" tvg-language="ces" tvg-quality="576i",HGTV
+http://88.212.15.17/live/test_hgtv_hevc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="History.cz" tvg-name="History" group-title="Documentary" tvg-language="ces" tvg-quality="576i",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.212.15.17/live/test_history/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.cz" tvg-name="Investigation Discovery" group-title="Uncategorized" tvg-language="ces" tvg-quality="576i",Investigation Discovery
+http://88.212.15.17/live/test_id_hevc_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.hu" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="ces;eng;hun" tvg-quality="576i",Investigation Discovery
+http://88.212.15.17/live/id_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" group-title="Kids" tvg-language="ces;eng;heb;por;slk" tvg-quality="576p",JimJam Europe
+http://158.160.149.81:8080/269/index.m3u8
+
+#EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" group-title="Kids" tvg-language="ces;eng;heb;por;slk" tvg-quality="576p",JimJam Europe
+http://stream.mcquack.net/150/index.m3u8
+
+#EXTINF:-1 tvg-id="KinoBarrandov.cz" tvg-name="Kino Barrandov" group-title="Movies" tvg-language="ces" tvg-quality="576i",Kino Barrandov
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.cz" tvg-name="National Geographic" group-title="Documentary" tvg-language="ces" tvg-quality="576i",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_ngc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="ces" tvg-quality="576i",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_ngw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.cz" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ces" tvg-quality="576i",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_nickelodeon_hevc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.cz" tvg-name="Nicktoons" group-title="Kids" tvg-language="ces;hun" tvg-quality="576i",Nicktoons
+http://88.212.15.17/live/test_nicktoons/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ocko.cz" tvg-name="Ocko" group-title="Music" tvg-language="ces" tvg-quality="540p",Ocko
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ocko.cz" tvg-name="Ocko" group-title="Music" tvg-language="ces" tvg-quality="540p",Ocko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OckoBlack.cz" tvg-name="Ocko Black" group-title="Music" tvg-language="ces" tvg-quality="576i",Ocko Black
+https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OckoExpres.cz" tvg-name="Ocko Expres" group-title="Music" tvg-language="ces" tvg-quality="540p",Ocko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OckoGold.cz" tvg-name="Ocko Gold" group-title="Music" tvg-language="ces" tvg-quality="540p",Ocko Gold
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OckoGold.cz" tvg-name="Ocko Gold" group-title="Music" tvg-language="ces" tvg-quality="540p",Ocko Gold
+https://ocko-live.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OckoStar.cz" tvg-name="Ocko Star" group-title="Music" tvg-language="ces" tvg-quality="576i",Ocko Star
+https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PolarTV.cz" tvg-name="Polar TV" group-title="General" tvg-language="ces" tvg-quality="576i",Polar TV
+https://dash4.antik.sk/live/test_polar_tv_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrimaCool.cz" tvg-name="Prima Cool" group-title="Uncategorized" tvg-language="ces" tvg-quality="576i",Prima Cool
+http://88.212.15.17/live/prima_cool_cz_avc/index.m3u8
+
+#EXTINF:-1 tvg-id="PrimaKrimi.cz" tvg-name="Prima Krimi" group-title="Uncategorized" tvg-language="ces" tvg-quality="576i",Prima Krimi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_prima_krimi_cz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrimaLove.cz" tvg-name="Prima Love" group-title="Uncategorized" tvg-language="ces" tvg-quality="576i",Prima Love
+http://88.212.15.17/live/prima_love_cz_avc/index.m3u8
+
+#EXTINF:-1 tvg-id="PrimaMax.cz" tvg-name="Prima Max" group-title="Uncategorized" tvg-language="ces" tvg-quality="576i",Prima Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_prima_max_cz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-name="Retro Music TV" group-title="Music" tvg-language="ces" tvg-quality="360p",Retro Music TV
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-name="Retro Music TV" group-title="Music" tvg-language="ces" tvg-quality="360p",Retro Music TV
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-name="Retro Music TV" group-title="Music" tvg-language="ces" tvg-quality="360p",Retro Music TV
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SlagerMuzika.cz" tvg-name="Slager Muzika" group-title="Music" tvg-language="ces" tvg-quality="576i",Slager Muzika
+https://stream-23.mazana.tv/slagrmuzika.m3u8s
+
+#EXTINF:-1 tvg-id="SlagerOriginal.cz" tvg-name="Slager Original" group-title="Music" tvg-language="ces" tvg-quality="576i",Slager Original
+https://stream-13.mazana.tv/slagroriginal.m3u8s
+
+#EXTINF:-1 tvg-id="Spektrum.cz" tvg-name="Spektrum" group-title="Documentary" tvg-language="ces;slk" tvg-quality="576i",Spektrum
+http://88.212.15.17/live/test_spektrum/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SpektrumHome.cz" tvg-name="Spektrum Home" group-title="Entertainment" tvg-language="ces;slk" tvg-quality="576i",Spektrum Home
+http://88.212.15.17/live/test_home_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sport1.cz" tvg-name="Sport1" group-title="Sports" tvg-language="ces;slk" tvg-quality="576i",Sport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_sport1_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sport2.cz" tvg-name="Sport2" group-title="Sports" tvg-language="ces;slk" tvg-quality="576i",Sport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_sport_2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SportyTV.cz" tvg-name="Sporty TV" group-title="Sports" tvg-language="ces" tvg-quality="576i",Sporty TV
+https://dash2.antik.sk/live/sporty_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" group-title="Outdoor" tvg-language="bul;ces;hun;ron" tvg-quality="576i",The Fishing & Hunting Channel
+http://88.212.15.17/live/test_fishing_hunting/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TLC.cz" tvg-name="TLC" group-title="Uncategorized" tvg-language="ces" tvg-quality="576i",TLC
+http://88.212.15.17/live/test_tlc_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TravelChannel.cz" tvg-name="Travel Channel" group-title="Uncategorized" tvg-language="ces" tvg-quality="576i",Travel Channel
+http://88.212.15.17/live/test_travel_channel_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBarrandov.cz" tvg-name="TV Barrandov" group-title="Uncategorized" tvg-language="ces" tvg-quality="576i",TV Barrandov
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_barrandov/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPaprika.cz" tvg-name="TV Paprika" group-title="Lifestyle;Travel" tvg-language="ces" tvg-quality="576i",TV Paprika
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_parpika_tv_sd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UpNetwork.cz" tvg-name="Up Network" group-title="Uncategorized" tvg-language="ces" tvg-quality="576i",Up Network
+https://dash.antik.sk/live/test_upnetwork/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ViasatExplore.cz" tvg-name="Viasat Explore" group-title="Documentary" tvg-language="ces" tvg-quality="576i",Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_viasat_explore_atk_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ViasatHistory.cz" tvg-name="Viasat History" group-title="Documentary" tvg-language="ces" tvg-quality="576i",Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_viasat_history_atk_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ViasatNature.cz" tvg-name="Viasat Nature" group-title="Documentary" tvg-language="ces" tvg-quality="576i",Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_viasat_nature_atk_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WarnerTV.cz" tvg-name="Warner TV" group-title="Movies" tvg-language="ces" tvg-quality="576i",Warner TV
+http://88.212.15.17/live/warner_tv/index.m3u8
+

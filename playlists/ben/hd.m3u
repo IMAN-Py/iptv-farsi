@@ -1,0 +1,245 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AamarBangla.in" tvg-name="Aamar Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Aamar Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABPAnanda.in" tvg-name="ABP Ananda" group-title="News" tvg-language="ben" tvg-quality="1080p",ABP Ananda
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
+
+#EXTINF:-1 tvg-id="AKDCalcuttaNews.in" tvg-name="AKD Calcutta News" group-title="News" tvg-language="ben" tvg-quality="1080p",AKD Calcutta News
+https://live.legitpro.co.in/cnnnews/index.m3u8
+
+#EXTINF:-1 tvg-id="AnandaBarta.in" tvg-name="Ananda Barta" group-title="News" tvg-language="ben" tvg-quality="720p",Ananda Barta
+https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
+
+#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla" group-title="General" tvg-language="ben" tvg-quality="720p",ATN Bangla
+http://tvsen5.aynascope.net/atnbangla/index.m3u8
+
+#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla" group-title="General" tvg-language="ben" tvg-quality="720p",ATN Bangla
+https://tvsen5.aynaott.com/atnbangla/index.m3u8
+
+#EXTINF:-1 tvg-id="BanglaJago.in" tvg-name="Bangla Jago" group-title="News" tvg-language="ben" tvg-quality="720p",Bangla Jago
+https://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8
+
+#EXTINF:-1 tvg-id="BanglaVision.bd" tvg-name="Bangla Vision" group-title="General" tvg-language="ben" tvg-quality="720p",Bangla Vision
+https://tvsen5.aynaott.com/banglavision/index.m3u8
+
+#EXTINF:-1 tvg-id="BHIChannel.in" tvg-name="BHI Channel" group-title="News" tvg-language="ben" tvg-quality="720p",BHI Channel
+https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8
+
+#EXTINF:-1 tvg-id="CineJomjomat.in" tvg-name="Cine Jomjomat" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Cine Jomjomat
+https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Colors Bangla
+http://103.151.60.162:2122/play/a02o/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Colors Bangla
+http://103.165.93.31:8095/colorsBangla/index.m3u8
+
+#EXTINF:-1 tvg-id="CTVNAKDPlus.in" tvg-name="CTVN AKD Plus" group-title="News" tvg-language="ben" tvg-quality="1080p",CTVN AKD Plus
+https://live.legitpro.co.in/ctvnakdplus/index.m3u8
+
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="ben;bho;eng;hin;kan;sgn;tam;tel" tvg-quality="1080p",DD Sports
+https://cdn.pishow.tv/ott/live/1161/master.m3u8
+
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="ben;bho;eng;hin;kan;sgn;tam;tel" tvg-quality="720p",DD Sports
+https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
+
+#EXTINF:-1 tvg-id="DeshiTV.ca" tvg-name="Deshi TV" group-title="General" tvg-language="ben" tvg-quality="720p",Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DhoomMusic.in" tvg-name="Dhoom Music" group-title="Music" tvg-language="ben" tvg-quality="720p",Dhoom Music
+https://cdn.pishow.tv/ott/live/1456/master.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="720p",Discovery Channel
+https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="720p",Discovery Channel
+https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="DurontoTV.bd" tvg-name="Duronto TV" group-title="Kids" tvg-language="ben" tvg-quality="720p",Duronto TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://box.bbaria.net/DurontoTV/index.m3u8
+
+#EXTINF:-1 tvg-id="DurontoTV.bd" tvg-name="Duronto TV" group-title="Kids" tvg-language="ben" tvg-quality="720p",Duronto TV
+https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+
+#EXTINF:-1 tvg-id="EkhonTV.bd" tvg-name="Ekhon TV" group-title="Business" tvg-language="ben" tvg-quality="1080p",Ekhon TV
+https://tplay.live/out/bangladesh/ekhontv.index.m3u8
+
+#EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Enterr 10 Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Enterr 10 Bangla
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Enterr 10 Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Enterr 10 Bangla
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FriendsTV.in" tvg-name="Friends TV" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Friends TV
+https://server.playontv.in/friendstv/index.m3u8
+
+#EXTINF:-1 tvg-id="GaziTV.bd" tvg-name="Gazi TV" group-title="General" tvg-language="ben" tvg-quality="1080p",Gazi TV
+http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
+
+#EXTINF:-1 tvg-id="GlobeTV.in" tvg-name="Globe TV" group-title="News" tvg-language="ben" tvg-quality="720p",Globe TV
+https://mumbai-edge.smartplaytv.in/GlobeTV/index.m3u8
+
+#EXTINF:-1 tvg-id="GreenTV.bd" tvg-name="Green TV" group-title="Family" tvg-language="ben" tvg-quality="1080p",Green TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HeadlinesTripura.in" tvg-name="Headlines Tripura" group-title="News" tvg-language="ben" tvg-quality="720p",Headlines Tripura
+https://distro.ottlive.co.in/headlinestripura/headlinestripura/index.m3u8
+
+#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies" group-title="Movies" tvg-language="ben" tvg-quality="1080p",Jalsha Movies
+http://103.151.60.162:2122/play/a00x/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies" group-title="Movies" tvg-language="ben" tvg-quality="1080p",Jalsha Movies
+http://103.185.24.134:3001/JALSHA-MOVIES-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="JonmoBhumiTV.au" tvg-name="JonmoBhumi TV" group-title="General" tvg-language="ben" tvg-quality="720p",JonmoBhumi TV
+https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KhushbooBangla.in" tvg-name="Khushboo Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Khushboo Bangla
+https://cdn.pishow.tv/ott/live/1473/master.m3u8
+
+#EXTINF:-1 tvg-id="KolkataTV.in" tvg-name="Kolkata TV" group-title="News" tvg-language="ben" tvg-quality="1080p",Kolkata TV
+https://cdn.ottlive.co.in/kolkatatv/index.m3u8
+
+#EXTINF:-1 tvg-id="KTVBangla.in" tvg-name="KTV Bangla" group-title="General" tvg-language="ben;sat" tvg-quality="720p",KTV Bangla
+https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
+
+#EXTINF:-1 tvg-id="MaasrangaTV.bd" tvg-name="Maasranga TV" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Maasranga TV
+http://tvsen5.aynascope.net/maasrangatv/index.m3u8
+
+#EXTINF:-1 tvg-id="MaasrangaTV.bd" tvg-name="Maasranga TV" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Maasranga TV
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+
+#EXTINF:-1 tvg-id="MadaniChannelBangla.bd" tvg-name="Madani Channel Bangla" group-title="Religious" tvg-language="ben" tvg-quality="1080p",Madani Channel Bangla
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+
+#EXTINF:-1 tvg-id="MatribhumiTV.bd" tvg-name="Matribhumi TV" group-title="Uncategorized" tvg-language="ben" tvg-quality="720p",Matribhumi TV
+http://live.playmax.live/matribhumi/index.m3u8
+
+#EXTINF:-1 tvg-id="MTA1World.uk" tvg-name="MTA1 World" group-title="Religious" tvg-language="ara;ben;deu;eng;fra;urd" tvg-quality="720p",MTA1 World
+https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA2Europe.uk" tvg-name="MTA2 Europe" group-title="Religious" tvg-language="ara;ben;deu;eng;fra;hin;urd" tvg-quality="720p",MTA2 Europe
+https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA6Asia.uk" tvg-name="MTA6 Asia" group-title="Religious" tvg-language="ara;ben;eng;ind;tam;urd" tvg-quality="1080p",MTA6 Asia
+https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA7Asia.uk" tvg-name="MTA7 Asia" group-title="Religious" tvg-language="ara;ben;eng;hin;mal;tam;urd" tvg-quality="1080p",MTA7 Asia
+https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News18Bangla.in" tvg-name="News18 Bangla" group-title="News" tvg-language="ben" tvg-quality="1080p",News18 Bangla
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="NKTVBangla.in" tvg-name="NK TV Bangla" group-title="News" tvg-language="ben" tvg-quality="1080p",NK TV Bangla
+https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTV.bd" tvg-name="NTV" group-title="General" tvg-language="ben" tvg-quality="720p",NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+
+#EXTINF:-1 tvg-id="OrangeBanglaTV.in" tvg-name="Orange Bangla TV" group-title="Music" tvg-language="ben" tvg-quality="720p",Orange Bangla TV
+https://cdn.pishow.tv/ott/live/1499/master.m3u8
+
+#EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-name="Peace TV Bangla" group-title="Religious" tvg-language="ben" tvg-quality="1080p",Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+
+#EXTINF:-1 tvg-id="ProbashiTVNews.ca" tvg-name="Probashi TV News" group-title="News" tvg-language="ben" tvg-quality="1080p",Probashi TV News
+http://158.69.24.53:8080/probashi_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="RPlus.in" tvg-name="R Plus" group-title="Uncategorized" tvg-language="ben" tvg-quality="768p",R Plus
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+
+#EXTINF:-1 tvg-id="RPlusGold.in" tvg-name="R Plus Gold" group-title="Uncategorized" tvg-language="ben" tvg-quality="720p",R Plus Gold
+https://cdn.pishow.tv/ott/live/1231/master.m3u8
+
+#EXTINF:-1 tvg-id="RaatdinBangla.in" tvg-name="Raatdin Bangla" group-title="News" tvg-language="ben" tvg-quality="720p",Raatdin Bangla
+https://server.playontv.in/raatdinbangla/index.m3u8
+
+#EXTINF:-1 tvg-id="RajdhaniTV.bd" tvg-name="Rajdhani TV" group-title="General" tvg-language="ben" tvg-quality="1080p",Rajdhani TV
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+
+#EXTINF:-1 tvg-id="RTV.bd" tvg-name="RTV" group-title="General" tvg-language="ben" tvg-quality="720p",RTV
+http://tvsen5.aynascope.net/RtvHD/index.m3u8
+
+#EXTINF:-1 tvg-id="RTV.bd" tvg-name="RTV" group-title="General" tvg-language="ben" tvg-quality="720p",RTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="RTV.bd" tvg-name="RTV" group-title="General" tvg-language="ben" tvg-quality="720p",RTV
+https://tvsen5.aynaott.com/RtvHD/index.m3u8
+
+#EXTINF:-1 tvg-id="RupashiBanglaTV.bd" tvg-name="Rupashi Bangla TV" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Rupashi Bangla TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RupasiBangla.in" tvg-name="Rupasi Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Rupasi Bangla
+https://cdn.pishow.tv/ott/live/1039/master.m3u8
+
+#EXTINF:-1 tvg-id="SamayKolkata.in" tvg-name="Samay Kolkata" group-title="News" tvg-language="ben" tvg-quality="720p",Samay Kolkata
+https://mumbai-edge.smartplaytv.in/SamayKolkata/index.m3u8
+
+#EXTINF:-1 tvg-id="SamayKolkata.in" tvg-name="Samay Kolkata" group-title="News" tvg-language="ben" tvg-quality="1080p",Samay Kolkata
+https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
+
+#EXTINF:-1 tvg-id="SangeetBangla.in" tvg-name="Sangeet Bangla" group-title="Music" tvg-language="ben" tvg-quality="720p",Sangeet Bangla
+https://cdn.pishow.tv/ott/live/1143/master.m3u8
+
+#EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Star Jalsha
+http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV
+
+#EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Star Jalsha
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="Star Sports Select 1" group-title="Sports" tvg-language="ben;eng;hin;mal" tvg-quality="1080p",Star Sports Select 1
+http://103.151.60.162:2122/play/a026/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="TSports.bd" tvg-name="T Sports" group-title="Sports" tvg-language="ben" tvg-quality="1080p",T Sports
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+
+#EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" group-title="Travel" tvg-language="ben;eng;hin;tam" tvg-quality="1080p",Travelxp
+http://103.151.60.162:2122/play/a01s/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" group-title="Travel" tvg-language="ben;eng;hin;tam" tvg-quality="1080p",Travelxp
+https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" group-title="Travel" tvg-language="ben;eng;hin;tam" tvg-quality="2160p",Travelxp
+https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
+
+#EXTINF:-1 tvg-id="TV9Bangla.in" tvg-name="TV9 Bangla" group-title="News" tvg-language="ben" tvg-quality="720p",TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV9Bangla.in" tvg-name="TV9 Bangla" group-title="News" tvg-language="ben" tvg-quality="720p",TV9 Bangla
+https://mumbai-edge.smartplaytv.in/Tv9Bangla/index.m3u8
+
+#EXTINF:-1 tvg-id="UBangla.in" tvg-name="U Bangla" group-title="Uncategorized" tvg-language="ben" tvg-quality="1080p",U Bangla
+https://stream.ottlive.co.in/ubangla/index.m3u8
+
+#EXTINF:-1 tvg-id="VoktaTV.bd" tvg-name="Vokta TV" group-title="General" tvg-language="ben" tvg-quality="720p",Vokta TV
+https://vokta.raytahost.com/live/voktatv/index.m3u8
+
+#EXTINF:-1 tvg-id="ZBBhakti.in" tvg-name="ZB Bhakti" group-title="Religious" tvg-language="ben" tvg-quality="720p",ZB Bhakti
+https://server.zillarbarta.com/zbbhakti/index.m3u8
+
+#EXTINF:-1 tvg-id="ZBCartoon.in" tvg-name="ZB Cartoon" group-title="Kids" tvg-language="ben" tvg-quality="1080p",ZB Cartoon
+https://server.zillarbarta.com/zbcatun/video.m3u8
+
+#EXTINF:-1 tvg-id="ZBCinema.in" tvg-name="ZB Cinema" group-title="Classic;Movies" tvg-language="ben" tvg-quality="1080p",ZB Cinema
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+
+#EXTINF:-1 tvg-id="ZBMusic.in" tvg-name="ZB Music" group-title="Music" tvg-language="ben" tvg-quality="720p",ZB Music
+https://server.zillarbarta.com/zbmusic/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Zee Bangla
+http://103.151.60.162:2122/play/a02p/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Zee Bangla
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Zee Bangla
+https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
+
+#EXTINF:-1 tvg-id="ZillarBartaNews.in" tvg-name="ZillarBarta News" group-title="Classic;News" tvg-language="ben" tvg-quality="720p",ZillarBarta News
+https://server.zillarbarta.com/zillarbarta/index.m3u8
+
+#EXTINF:-1 tvg-id="ZodiakTV.in" tvg-name="Zodiak TV" group-title="Entertainment" tvg-language="ben" tvg-quality="1080p",Zodiak TV
+https://ranacable.duckdns.org/ZodiakTv/index.m3u8
+

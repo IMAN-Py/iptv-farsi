@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DiscoveryAsiaTaiwan.tw" tvg-name="Discovery Asia Taiwan" group-title="Entertainment" tvg-language="cmn;eng" tvg-quality="1080p",Discovery Asia Taiwan
+http://125.227.210.55:1004/VideoInput/play.ts
+

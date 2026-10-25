@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AmarinTV.th" tvg-name="Amarin TV" group-title="Entertainment" tvg-language="tha" tvg-quality="576i",Amarin TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8
+
+#EXTINF:-1 tvg-id="AmarinTV.th" tvg-name="Amarin TV" group-title="Entertainment" tvg-language="tha" tvg-quality="576i",Amarin TV
+https://live-us1.thaimomo.com/live-as/chamarin-3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChannelU.sg" tvg-name="Channel U" group-title="Entertainment" tvg-language="eng;kor;tha;zho" tvg-quality="720p",Channel U
+https://cdn.qd.je/163189/chu
+
+#EXTINF:-1 tvg-id="GoodIdeaTV.th" tvg-name="Good Idea TV" group-title="Entertainment" tvg-language="tha" tvg-quality="720p",Good Idea TV
+http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LifetimeAsia.us" tvg-name="Lifetime Asia" group-title="Entertainment" tvg-language="eng;ind;tha" tvg-quality="1080p",Lifetime Asia
+http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8
+
+#EXTINF:-1 tvg-id="MayaChannel.th" tvg-name="Maya Channel" group-title="Entertainment" tvg-language="tha" tvg-quality="576i",Maya Channel
+http://146.88.62.69:1935/Transcoder/มายาHD.stream_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MONO29.th" tvg-name="MONO 29" group-title="Entertainment" tvg-language="tha" tvg-quality="576i",MONO 29
+https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8
+
+#EXTINF:-1 tvg-id="MONO29.th" tvg-name="MONO 29" group-title="Entertainment" tvg-language="tha" tvg-quality="576i",MONO 29
+https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MONO29.th" tvg-name="MONO 29" group-title="Entertainment" tvg-language="tha" tvg-quality="576i",MONO 29
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
+#EXTINF:-1 tvg-id="WorldEntertainmentTV42.th" tvg-name="World Entertainment TV 42" group-title="Entertainment" tvg-language="tha" tvg-quality="576i",World Entertainment TV 42
+http://3bb.engatetv.com:25461/hstn/line/147
+

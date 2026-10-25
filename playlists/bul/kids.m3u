@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-name="Disney Channel" group-title="Kids" tvg-language="bul;eng" tvg-quality="576i",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a059
+
+#EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-name="Disney Channel" group-title="Kids" tvg-language="bul;eng" tvg-quality="576i",Disney Channel
+http://87.120.179.187:8000/play/a010
+
+#EXTINF:-1 tvg-id="EKids.bg" tvg-name="EKids" group-title="Kids" tvg-language="bul" tvg-quality="576p",EKids
+http://78.108.244.134:8899/ekids
+
+#EXTINF:-1 tvg-id="Nickelodeon.bg" tvg-name="Nickelodeon" group-title="Kids" tvg-language="bul" tvg-quality="576i",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a056
+
+#EXTINF:-1 tvg-id="Nickelodeon.bg" tvg-name="Nickelodeon" group-title="Kids" tvg-language="bul" tvg-quality="576i",Nickelodeon
+http://87.120.179.187:8000/play/a00x
+
+#EXTINF:-1 tvg-id="Nickelodeon.bg" tvg-name="Nickelodeon" group-title="Kids" tvg-language="bul" tvg-quality="576p",Nickelodeon
+http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8
+
+#EXTINF:-1 tvg-id="RING.bg" tvg-name="RING" group-title="Kids" tvg-language="bul" tvg-quality="576i",RING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a06e
+

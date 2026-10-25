@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="4Kurd.fr" tvg-name="4Kurd" group-title="Music" tvg-language="fas;kur" tvg-quality="576i",4Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AmozhgaryTV.iq" tvg-name="Amozhgary TV" group-title="Religious" tvg-language="kur" tvg-quality="576i",Amozhgary TV
+https://app-live.org/live/3268334b/index.m3u8
+
+#EXTINF:-1 tvg-id="AtrakTV.ir" tvg-name="Atrak TV" group-title="General" tvg-language="fas;kmz;kur" tvg-quality="576i",Atrak TV
+https://ncdn.telewebion.ir/atrak/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CiraTV.de" tvg-name="Cira TV" group-title="Uncategorized" tvg-language="kur" tvg-quality="576i",Cira TV
+https://cira-tv.akamaized.net/hls/stream_0.m3u8
+
+#EXTINF:-1 tvg-id="JinTV.nl" tvg-name="Jin TV" group-title="Culture" tvg-language="kur" tvg-quality="576i",Jin TV
+https://live.jintv.org/medialive/jintv.m3u8
+
+#EXTINF:-1 tvg-id="KomalaTV.se" tvg-name="Komala TV" group-title="Culture" tvg-language="kur" tvg-quality="576i",Komala TV
+https://komhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="KurdChannel.iq" tvg-name="Kurd Channel" group-title="Uncategorized" tvg-language="kur" tvg-quality="576i",Kurd Channel
+https://kurdchhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Kurdsat.iq" tvg-name="Kurdsat" group-title="Entertainment" tvg-language="ara;kur" tvg-quality="576p",Kurdsat
+http://185.9.2.18/chid_1/index.m3u8
+
+#EXTINF:-1 tvg-id="WestAzerbaijanTV.ir" tvg-name="West Azerbaijan TV" group-title="General" tvg-language="aze;fas;kur;tur" tvg-quality="576i",West Azerbaijan TV
+https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
+

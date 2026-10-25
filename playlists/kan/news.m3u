@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AshwaveegaNews24x7.in" tvg-name="Ashwaveega News 24x7" group-title="News" tvg-language="kan" tvg-quality="720p",Ashwaveega News 24x7
+https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AsianetSuvarnaNews.in" tvg-name="Asianet Suvarna News" group-title="News" tvg-language="kan" tvg-quality="1080p",Asianet Suvarna News
+https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GuaranteeNews.in" tvg-name="Guarantee News" group-title="News" tvg-language="kan" tvg-quality="1080p",Guarantee News
+https://guaranteenews.in:8443/live/gnews/index.m3u8
+
+#EXTINF:-1 tvg-id="GuaranteeNews.in" tvg-name="Guarantee News" group-title="News" tvg-language="kan" tvg-quality="576p",Guarantee News
+https://mumt03.tangotv.in/Dsly5z3HGAURANTEENEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="News1st.in" tvg-name="News 1st" group-title="News" tvg-language="kan" tvg-quality="576p",News 1st
+https://cdn.pishow.tv/ott/live/268/master.m3u8
+
+#EXTINF:-1 tvg-id="News1st.in" tvg-name="News 1st" group-title="News" tvg-language="kan" tvg-quality="576p",News 1st
+https://d1msejlow1t3l4.cloudfront.net/fta/News1st/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News1st.in" tvg-name="News 1st" group-title="News" tvg-language="kan" tvg-quality="576p",News 1st
+https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8
+
+#EXTINF:-1 tvg-id="News18Kannada.in" tvg-name="News18 Kannada" group-title="News" tvg-language="kan" tvg-quality="1080p",News18 Kannada
+https://mumbai-edge.smartplaytv.in/news18kannada/index.m3u8
+
+#EXTINF:-1 tvg-id="News18Kannada.in" tvg-name="News18 Kannada" group-title="News" tvg-language="kan" tvg-quality="1080p",News18 Kannada
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
+#EXTVLCOPT:http-referrer=https://kannada.news18.com/
+https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="PowerTV.in" tvg-name="Power TV" group-title="News" tvg-language="kan" tvg-quality="576p",Power TV
+https://cdn.pishow.tv/ott/live/247/master.m3u8
+
+#EXTINF:-1 tvg-id="PowerTV.in" tvg-name="Power TV" group-title="News" tvg-language="kan" tvg-quality="576p",Power TV
+https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8
+
+#EXTINF:-1 tvg-id="PowerTV.in" tvg-name="Power TV" group-title="News" tvg-language="kan" tvg-quality="576p",Power TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
+https://powertvkannada.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PublicTV.in" tvg-name="Public TV" group-title="News" tvg-language="kan" tvg-quality="720p",Public TV
+https://cdn.pishow.tv/ott/live/439/master.m3u8
+
+#EXTINF:-1 tvg-id="PublicTV.in" tvg-name="Public TV" group-title="News" tvg-language="kan" tvg-quality="576p",Public TV
+https://mumt04.tangotv.in/m18aqlK4PUBLICTV/index.m3u8
+
+#EXTINF:-1 tvg-id="PublicTV.in" tvg-name="Public TV" group-title="News" tvg-language="kan" tvg-quality="576p",Public TV
+https://streams.tangotv.in/PUBLICTV/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="RajNewsKannada.in" tvg-name="Raj News Kannada" group-title="News" tvg-language="kan" tvg-quality="576p",Raj News Kannada
+https://cdn.pishow.tv/ott/live/1507/master.m3u8
+
+#EXTINF:-1 tvg-id="RajNewsKannada.in" tvg-name="Raj News Kannada" group-title="News" tvg-language="kan" tvg-quality="576p",Raj News Kannada
+https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8
+
+#EXTINF:-1 tvg-id="RepublicKannada.in" tvg-name="Republic Kannada" group-title="News" tvg-language="kan" tvg-quality="1080p",Republic Kannada
+https://cdn.pishow.tv/ott/live/298/master.m3u8
+
+#EXTINF:-1 tvg-id="RepublicKannada.in" tvg-name="Republic Kannada" group-title="News" tvg-language="kan" tvg-quality="720p",Republic Kannada
+https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
+
+#EXTINF:-1 tvg-id="RepublicKannada.in" tvg-name="Republic Kannada" group-title="News" tvg-language="kan" tvg-quality="576p",Republic Kannada
+https://streams.tangotv.in/REPUBLICKANNADA/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="SuvarnaNews.in" tvg-name="Suvarna News" group-title="News" tvg-language="kan" tvg-quality="576p",Suvarna News
+https://cdn.pishow.tv/ott/live/445/master.m3u8
+
+#EXTINF:-1 tvg-id="SuvarnaNews.in" tvg-name="Suvarna News" group-title="News" tvg-language="kan" tvg-quality="576p",Suvarna News
+https://mumt04.tangotv.in/m18aqlK4SUVARNANEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="SuvarnaNews.in" tvg-name="Suvarna News" group-title="News" tvg-language="kan" tvg-quality="576p",Suvarna News
+https://streams.tangotv.in/SUVARNANEWS/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5Kannada.in" tvg-name="TV5 Kannada" group-title="News" tvg-language="kan" tvg-quality="576p",TV5 Kannada
+https://cdn.pishow.tv/ott/live/1526/master.m3u8
+
+#EXTINF:-1 tvg-id="TV5Kannada.in" tvg-name="TV5 Kannada" group-title="News" tvg-language="kan" tvg-quality="576p",TV5 Kannada
+https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5Kannada.in" tvg-name="TV5 Kannada" group-title="News" tvg-language="kan" tvg-quality="576p",TV5 Kannada
+https://mumt07.tangotv.in/zHjX9OFlTV5KANNADA/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5Kannada.in" tvg-name="TV5 Kannada" group-title="News" tvg-language="kan" tvg-quality="576p",TV5 Kannada
+https://yuppnimresmum.akamaized.net/050522/tv5kannada/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="TV9Kannada.in" tvg-name="TV9 Kannada" group-title="News" tvg-language="kan" tvg-quality="720p",TV9 Kannada
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV9Kannada.in" tvg-name="TV9 Kannada" group-title="News" tvg-language="kan" tvg-quality="576p",TV9 Kannada
+https://mumbai-edge.smartplaytv.in/tv9kannada/index.m3u8
+
+#EXTINF:-1 tvg-id="TV9Kannada.in" tvg-name="TV9 Kannada" group-title="News" tvg-language="kan" tvg-quality="576p",TV9 Kannada
+https://streams.tangotv.in/TV9KANNADA/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeKannadaNews.in" tvg-name="Zee Kannada News" group-title="News" tvg-language="kan" tvg-quality="720p",Zee Kannada News
+https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
+

@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PearTV.in" tvg-name="Pear TV" group-title="Entertainment" tvg-language="asm" tvg-quality="576p",Pear TV
+https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8
+
+#EXTINF:-1 tvg-id="Spondon.in" tvg-name="Spondon" group-title="Entertainment" tvg-language="asm" tvg-quality="576p",Spondon
+https://mumt05.tangotv.in/87NeALx2SPONDON/index.m3u8
+
+#EXTINF:-1 tvg-id="Spondon.in" tvg-name="Spondon" group-title="Entertainment" tvg-language="asm" tvg-quality="1080p",Spondon
+https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
+

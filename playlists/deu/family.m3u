@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-name="Rakuten TV Family Movies" group-title="Family;Movies" tvg-language="deu" tvg-quality="720p",Rakuten TV Family Movies
+https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-name="Rakuten TV Family Movies" group-title="Family;Movies" tvg-language="deu" tvg-quality="720p",Rakuten TV Family Movies
+https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-name="Rakuten TV Family Movies" group-title="Family;Movies" tvg-language="deu" tvg-quality="1080p",Rakuten TV Family Movies
+https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
+
+#EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC" group-title="Family;Kids" tvg-language="deu" tvg-quality="576i",RiC
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8
+
+#EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC" group-title="Family;Kids" tvg-language="deu" tvg-quality="1080p",RiC
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+

@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABNChina.us" tvg-name="ABN China" group-title="Religious" tvg-language="zho" tvg-quality="720p",ABN China
+https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+
+#EXTINF:-1 tvg-id="AndoTV.cn" tvg-name="Ando TV" group-title="Religious" tvg-language="zho" tvg-quality="1080p",Ando TV
+http://play.kankanlive.com/live/1711956137852982.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="zho" tvg-quality="720p",Angel TV
+https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BeautifulLifeTV.tw" tvg-name="Beautiful Life TV" group-title="Religious" tvg-language="zho" tvg-quality="480i",Beautiful Life TV
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGNTVChinese.tw" tvg-name="CGNTV Chinese" group-title="Religious" tvg-language="zho" tvg-quality="1080p",CGNTV Chinese
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+
+#EXTINF:-1 tvg-id="DAAITV.id" tvg-name="DAAI TV" group-title="Religious" tvg-language="zho" tvg-quality="576i",DAAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
+
+#EXTINF:-1 tvg-id="DAAITV.id" tvg-name="DAAI TV" group-title="Religious" tvg-language="zho" tvg-quality="576i",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
+
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-name="God Stands Kids Club TV" group-title="Kids;Religious" tvg-language="zho" tvg-quality="480i",God Stands Kids Club TV
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
+
+#EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-name="God Stands TV" group-title="Religious" tvg-language="zho" tvg-quality="480i",God Stands TV
+https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
+
+#EXTINF:-1 tvg-id="Good2.tw" tvg-name="Good 2" group-title="Religious" tvg-language="zho" tvg-quality="720p",Good 2
+https://live.streamingfast.net/osmflivech2.m3u8
+
+#EXTINF:-1 tvg-id="GoodTV.tw" tvg-name="Good TV" group-title="Religious" tvg-language="zho" tvg-quality="720p",Good TV
+https://live.streamingfast.net/osmflivech1.m3u8
+
+#EXTINF:-1 tvg-id="LLBNTVChinese.us" tvg-name="LLBN TV Chinese" group-title="Religious" tvg-language="zho" tvg-quality="480p",LLBN TV Chinese
+https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
+
+#EXTINF:-1 tvg-id="PeaceTVChinese.ae" tvg-name="Peace TV Chinese" group-title="Religious" tvg-language="zho" tvg-quality="1080p",Peace TV Chinese
+https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
+
+#EXTINF:-1 tvg-id="WXTV.tw" tvg-name="WXTV" group-title="Religious" tvg-language="zho" tvg-quality="480p",WXTV
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+

@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="apartTV.lu" tvg-name="apart TV" group-title="Business;Culture;Lifestyle" tvg-language="ltz" tvg-quality="1080p",apart TV
+https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DudelangeTV.lu" tvg-name="Dudelange TV" group-title="General" tvg-language="ltz" tvg-quality="720p",Dudelange TV
+https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="eldoTV.lu" tvg-name="eldo.TV" group-title="Entertainment" tvg-language="ltz" tvg-quality="1080p",eldo.TV
+https://stream.eldo.lu/data/live/tele/eldotv/1080p.m3u8
+
+#EXTINF:-1 tvg-id="RTLGold.lu" tvg-name="RTL Gold" group-title="Music" tvg-language="ltz" tvg-quality="1080p",RTL Gold
+https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTLTeleLetzebuerg.lu" tvg-name="RTL Tele Letzebuerg" group-title="General" tvg-language="ltz" tvg-quality="1080p",RTL Tele Letzebuerg
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTLWebRadioTV.lu" tvg-name="RTL Web Radio TV" group-title="General" tvg-language="ltz" tvg-quality="1080p",RTL Web Radio TV
+https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTLZwee.lu" tvg-name="RTL Zwee" group-title="General" tvg-language="deu;fra;ltz" tvg-quality="1080p",RTL Zwee
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+

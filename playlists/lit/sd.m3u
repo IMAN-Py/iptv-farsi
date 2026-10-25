@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BalticumTV.lt" tvg-name="Balticum TV" group-title="Uncategorized" tvg-language="lit" tvg-quality="576p",Balticum TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/376/index.m3u8
+
+#EXTINF:-1 tvg-id="BTV.lt" tvg-name="BTV" group-title="Uncategorized" tvg-language="lit" tvg-quality="576p",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/35/index.m3u8
+
+#EXTINF:-1 tvg-id="M1.lt" tvg-name="M-1" group-title="Music" tvg-language="lit" tvg-quality="480p",M-1
+https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerHitRadio.lt" tvg-name="Power Hit Radio" group-title="Music" tvg-language="lit" tvg-quality="576p",Power Hit Radio
+https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8
+
+#EXTINF:-1 tvg-id="TV6.lt" tvg-name="TV6" group-title="Uncategorized" tvg-language="lit" tvg-quality="576p",TV6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/375/index.m3u8
+
+#EXTINF:-1 tvg-id="TV8.lt" tvg-name="TV8" group-title="Uncategorized" tvg-language="lit" tvg-quality="576p",TV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/374/index.m3u8
+

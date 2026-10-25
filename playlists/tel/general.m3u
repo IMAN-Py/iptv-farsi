@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DDSaptagiri.in" tvg-name="DD Saptagiri" group-title="General" tvg-language="tel" tvg-quality="576i",DD Saptagiri
+https://cdn.pishow.tv/ott/live/22/master.m3u8
+
+#EXTINF:-1 tvg-id="DDSaptagiri.in" tvg-name="DD Saptagiri" group-title="General" tvg-language="tel" tvg-quality="504p",DD Saptagiri
+https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
+
+#EXTINF:-1 tvg-id="DDYadagiri.in" tvg-name="DD Yadagiri" group-title="General" tvg-language="tel" tvg-quality="576p",DD Yadagiri
+https://cdn.pishow.tv/ott/live/21/master.m3u8
+
+#EXTINF:-1 tvg-id="DDYadagiri.in" tvg-name="DD Yadagiri" group-title="General" tvg-language="tel" tvg-quality="504p",DD Yadagiri
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c89fa6d6f5864ac29670d6f91cb7e32a/index.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.in" tvg-name="Metro TV" group-title="General" tvg-language="tel" tvg-quality="1080p",Metro TV
+https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
+
+#EXTINF:-1 tvg-id="SunGemini.in" tvg-name="Sun Gemini" group-title="General" tvg-language="tel" tvg-quality="576p",Sun Gemini
+http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8
+

@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Alsat.mk" tvg-name="Alsat" group-title="General" tvg-language="mkd;sqi" tvg-quality="576i",Alsat
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
+
+#EXTINF:-1 tvg-id="Kanal5.mk" tvg-name="Kanal 5" group-title="General" tvg-language="mkd" tvg-quality="360p",Kanal 5
+https://s2.teve.mk/tvstanici/2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MNetHD.mk" tvg-name="M-Net HD" group-title="General" tvg-language="mkd" tvg-quality="576i",M-Net HD
+https://live.mnet.mk/hls/mnet.m3u8
+
+#EXTINF:-1 tvg-id="MNetInfo.mk" tvg-name="M-Net Info" group-title="News" tvg-language="mkd" tvg-quality="576i",M-Net Info
+https://live.mnet.mk/hls/mnet-info.m3u8
+
+#EXTINF:-1 tvg-id="MNetSport.mk" tvg-name="M-Net Sport" group-title="Sports" tvg-language="mkd" tvg-quality="576i",M-Net Sport
+https://live.mnet.mk/hls/mnet-sport.m3u8
+
+#EXTINF:-1 tvg-id="MRTSobraniskikanal.mk" tvg-name="MRT Sobraniski kanal" group-title="Legislative" tvg-language="mkd;sqi" tvg-quality="576i",MRT Sobraniski kanal
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
+
+#EXTINF:-1 tvg-id="MTM.mk" tvg-name="MTM" group-title="General" tvg-language="mkd" tvg-quality="576i",MTM
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
+
+#EXTINF:-1 tvg-id="Sitel.mk" tvg-name="Sitel" group-title="Uncategorized" tvg-language="mkd" tvg-quality="480p",Sitel
+http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sitel.mk" tvg-name="Sitel" group-title="Uncategorized" tvg-language="mkd" tvg-quality="480p",Sitel
+https://teve.mk/tvstanici/s1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SutelTV.mk" tvg-name="Sutel TV" group-title="General" tvg-language="mkd" tvg-quality="576i",Sutel TV
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
+
+#EXTINF:-1 tvg-id="TVNOVA12.mk" tvg-name="TV NOVA 12" group-title="General" tvg-language="mkd" tvg-quality="576p",TV NOVA 12
+http://151.236.247.171:8080/nova/index.m3u8
+
+#EXTINF:-1 tvg-id="TVShenja.mk" tvg-name="TV Shenja" group-title="Uncategorized" tvg-language="mkd" tvg-quality="576i",TV Shenja
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV_Shenja)/index.m3u8
+
+#EXTINF:-1 tvg-id="TVZdravkin.mk" tvg-name="TV Zdravkin" group-title="General" tvg-language="mkd" tvg-quality="400p",TV Zdravkin
+http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV21.mk" tvg-name="TV21" group-title="General" tvg-language="mkd;sqi" tvg-quality="576i",TV21
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
+

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LifeTv.sk" tvg-name="LifeTv" group-title="Religious" tvg-language="slk" tvg-quality="1080p",LifeTv
+https://lifetv.mpks.sk/s.m3u8
+
+#EXTINF:-1 tvg-id="ManaCirkevOnline.pt" tvg-name="Mana Cirkev Online" group-title="Religious" tvg-language="slk" tvg-quality="1080p",Mana Cirkev Online
+https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8
+

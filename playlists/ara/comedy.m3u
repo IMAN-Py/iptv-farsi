@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JordanComedy.jo" tvg-name="Jordan Comedy" group-title="Comedy" tvg-language="ara" tvg-quality="1080p",Jordan Comedy
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaComedy.sa" tvg-name="Rotana Comedy" group-title="Comedy" tvg-language="ara" tvg-quality="1080p",Rotana Comedy
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
+

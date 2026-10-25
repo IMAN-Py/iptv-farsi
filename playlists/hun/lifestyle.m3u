@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HangulatTV.hu" tvg-name="Hangulat TV" group-title="Lifestyle" tvg-language="hun" tvg-quality="720p",Hangulat TV
+https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8
+
+#EXTINF:-1 tvg-id="HGTV.hu" tvg-name="HGTV" group-title="Lifestyle" tvg-language="hun" tvg-quality="576i",HGTV
+http://88.212.15.17/live/hgtv_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="TLC.hu" tvg-name="TLC" group-title="Lifestyle" tvg-language="eng;hun" tvg-quality="576i",TLC
+http://88.212.15.17/live/tlc_hungary/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPaprika.hu" tvg-name="TV Paprika" group-title="Lifestyle;Travel" tvg-language="hun" tvg-quality="576i",TV Paprika
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/parpika_hun/index.m3u8
+

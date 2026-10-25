@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JRTVJarviradio.fi" tvg-name="JRTV Jarviradio" group-title="Music" tvg-language="fin" tvg-quality="720p",JRTV Jarviradio
+https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
+
+#EXTINF:-1 tvg-id="YleX.fi" tvg-name="YleX" group-title="Music" tvg-language="fin" tvg-quality="720p",YleX
+https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8
+

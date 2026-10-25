@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlephNews.ro" tvg-name="Aleph News" group-title="News" tvg-language="ron" tvg-quality="720p",Aleph News
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Antena3CNN.ro" tvg-name="Antena 3 CNN" group-title="News" tvg-language="ron" tvg-quality="1080p",Antena 3 CNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0
+https://live3vox.antenaplay.ro/a3free/a3free.m3u8
+
+#EXTINF:-1 tvg-id="Antena3CNN.ro" tvg-name="Antena 3 CNN" group-title="News" tvg-language="ron" tvg-quality="576p",Antena 3 CNN
+https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8
+
+#EXTINF:-1 tvg-id="B1.ro" tvg-name="B1" group-title="News" tvg-language="ron" tvg-quality="576i",B1
+https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" group-title="News" tvg-language="ron" tvg-quality="1080i",Digi 24
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tele-moldova-plus/live_hq?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" group-title="News" tvg-language="ron" tvg-quality="720p",Digi 24
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+
+#EXTINF:-1 tvg-id="DottoTV.ro" tvg-name="Dotto TV" group-title="News" tvg-language="ron" tvg-quality="1080p",Dotto TV
+https://live.dottotv.ro/index.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsRomania.ro" tvg-name="Euronews Romania" group-title="News" tvg-language="ron" tvg-quality="576p",Euronews Romania
+https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsRomania.ro" tvg-name="Euronews Romania" group-title="News" tvg-language="ron" tvg-quality="576i",Euronews Romania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://thor1.syndula1.cfd/ernews/usergenx6vkj8aqrnd.m3u8
+
+#EXTINF:-1 tvg-id="InformatiaTV.ro" tvg-name="Informatia TV" group-title="News" tvg-language="ron" tvg-quality="576i",Informatia TV
+https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
+
+#EXTINF:-1 tvg-id="ObservatorNews.ro" tvg-name="Observator News" group-title="News" tvg-language="ron" tvg-quality="360p",Observator News
+https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+
+#EXTINF:-1 tvg-id="PrimaNews.ro" tvg-name="Prima News" group-title="News" tvg-language="ron" tvg-quality="576i",Prima News
+https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="PROTVChisinau.md" tvg-name="PRO TV Chisinau" group-title="General;News" tvg-language="ron" tvg-quality="576p",PRO TV Chisinau
+http://178.76.68.60:7442/15/mpegts
+
+#EXTINF:-1 tvg-id="PROTVChisinau.md" tvg-name="PRO TV Chisinau" group-title="General;News" tvg-language="ron" tvg-quality="480p",PRO TV Chisinau
+https://stream.protv.md/live/sursa-1/index.m3u8
+
+#EXTINF:-1 tvg-id="PROTVNews.ro" tvg-name="PROTV News" group-title="News" tvg-language="ron" tvg-quality="1080p",PROTV News
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+
+#EXTINF:-1 tvg-id="RealitateaTV.md" tvg-name="Realitatea TV" group-title="News" tvg-language="ron" tvg-quality="406p",Realitatea TV
+https://realitatealive.md/tv/rlive.m3u8
+
+#EXTINF:-1 tvg-id="TeleMoldovaPlus.ro" tvg-name="TeleMoldova +" group-title="News" tvg-language="ron" tvg-quality="576i",TeleMoldova +
+https://vdo.ssl-stream.com:3247/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="TVSUD.ro" tvg-name="TV SUD" group-title="News" tvg-language="ron" tvg-quality="1080p",TV SUD
+https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
+
+#EXTINF:-1 tvg-id="TVRInfo.ro" tvg-name="TVR Info" group-title="News" tvg-language="ron" tvg-quality="576i",TVR Info
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
+

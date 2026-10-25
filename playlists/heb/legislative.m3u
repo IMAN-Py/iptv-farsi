@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KnessetChannel.il" tvg-name="Knesset Channel" group-title="Legislative" tvg-language="heb" tvg-quality="576p",Knesset Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/48/index.m3u8
+
+#EXTINF:-1 tvg-id="KnessetChannel.il" tvg-name="Knesset Channel" group-title="Legislative" tvg-language="heb" tvg-quality="480p",Knesset Channel
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+

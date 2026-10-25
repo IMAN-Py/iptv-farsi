@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Nepal1.in" tvg-name="Nepal 1" group-title="Entertainment" tvg-language="nep" tvg-quality="576i",Nepal 1
+https://cdn.pishow.tv/ott/live/1490/master.m3u8
+
+#EXTINF:-1 tvg-id="Nepal1.in" tvg-name="Nepal 1" group-title="Entertainment" tvg-language="nep" tvg-quality="396p",Nepal 1
+https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Nepal1.in" tvg-name="Nepal 1" group-title="Entertainment" tvg-language="nep" tvg-quality="576p",Nepal 1
+https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8
+
+#EXTINF:-1 tvg-id="Public4KTV.np" tvg-name="Public 4K TV" group-title="Entertainment" tvg-language="eng;mai;nep" tvg-quality="1080p",Public 4K TV
+http://103.180.240.141:8080/hls/main1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RayTVHD.np" tvg-name="Ray TV HD" group-title="Entertainment;General" tvg-language="mai;nep" tvg-quality="576p",Ray TV HD
+https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8
+
+#EXTINF:-1 tvg-id="RayTVHD.np" tvg-name="Ray TV HD" group-title="Entertainment;General" tvg-language="mai;nep" tvg-quality="1080p",Ray TV HD
+https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8
+
+#EXTINF:-1 tvg-id="TVTodayJanakpur.np" tvg-name="TV Today Janakpur" group-title="Entertainment;General" tvg-language="eng;mai;nep" tvg-quality="575i",TV Today Janakpur
+https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
+

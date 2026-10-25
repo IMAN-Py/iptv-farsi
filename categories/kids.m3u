@@ -1,0 +1,1924 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="13Kids.cl" tvg-name="13 Kids" group-title="Kids" tvg-language="spa" tvg-quality="1080p",13 Kids
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+
+#EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" group-title="Animation;Kids;Religious" tvg-language="eng" tvg-quality="480i",3ABN Kids
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4FunKids.pl" tvg-name="4 Fun Kids" group-title="Kids" tvg-language="pol" tvg-quality="576i",4 Fun Kids
+https://stream.4fun.tv:8889/hd/kids_hd_high.m3u8
+
+#EXTINF:-1 tvg-id="4FunKids.pl" tvg-name="4 Fun Kids" group-title="Kids" tvg-language="pol" tvg-quality="576i",4 Fun Kids
+https://stream.4fun.tv:8889/hls/4fk.m3u8
+
+#EXTINF:-1 tvg-id="90sKids.us" tvg-name="90's Kids" group-title="Kids" tvg-language="eng" tvg-quality="720p",90's Kids
+https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8
+
+#EXTINF:-1 tvg-id="90sKidsTV2.us" tvg-name="90s Kids TV 2" group-title="Kids" tvg-language="eng" tvg-quality="720p",90s Kids TV 2
+https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8
+
+#EXTINF:-1 tvg-id="9Go.au" tvg-name="9Go!" group-title="Entertainment;Kids" tvg-language="eng" tvg-quality="720p",9Go!
+https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
+
+#EXTINF:-1 tvg-id="ABCEntertains.au" tvg-name="ABC Entertains" group-title="Education;Kids" tvg-language="eng" tvg-quality="720p",ABC Entertains
+https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1 tvg-id="ABCKids.au" tvg-name="ABC Kids" group-title="Kids" tvg-language="eng" tvg-quality="576i",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1 tvg-id="ADOTV.bj" tvg-name="ADO TV" group-title="Kids;Sports" tvg-language="fra" tvg-quality="720p",ADO TV
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AfarinBaxcha.iq" tvg-name="Afarin Baxcha" group-title="Kids" tvg-language="kur" tvg-quality="1080p",Afarin Baxcha
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AfarinTV.iq" tvg-name="Afarin TV" group-title="Kids" tvg-language="kur" tvg-quality="720p",Afarin TV
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AkiliKids.ke" tvg-name="Akili Kids!" group-title="Kids" tvg-language="eng;swa" tvg-quality="576i",Akili Kids!
+https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-name="Amou Yazid TV" group-title="Kids" tvg-language="ara;fra" tvg-quality="576p",Amou Yazid TV
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ani.ru" tvg-name="Ani" group-title="Kids" tvg-language="rus" tvg-quality="576p",Ani
+http://31.148.48.15/Ani/index.m3u8
+
+#EXTINF:-1 tvg-id="Ani.ru" tvg-name="Ani" group-title="Kids" tvg-language="rus" tvg-quality="576p",Ani
+http://46.32.176.50/anitv/index.m3u8
+
+#EXTINF:-1 tvg-id="Ani.ru" tvg-name="Ani" group-title="Kids" tvg-language="rus" tvg-quality="576p",Ani
+http://flussonic.linkintel.ru/Ani/index.m3u8
+
+#EXTINF:-1 tvg-id="Ani.ru" tvg-name="Ani" group-title="Kids" tvg-language="rus" tvg-quality="576p",Ani
+http://stream.mcquack.net/306/index.m3u8
+
+#EXTINF:-1 tvg-id="Aqlvoy.uz" tvg-name="Aqlvoy" group-title="Kids" tvg-language="eng;rus;uzb" tvg-quality="576i",Aqlvoy
+https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AtfalMawahebTV.sa" tvg-name="Atfal & Mawaheb TV" group-title="Kids" tvg-language="ara" tvg-quality="1080p",Atfal & Mawaheb TV
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AtfalMawahebTV.sa" tvg-name="Atfal & Mawaheb TV" group-title="Kids" tvg-language="ara" tvg-quality="1080p",Atfal & Mawaheb TV
+https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Avatar.de" tvg-name="Avatar" group-title="Animation;Kids;Series" tvg-language="eng" tvg-quality="720p",Avatar
+https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
+
+#EXTINF:-1 tvg-id="Avatar.se" tvg-name="Avatar" group-title="Animation;Kids;Series" tvg-language="dan;eng" tvg-quality="720p",Avatar
+https://jmp2.uk/plu-61c09b48d6d97900076e91c5.m3u8
+
+#EXTINF:-1 tvg-id="AvatarAlendadeAang.us" tvg-name="Avatar: A lenda de Aang" group-title="Kids" tvg-language="por" tvg-quality="720p",Avatar: A lenda de Aang
+https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
+
+#EXTINF:-1 tvg-id="AvatarLaLeyendadeAang.us" tvg-name="Avatar: La Leyenda de Aang" group-title="Kids" tvg-language="spa" tvg-quality="720p",Avatar: La Leyenda de Aang
+https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
+
+#EXTINF:-1 tvg-id="BabySharkTV.us" tvg-name="Baby Shark TV" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Baby Shark TV
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US17000208H&channel_id=newid_346&tp=samsung_tvplus
+
+#EXTINF:-1 tvg-id="BabySharkTV.us" tvg-name="Baby Shark TV" group-title="Kids" tvg-language="eng" tvg-quality="480i",Baby Shark TV
+https://jmp2.uk/plu-60faffc3fbbc120007fc4376.m3u8
+
+#EXTINF:-1 tvg-id="BabySharkTV.us" tvg-name="Baby Shark TV" group-title="Kids" tvg-language="eng" tvg-quality="480i",Baby Shark TV
+https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8
+
+#EXTINF:-1 tvg-id="BabySharkTV.us" tvg-name="Baby Shark TV" group-title="Kids" tvg-language="eng" tvg-quality="480i",Baby Shark TV
+https://jmp2.uk/plu-63da6bcd60bc8f0008a5d364.m3u8
+
+#EXTINF:-1 tvg-id="BabySharkTV.us" tvg-name="Baby Shark TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Baby Shark TV
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BabySharkTV.us" tvg-name="Baby Shark TV" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Baby Shark TV
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BabyTime.ru" tvg-name="Baby Time" group-title="Kids;Music" tvg-language="rus" tvg-quality="576p",Baby Time
+http://178.134.1.158:8081/babytime/index.m3u8
+
+#EXTINF:-1 tvg-id="BabyTime.ru" tvg-name="Baby Time" group-title="Kids;Music" tvg-language="rus" tvg-quality="576p",Baby Time
+https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="spa" tvg-quality="1080p",BabyFirst
+http://168.196.127.137:6001/play/a06j/index.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="spa" tvg-quality="720p",BabyFirst
+http://168.228.44.241:9997/play/a07u/index.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="spa" tvg-quality="480p",BabyFirst
+http://181.78.106.127:5000/play/a0sa/index.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="720p",BabyFirst
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="480i",BabyFirst
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="por" tvg-quality="480i",BabyFirst
+https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
+
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BabyTV" group-title="Kids" tvg-language="spa" tvg-quality="720p",BabyTV
+http://138.121.15.230:9002/BABY-TV/index.m3u8
+
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BabyTV" group-title="Kids" tvg-language="spa" tvg-quality="480p",BabyTV
+http://181.78.12.119:16123/play/ch01/index.m3u8
+
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BabyTV" group-title="Kids" tvg-language="spa" tvg-quality="1080p",BabyTV
+http://38.44.109.41:8003/play/a0eh
+
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BabyTV" group-title="Kids" tvg-language="tur" tvg-quality="576i",BabyTV
+https://saran-live.ercdn.net/babytv/index.m3u8
+
+#EXTINF:-1 tvg-id="Balapan.kz" tvg-name="Balapan" group-title="Kids" tvg-language="kaz" tvg-quality="1080p",Balapan
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Balapan.kz" tvg-name="Balapan" group-title="Kids" tvg-language="kaz" tvg-quality="576p",Balapan
+https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="BalapanInternational.kz" tvg-name="Balapan International" group-title="Kids" tvg-language="kaz" tvg-quality="1080p",Balapan International
+https://live-3.otcnet.ru/Balapan/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCFourCBeebies.uk" tvg-name="BBC Four/CBeebies" group-title="Animation;General;Kids" tvg-language="eng" tvg-quality="720p",BBC Four/CBeebies
+http://193.46.58.239:8080/CbeebiesHD/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCKids.us" tvg-name="BBC Kids" group-title="Kids" tvg-language="eng" tvg-quality="720p",BBC Kids
+https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCThreeCBBC.uk" tvg-name="BBC Three/CBBC" group-title="Animation;Family;Kids" tvg-language="eng" tvg-quality="720p",BBC Three/CBBC
+http://193.46.58.239:8080/CBBCHD/index.m3u8
+
+#EXTINF:-1 tvg-id="BeJoykids.it" tvg-name="BeJoy.kids" group-title="Kids" tvg-language="ita" tvg-quality="1080p",BeJoy.kids
+https://stream.paroledivita.org/bejoy.m3u8
+
+#EXTINF:-1 tvg-id="BilimIlim.kg" tvg-name="Bilim Ilim" group-title="Kids;Science" tvg-language="kir;rus" tvg-quality="480p",Bilim Ilim
+http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
+
+#EXTINF:-1 tvg-id="BiznetKids.id" tvg-name="Biznet Kids" group-title="Kids" tvg-language="ind" tvg-quality="1080p",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="BobEsponja.de" tvg-name="Bob Esponja" group-title="Kids" tvg-language="spa" tvg-quality="720p",Bob Esponja
+https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
+
+#EXTINF:-1 tvg-id="BobEsponjaCalcaQuadrada.us" tvg-name="Bob Esponja Calca Quadrada" group-title="Kids" tvg-language="por" tvg-quality="720p",Bob Esponja Calca Quadrada
+https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
+
+#EXTINF:-1 tvg-id="BobEsponjaPantalonesCuadrados.us" tvg-name="Bob Esponja Pantalones Cuadrados" group-title="Kids" tvg-language="spa" tvg-quality="720p",Bob Esponja Pantalones Cuadrados
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+
+#EXTINF:-1 tvg-id="Bobleponge.us" tvg-name="Bob l'eponge" group-title="Kids" tvg-language="fra" tvg-quality="720p",Bob l'eponge
+https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
+
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="Boing" group-title="Kids" tvg-language="spa" tvg-quality="576i",Boing
+http://digisat.ddns.net:4022/udp/239.0.5.177:8208
+
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" group-title="Kids" tvg-language="ita" tvg-quality="720p",Boing
+https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8
+
+#EXTINF:-1 tvg-id="Bolajon.uz" tvg-name="Bolajon" group-title="Kids" tvg-language="uzb" tvg-quality="576p",Bolajon
+https://stream8.cinerama.uz/1007/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Boomerang
+http://212.5.144.156:8080/boomerang/index.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Boomerang
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+
+#EXTINF:-1 tvg-id="BoxKidsTV.br" tvg-name="Box Kids TV" group-title="Kids" tvg-language="por" tvg-quality="720p",Box Kids TV
+http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
+
+#EXTINF:-1 tvg-id="BratTV.us" tvg-name="Brat TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Brat TV
+https://amg00350-amg00350c1-klowdtv-us-2536.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-klowdtvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BratTV.us" tvg-name="Brat TV" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Brat TV
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BratTV.us" tvg-name="Brat TV" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Brat TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BravoKidsTV.hr" tvg-name="Bravo! Kids TV" group-title="Kids" tvg-language="hrv" tvg-quality="576i",Bravo! Kids TV
+https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
+
+#EXTINF:-1 tvg-id="BRTVKakuChildrensChannel.cn" tvg-name="BRTV Kaku Childrens Channel" group-title="Kids" tvg-language="zho" tvg-quality="576i",BRTV Kaku Childrens Channel
+http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
+
+#EXTINF:-1 tvg-id="CampSpoopy.us" tvg-name="Camp Spoopy" group-title="Kids" tvg-language="eng" tvg-quality="576p",Camp Spoopy
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+
+#EXTINF:-1 tvg-id="CanalInfantil.us" tvg-name="Canal Infantil" group-title="Kids" tvg-language="spa" tvg-quality="576i",Canal Infantil
+http://177.234.218.66:8084/play/a01x/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalInfantil.us" tvg-name="Canal Infantil" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Canal Infantil
+http://179.1.196.222:9000/play/a02y/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalInfantil.us" tvg-name="Canal Infantil" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Canal Infantil
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="720p",Carousel
+http://185.37.150.46/Karusel/index.m3u8
+
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="1080p",Carousel
+http://31.148.48.15/Karusel_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576p",Carousel
+http://31.148.5.241/kanal_8/index.m3u8
+
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576p",Carousel
+http://88.212.15.17/live/test_karusel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576p",Carousel
+http://flussonic.linkintel.ru/Karusel/index.m3u8
+
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576p",Carousel
+http://stream.mcquack.net/120/index.m3u8
+
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576p",Carousel
+https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576i",Carousel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/11.m3u8
+
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576i",Carousel
+https://streaming.televizor-24-tochka.ru/live/232.m3u8
+
+#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="540p",Carousel
+#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+
+#EXTINF:-1 tvg-id="CarouselInternational.ru" tvg-name="Carousel International" group-title="Kids" tvg-language="rus" tvg-quality="576p",Carousel International
+https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl" tvg-name="Cartoon Classics" group-title="Animation;Kids" tvg-language="eng" tvg-quality="1080i",Cartoon Classics
+https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="720p",Cartoon Network
+https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.pk" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;urd" tvg-quality="576i",Cartoon Network
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="720p",Cartoon Network
+http://212.5.144.156:8080/cartoon/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="720p",Cartoon Network
+http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="480i",Cartoon Network
+https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-name="Cartoon Network Arabic" group-title="Animation;Kids" tvg-language="ara" tvg-quality="576i",Cartoon Network Arabic
+http://149.100.11.252:8000/play/a056/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" group-title="Animation;Kids" tvg-language="eng" tvg-quality="720p",Cartoon Network Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Animation;Kids" tvg-language="ukr" tvg-quality="576p",Cartoon Network CEE
+http://45.132.87.69:8080/cartoon_network/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Animation;Kids" tvg-language="ces" tvg-quality="576i",Cartoon Network CEE
+http://88.212.15.17/live/test_cartoon_network_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Animation;Kids" tvg-language="pol" tvg-quality="576i",Cartoon Network CEE
+http://92.114.85.87:8007/play/a009
+
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="por" tvg-quality="720p",Cartoon Network Latin America
+http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Cartoon Network Latin America
+http://158.172.217.18:8000/play/a03a/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Cartoon Network Latin America
+http://170.244.209.30:8000/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Cartoon Network Latin America
+http://38.252.238.18:8000/play/a053/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="por" tvg-quality="720p",Cartoon Network Latin America
+http://45.162.64.114/CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="576p",Cartoon Network Latin America
+http://45.167.1.138:8000/play/a00w
+
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Cartoon Network Latin America
+http://45.173.12.70:8000/play/a0fj
+
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080i",Cartoon Network Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoAsia.sg" tvg-name="Cartoonito Asia" group-title="Animation;Kids" tvg-language="eng" tvg-quality="720p",Cartoonito Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-name="Cartoonito CEE" group-title="Kids" tvg-language="ces" tvg-quality="576i",Cartoonito CEE
+http://88.212.15.17/live/test_boomerang_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-name="Cartoonito CEE" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Cartoonito CEE
+http://92.114.85.87:8007/play/a008
+
+#EXTINF:-1 tvg-id="CartoonitoLatinAmerica.us" tvg-name="Cartoonito Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Cartoonito Latin America
+http://45.173.12.70:8000/play/a0hh
+
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC" group-title="Kids" tvg-language="eng" tvg-quality="1080i",CBBC
+https://cdn.stmify.com/bbc/stream/CBBC/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC" group-title="Kids" tvg-language="eng" tvg-quality="576i",CBBC
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC" group-title="Kids" tvg-language="eng" tvg-quality="720p",CBBC
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
+
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC" group-title="Kids" tvg-language="eng" tvg-quality="720p",CBBC
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
+
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="CBBC" group-title="Kids" tvg-language="eng" tvg-quality="720p",CBBC
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/mobile_wifi_main_hd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-id="CBeebies.pl" tvg-name="CBeebies" group-title="Kids" tvg-language="eng;pol" tvg-quality="576p",CBeebies
+http://92.114.85.87:8017/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-id="CBeebies.pl" tvg-name="CBeebies" group-title="Kids" tvg-language="eng;pol" tvg-quality="360p",CBeebies
+https://gist.githubusercontent.com/xykt-fix/e01ce187bbad74d0a0c5a86e0fc1b885/raw/eb00491161b819c2321733e929a27aeb2972b416/cbeeb-stream.m3u8
+
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies" group-title="Kids" tvg-language="eng" tvg-quality="1080i",CBeebies
+https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies" group-title="Kids" tvg-language="eng" tvg-quality="576i",CBeebies
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies" group-title="Kids" tvg-language="eng" tvg-quality="720p",CBeebies
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
+
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies" group-title="Kids" tvg-language="eng" tvg-quality="720p",CBeebies
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
+
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies" group-title="Kids" tvg-language="eng" tvg-quality="720p",CBeebies
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cbeebies_hd/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-name="CBeebies" group-title="Kids" tvg-language="eng" tvg-quality="720p",CBeebies
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/mobile_wifi_main_hd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-id="CCTV14.cn" tvg-name="CCTV-14" group-title="Kids" tvg-language="zho" tvg-quality="1080p",CCTV-14
+http://74.91.26.218:82/live/cctv14hd.m3u8
+
+#EXTINF:-1 tvg-id="Chikitoonz.pe" tvg-name="Chikitoonz" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Chikitoonz
+http://45.70.201.81:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-id="ChinolaTV.do" tvg-name="Chinola TV" group-title="Kids" tvg-language="spa" tvg-quality="480p",Chinola TV
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+
+#EXTINF:-1 tvg-id="Chithiram.in" tvg-name="Chithiram" group-title="Kids" tvg-language="tam" tvg-quality="576p",Chithiram
+https://cdn.pishow.tv/ott/live/1243/master.m3u8
+
+#EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us" tvg-name="Christian Youth Channel CYC" group-title="Kids;Religious" tvg-language="eng" tvg-quality="1080p",Christian Youth Channel CYC
+http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us" tvg-name="Christian Youth Channel CYC" group-title="Kids;Religious" tvg-language="eng" tvg-quality="1080p",Christian Youth Channel CYC
+http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CinePlusKids.ua" tvg-name="Cine+ Kids" group-title="Kids" tvg-language="ukr" tvg-quality="576i",Cine+ Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI5MDYmc3Q9TUtpMWlxbmN6NGFDdjRrdmN0TkVtUQ%3D%3D&master=540
+
+#EXTINF:-1 tvg-id="CinePlusKids.ua" tvg-name="Cine+ Kids" group-title="Kids" tvg-language="ukr" tvg-quality="576p",Cine+ Kids
+http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" group-title="Kids;Public" tvg-language="spa" tvg-quality="1080p",Clan
+https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
+
+#EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" group-title="Kids;Public" tvg-language="spa" tvg-quality="720p",Clan
+https://rtvelivestream.rtve.es/rtvesec/clan/clan_main.m3u8
+
+#EXTINF:-1 tvg-id="Clan.es" tvg-name="Clan" group-title="Kids;Public" tvg-language="spa" tvg-quality="1080p",Clan
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+
+#EXTINF:-1 tvg-id="ClanInternacional.es" tvg-name="Clan Internacional" group-title="Kids;Public" tvg-language="spa" tvg-quality="1080p",Clan Internacional
+http://168.228.44.241:9999/play/a04j/index.m3u8
+
+#EXTINF:-1 tvg-id="ClanInternacional.es" tvg-name="Clan Internacional" group-title="Kids;Public" tvg-language="spa" tvg-quality="1080p",Clan Internacional
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
+
+#EXTINF:-1 tvg-id="CTDecko.cz" tvg-name="CT Decko" group-title="Kids" tvg-language="ces" tvg-quality="1080p",CT Decko
+http://88.212.15.17/live/ct_art_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cufo.al" tvg-name="Cufo" group-title="Kids" tvg-language="sqi" tvg-quality="576i",Cufo
+https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_id=backoffice1&application_installation_id=1&authority_instance_id=spectar-prd-digitalb&detected_delivery_method=hls&id=DAL_1_005&playlist_template=nginx&profile_id=1&ps=94d0066599d8f74d1c090e93ac4617b6491d3629d2e2d770870fcef1f7effa25b204aa53b3821da5e9e65bee8e94331bcae2cb344d0739ca3a938b4ef2051cc8&subscriber_id=1&token=142cda7d50870275a9ca7988ff001b32ab30709b&uuid=backoffice1&vh=7ab82e63aae8510c6b37ea16da502e54e441a5a1a88bce0c8ed63da99bce948d86253d64ae00424dda8b9c8b6e2cd0f6cd79d8b0a56e10759210cdf4f6761d11&video_id=12498
+
+#EXTINF:-1 tvg-id="DeParintiro.ro" tvg-name="DeParinti.ro" group-title="Education;Kids" tvg-language="ron" tvg-quality="576p",DeParinti.ro
+https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
+
+#EXTINF:-1 tvg-id="DetectiveConan.us" tvg-name="Detective Conan" group-title="Animation;Kids" tvg-language="spa" tvg-quality="720p",Detective Conan
+https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
+
+#EXTINF:-1 tvg-id="DetectiveConan.us" tvg-name="Detective Conan" group-title="Animation;Kids" tvg-language="fra" tvg-quality="720p",Detective Conan
+https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
+
+#EXTINF:-1 tvg-id="Detskiy.ru" tvg-name="Detskiy" group-title="Kids" tvg-language="rus" tvg-quality="576p",Detskiy
+https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DetvoraPlus.ru" tvg-name="Detvora+" group-title="Animation;Family;Kids" tvg-language="rus" tvg-quality="1080p",Detvora+
+https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
+
+#EXTINF:-1 tvg-id="DiosTeVeKids.hn" tvg-name="Dios Te Ve Kids" group-title="Kids;Religious" tvg-language="spa" tvg-quality="720p",Dios Te Ve Kids
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-name="Discovery Kids" group-title="Kids" tvg-language="eng;hin;mal;tam;tel" tvg-quality="720p",Discovery Kids
+https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us" tvg-name="Discovery Kids Latin America" group-title="Kids" tvg-language="por" tvg-quality="720p",Discovery Kids Latin America
+http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us" tvg-name="Discovery Kids Latin America" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Discovery Kids Latin America
+http://181.224.200.5:2277/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us" tvg-name="Discovery Kids Latin America" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Discovery Kids Latin America
+http://38.134.250.110:8000/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us" tvg-name="Discovery Kids Latin America" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Discovery Kids Latin America
+http://38.224.231.176:8000/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us" tvg-name="Discovery Kids Latin America" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Discovery Kids Latin America
+http://38.65.175.84:8000/play/a0an/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-name="Disney Channel" group-title="Kids" tvg-language="bul;eng" tvg-quality="576i",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a059
+
+#EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-name="Disney Channel" group-title="Kids" tvg-language="bul;eng" tvg-quality="576i",Disney Channel
+http://87.120.179.187:8000/play/a010
+
+#EXTINF:-1 tvg-id="DisneyChannel.cz" tvg-name="Disney Channel" group-title="Kids" tvg-language="ces" tvg-quality="576i",Disney Channel
+http://88.212.15.17/live/test_disney/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel" group-title="Kids" tvg-language="deu" tvg-quality="576i",Disney Channel
+http://178.27.12.3:9981/stream/channelid/269948147?profile=pass
+
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel" group-title="Kids" tvg-language="deu" tvg-quality="576p",Disney Channel
+https://s6.hopslan.com/disneyX/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.hu" tvg-name="Disney Channel" group-title="Kids" tvg-language="ces;hun" tvg-quality="576i",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/disney_channel_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.in" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Disney Channel
+http://66.102.126.10:8000/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.nl" tvg-name="Disney Channel" group-title="Kids" tvg-language="nld" tvg-quality="576i",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://86.87.15.10:8004/play/a02g/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.nl" tvg-name="Disney Channel" group-title="Kids" tvg-language="nld" tvg-quality="360p",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://lb.iptvnetwork.net/ls28/10014/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="Disney Channel" group-title="Kids" tvg-language="pol" tvg-quality="1080p",Disney Channel
+http://185.227.34.179:8080/disney-channel-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel" group-title="Kids" tvg-language="por" tvg-quality="1080p",Disney Channel
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel" group-title="Kids" tvg-language="por" tvg-quality="576i",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://zntx.dyndns.org:8085/hls/disney.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.ro" tvg-name="Disney Channel" group-title="Kids" tvg-language="ron" tvg-quality="576i",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="576p",Disney Channel Latin America
+http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
+http://138.59.227.20:8000/play/a06w/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
+http://15.204.246.24:8080/DisneyHD/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Disney Channel Latin America
+http://181.78.8.199:8000/play/a0dn/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
+http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="720p",Disney Channel Latin America
+http://190.14.10.19:16000/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="720p",Disney Channel Latin America
+http://45.166.93.156:9999/play/a0f3/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
+http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
+http://45.185.163.75:8000/play/a02j/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
+http://45.70.201.81:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="480i",Disney Channel Latin America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/disney-channel-key/chunks.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="por;spa" tvg-quality="1080p",Disney Channel Latin America
+https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8
+
+#EXTINF:-1 tvg-id="DisneyInternationalHD.in" tvg-name="Disney International HD" group-title="Kids" tvg-language="eng" tvg-quality="576p",Disney International HD
+http://103.151.60.162:2122/play/a018/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="DisneyJr.fr" tvg-name="Disney Jr." group-title="Kids" tvg-language="fra" tvg-quality="1080p",Disney Jr.
+http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJr.fr" tvg-name="Disney Jr." group-title="Kids" tvg-language="fra" tvg-quality="576p",Disney Jr.
+http://41.205.64.66/DISNEY-JUNIOR/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJr.tr" tvg-name="Disney Jr." group-title="Animation;Kids" tvg-language="tur" tvg-quality="1080p",Disney Jr.
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Disney Jr. Latin America
+http://181.78.14.26:4000/play/a073/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Disney Jr. Latin America
+http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Disney Jr. Latin America
+http://190.14.10.19:16000/play/a02d/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Disney Jr. Latin America
+http://45.185.163.75:8000/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="576p",Disney Jr. Latin America
+http://45.70.201.81:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Disney Jr. Latin America
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="576i",Disney Jr. Latin America
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-id="DisneyJunior.cz" tvg-name="Disney Junior" group-title="Kids" tvg-language="ces" tvg-quality="576i",Disney Junior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_disney_junior/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.in" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Disney Junior
+http://103.151.60.162:2122/play/a016/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="DisneyJunior.ro" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng" tvg-quality="576i",Disney Junior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="576p",Disney Junior
+http://212.5.144.156/disneyjr/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="480p",Disney Junior
+http://tvsen5.aynascope.net/disney/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="480p",Disney Junior
+http://tvsen7.aynascope.net/disney/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="480p",Disney Junior
+http://tvsen7.aynascope.net/disneyjr/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="480p",Disney Junior
+https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F212.5.144.156%3A8080%2Fdisneyjr%2Ftracks-v1a1%2Fmono.m3u8
+
+#EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="Disney XD" group-title="Kids" tvg-language="pol" tvg-quality="576p",Disney XD
+http://185.227.34.179:8080/disney-xd/index.m3u8
+
+#EXTINF:-1 tvg-id="DoraTV.us" tvg-name="Dora TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Dora TV
+https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
+
+#EXTINF:-1 tvg-id="DRRamasjang.dk" tvg-name="DR Ramasjang" group-title="Kids" tvg-language="dan" tvg-quality="720p",DR Ramasjang
+https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8
+
+#EXTINF:-1 tvg-id="DrakeJosh.de" tvg-name="Drake & Josh" group-title="Kids" tvg-language="deu" tvg-quality="720p",Drake & Josh
+https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
+
+#EXTINF:-1 tvg-id="ducktv.sk" tvg-name="ducktv" group-title="Kids" tvg-language="eng" tvg-quality="720p",ducktv
+https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ducktv.sk" tvg-name="ducktv" group-title="Kids" tvg-language="eng" tvg-quality="1080i",ducktv
+https://dash3.antik.sk/live/duck_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="ducktv.sk" tvg-name="ducktv" group-title="Kids" tvg-language="eng" tvg-quality="720p",ducktv
+https://jmp2.uk/stvp-ESBC4700001GR
+
+#EXTINF:-1 tvg-id="ducktv.sk" tvg-name="ducktv" group-title="Kids" tvg-language="eng" tvg-quality="720p",ducktv
+https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ducktv.sk" tvg-name="ducktv" group-title="Kids" tvg-language="eng" tvg-quality="720p",ducktv
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168
+
+#EXTINF:-1 tvg-id="ducktvPLUS.sk" tvg-name="ducktv PLUS" group-title="Kids" tvg-language="slk" tvg-quality="576i",ducktv PLUS
+https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DumDum.br" tvg-name="DumDum" group-title="Kids" tvg-language="por" tvg-quality="720p",DumDum
+http://168.197.104.22/ZOOMOO/index.m3u8
+
+#EXTINF:-1 tvg-id="DumDum.br" tvg-name="DumDum" group-title="Kids" tvg-language="por" tvg-quality="720p",DumDum
+http://186.219.52.187/zoomoo/index.m3u8
+
+#EXTINF:-1 tvg-id="DumDum.br" tvg-name="DumDum" group-title="Kids" tvg-language="por" tvg-quality="720p",DumDum
+http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
+
+#EXTINF:-1 tvg-id="DurontoTV.bd" tvg-name="Duronto TV" group-title="Kids" tvg-language="ben" tvg-quality="720p",Duronto TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://box.bbaria.net/DurontoTV/index.m3u8
+
+#EXTINF:-1 tvg-id="DurontoTV.bd" tvg-name="Duronto TV" group-title="Kids" tvg-language="ben" tvg-quality="720p",Duronto TV
+https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+
+#EXTINF:-1 tvg-id="EBSKids.kr" tvg-name="EBS Kids" group-title="Kids" tvg-language="kor" tvg-quality="400p",EBS Kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EKids.bg" tvg-name="EKids" group-title="Kids" tvg-language="bul" tvg-quality="576p",EKids
+http://78.108.244.134:8899/ekids
+
+#EXTINF:-1 tvg-id="ElChavoTV.mx" tvg-name="El Chavo TV" group-title="Kids" tvg-language="spa" tvg-quality="720p",El Chavo TV
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EpicKids.in" tvg-name="Epic Kids" group-title="Kids" tvg-language="hin" tvg-quality="1080p",Epic Kids
+https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ETV2.ee" tvg-name="ETV 2" group-title="Culture;Kids" tvg-language="est" tvg-quality="720p",ETV 2
+https://sb.err.ee/live/etv2.m3u8
+
+#EXTINF:-1 tvg-id="ETVBalBharat.in" tvg-name="ETV Bal Bharat" group-title="Kids" tvg-language="asm;ben;eng;guj;hin;kan;mal;mar;ori;pan;tam;tel" tvg-quality="576p",ETV Bal Bharat
+http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
+
+#EXTINF:-1 tvg-id="Eureka.co" tvg-name="Eureka" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Eureka
+https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8
+
+#EXTINF:-1 tvg-id="ExtremaKidsTV.cr" tvg-name="Extrema Kids TV" group-title="Animation;Kids" tvg-language="spa" tvg-quality="720p",Extrema Kids TV
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ForeverKids.us" tvg-name="Forever Kids" group-title="Kids" tvg-language="eng" tvg-quality="480i",Forever Kids
+https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
+
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" group-title="Kids" tvg-language="fra" tvg-quality="576i",France 4
+http://149.62.177.107:9999/France_4/index.m3u8
+
+#EXTINF:-1 tvg-id="FunBox.cl" tvg-name="FunBox" group-title="Kids" tvg-language="spa" tvg-quality="480i",FunBox
+http://186.148.196.100:8000/play/a00d
+
+#EXTINF:-1 tvg-id="GarfieldandFriends.us" tvg-name="Garfield and Friends" group-title="Kids" tvg-language="eng" tvg-quality="480i",Garfield and Friends
+https://jmp2.uk/plu-60faf9ddfcc1f200070a5932.m3u8
+
+#EXTINF:-1 tvg-id="GarfieldandFriends.us" tvg-name="Garfield and Friends" group-title="Kids" tvg-language="eng" tvg-quality="480i",Garfield and Friends
+https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
+
+#EXTINF:-1 tvg-id="GEMJunior.tr" tvg-name="GEM Junior" group-title="Kids" tvg-language="fas" tvg-quality="480i",GEM Junior
+https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="GEMKids.tr" tvg-name="GEM Kids" group-title="Kids" tvg-language="fas" tvg-quality="480i",GEM Kids
+https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="GiggleMug.us" tvg-name="Giggle Mug" group-title="Kids" tvg-language="eng" tvg-quality="576p",Giggle Mug
+https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8
+
+#EXTINF:-1 tvg-id="GiggleMug.us" tvg-name="Giggle Mug" group-title="Kids" tvg-language="eng" tvg-quality="576p",Giggle Mug
+https://tvsen6.aynaott.com/ytv/index.m3u8
+
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob" group-title="Kids" tvg-language="por" tvg-quality="576p",Gloob
+http://45.235.0.78/Gloob/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GloobWeb.br" tvg-name="Gloob Web" group-title="Kids" tvg-language="por" tvg-quality="576i",Gloob Web
+https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8
+
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-name="God Stands Kids Club TV" group-title="Kids;Religious" tvg-language="ara" tvg-quality="480i",God Stands Kids Club TV
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
+
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-name="God Stands Kids Club TV" group-title="Kids;Religious" tvg-language="zho" tvg-quality="480i",God Stands Kids Club TV
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
+
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-name="God Stands Kids Club TV" group-title="Kids;Religious" tvg-language="urd" tvg-quality="480i",God Stands Kids Club TV
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
+
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-name="God Stands Kids Club TV" group-title="Kids;Religious" tvg-language="eng" tvg-quality="480i",God Stands Kids Club TV
+https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
+
+#EXTINF:-1 tvg-id="GoldenEagleCartoon.cn" tvg-name="Golden Eagle Cartoon" group-title="Animation;Kids" tvg-language="zho" tvg-quality="576i",Golden Eagle Cartoon
+http://1.24.190.98:10080/hls/51/index.m3u8
+
+#EXTINF:-1 tvg-id="GoldenEagleCartoon.cn" tvg-name="Golden Eagle Cartoon" group-title="Animation;Kids" tvg-language="zho" tvg-quality="540p",Golden Eagle Cartoon
+http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8
+
+#EXTINF:-1 tvg-id="GoldenEagleCartoon.cn" tvg-name="Golden Eagle Cartoon" group-title="Animation;Kids" tvg-language="zho" tvg-quality="576p",Golden Eagle Cartoon
+http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8
+
+#EXTINF:-1 tvg-id="GoldenEagleCartoon.cn" tvg-name="Golden Eagle Cartoon" group-title="Animation;Kids" tvg-language="zho" tvg-quality="576p",Golden Eagle Cartoon
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
+
+#EXTINF:-1 tvg-id="GreenGoldTV.in" tvg-name="Green Gold TV" group-title="Kids" tvg-language="hin" tvg-quality="1080p",Green Gold TV
+https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GrooviaKids.id" tvg-name="Groovia Kids" group-title="Kids" tvg-language="ind" tvg-quality="576p",Groovia Kids
+https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
+
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" group-title="Kids" tvg-language="fra" tvg-quality="576i",Gulli
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147:8080/Gulli/index.m3u8
+
+#EXTINF:-1 tvg-id="GulliGirl.ru" tvg-name="Gulli Girl" group-title="Kids" tvg-language="rus" tvg-quality="576p",Gulli Girl
+http://flussonic.linkintel.ru/gulli_girl/index.m3u8
+
+#EXTINF:-1 tvg-id="GulliGirl.ru" tvg-name="Gulli Girl" group-title="Kids" tvg-language="rus" tvg-quality="576p",Gulli Girl
+http://stream.mcquack.net/305/index.m3u8
+
+#EXTINF:-1 tvg-id="GulliGirl.ru" tvg-name="Gulli Girl" group-title="Kids" tvg-language="rus" tvg-quality="576p",Gulli Girl
+https://live-3.otcnet.ru/GulliGirl/index.m3u8
+
+#EXTINF:-1 tvg-id="GulliGirl.ru" tvg-name="Gulli Girl" group-title="Kids" tvg-language="rus" tvg-quality="720p",Gulli Girl
+https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="HappyKids.us" tvg-name="HappyKids" group-title="Kids" tvg-language="eng" tvg-quality="1080p",HappyKids
+https://dil9xdvretp0f.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-id="HappyKids.us" tvg-name="HappyKids" group-title="Kids" tvg-language="eng" tvg-quality="576p",HappyKids
+https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8
+
+#EXTINF:-1 tvg-id="HasbroLegends.us" tvg-name="Hasbro Legends" group-title="Animation;Kids" tvg-language="eng" tvg-quality="1080p",Hasbro Legends
+https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HeyArnold.us" tvg-name="Hey Arnold!" group-title="Kids" tvg-language="spa" tvg-quality="720p",Hey Arnold!
+https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
+
+#EXTINF:-1 tvg-id="HodHodFarsiTV.ir" tvg-name="HodHod Farsi TV" group-title="Kids" tvg-language="fas" tvg-quality="1080p",HodHod Farsi TV
+https://northtelecom.b-cdn.net/hodhodtv.m3u8
+
+#EXTINF:-1 tvg-id="Hop.il" tvg-name="Hop!" group-title="Kids" tvg-language="heb" tvg-quality="1080p",Hop!
+http://stream.mcquack.net/44/index.m3u8
+
+#EXTINF:-1 tvg-id="HungamaTV.in" tvg-name="Hungama TV" group-title="Kids" tvg-language="hin;tam;tel" tvg-quality="576p",Hungama TV
+http://103.185.24.134:3001/HUNGAMA/index.m3u8
+
+#EXTINF:-1 tvg-id="HungamaTV.in" tvg-name="Hungama TV" group-title="Kids" tvg-language="hin;tam;tel" tvg-quality="576p",Hungama TV
+http://66.102.126.10:8000/play/a023/index.m3u8
+
+#EXTINF:-1 tvg-id="iCarly.se" tvg-name="iCarly" group-title="Kids" tvg-language="dan;eng" tvg-quality="720p",iCarly
+https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8
+
+#EXTINF:-1 tvg-id="iCarly.se" tvg-name="iCarly" group-title="Kids" tvg-language="eng;swe" tvg-quality="720p",iCarly
+https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8
+
+#EXTINF:-1 tvg-id="iCarly.se" tvg-name="iCarly" group-title="Kids" tvg-language="eng;nor" tvg-quality="720p",iCarly
+https://jmp2.uk/plu-61c1d9b31a9c310008f8ee57.m3u8
+
+#EXTINF:-1 tvg-id="InazumaEleven.us" tvg-name="Inazuma Eleven" group-title="Kids;Series" tvg-language="fra" tvg-quality="576i",Inazuma Eleven
+https://jmp2.uk/plu-611e75226b7f420007c3f319.m3u8
+
+#EXTINF:-1 tvg-id="InazumaEleven.us" tvg-name="Inazuma Eleven" group-title="Kids;Series" tvg-language="fra" tvg-quality="576i",Inazuma Eleven
+https://jmp2.uk/plu-612375086abc84000738fc03.m3u8
+
+#EXTINF:-1 tvg-id="InazumaEleven.us" tvg-name="Inazuma Eleven" group-title="Kids;Series" tvg-language="fra" tvg-quality="576i",Inazuma Eleven
+https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
+
+#EXTINF:-1 tvg-id="IRIBOmid.ir" tvg-name="IRIB Omid" group-title="Kids" tvg-language="fas" tvg-quality="576i",IRIB Omid
+https://ncdn.telewebion.ir/omid/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IuniorTV.it" tvg-name="Iunior TV" group-title="Kids" tvg-language="eng;ita" tvg-quality="1080p",Iunior TV
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
+
+#EXTINF:-1 tvg-id="IuniorTV.it" tvg-name="Iunior TV" group-title="Kids" tvg-language="eng;ita" tvg-quality="720p",Iunior TV
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JapanimTV.be" tvg-name="JapanimTV" group-title="Animation;Kids" tvg-language="fra" tvg-quality="1080p",JapanimTV
+https://foxkidstv.be:3369/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="JiangxiChildrensChannel.cn" tvg-name="Jiangxi Children's Channel" group-title="Animation;Kids" tvg-language="zho" tvg-quality="576i",Jiangxi Children's Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
+
+#EXTINF:-1 tvg-id="JimJam.hu" tvg-name="JimJam" group-title="Kids" tvg-language="eng;hun" tvg-quality="576i",JimJam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/jim_jam_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" group-title="Kids" tvg-language="ces;eng;heb;por;slk" tvg-quality="576p",JimJam Europe
+http://158.160.149.81:8080/269/index.m3u8
+
+#EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" group-title="Kids" tvg-language="ces;eng;heb;por;slk" tvg-quality="720p",JimJam Europe
+http://212.5.144.156:8080/jimjam/index.m3u8
+
+#EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" group-title="Kids" tvg-language="ces;eng;heb;por;slk" tvg-quality="576p",JimJam Europe
+http://stream.mcquack.net/150/index.m3u8
+
+#EXTINF:-1 tvg-id="KapitanFantastika.ru" tvg-name="Kapitan Fantastika" group-title="Kids" tvg-language="rus" tvg-quality="1080p",Kapitan Fantastika
+http://stream.mcquack.net/144/index.m3u8
+
+#EXTINF:-1 tvg-id="KapitanFantastika.ru" tvg-name="Kapitan Fantastika" group-title="Kids" tvg-language="rus" tvg-quality="576p",Kapitan Fantastika
+https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="KartoonChannel.us" tvg-name="Kartoon Channel!" group-title="Kids" tvg-language="eng" tvg-quality="720p",Kartoon Channel!
+https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8
+
+#EXTINF:-1 tvg-id="KartoonChannel.us" tvg-name="Kartoon Channel!" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Kartoon Channel!
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KartoonChannel.us" tvg-name="Kartoon Channel!" group-title="Kids" tvg-language="eng" tvg-quality="720p",Kartoon Channel!
+https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8
+
+#EXTINF:-1 tvg-id="KartoonChannel.us" tvg-name="Kartoon Channel!" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Kartoon Channel!
+https://hlspackager.akamaized.net/live/DB/KARTOON_CHANNEL/HLS/KARTOON_CHANNEL.m3u8
+
+#EXTINF:-1 tvg-id="KartoonChannel.us" tvg-name="Kartoon Channel!" group-title="Kids" tvg-language="eng" tvg-quality="720p",Kartoon Channel!
+https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
+
+#EXTINF:-1 tvg-id="KartoonChannel.us" tvg-name="Kartoon Channel!" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Kartoon Channel!
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KartoonChannel.us" tvg-name="Kartoon Channel!" group-title="Kids" tvg-language="eng" tvg-quality="720p",Kartoon Channel!
+https://rarelivetv8080.neocities.org/USA_KARTOON_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="KetchupTV.us" tvg-name="Ketchup TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Ketchup TV
+https://d24p9tv2w5yorn.cloudfront.net/vod.m3u8
+
+#EXTINF:-1 tvg-id="KetchupTV.us" tvg-name="Ketchup TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Ketchup TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13171
+
+#EXTINF:-1 tvg-id="KidOO.us" tvg-name="KidOO" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",KidOO
+http://15.204.246.24:8080/KidooHD/index.m3u8
+
+#EXTINF:-1 tvg-id="KidoodleTV.ca" tvg-name="Kidoodle.TV" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Kidoodle.TV
+https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KidsMovieClub.us" tvg-name="Kids Movie Club" group-title="Kids;Movies" tvg-language="eng" tvg-quality="480i",Kids Movie Club
+https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
+
+#EXTINF:-1 tvg-id="KidsTV.id" tvg-name="Kids TV" group-title="Kids" tvg-language="ind" tvg-quality="576i",Kids TV
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+
+#EXTINF:-1 tvg-id="KidsZone.pk" tvg-name="Kids Zone" group-title="Kids" tvg-language="eng;urd" tvg-quality="720p",Kids Zone
+http://103.250.28.74:8000/play/a04m/index.m3u8
+
+#EXTINF:-1 tvg-id="KidsFlix.us" tvg-name="KidsFlix" group-title="Kids;Movies" tvg-language="eng" tvg-quality="1080p",KidsFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
+#EXTINF:-1 tvg-id="KidZoneMax.ee" tvg-name="KidZone Max" group-title="Kids" tvg-language="eng;est;lav;lit;rus" tvg-quality="1080p",KidZone Max
+#EXTVLCOPT:http-referrer=https://kidzonemax.lt
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd
+
+#EXTINF:-1 tvg-id="KiKA.de" tvg-name="KiKA" group-title="Kids" tvg-language="deu" tvg-quality="1080i",KiKA
+https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KiKA.de" tvg-name="KiKA" group-title="Kids" tvg-language="deu" tvg-quality="1080p",KiKA
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+
+#EXTINF:-1 tvg-id="KiKA.de" tvg-name="KiKA" group-title="Kids" tvg-language="deu" tvg-quality="1080p",KiKA
+https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
+
+#EXTINF:-1 tvg-id="KinoKazka.es" tvg-name="KinoKazka" group-title="Kids" tvg-language="ukr" tvg-quality="1080p",KinoKazka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/167/index.m3u8
+
+#EXTINF:-1 tvg-id="KnowledgeNetwork.ca" tvg-name="Knowledge Network" group-title="Education;Kids" tvg-language="eng" tvg-quality="720p",Knowledge Network
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+
+#EXTINF:-1 tvg-id="Kolyokklub.hu" tvg-name="Kolyokklub" group-title="Kids" tvg-language="hun" tvg-quality="576i",Kolyokklub
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/kolyokklub_atk/index.m3u8
+
+#EXTINF:-1 tvg-id="KoogiTV.eg" tvg-name="Koogi TV" group-title="Kids;Religious" tvg-language="ara" tvg-quality="1080p",Koogi TV
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-name="Kuriakos Kids" group-title="Animation;Kids;Religious" tvg-language="por" tvg-quality="1080p",Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Lale.ua" tvg-name="Lale" group-title="Kids" tvg-language="ukr" tvg-quality="576i",Lale
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8
+
+#EXTINF:-1 tvg-id="LegoChannel.us" tvg-name="Lego Channel" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Lego Channel
+https://dh18i7whff86v.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-id="LegoChannel.us" tvg-name="Lego Channel" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Lego Channel
+https://dltiqboxjw21d.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-id="LEGOKidsTV.us" tvg-name="LEGO Kids TV" group-title="Kids" tvg-language="eng" tvg-quality="480i",LEGO Kids TV
+https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
+
+#EXTINF:-1 tvg-id="LittleStarsUniverse.us" tvg-name="Little Stars Universe" group-title="Kids" tvg-language="eng" tvg-quality="480i",Little Stars Universe
+https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8
+
+#EXTINF:-1 tvg-id="LogosTVKids.es" tvg-name="Logos TV Kids" group-title="Kids;Religious" tvg-language="spa" tvg-quality="720p",Logos TV Kids
+https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LucasFriends.us" tvg-name="Lucas & Friends" group-title="Kids" tvg-language="eng" tvg-quality="576i",Lucas & Friends
+https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8
+
+#EXTINF:-1 tvg-id="MNetKids.mk" tvg-name="M-Net Kids" group-title="Kids" tvg-language="mkd" tvg-quality="720p",M-Net Kids
+http://ares.mnet.mk/hls/mnet-kids.m3u8
+
+#EXTINF:-1 tvg-id="Mama.ru" tvg-name="Mama" group-title="Kids" tvg-language="rus" tvg-quality="576p",Mama
+http://31.148.48.15/Mama/index.m3u8
+
+#EXTINF:-1 tvg-id="Mama.ru" tvg-name="Mama" group-title="Kids" tvg-language="rus" tvg-quality="576p",Mama
+http://flussonic.linkintel.ru/mama/index.m3u8
+
+#EXTINF:-1 tvg-id="Mama.ru" tvg-name="Mama" group-title="Kids" tvg-language="rus" tvg-quality="576p",Mama
+http://stream.mcquack.net/79/index.m3u8
+
+#EXTINF:-1 tvg-id="Mama.ru" tvg-name="Mama" group-title="Kids" tvg-language="rus" tvg-quality="576p",Mama
+https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MBC3USA.us" tvg-name="MBC 3 USA" group-title="Kids" tvg-language="ara;eng" tvg-quality="1080p",MBC 3 USA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+
+#EXTINF:-1 tvg-id="MCN6MusicChannel.us" tvg-name="MCN6 Music Channel" group-title="Animation;Kids;Music" tvg-language="eng" tvg-quality="1080p",MCN6 Music Channel
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
+
+#EXTINF:-1 tvg-id="MiMiTV.uz" tvg-name="MiMi TV" group-title="Kids" tvg-language="uzb" tvg-quality="720p",MiMi TV
+https://fl.biztv.media/MiMiTV_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-name="Minika Cocuk" group-title="Kids" tvg-language="tur" tvg-quality="576p",Minika Cocuk
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+
+#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-name="Minika Cocuk" group-title="Kids" tvg-language="tur" tvg-quality="720p",Minika Cocuk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+
+#EXTINF:-1 tvg-id="MinikaGo.tr" tvg-name="Minika Go" group-title="Kids" tvg-language="eng;tur" tvg-quality="576p",Minika Go
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+
+#EXTINF:-1 tvg-id="MinikaGo.tr" tvg-name="Minika Go" group-title="Kids" tvg-language="eng;tur" tvg-quality="720p",Minika Go
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+
+#EXTINF:-1 tvg-id="Minimax.hu" tvg-name="Minimax" group-title="Kids" tvg-language="hun" tvg-quality="576i",Minimax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/minimax_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="Minimax.pk" tvg-name="Minimax" group-title="Kids" tvg-language="urd" tvg-quality="360p",Minimax
+https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Minimax.ro" tvg-name="Minimax" group-title="Animation;Kids" tvg-language="eng;hun;ron" tvg-quality="576i",Minimax
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
+
+#EXTINF:-1 tvg-id="MinimaxCEE.cz" tvg-name="Minimax CEE" group-title="Kids" tvg-language="eng" tvg-quality="576p",Minimax CEE
+http://88.212.15.17/live/test_minimax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-name="Moonbug Kids" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Moonbug Kids
+https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
+
+#EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-name="Moonbug Kids" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-name="Moonbug Kids" group-title="Kids" tvg-language="eng" tvg-quality="720p",Moonbug Kids
+https://mumbai-edge.smartplaytv.in/Moonbug/index.m3u8
+
+#EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-name="Moonbug Kids" group-title="Kids" tvg-language="eng" tvg-quality="576p",Moonbug Kids
+https://tvsen6.aynaott.com/MoonbugKids/index.m3u8
+
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-name="Mr Bean Animated" group-title="Animation;Kids" tvg-language="eng" tvg-quality="1080p",Mr Bean Animated
+https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-name="Mr Bean Animated" group-title="Animation;Kids" tvg-language="eng" tvg-quality="1080p",Mr Bean Animated
+https://amg00627-amg00627c23-samsung-gb-3927.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-name="Mr Bean Animated" group-title="Animation;Kids" tvg-language="eng" tvg-quality="1080p",Mr Bean Animated
+https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-name="Mr Bean Animated" group-title="Animation;Kids" tvg-language="ita" tvg-quality="1080p",Mr Bean Animated
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-name="Mr Bean Animated" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Mr Bean Animated
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-name="Mr Bean Animated" group-title="Animation;Kids" tvg-language="fra" tvg-quality="1080p",Mr Bean Animated
+https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-name="Mr Bean Animated" group-title="Animation;Kids" tvg-language="eng" tvg-quality="1080p",Mr Bean Animated
+https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8
+
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-name="Mr Bean Animated" group-title="Animation;Kids" tvg-language="eng" tvg-quality="1080p",Mr Bean Animated
+https://jmp2.uk/plu-69fca9f9b9c0f0d444f631ca.m3u8
+
+#EXTINF:-1 tvg-id="MrBeanLiveAction.uk" tvg-name="Mr Bean Live Action" group-title="Comedy;Kids" tvg-language="eng" tvg-quality="1080p",Mr Bean Live Action
+https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mult.ru" tvg-name="Mult" group-title="Kids" tvg-language="kaz;rus" tvg-quality="576p",Mult
+http://31.148.48.15/Mult/index.m3u8
+
+#EXTINF:-1 tvg-id="Mult.ru" tvg-name="Mult" group-title="Kids" tvg-language="kaz;rus" tvg-quality="1080p",Mult
+http://31.148.48.15/Mult_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Mult.ru" tvg-name="Mult" group-title="Kids" tvg-language="kaz;rus" tvg-quality="576p",Mult
+http://flussonic.linkintel.ru/Mult/index.m3u8
+
+#EXTINF:-1 tvg-id="Mult.ru" tvg-name="Mult" group-title="Kids" tvg-language="kaz;rus" tvg-quality="576p",Mult
+http://stream.mcquack.net/232/index.m3u8
+
+#EXTINF:-1 tvg-id="Mult.ru" tvg-name="Mult" group-title="Kids" tvg-language="rus" tvg-quality="576p",Mult
+https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Mult.ru" tvg-name="Mult" group-title="Kids" tvg-language="kaz;rus" tvg-quality="576p",Mult
+https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Multimuzyka.ru" tvg-name="Mult i muzyka" group-title="Kids" tvg-language="rus" tvg-quality="576p",Mult i muzyka
+http://31.148.48.15/Multimuzika/index.m3u8
+
+#EXTINF:-1 tvg-id="Multimuzyka.ru" tvg-name="Mult i muzyka" group-title="Kids" tvg-language="rus" tvg-quality="576p",Mult i muzyka
+http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8
+
+#EXTINF:-1 tvg-id="Multimuzyka.ru" tvg-name="Mult i muzyka" group-title="Kids" tvg-language="rus" tvg-quality="576p",Mult i muzyka
+http://stream.mcquack.net/82/index.m3u8
+
+#EXTINF:-1 tvg-id="Multilandia.ru" tvg-name="Multilandia" group-title="Kids" tvg-language="rus" tvg-quality="576p",Multilandia
+http://31.148.48.15/Multilandiya/index.m3u8
+
+#EXTINF:-1 tvg-id="Multilandia.ru" tvg-name="Multilandia" group-title="Kids" tvg-language="rus" tvg-quality="576p",Multilandia
+https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Multilandia.ru" tvg-name="Multilandia" group-title="Kids" tvg-language="rus" tvg-quality="576i",Multilandia
+https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MyKidz.id" tvg-name="My Kidz" group-title="Kids" tvg-language="ind" tvg-quality="720p",My Kidz
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+
+#EXTINF:-1 tvg-id="MyKidz.id" tvg-name="My Kidz" group-title="Kids" tvg-language="ind" tvg-quality="576i",My Kidz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
+
+#EXTINF:-1 tvg-id="NCMEducationalKidsChannel.us" tvg-name="NCM Educational & Kids Channel" group-title="Education;Kids" tvg-language="eng" tvg-quality="480i",NCM Educational & Kids Channel
+https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
+
+#EXTINF:-1 tvg-id="NewChannel.ca" tvg-name="New Channel" group-title="Kids;Music" tvg-language="eng" tvg-quality="480p",New Channel
+#EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6ab2104508fd5ee36702e3d4
+https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8
+
+#EXTINF:-1 tvg-id="NewChannelPop.ca" tvg-name="New Channel Pop!" group-title="Kids" tvg-language="eng;ind;msa;por;rus" tvg-quality="480p",New Channel Pop!
+#EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6ab37c6c7e057f9063071c85
+https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.cz" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng" tvg-quality="576i",Nick Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_nick_jr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.hr" tvg-name="Nick Jr." group-title="Kids" tvg-language="hrv" tvg-quality="540p",Nick Jr.
+http://176.61.157.250/NickJr/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.hu" tvg-name="Nick Jr." group-title="Kids" tvg-language="hun" tvg-quality="576i",Nick Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/nick_junior_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
+http://103.151.60.162:2122/play/a00s/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
+http://103.185.24.134:3001/NICK-JR/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.in" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;hin" tvg-quality="576p",Nick Jr.
+http://202.70.146.135:8000/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.it" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;ita" tvg-quality="720p",Nick Jr.
+http://102.129.186.182:81/nick/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.it" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng;ita" tvg-quality="576i",Nick Jr.
+https://streamer-jv9.pages.dev/italy/nickjr.m3u
+
+#EXTINF:-1 tvg-id="NickJr.pl" tvg-name="Nick Jr." group-title="Kids" tvg-language="pol" tvg-quality="576i",Nick Jr.
+http://92.114.85.87:8013/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.ru" tvg-name="Nick Jr." group-title="Kids" tvg-language="rus" tvg-quality="576p",Nick Jr.
+http://stream.mcquack.net/220/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.ru" tvg-name="Nick Jr." group-title="Kids" tvg-language="rus" tvg-quality="576p",Nick Jr.
+https://stream8.cinerama.uz/1501/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng" tvg-quality="720p",Nick Jr.
+http://212.5.144.156:8080/nickjr/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." group-title="Kids" tvg-language="eng" tvg-quality="720p",Nick Jr.
+http://tvsen7.aynascope.net/nickjr/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJrClub.de" tvg-name="Nick Jr. Club" group-title="Kids" tvg-language="deu" tvg-quality="720p",Nick Jr. Club
+https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
+
+#EXTINF:-1 tvg-id="NickJrClub.us" tvg-name="Nick Jr. Club" group-title="Kids" tvg-language="spa" tvg-quality="720p",Nick Jr. Club
+https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
+
+#EXTINF:-1 tvg-id="NickJrClub.us" tvg-name="Nick Jr. Club" group-title="Kids" tvg-language="por" tvg-quality="720p",Nick Jr. Club
+https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
+
+#EXTINF:-1 tvg-id="NickJrLatinAmerica.us" tvg-name="Nick Jr. Latin America" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Nick Jr. Latin America
+https://streaming.onnethn.com/NICK_JR/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-name="Nick Jr. Pluto TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nick Jr. Pluto TV
+https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
+
+#EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-name="Nick Jr. Pluto TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nick Jr. Pluto TV
+https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
+
+#EXTINF:-1 tvg-id="NickSchweiz.ch" tvg-name="Nick Schweiz" group-title="Kids" tvg-language="deu" tvg-quality="576i",Nick Schweiz
+https://hostemea1236.s.gy/hostemea/nickschweiz/28/25/65/74/gg/locos.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.bg" tvg-name="Nickelodeon" group-title="Kids" tvg-language="bul" tvg-quality="576i",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a056
+
+#EXTINF:-1 tvg-id="Nickelodeon.bg" tvg-name="Nickelodeon" group-title="Kids" tvg-language="bul" tvg-quality="576i",Nickelodeon
+http://87.120.179.187:8000/play/a00x
+
+#EXTINF:-1 tvg-id="Nickelodeon.bg" tvg-name="Nickelodeon" group-title="Kids" tvg-language="bul" tvg-quality="576p",Nickelodeon
+http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon" group-title="Kids" tvg-language="por" tvg-quality="480p",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.cz" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ces" tvg-quality="576i",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_nickelodeon_hevc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" group-title="Kids" tvg-language="deu;eng" tvg-quality="576i",Nickelodeon
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" group-title="Kids" tvg-language="deu;eng" tvg-quality="576i",Nickelodeon
+https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="Nickelodeon" group-title="Kids" tvg-language="fra" tvg-quality="504p",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.hr" tvg-name="Nickelodeon" group-title="Kids" tvg-language="hrv" tvg-quality="1080p",Nickelodeon
+http://176.61.157.250/Nickelodeon/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.hu" tvg-name="Nickelodeon" group-title="Kids" tvg-language="hun" tvg-quality="576i",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
+http://103.185.24.134:3001/NICK/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
+http://202.70.146.135:8000/play/a04c/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
+http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5
+
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ita" tvg-quality="576i",Nickelodeon
+https://hostemea1236.s.gy/italia/nikc/23/32/93/locos.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-name="Nickelodeon" group-title="Kids" tvg-language="pol;ukr" tvg-quality="576i",Nickelodeon
+http://92.114.85.87:8013/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ron" tvg-quality="576i",Nickelodeon
+http://178.76.68.60:7442/64/mpegts
+
+#EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ron" tvg-quality="576i",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.ru" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng;rus" tvg-quality="576p",Nickelodeon
+http://stream.mcquack.net/443/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng" tvg-quality="576p",Nickelodeon
+http://tvsen7.aynascope.net/nicklodean/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nickelodeon
+http://198.58.104.90:8989/nickelodeon/index.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonCIS.kz" tvg-name="Nickelodeon CIS" group-title="Kids" tvg-language="rus" tvg-quality="1080p",Nickelodeon CIS
+https://stream8.cinerama.uz/1500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonClasico.us" tvg-name="Nickelodeon Clasico" group-title="Kids" tvg-language="spa" tvg-quality="720p",Nickelodeon Clasico
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonClassico.us" tvg-name="Nickelodeon Classico" group-title="Kids" tvg-language="por" tvg-quality="720p",Nickelodeon Classico
+https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonClassics.de" tvg-name="Nickelodeon Classics" group-title="Kids" tvg-language="deu" tvg-quality="720p",Nickelodeon Classics
+https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeonenespanol.us" tvg-name="Nickelodeon en espanol" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nickelodeon en espanol
+https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonGlobal.uk" tvg-name="Nickelodeon Global" group-title="Kids" tvg-language="eng" tvg-quality="576p",Nickelodeon Global
+http://103.151.60.162:2122/play/a017/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-name="Nickelodeon Junior" group-title="Kids" tvg-language="fra" tvg-quality="1080p",Nickelodeon Junior
+http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Nickelodeon Latin America
+http://15.204.246.24:8080/NickHD/index.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Nickelodeon Latin America
+http://181.78.79.131:8000/play/a0qm
+
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Nickelodeon Latin America
+http://190.93.224.42/NICK/index.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Nickelodeon Latin America
+https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Nickelodeon Latin America
+https://zapster.trapemn.tv:1936/CD-LATAM/Nickelodeon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonPlutoTV.us" tvg-name="Nickelodeon Pluto TV" group-title="Animation;Kids" tvg-language="eng" tvg-quality="720p",Nickelodeon Pluto TV
+https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonTeen.us" tvg-name="Nickelodeon Teen" group-title="Kids" tvg-language="spa" tvg-quality="720p",Nickelodeon Teen
+https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonTeen.us" tvg-name="Nickelodeon Teen" group-title="Kids" tvg-language="por" tvg-quality="720p",Nickelodeon Teen
+https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonToons.us" tvg-name="Nickelodeon Toons" group-title="Kids" tvg-language="por" tvg-quality="720p",Nickelodeon Toons
+https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonToons.us" tvg-name="Nickelodeon Toons" group-title="Kids" tvg-language="spa" tvg-quality="720p",Nickelodeon Toons
+https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
+
+#EXTINF:-1 tvg-id="NickOnline.br" tvg-name="NickOnline" group-title="Animation;Kids" tvg-language="por" tvg-quality="720p",NickOnline
+https://x1colegal.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="NickOnlineBobEsponja.br" tvg-name="NickOnline Bob Esponja" group-title="Animation;Kids" tvg-language="por" tvg-quality="720p",NickOnline Bob Esponja
+https://bob.x1colegal.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.cz" tvg-name="Nicktoons" group-title="Kids" tvg-language="ces;hun" tvg-quality="576i",Nicktoons
+http://88.212.15.17/live/test_nicktoons/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.hu" tvg-name="Nicktoons" group-title="Kids" tvg-language="hun" tvg-quality="576i",Nicktoons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/nicktoons_hungary/index.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.pl" tvg-name="Nicktoons" group-title="Kids" tvg-language="eng" tvg-quality="576i",Nicktoons
+http://92.114.85.87:8013/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.ro" tvg-name="Nicktoons" group-title="Kids" tvg-language="eng" tvg-quality="576i",Nicktoons
+http://178.76.68.60:7442/80/mpegts
+
+#EXTINF:-1 tvg-id="Nicktoons.ro" tvg-name="Nicktoons" group-title="Kids" tvg-language="eng" tvg-quality="576i",Nicktoons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nicktoons
+http://41.205.93.154/NICKTOONS/index.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nicktoons
+https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" group-title="Kids" tvg-language="eng" tvg-quality="720p",Nicktoons
+https://tvsen7.aynascope.net/nicktoons/index.m3u8
+
+#EXTINF:-1 tvg-id="NicktoonsCIS.ru" tvg-name="Nicktoons CIS" group-title="Kids" tvg-language="rus" tvg-quality="1080p",Nicktoons CIS
+https://stream8.cinerama.uz/1502/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NikiJunior.ua" tvg-name="Niki Junior" group-title="Kids" tvg-language="ukr" tvg-quality="576i",Niki Junior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://158.101.222.193:88/georgia_play.php?id=nikijunior
+
+#EXTINF:-1 tvg-id="NikiJunior.ua" tvg-name="Niki Junior" group-title="Kids" tvg-language="ukr" tvg-quality="1080p",Niki Junior
+http://stream.mcquack.net/262/index.m3u8
+
+#EXTINF:-1 tvg-id="NikiKids.ua" tvg-name="Niki Kids" group-title="Kids" tvg-language="ukr" tvg-quality="1080p",Niki Kids
+http://stream.mcquack.net/271/index.m3u8
+
+#EXTINF:-1 tvg-id="NinjaKidzTV.us" tvg-name="Ninja Kidz TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Ninja Kidz TV
+https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NinjaKidzTV.us" tvg-name="Ninja Kidz TV" group-title="Kids" tvg-language="eng" tvg-quality="480i",Ninja Kidz TV
+https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NRKSuper.no" tvg-name="NRK Super" group-title="Kids" tvg-language="nor" tvg-quality="1080i",NRK Super
+https://nrk-live-no.akamaized.net/nrksuper/muxed.m3u8
+
+#EXTINF:-1 tvg-id="OReinoInfantil.us" tvg-name="O Reino Infantil" group-title="Kids" tvg-language="por" tvg-quality="480i",O Reino Infantil
+https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
+
+#EXTINF:-1 tvg-id="O.ru" tvg-name="O!" group-title="Kids" tvg-language="rus" tvg-quality="720p",O!
+http://88.212.15.17/live/test_telekanal_o/playlist.m3u8
+
+#EXTINF:-1 tvg-id="O.ru" tvg-name="O!" group-title="Kids" tvg-language="rus" tvg-quality="576p",O!
+http://stream.mcquack.net/60/index.m3u8
+
+#EXTINF:-1 tvg-id="OggyeasBaratasTontas.us" tvg-name="Oggy e as Baratas Tontas" group-title="Kids" tvg-language="por" tvg-quality="720p",Oggy e as Baratas Tontas
+https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8
+
+#EXTINF:-1 tvg-id="ONKids.vn" tvg-name="ON Kids" group-title="Kids" tvg-language="vie" tvg-quality="720p",ON Kids
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+
+#EXTINF:-1 tvg-id="ORFKids.at" tvg-name="ORF Kids" group-title="Kids" tvg-language="deu" tvg-quality="720p",ORF Kids
+https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
+
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Pakapaka
+http://138.59.227.20:8000/play/a05t/index.m3u8
+
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" group-title="Kids" tvg-language="spa" tvg-quality="576p",Pakapaka
+http://190.128.214.97:64333/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-name="PBS Kids" group-title="Education;Kids" tvg-language="eng" tvg-quality="720p",PBS Kids
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-name="PBS Kids" group-title="Education;Kids" tvg-language="eng" tvg-quality="720p",PBS Kids
+https://tvsen7.aynascope.net/pbskids/index.m3u8
+
+#EXTINF:-1 tvg-id="PBSKidsAlaska.us" tvg-name="PBS Kids Alaska" group-title="Education;Kids" tvg-language="eng" tvg-quality="1080p",PBS Kids Alaska
+https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
+
+#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" tvg-name="PBS Kids Eastern/Central" group-title="Education;Kids" tvg-language="eng" tvg-quality="720p",PBS Kids Eastern/Central
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBSKidsHawaii.us" tvg-name="PBS Kids Hawaii" group-title="Education;Kids" tvg-language="eng" tvg-quality="720p",PBS Kids Hawaii
+https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
+
+#EXTINF:-1 tvg-id="PBSKidsMountain.us" tvg-name="PBS Kids Mountain" group-title="Education;Kids" tvg-language="eng" tvg-quality="1080p",PBS Kids Mountain
+https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
+
+#EXTINF:-1 tvg-id="PBSKidsPacific.us" tvg-name="PBS Kids Pacific" group-title="Education;Kids" tvg-language="eng" tvg-quality="1080p",PBS Kids Pacific
+https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
+
+#EXTINF:-1 tvg-id="PeppaPig.us" tvg-name="Peppa Pig" group-title="Kids" tvg-language="eng" tvg-quality="720p",Peppa Pig
+https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
+
+#EXTINF:-1 tvg-id="PequesTV.pe" tvg-name="Peques TV" group-title="Kids" tvg-language="spa" tvg-quality="720p",Peques TV
+https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PersianaJunior.fr" tvg-name="Persiana Junior" group-title="Kids" tvg-language="fas" tvg-quality="576i",Persiana Junior
+https://junhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PersianaTeen.fr" tvg-name="Persiana Teen" group-title="Kids" tvg-language="fas" tvg-quality="720p",Persiana Teen
+https://kphls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Pingviins.lv" tvg-name="Pingviins" group-title="Animation;Kids" tvg-language="lav" tvg-quality="720p",Pingviins
+https://sirius.greenhosting.ru/PingvinRu/video.m3u8
+
+#EXTINF:-1 tvg-id="Pingviins.lv" tvg-name="Pingviins" group-title="Animation;Kids" tvg-language="lav" tvg-quality="576p",Pingviins
+#EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
+https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8
+
+#EXTINF:-1 tvg-id="PixelTV.ua" tvg-name="Pixel TV" group-title="Kids" tvg-language="ukr" tvg-quality="1080p",Pixel TV
+http://stream.mcquack.net/323/index.m3u8
+
+#EXTINF:-1 tvg-id="PixelTV.ua" tvg-name="Pixel TV" group-title="Kids" tvg-language="ukr" tvg-quality="720p",Pixel TV
+https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlimPlim.ar" tvg-name="Plim Plim" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Plim Plim
+http://200.115.120.1:8000/play/ca091/index.m3u8
+
+#EXTINF:-1 tvg-id="PlimPlim.ar" tvg-name="Plim Plim" group-title="Animation;Kids" tvg-language="spa" tvg-quality="1080p",Plim Plim
+http://45.70.168.162:1503/play/a02a/index.m3u8
+
+#EXTINF:-1 tvg-id="PLUSPLUS.ua" tvg-name="PLUSPLUS" group-title="Kids" tvg-language="ukr" tvg-quality="1080p",PLUSPLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/339/index.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVJunior.us" tvg-name="Pluto TV Junior" group-title="Kids" tvg-language="spa" tvg-quality="720p",Pluto TV Junior
+https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVJunior.us" tvg-name="Pluto TV Junior" group-title="Kids" tvg-language="por" tvg-quality="720p",Pluto TV Junior
+https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVJuniorklubben.se" tvg-name="Pluto TV Juniorklubben" group-title="Kids" tvg-language="dan;eng" tvg-quality="720p",Pluto TV Juniorklubben
+https://jmp2.uk/plu-61c09a78bd194c0008decc28.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVJuniorklubben.se" tvg-name="Pluto TV Juniorklubben" group-title="Kids" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Juniorklubben
+https://jmp2.uk/plu-61c0b7eb8929e40007ff5125.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVJuniorklubben.se" tvg-name="Pluto TV Juniorklubben" group-title="Kids" tvg-language="eng;nor" tvg-quality="720p",Pluto TV Juniorklubben
+https://jmp2.uk/plu-61c1d459fbb4b50007d24647.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKids.us" tvg-name="Pluto TV Kids" group-title="Kids" tvg-language="spa" tvg-quality="720p",Pluto TV Kids
+https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKids.us" tvg-name="Pluto TV Kids" group-title="Kids" tvg-language="por" tvg-quality="720p",Pluto TV Kids
+https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKidsClassics.de" tvg-name="Pluto TV Kids Classics" group-title="Kids" tvg-language="spa" tvg-quality="720p",Pluto TV Kids Classics
+https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKidsClassics.de" tvg-name="Pluto TV Kids Classics" group-title="Kids" tvg-language="fra" tvg-quality="720p",Pluto TV Kids Classics
+https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKidsClub.us" tvg-name="Pluto TV Kids Club" group-title="Kids" tvg-language="por" tvg-quality="720p",Pluto TV Kids Club
+https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKlassisketegnefilm.se" tvg-name="Pluto TV Klassiske tegnefilm" group-title="Kids" tvg-language="dan" tvg-quality="720p",Pluto TV Klassiske tegnefilm
+https://jmp2.uk/plu-67f508992ebe80e2929b5c98.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKlassisketegnefilmer.se" tvg-name="Pluto TV Klassiske tegnefilmer" group-title="Kids" tvg-language="nor" tvg-quality="720p",Pluto TV Klassiske tegnefilmer
+https://jmp2.uk/plu-67f508f68ddd60c57dc44766.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVRetroKid.us" tvg-name="Pluto TV Retro Kid" group-title="Kids" tvg-language="eng" tvg-quality="720p",Pluto TV Retro Kid
+https://jmp2.uk/plu-6408b41b83f58900081d91ad.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVRetroToons.de" tvg-name="Pluto TV Retro Toons" group-title="Animation;Kids" tvg-language="eng" tvg-quality="720p",Pluto TV Retro Toons
+https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVRetroToons.de" tvg-name="Pluto TV Retro Toons" group-title="Animation;Kids" tvg-language="fra" tvg-quality="720p",Pluto TV Retro Toons
+https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSuperKids.de" tvg-name="Pluto TV Super Kids" group-title="Kids" tvg-language="fra" tvg-quality="720p",Pluto TV Super Kids
+https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTecknadeklassiker.se" tvg-name="Pluto TV Tecknade klassiker" group-title="Kids" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Tecknade klassiker
+https://jmp2.uk/plu-67f5095a3481170e6843d95d.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTecknat.se" tvg-name="Pluto TV Tecknat" group-title="Kids" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Tecknat
+https://jmp2.uk/plu-61c0b6f028e94c000782684a.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTeen.de" tvg-name="Pluto TV Teen" group-title="Kids" tvg-language="fra" tvg-quality="720p",Pluto TV Teen
+https://jmp2.uk/plu-5f8eb99ff17815000784a3b0.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTeen.de" tvg-name="Pluto TV Teen" group-title="Kids" tvg-language="ita" tvg-quality="720p",Pluto TV Teen
+https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTeen.de" tvg-name="Pluto TV Teen" group-title="Kids" tvg-language="spa" tvg-quality="720p",Pluto TV Teen
+https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTegnefilm.se" tvg-name="Pluto TV Tegnefilm" group-title="Kids" tvg-language="dan" tvg-quality="720p",Pluto TV Tegnefilm
+https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTegnefilm.se" tvg-name="Pluto TV Tegnefilm" group-title="Kids" tvg-language="eng;nor" tvg-quality="720p",Pluto TV Tegnefilm
+https://jmp2.uk/plu-61c1e914bf8c520007a93ff1.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVToons.de" tvg-name="Pluto TV Toons" group-title="Kids" tvg-language="fra" tvg-quality="720p",Pluto TV Toons
+https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVUngdomsserier.se" tvg-name="Pluto TV Ungdomsserier" group-title="Kids" tvg-language="dan;eng" tvg-quality="720p",Pluto TV Ungdomsserier
+https://jmp2.uk/plu-67f3fb1cdea1c5e0d588ac1b.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVUngdomsserier.se" tvg-name="Pluto TV Ungdomsserier" group-title="Kids" tvg-language="eng;nor" tvg-quality="720p",Pluto TV Ungdomsserier
+https://jmp2.uk/plu-67f3fb7d07d2ba4121bd0c8b.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVUngdomsserier.se" tvg-name="Pluto TV Ungdomsserier" group-title="Kids" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Ungdomsserier
+https://jmp2.uk/plu-67f3fc1707d2ba4121bd34a8.m3u8
+
+#EXTINF:-1 tvg-id="pocketwatch.us" tvg-name="pocket.watch" group-title="Kids" tvg-language="eng" tvg-quality="1080p",pocket.watch
+https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8
+
+#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
+http://103.151.60.162:2122/play/a01e/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="PolsatJimJam.pl" tvg-name="Polsat JimJam" group-title="Kids" tvg-language="eng;pol" tvg-quality="576p",Polsat JimJam
+http://185.227.34.179:8080/jimjam/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatJimJam.pl" tvg-name="Polsat JimJam" group-title="Kids" tvg-language="eng;pol" tvg-quality="576i",Polsat JimJam
+http://92.114.85.87:8014/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-id="PooyaTV.ir" tvg-name="Pooya TV" group-title="Kids" tvg-language="fas" tvg-quality="576i",Pooya TV
+https://ncdn.telewebion.ir/pooya/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PooyaTV.ir" tvg-name="Pooya TV" group-title="Kids" tvg-language="fas" tvg-quality="576i",Pooya TV
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PooyaTVPlus.ir" tvg-name="Pooya TV Plus" group-title="Kids" tvg-language="fas" tvg-quality="576i",Pooya TV Plus
+https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PopUp.uk" tvg-name="Pop Up" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Pop Up
+https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QTV6.cn" tvg-name="QTV-6" group-title="Kids;Lifestyle" tvg-language="zho" tvg-quality="576i",QTV-6
+http://119.166.53.110:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="QTV6.cn" tvg-name="QTV-6" group-title="Kids;Lifestyle" tvg-language="zho" tvg-quality="576i",QTV-6
+http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+
+#EXTINF:-1 tvg-id="RadostMoya.ru" tvg-name="Radost Moya" group-title="Kids" tvg-language="rus" tvg-quality="576p",Radost Moya
+http://31.148.48.15/Radost_moya/index.m3u8
+
+#EXTINF:-1 tvg-id="RadostMoya.ru" tvg-name="Radost Moya" group-title="Kids" tvg-language="rus" tvg-quality="576p",Radost Moya
+https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadostMoya.ru" tvg-name="Radost Moya" group-title="Kids" tvg-language="rus" tvg-quality="576p",Radost Moya
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+
+#EXTINF:-1 tvg-id="ReinoInfantil.mz" tvg-name="Reino Infantil" group-title="Kids" tvg-language="por" tvg-quality="576i",Reino Infantil
+https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
+
+#EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC" group-title="Family;Kids" tvg-language="deu" tvg-quality="576i",RiC
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8
+
+#EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC" group-title="Family;Kids" tvg-language="deu" tvg-quality="1080p",RiC
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RING.bg" tvg-name="RING" group-title="Kids" tvg-language="bul" tvg-quality="576i",RING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a06e
+
+#EXTINF:-1 tvg-id="RUTVKids.ru" tvg-name="RU.TV Kids" group-title="Kids" tvg-language="rus" tvg-quality="720p",RU.TV Kids
+https://rutvkids.ru/live/efir/index.m3u8
+
+#EXTINF:-1 tvg-id="Rugrats.de" tvg-name="Rugrats" group-title="Kids" tvg-language="spa" tvg-quality="720p",Rugrats
+https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
+
+#EXTINF:-1 tvg-id="Rugrats.us" tvg-name="Rugrats" group-title="Kids" tvg-language="spa" tvg-quality="720p",Rugrats
+https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
+
+#EXTINF:-1 tvg-id="RyanandFriends.us" tvg-name="Ryan and Friends" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Ryan and Friends
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RyanandFriends.us" tvg-name="Ryan and Friends" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Ryan and Friends
+https://d3a0tomzw8z726.cloudfront.net/Ryan_and_Friends.m3u8
+
+#EXTINF:-1 tvg-id="RyanandFriends.us" tvg-name="Ryan and Friends" group-title="Kids" tvg-language="eng" tvg-quality="480i",Ryan and Friends
+https://jmp2.uk/plu-5fb584b7613a31000789de5a.m3u8
+
+#EXTINF:-1 tvg-id="RyanandFriends.us" tvg-name="Ryan and Friends" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Ryan and Friends
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ryzhiy.ru" tvg-name="Ryzhiy" group-title="Kids" tvg-language="rus" tvg-quality="576p",Ryzhiy
+http://31.148.48.15/Rizhiy/index.m3u8
+
+#EXTINF:-1 tvg-id="Ryzhiy.ru" tvg-name="Ryzhiy" group-title="Kids" tvg-language="rus" tvg-quality="576i",Ryzhiy
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SCorbyTV.us" tvg-name="S Corby TV" group-title="Kids" tvg-language="eng" tvg-quality="480p",S Corby TV
+https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8
+
+#EXTINF:-1 tvg-id="SPlayEvent.us" tvg-name="S Play Event" group-title="Kids" tvg-language="eng" tvg-quality="1080p",S Play Event
+#EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6aa1fc1f063044342e102703
+https://vodcdn.bamboo-cloud.com/livehls/6a9f929f0630443af52c7162/master.m3u8
+
+#EXTINF:-1 tvg-id="Sat7Kids.cy" tvg-name="Sat 7 Kids" group-title="Kids;Religious" tvg-language="ara" tvg-quality="1080p",Sat 7 Kids
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="SBTKids.br" tvg-name="SBT Kids" group-title="Kids" tvg-language="por" tvg-quality="1080p",SBT Kids
+https://8994803e454548319ffc0775bc04e0c1.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-TVZyn/index.m3u8
+
+#EXTINF:-1 tvg-id="ShandongTVChildrensChannel.cn" tvg-name="Shandong TV Children's Channel" group-title="Kids" tvg-language="zho" tvg-quality="406p",Shandong TV Children's Channel
+http://livealone302.iqilu.com/iqilu/sepd.m3u8
+
+#EXTINF:-1 tvg-id="SkwadPlay.us" tvg-name="Skwad Play" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Skwad Play
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
+
+#EXTINF:-1 tvg-id="Smotrim100Detskoe.ru" tvg-name="Smotrim 100% Detskoe" group-title="Kids" tvg-language="rus" tvg-quality="576i",Smotrim 100% Detskoe
+https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
+
+#EXTINF:-1 tvg-id="Smotrim100Detskoe.ru" tvg-name="Smotrim 100% Detskoe" group-title="Kids" tvg-language="rus" tvg-quality="720p",Smotrim 100% Detskoe
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="SmurfTV.us" tvg-name="Smurf TV" group-title="Kids" tvg-language="eng" tvg-quality="480p",Smurf TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065
+
+#EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" group-title="Animation;Kids" tvg-language="rus" tvg-quality="576p",Solnce
+http://217.114.191.150/Solnce/index.m3u8
+
+#EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" group-title="Animation;Kids" tvg-language="rus" tvg-quality="576p",Solnce
+http://31.148.48.15/Solnce/index.m3u8
+
+#EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" group-title="Animation;Kids" tvg-language="rus" tvg-quality="576p",Solnce
+http://46.32.176.50/solnce/index.m3u8
+
+#EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" group-title="Animation;Kids" tvg-language="rus" tvg-quality="576p",Solnce
+http://stream.mcquack.net/118/index.m3u8
+
+#EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" group-title="Animation;Kids" tvg-language="rus" tvg-quality="576p",Solnce
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" group-title="Animation;Kids" tvg-language="rus" tvg-quality="450p",Solnce
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+
+#EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" group-title="Animation;Kids" tvg-language="rus" tvg-quality="576p",Solnce
+https://tv.mediacdn.ru/live/solntse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
+http://103.151.60.162:2122/play/a02v/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
+http://103.185.24.134:3001/SONIC/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="576p",Sony Yay!
+http://103.165.93.31:8095/sonyYay/index.m3u8
+
+#EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-name="Spacetoon Arabic" group-title="Animation;Kids" tvg-language="ara" tvg-quality="576p",Spacetoon Arabic
+#EXTVLCOPT:http-referrer=https://spacetoon.com
+https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
+
+#EXTINF:-1 tvg-id="SpacetoonTurkey.tr" tvg-name="Spacetoon Turkey" group-title="Animation;Kids" tvg-language="tur" tvg-quality="720p",Spacetoon Turkey
+#EXTVLCOPT:http-referrer=https://spacetoon.com.tr/
+https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
+
+#EXTINF:-1 tvg-id="SpongeBobSchwammkopf.de" tvg-name="SpongeBob Schwammkopf" group-title="Kids" tvg-language="deu" tvg-quality="720p",SpongeBob Schwammkopf
+https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
+
+#EXTINF:-1 tvg-id="SpongeBobSquarePants.us" tvg-name="SpongeBob SquarePants" group-title="Kids" tvg-language="eng" tvg-quality="720p",SpongeBob SquarePants
+https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8
+
+#EXTINF:-1 tvg-id="StarzKidsFamily.us" tvg-name="Starz Kids & Family" group-title="Kids" tvg-language="eng;spa" tvg-quality="1080p",Starz Kids & Family
+http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="STSkids.ru" tvg-name="STS kids" group-title="Kids" tvg-language="rus" tvg-quality="1080p",STS kids
+http://31.148.48.15/STS_Kids_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="STSkids.ru" tvg-name="STS kids" group-title="Kids" tvg-language="rus" tvg-quality="576p",STS kids
+http://hls127.freeott.top:8080/STS_Kids/video.m3u8
+
+#EXTINF:-1 tvg-id="STSkids.ru" tvg-name="STS kids" group-title="Kids" tvg-language="rus" tvg-quality="576p",STS kids
+http://stream.mcquack.net/197/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperHungama.in" tvg-name="Super Hungama" group-title="Animation;Kids" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Super Hungama
+http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperSimpleSongs.us" tvg-name="Super Simple Songs" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Super Simple Songs
+https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Super.it" tvg-name="Super!" group-title="Kids" tvg-language="ita" tvg-quality="576i",Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperiCarly.us" tvg-name="Super! iCarly" group-title="Kids" tvg-language="ita" tvg-quality="576i",Super! iCarly
+https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8
+
+#EXTINF:-1 tvg-id="SuperPop.us" tvg-name="Super! Pop" group-title="Kids" tvg-language="ita" tvg-quality="576i",Super! Pop
+https://jmp2.uk/plu-6093f7b5bb49b90007cecaad.m3u8
+
+#EXTINF:-1 tvg-id="SuperSpongeBob.us" tvg-name="Super! SpongeBob" group-title="Kids" tvg-language="ita" tvg-quality="720p",Super! SpongeBob
+https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8
+
+#EXTINF:-1 tvg-id="SuperGeroi.ru" tvg-name="SuperGeroi" group-title="Kids" tvg-language="rus" tvg-quality="576p",SuperGeroi
+http://109.94.1.3:8080/132/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperGeroi.ru" tvg-name="SuperGeroi" group-title="Kids" tvg-language="rus" tvg-quality="1080p",SuperGeroi
+http://31.148.48.15/Malish_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="SvampBobFyrkant.se" tvg-name="SvampBob Fyrkant" group-title="Kids" tvg-language="eng;swe" tvg-quality="720p",SvampBob Fyrkant
+https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8
+
+#EXTINF:-1 tvg-id="SvampeBobFirkant.se" tvg-name="SvampeBob Firkant" group-title="Kids" tvg-language="dan;eng" tvg-quality="720p",SvampeBob Firkant
+https://jmp2.uk/plu-61c09ac98a80a4000703f992.m3u8
+
+#EXTINF:-1 tvg-id="SvampeBobFirkant.se" tvg-name="SvampeBob Firkant" group-title="Kids" tvg-language="eng;nor" tvg-quality="720p",SvampeBob Firkant
+https://jmp2.uk/plu-61c1d59a244e500007581861.m3u8
+
+#EXTINF:-1 tvg-id="SX3.es" tvg-name="SX3" group-title="Animation;Kids;Public" tvg-language="cat" tvg-quality="1080p",SX3
+https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="SX3.es" tvg-name="SX3" group-title="Animation;Kids;Public" tvg-language="cat" tvg-quality="1080p",SX3
+https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="TahaTV.lb" tvg-name="Taha TV" group-title="Kids" tvg-language="ara" tvg-quality="576p",Taha TV
+https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
+
+#EXTINF:-1 tvg-id="Tamyr.ru" tvg-name="Tamyr" group-title="Kids" tvg-language="bak" tvg-quality="576i",Tamyr
+https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tamyr.ru" tvg-name="Tamyr" group-title="Kids" tvg-language="bak" tvg-quality="576p",Tamyr
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeenageMutantNinjaTurtles.de" tvg-name="Teenage Mutant Ninja Turtles" group-title="Animation;Kids" tvg-language="ita" tvg-quality="720p",Teenage Mutant Ninja Turtles
+https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
+
+#EXTINF:-1 tvg-id="TeenNick.il" tvg-name="TeenNick" group-title="Kids" tvg-language="eng" tvg-quality="406p",TeenNick
+http://89.33.29.115:8080/TeenNick/index.m3u8
+
+#EXTINF:-1 tvg-id="TeenNick.pl" tvg-name="TeenNick" group-title="Kids" tvg-language="eng" tvg-quality="576i",TeenNick
+http://92.114.85.87:8010/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-id="TeenNick.us" tvg-name="TeenNick" group-title="Kids" tvg-language="eng" tvg-quality="432p",TeenNick
+http://tvsen7.aynascope.net/teennick/index.m3u8
+
+#EXTINF:-1 tvg-id="TeletoonPlus.pl" tvg-name="Teletoon+" group-title="Animation;Kids" tvg-language="pol" tvg-quality="1080i",Teletoon+
+http://92.114.85.87:8009/play/a006/index.m3u8
+
+#EXTINF:-1 tvg-id="Teletubbies.uk" tvg-name="Teletubbies" group-title="Kids" tvg-language="eng" tvg-quality="720p",Teletubbies
+https://dv8lsrd8fecw9.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Teletubbies.uk" tvg-name="Teletubbies" group-title="Kids" tvg-language="eng" tvg-quality="720p",Teletubbies
+https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Teletubbies.uk" tvg-name="Teletubbies" group-title="Kids" tvg-language="eng" tvg-quality="576i",Teletubbies
+https://jmp2.uk/plu-64e50055286f6b000838c067.m3u8
+
+#EXTINF:-1 tvg-id="Teletubbies.uk" tvg-name="Teletubbies" group-title="Kids" tvg-language="eng" tvg-quality="576i",Teletubbies
+https://jmp2.uk/plu-66a10eeb46762a0008201e85.m3u8
+
+#EXTINF:-1 tvg-id="TGJunior.us" tvg-name="TG Junior" group-title="Kids" tvg-language="eng" tvg-quality="720p",TG Junior
+https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
+
+#EXTINF:-1 tvg-id="TheJungleBook.in" tvg-name="The Jungle Book" group-title="Kids" tvg-language="hin" tvg-quality="1080p",The Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
+#EXTINF:-1 tvg-id="TigueritoTV.do" tvg-name="Tiguerito TV" group-title="Animation;Kids" tvg-language="spa" tvg-quality="720p",Tiguerito TV
+https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TiJi.ru" tvg-name="TiJi" group-title="Kids" tvg-language="rus" tvg-quality="576p",TiJi
+http://flussonic.linkintel.ru/tiji/index.m3u8
+
+#EXTINF:-1 tvg-id="TiJi.ru" tvg-name="TiJi" group-title="Kids" tvg-language="rus" tvg-quality="576p",TiJi
+http://stream.mcquack.net/111/index.m3u8
+
+#EXTINF:-1 tvg-id="TiJi.ru" tvg-name="TiJi" group-title="Kids" tvg-language="rus" tvg-quality="576p",TiJi
+https://live-3.otcnet.ru/Tiji/index.m3u8
+
+#EXTINF:-1 tvg-id="TiJi.ru" tvg-name="TiJi" group-title="Kids" tvg-language="rus" tvg-quality="576p",TiJi
+https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TinyPop.uk" tvg-name="Tiny Pop" group-title="Kids" tvg-language="eng" tvg-quality="576p",Tiny Pop
+http://92.114.85.72:8000/play/a08g
+
+#EXTINF:-1 tvg-id="TinyPop.uk" tvg-name="Tiny Pop" group-title="Kids" tvg-language="eng" tvg-quality="576p",Tiny Pop
+http://92.114.85.72:8000/play/a08p
+
+#EXTINF:-1 tvg-id="TinyPop.uk" tvg-name="Tiny Pop" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Tiny Pop
+https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TinyPop.uk" tvg-name="Tiny Pop" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Tiny Pop
+https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TinyPop.uk" tvg-name="Tiny Pop" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Tiny Pop
+https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TinyPop.uk" tvg-name="Tiny Pop" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Tiny Pop
+https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TinyPop.uk" tvg-name="Tiny Pop" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Tiny Pop
+https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-rakutenuk/cb7d3e4f7b726f8c9999376cd9f547f3d1006681563ad7316cad5e9420c91853d7b9f7c0e74feb690dbd7ba33e40340d0136d41cc07c11dfa32bfb086a384837c293a20287dd4755a2a55e793acc190e39ee0f15ce24562999fb0c52d468e137555aa82e6b553982f25bad7752c5810a8a6f5fd2ef88376635455e9a5943e5b24aa0ade75a44df64a9ac14489c2f58e68314c8c915ee84dc469745d722f247999aa482db16888cab43f803f10b1a4c3078988d709dce62bfdee82f53d8227a431a04b5a696b3186ad6450e08fafbcef267f942cbc470d13064ec549e1fd136df3af071cd8e4fa4be84db475730a7c164753eb0e0d2ef915624b864a1ea83af72788ac913794af66ed730393d9cfcdf1b96b167fcc672d3e23c456f99c211cbc9e5d2b6e7df10e64fbac6f08b025242621d079462b59369cf21af1ec2aa42780e1d1ed8f03bc582ca613467598f835beb1f16ada9e8e9be5f61b80a715bec73e656047ec731780e81479b8f3736f54c7884312ec44a21967dffb722e1a2d5f13932b1aca1289b3ab8ed5288b668d16c384a3da1e63a60464373c4eb68190f75c24be3c6cbe6727b648695c8f09a125276381341338af2f74f889acf3b1829d4412a12187a7d8405dd7ccb05474e3adf44afc6667581151e29e3b1365e5f539bc9ba84f5bfa023b376c1cafb3637611909cb32013551d0b9834df8365f41795c940a634caf0e5f5198f3a381b0a14c9fc636c050631070fae007480d2035094ecdc23b840db1c745f4cd9d0f95a2d943118771fa07479b9d8a39febf8493185bc6fd064f3deab957c4773ef813d13d81d175e7bd5a0219303221a8e973da719cedb3e471e346c24e076dd57cbe8aeab0d3594fe290584155633146260526767dd2bdd4601344e9b231943b8c8f45bb4d50697b2db283044db9f87818a3216770a0d2bfe1dfda0f11d36be665c86706995a042af3c334e6d9c89997866b473fcca5ae5e84b59191c9a4a34c191d652392d550472d9d4c9e8d03f2921c6cffb689f0d46a9b709046d1f5b521e972b2cab71bba9593eaed39005b580d6ea39d8a15dfaf3542bf6bc9722e179299e1fa718967de6dc2887ed18b3e3dbe394f53f0f8eb03e92899c41b0fc9a4677fd25513e0c1de073de9058429035cd0ecb7363cece22ec76cbc94d5386daf1e19c5667f408d32c3a69e484ec09d322170cc2a49a55a87dbeb447a27ada651032108383f58e06c4f09e1075b9d4ba1c5e5b66301af20ab2c1e96708ee074838329c7d1f5d2fefc1d448ed63f37d02ec6289801e7f8a6da1a8672508b63b23b6583fef9dfe9cdee96eefc3f7817bf65b828df54bbef80b057272b58fb2d1a6b0add3ee22a0072b5e574eb866e45a7d9dc35e2277164093511ea3898b730696002a8c75cbcfe4369486b11c9e227963295642aa57e569f3b4e3b2e267b6083b1ec3ad920db5690c57821e2a4968307c68d1effae81cf9f6803e373076f69b894aea0f16032ddb5abb0044da0ca449431543e0aa0fb836618e3e42301d987ac559a9d528e39172b4ef3a98f13ee5ea313cb7e7efb1af0de6c4cecac3d151aa41eb7ec526087079970759616fd0d7eda126a534a39b87ac769146c5b8917e7f7ae5228019600d40f1246dadde98a983d5e1c01531119617d12db4832a26b4321f55761f99099c29f859e1d1131e35db3db838b4a498386a499875db2d787fce6b7011d1aad370a1ff20e409172cb1815d2b252bd78869297865f07ba8275a03f85e655767210e98b316b192c68938740c15624de0dffda8af0c46ac3cdf237306e7e770a42d36f866463460de97dbec4193cf4ff9e6b0ad08ff2a3e4cfb38553e2a0f2509a9a446ad5fab530f0ebb436f55d0655850b571607b9b0505b39cc20a9ebd7e94303a22e954d582dece7fd3bb1b7147e539661b460ab772f53856e0168710b8bc55d8adcc55a7a2515490cedd4638a5e08a5742301c093438adf8f06c10090c0afff406a1c7134f87436233582496c5105fcb9f2c31c3be406f02b65a6d9b99e1a54698a9b58959d3e748194b800c871ec75ef72ff2c461c7dc7777d719d3e240a2d7b2018a94921e59aa6ecb4348c2dfc7b4cc800a57d37ba92021b82df7d8e7d7d539fd21441af67a13fa6998850e6786ee58eebcc0a/27/1920x1080_5903040/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTKidsTV.ba" tvg-name="TNT Kids TV" group-title="Kids" tvg-language="bos" tvg-quality="288p",TNT Kids TV
+https://restreamer1.tnt.ba/hls/tntkids.m3u8
+
+#EXTINF:-1 tvg-id="TomAndJerry.do" tvg-name="Tom And Jerry" group-title="Kids" tvg-language="eng" tvg-quality="720p",Tom And Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tooku.ru" tvg-name="Tooku" group-title="Animation;Kids" tvg-language="rus" tvg-quality="1080p",Tooku
+http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="spa" tvg-quality="480p",Tooncast
+http://190.61.42.218:9000/play/a06i/index.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="1080p",Tooncast
+http://38.134.250.110:8000/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="720p",Tooncast
+https://streaming.onnethn.com/TOONCAST/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-name="ToonGoggles" group-title="Kids" tvg-language="eng" tvg-quality="720p",ToonGoggles
+https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-name="ToonGoggles" group-title="Kids" tvg-language="eng" tvg-quality="720p",ToonGoggles
+https://d1eg24xrsfr6kv.cloudfront.net/tg/tg/tg.m3u8
+
+#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-name="ToonGoggles" group-title="Kids" tvg-language="eng" tvg-quality="720p",ToonGoggles
+https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8
+
+#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-name="ToonGoggles" group-title="Kids" tvg-language="eng" tvg-quality="720p",ToonGoggles
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
+
+#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-name="ToonGoggles" group-title="Kids" tvg-language="eng" tvg-quality="720p",ToonGoggles
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
+
+#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-name="ToonGoggles" group-title="Kids" tvg-language="eng" tvg-quality="720p",ToonGoggles
+https://tg-tg-xumo.otteravision.com/tg/tg/tg.m3u8
+
+#EXTINF:-1 tvg-id="TortuesNinjaTV.de" tvg-name="Tortues Ninja TV" group-title="Kids" tvg-language="fra" tvg-quality="720p",Tortues Ninja TV
+https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
+
+#EXTINF:-1 tvg-id="TortuesNinjaTV.us" tvg-name="Tortues Ninja TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Tortues Ninja TV
+https://jmp2.uk/plu-62e9566e27ce19000732ec85.m3u8
+
+#EXTINF:-1 tvg-id="TotallyTurtles.de" tvg-name="Totally Turtles" group-title="Kids" tvg-language="deu" tvg-quality="720p",Totally Turtles
+https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
+
+#EXTINF:-1 tvg-id="TotallyTurtles.de" tvg-name="Totally Turtles" group-title="Kids" tvg-language="eng" tvg-quality="720p",Totally Turtles
+https://jmp2.uk/plu-656ef4af4261ca00083c8f37.m3u8
+
+#EXTINF:-1 tvg-id="TotallyTurtles.se" tvg-name="Totally Turtles" group-title="Kids" tvg-language="dan;eng" tvg-quality="720p",Totally Turtles
+https://jmp2.uk/plu-61c0bbd95df1da0007bed5a0.m3u8
+
+#EXTINF:-1 tvg-id="TotallyTurtles.se" tvg-name="Totally Turtles" group-title="Kids" tvg-language="eng;swe" tvg-quality="720p",Totally Turtles
+https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8
+
+#EXTINF:-1 tvg-id="TotallyTurtles.se" tvg-name="Totally Turtles" group-title="Kids" tvg-language="eng;nor" tvg-quality="720p",Totally Turtles
+https://jmp2.uk/plu-61c1da718a80a4000704013e.m3u8
+
+#EXTINF:-1 tvg-id="TotallyTurtles.us" tvg-name="Totally Turtles" group-title="Kids" tvg-language="eng" tvg-quality="480i",Totally Turtles
+https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8
+
+#EXTINF:-1 tvg-id="TotallyTurtles.us" tvg-name="Totally Turtles" group-title="Kids" tvg-language="eng" tvg-quality="720p",Totally Turtles
+https://jmp2.uk/plu-62e95265c9fd030007268fb9.m3u8
+
+#EXTINF:-1 tvg-id="TraLaLaDSN.ro" tvg-name="TraLaLa DSN" group-title="Kids" tvg-language="ron" tvg-quality="576i",TraLaLa DSN
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-inedit-tv/live_hq?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="TraLaLaDSN.ro" tvg-name="TraLaLa DSN" group-title="Kids" tvg-language="ron" tvg-quality="576i",TraLaLa DSN
+https://hls01ns.antenaplay.ro/hls/tralala-desene-animate-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="TraLaLaTV.ro" tvg-name="TraLaLa TV" group-title="Kids" tvg-language="ron" tvg-quality="576i",TraLaLa TV
+https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="TransformersTV.us" tvg-name="Transformers TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Transformers TV
+https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
+
+#EXTINF:-1 tvg-id="TransformersTV.us" tvg-name="Transformers TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Transformers TV
+https://jmp2.uk/plu-63da36dea995710008727d4d.m3u8
+
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Cocuk" group-title="Kids" tvg-language="tur" tvg-quality="1440p",TRT Cocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-name="TRT Diyanet Cocuk" group-title="Kids" tvg-language="tur" tvg-quality="720p",TRT Diyanet Cocuk
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TurmadaMonica.us" tvg-name="Turma da Monica" group-title="Kids" tvg-language="por" tvg-quality="720p",Turma da Monica
+https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
+
+#EXTINF:-1 tvg-id="TVArberia3Femije.xk" tvg-name="TV Arberia 3 Femije" group-title="Kids" tvg-language="sqi" tvg-quality="720p",TV Arberia 3 Femije
+https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBahoriston.tj" tvg-name="TV Bahoriston" group-title="Kids" tvg-language="tgk" tvg-quality="1080p",TV Bahoriston
+https://live.teleradiocom.tj/3/3m.m3u8
+
+#EXTINF:-1 tvg-id="TV2Kids.hu" tvg-name="TV2 Kids" group-title="Kids" tvg-language="hun" tvg-quality="576i",TV2 Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/tv2_kids/index.m3u8
+
+#EXTINF:-1 tvg-id="TVCARiBKidsTeens.sx" tvg-name="TVCARiB Kids & Teens" group-title="Kids" tvg-language="eng;nld" tvg-quality="720p",TVCARiB Kids & Teens
+https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
+
+#EXTINF:-1 tvg-id="TVOKids.ca" tvg-name="TVOKids" group-title="Kids" tvg-language="eng" tvg-quality="480i",TVOKids
+https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVOKids.ca" tvg-name="TVOKids" group-title="Kids" tvg-language="eng" tvg-quality="720p",TVOKids
+https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
+
+#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="TVP ABC" group-title="Kids" tvg-language="pol" tvg-quality="576i",TVP ABC
+http://92.114.85.87:8002/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSHiTops.us" tvg-name="TVS Hi Tops" group-title="Kids" tvg-language="eng" tvg-quality="720p",TVS Hi Tops
+https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSPinballNetwork.us" tvg-name="TVS Pinball Network" group-title="Kids" tvg-language="eng" tvg-quality="480p",TVS Pinball Network
+https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="Unikum.ru" tvg-name="Unikum" group-title="Kids" tvg-language="rus" tvg-quality="576p",Unikum
+http://31.148.48.15/Detskiy/index.m3u8
+
+#EXTINF:-1 tvg-id="UniqueTV.in" tvg-name="Unique TV" group-title="Entertainment;Kids" tvg-language="hin" tvg-quality="576p",Unique TV
+https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
+
+#EXTINF:-1 tvg-id="Vgostyakhuskazki.ru" tvg-name="V gostyakh u skazki" group-title="Kids" tvg-language="rus" tvg-quality="576p",V gostyakh u skazki
+http://stream.mcquack.net/93/index.m3u8
+
+#EXTINF:-1 tvg-id="Vgostyakhuskazki.ru" tvg-name="V gostyakh u skazki" group-title="Kids" tvg-language="rus" tvg-quality="576p",V gostyakh u skazki
+https://fs.uplink.kz/v_gostyah_u_skazki/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Vgostyakhuskazki.ru" tvg-name="V gostyakh u skazki" group-title="Kids" tvg-language="rus" tvg-quality="1080p",V gostyakh u skazki
+https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="VeronicaDisneyJr.nl" tvg-name="Veronica / Disney Jr." group-title="Entertainment;Kids" tvg-language="nld" tvg-quality="360p",Veronica / Disney Jr.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://lb.iptvnetwork.net/ls28/10011/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VTV.id" tvg-name="VTV" group-title="Kids" tvg-language="ind" tvg-quality="1080p",VTV
+http://202.150.172.59/VTVHD/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV.id" tvg-name="VTV" group-title="Kids" tvg-language="ind" tvg-quality="1080p",VTV
+http://ikitv.sqn.at:8000/play/a023/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV.id" tvg-name="VTV" group-title="Kids" tvg-language="ind" tvg-quality="720p",VTV
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch107.m3u8
+
+#EXTINF:-1 tvg-id="WatchitKID.us" tvg-name="Watch it KID!" group-title="Kids" tvg-language="eng" tvg-quality="720p",Watch it KID!
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2245
+
+#EXTINF:-1 tvg-id="WOWKidz.in" tvg-name="WOW Kidz" group-title="Animation;Kids" tvg-language="hin" tvg-quality="720p",WOW Kidz
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="WOWKidz.in" tvg-name="WOW Kidz" group-title="Animation;Kids" tvg-language="tam" tvg-quality="720p",WOW Kidz
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="WOWKidz.in" tvg-name="WOW Kidz" group-title="Animation;Kids" tvg-language="tel" tvg-quality="720p",WOW Kidz
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-name="Xtrema Cartoons" group-title="Animation;Kids" tvg-language="spa" tvg-quality="576i",Xtrema Cartoons
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YAAAS.uk" tvg-name="YAAAS!" group-title="Kids" tvg-language="eng" tvg-quality="720p",YAAAS!
+https://d3knqoaufvjug3.cloudfront.net/yas.m3u8
+
+#EXTINF:-1 tvg-id="YouManCartoonChannel.cn" tvg-name="You Man Cartoon Channel" group-title="Animation;Kids" tvg-language="zho" tvg-quality="576p",You Man Cartoon Channel
+http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
+
+#EXTINF:-1 tvg-id="YouManCartoonChannel.cn" tvg-name="You Man Cartoon Channel" group-title="Animation;Kids" tvg-language="zho" tvg-quality="576p",You Man Cartoon Channel
+http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
+
+#EXTINF:-1 tvg-id="ZBCartoon.in" tvg-name="ZB Cartoon" group-title="Kids" tvg-language="ben" tvg-quality="1080p",ZB Cartoon
+https://server.zillarbarta.com/zbcatun/video.m3u8
+
+#EXTINF:-1 tvg-id="Zoom.il" tvg-name="Zoom" group-title="Kids" tvg-language="heb" tvg-quality="576p",Zoom
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/377/index.m3u8
+
+#EXTINF:-1 tvg-id="ZooMoo.sg" tvg-name="ZooMoo" group-title="Kids" tvg-language="eng" tvg-quality="1080p",ZooMoo
+http://168.196.127.137:6001/play/a03k/index.m3u8
+
+#EXTINF:-1 tvg-id="ZooMoo.sg" tvg-name="ZooMoo" group-title="Kids" tvg-language="eng" tvg-quality="1080p",ZooMoo
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZooMoo.sg" tvg-name="ZooMoo" group-title="Kids" tvg-language="eng" tvg-quality="1080p",ZooMoo
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZooMoo.sg" tvg-name="ZooMoo" group-title="Kids" tvg-language="eng" tvg-quality="1080p",ZooMoo
+https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8
+
+#EXTINF:-1 tvg-id="ZooMoo.sg" tvg-name="ZooMoo" group-title="Kids" tvg-language="eng" tvg-quality="1080p",ZooMoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+

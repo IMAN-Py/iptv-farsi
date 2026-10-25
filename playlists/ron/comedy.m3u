@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-name="Comedy Play" group-title="Comedy" tvg-language="ron" tvg-quality="576i",Comedy Play
+https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="InPuiiMei.ro" tvg-name="In Puii Mei" group-title="Comedy" tvg-language="ron" tvg-quality="576p",In Puii Mei
+https://live77cdn2.antenaplay.ro/live2_fast/ch7/stream.m3u8
+
+#EXTINF:-1 tvg-id="iRoast.ro" tvg-name="iRoast" group-title="Comedy" tvg-language="ron" tvg-quality="576p",iRoast
+https://live77cdn2.antenaplay.ro/live2_fast/ch3/stream.m3u8
+
+#EXTINF:-1 tvg-id="iUmor.ro" tvg-name="iUmor" group-title="Comedy" tvg-language="ron" tvg-quality="576p",iUmor
+https://live77cdn2.antenaplay.ro/live2_fast/ch2/stream.m3u8
+

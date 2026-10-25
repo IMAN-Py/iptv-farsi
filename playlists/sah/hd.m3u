@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NVKSakha.ru" tvg-name="NVK Sakha" group-title="General" tvg-language="eng;rus;sah" tvg-quality="1080p",NVK Sakha
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+

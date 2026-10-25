@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GoodnessTV.in" tvg-name="Goodness TV" group-title="Religious" tvg-language="mal" tvg-quality="576p",Goodness TV
+https://mumt07.tangotv.in/zHjX9OFlGOODNESSTV/index.m3u8
+
+#EXTINF:-1 tvg-id="HarvestTV.in" tvg-name="Harvest TV" group-title="Religious" tvg-language="mal" tvg-quality="720p",Harvest TV
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="HarvestTV.in" tvg-name="Harvest TV" group-title="Religious" tvg-language="mal" tvg-quality="1080p",Harvest TV
+https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8
+
+#EXTINF:-1 tvg-id="HarvestTVKeralam.in" tvg-name="Harvest TV Keralam" group-title="Religious" tvg-language="mal" tvg-quality="720p",Harvest TV Keralam
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="MTA7Asia.uk" tvg-name="MTA7 Asia" group-title="Religious" tvg-language="ara;ben;eng;hin;mal;tam;urd" tvg-quality="1080p",MTA7 Asia
+https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PottaDivineTVUSA.us" tvg-name="Potta-Divine TV USA" group-title="Religious" tvg-language="mal" tvg-quality="480p",Potta-Divine TV USA
+https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowervisionTV.in" tvg-name="Powervision TV" group-title="Religious" tvg-language="mal" tvg-quality="720p",Powervision TV
+https://mumbai-edge.smartplaytv.in/PowerVision/index.m3u8
+
+#EXTINF:-1 tvg-id="PowervisionTV.in" tvg-name="Powervision TV" group-title="Religious" tvg-language="mal" tvg-quality="576p",Powervision TV
+https://mumt07.tangotv.in/zHjX9OFlPOWERVISION/index.m3u8
+
+#EXTINF:-1 tvg-id="Shalom.in" tvg-name="Shalom" group-title="Religious" tvg-language="mal" tvg-quality="1080p",Shalom
+https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Shalom.in" tvg-name="Shalom" group-title="Religious" tvg-language="mal" tvg-quality="1080p",Shalom
+https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Shalom.in" tvg-name="Shalom" group-title="Religious" tvg-language="mal" tvg-quality="576p",Shalom
+https://mumt01.tangotv.in/O5aw8Zn3SHALOMTVINDIA/index.m3u8
+
+#EXTINF:-1 tvg-id="ShalomAmerica.us" tvg-name="Shalom America" group-title="Religious" tvg-language="mal" tvg-quality="720p",Shalom America
+https://livestreamcdn.net:444/ShalomTV/ShalomTV/playlist.m3u8
+

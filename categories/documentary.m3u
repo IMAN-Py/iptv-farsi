@@ -1,0 +1,1212 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="30ALoomeredTV.us" tvg-name="30A Loomered TV" group-title="Documentary;News" tvg-language="eng" tvg-quality="480i",30A Loomered TV
+https://30a-tv.com/loomer.m3u8
+
+#EXTINF:-1 tvg-id="365daysTV.ru" tvg-name="365 days TV" group-title="Documentary" tvg-language="rus" tvg-quality="576p",365 days TV
+http://31.148.48.15/365_dney/index.m3u8
+
+#EXTINF:-1 tvg-id="365daysTV.ru" tvg-name="365 days TV" group-title="Documentary" tvg-language="rus" tvg-quality="576p",365 days TV
+http://stream.mcquack.net/70/index.m3u8
+
+#EXTINF:-1 tvg-id="365daysTV.ru" tvg-name="365 days TV" group-title="Documentary" tvg-language="rus" tvg-quality="576p",365 days TV
+https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="365daysTV.ru" tvg-name="365 days TV" group-title="Documentary" tvg-language="rus" tvg-quality="576p",365 days TV
+https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AdventureEarth.de" tvg-name="Adventure Earth" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Adventure Earth
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AdventureEarth.de" tvg-name="Adventure Earth" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Adventure Earth
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AdventureEarth.de" tvg-name="Adventure Earth" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Adventure Earth
+https://autentic-adventure-earth-1-gb.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae" tvg-name="Al Arabiya Programs" group-title="Documentary;News" tvg-language="ara" tvg-quality="1280p",Al Arabiya Programs
+https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="Al Jazeera Documentary" group-title="Documentary" tvg-language="ara" tvg-quality="1080p",Al Jazeera Documentary
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="Al Jazeera Documentary" group-title="Documentary" tvg-language="ara" tvg-quality="1080p",Al Jazeera Documentary
+https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="Al Jazeera Documentary" group-title="Documentary" tvg-language="ara" tvg-quality="1080p",Al Jazeera Documentary
+https://live-hls-web-ajd-fa.thehlive.com/AJD/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="Al Jazeera Documentary" group-title="Documentary" tvg-language="ara" tvg-quality="1080p",Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+
+#EXTINF:-1 tvg-id="AlternaTV.ar" tvg-name="AlternaTV" group-title="Culture;Documentary;Entertainment;General;Movies;Music" tvg-language="spa" tvg-quality="720p",AlternaTV
+https://tv.alterna.ar/stream/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" group-title="Documentary" tvg-language="eng" tvg-quality="720p",American Heroes Channel
+http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" group-title="Documentary" tvg-language="eng;hin;tam" tvg-quality="720p",Animal Planet
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" group-title="Documentary" tvg-language="eng;hin;tam" tvg-quality="720p",Animal Planet
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.ru" tvg-name="Animal Planet" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",Animal Planet
+http://stream.mcquack.net/114/index.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Animal Planet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Animal Planet
+http://23.239.31.26:8989/animalplanet/index.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="720p",Animal Planet Latin America
+http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",Animal Planet Latin America
+http://190.128.214.97:64333/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-id="ArchivosForenses.us" tvg-name="Archivos Forenses" group-title="Documentary" tvg-language="spa" tvg-quality="576i",Archivos Forenses
+https://jmp2.uk/plu-5efb8c19b2678b000780d032.m3u8
+
+#EXTINF:-1 tvg-id="ArchivosForenses.us" tvg-name="Archivos Forenses" group-title="Documentary" tvg-language="spa" tvg-quality="576i",Archivos Forenses
+https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
+
+#EXTINF:-1 tvg-id="Arsenal.ru" tvg-name="Arsenal" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Arsenal
+https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-name="Asharq Discovery" group-title="Documentary;Education" tvg-language="ara" tvg-quality="1080p",Asharq Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="AsharqDocumentary.sa" tvg-name="Asharq Documentary" group-title="Documentary" tvg-language="ara" tvg-quality="1080p",Asharq Documentary
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Atlas.us" tvg-name="Atlas" group-title="Documentary" tvg-language="eng" tvg-quality="480p",Atlas
+https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
+
+#EXTINF:-1 tvg-id="AutenticHistory.de" tvg-name="Autentic History" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Autentic History
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AutenticHistory.de" tvg-name="Autentic History" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Autentic History
+https://autentic-autentichistory-1-gb.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Backstage.us" tvg-name="Backstage" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Backstage
+https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8
+
+#EXTINF:-1 tvg-id="Backstage.us" tvg-name="Backstage" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Backstage
+https://fuse-backstage-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="hun" tvg-quality="576i",BBC Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/bbce_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="cze" tvg-quality="576i",BBC Earth
+http://88.212.15.17/live/test_bbc_eartch_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="576p",BBC Earth
+http://hls127.freeott.top:8080/BG_The_World/video.m3u8
+
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="720p",BBC Earth
+https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",BBC Earth
+https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="576i",BBC Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
+
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="720p",BBC Earth
+https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8
+
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="576i",BBC Earth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://nord.ayakkabiparti.lol/bbc/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",BBC Earth
+https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8
+
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" group-title="Culture;Documentary" tvg-language="eng" tvg-quality="576i",BBC Four
+https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" group-title="Culture;Documentary" tvg-language="eng" tvg-quality="576i",BBC Four
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" group-title="Culture;Documentary" tvg-language="eng" tvg-quality="720p",BBC Four
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
+
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" group-title="Culture;Documentary" tvg-language="eng" tvg-quality="720p",BBC Four
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_hd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" group-title="Culture;Documentary" tvg-language="eng" tvg-quality="720p",BBC Four
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" group-title="Business;Documentary" tvg-language="eng" tvg-quality="1080p",Bloomberg Originals
+https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" group-title="Business;Documentary" tvg-language="eng" tvg-quality="1080p",Bloomberg Originals
+https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" group-title="Business;Documentary" tvg-language="eng" tvg-quality="1080p",Bloomberg Originals
+https://bloomberg.com/media-manifest/streams/qt.m3u8
+
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" group-title="Business;Documentary" tvg-language="eng" tvg-quality="1080p",Bloomberg Originals
+https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" group-title="Business;Documentary" tvg-language="eng" tvg-quality="1080p",Bloomberg Originals
+https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8
+
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" group-title="Business;Documentary" tvg-language="eng" tvg-quality="1080p",Bloomberg Originals
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+#EXTVLCOPT:http-referrer=https://www.bloomberg.com/originals
+https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
+
+#EXTINF:-1 tvg-id="BritBoxMysteries.us" tvg-name="BritBox Mysteries" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",BritBox Mysteries
+https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BritBoxMysteries.us" tvg-name="BritBox Mysteries" group-title="Documentary" tvg-language="eng" tvg-quality="720p",BritBox Mysteries
+https://jmp2.uk/plu-60f5d389985a0c0007357304.m3u8
+
+#EXTINF:-1 tvg-id="BritBoxMysteries.us" tvg-name="BritBox Mysteries" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",BritBox Mysteries
+https://pb-ippotemhtglhp.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BTBInfo.pl" tvg-name="BTB Info" group-title="Documentary;News" tvg-language="eng;pol" tvg-quality="1080p",BTB Info
+https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
+
+#EXTINF:-1 tvg-id="BTBInfo.pl" tvg-name="BTB Info" group-title="Documentary;News" tvg-language="eng;pol" tvg-quality="1080p",BTB Info
+https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8
+
+#EXTINF:-1 tvg-id="CazadordeHomicidas.us" tvg-name="Cazador de Homicidas" group-title="Documentary" tvg-language="spa" tvg-quality="576i",Cazador de Homicidas
+https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8
+
+#EXTINF:-1 tvg-id="CazadordeHomicidas.us" tvg-name="Cazador de Homicidas" group-title="Documentary" tvg-language="spa" tvg-quality="576i",Cazador de Homicidas
+https://jmp2.uk/plu-6109a9f5531b840007a4a187.m3u8
+
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-name="CCTV-9" group-title="Documentary" tvg-language="zho" tvg-quality="576i",CCTV-9
+https://xykt-fix.github.io/Y77.m3u8
+
+#EXTINF:-1 tvg-id="CCTVWeaponTechnology.cn" tvg-name="CCTV-Weapon & Technology" group-title="Documentary" tvg-language="zho" tvg-quality="1080p",CCTV-Weapon & Technology
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" group-title="Documentary" tvg-language="eng" tvg-quality="576i",CGTN Documentary
+https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",CGTN Documentary
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",CGTN Documentary
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8
+
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" group-title="Documentary" tvg-language="eng" tvg-quality="576i",CGTN Documentary
+https://h5cul1yar48um3t.wcetv.com/hls/cgtnd.m3u8
+
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",CGTN Documentary
+https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8
+
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" group-title="Documentary" tvg-language="eng" tvg-quality="576p",CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
+#EXTINF:-1 tvg-id="ChemodanTV.ua" tvg-name="Chemodan TV" group-title="Documentary;Education" tvg-language="eng;ukr" tvg-quality="1080p",Chemodan TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/399/index.m3u8
+
+#EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-name="China Travel" group-title="Culture;Documentary;Travel" tvg-language="eng;zho" tvg-quality="1080p",China Travel
+https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-name="China Travel" group-title="Culture;Documentary;Travel" tvg-language="eng;zho" tvg-quality="1080p",China Travel
+https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+
+#EXTINF:-1 tvg-id="CityEdenKinoDok.ru" tvg-name="City Eden KinoDok" group-title="Documentary;Series" tvg-language="rus" tvg-quality="1080p",City Eden KinoDok
+https://cityeden.catcast.tv/content/38354/index.m3u8
+
+#EXTINF:-1 tvg-id="ClickTVChile.cl" tvg-name="ClickTV Chile" group-title="Documentary" tvg-language="spa" tvg-quality="720p",ClickTV Chile
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNAOriginals.sg" tvg-name="CNA Originals" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",CNA Originals
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNAOriginals.sg" tvg-name="CNA Originals" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",CNA Originals
+https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNDFilmDiscoveryChannel.cn" tvg-name="CND Film Discovery Channel" group-title="Documentary" tvg-language="zho" tvg-quality="576p",CND Film Discovery Channel
+http://125.210.152.18:9090/live/FXZL_750.m3u8
+
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Court TV
+https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Court TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Court TV
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Court TV
+https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8
+
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Court TV
+https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8
+
+#EXTINF:-1 tvg-id="Crime360.us" tvg-name="Crime 360" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Crime 360
+https://94a3e237.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Crime360.us" tvg-name="Crime 360" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Crime 360
+https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8
+
+#EXTINF:-1 tvg-id="Crime360.us" tvg-name="Crime 360" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Crime 360
+https://jmp2.uk/plu-6578848a6e4f6a0008741910.m3u8
+
+#EXTINF:-1 tvg-id="Crime360.us" tvg-name="Crime 360" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Crime 360
+https://jmp2.uk/plu-6578875614fbe400086e319e.m3u8
+
+#EXTINF:-1 tvg-id="CrimenHistoria.es" tvg-name="Crimen & Historia" group-title="Documentary" tvg-language="spa" tvg-quality="720p",Crimen & Historia
+https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
+
+#EXTINF:-1 tvg-id="CT2.cz" tvg-name="CT2" group-title="Documentary" tvg-language="ces" tvg-quality="576i",CT2
+http://88.212.15.17/live/test_ct2_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CuriosityNOW.de" tvg-name="Curiosity NOW" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Curiosity NOW
+https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DangerTV.us" tvg-name="Danger TV" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Danger TV
+https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dateline247.us" tvg-name="Dateline 24/7" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Dateline 24/7
+https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8
+
+#EXTINF:-1 tvg-id="Dateline247.us" tvg-name="Dateline 24/7" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Dateline 24/7
+https://d1si3n1st4nkgb.cloudfront.net/10502/88896029/hls/master.m3u8?ads.xumo_channelId=88896029
+
+#EXTINF:-1 tvg-id="Dateline247.us" tvg-name="Dateline 24/7" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Dateline 24/7
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xumo_channelId=99993007
+
+#EXTINF:-1 tvg-id="Dateline247.us" tvg-name="Dateline 24/7" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Dateline 24/7
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+
+#EXTINF:-1 tvg-id="Dateline247.us" tvg-name="Dateline 24/7" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Dateline 24/7
+https://jmp2.uk/plu-637413d8531e0c0007442d6d.m3u8
+
+#EXTINF:-1 tvg-id="Dateline247.us" tvg-name="Dateline 24/7" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Dateline 24/7
+https://pb-cpf6bqkmt2btj.akamaized.net/master.m3u8
+
+#EXTINF:-1 tvg-id="DeadlyWomen.us" tvg-name="Deadly Women" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Deadly Women
+https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8
+
+#EXTINF:-1 tvg-id="DeadlyWomen.us" tvg-name="Deadly Women" group-title="Documentary" tvg-language="eng" tvg-quality="576i",Deadly Women
+https://jmp2.uk/plu-5ca1df0d50be2571e393ad31.m3u8
+
+#EXTINF:-1 tvg-id="DetetivesMedicos.us" tvg-name="Detetives Medicos" group-title="Documentary" tvg-language="por" tvg-quality="720p",Detetives Medicos
+https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveringChina.cn" tvg-name="Discovering China" group-title="Culture;Documentary" tvg-language="eng;zho" tvg-quality="1080p",Discovering China
+https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveringChina.cn" tvg-name="Discovering China" group-title="Culture;Documentary" tvg-language="eng;zho" tvg-quality="1080p",Discovering China
+https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
+
+#EXTINF:-1 tvg-id="DocuBayTV.in" tvg-name="DocuBay TV" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",DocuBay TV
+https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DocuBox.nl" tvg-name="DocuBox" group-title="Documentary" tvg-language="rus" tvg-quality="576i",DocuBox
+http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="DocuBox.nl" tvg-name="DocuBox" group-title="Documentary" tvg-language="eng" tvg-quality="576i",DocuBox
+https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DocumentaryPlus.us" tvg-name="Documentary+" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Documentary+
+https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DocumentaryPlus.us" tvg-name="Documentary+" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Documentary+
+https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DocumentaryPlus.us" tvg-name="Documentary+" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Documentary+
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Docurama.us" tvg-name="Docurama" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Docurama
+https://docurama-plex-ingest.cinedigm.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Docurama.us" tvg-name="Docurama" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Docurama
+https://docurama-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dokusat.de" tvg-name="Dokusat" group-title="Documentary" tvg-language="deu" tvg-quality="1080p",Dokusat
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DossiersFBI.us" tvg-name="Dossiers FBI" group-title="Documentary" tvg-language="fra" tvg-quality="576i",Dossiers FBI
+https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
+
+#EXTINF:-1 tvg-id="Dvojka.sk" tvg-name="Dvojka" group-title="Documentary" tvg-language="slk" tvg-quality="576i",Dvojka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_dvojka_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ecovision.do" tvg-name="Ecovision" group-title="Documentary" tvg-language="spa" tvg-quality="720p",Ecovision
+https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
+
+#EXTINF:-1 tvg-id="EpicCrimes.in" tvg-name="Epic Crimes" group-title="Documentary" tvg-language="hin" tvg-quality="1080p",Epic Crimes
+https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
+
+#EXTINF:-1 tvg-id="EPlanetTV.ir" tvg-name="EPlanet TV" group-title="Documentary" tvg-language="fas" tvg-quality="720p",EPlanet TV
+https://eplhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="FBIFiles.us" tvg-name="FBI Files" group-title="Documentary" tvg-language="eng" tvg-quality="576i",FBI Files
+https://jmp2.uk/plu-5cb6f6f9a461406ffe4022cf.m3u8
+
+#EXTINF:-1 tvg-id="FBIFiles.us" tvg-name="FBI Files" group-title="Documentary" tvg-language="eng" tvg-quality="576i",FBI Files
+https://jmp2.uk/plu-61814659533163000748aa04.m3u8
+
+#EXTINF:-1 tvg-id="FBIFiles.us" tvg-name="FBI Files" group-title="Documentary" tvg-language="eng" tvg-quality="576i",FBI Files
+https://jmp2.uk/plu-61814b9a9704450007e52316.m3u8
+
+#EXTINF:-1 tvg-id="FBIFiles.us" tvg-name="FBI Files" group-title="Documentary" tvg-language="eng" tvg-quality="576i",FBI Files
+https://jmp2.uk/plu-61815067b9802500076e16e0.m3u8
+
+#EXTINF:-1 tvg-id="FBIFiles.us" tvg-name="FBI Files" group-title="Documentary" tvg-language="eng" tvg-quality="576i",FBI Files
+https://jmp2.uk/plu-62bdaa32a1b2fd00076693e8.m3u8
+
+#EXTINF:-1 tvg-id="ForensicFiles.us" tvg-name="Forensic Files" group-title="Documentary" tvg-language="spa" tvg-quality="480i",Forensic Files
+https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8
+
+#EXTINF:-1 tvg-id="ForensicFiles.us" tvg-name="Forensic Files" group-title="Documentary" tvg-language="spa" tvg-quality="480i",Forensic Files
+https://jmp2.uk/plu-6181241c1a35d50007874c27.m3u8
+
+#EXTINF:-1 tvg-id="ForensicFiles.us" tvg-name="Forensic Files" group-title="Documentary" tvg-language="spa" tvg-quality="480i",Forensic Files
+https://jmp2.uk/plu-618124b2e53c8d00077b37f8.m3u8
+
+#EXTINF:-1 tvg-id="ForensicFiles.us" tvg-name="Forensic Files" group-title="Documentary" tvg-language="spa" tvg-quality="480i",Forensic Files
+https://jmp2.uk/plu-6181262dc68b92000780fed2.m3u8
+
+#EXTINF:-1 tvg-id="ForensicFiles.us" tvg-name="Forensic Files" group-title="Documentary" tvg-language="spa" tvg-quality="480i",Forensic Files
+https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
+
+#EXTINF:-1 tvg-id="ForensicFiles.us" tvg-name="Forensic Files" group-title="Documentary" tvg-language="spa" tvg-quality="480i",Forensic Files
+https://jmp2.uk/plu-64ec5cf50f73a800081310a5.m3u8
+
+#EXTINF:-1 tvg-id="Francophonie24.fr" tvg-name="Francophonie24" group-title="Documentary" tvg-language="fra" tvg-quality="1080p",Francophonie24
+https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GEMNature.tr" tvg-name="GEM Nature" group-title="Documentary" tvg-language="fas" tvg-quality="480i",GEM Nature
+https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="Getfactual.us" tvg-name="Get.factual" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Get.factual
+https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
+
+#EXTINF:-1 tvg-id="GZT.tr" tvg-name="GZT" group-title="Documentary;Series" tvg-language="eng;tur" tvg-quality="1080p",GZT
+https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="H2.bg" tvg-name="H2" group-title="Documentary" tvg-language="bul;eng" tvg-quality="576i",H2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03r
+
+#EXTINF:-1 tvg-id="H2HD.si" tvg-name="H2 HD" group-title="Documentary" tvg-language="slv" tvg-quality="576i",H2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/HistoryChannel2/index.m3u8
+
+#EXTINF:-1 tvg-id="HistoriaYVida.es" tvg-name="Historia Y Vida" group-title="Documentary" tvg-language="spa" tvg-quality="720p",Historia Y Vida
+https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8
+
+#EXTINF:-1 tvg-id="History.bg" tvg-name="History" group-title="Documentary" tvg-language="bul" tvg-quality="576i",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0c1
+
+#EXTINF:-1 tvg-id="History.br" tvg-name="History" group-title="Documentary" tvg-language="por" tvg-quality="720p",History
+http://170.83.16.50/HISTORY/index.m3u8
+
+#EXTINF:-1 tvg-id="History.br" tvg-name="History" group-title="Documentary" tvg-language="por" tvg-quality="720p",History
+http://45.177.114.114/HISTORY/index.m3u8
+
+#EXTINF:-1 tvg-id="History.cz" tvg-name="History" group-title="Documentary" tvg-language="ces" tvg-quality="576i",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.212.15.17/live/test_history/playlist.m3u8
+
+#EXTINF:-1 tvg-id="History.hu" tvg-name="History" group-title="Documentary" tvg-language="hun" tvg-quality="576i",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/history_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="History.nl" tvg-name="History" group-title="Documentary" tvg-language="nld" tvg-quality="360p",History
+https://lb.iptvnetwork.net/ls28/10022/playlist.m3u8
+
+#EXTINF:-1 tvg-id="History.pl" tvg-name="History" group-title="Documentary" tvg-language="eng" tvg-quality="576i",History
+http://92.114.85.87:8015/play/a00c/index.m3u8
+
+#EXTINF:-1 tvg-id="History.si" tvg-name="History" group-title="Documentary" tvg-language="slv" tvg-quality="1080i",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/HistoryChannel/index.m3u8
+
+#EXTINF:-1 tvg-id="History.si" tvg-name="History" group-title="Documentary" tvg-language="slv" tvg-quality="1080p",History
+https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+
+#EXTINF:-1 tvg-id="History.us" tvg-name="History" group-title="Documentary" tvg-language="eng" tvg-quality="720p",History
+http://212.5.144.156:8080/history/index.m3u8
+
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="History 2 Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",History 2 Latin America
+http://138.121.15.230:9002/HISTORY-2/index.m3u8
+
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="History 2 Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",History 2 Latin America
+http://190.93.224.42/HISTORY-2/index.m3u8
+
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="History 2 Latin America" group-title="Documentary" tvg-language="por" tvg-quality="720p",History 2 Latin America
+http://45.177.114.114/HISTORY_2/index.m3u8
+
+#EXTINF:-1 tvg-id="HistoryAsia.us" tvg-name="History Asia" group-title="Documentary" tvg-language="eng" tvg-quality="720p",History Asia
+https://freem3u.xyz/api/live/play.m3u8?vid=9856
+
+#EXTINF:-1 tvg-id="HistoryHit.uk" tvg-name="History Hit" group-title="Documentary" tvg-language="eng" tvg-quality="720p",History Hit
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HistoryHit.uk" tvg-name="History Hit" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",History Hit
+https://lds-timeline-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HistoryHit.uk" tvg-name="History Hit" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",History Hit
+https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HistoryHit.uk" tvg-name="History Hit" group-title="Documentary" tvg-language="eng" tvg-quality="720p",History Hit
+https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HistoryHit.uk" tvg-name="History Hit" group-title="Documentary" tvg-language="eng" tvg-quality="720p",History Hit
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us" tvg-name="History Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",History Latin America
+http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us" tvg-name="History Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",History Latin America
+http://15.204.246.24:8080/HistoryHD/index.m3u8
+
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us" tvg-name="History Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",History Latin America
+http://190.93.224.42/HISTORY/index.m3u8
+
+#EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name="History TV18" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",History TV18
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name="History TV18" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",History TV18
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HistoryUkraine.ua" tvg-name="History Ukraine" group-title="Documentary" tvg-language="ukr" tvg-quality="576i",History Ukraine
+http://dtv.vol.net.ua/History_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="History2Ukraine.ua" tvg-name="History2 Ukraine" group-title="Documentary" tvg-language="ukr" tvg-quality="360p",History2 Ukraine
+http://dtv.vol.net.ua/H2-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="HRT3.hr" tvg-name="HRT 3" group-title="Culture;Documentary" tvg-language="hrv" tvg-quality="720p",HRT 3
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
+
+#EXTINF:-1 tvg-id="HRT3.hr" tvg-name="HRT 3" group-title="Culture;Documentary" tvg-language="hrv" tvg-quality="720p",HRT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
+
+#EXTINF:-1 tvg-id="ID.bg" tvg-name="ID" group-title="Documentary" tvg-language="bul" tvg-quality="576i",ID
+http://213.91.179.28:8000/play/a0cf
+
+#EXTINF:-1 tvg-id="InkMaster.us" tvg-name="Ink Master" group-title="Documentary" tvg-language="eng" tvg-quality="480i",Ink Master
+https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8
+
+#EXTINF:-1 tvg-id="InkMaster.us" tvg-name="Ink Master" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Ink Master
+https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8
+
+#EXTINF:-1 tvg-id="IntoCrime.fr" tvg-name="Into Crime" group-title="Documentary" tvg-language="fra" tvg-quality="1080p",Into Crime
+https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.hu" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="ces;eng;hun" tvg-quality="576i",Investigation Discovery
+http://88.212.15.17/live/id_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.in" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="eng;hin" tvg-quality="720p",Investigation Discovery
+https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ru" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",Investigation Discovery
+http://stream.mcquack.net/205/index.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Investigation Discovery
+http://212.5.144.156:8080/id/index.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us" tvg-name="Investigation Discovery Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",Investigation Discovery Latin America
+http://38.65.175.84:8000/play/a0ch/index.m3u8
+
+#EXTINF:-1 tvg-id="INWILD.nl" tvg-name="INWILD" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",INWILD
+https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="INWILD.nl" tvg-name="INWILD" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",INWILD
+https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="INWILD.nl" tvg-name="INWILD" group-title="Documentary" tvg-language="eng" tvg-quality="720p",INWILD
+https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="INWILD.nl" tvg-name="INWILD" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",INWILD
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Istoriya.ru" tvg-name="Istoriya" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Istoriya
+http://31.148.48.15/Istoriya/index.m3u8
+
+#EXTINF:-1 tvg-id="Istoriya.ru" tvg-name="Istoriya" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Istoriya
+http://hls127.freeott.top:8080/Istoriya/video.m3u8
+
+#EXTINF:-1 tvg-id="Istoriya.ru" tvg-name="Istoriya" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Istoriya
+https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Italiana.it" tvg-name="Italiana" group-title="Documentary" tvg-language="ita" tvg-quality="1080p",Italiana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
+
+#EXTINF:-1 tvg-id="kabeleinsDoku.de" tvg-name="kabel eins Doku" group-title="Documentary" tvg-language="deu" tvg-quality="576i",kabel eins Doku
+http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass
+
+#EXTINF:-1 tvg-id="kabeleinsDoku.de" tvg-name="kabel eins Doku" group-title="Documentary" tvg-language="deu" tvg-quality="720p",kabel eins Doku
+https://s6.hopslan.com/dokuX/index.m3u8
+
+#EXTINF:-1 tvg-id="KarbalaDocumentary.iq" tvg-name="Karbala Documentary" group-title="Documentary;Religious" tvg-language="ara" tvg-quality="1080p",Karbala Documentary
+https://ktvlive.online/stream/hls/ch3.m3u8
+
+#EXTINF:-1 tvg-id="LawCrime.us" tvg-name="Law & Crime" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Law & Crime
+https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LawCrime.us" tvg-name="Law & Crime" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Law & Crime
+https://cdn.lawandcrime.net/rewind/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LawCrime.us" tvg-name="Law & Crime" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Law & Crime
+https://ebd6ee5f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19MYXdhbmRDcmltZV9ITFM/playlist_scte.m3u8
+
+#EXTINF:-1 tvg-id="LovePets.ca" tvg-name="Love Pets" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Love Pets
+https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LovePets.ca" tvg-name="Love Pets" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Love Pets
+https://amg01576-blueskyeenterta-lovepetsemea-samsunguk-32fso.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LovePets.ca" tvg-name="Love Pets" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Love Pets
+https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8
+
+#EXTINF:-1 tvg-id="LovePets.ca" tvg-name="Love Pets" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Love Pets
+https://rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv/playlist/rakutenAA-blueskyent-lovepetsemea-rakuten/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveThePlanet.es" tvg-name="Love The Planet" group-title="Documentary" tvg-language="ita" tvg-quality="1080p",Love The Planet
+https://amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveThePlanet.es" tvg-name="Love The Planet" group-title="Documentary" tvg-language="deu" tvg-quality="1080p",Love The Planet
+https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveThePlanet.es" tvg-name="Love The Planet" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Love The Planet
+https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveThePlanet.es" tvg-name="Love The Planet" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",Love The Planet
+https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveThePlanet.es" tvg-name="Love The Planet" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Love The Planet
+https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LuckyDog.us" tvg-name="Lucky Dog" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Lucky Dog
+https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8
+
+#EXTINF:-1 tvg-id="MagellanTVNow.us" tvg-name="MagellanTV Now" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",MagellanTV Now
+https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MagellanTVNow.us" tvg-name="MagellanTV Now" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",MagellanTV Now
+https://amg00376-magellan-amg00376c5-samsung-nz-1714.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MagellanTVNow.us" tvg-name="MagellanTV Now" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",MagellanTV Now
+https://pb-5evqkeieu3o6d.akamaized.net/Magellan_TV_Now.m3u8
+
+#EXTINF:-1 tvg-id="MilitaryHistory.us" tvg-name="Military History" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Military History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+https://frndly.keralive.workers.dev/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/militaryhistory_live_nr/ab44a8245afe413db1169317ee5cda08/index.m3u8?type=ae2
+
+#EXTINF:-1 tvg-id="MRTVFarmer.mm" tvg-name="MRTV Farmer" group-title="Documentary;Lifestyle" tvg-language="mya" tvg-quality="480i",MRTV Farmer
+https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
+
+#EXTINF:-1 tvg-id="MWDDocumentary.mm" tvg-name="MWD Documentary" group-title="Documentary" tvg-language="mya" tvg-quality="480i",MWD Documentary
+http://203.81.84.130/hls/mwd_document/index.m3u8
+
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku" group-title="Documentary" tvg-language="deu" tvg-quality="576i",N24 Doku
+https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
+
+#EXTINF:-1 tvg-id="Nano.ru" tvg-name="Nano" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",Nano
+http://185.23.80.23:8080/NANO_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Nano.ru" tvg-name="Nano" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Nano
+http://s1.tv-nano.com/Nano_rec/index.m3u8
+
+#EXTINF:-1 tvg-id="Nano.ru" tvg-name="Nano" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Nano
+http://stream.mcquack.net/419/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.bg" tvg-name="National Geographic" group-title="Documentary" tvg-language="bul;eng" tvg-quality="576i",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0ct
+
+#EXTINF:-1 tvg-id="NationalGeographic.bg" tvg-name="National Geographic" group-title="Documentary" tvg-language="bul;eng" tvg-quality="1080p",National Geographic
+http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.cz" tvg-name="National Geographic" group-title="Documentary" tvg-language="ces" tvg-quality="576i",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_ngc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.fi" tvg-name="National Geographic" group-title="Documentary" tvg-language="fin" tvg-quality="720p",National Geographic
+https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true
+
+#EXTINF:-1 tvg-id="NationalGeographic.hr" tvg-name="National Geographic" group-title="Documentary" tvg-language="hrv" tvg-quality="1080p",National Geographic
+http://176.61.157.250/NationalGeographic/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.hu" tvg-name="National Geographic" group-title="Documentary" tvg-language="hun" tvg-quality="576i",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/ngc_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",National Geographic
+http://138.121.15.230:9002/NAT-GEO/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.nl" tvg-name="National Geographic" group-title="Documentary" tvg-language="nld" tvg-quality="1080p",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://46.32.176.50/NationalGeographicHD/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.nl" tvg-name="National Geographic" group-title="Documentary" tvg-language="nld" tvg-quality="360p",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.pl" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng" tvg-quality="576i",National Geographic
+http://92.114.85.87:8006/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.ro" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng;ron" tvg-quality="576i",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-name="National Geographic" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",National Geographic
+http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-name="National Geographic" group-title="Documentary" tvg-language="rus" tvg-quality="576p",National Geographic
+http://stream.mcquack.net/116/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-name="National Geographic" group-title="Documentary" tvg-language="rus" tvg-quality="576p",National Geographic
+https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-name="National Geographic" group-title="Documentary" tvg-language="tur" tvg-quality="576i",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://nord.ayakkabiparti.lol/natgeo/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-name="National Geographic" group-title="Documentary" tvg-language="tur" tvg-quality="1080p",National Geographic
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng" tvg-quality="720p",National Geographic
+http://198.58.104.90:8989/natgeo/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng" tvg-quality="720p",National Geographic
+http://212.5.144.156:8080/natgeo/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",National Geographic Latin America
+http://15.204.246.24:8080/NatGeoHD/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="480i",National Geographic Latin America
+http://181.78.79.131:8000/play/a0pt
+
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",National Geographic Latin America
+http://190.93.224.42/NAT-GEO/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",National Geographic Latin America
+http://45.173.231.22:8000/play/a05z/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",National Geographic Latin America
+https://barinaslive1.boldmss.com/NATGEO/NATGEO.isml/NATGEO.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.bg" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="bul" tvg-quality="576i",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0cu
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.bg" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="bul" tvg-quality="1080p",National Geographic Wild
+http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="ces" tvg-quality="576i",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_ngw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.hu" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="hun" tvg-quality="576i",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/ngw_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.pl" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="pol" tvg-quality="576i",National Geographic Wild
+http://92.114.85.87:8010/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.ro" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="ron" tvg-quality="576i",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="rus" tvg-quality="1080i",National Geographic Wild
+http://178.76.68.60:7442/50/mpegts
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",National Geographic Wild
+http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="rus" tvg-quality="576p",National Geographic Wild
+https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="tur" tvg-quality="576i",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="tur" tvg-quality="1080p",National Geographic Wild
+https://saran-live.ercdn.net/natgeowild/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.ua" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="ukr" tvg-quality="720p",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://46.32.176.50/natgeowild/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.ua" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="ukr" tvg-quality="1080p",National Geographic Wild
+http://dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="eng" tvg-quality="720p",National Geographic Wild
+http://198.58.104.90:8989/natgeowild/index.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",NatureTime
+https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",NatureTime
+https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",NatureTime
+https://amg00090-blueantllc-lovenatureau-samsungnz-r3iaz.amagi.tv/playlist/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",NatureTime
+https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",NatureTime
+https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",NatureTime
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="fra" tvg-quality="1080p",NatureTime
+https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="spa" tvg-quality="720p",NatureTime
+https://jmp2.uk/plu-60dd6b1da79e4d0007309455.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="fra" tvg-quality="720p",NatureTime
+https://jmp2.uk/plu-61fc0df14159c40007250432.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="spa" tvg-quality="684p",NatureTime
+https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="spa" tvg-quality="720p",NatureTime
+https://jmp2.uk/plu-681ba2ad93d3d19bcab47433.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",NatureTime
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+
+#EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Nauka" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",Nauka
+http://31.148.48.15/Nauka_2.0/index.m3u8
+
+#EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Nauka" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Nauka
+http://stream.mcquack.net/125/index.m3u8
+
+#EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Nauka" group-title="Documentary" tvg-language="rus" tvg-quality="576i",Nauka
+https://vod.tuva.ru/nauka2/index.m3u8
+
+#EXTINF:-1 tvg-id="NutaGold.pl" tvg-name="Nuta Gold" group-title="Documentary;Lifestyle" tvg-language="pol" tvg-quality="576i",Nuta Gold
+http://92.114.85.87:8010/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="OzbekistonTarixi.uz" tvg-name="O'zbekiston Tarixi" group-title="Documentary" tvg-language="uzb" tvg-quality="1080p",O'zbekiston Tarixi
+https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OnTheCase.us" tvg-name="On The Case" group-title="Documentary" tvg-language="eng" tvg-quality="576i",On The Case
+https://jmp2.uk/plu-615af74dfe3d8e0007524511.m3u8
+
+#EXTINF:-1 tvg-id="OnTheCase.us" tvg-name="On The Case" group-title="Documentary" tvg-language="eng" tvg-quality="576i",On The Case
+https://jmp2.uk/plu-62cd971cec90c20007081050.m3u8
+
+#EXTINF:-1 tvg-id="OnTheCase.us" tvg-name="On The Case" group-title="Documentary" tvg-language="eng" tvg-quality="576i",On The Case
+https://jmp2.uk/plu-62cd9f1cda044a00077b8f41.m3u8
+
+#EXTINF:-1 tvg-id="OnTheCase.us" tvg-name="On The Case" group-title="Documentary" tvg-language="eng" tvg-quality="576i",On The Case
+https://jmp2.uk/plu-62cdad7b5c38c00007f566c2.m3u8
+
+#EXTINF:-1 tvg-id="PersianaDocs.fr" tvg-name="Persiana Docs" group-title="Documentary" tvg-language="fas" tvg-quality="720p",Persiana Docs
+https://scihls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PersianaTravel.fr" tvg-name="Persiana Travel" group-title="Documentary" tvg-language="fas" tvg-quality="720p",Persiana Travel
+https://mardomhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PersianaTravel.fr" tvg-name="Persiana Travel" group-title="Documentary" tvg-language="fas" tvg-quality="720p",Persiana Travel
+https://ptravelhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAlienInvasion.de" tvg-name="Pluto TV Alien Invasion" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Pluto TV Alien Invasion
+https://jmp2.uk/plu-6462190b7cb4b1000862dd60.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAlienInvasion.se" tvg-name="Pluto TV Alien Invasion" group-title="Documentary" tvg-language="dan" tvg-quality="720p",Pluto TV Alien Invasion
+https://jmp2.uk/plu-650999b86a841400083bd1ab.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAliens.us" tvg-name="Pluto TV Aliens" group-title="Documentary;Series" tvg-language="por" tvg-quality="720p",Pluto TV Aliens
+https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAmericanTrueCrime.de" tvg-name="Pluto TV American True Crime" group-title="Documentary;Series" tvg-language="eng" tvg-quality="720p",Pluto TV American True Crime
+https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAnimais.us" tvg-name="Pluto TV Animais" group-title="Documentary" tvg-language="por" tvg-quality="720p",Pluto TV Animais
+https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAnimales.de" tvg-name="Pluto TV Animales" group-title="Documentary" tvg-language="spa" tvg-quality="720p",Pluto TV Animales
+https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAnimals.de" tvg-name="Pluto TV Animals" group-title="Documentary" tvg-language="deu" tvg-quality="720p",Pluto TV Animals
+https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAnimals.de" tvg-name="Pluto TV Animals" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Pluto TV Animals
+https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAnimaux.de" tvg-name="Pluto TV Animaux" group-title="Documentary" tvg-language="fra" tvg-quality="720p",Pluto TV Animaux
+https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAventure.de" tvg-name="Pluto TV Aventure" group-title="Documentary" tvg-language="fra" tvg-quality="720p",Pluto TV Aventure
+https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVBritainatWar.de" tvg-name="Pluto TV Britain at War" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Pluto TV Britain at War
+https://jmp2.uk/plu-625e8cb585ef320007806caf.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVConspiracy.de" tvg-name="Pluto TV Conspiracy" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Pluto TV Conspiracy
+https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVDocumentari.de" tvg-name="Pluto TV Documentari" group-title="Documentary" tvg-language="ita" tvg-quality="720p",Pluto TV Documentari
+https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVDokumentar.se" tvg-name="Pluto TV Dokumentar" group-title="Documentary" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Dokumentar
+https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVDokumentar.se" tvg-name="Pluto TV Dokumentar" group-title="Documentary" tvg-language="dan;eng" tvg-quality="720p",Pluto TV Dokumentar
+https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVExplore.de" tvg-name="Pluto TV Explore" group-title="Documentary" tvg-language="deu" tvg-quality="720p",Pluto TV Explore
+https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFood.de" tvg-name="Pluto TV Food" group-title="Cooking;Documentary" tvg-language="deu" tvg-quality="720p",Pluto TV Food
+https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFood.de" tvg-name="Pluto TV Food" group-title="Cooking;Documentary" tvg-language="eng" tvg-quality="720p",Pluto TV Food
+https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVHistoire.de" tvg-name="Pluto TV Histoire" group-title="Documentary" tvg-language="fra" tvg-quality="720p",Pluto TV Histoire
+https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVHistoria.de" tvg-name="Pluto TV Historia" group-title="Documentary" tvg-language="spa" tvg-quality="720p",Pluto TV Historia
+https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVHistory.us" tvg-name="Pluto TV History" group-title="Documentary" tvg-language="eng" tvg-quality="480i",Pluto TV History
+https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVInvestigacao.us" tvg-name="Pluto TV Investigacao" group-title="Documentary" tvg-language="por" tvg-quality="720p",Pluto TV Investigacao
+https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVMiObsesionFavorita.us" tvg-name="Pluto TV Mi Obsesion Favorita" group-title="Documentary" tvg-language="spa" tvg-quality="720p",Pluto TV Mi Obsesion Favorita
+https://jmp2.uk/plu-6109ab25b84d6a0007504886.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVMystery.de" tvg-name="Pluto TV Mystery" group-title="Documentary" tvg-language="deu" tvg-quality="720p",Pluto TV Mystery
+https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNatura.de" tvg-name="Pluto TV Natura" group-title="Documentary" tvg-language="ita" tvg-quality="720p",Pluto TV Natura
+https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNaturaleza.us" tvg-name="Pluto TV Naturaleza" group-title="Documentary;Outdoor" tvg-language="spa" tvg-quality="720p",Pluto TV Naturaleza
+https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNature.de" tvg-name="Pluto TV Nature" group-title="Documentary" tvg-language="deu" tvg-quality="720p",Pluto TV Nature
+https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNegocioFechado.us" tvg-name="Pluto TV Negocio Fechado" group-title="Documentary" tvg-language="por" tvg-quality="720p",Pluto TV Negocio Fechado
+https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVParanormal.us" tvg-name="Pluto TV Paranormal" group-title="Documentary" tvg-language="eng" tvg-quality="480i",Pluto TV Paranormal
+https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVParanormal.us" tvg-name="Pluto TV Paranormal" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Pluto TV Paranormal
+https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVPetrolHeads.de" tvg-name="Pluto TV PetrolHeads" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Pluto TV PetrolHeads
+https://jmp2.uk/plu-65a7b0814a10d800085ff2df.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVPolicial.us" tvg-name="Pluto TV Policial" group-title="Documentary" tvg-language="por" tvg-quality="720p",Pluto TV Policial
+https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVReportagen.de" tvg-name="Pluto TV Reportagen" group-title="Documentary" tvg-language="deu" tvg-quality="720p",Pluto TV Reportagen
+https://jmp2.uk/plu-68ada3edf84960586ad31c7d.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVScience.us" tvg-name="Pluto TV Science" group-title="Documentary;Science" tvg-language="eng" tvg-quality="480i",Pluto TV Science
+https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSpace.de" tvg-name="Pluto TV Space" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Pluto TV Space
+https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSpace.de" tvg-name="Pluto TV Space" group-title="Documentary" tvg-language="deu" tvg-quality="720p",Pluto TV Space
+https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSpace.se" tvg-name="Pluto TV Space" group-title="Documentary" tvg-language="dan" tvg-quality="720p",Pluto TV Space
+https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVStoria.de" tvg-name="Pluto TV Storia" group-title="Documentary" tvg-language="ita" tvg-quality="720p",Pluto TV Storia
+https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVToughJobs.de" tvg-name="Pluto TV Tough Jobs" group-title="Documentary;Series" tvg-language="eng" tvg-quality="720p",Pluto TV Tough Jobs
+https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTrueCrime.se" tvg-name="Pluto TV True Crime" group-title="Documentary;Series" tvg-language="dan;eng" tvg-quality="720p",Pluto TV True Crime
+https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTrueCrime.se" tvg-name="Pluto TV True Crime" group-title="Documentary;Series" tvg-language="eng;swe" tvg-quality="720p",Pluto TV True Crime
+https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTrueCrime.se" tvg-name="Pluto TV True Crime" group-title="Documentary;Series" tvg-language="eng;nor" tvg-quality="720p",Pluto TV True Crime
+https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTrueCrime.us" tvg-name="Pluto TV True Crime" group-title="Documentary;Series" tvg-language="eng" tvg-quality="480i",Pluto TV True Crime
+https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTrueCrime.us" tvg-name="Pluto TV True Crime" group-title="Documentary;Series" tvg-language="eng" tvg-quality="720p",Pluto TV True Crime
+https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTurbo.us" tvg-name="Pluto TV Turbo" group-title="Auto;Documentary" tvg-language="por" tvg-quality="720p",Pluto TV Turbo
+https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVVarldskrigen.se" tvg-name="Pluto TV Varldskrigen" group-title="Documentary" tvg-language="eng;swe" tvg-quality="720p",Pluto TV Varldskrigen
+https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVVerdenskrigene.se" tvg-name="Pluto TV Verdenskrigene" group-title="Documentary" tvg-language="dan" tvg-quality="720p",Pluto TV Verdenskrigene
+https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVVerdenskrigene.se" tvg-name="Pluto TV Verdenskrigene" group-title="Documentary" tvg-language="eng;nor" tvg-quality="720p",Pluto TV Verdenskrigene
+https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8
+
+#EXTINF:-1 tvg-id="PolsatViasatExplore.pl" tvg-name="Polsat Viasat Explore" group-title="Documentary" tvg-language="pol" tvg-quality="576i",Polsat Viasat Explore
+http://92.114.85.87:8014/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatViasatHistory.pl" tvg-name="Polsat Viasat History" group-title="Documentary" tvg-language="pol" tvg-quality="1080p",Polsat Viasat History
+http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatViasatHistory.pl" tvg-name="Polsat Viasat History" group-title="Documentary" tvg-language="pol" tvg-quality="576i",Polsat Viasat History
+http://92.114.85.87:8015/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatViasatNature.pl" tvg-name="Polsat Viasat Nature" group-title="Documentary" tvg-language="pol" tvg-quality="576i",Polsat Viasat Nature
+http://92.114.85.87:8016/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-id="Reelz.us" tvg-name="Reelz" group-title="Documentary" tvg-language="eng" tvg-quality="720p",Reelz
+http://23.237.104.106:8080/USA_REELZ/index.m3u8
+
+#EXTINF:-1 tvg-id="RLPROTV.cd" tvg-name="RL PRO TV" group-title="Documentary" tvg-language="fra" tvg-quality="576i",RL PRO TV
+https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
+
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",RT Documentary
+https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",RT Documentary
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" group-title="Documentary" tvg-language="rus" tvg-quality="576i",RT Documentary
+https://streaming.thestream.cyou/live/554.m3u8
+
+#EXTINF:-1 tvg-id="SafariTV.in" tvg-name="Safari TV" group-title="Documentary" tvg-language="mal" tvg-quality="480p",Safari TV
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SafariTV.in" tvg-name="Safari TV" group-title="Documentary" tvg-language="mal" tvg-quality="576p",Safari TV
+https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8
+
+#EXTINF:-1 tvg-id="SensingMurder.us" tvg-name="Sensing Murder" group-title="Documentary" tvg-language="eng" tvg-quality="576i",Sensing Murder
+https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8
+
+#EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us" tvg-name="Smithsonian Channel Pluto TV" group-title="Documentary" tvg-language="por" tvg-quality="720p",Smithsonian Channel Pluto TV
+https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
+
+#EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us" tvg-name="Smithsonian Channel Pluto TV" group-title="Documentary" tvg-language="spa" tvg-quality="720p",Smithsonian Channel Pluto TV
+https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
+
+#EXTINF:-1 tvg-id="SmithsonianChannelSelects.se" tvg-name="Smithsonian Channel Selects" group-title="Documentary" tvg-language="dan;eng" tvg-quality="720p",Smithsonian Channel Selects
+https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
+
+#EXTINF:-1 tvg-id="SmithsonianChannelSelects.se" tvg-name="Smithsonian Channel Selects" group-title="Documentary" tvg-language="eng;swe" tvg-quality="720p",Smithsonian Channel Selects
+https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8
+
+#EXTINF:-1 tvg-id="Smotrim100Fakty.ru" tvg-name="Smotrim 100% Fakty" group-title="Documentary" tvg-language="rus" tvg-quality="576i",Smotrim 100% Fakty
+https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
+
+#EXTINF:-1 tvg-id="Smotrim100Fakty.ru" tvg-name="Smotrim 100% Fakty" group-title="Documentary" tvg-language="rus" tvg-quality="720p",Smotrim 100% Fakty
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-name="Sony BBC Earth" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony BBC Earth
+http://103.185.24.134:3001/SONY-BBC/index.m3u8
+
+#EXTINF:-1 tvg-id="Spektrum.cz" tvg-name="Spektrum" group-title="Documentary" tvg-language="ces;slk" tvg-quality="576i",Spektrum
+http://88.212.15.17/live/test_spektrum/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spektrum.hu" tvg-name="Spektrum" group-title="Documentary" tvg-language="hun" tvg-quality="576i",Spektrum
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/spektrum_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="SpikePlutoTV.us" tvg-name="Spike Pluto TV" group-title="Documentary" tvg-language="eng" tvg-quality="480i",Spike Pluto TV
+https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8
+
+#EXTINF:-1 tvg-id="StorieCriminali.es" tvg-name="Storie Criminali" group-title="Documentary" tvg-language="ita" tvg-quality="1080p",Storie Criminali
+https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
+
+#EXTINF:-1 tvg-id="TeenMom.us" tvg-name="Teen Mom" group-title="Documentary" tvg-language="eng" tvg-quality="480i",Teen Mom
+https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8
+
+#EXTINF:-1 tvg-id="TERRA.ru" tvg-name="TERRA" group-title="Documentary" tvg-language="rus" tvg-quality="576p",TERRA
+http://31.148.48.15/Terra/index.m3u8
+
+#EXTINF:-1 tvg-id="TERRA.ru" tvg-name="TERRA" group-title="Documentary" tvg-language="rus" tvg-quality="720p",TERRA
+http://31.148.48.15/Terra_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="TerraMaterWILD.de" tvg-name="Terra Mater WILD" group-title="Documentary" tvg-language="deu" tvg-quality="1080p",Terra Mater WILD
+https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TerraMaterWILD.de" tvg-name="Terra Mater WILD" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Terra Mater WILD
+https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TerraMaterWILD.de" tvg-name="Terra Mater WILD" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Terra Mater WILD
+https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TerraMaterWILD.de" tvg-name="Terra Mater WILD" group-title="Documentary" tvg-language="deu" tvg-quality="720p",Terra Mater WILD
+https://jmp2.uk/plu-65b923f90cb1a100088a03ab.m3u8
+
+#EXTINF:-1 tvg-id="TheNest.us" tvg-name="The Nest" group-title="Documentary;Entertainment" tvg-language="eng" tvg-quality="1080p",The Nest
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+
+#EXTINF:-1 tvg-id="TopSecret.ru" tvg-name="Top Secret" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Top Secret
+http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
+
+#EXTINF:-1 tvg-id="TotalCrime.ca" tvg-name="Total Crime" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Total Crime
+https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" group-title="Documentary" tvg-language="eng;tur" tvg-quality="1080p",TRT Belgesel
+http://hls127.freeott.top:8080/TRT_BELGESEL_TR/video.m3u8
+
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" group-title="Documentary" tvg-language="eng;tur" tvg-quality="720p",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="UMSATVUInternacional.bo" tvg-name="UMSA TVU Internacional" group-title="Documentary;Education;Science" tvg-language="spa" tvg-quality="720p",UMSA TVU Internacional
+https://edge.enhdtv.com/8026/index.m3u8
+
+#EXTINF:-1 tvg-id="UMSATVUInternacional.bo" tvg-name="UMSA TVU Internacional" group-title="Documentary;Education;Science" tvg-language="spa" tvg-quality="720p",UMSA TVU Internacional
+#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/tvu-internacional
+https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Unidentified.us" tvg-name="Unidentified" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Unidentified
+https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ViasatExplore.bg" tvg-name="Viasat Explore" group-title="Documentary" tvg-language="bul" tvg-quality="1080p",Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatExplore.cz" tvg-name="Viasat Explore" group-title="Documentary" tvg-language="ces" tvg-quality="576i",Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_viasat_explore_atk_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ViasatExplore.ro" tvg-name="Viasat Explore" group-title="Documentary" tvg-language="ron" tvg-quality="576i",Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8
+
+#EXTINF:-1 tvg-id="ViasatExplore.si" tvg-name="Viasat Explore" group-title="Documentary" tvg-language="slv" tvg-quality="1080i",Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/ViasatExplore/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatHistory.bg" tvg-name="Viasat History" group-title="Documentary" tvg-language="bul" tvg-quality="1080p",Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatHistory.cz" tvg-name="Viasat History" group-title="Documentary" tvg-language="ces" tvg-quality="576i",Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_viasat_history_atk_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ViasatHistory.ro" tvg-name="Viasat History" group-title="Documentary" tvg-language="ron" tvg-quality="576i",Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
+
+#EXTINF:-1 tvg-id="ViasatHistory.si" tvg-name="Viasat History" group-title="Documentary" tvg-language="slv" tvg-quality="1080i",Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/ViasatHistory/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatHistory.tr" tvg-name="Viasat History" group-title="Documentary" tvg-language="tur" tvg-quality="720p",Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://nord.ayakkabiparti.lol/viasathistory/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatHistory.ua" tvg-name="Viasat History" group-title="Documentary" tvg-language="ukr" tvg-quality="576i",Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78
+
+#EXTINF:-1 tvg-id="ViasatHistory.ua" tvg-name="Viasat History" group-title="Documentary" tvg-language="ukr" tvg-quality="1080p",Viasat History
+http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8
+
+#EXTINF:-1 tvg-id="ViasatNature.bg" tvg-name="Viasat Nature" group-title="Documentary" tvg-language="bul" tvg-quality="1080p",Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatNature_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatNature.cz" tvg-name="Viasat Nature" group-title="Documentary" tvg-language="ces" tvg-quality="576i",Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_viasat_nature_atk_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ViasatNature.ro" tvg-name="Viasat Nature" group-title="Documentary" tvg-language="ron" tvg-quality="576i",Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
+
+#EXTINF:-1 tvg-id="ViasatNature.si" tvg-name="Viasat Nature" group-title="Documentary" tvg-language="slv" tvg-quality="576i",Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/ViasatNature/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Explore
+http://46.53.200.153:7777/play/a01i/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Explore
+http://stream.mcquack.net/239/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Explore
+https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju History
+http://178.124.179.122:8080/HistoryHD/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju History
+http://46.53.200.153:7777/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju History
+http://stream.mcquack.net/101/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju History
+https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Nature
+http://46.53.200.153:7777/play/a01k/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" group-title="Documentary" tvg-language="rus" tvg-quality="576p",viju Nature
+https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="viju Nature" group-title="Documentary" tvg-language="rus" tvg-quality="576i",viju Nature
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="vijuPlusPlanet.ru" tvg-name="viju+ Planet" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",viju+ Planet
+http://stream.mcquack.net/240/index.m3u8
+
+#EXTINF:-1 tvg-id="WaterBear.ch" tvg-name="WaterBear" group-title="Documentary;Outdoor" tvg-language="eng" tvg-quality="1080p",WaterBear
+https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WedoBigStories.ch" tvg-name="Wedo Big Stories" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Wedo Big Stories
+https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" group-title="Documentary;Education;Outdoor;Relax" tvg-language="eng" tvg-quality="1080p",WildEarth
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" group-title="Documentary;Education;Outdoor;Relax" tvg-language="eng" tvg-quality="1080p",WildEarth
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" group-title="Documentary;Education;Outdoor;Relax" tvg-language="eng" tvg-quality="1080p",WildEarth
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" group-title="Documentary;Education;Outdoor;Relax" tvg-language="eng" tvg-quality="1080p",WildEarth
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" group-title="Documentary;Education;Outdoor;Relax" tvg-language="eng" tvg-quality="1080p",WildEarth
+https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" group-title="Documentary;Education;Outdoor;Relax" tvg-language="eng" tvg-quality="1080p",WildEarth
+https://wildearth-xumo.amagi.tv/master.m3u8
+

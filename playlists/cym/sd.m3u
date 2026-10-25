@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C" group-title="Uncategorized" tvg-language="cym;eng" tvg-quality="576i",S4C
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:s4cpbs/hevc_iptv_mse_v0.mpd
+

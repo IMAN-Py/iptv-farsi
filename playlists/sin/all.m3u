@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AhasaTV.lk" tvg-name="Ahasa TV" group-title="Religious" tvg-language="sin" tvg-quality="1080p",Ahasa TV
+https://ahasatv.lk/live-stream/rewind-3600.m3u8
+
+#EXTINF:-1 tvg-id="AsiaTV.lk" tvg-name="Asia TV" group-title="Entertainment;Family;General" tvg-language="eng;sin;tam" tvg-quality="720p",Asia TV
+https://stream.asiatvnet.com/1/live/master.m3u8
+
+#EXTINF:-1 tvg-id="CharanaTV.lk" tvg-name="Charana TV" group-title="Education;Entertainment" tvg-language="sin" tvg-quality="360p",Charana TV
+https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="HiruTV.lk" tvg-name="Hiru TV" group-title="Entertainment" tvg-language="sin" tvg-quality="360p",Hiru TV
+https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JayaTV.lk" tvg-name="Jaya TV" group-title="Religious" tvg-language="sin" tvg-quality="480p",Jaya TV
+https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="JayaTV.lk" tvg-name="Jaya TV" group-title="Religious" tvg-language="sin" tvg-quality="576i",Jaya TV
+https://live.jayatv.lk/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Rupavahini.lk" tvg-name="Rupavahini" group-title="Uncategorized" tvg-language="sin" tvg-quality="720p",Rupavahini
+https://rpn.bozztv.com/slrclive/slrc/slrclive/index.m3u8
+
+#EXTINF:-1 tvg-id="ShraddhaTV.lk" tvg-name="Shraddha TV" group-title="Uncategorized" tvg-language="sin" tvg-quality="480p",Shraddha TV
+https://edge3-moblive.yuppcdn.net/drm1/smil:shraddhatvdrm.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="SiyathaTV.lk" tvg-name="Siyatha TV" group-title="Uncategorized" tvg-language="sin" tvg-quality="576p",Siyatha TV
+https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
+
+#EXTINF:-1 tvg-id="Swarnavahini.lk" tvg-name="Swarnavahini" group-title="Uncategorized" tvg-language="sin" tvg-quality="480p",Swarnavahini
+https://teledrama.ebc.lk/TTT/proxy.php
+
+#EXTINF:-1 tvg-id="TheBuddhist.lk" tvg-name="The Buddhist" group-title="Uncategorized" tvg-language="sin" tvg-quality="480p",The Buddhist
+https://edge3-moblive.yuppcdn.net/drm1/smil:thebuddhistdrm.smil/index.m3u8
+

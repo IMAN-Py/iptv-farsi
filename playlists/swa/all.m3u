@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3StonesTV.ke" tvg-name="3 Stones TV" group-title="General" tvg-language="eng;kik;swa" tvg-quality="240p",3 Stones TV
+https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8
+
+#EXTINF:-1 tvg-id="AkiliKids.ke" tvg-name="Akili Kids!" group-title="Kids" tvg-language="eng;swa" tvg-quality="576i",Akili Kids!
+https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CMTvKenya.ke" tvg-name="CMTv Kenya" group-title="General" tvg-language="eng;swa" tvg-quality="576p",CMTv Kenya
+https://goliveafrica.media:9998/live/64ede813cfe1a/index.m3u8
+
+#EXTINF:-1 tvg-id="DigitalCongoTV.cd" tvg-name="Digital Congo TV" group-title="General" tvg-language="fra;kon;lin;lua;swa" tvg-quality="576i",Digital Congo TV
+http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
+
+#EXTINF:-1 tvg-id="DodomaTV.tz" tvg-name="Dodoma TV" group-title="General" tvg-language="swa" tvg-quality="360p",Dodoma TV
+https://goliveafrica.media:9998/live/625965017ed69/index.m3u8
+
+#EXTINF:-1 tvg-id="GreatCommissionTV.ke" tvg-name="Great Commission TV" group-title="General" tvg-language="eng;swa" tvg-quality="576i",Great Commission TV
+https://stream-server9-jupiter.muxlive.com/hls/gctvghana/index.m3u8
+
+#EXTINF:-1 tvg-id="GTNTV.ke" tvg-name="GTN TV" group-title="General" tvg-language="eng;swa" tvg-quality="1080p",GTN TV
+https://goliveafrica.media:9998/live/644e07abdc1d3/index.m3u8
+
+#EXTINF:-1 tvg-id="IBNTV.tz" tvg-name="IBN TV" group-title="Religious" tvg-language="eng;swa" tvg-quality="480p",IBN TV
+http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8
+
+#EXTINF:-1 tvg-id="IBNTVAfrica.tz" tvg-name="IBN TV Africa" group-title="Religious" tvg-language="eng;swa" tvg-quality="720p",IBN TV Africa
+http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
+
+#EXTINF:-1 tvg-id="LuyaaTV.ke" tvg-name="Luyaa TV" group-title="General" tvg-language="swa" tvg-quality="480p",Luyaa TV
+https://goliveafrica.media:9998/live/659e7c6432815/index.m3u8
+
+#EXTINF:-1 tvg-id="MahaasinTV.tz" tvg-name="Mahaasin TV" group-title="Religious" tvg-language="eng;swa" tvg-quality="576i",Mahaasin TV
+https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8
+
+#EXTINF:-1 tvg-id="MasharikiTV.ke" tvg-name="Mashariki TV" group-title="General" tvg-language="eng;swa" tvg-quality="720p",Mashariki TV
+https://goliveafrica.media:9998/live/634adc0806f2b/index.m3u8
+
+#EXTINF:-1 tvg-id="MikubaTV.cd" tvg-name="Mikuba TV" group-title="General" tvg-language="fra;swa" tvg-quality="480p",Mikuba TV
+http://51.254.199.122:8080/MIKUBATV/index.m3u8
+
+#EXTINF:-1 tvg-id="MTA4Africa.uk" tvg-name="MTA4 Africa" group-title="Religious" tvg-language="eng;fra;swa;urd" tvg-quality="1080p",MTA4 Africa
+https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA5Africa.uk" tvg-name="MTA5 Africa" group-title="Religious" tvg-language="eng;fra;swa;urd" tvg-quality="1080p",MTA5 Africa
+https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MuugiTV.ke" tvg-name="Muugi TV" group-title="Religious" tvg-language="swa" tvg-quality="480p",Muugi TV
+https://goliveafrica.media:9998/live/62b3ffb71a3d6/index.m3u8
+
+#EXTINF:-1 tvg-id="NdurumeniTV.ke" tvg-name="Ndurumeni TV" group-title="Religious" tvg-language="swa" tvg-quality="480p",Ndurumeni TV
+https://goliveafrica.media:9998/live/6389d571d20af/index.m3u8
+
+#EXTINF:-1 tvg-id="PillarTV.ke" tvg-name="Pillar TV" group-title="Religious" tvg-language="eng;kik;swa" tvg-quality="720p",Pillar TV
+https://goliveafrica.media:9998/live/627e198474bd1/index.m3u8
+
+#EXTINF:-1 tvg-id="RTNBDivertissement.bi" tvg-name="RTNB Divertissement" group-title="Entertainment" tvg-language="eng;fra;run;swa" tvg-quality="576i",RTNB Divertissement
+https://tv2-stream.rtnb.bi/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="RTNBTV.bi" tvg-name="RTNB TV" group-title="General" tvg-language="eng;fra;run;swa" tvg-quality="576i",RTNB TV
+https://tv1-stream.rtnb.bi/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="TanzaniaSafariChannel.tz" tvg-name="Tanzania Safari Channel" group-title="Travel" tvg-language="eng;swa" tvg-quality="576p",Tanzania Safari Channel
+https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
+
+#EXTINF:-1 tvg-id="TBC1.tz" tvg-name="TBC1" group-title="General" tvg-language="swa" tvg-quality="576i",TBC1
+https://tbc.maintek.co/LiveApp/streams/YF43nTzH0duMyUA2130641323343587.m3u8
+
+#EXTINF:-1 tvg-id="TBC2.tz" tvg-name="TBC2" group-title="Entertainment" tvg-language="swa" tvg-quality="1080p",TBC2
+https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_44ed95e05b6d11f18d5d85805abbdd6f/index.m3u8
+
+#EXTINF:-1 tvg-id="UrejeshoTVAfrica.ke" tvg-name="Urejesho TV Africa" group-title="Religious" tvg-language="eng;swa" tvg-quality="360p",Urejesho TV Africa
+https://goliveafrica.media:9998/live/64a26e4dd21a3/index.m3u8
+

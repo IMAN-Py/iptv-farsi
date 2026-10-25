@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-name="Rotana Classic" group-title="Classic" tvg-language="ara" tvg-quality="1080p",Rotana Classic
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThikrayatTV.sa" tvg-name="Thikrayat TV" group-title="Classic" tvg-language="ara" tvg-quality="1080p",Thikrayat TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
+

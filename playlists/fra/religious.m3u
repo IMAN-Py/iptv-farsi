@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3ABNFrench.us" tvg-name="3ABN French" group-title="Religious" tvg-language="fra" tvg-quality="480i",3ABN French
+https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A2iReligion.sn" tvg-name="A2i Religion" group-title="Religious" tvg-language="fra;wol" tvg-quality="720p",A2i Religion
+https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ACTV.tg" tvg-name="AC TV" group-title="Religious" tvg-language="fra" tvg-quality="480p",AC TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/actvstream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BenieTV.ci" tvg-name="Benie TV" group-title="Religious" tvg-language="fra" tvg-quality="720p",Benie TV
+https://tv.voozmedia.fun/benietv/index.m3u8
+
+#EXTINF:-1 tvg-id="ChabibaTV.sn" tvg-name="Chabiba TV" group-title="Religious" tvg-language="fra" tvg-quality="360p",Chabiba TV
+https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8
+
+#EXTINF:-1 tvg-id="CNA.dz" tvg-name="CNA" group-title="Religious" tvg-language="ara;fra" tvg-quality="360p",CNA
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNA.dz" tvg-name="CNA" group-title="Religious" tvg-language="ara;fra" tvg-quality="360p",CNA
+https://live.creacast.com/cna/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DynamicGospelTV.tg" tvg-name="Dynamic Gospel TV" group-title="Religious" tvg-language="fra" tvg-quality="480p",Dynamic Gospel TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EcclesiaTV.ci" tvg-name="Ecclesia TV" group-title="Religious" tvg-language="fra" tvg-quality="576i",Ecclesia TV
+https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Esaie45Tele.cg" tvg-name="Esaie 45 Tele" group-title="Religious" tvg-language="fra" tvg-quality="576i",Esaie 45 Tele
+https://stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8
+
+#EXTINF:-1 tvg-id="EvandisGospelTV.fr" tvg-name="Evandis Gospel TV" group-title="Religious" tvg-language="fra" tvg-quality="1080p",Evandis Gospel TV
+https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="eng;fra" tvg-quality="720p",EWTN
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ExploitsTV.ci" tvg-name="Exploits TV" group-title="Religious" tvg-language="fra" tvg-quality="576i",Exploits TV
+https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8
+
+#EXTINF:-1 tvg-id="ImpactTV.bf" tvg-name="Impact TV" group-title="Religious" tvg-language="fra" tvg-quality="576i",Impact TV
+https://edge11.vedge.infomaniak.com/livecast/ik:impacttv-2/manifest.m3u8
+
+#EXTINF:-1 tvg-id="IqraaAfricaEurope.sa" tvg-name="Iqraa Africa & Europe" group-title="Religious" tvg-language="ara;eng;fra" tvg-quality="1080p",Iqraa Africa & Europe
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IqraaQuran.sa" tvg-name="Iqraa Quran" group-title="Religious" tvg-language="ara;eng;fra" tvg-quality="1080p",Iqraa Quran
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTO.fr" tvg-name="KTO" group-title="Religious" tvg-language="fra" tvg-quality="404p",KTO
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+
+#EXTINF:-1 tvg-id="LBFDRTV.cd" tvg-name="LBFD RTV" group-title="Religious" tvg-language="fra" tvg-quality="1080p",LBFD RTV
+https://tnt-television.com/LBFD_RTV/index.m3u8
+
+#EXTINF:-1 tvg-id="LMTVFrench.ci" tvg-name="LM TV French" group-title="Religious" tvg-language="fra" tvg-quality="720p",LM TV French
+https://video1.getstreamhosting.com:1936/8282/8282/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ManaEgliseOnline.pt" tvg-name="Mana Eglise Online" group-title="Religious" tvg-language="fra" tvg-quality="1080p",Mana Eglise Online
+https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MiracleTVPlus.ci" tvg-name="Miracle TV+" group-title="Religious" tvg-language="fra" tvg-quality="720p",Miracle TV+
+https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA1World.uk" tvg-name="MTA1 World" group-title="Religious" tvg-language="ara;ben;deu;eng;fra;urd" tvg-quality="720p",MTA1 World
+https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA2Europe.uk" tvg-name="MTA2 Europe" group-title="Religious" tvg-language="ara;ben;deu;eng;fra;hin;urd" tvg-quality="720p",MTA2 Europe
+https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA4Africa.uk" tvg-name="MTA4 Africa" group-title="Religious" tvg-language="eng;fra;swa;urd" tvg-quality="1080p",MTA4 Africa
+https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA5Africa.uk" tvg-name="MTA5 Africa" group-title="Religious" tvg-language="eng;fra;swa;urd" tvg-quality="1080p",MTA5 Africa
+https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ONETV.cd" tvg-name="ONE-TV" group-title="Religious" tvg-language="fra" tvg-quality="720p",ONE-TV
+https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8
+
+#EXTINF:-1 tvg-id="RadioTele4VEH.ht" tvg-name="Radio Tele 4VEH" group-title="Religious" tvg-language="fra;hat" tvg-quality="720p",Radio Tele 4VEH
+https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleAmenFM.ht" tvg-name="Radio Tele Amen FM" group-title="Religious" tvg-language="fra" tvg-quality="360p",Radio Tele Amen FM
+http://184.173.179.163:1935/daniel/daniel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleEvangileSansLimite.ca" tvg-name="Radio Tele Evangile Sans Limite" group-title="Religious" tvg-language="fra" tvg-quality="480i",Radio Tele Evangile Sans Limite
+https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleFullGospel.ht" tvg-name="Radio Tele Full Gospel" group-title="Religious" tvg-language="fra;hat" tvg-quality="576i",Radio Tele Full Gospel
+https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTelePuissance.us" tvg-name="Radio Tele Puissance" group-title="Religious" tvg-language="eng;fra" tvg-quality="480i",Radio Tele Puissance
+https://video1.getstreamhosting.com:1936/8560/8560/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleSentinel.us" tvg-name="Radio Tele Sentinel" group-title="Religious" tvg-language="fra;hat" tvg-quality="480i",Radio Tele Sentinel
+https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleWisdom.us" tvg-name="Radio Tele Wisdom" group-title="Religious" tvg-language="fra" tvg-quality="360p",Radio Tele Wisdom
+https://59d39900ebfb8.streamlock.net/daniel/daniel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTJVA.tg" tvg-name="RT JVA" group-title="Religious" tvg-language="fra" tvg-quality="720p",RT JVA
+https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8
+
+#EXTINF:-1 tvg-id="RTHTV2Gospel.us" tvg-name="RTH-TV2 Gospel" group-title="Religious" tvg-language="fra;hat" tvg-quality="720p",RTH-TV2 Gospel
+https://2-fss-2.streamhoster.com/pl_120/amlst:206708-4202592/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTVC.ci" tvg-name="RTVC" group-title="Religious" tvg-language="fra" tvg-quality="720p",RTVC
+https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8
+
+#EXTINF:-1 tvg-id="SophiaTVFrancais.de" tvg-name="Sophia TV Francais" group-title="Religious" tvg-language="fra" tvg-quality="720p",Sophia TV Francais
+https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleLouange.ht" tvg-name="Tele Louange" group-title="Religious" tvg-language="fra;hat" tvg-quality="1080p",Tele Louange
+https://5790d294af2dc.streamlock.net/8124/8124/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telepace2.it" tvg-name="Telepace 2" group-title="Culture;Religious" tvg-language="eng;fra;ita" tvg-quality="1080p",Telepace 2
+https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telepace4.it" tvg-name="Telepace 4" group-title="Religious" tvg-language="eng;fra;ita" tvg-quality="1080p",Telepace 4
+https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceGospel.fr" tvg-name="Trace Gospel" group-title="Music;Religious" tvg-language="fra" tvg-quality="1080p",Trace Gospel
+https://channels.trace.plus/Traceprod/GOSPEL_FR_hd/index.m3u8
+
+#EXTINF:-1 tvg-id="TraceGospel.fr" tvg-name="Trace Gospel" group-title="Music;Religious" tvg-language="fra" tvg-quality="1080p",Trace Gospel
+https://channels.trace.plus/Traceprod/GOSPEL_SA_hd/index.m3u8
+
+#EXTINF:-1 tvg-id="TVFamille.mq" tvg-name="TV Famille" group-title="Family;Religious" tvg-language="fra" tvg-quality="720p",TV Famille
+https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCARiBGospel.sx" tvg-name="TVCARiB Gospel" group-title="Religious" tvg-language="eng;fra" tvg-quality="480p",TVCARiB Gospel
+https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8
+

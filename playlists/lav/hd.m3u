@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" group-title="Legislative" tvg-language="bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mlt;nld;pol;por;ron;slk;slv;spa;swe;ukr" tvg-quality="1080p",EbS
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8
+
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+
+#EXTINF:-1 tvg-id="Go3Sport1.ee" tvg-name="Go3 Sport 1" group-title="Sports" tvg-language="est;lav;lit" tvg-quality="1080p",Go3 Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/416/index.m3u8
+
+#EXTINF:-1 tvg-id="KidZoneMax.ee" tvg-name="KidZone Max" group-title="Kids" tvg-language="eng;est;lav;lit;rus" tvg-quality="1080p",KidZone Max
+#EXTVLCOPT:http-referrer=https://kidzonemax.lt
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd
+
+#EXTINF:-1 tvg-id="LTV1.lv" tvg-name="LTV1" group-title="General" tvg-language="lav" tvg-quality="1080p",LTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/34/index.m3u8
+
+#EXTINF:-1 tvg-id="LTV1.lv" tvg-name="LTV1" group-title="General" tvg-language="lav" tvg-quality="1080p",LTV1
+https://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv1_pasaule/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LTV7.lv" tvg-name="LTV7" group-title="Entertainment" tvg-language="lav" tvg-quality="1080p",LTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/371/index.m3u8
+
+#EXTINF:-1 tvg-id="LTV7.lv" tvg-name="LTV7" group-title="Entertainment" tvg-language="lav" tvg-quality="1080p",LTV7
+https://lsm.eu.cdns-redge.media/livehls/o2/lsm-live/live/ltv7_pasaule/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pingviins.lv" tvg-name="Pingviins" group-title="Animation;Kids" tvg-language="lav" tvg-quality="720p",Pingviins
+https://sirius.greenhosting.ru/PingvinRu/video.m3u8
+
+#EXTINF:-1 tvg-id="RadioSWHTV.lv" tvg-name="Radio SWH TV" group-title="Music" tvg-language="lav" tvg-quality="1080p",Radio SWH TV
+https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ReTV.lv" tvg-name="Re TV" group-title="Uncategorized" tvg-language="lav" tvg-quality="1080p",Re TV
+https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVJurmala.lv" tvg-name="TV Jurmala" group-title="General" tvg-language="lav" tvg-quality="1080p",TV Jurmala
+https://air.star.lv/TV_Jurmala_multistream/index.m3u8
+
+#EXTINF:-1 tvg-id="TV3Life.lv" tvg-name="TV3 Life" group-title="Entertainment;Lifestyle" tvg-language="lav" tvg-quality="1080p",TV3 Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/373/index.m3u8
+

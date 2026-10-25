@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AasthaGujarati.in" tvg-name="Aastha Gujarati" group-title="Religious" tvg-language="guj" tvg-quality="480p",Aastha Gujarati
+https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AasthaGujarati.in" tvg-name="Aastha Gujarati" group-title="Religious" tvg-language="guj" tvg-quality="576p",Aastha Gujarati
+https://mumt04.tangotv.in/m18aqlK4AASTHAGUJARATI/index.m3u8
+
+#EXTINF:-1 tvg-id="ColorsGujarati.in" tvg-name="Colors Gujarati" group-title="Entertainment" tvg-language="guj" tvg-quality="396p",Colors Gujarati
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
+
+#EXTINF:-1 tvg-id="DDGirnar.in" tvg-name="DD Girnar" group-title="General" tvg-language="guj" tvg-quality="504p",DD Girnar
+https://d2lk5u59tns74c.cloudfront.net/out/v1/558fdb9aebb54bb5bbbf0ced03686148/index.m3u8
+
+#EXTINF:-1 tvg-id="ETVBalBharat.in" tvg-name="ETV Bal Bharat" group-title="Kids" tvg-language="asm;ben;eng;guj;hin;kan;mal;mar;ori;pan;tam;tel" tvg-quality="576p",ETV Bal Bharat
+http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
+
+#EXTINF:-1 tvg-id="GSTV.in" tvg-name="GS TV" group-title="News" tvg-language="guj" tvg-quality="576p",GS TV
+https://cdnplay.peanutsquare.com/560828843292539228453915.m3u8
+
+#EXTINF:-1 tvg-id="GSTV.in" tvg-name="GS TV" group-title="News" tvg-language="guj" tvg-quality="576p",GS TV
+https://mumt05.tangotv.in/87NeALx2GSTV/index.m3u8
+
+#EXTINF:-1 tvg-id="GujaratFirst.in" tvg-name="Gujarat First" group-title="News" tvg-language="guj" tvg-quality="576p",Gujarat First
+https://d2gvyg6lvauoko.cloudfront.net/230226/gujaratfirst/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="GujaratFirst.in" tvg-name="Gujarat First" group-title="News" tvg-language="guj" tvg-quality="576p",Gujarat First
+https://mumt03.tangotv.in/Dsly5z3HGUJARATFIRST/index.m3u8
+
+#EXTINF:-1 tvg-id="MantavyaNews.in" tvg-name="Mantavya News" group-title="News" tvg-language="guj" tvg-quality="576p",Mantavya News
+https://d1msejlow1t3l4.cloudfront.net/fta/mantavya/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MantavyaNews.in" tvg-name="Mantavya News" group-title="News" tvg-language="guj" tvg-quality="576p",Mantavya News
+https://mumt07.tangotv.in/zHjX9OFlMANTAVYA24X7NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="SandeshNews.in" tvg-name="Sandesh News" group-title="News" tvg-language="guj" tvg-quality="576p",Sandesh News
+https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="TV13Gujarati.in" tvg-name="TV13 Gujarati" group-title="News" tvg-language="guj" tvg-quality="480p",TV13 Gujarati
+https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8
+
+#EXTINF:-1 tvg-id="TV9Gujarati.in" tvg-name="TV9 Gujarati" group-title="News" tvg-language="guj" tvg-quality="576p",TV9 Gujarati
+https://streams.tangotv.in/TV9GUJARATI/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="ValamTVDayro.in" tvg-name="Valam TV Dayro" group-title="Religious" tvg-language="guj" tvg-quality="576p",Valam TV Dayro
+https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8
+
+#EXTINF:-1 tvg-id="VTVNews.in" tvg-name="VTV News" group-title="News" tvg-language="guj" tvg-quality="576p",VTV News
+https://live1.ottlive.co.in/vtvgujarati/vtvgujarati/index.m3u8
+

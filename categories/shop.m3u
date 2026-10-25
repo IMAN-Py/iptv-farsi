@@ -1,0 +1,284 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="1-2-3.tv" group-title="Shop" tvg-language="deu" tvg-quality="270p",1-2-3.tv
+https://123tv-mx1.flex-cdn.net/index.m3u8
+
+#EXTINF:-1 tvg-id="1001Noites.br" tvg-name="1001 Noites" group-title="Shop" tvg-language="por" tvg-quality="720p",1001 Noites
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="30ATheBeachShow.us" tvg-name="30A The Beach Show" group-title="Shop" tvg-language="eng" tvg-quality="720p",30A The Beach Show
+https://30a-tv.com/beachy.m3u8
+
+#EXTINF:-1 tvg-id="BajoTechoTV.do" tvg-name="Bajo Techo TV" group-title="Shop" tvg-language="spa" tvg-quality="1080p",Bajo Techo TV
+https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BSTV.hk" tvg-name="BSTV" group-title="Shop" tvg-language="yue;zho" tvg-quality="576p",BSTV
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CasaItalia53.it" tvg-name="Casa Italia 53" group-title="Shop" tvg-language="ita" tvg-quality="720p",Casa Italia 53
+https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CJOnStyle.kr" tvg-name="CJ OnStyle" group-title="Shop" tvg-language="kor" tvg-quality="540p",CJ OnStyle
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CJOnStylePlus.kr" tvg-name="CJ OnStyle+" group-title="Shop" tvg-language="kor" tvg-quality="540p",CJ OnStyle+
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ExpoChannel.au" tvg-name="Expo Channel" group-title="Shop" tvg-language="eng" tvg-quality="360p",Expo Channel
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
+
+#EXTINF:-1 tvg-id="ExtraProNews.gr" tvg-name="Extra ProNews" group-title="Entertainment;News;Shop" tvg-language="ell" tvg-quality="576p",Extra ProNews
+http://62.1.176.18:8888/extra/index.m3u8
+
+#EXTINF:-1 tvg-id="FashionFinds.us" tvg-name="Fashion Finds" group-title="Lifestyle;Shop" tvg-language="eng" tvg-quality="720p",Fashion Finds
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
+
+#EXTINF:-1 tvg-id="FengshangShoppingChannel.cn" tvg-name="Fengshang Shopping Channel" group-title="Shop" tvg-language="zho" tvg-quality="1080p",Fengshang Shopping Channel
+http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
+
+#EXTINF:-1 tvg-id="GemShoppingNetwork.us" tvg-name="Gem Shopping Network" group-title="Shop" tvg-language="eng" tvg-quality="720p",Gem Shopping Network
+https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GemsTV.uk" tvg-name="Gems TV" group-title="Shop" tvg-language="eng" tvg-quality="720p",Gems TV
+https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GongyoungHomeShopping.kr" tvg-name="Gongyoung Home Shopping" group-title="Shop" tvg-language="kor" tvg-quality="720p",Gongyoung Home Shopping
+https://etv.publichs.com/live5.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GSMyShop.kr" tvg-name="GS My Shop" group-title="Shop" tvg-language="kor" tvg-quality="1080p",GS My Shop
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GSShop.kr" tvg-name="GS Shop" group-title="Shop" tvg-language="eng" tvg-quality="1080p",GS Shop
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GSTV.jp" tvg-name="GSTV" group-title="Shop" tvg-language="jpn" tvg-quality="720p",GSTV
+https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
+
+#EXTINF:-1 tvg-id="Handystar.de" tvg-name="Handystar" group-title="Shop" tvg-language="deu" tvg-quality="404p",Handystar
+https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="HighTV.gr" tvg-name="High TV" group-title="Shop" tvg-language="ell" tvg-quality="720p",High TV
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HomeShopping.kr" tvg-name="Home & Shopping" group-title="Shop" tvg-language="kor" tvg-quality="720p",Home & Shopping
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HSE.de" tvg-name="HSE" group-title="Shop" tvg-language="deu" tvg-quality="1080p",HSE
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HSEExtra.de" tvg-name="HSE Extra" group-title="Shop" tvg-language="deu" tvg-quality="1080p",HSE Extra
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HSETrend.de" tvg-name="HSE Trend" group-title="Shop" tvg-language="deu" tvg-quality="576p",HSE Trend
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN" group-title="Shop" tvg-language="eng" tvg-quality="720p",HSN
+https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN" group-title="Shop" tvg-language="eng" tvg-quality="720p",HSN
+https://jmp2.uk/plu-5f8a02476b72230007e62b7d.m3u8
+
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN" group-title="Shop" tvg-language="eng" tvg-quality="720p",HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN" group-title="Shop" tvg-language="eng" tvg-quality="720p",HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
+
+#EXTINF:-1 tvg-id="HSN2.us" tvg-name="HSN2" group-title="Shop" tvg-language="eng" tvg-quality="720p",HSN2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+
+#EXTINF:-1 tvg-id="HyundaiHomeShopping.kr" tvg-name="Hyundai Home Shopping" group-title="Shop" tvg-language="kor" tvg-quality="720p",Hyundai Home Shopping
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HyundaiHomeShoppingPlusShop.kr" tvg-name="Hyundai Home Shopping + Shop" group-title="Shop" tvg-language="kor" tvg-quality="720p",Hyundai Home Shopping + Shop
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IntheKitchen.us" tvg-name="In the Kitchen" group-title="Cooking;Shop" tvg-language="eng" tvg-quality="720p",In the Kitchen
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+
+#EXTINF:-1 tvg-id="JewelryTV.us" tvg-name="Jewelry TV" group-title="Shop" tvg-language="eng" tvg-quality="720p",Jewelry TV
+https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
+
+#EXTINF:-1 tvg-id="JewelryTV2.us" tvg-name="Jewelry TV 2" group-title="Shop" tvg-language="eng" tvg-quality="720p",Jewelry TV 2
+https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8
+
+#EXTINF:-1 tvg-id="Juwelo.de" tvg-name="Juwelo" group-title="Shop" tvg-language="deu" tvg-quality="720p",Juwelo
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
+
+#EXTINF:-1 tvg-id="Juwelo.it" tvg-name="Juwelo" group-title="Shop" tvg-language="deu" tvg-quality="480p",Juwelo
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8
+
+#EXTINF:-1 tvg-id="KShopping.kr" tvg-name="K Shopping" group-title="Shop" tvg-language="kor" tvg-quality="1080p",K Shopping
+https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KaufBeiTV.de" tvg-name="KaufBei TV" group-title="Shop" tvg-language="deu" tvg-quality="576p",KaufBei TV
+https://api.alpaca.t62a.com/hls/9103/index.m3u8
+
+#EXTINF:-1 tvg-id="KaufBeiTV.de" tvg-name="KaufBei TV" group-title="Shop" tvg-language="deu" tvg-quality="576i",KaufBei TV
+https://elephant.t62a.com/hls/8103/index.m3u8
+
+#EXTINF:-1 tvg-id="LaoSVTV.vn" tvg-name="Lao SV TV" group-title="Shop" tvg-language="vie" tvg-quality="480p",Lao SV TV
+https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaoThaiTV.us" tvg-name="Lao-Thai TV" group-title="Shop" tvg-language="vie" tvg-quality="720p",Lao-Thai TV
+https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Leomax24.ru" tvg-name="Leomax 24" group-title="Shop" tvg-language="rus" tvg-quality="1080p",Leomax 24
+https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LotteHomeShopping.kr" tvg-name="Lotte Home Shopping" group-title="Shop" tvg-language="kor" tvg-quality="720p",Lotte Home Shopping
+https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+
+#EXTINF:-1 tvg-id="LotteOneTV.kr" tvg-name="Lotte OneTV" group-title="Shop" tvg-language="kor" tvg-quality="720p",Lotte OneTV
+https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+
+#EXTINF:-1 tvg-id="LSTV.la" tvg-name="LS TV" group-title="Shop" tvg-language="lao" tvg-quality="480p",LS TV
+https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Magnat.ru" tvg-name="Magnat" group-title="Shop" tvg-language="rus" tvg-quality="1080p",Magnat
+https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
+
+#EXTINF:-1 tvg-id="MagnificentMoviesNetwork.us" tvg-name="Magnificent Movies Network" group-title="Movies;Shop" tvg-language="eng" tvg-quality="576i",Magnificent Movies Network
+https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
+
+#EXTINF:-1 tvg-id="Mango.pl" tvg-name="Mango" group-title="Shop" tvg-language="pol" tvg-quality="1080p",Mango
+https://lb2.pluscdn.pl/ch/1580235/3496/hls/a149fc4b/masterlist.m3u8
+
+#EXTINF:-1 tvg-id="MOMOTV.tw" tvg-name="MOMO TV" group-title="Shop" tvg-language="zho" tvg-quality="1080p",MOMO TV
+http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
+
+#EXTINF:-1 tvg-id="Moymir.ru" tvg-name="Moy mir" group-title="Shop" tvg-language="rus" tvg-quality="720p",Moy mir
+https://moymir.ru/hls/onair.m3u8
+
+#EXTINF:-1 tvg-id="NSHomeShopping.kr" tvg-name="NS Home Shopping" group-title="Shop" tvg-language="kor" tvg-quality="720p",NS Home Shopping
+https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
+
+#EXTINF:-1 tvg-id="NSShopPlus.kr" tvg-name="NS Shop+" group-title="Shop" tvg-language="kor" tvg-quality="720p",NS Shop+
+https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
+
+#EXTINF:-1 tvg-id="OnTV4U.us" tvg-name="OnTV4U" group-title="Shop" tvg-language="eng" tvg-quality="1080p",OnTV4U
+https://stirr.b-cdn.net/stirr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QVC.de" tvg-name="QVC" group-title="Shop" tvg-language="deu" tvg-quality="720p",QVC
+https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
+
+#EXTINF:-1 tvg-id="QVC.it" tvg-name="QVC" group-title="Shop" tvg-language="ita" tvg-quality="540p",QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+
+#EXTINF:-1 tvg-id="QVC.jp" tvg-name="QVC" group-title="Shop" tvg-language="jpn" tvg-quality="1080p",QVC
+https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+
+#EXTINF:-1 tvg-id="QVC.uk" tvg-name="QVC" group-title="Shop" tvg-language="eng" tvg-quality="540p",QVC
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
+
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC" group-title="Shop" tvg-language="eng" tvg-quality="720p",QVC
+https://a-cdn.klowdtv.com/live2/qvclive_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC" group-title="Shop" tvg-language="eng" tvg-quality="480i",QVC
+https://jmp2.uk/plu-5bdcdf1e851dd5632e2c11d1.m3u8
+
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC" group-title="Shop" tvg-language="eng" tvg-quality="720p",QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
+
+#EXTINF:-1 tvg-id="QVCBeauty.uk" tvg-name="QVC Beauty" group-title="Shop" tvg-language="eng" tvg-quality="540p",QVC Beauty
+https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
+
+#EXTINF:-1 tvg-id="QVCExtra.uk" tvg-name="QVC Extra" group-title="Shop" tvg-language="eng" tvg-quality="540p",QVC Extra
+https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
+
+#EXTINF:-1 tvg-id="QVCStyle.de" tvg-name="QVC Style" group-title="Shop" tvg-language="deu" tvg-quality="540p",QVC Style
+https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
+
+#EXTINF:-1 tvg-id="QVCStyle.uk" tvg-name="QVC Style" group-title="Shop" tvg-language="eng" tvg-quality="540p",QVC Style
+https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
+
+#EXTINF:-1 tvg-id="QVCZwei.de" tvg-name="QVC Zwei" group-title="Shop" tvg-language="deu" tvg-quality="540p",QVC Zwei
+https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
+
+#EXTINF:-1 tvg-id="QVC2.us" tvg-name="QVC2" group-title="Shop" tvg-language="eng" tvg-quality="480i",QVC2
+https://jmp2.uk/plu-67817323dd7846fe546940dd.m3u8
+
+#EXTINF:-1 tvg-id="QVC2.us" tvg-name="QVC2" group-title="Shop" tvg-language="eng" tvg-quality="720p",QVC2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
+
+#EXTINF:-1 tvg-id="QVC3.us" tvg-name="QVC3" group-title="Shop" tvg-language="eng" tvg-quality="1080p",QVC3
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
+
+#EXTINF:-1 tvg-id="RedTVShop.bo" tvg-name="Red TV Shop" group-title="Shop" tvg-language="spa" tvg-quality="720p",Red TV Shop
+https://master.tucableip.com/redtvshop/index.m3u8
+
+#EXTINF:-1 tvg-id="ShinsegaeTVShopping.kr" tvg-name="Shinsegae TV Shopping" group-title="Shop" tvg-language="kor" tvg-quality="720p",Shinsegae TV Shopping
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShopChannel.jp" tvg-name="Shop Channel" group-title="Shop" tvg-language="jpn" tvg-quality="1080p",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="ShopLC.us" tvg-name="Shop LC" group-title="Shop" tvg-language="eng" tvg-quality="1080p",Shop LC
+https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
+
+#EXTINF:-1 tvg-id="ShopLC.us" tvg-name="Shop LC" group-title="Shop" tvg-language="eng" tvg-quality="1080p",Shop LC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8
+
+#EXTINF:-1 tvg-id="ShopLC.us" tvg-name="Shop LC" group-title="Shop" tvg-language="eng" tvg-quality="1080p",Shop LC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8
+
+#EXTINF:-1 tvg-id="ShopLC.us" tvg-name="Shop LC" group-title="Shop" tvg-language="eng" tvg-quality="1080p",Shop LC
+https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(ShopLCStirrTV)/master.m3u8
+
+#EXTINF:-1 tvg-id="ShopLC.us" tvg-name="Shop LC" group-title="Shop" tvg-language="eng" tvg-quality="576p",Shop LC
+https://tvsen3.aynaott.com/zZ6EndAn/index.m3u8
+
+#EXTINF:-1 tvg-id="ShoppingLive.ru" tvg-name="Shopping Live" group-title="Shop" tvg-language="rus" tvg-quality="576p",Shopping Live
+http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShoppingLive.ru" tvg-name="Shopping Live" group-title="Shop" tvg-language="rus" tvg-quality="720p",Shopping Live
+https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShoppingNT.kr" tvg-name="Shopping NT" group-title="Shop" tvg-language="kor" tvg-quality="720p",Shopping NT
+https://live.shoppingntmall.com/live/10011.m3u8
+
+#EXTINF:-1 tvg-id="SukeTV.my" tvg-name="Suke TV" group-title="Shop" tvg-language="msa" tvg-quality="720p",Suke TV
+https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272
+
+#EXTINF:-1 tvg-id="TeaTV.vn" tvg-name="Tea TV" group-title="Shop" tvg-language="vie" tvg-quality="720p",Tea TV
+https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TimelessTV.us" tvg-name="Timeless TV" group-title="Classic;Shop" tvg-language="eng" tvg-quality="576i",Timeless TV
+https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
+
+#EXTINF:-1 tvg-id="TJC.uk" tvg-name="TJC" group-title="Shop" tvg-language="eng" tvg-quality="1080p",TJC
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+
+#EXTINF:-1 tvg-id="TJC.uk" tvg-name="TJC" group-title="Shop" tvg-language="eng" tvg-quality="1080p",TJC
+https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(HDTJCcustomGFX)/master.m3u8
+
+#EXTINF:-1 tvg-id="TSC.ca" tvg-name="TSC" group-title="Shop" tvg-language="eng" tvg-quality="720p",TSC
+https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
+
+#EXTINF:-1 tvg-id="TSC.ca" tvg-name="TSC" group-title="Shop" tvg-language="eng" tvg-quality="720p",TSC
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+
+#EXTINF:-1 tvg-id="TUSO.ua" tvg-name="TUSO" group-title="Shop" tvg-language="ukr" tvg-quality="720p",TUSO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
+
+#EXTINF:-1 tvg-id="TVSConsumerDirect.us" tvg-name="TVS Consumer Direct" group-title="Shop" tvg-language="eng" tvg-quality="720p",TVS Consumer Direct
+https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
+
+#EXTINF:-1 tvg-id="TVSN.au" tvg-name="TVSN" group-title="Shop" tvg-language="eng" tvg-quality="1080p",TVSN
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
+
+#EXTINF:-1 tvg-id="TVSNBeauty.au" tvg-name="TVSN Beauty" group-title="Shop" tvg-language="eng" tvg-quality="1080p",TVSN Beauty
+https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
+
+#EXTINF:-1 tvg-id="UniquelyThai.vn" tvg-name="Uniquely Thai" group-title="Shop" tvg-language="vie" tvg-quality="720p",Uniquely Thai
+https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VitrinaTV.ru" tvg-name="Vitrina TV" group-title="Shop" tvg-language="rus" tvg-quality="720p",Vitrina TV
+https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WShopping.kr" tvg-name="W Shopping" group-title="Shop" tvg-language="kor" tvg-quality="720p",W Shopping
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Yuvelirochka.ru" tvg-name="Yuvelirochka" group-title="Shop" tvg-language="rus" tvg-quality="576p",Yuvelirochka
+https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+

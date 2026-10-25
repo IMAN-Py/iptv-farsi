@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GrjngoWesternMovies.de" tvg-name="Grjngo Western Movies" group-title="Movies" tvg-language="deu;eng" tvg-quality="720p",Grjngo Western Movies
+https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GrjngoWesternMovies.de" tvg-name="Grjngo Western Movies" group-title="Movies" tvg-language="deu;eng" tvg-quality="720p",Grjngo Western Movies
+https://amogonetworx-grjngo-3-fi.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GrjngoWesternMovies.de" tvg-name="Grjngo Western Movies" group-title="Movies" tvg-language="deu;eng" tvg-quality="720p",Grjngo Western Movies
+https://amogonetworx-grjngo-3-gb.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GrjngoWesternMovies.de" tvg-name="Grjngo Western Movies" group-title="Movies" tvg-language="deu;eng" tvg-quality="720p",Grjngo Western Movies
+https://amogonetworx-grjngo-3-lu.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GrjngoWesternMovies.de" tvg-name="Grjngo Western Movies" group-title="Movies" tvg-language="deu;eng" tvg-quality="720p",Grjngo Western Movies
+https://amogonetworx-grjngo-3-no.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GrjngoWesternMovies.de" tvg-name="Grjngo Western Movies" group-title="Movies" tvg-language="deu;eng" tvg-quality="720p",Grjngo Western Movies
+https://amogonetworx-grjngo-3-se.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GrjngoWesternMovies.de" tvg-name="Grjngo Western Movies" group-title="Movies" tvg-language="deu;eng" tvg-quality="720p",Grjngo Western Movies
+https://pb-rtme7tnh9wa6k.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Moviedome.us" tvg-name="Moviedome" group-title="Movies" tvg-language="deu" tvg-quality="720p",Moviedome
+https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVBudTerence.de" tvg-name="Pluto TV Bud & Terence" group-title="Movies" tvg-language="deu" tvg-quality="720p",Pluto TV Bud & Terence
+https://jmp2.uk/plu-64be7398e4391c0008cdedfe.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFerneGalaxien.de" tvg-name="Pluto TV Ferne Galaxien" group-title="Movies" tvg-language="deu" tvg-quality="720p",Pluto TV Ferne Galaxien
+https://jmp2.uk/plu-68ada46d5190a45dc9c45af1.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVHaialarm.de" tvg-name="Pluto TV Haialarm" group-title="Movies;Series" tvg-language="deu" tvg-quality="720p",Pluto TV Haialarm
+https://jmp2.uk/plu-69b015c5d29cc97de7da4af8.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKultComedies.de" tvg-name="Pluto TV Kult Comedies" group-title="Comedy;Movies" tvg-language="deu" tvg-quality="720p",Pluto TV Kult Comedies
+https://jmp2.uk/plu-66337de656fc840008ff7a65.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKultfilme.de" tvg-name="Pluto TV Kultfilme" group-title="Movies" tvg-language="deu" tvg-quality="720p",Pluto TV Kultfilme
+https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVMovies.de" tvg-name="Pluto TV Movies" group-title="Movies" tvg-language="deu" tvg-quality="720p",Pluto TV Movies
+https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVStarTrek.de" tvg-name="Pluto TV Star Trek" group-title="Movies;Series" tvg-language="deu" tvg-quality="720p",Pluto TV Star Trek
+https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVWeihnachtenimSommer.de" tvg-name="Pluto TV Weihnachten im Sommer" group-title="Movies" tvg-language="deu" tvg-quality="720p",Pluto TV Weihnachten im Sommer
+https://jmp2.uk/plu-642ad072283aa4000806148c.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVWestern.de" tvg-name="Pluto TV Western" group-title="Movies" tvg-language="deu" tvg-quality="720p",Pluto TV Western
+https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es" tvg-name="Rakuten TV Action Movies" group-title="Movies" tvg-language="deu" tvg-quality="720p",Rakuten TV Action Movies
+https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es" tvg-name="Rakuten TV Action Movies" group-title="Movies" tvg-language="deu" tvg-quality="1080p",Rakuten TV Action Movies
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es" tvg-name="Rakuten TV Comedy Movies" group-title="Movies" tvg-language="deu" tvg-quality="720p",Rakuten TV Comedy Movies
+https://7ed752b220a441b7b22bdf697c6c4df8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenComedyMovies-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es" tvg-name="Rakuten TV Comedy Movies" group-title="Movies" tvg-language="deu" tvg-quality="1080p",Rakuten TV Comedy Movies
+https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es" tvg-name="Rakuten TV Drama Movies" group-title="Movies" tvg-language="deu" tvg-quality="1080p",Rakuten TV Drama Movies
+https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es" tvg-name="Rakuten TV Drama Movies" group-title="Movies" tvg-language="deu" tvg-quality="720p",Rakuten TV Drama Movies
+https://df1aa472ff5b4780a8d91fe319778b4d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenTVShows-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-name="Rakuten TV Family Movies" group-title="Family;Movies" tvg-language="deu" tvg-quality="720p",Rakuten TV Family Movies
+https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-name="Rakuten TV Family Movies" group-title="Family;Movies" tvg-language="deu" tvg-quality="720p",Rakuten TV Family Movies
+https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-name="Rakuten TV Family Movies" group-title="Family;Movies" tvg-language="deu" tvg-quality="1080p",Rakuten TV Family Movies
+https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.es" tvg-name="Rakuten TV Top Movies" group-title="Movies" tvg-language="deu" tvg-quality="1080p",Rakuten TV Top Movies
+https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
+
+#EXTINF:-1 tvg-id="ServusTV.at" tvg-name="ServusTV" group-title="Movies" tvg-language="deu" tvg-quality="1080p",ServusTV
+https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
+
+#EXTINF:-1 tvg-id="StarTrekTheNextGeneration.de" tvg-name="Star Trek: The Next Generation" group-title="Movies;Series" tvg-language="deu" tvg-quality="720p",Star Trek: The Next Generation
+https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8
+
+#EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.de" tvg-name="Star Trek: The Original Series" group-title="Movies;Series" tvg-language="deu" tvg-quality="720p",Star Trek: The Original Series
+https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8
+

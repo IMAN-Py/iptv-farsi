@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Naruto.us" tvg-name="Naruto" group-title="Animation" tvg-language="deu" tvg-quality="720p",Naruto
+https://jmp2.uk/plu-65d5fc39a25d5e00082895c4.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAdultAnimation.de" tvg-name="Pluto TV Adult Animation" group-title="Animation;Comedy" tvg-language="deu" tvg-quality="720p",Pluto TV Adult Animation
+https://jmp2.uk/plu-67f68bd2135aeda9ddf0ef54.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVStarTrekAnimation.de" tvg-name="Pluto TV Star Trek: Animation" group-title="Animation" tvg-language="deu" tvg-quality="720p",Pluto TV Star Trek: Animation
+https://jmp2.uk/plu-69492467ae33e24d916e56cf.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkButtersCollection.de" tvg-name="South Park: Butters Collection" group-title="Animation;Comedy" tvg-language="deu" tvg-quality="720p",South Park: Butters Collection
+https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkCartmanCollection.de" tvg-name="South Park: Cartman Collection" group-title="Animation;Comedy" tvg-language="deu" tvg-quality="720p",South Park: Cartman Collection
+https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkKennyCollection.de" tvg-name="South Park: Kenny Collection" group-title="Animation;Comedy" tvg-language="deu" tvg-quality="720p",South Park: Kenny Collection
+https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkKyleCollection.de" tvg-name="South Park: Kyle Collection" group-title="Animation;Comedy" tvg-language="deu" tvg-quality="720p",South Park: Kyle Collection
+https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkOriginalVersion.de" tvg-name="South Park: Original Version" group-title="Animation;Comedy" tvg-language="deu" tvg-quality="720p",South Park: Original Version
+https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkStanCollection.de" tvg-name="South Park: Stan Collection" group-title="Animation;Comedy" tvg-language="deu" tvg-quality="720p",South Park: Stan Collection
+https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
+

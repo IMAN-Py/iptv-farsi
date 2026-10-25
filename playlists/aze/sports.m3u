@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CBCSport.az" tvg-name="CBC Sport" group-title="Sports" tvg-language="aze" tvg-quality="1080i",CBC Sport
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+

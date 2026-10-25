@@ -1,0 +1,130 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AmericasTestKitchen.us" tvg-name="America's Test Kitchen" group-title="Cooking" tvg-language="eng" tvg-quality="720p",America's Test Kitchen
+https://aegis-cloudfront-1.tubi.video/0094c1fc-7c41-45d0-af7a-6bbb62d6cd6e/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmericasTestKitchen.us" tvg-name="America's Test Kitchen" group-title="Cooking" tvg-language="eng" tvg-quality="1080p",America's Test Kitchen
+https://amg01420-americastestkitchen-amg01420c1-xumo-us-878.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmericasTestKitchen.us" tvg-name="America's Test Kitchen" group-title="Cooking" tvg-language="eng" tvg-quality="720p",America's Test Kitchen
+https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
+
+#EXTINF:-1 tvg-id="AmericasTestKitchen.us" tvg-name="America's Test Kitchen" group-title="Cooking" tvg-language="eng" tvg-quality="1080p",America's Test Kitchen
+https://pb-zwcfuzg8t5abc.akamaized.net/Americas_Test_Kitchen.m3u8
+
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="Asian Food Network" group-title="Cooking" tvg-language="eng;vie" tvg-quality="1080p",Asian Food Network
+https://freem3u.xyz/api/live/play.m3u8?vid=215
+
+#EXTINF:-1 tvg-id="BBCFood.us" tvg-name="BBC Food" group-title="Cooking" tvg-language="eng" tvg-quality="1080p",BBC Food
+https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Boligkjopiblinde.se" tvg-name="Boligkjop i blinde" group-title="Cooking;Lifestyle" tvg-language="eng;nor" tvg-quality="720p",Boligkjop i blinde
+https://jmp2.uk/plu-63c6a1c46d126a000760b91c.m3u8
+
+#EXTINF:-1 tvg-id="Boligkobiblinde.se" tvg-name="Boligkob i blinde" group-title="Cooking;Lifestyle" tvg-language="dan;eng" tvg-quality="720p",Boligkob i blinde
+https://jmp2.uk/plu-63c6a27a4faf1c0007b48f7b.m3u8
+
+#EXTINF:-1 tvg-id="bonappetit.us" tvg-name="bon appetit" group-title="Cooking" tvg-language="eng" tvg-quality="1080p",bon appetit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BuyingBlindDenmark.se" tvg-name="Buying Blind Denmark" group-title="Cooking;Lifestyle" tvg-language="eng;swe" tvg-quality="720p",Buying Blind Denmark
+https://jmp2.uk/plu-63c6a7544faf1c0007b496d7.m3u8
+
+#EXTINF:-1 tvg-id="ChefChampion.us" tvg-name="Chef Champion" group-title="Cooking" tvg-language="eng" tvg-quality="720p",Chef Champion
+https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
+
+#EXTINF:-1 tvg-id="ChefRocShow.us" tvg-name="Chef Roc Show" group-title="Cooking" tvg-language="eng" tvg-quality="720p",Chef Roc Show
+https://rpn.bozztv.com/gusa/gusa-chefrock/index.m3u8
+
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel" group-title="Cooking" tvg-language="eng" tvg-quality="720p",Cooking Channel
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
+
+#EXTINF:-1 tvg-id="CookingPanda.us" tvg-name="Cooking Panda" group-title="Cooking" tvg-language="eng" tvg-quality="576p",Cooking Panda
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
+
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network" group-title="Cooking" tvg-language="eng" tvg-quality="720p",Food Network
+http://212.5.144.156:8080/foodnetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network" group-title="Cooking" tvg-language="eng" tvg-quality="720p",Food Network
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us" tvg-name="Gordon Ramsay's Hell's Kitchen" group-title="Cooking" tvg-language="eng" tvg-quality="720p",Gordon Ramsay's Hell's Kitchen
+https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8
+
+#EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us" tvg-name="Gordon Ramsay's Hell's Kitchen" group-title="Cooking" tvg-language="eng" tvg-quality="480i",Gordon Ramsay's Hell's Kitchen
+https://jmp2.uk/plu-5b4e99f4423e067bd6df6903.m3u8
+
+#EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us" tvg-name="Gordon Ramsay's Hell's Kitchen" group-title="Cooking" tvg-language="eng" tvg-quality="480i",Gordon Ramsay's Hell's Kitchen
+https://jmp2.uk/plu-62ea45010d0611000839868c.m3u8
+
+#EXTINF:-1 tvg-id="GustoTV.ca" tvg-name="Gusto TV" group-title="Cooking" tvg-language="eng" tvg-quality="1080p",Gusto TV
+https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GustoTV.ca" tvg-name="Gusto TV" group-title="Cooking" tvg-language="eng" tvg-quality="1080p",Gusto TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GustoTV.ca" tvg-name="Gusto TV" group-title="Cooking" tvg-language="eng" tvg-quality="720p",Gusto TV
+https://d31d5kw64c7b6i.cloudfront.net/v1/gustotv_samsung/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GustoTV.ca" tvg-name="Gusto TV" group-title="Cooking" tvg-language="eng" tvg-quality="1080p",Gusto TV
+https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GustoTV.ca" tvg-name="Gusto TV" group-title="Cooking" tvg-language="eng" tvg-quality="1080p",Gusto TV
+https://gusto-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hungry.us" tvg-name="Hungry" group-title="Cooking" tvg-language="eng" tvg-quality="720p",Hungry
+https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IntheKitchen.us" tvg-name="In the Kitchen" group-title="Cooking;Shop" tvg-language="eng" tvg-quality="720p",In the Kitchen
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+
+#EXTINF:-1 tvg-id="Kochenpatoppen.se" tvg-name="Koch'en pa toppen" group-title="Cooking;Lifestyle" tvg-language="dan;eng" tvg-quality="720p",Koch'en pa toppen
+https://jmp2.uk/plu-660d667519ca71000849a1e1.m3u8
+
+#EXTINF:-1 tvg-id="MadDogandMerrill.us" tvg-name="Mad Dog and Merrill" group-title="Cooking" tvg-language="eng" tvg-quality="540p",Mad Dog and Merrill
+https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
+
+#EXTINF:-1 tvg-id="MasterChefsAcademyTV.uk" tvg-name="Master Chefs Academy TV" group-title="Cooking;Education" tvg-language="ara;eng" tvg-quality="720p",Master Chefs Academy TV
+https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="MasterChefDanmarksstorstemadtalenter.se" tvg-name="MasterChef Danmarks storste madtalenter" group-title="Cooking;Lifestyle" tvg-language="dan;eng" tvg-quality="720p",MasterChef Danmarks storste madtalenter
+https://jmp2.uk/plu-61c19edbf535220007075c4e.m3u8
+
+#EXTINF:-1 tvg-id="Medknivenforstruben.se" tvg-name="Med kniven for struben" group-title="Cooking;Lifestyle" tvg-language="dan;eng" tvg-quality="720p",Med kniven for struben
+https://jmp2.uk/plu-63e3b33e8795f300087e6a46.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVFood.de" tvg-name="Pluto TV Food" group-title="Cooking;Documentary" tvg-language="eng" tvg-quality="720p",Pluto TV Food
+https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8
+
+#EXTINF:-1 tvg-id="Skonneombygninger.se" tvg-name="Skonne ombygninger" group-title="Cooking;Lifestyle" tvg-language="dan;eng" tvg-quality="720p",Skonne ombygninger
+https://jmp2.uk/plu-61c19d329b8260000744331b.m3u8
+
+#EXTINF:-1 tvg-id="StugfixarnaNorge.se" tvg-name="Stugfixarna Norge" group-title="Cooking;Lifestyle" tvg-language="eng;swe" tvg-quality="720p",Stugfixarna Norge
+https://jmp2.uk/plu-61c18ec6ac860c0007684981.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" group-title="Cooking" tvg-language="eng" tvg-quality="1080p",Tastemade
+https://amg00047-tastemade-amg00047c4-cineverse-us-1361.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadefreetv16-cineverseus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" group-title="Cooking" tvg-language="eng" tvg-quality="720p",Tastemade
+https://jmp2.uk/plu-5f998c1fc54853000797bacd.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" group-title="Cooking" tvg-language="eng" tvg-quality="1080p",Tastemade
+https://pb-rlo4if9lnjthw.akamaized.net/Tastemade.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" group-title="Cooking" tvg-language="eng" tvg-quality="1080p",Tastemade
+https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" group-title="Cooking" tvg-language="eng" tvg-quality="1080p",Tastemade
+https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-name="Tastemade Travel" group-title="Cooking" tvg-language="eng" tvg-quality="1080p",Tastemade Travel
+https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-name="Tastemade Travel" group-title="Cooking" tvg-language="eng" tvg-quality="1080p",Tastemade Travel
+https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
+
+#EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-name="Tastemade Travel" group-title="Cooking" tvg-language="eng" tvg-quality="1080p",Tastemade Travel
+https://tm-tmtar-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TilMiddagHos.se" tvg-name="Til Middag Hos" group-title="Cooking;Lifestyle" tvg-language="dan;eng" tvg-quality="720p",Til Middag Hos
+https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8
+

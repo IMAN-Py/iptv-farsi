@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="13P.cl" tvg-name="13P" group-title="Lifestyle" tvg-language="spa" tvg-quality="720p",13P
+https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
+
+#EXTINF:-1 tvg-id="CEACOMTV.bo" tvg-name="CEACOM TV" group-title="General;Lifestyle;Music;News" tvg-language="spa" tvg-quality="1080p",CEACOM TV
+https://eu1.servers10.com:8081/ceacom/index.m3u8
+
+#EXTINF:-1 tvg-id="CinePride.us" tvg-name="CinePride" group-title="Lifestyle" tvg-language="spa" tvg-quality="720p",CinePride
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2223
+
+#EXTINF:-1 tvg-id="ElMueble.es" tvg-name="El Mueble" group-title="Lifestyle" tvg-language="spa" tvg-quality="720p",El Mueble
+https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
+
+#EXTINF:-1 tvg-id="HGTVLatinAmerica.us" tvg-name="HGTV Latin America" group-title="Lifestyle" tvg-language="spa" tvg-quality="1080p",HGTV Latin America
+http://38.87.224.19:2220/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-id="HogarTV.co" tvg-name="Hogar TV" group-title="Lifestyle" tvg-language="spa" tvg-quality="1080p",Hogar TV
+http://190.61.47.54:8000/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-id="LogosTVSalud.es" tvg-name="Logos TV Salud" group-title="Lifestyle" tvg-language="spa" tvg-quality="720p",Logos TV Salud
+https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NowMediaTelevision.us" tvg-name="NowMedia Television" group-title="Lifestyle;News" tvg-language="spa" tvg-quality="1080p",NowMedia Television
+https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
+
+#EXTINF:-1 tvg-id="PlousTV.ve" tvg-name="Plous TV" group-title="Lifestyle" tvg-language="eng;spa" tvg-quality="1080p",Plous TV
+https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCocina.de" tvg-name="Pluto TV Cocina" group-title="Cooking;Lifestyle" tvg-language="spa" tvg-quality="720p",Pluto TV Cocina
+https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVDiseno.de" tvg-name="Pluto TV Diseno" group-title="Lifestyle" tvg-language="spa" tvg-quality="720p",Pluto TV Diseno
+https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVEstilodeVida.us" tvg-name="Pluto TV Estilo de Vida" group-title="Lifestyle" tvg-language="spa" tvg-quality="720p",Pluto TV Estilo de Vida
+https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
+
+#EXTINF:-1 tvg-id="SenalesTV.do" tvg-name="Senales TV" group-title="Lifestyle" tvg-language="spa" tvg-quality="480i",Senales TV
+https://live.dionelysterrero.com/senalestv/stream.m3u8
+
+#EXTINF:-1 tvg-id="TLCLatinAmerica.us" tvg-name="TLC Latin America" group-title="Lifestyle" tvg-language="spa" tvg-quality="1080p",TLC Latin America
+http://38.134.250.110:8000/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-id="Wapp.cl" tvg-name="Wapp" group-title="Lifestyle" tvg-language="spa" tvg-quality="720p",Wapp
+https://stream.wapptv.cl/video/index.m3u8
+

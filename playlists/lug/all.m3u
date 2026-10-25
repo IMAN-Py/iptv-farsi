@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBSTV.ug" tvg-name="BBS TV" group-title="General" tvg-language="lug" tvg-quality="576i",BBS TV
+https://bbstv.ug/hls/ch01/index.m3u8
+
+#EXTINF:-1 tvg-id="BTMTV.ug" tvg-name="BTM TV" group-title="General" tvg-language="eng;lug" tvg-quality="480p",BTM TV
+https://btmug.zerocdn.org/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="BukeddeTV1.ug" tvg-name="Bukedde TV 1" group-title="General" tvg-language="lug" tvg-quality="576p",Bukedde TV 1
+https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8
+
+#EXTINF:-1 tvg-id="DreamTV.ug" tvg-name="Dream TV" group-title="Religious" tvg-language="eng;lug" tvg-quality="480p",Dream TV
+https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="GuguddeTV.ug" tvg-name="Gugudde TV" group-title="Religious" tvg-language="eng;lug" tvg-quality="480p",Gugudde TV
+https://jk3lzqq4lw79-hls-live.5centscdn.com/gugudde/c9a1fdac6e082dd89e7173244f34d7b3.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-id="KRCTV.ug" tvg-name="KRC TV" group-title="General" tvg-language="eng;lug" tvg-quality="576i",KRC TV
+https://channels.ad-ug.com/live/ch03/index.m3u8
+
+#EXTINF:-1 tvg-id="SaltTV.ug" tvg-name="Salt TV" group-title="Religious" tvg-language="eng;lug" tvg-quality="1080p",Salt TV
+https://live.salttelevision.com/app/stream/abr.m3u8
+
+#EXTINF:-1 tvg-id="SaltTV.ug" tvg-name="Salt TV" group-title="Religious" tvg-language="eng;lug" tvg-quality="576i",Salt TV
+https://stream.salttelevision.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TayariWestTV.ug" tvg-name="Tayari West TV" group-title="General" tvg-language="cgg;lug" tvg-quality="1080p",Tayari West TV
+https://stream.hydeinnovations.com/tarari-west/index.m3u8
+

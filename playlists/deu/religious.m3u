@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DieNeueZeitTV.ch" tvg-name="Die Neue Zeit TV" group-title="Religious" tvg-language="deu" tvg-quality="576p",Die Neue Zeit TV
+https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EchtJetztTV.de" tvg-name="EchtJetzt TV" group-title="Religious" tvg-language="deu" tvg-quality="720p",EchtJetzt TV
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTN.de" tvg-name="EWTN" group-title="Religious" tvg-language="deu" tvg-quality="720p",EWTN
+https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTN.de" tvg-name="EWTN" group-title="Religious" tvg-language="deu" tvg-quality="576i",EWTN
+https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelGerman.de" tvg-name="Hope Channel German" group-title="Religious" tvg-language="deu" tvg-quality="1080p",Hope Channel German
+https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8
+
+#EXTINF:-1 tvg-id="ImmaculataTV.ch" tvg-name="Immaculata TV" group-title="Religious" tvg-language="deu" tvg-quality="720p",Immaculata TV
+https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTV.at" tvg-name="K-TV" group-title="Religious" tvg-language="deu" tvg-quality="720p",K-TV
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+
+#EXTINF:-1 tvg-id="KITTV.at" tvg-name="KIT-TV" group-title="Religious" tvg-language="deu" tvg-quality="720p",KIT-TV
+https://everest.pa-hosting.de:3591/live/joseflive.m3u8
+
+#EXTINF:-1 tvg-id="LightChannel.de" tvg-name="Light Channel" group-title="Religious" tvg-language="deu" tvg-quality="576p",Light Channel
+http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA1World.uk" tvg-name="MTA1 World" group-title="Religious" tvg-language="ara;ben;deu;eng;fra;urd" tvg-quality="720p",MTA1 World
+https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA2Europe.uk" tvg-name="MTA2 Europe" group-title="Religious" tvg-language="ara;ben;deu;eng;fra;hin;urd" tvg-quality="720p",MTA2 Europe
+https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SophiaTV.de" tvg-name="Sophia TV" group-title="Religious" tvg-language="deu" tvg-quality="720p",Sophia TV
+https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8
+

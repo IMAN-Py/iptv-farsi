@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DouniaTV.ne" tvg-name="Dounia TV" group-title="General" tvg-language="fra;hau" tvg-quality="576i",Dounia TV
+https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8
+

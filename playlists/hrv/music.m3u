@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CMCTV.hr" tvg-name="CMC TV" group-title="Music" tvg-language="hrv" tvg-quality="1080p",CMC TV
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+
+#EXTINF:-1 tvg-id="KlapeiTambureTV.hr" tvg-name="Klape i Tambure TV" group-title="Music" tvg-language="hrv" tvg-quality="1080p",Klape i Tambure TV
+https://stream.cmctv.hr:49998/kit/live.m3u8
+

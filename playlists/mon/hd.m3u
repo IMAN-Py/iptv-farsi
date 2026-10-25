@@ -1,0 +1,294 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AsianBox.mn" tvg-name="AsianBox" group-title="Entertainment" tvg-language="mon" tvg-quality="1080p",AsianBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
+
+#EXTINF:-1 tvg-id="AsianBox.mn" tvg-name="AsianBox" group-title="Entertainment" tvg-language="mon" tvg-quality="720p",AsianBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-name="Bloomberg TV Mongolia" group-title="Business" tvg-language="mon" tvg-quality="1080p",Bloomberg TV Mongolia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd
+
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-name="Bloomberg TV Mongolia" group-title="Business" tvg-language="mon" tvg-quality="720p",Bloomberg TV Mongolia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8
+
+#EXTINF:-1 tvg-id="C1.mn" tvg-name="C1" group-title="General" tvg-language="mon" tvg-quality="1080p",C1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd
+
+#EXTINF:-1 tvg-id="C1.mn" tvg-name="C1" group-title="General" tvg-language="mon" tvg-quality="720p",C1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8
+
+#EXTINF:-1 tvg-id="CentralTV.mn" tvg-name="Central TV" group-title="General" tvg-language="mon" tvg-quality="720p",Central TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn1.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8
+
+#EXTINF:-1 tvg-id="CentralTV.mn" tvg-name="Central TV" group-title="General" tvg-language="mon" tvg-quality="1080p",Central TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd
+
+#EXTINF:-1 tvg-id="CentralTV.mn" tvg-name="Central TV" group-title="General" tvg-language="mon" tvg-quality="720p",Central TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8
+
+#EXTINF:-1 tvg-id="Channel11.mn" tvg-name="Channel 11" group-title="General" tvg-language="mon" tvg-quality="1080p",Channel 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Channel11/DASH-FTA/Channel11.mpd
+
+#EXTINF:-1 tvg-id="Channel11.mn" tvg-name="Channel 11" group-title="General" tvg-language="mon" tvg-quality="720p",Channel 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Channel11/HLSv3-FTA/Channel11.m3u8
+
+#EXTINF:-1 tvg-id="Cinema.mn" tvg-name="Cinema" group-title="Movies" tvg-language="mon" tvg-quality="720p",Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn1.skygo.mn/live/disk1/CinemaTV/HLS-FTA/CinemaTV.m3u8
+
+#EXTINF:-1 tvg-id="Cinema.mn" tvg-name="Cinema" group-title="Movies" tvg-language="mon" tvg-quality="1080p",Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd
+
+#EXTINF:-1 tvg-id="Cinema.mn" tvg-name="Cinema" group-title="Movies" tvg-language="mon" tvg-quality="720p",Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
+
+#EXTINF:-1 tvg-id="CNBCMongolia.mn" tvg-name="CNBC Mongolia" group-title="Business;News" tvg-language="eng;mon" tvg-quality="720p",CNBC Mongolia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
+
+#EXTINF:-1 tvg-id="DreamTV.mn" tvg-name="DreamTV" group-title="Entertainment" tvg-language="mon" tvg-quality="1080p",DreamTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd
+
+#EXTINF:-1 tvg-id="DreamTV.mn" tvg-name="DreamTV" group-title="Entertainment" tvg-language="mon" tvg-quality="720p",DreamTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8
+
+#EXTINF:-1 tvg-id="EagleNews.mn" tvg-name="Eagle News" group-title="News" tvg-language="mon" tvg-quality="1080p",Eagle News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd
+
+#EXTINF:-1 tvg-id="EagleNews.mn" tvg-name="Eagle News" group-title="News" tvg-language="mon" tvg-quality="720p",Eagle News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8
+
+#EXTINF:-1 tvg-id="EdutainmentTV.mn" tvg-name="Edutainment TV" group-title="Education;Entertainment" tvg-language="mon" tvg-quality="1080p",Edutainment TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
+
+#EXTINF:-1 tvg-id="EdutainmentTV.mn" tvg-name="Edutainment TV" group-title="Education;Entertainment" tvg-language="mon" tvg-quality="1080p",Edutainment TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8
+
+#EXTINF:-1 tvg-id="ETV.mn" tvg-name="ETV" group-title="News" tvg-language="mon" tvg-quality="1080p",ETV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd
+
+#EXTINF:-1 tvg-id="ETV.mn" tvg-name="ETV" group-title="News" tvg-language="mon" tvg-quality="720p",ETV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8
+
+#EXTINF:-1 tvg-id="GlobalTV.mn" tvg-name="Global TV" group-title="Uncategorized" tvg-language="mon" tvg-quality="1080p",Global TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/GlobalTV/DASH-FTA/GlobalTV.mpd
+
+#EXTINF:-1 tvg-id="GlobalTV.mn" tvg-name="Global TV" group-title="Uncategorized" tvg-language="mon" tvg-quality="720p",Global TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/GlobalTV/HLSv3-FTA/GlobalTV.m3u8
+
+#EXTINF:-1 tvg-id="GTV.mn" tvg-name="GTV" group-title="Uncategorized" tvg-language="mon" tvg-quality="1080p",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/GTV/DASH-FTA/GTV.mpd
+
+#EXTINF:-1 tvg-id="GTV.mn" tvg-name="GTV" group-title="Uncategorized" tvg-language="mon" tvg-quality="720p",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/GTV/HLSv3-FTA/GTV.m3u8
+
+#EXTINF:-1 tvg-id="MalchinTV.mn" tvg-name="Malchin TV" group-title="Culture" tvg-language="mon" tvg-quality="1080p",Malchin TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd
+
+#EXTINF:-1 tvg-id="MalchinTV.mn" tvg-name="Malchin TV" group-title="Culture" tvg-language="mon" tvg-quality="720p",Malchin TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Malchin/HLSv3-FTA/Malchin.m3u8
+
+#EXTINF:-1 tvg-id="MNB.mn" tvg-name="MNB" group-title="General" tvg-language="mon" tvg-quality="1080p",MNB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd
+
+#EXTINF:-1 tvg-id="MNB.mn" tvg-name="MNB" group-title="General" tvg-language="mon" tvg-quality="720p",MNB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNB/HLSv3-FTA/MNB.m3u8
+
+#EXTINF:-1 tvg-id="MNBMongoliinMedee.mn" tvg-name="MNB Mongoliin Medee" group-title="Uncategorized" tvg-language="mon" tvg-quality="1080p",MNB Mongoliin Medee
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd
+
+#EXTINF:-1 tvg-id="MNBMongoliinMedee.mn" tvg-name="MNB Mongoliin Medee" group-title="Uncategorized" tvg-language="mon" tvg-quality="720p",MNB Mongoliin Medee
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNB2/HLSv3-FTA/MNB2.m3u8
+
+#EXTINF:-1 tvg-id="MNBSport.mn" tvg-name="MNB Sport" group-title="Sports" tvg-language="mon" tvg-quality="1080p",MNB Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
+
+#EXTINF:-1 tvg-id="MNBSport.mn" tvg-name="MNB Sport" group-title="Sports" tvg-language="mon" tvg-quality="720p",MNB Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNBSport/HLSv3-FTA/MNBSport.m3u8
+
+#EXTINF:-1 tvg-id="MNBSport.mn" tvg-name="MNB Sport" group-title="Sports" tvg-language="mon" tvg-quality="1080p",MNB Sport
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+
+#EXTINF:-1 tvg-id="MongolianNewsChannel.mn" tvg-name="Mongolian News Channel" group-title="News" tvg-language="mon" tvg-quality="1080p",Mongolian News Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
+
+#EXTINF:-1 tvg-id="MongolianNewsChannel.mn" tvg-name="Mongolian News Channel" group-title="News" tvg-language="mon" tvg-quality="720p",Mongolian News Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNCTV/HLSv3-FTA/MNCTV.m3u8
+
+#EXTINF:-1 tvg-id="MovieBox.mn" tvg-name="MovieBox" group-title="Movies" tvg-language="mon" tvg-quality="1080p",MovieBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
+
+#EXTINF:-1 tvg-id="MovieBox.mn" tvg-name="MovieBox" group-title="Movies" tvg-language="mon" tvg-quality="720p",MovieBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
+
+#EXTINF:-1 tvg-id="NeiMonggolTV.cn" tvg-name="Nei Monggol TV" group-title="Uncategorized" tvg-language="mon;zho" tvg-quality="1080i",Nei Monggol TV
+http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
+
+#EXTINF:-1 tvg-id="NeiMonggolTV.cn" tvg-name="Nei Monggol TV" group-title="Uncategorized" tvg-language="mon;zho" tvg-quality="960p",Nei Monggol TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8
+
+#EXTINF:-1 tvg-id="NeiMonggolTV2MongolianCultureChannel.cn" tvg-name="Nei Monggol TV 2 Mongolian Culture Channel" group-title="Culture" tvg-language="mon;zho" tvg-quality="1080i",Nei Monggol TV 2 Mongolian Culture Channel
+http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
+
+#EXTINF:-1 tvg-id="NTV.mn" tvg-name="NTV" group-title="General" tvg-language="mon" tvg-quality="1080p",NTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd
+
+#EXTINF:-1 tvg-id="NTV.mn" tvg-name="NTV" group-title="General" tvg-language="mon" tvg-quality="720p",NTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8
+
+#EXTINF:-1 tvg-id="ONTV.mn" tvg-name="ONTV" group-title="General" tvg-language="mon" tvg-quality="1080p",ONTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
+
+#EXTINF:-1 tvg-id="ONTV.mn" tvg-name="ONTV" group-title="General" tvg-language="mon" tvg-quality="720p",ONTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8
+
+#EXTINF:-1 tvg-id="ParliamentTV.mn" tvg-name="Parliament TV" group-title="Legislative" tvg-language="mon" tvg-quality="1080p",Parliament TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
+
+#EXTINF:-1 tvg-id="ParliamentTV.mn" tvg-name="Parliament TV" group-title="Legislative" tvg-language="mon" tvg-quality="720p",Parliament TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
+
+#EXTINF:-1 tvg-id="SBN.mn" tvg-name="SBN" group-title="General" tvg-language="mon" tvg-quality="1080p",SBN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd
+
+#EXTINF:-1 tvg-id="SBN.mn" tvg-name="SBN" group-title="General" tvg-language="mon" tvg-quality="720p",SBN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8
+
+#EXTINF:-1 tvg-id="SoyonGegeeruulegchTV.mn" tvg-name="Soyon Gegeeruulegch TV" group-title="General" tvg-language="mon" tvg-quality="1080p",Soyon Gegeeruulegch TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/DASH-FTA/SoyonGegeeruulegch.mpd
+
+#EXTINF:-1 tvg-id="SoyonGegeeruulegchTV.mn" tvg-name="Soyon Gegeeruulegch TV" group-title="General" tvg-language="mon" tvg-quality="720p",Soyon Gegeeruulegch TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/HLSv3-FTA/SoyonGegeeruulegch.m3u8
+
+#EXTINF:-1 tvg-id="StarTV.mn" tvg-name="Star TV" group-title="General" tvg-language="mon" tvg-quality="1080p",Star TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd
+
+#EXTINF:-1 tvg-id="StarTV.mn" tvg-name="Star TV" group-title="General" tvg-language="mon" tvg-quality="720p",Star TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8
+
+#EXTINF:-1 tvg-id="SuldTV.mn" tvg-name="Suld TV" group-title="Uncategorized" tvg-language="mon" tvg-quality="1080p",Suld TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
+
+#EXTINF:-1 tvg-id="SuldTV.mn" tvg-name="Suld TV" group-title="Uncategorized" tvg-language="mon" tvg-quality="720p",Suld TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/SuldTV/HLSv3-FTA/SuldTV.m3u8
+
+#EXTINF:-1 tvg-id="TenGerTV.mn" tvg-name="TenGer TV" group-title="General" tvg-language="mon" tvg-quality="1080p",TenGer TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd
+
+#EXTINF:-1 tvg-id="TenGerTV.mn" tvg-name="TenGer TV" group-title="General" tvg-language="mon" tvg-quality="720p",TenGer TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8
+
+#EXTINF:-1 tvg-id="TMTV.mn" tvg-name="TM TV" group-title="General" tvg-language="mon" tvg-quality="1080p",TM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TM/DASH-FTA/TM.mpd
+
+#EXTINF:-1 tvg-id="TMTV.mn" tvg-name="TM TV" group-title="General" tvg-language="mon" tvg-quality="720p",TM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TM/HLSv3-FTA/TM.m3u8
+
+#EXTINF:-1 tvg-id="TV25.mn" tvg-name="TV 25" group-title="General" tvg-language="mon" tvg-quality="1080p",TV 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd
+
+#EXTINF:-1 tvg-id="TV25.mn" tvg-name="TV 25" group-title="General" tvg-language="mon" tvg-quality="720p",TV 25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MN25/HLSv3-FTA/MN25.m3u8
+
+#EXTINF:-1 tvg-id="TV5.mn" tvg-name="TV5" group-title="General" tvg-language="mon" tvg-quality="1080p",TV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TV5HD/DASH-FTA/TV5HD.mpd
+
+#EXTINF:-1 tvg-id="TV5.mn" tvg-name="TV5" group-title="General" tvg-language="mon" tvg-quality="720p",TV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TV5HD/HLSv3-FTA/TV5HD.m3u8
+
+#EXTINF:-1 tvg-id="TV8.mn" tvg-name="TV8" group-title="General" tvg-language="mon" tvg-quality="720p",TV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8
+
+#EXTINF:-1 tvg-id="TV8.mn" tvg-name="TV8" group-title="General" tvg-language="mon" tvg-quality="1080p",TV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd
+
+#EXTINF:-1 tvg-id="TV8.mn" tvg-name="TV8" group-title="General" tvg-language="mon" tvg-quality="720p",TV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TV8HD/HLSv3-FTA/TV8HD.m3u8
+
+#EXTINF:-1 tvg-id="TV9.mn" tvg-name="TV9" group-title="General" tvg-language="mon" tvg-quality="1080p",TV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd
+
+#EXTINF:-1 tvg-id="TV9.mn" tvg-name="TV9" group-title="General" tvg-language="mon" tvg-quality="720p",TV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TV9HD/HLSv3-FTA/TV9HD.m3u8
+
+#EXTINF:-1 tvg-id="UBS.mn" tvg-name="UBS" group-title="General" tvg-language="mon" tvg-quality="1080p",UBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
+
+#EXTINF:-1 tvg-id="UBS.mn" tvg-name="UBS" group-title="General" tvg-language="mon" tvg-quality="720p",UBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/UBSHD/HLSv3-FTA/UBSHD.m3u8
+
+#EXTINF:-1 tvg-id="UlziiTV.mn" tvg-name="Ulzii TV" group-title="General" tvg-language="mon" tvg-quality="1080p",Ulzii TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd
+
+#EXTINF:-1 tvg-id="UlziiTV.mn" tvg-name="Ulzii TV" group-title="General" tvg-language="mon" tvg-quality="720p",Ulzii TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/UlziiTV/HLSv3-FTA/UlziiTV.m3u8
+

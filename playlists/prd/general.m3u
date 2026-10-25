@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AfghanNobelTV.ca" tvg-name="Afghan Nobel TV" group-title="General" tvg-language="prd" tvg-quality="720p",Afghan Nobel TV
+https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BaharTV.af" tvg-name="Bahar TV" group-title="General" tvg-language="prd" tvg-quality="720p",Bahar TV
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DunyaNawTV.af" tvg-name="Dunya Naw TV" group-title="General" tvg-language="prd" tvg-quality="576p",Dunya Naw TV
+https://dunyanhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PayameAfghanTV.us" tvg-name="Payam-e-Afghan TV" group-title="General" tvg-language="prd;pus" tvg-quality="480p",Payam-e-Afghan TV
+https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+
+#EXTINF:-1 tvg-id="RTA.af" tvg-name="RTA" group-title="General" tvg-language="prd" tvg-quality="1080p",RTA
+https://rta-tv.akamaized.net/live/SD/RTA-1/RTA/RTA-1.m3u8
+
+#EXTINF:-1 tvg-id="SohailTV.ca" tvg-name="Sohail TV" group-title="General" tvg-language="prd" tvg-quality="1080p",Sohail TV
+https://iptv.sohailtv.com/sohail/playlist/index.m3u8
+

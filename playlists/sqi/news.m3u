@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN" group-title="News" tvg-language="sqi" tvg-quality="576i",A2 CNN
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" group-title="News" tvg-language="sqi" tvg-quality="576i",CNA
+https://live1.mediadesk.al/cnatv.php
+
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" group-title="News" tvg-language="sqi" tvg-quality="1080p",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" group-title="News" tvg-language="sqi" tvg-quality="576i",CNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h29/index.m3u8
+
+#EXTINF:-1 tvg-id="Kohavision.xk" tvg-name="Kohavision" group-title="News" tvg-language="sqi;srp" tvg-quality="576i",Kohavision
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24" group-title="News" tvg-language="sqi" tvg-quality="392p",News 24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24" group-title="News" tvg-language="sqi" tvg-quality="392p",News 24
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv.al" tvg-name="ntv" group-title="News" tvg-language="sqi" tvg-quality="720p",ntv
+https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8
+
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" group-title="News" tvg-language="sqi" tvg-quality="720p",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" group-title="News" tvg-language="sqi" tvg-quality="576i",Panorama TV
+https://159.69.221.56/panorama/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" group-title="News" tvg-language="sqi" tvg-quality="720p",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="RTSH24.al" tvg-name="RTSH 24" group-title="News" tvg-language="sqi" tvg-quality="1080p",RTSH 24
+http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri" group-title="News" tvg-language="sqi" tvg-quality="720p",Syri
+https://stream.syritv.al/live/syritv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVArta.xk" tvg-name="TV Arta" group-title="News" tvg-language="sqi" tvg-quality="720p",TV Arta
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+

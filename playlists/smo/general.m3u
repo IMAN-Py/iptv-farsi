@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TV3.ws" tvg-name="TV3" group-title="General" tvg-language="eng;smo" tvg-quality="720p",TV3
+https://customer-ezarl905qqr949qs.cloudflarestream.com/856e914abd09e036ce9ce4fa649278b2/manifest/video.m3u8
+

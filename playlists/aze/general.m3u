@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlvinChannelTV.az" tvg-name="Alvin Channel TV" group-title="General" tvg-language="aze" tvg-quality="360p",Alvin Channel TV
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AyazTV.az" tvg-name="Ayaz TV" group-title="General" tvg-language="aze" tvg-quality="720p",Ayaz TV
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+
+#EXTINF:-1 tvg-id="AzStarTV.ca" tvg-name="Az Star TV" group-title="General" tvg-language="aze" tvg-quality="1080p",Az Star TV
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AzStarTV.ca" tvg-name="Az Star TV" group-title="General" tvg-language="aze" tvg-quality="1080p",Az Star TV
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AzStarTV.ca" tvg-name="Az Star TV" group-title="General" tvg-language="aze" tvg-quality="240p",Az Star TV
+https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AzTV.az" tvg-name="Az TV" group-title="General" tvg-language="aze" tvg-quality="576i",Az TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
+
+#EXTINF:-1 tvg-id="AzTV.az" tvg-name="Az TV" group-title="General" tvg-language="aze" tvg-quality="1080p",Az TV
+https://str.yodacdn.net/azertv/index.m3u8
+
+#EXTINF:-1 tvg-id="AzTV.az" tvg-name="Az TV" group-title="General" tvg-language="aze" tvg-quality="576i",Az TV
+https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AzadTV.az" tvg-name="Azad TV" group-title="General" tvg-language="aze" tvg-quality="1080p",Azad TV
+#EXTVLCOPT:http-user-agent=No response
+#EXTVLCOPT:http-referrer=No response
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+
+#EXTINF:-1 tvg-id="ELTV.az" tvg-name="EL TV" group-title="General" tvg-language="aze" tvg-quality="260p",EL TV
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ELTV.az" tvg-name="EL TV" group-title="General" tvg-language="aze" tvg-quality="576i",EL TV
+https://live.eltv.az/live/eltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GunAzTV.us" tvg-name="GunAz TV" group-title="General" tvg-language="aze" tvg-quality="480i",GunAz TV
+https://tv.gunaz.tv/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="IctimaiTV.az" tvg-name="Ictimai TV" group-title="General" tvg-language="aze" tvg-quality="576i",Ictimai TV
+https://live.itv.az/itv.m3u8
+
+#EXTINF:-1 tvg-id="Kanal35.az" tvg-name="Kanal 35" group-title="General" tvg-language="aze" tvg-quality="720p",Kanal 35
+https://str2.yodacdn.net/kanal35/index.m3u8
+
+#EXTINF:-1 tvg-id="KanalS.az" tvg-name="Kanal S" group-title="General" tvg-language="aze" tvg-quality="576i",Kanal S
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+
+#EXTINF:-1 tvg-id="NaxcivanTV.az" tvg-name="Naxcivan TV" group-title="General" tvg-language="aze;eng;rus" tvg-quality="720p",Naxcivan TV
+https://str2.yodacdn.net/ntv/video.m3u8
+
+#EXTINF:-1 tvg-id="VilayetTV.az" tvg-name="Vilayet TV" group-title="General" tvg-language="ara;aze" tvg-quality="576i",Vilayet TV
+https://nl.livekadeh.com/hls2/vilayet.m3u8
+
+#EXTINF:-1 tvg-id="WestAzerbaijanTV.ir" tvg-name="West Azerbaijan TV" group-title="General" tvg-language="aze;fas;kur;tur" tvg-quality="576i",West Azerbaijan TV
+https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XezerTV.az" tvg-name="Xezer TV" group-title="General" tvg-language="aze" tvg-quality="720p",Xezer TV
+https://www.xezerxeber.az/stream/index.m3u8
+

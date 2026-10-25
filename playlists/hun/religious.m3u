@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ApostolTV.hu" tvg-name="Apostol TV" group-title="Religious" tvg-language="hun" tvg-quality="576p",Apostol TV
+https://live.apostoltv.hu/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTNBonumTV.hu" tvg-name="EWTN/Bonum TV" group-title="Religious" tvg-language="hun" tvg-quality="576i",EWTN/Bonum TV
+https://dash2.antik.sk/live/ewtn_bonum/index.m3u8
+
+#EXTINF:-1 tvg-id="GranTV.hu" tvg-name="Gran TV" group-title="Religious" tvg-language="hun" tvg-quality="720p",Gran TV
+https://stream.medialive.hu/gran/grantvlive/playlist.m3u8
+

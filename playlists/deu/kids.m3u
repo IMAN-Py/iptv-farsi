@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="720p",BabyFirst
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="480i",BabyFirst
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel" group-title="Kids" tvg-language="deu" tvg-quality="576i",Disney Channel
+http://178.27.12.3:9981/stream/channelid/269948147?profile=pass
+
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel" group-title="Kids" tvg-language="deu" tvg-quality="576p",Disney Channel
+https://s6.hopslan.com/disneyX/index.m3u8
+
+#EXTINF:-1 tvg-id="DrakeJosh.de" tvg-name="Drake & Josh" group-title="Kids" tvg-language="deu" tvg-quality="720p",Drake & Josh
+https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
+
+#EXTINF:-1 tvg-id="KiKA.de" tvg-name="KiKA" group-title="Kids" tvg-language="deu" tvg-quality="1080i",KiKA
+https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KiKA.de" tvg-name="KiKA" group-title="Kids" tvg-language="deu" tvg-quality="1080p",KiKA
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+
+#EXTINF:-1 tvg-id="KiKA.de" tvg-name="KiKA" group-title="Kids" tvg-language="deu" tvg-quality="1080p",KiKA
+https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
+
+#EXTINF:-1 tvg-id="NickJrClub.de" tvg-name="Nick Jr. Club" group-title="Kids" tvg-language="deu" tvg-quality="720p",Nick Jr. Club
+https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
+
+#EXTINF:-1 tvg-id="NickSchweiz.ch" tvg-name="Nick Schweiz" group-title="Kids" tvg-language="deu" tvg-quality="576i",Nick Schweiz
+https://hostemea1236.s.gy/hostemea/nickschweiz/28/25/65/74/gg/locos.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" group-title="Kids" tvg-language="deu;eng" tvg-quality="576i",Nickelodeon
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" group-title="Kids" tvg-language="deu;eng" tvg-quality="576i",Nickelodeon
+https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonClassics.de" tvg-name="Nickelodeon Classics" group-title="Kids" tvg-language="deu" tvg-quality="720p",Nickelodeon Classics
+https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
+
+#EXTINF:-1 tvg-id="ORFKids.at" tvg-name="ORF Kids" group-title="Kids" tvg-language="deu" tvg-quality="720p",ORF Kids
+https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
+
+#EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC" group-title="Family;Kids" tvg-language="deu" tvg-quality="576i",RiC
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/chunks.m3u8
+
+#EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC" group-title="Family;Kids" tvg-language="deu" tvg-quality="1080p",RiC
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SpongeBobSchwammkopf.de" tvg-name="SpongeBob Schwammkopf" group-title="Kids" tvg-language="deu" tvg-quality="720p",SpongeBob Schwammkopf
+https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
+
+#EXTINF:-1 tvg-id="TotallyTurtles.de" tvg-name="Totally Turtles" group-title="Kids" tvg-language="deu" tvg-quality="720p",Totally Turtles
+https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
+

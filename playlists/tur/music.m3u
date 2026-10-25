@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-name="Dream Turk" group-title="Music" tvg-language="tur" tvg-quality="720p",Dream Turk
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FinestTV.de" tvg-name="Finest TV" group-title="Music" tvg-language="deu;tur" tvg-quality="288p",Finest TV
+https://media.finest.tv/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="KralPopTV.tr" tvg-name="Kral Pop TV" group-title="Music" tvg-language="tur" tvg-quality="720p",Kral Pop TV
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Number1Ask.tr" tvg-name="Number 1 Ask" group-title="Music" tvg-language="tur" tvg-quality="720p",Number 1 Ask
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Number1Damar.tr" tvg-name="Number 1 Damar" group-title="Music" tvg-language="tur" tvg-quality="720p",Number 1 Damar
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Number1Dance.tr" tvg-name="Number 1 Dance" group-title="Music" tvg-language="tur" tvg-quality="720p",Number 1 Dance
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Number1TV.tr" tvg-name="Number 1 TV" group-title="Music" tvg-language="tur" tvg-quality="720p",Number 1 TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Number1TV.tr" tvg-name="Number 1 TV" group-title="Music" tvg-language="tur" tvg-quality="720p",Number 1 TV
+https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
+
+#EXTINF:-1 tvg-id="PowerDance.tr" tvg-name="Power Dance" group-title="Music" tvg-language="tur" tvg-quality="1080p",Power Dance
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerLove.tr" tvg-name="Power Love" group-title="Music" tvg-language="tur" tvg-quality="1080p",Power Love
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkAkustik.tr" tvg-name="PowerTurk Akustik" group-title="Music" tvg-language="tur" tvg-quality="1080p",PowerTurk Akustik
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkSlow.tr" tvg-name="PowerTurk Slow" group-title="Music" tvg-language="tur" tvg-quality="1080p",PowerTurk Slow
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr" tvg-name="PowerTurk Taptaze" group-title="Music" tvg-language="tur" tvg-quality="1080p",PowerTurk Taptaze
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-name="Stingray Naturescape" group-title="Music" tvg-language="eng;tur" tvg-quality="720p",Stingray Naturescape
+https://jmp2.uk/plu-5812bd9f249444e05d09cc4e.m3u8
+
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-name="Stingray Naturescape" group-title="Music" tvg-language="eng;tur" tvg-quality="1080p",Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Muzik" group-title="Music" tvg-language="tur" tvg-quality="576i",TRT Muzik
+https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Muzik" group-title="Music" tvg-language="tur" tvg-quality="720p",TRT Muzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+

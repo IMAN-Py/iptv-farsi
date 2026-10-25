@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NET.mt" tvg-name="NET" group-title="General" tvg-language="mlt" tvg-quality="576i",NET
+http://80.79.6.221:25461/smash/public/22
+
+#EXTINF:-1 tvg-id="One.mt" tvg-name="One" group-title="General" tvg-language="mlt" tvg-quality="576i",One
+http://80.79.6.221:25461/smash/public/21
+
+#EXTINF:-1 tvg-id="One.mt" tvg-name="One" group-title="General" tvg-language="mlt" tvg-quality="576i",One
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SmashTV.mt" tvg-name="Smash TV" group-title="General" tvg-language="eng;mlt" tvg-quality="576i",Smash TV
+http://80.79.6.221:25461/smash/public/1
+
+#EXTINF:-1 tvg-id="SmashTV.mt" tvg-name="Smash TV" group-title="General" tvg-language="eng;mlt" tvg-quality="720p",Smash TV
+https://stream.smashmalta.com:25463/live/webplayer/livestream/47.m3u8
+
+#EXTINF:-1 tvg-id="TVM.mt" tvg-name="TVM" group-title="General" tvg-language="eng;mlt" tvg-quality="576i",TVM
+http://80.79.6.221:25461/smash/public/19
+

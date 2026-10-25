@@ -1,0 +1,36 @@
+# Latin IPTV
+
+[← All languages](../../DIRECTORY.md) · [Player setup](../../README.md#setup)
+
+**2 channels · 3 stream entries**
+
+Copy this URL into the M3U URL field of your player:
+
+```text
+https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/lat/all.m3u
+```
+
+| Version | Entries | Copy this URL |
+| --- | ---: | --- |
+| All channels | 3 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/lat/all.m3u` |
+| HD | 0 | No matching streams |
+| SD / unknown | 3 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/lat/sd.m3u` |
+
+<a id="categories"></a>
+## Categories
+
+Each list combines this language with a source category. Counts are stream entries; channels may have alternative streams. Categories describe channels, not individual programmes.
+
+| Category | Channels | Entries | Copy this URL |
+| --- | ---: | ---: | --- |
+| Movies | 2 | 3 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/lat/movies.m3u` |
+| Comedy | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/lat/comedy.m3u` |
+
+## Included channels
+
+Availability is not verified. Use your browser’s Find command to search this table.
+
+| Channel | Channel ID | Reported quality | Streams |
+| --- | --- | --- | ---: |
+| Viasat Kino Action | ViasatKinoAction.ua | 576i, 576p | 2 |
+| Viasat Kino Comedy | ViasatKinoComedy.ua | 576i | 1 |

@@ -1,0 +1,98 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="480i",BabyFirst
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+
+#EXTINF:-1 tvg-id="ChannelA.kr" tvg-name="Channel A" group-title="General" tvg-language="kor" tvg-quality="480i",Channel A
+http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CJOnStyle.kr" tvg-name="CJ OnStyle" group-title="Shop" tvg-language="kor" tvg-quality="540p",CJ OnStyle
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CJOnStylePlus.kr" tvg-name="CJ OnStyle+" group-title="Shop" tvg-language="kor" tvg-quality="540p",CJ OnStyle+
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBS1TV.kr" tvg-name="EBS 1TV" group-title="Education" tvg-language="kor" tvg-quality="400p",EBS 1TV
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBS1TV.kr" tvg-name="EBS 1TV" group-title="Education" tvg-language="kor" tvg-quality="400p",EBS 1TV
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBS2TV.kr" tvg-name="EBS 2TV" group-title="Education" tvg-language="kor" tvg-quality="400p",EBS 2TV
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-name="EBS English" group-title="Education" tvg-language="eng;kor" tvg-quality="400p",EBS English
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBSKids.kr" tvg-name="EBS Kids" group-title="Kids" tvg-language="kor" tvg-quality="400p",EBS Kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-name="EBS Plus 1" group-title="Education" tvg-language="kor" tvg-quality="400p",EBS Plus 1
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-name="EBS Plus 2" group-title="Education" tvg-language="eng;kor" tvg-quality="400p",EBS Plus 2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLAJDTV.kr" tvg-name="HLAJ-DTV" group-title="General" tvg-language="kor" tvg-quality="352p",HLAJ-DTV
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLANDTV.kr" tvg-name="HLAN-DTV" group-title="General" tvg-language="kor" tvg-quality="480p",HLAN-DTV
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLAWDTV.kr" tvg-name="HLAW-DTV" group-title="General" tvg-language="kor" tvg-quality="360p",HLAW-DTV
+http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLCGDTV.kr" tvg-name="HLCG-DTV" group-title="General" tvg-language="kor" tvg-quality="360p",HLCG-DTV
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLCTDTV.kr" tvg-name="HLCT-DTV" group-title="General" tvg-language="kor" tvg-quality="480p",HLCT-DTV
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLCXDTV.kr" tvg-name="HLCX-DTV" group-title="General" tvg-language="kor" tvg-quality="450p",HLCX-DTV
+https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLDEDTV.kr" tvg-name="HLDE-DTV" group-title="General" tvg-language="kor" tvg-quality="540p",HLDE-DTV
+http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-name="HLDP-DTV" group-title="General" tvg-language="kor" tvg-quality="540p",HLDP-DTV
+https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
+
+#EXTINF:-1 tvg-id="HLDQDTV.kr" tvg-name="HLDQ-DTV" group-title="General" tvg-language="kor" tvg-quality="406p",HLDQ-DTV
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLDRDTV.kr" tvg-name="HLDR-DTV" group-title="General" tvg-language="kor" tvg-quality="540p",HLDR-DTV
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLKUDTV.kr" tvg-name="HLKU-DTV" group-title="General" tvg-language="kor" tvg-quality="360p",HLKU-DTV
+https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLQSDTV.kr" tvg-name="HLQS-DTV" group-title="General" tvg-language="kor" tvg-quality="540p",HLQS-DTV
+https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" group-title="General" tvg-language="eng;kor" tvg-quality="576p",KBS World
+http://31.148.48.15/KBS_World/index.m3u8
+
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-name="Korean Central Television" group-title="General" tvg-language="kor" tvg-quality="576p",Korean Central Television
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://kcnawatch.org/
+https://streamer.nknews.org/tvdash/stream.mpd
+
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-name="Korean Central Television" group-title="General" tvg-language="kor" tvg-quality="576p",Korean Central Television
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://kcnawatch.org/
+https://streamer.nknews.org/tvhls/stream.m3u8
+
+#EXTINF:-1 tvg-id="KpopTVPlay.br" tvg-name="KpopTV Play" group-title="Music" tvg-language="kor;por" tvg-quality="576p",KpopTV Play
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LLBNTVKorean.us" tvg-name="LLBN TV Korean" group-title="Religious" tvg-language="kor" tvg-quality="480p",LLBN TV Korean
+https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8
+
+#EXTINF:-1 tvg-id="MBCDrama.kr" tvg-name="MBC Drama" group-title="Entertainment" tvg-language="kor" tvg-quality="480p",MBC Drama
+http://mytv.dothome.co.kr/ch/catv/26.php
+
+#EXTINF:-1 tvg-id="MBCNet.kr" tvg-name="MBC Net" group-title="Uncategorized" tvg-language="kor" tvg-quality="480p",MBC Net
+http://mytv.dothome.co.kr/ch/catv/28.php
+
+#EXTINF:-1 tvg-id="PersianaKorea.fr" tvg-name="Persiana Korea" group-title="Movies" tvg-language="fas;kor" tvg-quality="576i",Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
+

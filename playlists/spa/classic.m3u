@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LAMIL35TV.ar" tvg-name="LAMIL35 TV" group-title="Animation;Classic;Entertainment" tvg-language="spa" tvg-quality="720p",LAMIL35 TV
+#EXTVLCOPT:http-referrer=https://www.lamil35.com.ar/
+https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MacGyver.us" tvg-name="MacGyver" group-title="Classic" tvg-language="spa" tvg-quality="720p",MacGyver
+https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSeriesRetro.us" tvg-name="Pluto TV Series Retro" group-title="Classic" tvg-language="spa" tvg-quality="720p",Pluto TV Series Retro
+https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
+
+#EXTINF:-1 tvg-id="RetroxTV.cr" tvg-name="Retrox TV" group-title="Classic" tvg-language="spa" tvg-quality="720p",Retrox TV
+https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroxTV.cr" tvg-name="Retrox TV" group-title="Classic" tvg-language="spa" tvg-quality="720p",Retrox TV
+https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8
+
+#EXTINF:-1 tvg-id="RetroxTV.cr" tvg-name="Retrox TV" group-title="Classic" tvg-language="spa" tvg-quality="576p",Retrox TV
+https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleNostalgia.co" tvg-name="TeleNostalgia" group-title="Classic" tvg-language="spa" tvg-quality="1080p",TeleNostalgia
+http://38.134.250.110:8000/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-id="TVN3.cl" tvg-name="TVN3" group-title="Classic" tvg-language="spa" tvg-quality="1080p",TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+
+#EXTINF:-1 tvg-id="TVSRetro.gt" tvg-name="TVS Retro" group-title="Classic" tvg-language="spa" tvg-quality="720p",TVS Retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 tvg-id="XtremaCineClasico.ar" tvg-name="Xtrema Cine Clasico" group-title="Classic;Movies" tvg-language="spa" tvg-quality="576i",Xtrema Cine Clasico
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1460
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+

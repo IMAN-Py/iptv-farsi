@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AfarinBaxcha.iq" tvg-name="Afarin Baxcha" group-title="Kids" tvg-language="kur" tvg-quality="1080p",Afarin Baxcha
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AfarinTV.iq" tvg-name="Afarin TV" group-title="Kids" tvg-language="kur" tvg-quality="720p",Afarin TV
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlIraqiaKurdish.iq" tvg-name="Al Iraqia Kurdish" group-title="Uncategorized" tvg-language="kur" tvg-quality="720p",Al Iraqia Kurdish
+https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
+
+#EXTINF:-1 tvg-id="AryenTV.se" tvg-name="Aryen TV" group-title="Uncategorized" tvg-language="kur" tvg-quality="1080p",Aryen TV
+https://aryen.tv/live/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AVAMedia.iq" tvg-name="AVA Media" group-title="Uncategorized" tvg-language="kur" tvg-quality="1080p",AVA Media
+http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV-avc1_2500000=10002,mp4a_128000=20000.m3u8
+
+#EXTINF:-1 tvg-id="AVAMedia.iq" tvg-name="AVA Media" group-title="Uncategorized" tvg-language="kur" tvg-quality="1080p",AVA Media
+https://ava002.xyz/upload/images/1080.m3u8
+
+#EXTINF:-1 tvg-id="AvarTV.iq" tvg-name="Avar TV" group-title="Uncategorized" tvg-language="kur" tvg-quality="1080p",Avar TV
+https://avr.host247.net/live/AvarTv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel8.iq" tvg-name="Channel8" group-title="News" tvg-language="ara;eng;kur" tvg-quality="720p",Channel8
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="CiraTV.de" tvg-name="Cira TV" group-title="Uncategorized" tvg-language="kur" tvg-quality="1080p",Cira TV
+https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
+
+#EXTINF:-1 tvg-id="EmanTv.iq" tvg-name="EmanTv" group-title="Family" tvg-language="kur" tvg-quality="1080p",EmanTv
+https://avr.host247.net/live/emantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FarmodaTV.iq" tvg-name="FarmodaTV" group-title="Religious" tvg-language="kur" tvg-quality="1080p",FarmodaTV
+https://avr.host247.net/live/FarmodaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IlkeTV.tr" tvg-name="Ilke TV" group-title="Uncategorized" tvg-language="kur;tur;zza" tvg-quality="1080p",Ilke TV
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
+
+#EXTINF:-1 tvg-id="Kurdistan24.iq" tvg-name="Kurdistan 24" group-title="News" tvg-language="kur" tvg-quality="1080p",Kurdistan 24
+https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
+
+#EXTINF:-1 tvg-id="KurdistanTV.iq" tvg-name="Kurdistan TV" group-title="General" tvg-language="ara;kur;tur" tvg-quality="720p",Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kurdsat.iq" tvg-name="Kurdsat" group-title="Entertainment" tvg-language="ara;kur" tvg-quality="1080p",Kurdsat
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+
+#EXTINF:-1 tvg-id="KurdsatNews.iq" tvg-name="Kurdsat News" group-title="News" tvg-language="ara;kur" tvg-quality="1080p",Kurdsat News
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+
+#EXTINF:-1 tvg-id="MedMuzik.tr" tvg-name="Med Muzik" group-title="Music" tvg-language="kur" tvg-quality="1080p",Med Muzik
+http://54.36.110.140/live3/live3.m3u8
+
+#EXTINF:-1 tvg-id="Mixkurdy.iq" tvg-name="Mixkurdy" group-title="Family" tvg-language="kur" tvg-quality="1080p",Mixkurdy
+https://avr.host247.net/live/Mix-kurdy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NRTTV.iq" tvg-name="NRT TV" group-title="News" tvg-language="kur" tvg-quality="720p",NRT TV
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PayamTV.iq" tvg-name="Payam TV" group-title="News" tvg-language="kur" tvg-quality="1080p",Payam TV
+https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8
+
+#EXTINF:-1 tvg-id="PayamTV.iq" tvg-name="Payam TV" group-title="News" tvg-language="kur" tvg-quality="720p",Payam TV
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RojavaTV.sy" tvg-name="Rojava TV" group-title="General" tvg-language="ara;kur" tvg-quality="1080p",Rojava TV
+https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
+
+#EXTINF:-1 tvg-id="RonahiTV.sy" tvg-name="Ronahi TV" group-title="Uncategorized" tvg-language="ara;kur" tvg-quality="1080p",Ronahi TV
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
+
+#EXTINF:-1 tvg-id="RudawTV.iq" tvg-name="Rudaw TV" group-title="News" tvg-language="kur" tvg-quality="1080p",Rudaw TV
+https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
+
+#EXTINF:-1 tvg-id="RudawTV.iq" tvg-name="Rudaw TV" group-title="News" tvg-language="kur" tvg-quality="1080p",Rudaw TV
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="SercemTV.tr" tvg-name="Sercem TV" group-title="Culture;General;Religious" tvg-language="kur;tur;zza" tvg-quality="1080p",Sercem TV
+https://canli.sercemtv.com.tr/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="SterkTV.be" tvg-name="Sterk TV" group-title="News" tvg-language="kur" tvg-quality="1080p",Sterk TV
+https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
+
+#EXTINF:-1 tvg-id="SterkTV.be" tvg-name="Sterk TV" group-title="News" tvg-language="kur" tvg-quality="1080p",Sterk TV
+https://muzkurd.com/sterktv/sterk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TRT Kurdi" group-title="Uncategorized" tvg-language="kur;zza" tvg-quality="720p",TRT Kurdi
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="WaarTV.iq" tvg-name="Waar TV" group-title="Uncategorized" tvg-language="kur" tvg-quality="1080p",Waar TV
+https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8
+
+#EXTINF:-1 tvg-id="WaarTV.iq" tvg-name="Waar TV" group-title="Uncategorized" tvg-language="kur" tvg-quality="1080p",Waar TV
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ZarokTV.tr" tvg-name="Zarok TV" group-title="Uncategorized" tvg-language="kur;zza" tvg-quality="720p",Zarok TV
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ZoomNews.us" tvg-name="Zoom News" group-title="News" tvg-language="kur" tvg-quality="720p",Zoom News
+#EXTVLCOPT:http-referrer=https://zoomnews.info/
+https://live.zoomnews.info/live/Zoom_playlist.m3u8
+

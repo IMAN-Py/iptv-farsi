@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Avatar.se" tvg-name="Avatar" group-title="Animation;Kids;Series" tvg-language="dan;eng" tvg-quality="720p",Avatar
+https://jmp2.uk/plu-61c09b48d6d97900076e91c5.m3u8
+
+#EXTINF:-1 tvg-id="DRRamasjang.dk" tvg-name="DR Ramasjang" group-title="Kids" tvg-language="dan" tvg-quality="720p",DR Ramasjang
+https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8
+
+#EXTINF:-1 tvg-id="iCarly.se" tvg-name="iCarly" group-title="Kids" tvg-language="dan;eng" tvg-quality="720p",iCarly
+https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVJuniorklubben.se" tvg-name="Pluto TV Juniorklubben" group-title="Kids" tvg-language="dan;eng" tvg-quality="720p",Pluto TV Juniorklubben
+https://jmp2.uk/plu-61c09a78bd194c0008decc28.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVKlassisketegnefilm.se" tvg-name="Pluto TV Klassiske tegnefilm" group-title="Kids" tvg-language="dan" tvg-quality="720p",Pluto TV Klassiske tegnefilm
+https://jmp2.uk/plu-67f508992ebe80e2929b5c98.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTegnefilm.se" tvg-name="Pluto TV Tegnefilm" group-title="Kids" tvg-language="dan" tvg-quality="720p",Pluto TV Tegnefilm
+https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVUngdomsserier.se" tvg-name="Pluto TV Ungdomsserier" group-title="Kids" tvg-language="dan;eng" tvg-quality="720p",Pluto TV Ungdomsserier
+https://jmp2.uk/plu-67f3fb1cdea1c5e0d588ac1b.m3u8
+
+#EXTINF:-1 tvg-id="SvampeBobFirkant.se" tvg-name="SvampeBob Firkant" group-title="Kids" tvg-language="dan;eng" tvg-quality="720p",SvampeBob Firkant
+https://jmp2.uk/plu-61c09ac98a80a4000703f992.m3u8
+
+#EXTINF:-1 tvg-id="TotallyTurtles.se" tvg-name="Totally Turtles" group-title="Kids" tvg-language="dan;eng" tvg-quality="720p",Totally Turtles
+https://jmp2.uk/plu-61c0bbd95df1da0007bed5a0.m3u8
+

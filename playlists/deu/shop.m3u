@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="123tv.de" tvg-name="1-2-3.tv" group-title="Shop" tvg-language="deu" tvg-quality="270p",1-2-3.tv
+https://123tv-mx1.flex-cdn.net/index.m3u8
+
+#EXTINF:-1 tvg-id="Handystar.de" tvg-name="Handystar" group-title="Shop" tvg-language="deu" tvg-quality="404p",Handystar
+https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="HSE.de" tvg-name="HSE" group-title="Shop" tvg-language="deu" tvg-quality="1080p",HSE
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HSEExtra.de" tvg-name="HSE Extra" group-title="Shop" tvg-language="deu" tvg-quality="1080p",HSE Extra
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HSETrend.de" tvg-name="HSE Trend" group-title="Shop" tvg-language="deu" tvg-quality="576p",HSE Trend
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Juwelo.de" tvg-name="Juwelo" group-title="Shop" tvg-language="deu" tvg-quality="720p",Juwelo
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
+
+#EXTINF:-1 tvg-id="Juwelo.it" tvg-name="Juwelo" group-title="Shop" tvg-language="deu" tvg-quality="480p",Juwelo
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8
+
+#EXTINF:-1 tvg-id="KaufBeiTV.de" tvg-name="KaufBei TV" group-title="Shop" tvg-language="deu" tvg-quality="576p",KaufBei TV
+https://api.alpaca.t62a.com/hls/9103/index.m3u8
+
+#EXTINF:-1 tvg-id="KaufBeiTV.de" tvg-name="KaufBei TV" group-title="Shop" tvg-language="deu" tvg-quality="576i",KaufBei TV
+https://elephant.t62a.com/hls/8103/index.m3u8
+
+#EXTINF:-1 tvg-id="QVC.de" tvg-name="QVC" group-title="Shop" tvg-language="deu" tvg-quality="720p",QVC
+https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
+
+#EXTINF:-1 tvg-id="QVCStyle.de" tvg-name="QVC Style" group-title="Shop" tvg-language="deu" tvg-quality="540p",QVC Style
+https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
+
+#EXTINF:-1 tvg-id="QVCZwei.de" tvg-name="QVC Zwei" group-title="Shop" tvg-language="deu" tvg-quality="540p",QVC Zwei
+https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
+

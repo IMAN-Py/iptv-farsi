@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MWDMovies.mm" tvg-name="MWD Movies" group-title="Movies" tvg-language="mya" tvg-quality="480i",MWD Movies
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+

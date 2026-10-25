@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVUFOP.br" tvg-name="TV UFOP" group-title="Culture;Education;Public" tvg-language="por" tvg-quality="1080p",TV UFOP
+https://app.tvufop.com.br/hls/tvufop.m3u8
+

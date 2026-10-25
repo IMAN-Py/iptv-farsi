@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DudelangeTV.lu" tvg-name="Dudelange TV" group-title="General" tvg-language="ltz" tvg-quality="720p",Dudelange TV
+https://streamer20.multimedia.blue/Eltrona/DudelangeTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MierschTV.lu" tvg-name="MierschTV" group-title="General" tvg-language="ltz" tvg-quality="576i",MierschTV
+https://streamer20.multimedia.blue/Post/MerschTV_IPTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTLTeleLetzebuerg.lu" tvg-name="RTL Tele Letzebuerg" group-title="General" tvg-language="ltz" tvg-quality="1080p",RTL Tele Letzebuerg
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTLWebRadioTV.lu" tvg-name="RTL Web Radio TV" group-title="General" tvg-language="ltz" tvg-quality="1080p",RTL Web Radio TV
+https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTLZwee.lu" tvg-name="RTL Zwee" group-title="General" tvg-language="deu;fra;ltz" tvg-quality="1080p",RTL Zwee
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+

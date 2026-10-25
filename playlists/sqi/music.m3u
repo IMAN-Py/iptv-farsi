@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" group-title="Music" tvg-language="sqi" tvg-quality="1080p",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" group-title="Music" tvg-language="sqi" tvg-quality="1080p",AlbKanale Music TV
+https://secured.albportal.net:2083/AlbKanaleMusicTv/index.m3u8
+
+#EXTINF:-1 tvg-id="TopEstradaTV.mk" tvg-name="TopEstrada TV" group-title="Music" tvg-language="sqi" tvg-quality="720p",TopEstrada TV
+http://live.topestrada.com/live/topestrada/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVArberia4Muzike.xk" tvg-name="TV Arberia 4 Muzike" group-title="Music" tvg-language="sqi" tvg-quality="720p",TV Arberia 4 Muzike
+https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVArberiaRetroHits.xk" tvg-name="TV Arberia Retro Hits" group-title="Music" tvg-language="sqi" tvg-quality="720p",TV Arberia Retro Hits
+https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZICOTV.rs" tvg-name="ZICO TV" group-title="Music" tvg-language="sqi" tvg-quality="720p",ZICO TV
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
+

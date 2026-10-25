@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Channel8.iq" tvg-name="Channel8" group-title="News" tvg-language="ara;eng;kur" tvg-quality="720p",Channel8
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="Kurdistan24.iq" tvg-name="Kurdistan 24" group-title="News" tvg-language="kur" tvg-quality="1080p",Kurdistan 24
+https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
+
+#EXTINF:-1 tvg-id="KurdsatNews.iq" tvg-name="Kurdsat News" group-title="News" tvg-language="ara;kur" tvg-quality="1080p",Kurdsat News
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+
+#EXTINF:-1 tvg-id="NRTTV.iq" tvg-name="NRT TV" group-title="News" tvg-language="kur" tvg-quality="720p",NRT TV
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PayamTV.iq" tvg-name="Payam TV" group-title="News" tvg-language="kur" tvg-quality="1080p",Payam TV
+https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8
+
+#EXTINF:-1 tvg-id="PayamTV.iq" tvg-name="Payam TV" group-title="News" tvg-language="kur" tvg-quality="720p",Payam TV
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RudawTV.iq" tvg-name="Rudaw TV" group-title="News" tvg-language="kur" tvg-quality="1080p",Rudaw TV
+https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
+
+#EXTINF:-1 tvg-id="RudawTV.iq" tvg-name="Rudaw TV" group-title="News" tvg-language="kur" tvg-quality="1080p",Rudaw TV
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="SterkTV.be" tvg-name="Sterk TV" group-title="News" tvg-language="kur" tvg-quality="1080p",Sterk TV
+https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
+
+#EXTINF:-1 tvg-id="SterkTV.be" tvg-name="Sterk TV" group-title="News" tvg-language="kur" tvg-quality="1080p",Sterk TV
+https://muzkurd.com/sterktv/sterk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZoomNews.us" tvg-name="Zoom News" group-title="News" tvg-language="kur" tvg-quality="720p",Zoom News
+#EXTVLCOPT:http-referrer=https://zoomnews.info/
+https://live.zoomnews.info/live/Zoom_playlist.m3u8
+

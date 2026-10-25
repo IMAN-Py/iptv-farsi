@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="Food Network" group-title="Cooking" tvg-language="ita" tvg-quality="1080p",Food Network
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-id="GamberoRossoChannel.it" tvg-name="Gambero Rosso Channel" group-title="Cooking;Lifestyle" tvg-language="ita" tvg-quality="720p",Gambero Rosso Channel
+https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCucina.de" tvg-name="Pluto TV Cucina" group-title="Cooking;Lifestyle" tvg-language="ita" tvg-quality="720p",Pluto TV Cucina
+https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
+

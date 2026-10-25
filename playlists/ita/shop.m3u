@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CasaItalia53.it" tvg-name="Casa Italia 53" group-title="Shop" tvg-language="ita" tvg-quality="720p",Casa Italia 53
+https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QVC.it" tvg-name="QVC" group-title="Shop" tvg-language="ita" tvg-quality="540p",QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+

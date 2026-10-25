@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="APlusTV.pk" tvg-name="A-Plus TV" group-title="Entertainment" tvg-language="urd" tvg-quality="576i",A-Plus TV
+http://103.86.135.164:9981/stream/channelid/1522598263?profile=pass&ticket=8F210F02E7EF3471D45EFD9B293E0E07CE3532BF
+
+#EXTINF:-1 tvg-id="APlusTV.pk" tvg-name="A-Plus TV" group-title="Entertainment" tvg-language="urd" tvg-quality="576p",A-Plus TV
+http://115.42.65.142:9981/stream/channelid/113328724
+
+#EXTINF:-1 tvg-id="APlusTV.pk" tvg-name="A-Plus TV" group-title="Entertainment" tvg-language="urd" tvg-quality="576i",A-Plus TV
+https://cdn4.mjunoon.tv:8087/streamtest/118M/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AajEntertainment.pk" tvg-name="Aaj Entertainment" group-title="Entertainment" tvg-language="urd" tvg-quality="1080p",Aaj Entertainment
+https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
+
+#EXTINF:-1 tvg-id="ATV.pk" tvg-name="ATV" group-title="Entertainment" tvg-language="urd" tvg-quality="1080p",ATV
+http://115.42.65.142:9981/stream/channelid/299762256
+
+#EXTINF:-1 tvg-id="BolEntertainment.pk" tvg-name="Bol Entertainment" group-title="Entertainment" tvg-language="urd" tvg-quality="1080p",Bol Entertainment
+https://vodzong.mjunoon.tv:8087/streamtest/Channel5-159-4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ExpressEntertainment.pk" tvg-name="Express Entertainment" group-title="Entertainment" tvg-language="urd" tvg-quality="1080p",Express Entertainment
+https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
+
+#EXTINF:-1 tvg-id="FalakTV.pk" tvg-name="Falak TV" group-title="Entertainment" tvg-language="pan;urd" tvg-quality="576i",Falak TV
+https://falak.rst.ae/index.m3u8
+
+#EXTINF:-1 tvg-id="HumTV.pk" tvg-name="Hum TV" group-title="Entertainment" tvg-language="urd" tvg-quality="576i",Hum TV
+https://cdn4.mjunoon.tv:8087/streamtest/82M/chunks.m3u8
+
+#EXTINF:-1 tvg-id="HumTV.pk" tvg-name="Hum TV" group-title="Entertainment" tvg-language="urd" tvg-quality="720p",Hum TV
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="PlayEntertainment.pk" tvg-name="Play Entertainment" group-title="Entertainment" tvg-language="urd" tvg-quality="576p",Play Entertainment
+http://103.250.28.74:8000/play/a050/index.m3u8
+
+#EXTINF:-1 tvg-id="SABTV.pk" tvg-name="SAB TV" group-title="Entertainment" tvg-language="urd" tvg-quality="1080p",SAB TV
+https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
+

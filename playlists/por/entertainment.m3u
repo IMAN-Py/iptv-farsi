@@ -1,0 +1,147 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PlusMaisUm.br" tvg-name="+MaisUm" group-title="Entertainment;General;Movies;Music" tvg-language="por" tvg-quality="720p",+MaisUm
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="AELatinAmerica.us" tvg-name="A&E Latin America" group-title="Entertainment" tvg-language="por" tvg-quality="720p",A&E Latin America
+http://170.83.16.50/AeE/index.m3u8
+
+#EXTINF:-1 tvg-id="AELatinAmerica.us" tvg-name="A&E Latin America" group-title="Entertainment" tvg-language="por" tvg-quality="720p",A&E Latin America
+http://79.127.238.228:14551
+
+#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us" tvg-name="Adult Swim Latin America" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Adult Swim Latin America
+http://168.197.104.22/ADULT_SWIM/index.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us" tvg-name="Adult Swim Latin America" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Adult Swim Latin America
+http://45.162.64.114/ADULT_SWIM/index.m3u8
+
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" group-title="Entertainment" tvg-language="por" tvg-quality="576p",AXN White
+http://188.115.15.121:8000/play/a01u
+
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" group-title="Entertainment" tvg-language="por" tvg-quality="480p",AXN White
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://50.7.120.34:8080/AXN_WHITE/index.m3u8
+
+#EXTINF:-1 tvg-id="BETPlutoTV.us" tvg-name="BET Pluto TV" group-title="Entertainment" tvg-language="por" tvg-quality="720p",BET Pluto TV
+https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
+
+#EXTINF:-1 tvg-id="Blitstv.br" tvg-name="Blitstv" group-title="Entertainment" tvg-language="por" tvg-quality="480i",Blitstv
+https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CaboFrioTV.br" tvg-name="Cabo Frio TV" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Cabo Frio TV
+https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChromaTV.br" tvg-name="Chroma TV" group-title="Entertainment" tvg-language="por" tvg-quality="480p",Chroma TV
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ConectaMaisTV.br" tvg-name="Conecta Mais TV" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Conecta Mais TV
+http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ConectaMaisTV.br" tvg-name="Conecta Mais TV" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Conecta Mais TV
+https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryWorld.us" tvg-name="Discovery World" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Discovery World
+http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ElementalChannel.br" tvg-name="Elemental Channel" group-title="Entertainment" tvg-language="por" tvg-quality="1080p",Elemental Channel
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElementalChannel.br" tvg-name="Elemental Channel" group-title="Entertainment" tvg-language="por" tvg-quality="480i",Elemental Channel
+https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElyTV.br" tvg-name="ElyTV" group-title="Entertainment" tvg-language="por" tvg-quality="360p",ElyTV
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us" tvg-name="Lifetime Latin America" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Lifetime Latin America
+http://170.83.16.50/LIFETIME/index.m3u8
+
+#EXTINF:-1 tvg-id="Loading.br" tvg-name="Loading" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTVCatfish.us" tvg-name="MTV Catfish" group-title="Entertainment" tvg-language="por" tvg-quality="720p",MTV Catfish
+https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
+
+#EXTINF:-1 tvg-id="MTVDrag.us" tvg-name="MTV Drag" group-title="Entertainment" tvg-language="por" tvg-quality="720p",MTV Drag
+https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8
+
+#EXTINF:-1 tvg-id="MTVJovenseMaes.us" tvg-name="MTV Jovens e Maes" group-title="Entertainment" tvg-language="por" tvg-quality="720p",MTV Jovens e Maes
+https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8
+
+#EXTINF:-1 tvg-id="MTVPlutoTV.us" tvg-name="MTV Pluto TV" group-title="Entertainment" tvg-language="por" tvg-quality="720p",MTV Pluto TV
+https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
+
+#EXTINF:-1 tvg-id="MTVReality.us" tvg-name="MTV Reality" group-title="Entertainment" tvg-language="por" tvg-quality="720p",MTV Reality
+https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8
+
+#EXTINF:-1 tvg-id="MTVRocks.us" tvg-name="MTV Rocks" group-title="Entertainment" tvg-language="por" tvg-quality="720p",MTV Rocks
+https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
+
+#EXTINF:-1 tvg-id="MTVShore.us" tvg-name="MTV Shore" group-title="Entertainment" tvg-language="por" tvg-quality="720p",MTV Shore
+https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
+
+#EXTINF:-1 tvg-id="NTV.br" tvg-name="NTV" group-title="Entertainment;General" tvg-language="por" tvg-quality="720p",NTV
+https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PetloversTV.br" tvg-name="Petlovers TV" group-title="Entertainment" tvg-language="por" tvg-quality="576i",Petlovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCanalUOL.us" tvg-name="Pluto TV Canal UOL" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Pluto TV Canal UOL
+https://jmp2.uk/plu-64b9370b409629000802d32b.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVRetro.us" tvg-name="Pluto TV Retro" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Pluto TV Retro
+https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
+
+#EXTINF:-1 tvg-id="RedeNGT.br" tvg-name="Rede NGT" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Rede NGT
+https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/ngt/index.m3u8
+
+#EXTINF:-1 tvg-id="RedeNGT.br" tvg-name="Rede NGT" group-title="Entertainment" tvg-language="por" tvg-quality="1080p",Rede NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+
+#EXTINF:-1 tvg-id="RedePremiumTV.br" tvg-name="Rede Premium TV" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Rede Premium TV
+https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShowdoMilhao.br" tvg-name="Show do Milhao" group-title="Entertainment" tvg-language="por" tvg-quality="1080p",Show do Milhao
+https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8
+
+#EXTINF:-1 tvg-id="StarChannel.pt" tvg-name="Star Channel" group-title="Entertainment" tvg-language="por" tvg-quality="576i",Star Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://znty.dyndns.org:5010/hls/fox.m3u8
+
+#EXTINF:-1 tvg-id="TVCuruca.br" tvg-name="TV Curuca" group-title="Entertainment" tvg-language="por" tvg-quality="360p",TV Curuca
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVDigitalBirigui.br" tvg-name="TV Digital Birigui" group-title="Entertainment" tvg-language="por" tvg-quality="640p",TV Digital Birigui
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVEmpire.br" tvg-name="TV Empire" group-title="Entertainment" tvg-language="por" tvg-quality="720p",TV Empire
+https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVGRANDENATALHDTVBRASIL.br" tvg-name="TV GRANDE NATAL HDTV BRASIL" group-title="Entertainment" tvg-language="por" tvg-quality="1080p",TV GRANDE NATAL HDTV BRASIL
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="TVNatal.br" tvg-name="TV Natal" group-title="Entertainment;General;News" tvg-language="por" tvg-quality="1080p",TV Natal
+http://185.228.163.146:8000/play/a01y/index.m3u8
+
+#EXTINF:-1 tvg-id="TVParaense.br" tvg-name="TV Paraense" group-title="Entertainment;Family;General;News" tvg-language="por" tvg-quality="720p",TV Paraense
+https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
+
+#EXTINF:-1 tvg-id="TVVicosa.br" tvg-name="TV Vicosa" group-title="Entertainment" tvg-language="por" tvg-quality="480p",TV Vicosa
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVVitoria.mz" tvg-name="TV Vitoria" group-title="Entertainment" tvg-language="por" tvg-quality="720p",TV Vitoria
+https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVZoom.br" tvg-name="TV Zoom" group-title="Entertainment;News" tvg-language="por" tvg-quality="720p",TV Zoom
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPlusPet.br" tvg-name="TV+Pet" group-title="Entertainment" tvg-language="por" tvg-quality="576i",TV+Pet
+https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI Reality" group-title="Entertainment" tvg-language="por" tvg-quality="720p",TVI Reality
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8
+
+#EXTINF:-1 tvg-id="UMATV.br" tvg-name="UMA TV" group-title="Entertainment" tvg-language="por" tvg-quality="1080p",UMA TV
+https://umatv.nuvemplay.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="VRTChannel.br" tvg-name="VRT Channel" group-title="Entertainment" tvg-language="por" tvg-quality="720p",VRT Channel
+https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
+

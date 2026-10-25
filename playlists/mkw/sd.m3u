@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TeleCongo.cg" tvg-name="Tele Congo" group-title="General" tvg-language="fra;lin;mkw" tvg-quality="576i",Tele Congo
+http://trn03.bozztv.com/gin-telecongo/index.m3u8
+

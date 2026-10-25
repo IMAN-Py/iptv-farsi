@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TayariWestTV.ug" tvg-name="Tayari West TV" group-title="General" tvg-language="cgg;lug" tvg-quality="1080p",Tayari West TV
+https://stream.hydeinnovations.com/tarari-west/index.m3u8
+
+#EXTINF:-1 tvg-id="TVWest.ug" tvg-name="TV West" group-title="General" tvg-language="cgg;nyn;nyo;ttj" tvg-quality="720p",TV West
+https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8
+

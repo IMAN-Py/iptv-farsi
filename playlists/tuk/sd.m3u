@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AltynAsyr.tm" tvg-name="Altyn Asyr" group-title="General" tvg-language="tuk" tvg-quality="406p",Altyn Asyr
+https://alpha.tv.online.tm/hls/ch001.m3u8
+
+#EXTINF:-1 tvg-id="AltynAsyr.tm" tvg-name="Altyn Asyr" group-title="General" tvg-language="tuk" tvg-quality="406p",Altyn Asyr
+https://alpha.tv.online.tm/legacyhls/ch001.m3u8
+
+#EXTINF:-1 tvg-id="ArkadagTV.tm" tvg-name="Arkadag TV" group-title="General" tvg-language="tuk" tvg-quality="406p",Arkadag TV
+https://alpha.tv.online.tm/hls/ch000.m3u8
+
+#EXTINF:-1 tvg-id="ArkadagTV.tm" tvg-name="Arkadag TV" group-title="General" tvg-language="tuk" tvg-quality="406p",Arkadag TV
+https://alpha.tv.online.tm/legacyhls/ch000.m3u8
+
+#EXTINF:-1 tvg-id="Asgabat.tm" tvg-name="Asgabat" group-title="General" tvg-language="tuk" tvg-quality="406p",Asgabat
+https://alpha.tv.online.tm/hls/ch006.m3u8
+
+#EXTINF:-1 tvg-id="Asgabat.tm" tvg-name="Asgabat" group-title="General" tvg-language="tuk" tvg-quality="406p",Asgabat
+https://alpha.tv.online.tm/legacyhls/ch006.m3u8
+
+#EXTINF:-1 tvg-id="Miras.tm" tvg-name="Miras" group-title="Culture" tvg-language="tuk" tvg-quality="406p",Miras
+https://alpha.tv.online.tm/hls/ch003.m3u8
+
+#EXTINF:-1 tvg-id="Miras.tm" tvg-name="Miras" group-title="Culture" tvg-language="tuk" tvg-quality="406p",Miras
+https://alpha.tv.online.tm/legacyhls/ch003.m3u8
+
+#EXTINF:-1 tvg-id="TurkmenOwazy.tm" tvg-name="Turkmen Owazy" group-title="Music" tvg-language="tuk" tvg-quality="406p",Turkmen Owazy
+https://alpha.tv.online.tm/hls/ch005.m3u8
+
+#EXTINF:-1 tvg-id="TurkmenOwazy.tm" tvg-name="Turkmen Owazy" group-title="Music" tvg-language="tuk" tvg-quality="406p",Turkmen Owazy
+https://alpha.tv.online.tm/legacyhls/ch005.m3u8
+
+#EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-name="Turkmenistan" group-title="General" tvg-language="ara;cmn;eng;fra;rus;tuk" tvg-quality="406p",Turkmenistan
+https://alpha.tv.online.tm/hls/ch007.m3u8
+
+#EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-name="Turkmenistan" group-title="General" tvg-language="ara;cmn;eng;fra;rus;tuk" tvg-quality="406p",Turkmenistan
+https://alpha.tv.online.tm/legacyhls/ch007.m3u8
+
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Turkmenistan Sport" group-title="Sports" tvg-language="tuk" tvg-quality="406p",Turkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004.m3u8
+
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Turkmenistan Sport" group-title="Sports" tvg-language="tuk" tvg-quality="406p",Turkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004.m3u8
+
+#EXTINF:-1 tvg-id="Yaslyk.tm" tvg-name="Yaslyk" group-title="Education" tvg-language="tuk" tvg-quality="406p",Yaslyk
+https://alpha.tv.online.tm/hls/ch002.m3u8
+
+#EXTINF:-1 tvg-id="Yaslyk.tm" tvg-name="Yaslyk" group-title="Education" tvg-language="tuk" tvg-quality="406p",Yaslyk
+https://alpha.tv.online.tm/legacyhls/ch002.m3u8
+

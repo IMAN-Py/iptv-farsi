@@ -1,0 +1,431 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AFBTVKupang.id" tvg-name="AFBTV Kupang" group-title="General" tvg-language="ind" tvg-quality="1080p",AFBTV Kupang
+#EXTVLCOPT:http-referrer=https://afbtvkupang.com/
+https://afbtv.siar.us/live/afbtv.m3u8
+
+#EXTINF:-1 tvg-id="AjwaTV.id" tvg-name="Ajwa TV" group-title="General" tvg-language="ind" tvg-quality="1080p",Ajwa TV
+http://ikitv.sqn.at:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-id="AKTV.id" tvg-name="AKTV" group-title="General" tvg-language="ind" tvg-quality="1080p",AKTV
+#EXTVLCOPT:http-referrer=https://aktvuhfdigital.tv/Livestream/aktv
+https://akativi.siar.us/live/akativi.m3u8
+
+#EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-name="Al Wafa Tarim" group-title="Religious" tvg-language="ind;msa" tvg-quality="720p",Al Wafa Tarim
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlBahjahTV.id" tvg-name="Al-Bahjah TV" group-title="Religious" tvg-language="ind" tvg-quality="1080p",Al-Bahjah TV
+http://202.150.161.117:8000/play/AlBahjahTV
+
+#EXTINF:-1 tvg-id="AlImanTV.id" tvg-name="Al-Iman TV" group-title="Religious" tvg-language="ind" tvg-quality="720p",Al-Iman TV
+https://tv.aliman.id/aliman/live.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="eng;ind;tam" tvg-quality="720p",Angel TV
+https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" group-title="General" tvg-language="ind" tvg-quality="720p",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-ANTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AsthaTV.id" tvg-name="Astha TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="1080p",Astha TV
+#EXTVLCOPT:http-referrer=https://asthatv.com/
+https://hgmtv.com:2020/hls/asthalive/asthalive.m3u8
+
+#EXTINF:-1 tvg-id="AstroBlitarTV.id" tvg-name="Astro Blitar TV" group-title="General" tvg-language="ind" tvg-quality="720p",Astro Blitar TV
+#EXTVLCOPT:http-referrer=https://abtelevisi.com/
+https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AtambuaTV.id" tvg-name="Atambua TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",Atambua TV
+http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BalikpapanTV.id" tvg-name="Balikpapan TV" group-title="General" tvg-language="ind" tvg-quality="720p",Balikpapan TV
+http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BanjarTV.id" tvg-name="Banjar TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",Banjar TV
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BantenTV.id" tvg-name="Banten TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",Banten TV
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" group-title="News" tvg-language="ind" tvg-quality="1080p",BeritaSatu
+#EXTVLCOPT:http-referrer=https://www.beritasatu.com/beritasatu-live-streaming
+https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8
+
+#EXTINF:-1 tvg-id="BiznetAdventure.id" tvg-name="Biznet Adventure" group-title="Uncategorized" tvg-language="ind" tvg-quality="1080p",Biznet Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BiznetKids.id" tvg-name="Biznet Kids" group-title="Kids" tvg-language="ind" tvg-quality="1080p",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="BiznetLifestyle.id" tvg-name="Biznet Lifestyle" group-title="Lifestyle" tvg-language="ind" tvg-quality="1080p",Biznet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="BMSTV.id" tvg-name="BMS TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",BMS TV
+https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BNChannel.id" tvg-name="BN Channel" group-title="News" tvg-language="ind" tvg-quality="1080p",BN Channel
+http://ikitv.sqn.at:8000/play/a01l/index.m3u8
+
+#EXTINF:-1 tvg-id="BNChannel.id" tvg-name="BN Channel" group-title="News" tvg-language="ind" tvg-quality="720p",BN Channel
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch112.m3u8
+
+#EXTINF:-1 tvg-id="BRTV.id" tvg-name="BRTV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",BRTV
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" group-title="News" tvg-language="ind" tvg-quality="1080p",BTV
+https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
+
+#EXTINF:-1 tvg-id="CarubanTV.id" tvg-name="Caruban TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="1080p",Caruban TV
+#EXTVLCOPT:http-referrer=https://stream.carubantv.id
+https://stream.carubantv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="CCTV15.cn" tvg-name="CCTV-15" group-title="Music" tvg-language="ind;zho" tvg-quality="720p",CCTV-15
+http://74.91.26.218:82/live/cctv15hd.m3u8
+
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-name="CinemaWorld" group-title="Movies" tvg-language="eng;ind" tvg-quality="720p",CinemaWorld
+http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
+
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-name="CinemaWorld" group-title="Movies" tvg-language="eng;ind" tvg-quality="720p",CinemaWorld
+https://cdn.qd.je/163189/cinemaworld
+
+#EXTINF:-1 tvg-id="DhammaTV.id" tvg-name="Dhamma TV" group-title="Religious" tvg-language="ind" tvg-quality="720p",Dhamma TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+
+#EXTINF:-1 tvg-id="DhohoTV.id" tvg-name="Dhoho TV" group-title="General" tvg-language="ind" tvg-quality="720p",Dhoho TV
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EfarinaTV.id" tvg-name="Efarina TV" group-title="General" tvg-language="ind" tvg-quality="720p",Efarina TV
+#EXTVLCOPT:http-referrer=https://live.efarinatv.net/
+https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
+
+#EXTINF:-1 tvg-id="FajarTV.id" tvg-name="Fajar TV" group-title="Religious" tvg-language="ind" tvg-quality="720p",Fajar TV
+http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FicomChannel.id" tvg-name="Ficom Channel" group-title="Entertainment" tvg-language="ind" tvg-quality="720p",Ficom Channel
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GarudaTV.id" tvg-name="Garuda TV" group-title="General" tvg-language="ind" tvg-quality="1080p",Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" group-title="General" tvg-language="ind" tvg-quality="1080p",GTV
+http://202.150.172.59/GTVHD/index.m3u8
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" group-title="General" tvg-language="ind" tvg-quality="1080i",GTV
+https://mncmedia.malingtv.workers.dev/gtv.m3u8
+
+#EXTINF:-1 tvg-id="HumaBetangTV.id" tvg-name="Huma Betang TV" group-title="News" tvg-language="ind" tvg-quality="720p",Huma Betang TV
+https://v3.siar.us/humabetangtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IndonesianaTV.id" tvg-name="Indonesiana.TV" group-title="Entertainment" tvg-language="ind" tvg-quality="720p",Indonesiana.TV
+#EXTVLCOPT:http-referrer=https://indonesiana.tv/
+https://tvstreamcast.com/indonesiana.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" group-title="General" tvg-language="ind" tvg-quality="1080p",Indosiar
+http://202.150.172.59/Indosiar/index.m3u8
+
+#EXTINF:-1 tvg-id="JawaPosTV.id" tvg-name="Jawa Pos TV" group-title="General" tvg-language="ind" tvg-quality="720p",Jawa Pos TV
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JekTV.id" tvg-name="Jek TV" group-title="General" tvg-language="ind" tvg-quality="720p",Jek TV
+#EXTVLCOPT:http-referrer=http://jektv.co.id/livestreaming/
+http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JogjaIstimewaTV.id" tvg-name="Jogja Istimewa TV" group-title="General" tvg-language="ind" tvg-quality="720p",Jogja Istimewa TV
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JogjaTV.id" tvg-name="Jogja TV" group-title="General" tvg-language="ind" tvg-quality="720p",Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" group-title="General" tvg-language="ind" tvg-quality="1080p",JTV
+http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" group-title="General" tvg-language="ind" tvg-quality="720p",JTV
+http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KawanuaTV.id" tvg-name="Kawanua TV" group-title="General" tvg-language="ind" tvg-quality="720p",Kawanua TV
+http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KIX.hk" tvg-name="KIX" group-title="Entertainment" tvg-language="eng;ind;msa;zho" tvg-quality="1080p",KIX
+https://freem3u.xyz/api/live/play.m3u8?vid=9901
+
+#EXTINF:-1 tvg-id="KTV.id" tvg-name="KTV" group-title="General" tvg-language="ind" tvg-quality="720p",KTV
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch118.m3u8
+
+#EXTINF:-1 tvg-id="LifetimeAsia.us" tvg-name="Lifetime Asia" group-title="Entertainment" tvg-language="eng;ind;tha" tvg-quality="1080p",Lifetime Asia
+http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8
+
+#EXTINF:-1 tvg-id="MadaniTV.id" tvg-name="Madani TV" group-title="Religious" tvg-language="ind" tvg-quality="720p",Madani TV
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MaduTV.id" tvg-name="Madu TV" group-title="General" tvg-language="ind" tvg-quality="1080p",Madu TV
+#EXTVLCOPT:http-referrer=https://madu.tv/live-streaming/
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-name="Magna Channel" group-title="General" tvg-language="ind" tvg-quality="1080p",Magna Channel
+http://202.150.172.59/MagnaChannel/index.m3u8
+
+#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-name="Magna Channel" group-title="General" tvg-language="ind" tvg-quality="1080p",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MatrixTVYogyakarta.id" tvg-name="Matrix TV Yogyakarta" group-title="Uncategorized" tvg-language="ind;jav" tvg-quality="720p",Matrix TV Yogyakarta
+#EXTVLCOPT:http-referrer=https://stream.matrixtv.id/
+https://stream.matrixtv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="MBGTV.id" tvg-name="MBG TV" group-title="Legislative" tvg-language="ind" tvg-quality="1080p",MBG TV
+https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",MDTV
+http://ikitv.sqn.at:8000/play/a044/index.m3u8
+
+#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",MDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=dens.tv/tv-local
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
+
+#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" group-title="Uncategorized" tvg-language="ind" tvg-quality="1080p",MDTV
+https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
+
+#EXTINF:-1 tvg-id="MGITV.id" tvg-name="MGI TV" group-title="Religious" tvg-language="ind" tvg-quality="720p",MGI TV
+https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MQTV.id" tvg-name="MQTV" group-title="Religious" tvg-language="ind" tvg-quality="720p",MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA6Asia.uk" tvg-name="MTA6 Asia" group-title="Religious" tvg-language="ara;ben;eng;ind;tam;urd" tvg-quality="1080p",MTA6 Asia
+https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MusicInformationChannel.id" tvg-name="Music Information Channel" group-title="Music" tvg-language="ind" tvg-quality="720p",Music Information Channel
+#EXTVLCOPT:http-referrer=https://mic-indo.com/live
+https://mic.siar.us/mic/live/mic.m3u8
+
+#EXTINF:-1 tvg-id="MyKidz.id" tvg-name="My Kidz" group-title="Kids" tvg-language="ind" tvg-quality="720p",My Kidz
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+
+#EXTINF:-1 tvg-id="NaajiyaTV.id" tvg-name="Naajiya TV" group-title="Religious" tvg-language="ind" tvg-quality="720p",Naajiya TV
+#EXTVLCOPT:http-referrer=https://www.naajiyatv.com/tonton
+https://www.naajiyatv.com/live/livestream.m3u8
+
+#EXTINF:-1 tvg-id="NabawiTV.id" tvg-name="Nabawi TV" group-title="Religious" tvg-language="ind" tvg-quality="720p",Nabawi TV
+http://202.150.161.117:8000/play/NabawiTV
+
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-name="Nusantara TV" group-title="General" tvg-language="ind" tvg-quality="1080p",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OnlineTVNusantara.id" tvg-name="Online TV Nusantara" group-title="Culture;General;Music;News" tvg-language="ind" tvg-quality="720p",Online TV Nusantara
+https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PadangTV.id" tvg-name="Padang TV" group-title="General" tvg-language="ind" tvg-quality="720p",Padang TV
+http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PONTV.id" tvg-name="PONTV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",PONTV
+http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PujaTVAceh.id" tvg-name="Puja TV Aceh" group-title="Uncategorized" tvg-language="ind" tvg-quality="1080p",Puja TV Aceh
+#EXTVLCOPT:http-referrer=https://www.pujatvaceh.com/
+https://pujatv.siar.us/live/pujatv.m3u8
+
+#EXTINF:-1 tvg-id="RadarTasikmalayaTV.id" tvg-name="Radar Tasikmalaya TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",Radar Tasikmalaya TV
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RBTVJogja.id" tvg-name="RBTV Jogja" group-title="General" tvg-language="ind" tvg-quality="1080p",RBTV Jogja
+#EXTVLCOPT:http-referrer=https://official.rbtvjogja.tv/live.php
+https://official.rbtvjogja.tv/live/mychannel.m3u8
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="General" tvg-language="ind" tvg-quality="1080p",RCTI
+http://202.150.172.59/RCTIHD/index.m3u8
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" group-title="General" tvg-language="ind" tvg-quality="720p",RCTI
+https://mncmedia.malingtv.workers.dev/rcti.m3u8
+
+#EXTINF:-1 tvg-id="RCTV.id" tvg-name="RCTV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",RCTV
+#EXTVLCOPT:http-referrer=https://www.radarcirebon.tv/livestreaming/
+https://v10.siar.us/rctv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RiauTV.id" tvg-name="Riau TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="1080p",Riau TV
+http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RinjaniTV.id" tvg-name="Rinjani TV" group-title="Education" tvg-language="ind" tvg-quality="720p",Rinjani TV
+https://rinjanitv.cloud/hls/tvkabel.m3u8
+
+#EXTINF:-1 tvg-id="RodjaTV.id" tvg-name="Rodja TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",Rodja TV
+https://rodjatv.com/rodjatv/live.m3u8
+
+#EXTINF:-1 tvg-id="RRINet.id" tvg-name="RRI Net" group-title="Uncategorized" tvg-language="ind" tvg-quality="1080p",RRI Net
+https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
+
+#EXTINF:-1 tvg-id="SalamTV.id" tvg-name="Salam TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",Salam TV
+#EXTVLCOPT:http-referrer=salamtelevisi.com
+https://live.salamtelevisi.com/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="SaliraTV.id" tvg-name="Salira TV" group-title="Culture;Lifestyle" tvg-language="ind" tvg-quality="720p",Salira TV
+https://live.salira.tv/p/3870/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="SaliraTV.id" tvg-name="Salira TV" group-title="Culture;Lifestyle" tvg-language="ind" tvg-quality="720p",Salira TV
+https://live.salira.tv:3870/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="SampitTV.id" tvg-name="Sampit TV" group-title="General" tvg-language="ind" tvg-quality="720p",Sampit TV
+https://sampit-tv.siar.us/live/sampit-tv.m3u8
+
+#EXTINF:-1 tvg-id="SangajiTV.id" tvg-name="Sangaji TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",Sangaji TV
+#EXTVLCOPT:http-referrer=https://sangajitv.co.id/
+https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
+
+#EXTINF:-1 tvg-id="SelaparangTV.id" tvg-name="Selaparang TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",Selaparang TV
+#EXTVLCOPT:http-referrer=selaparangtv.net
+https://selaparangtv.siar.us/live/selaparangtv.m3u8
+
+#EXTINF:-1 tvg-id="SemarangTV.id" tvg-name="Semarang TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",Semarang TV
+http://116.254.112.74/hls/cakralive.m3u8
+
+#EXTINF:-1 tvg-id="SMTV.id" tvg-name="SMTV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",SMTV
+http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SMTV.id" tvg-name="SMTV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",SMTV
+#EXTVLCOPT:http-referrer=https://smtv.digital/
+https://e.siar.us/live/smtv.m3u8
+
+#EXTINF:-1 tvg-id="SriwijayaTV.id" tvg-name="Sriwijaya TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",Sriwijaya TV
+#EXTVLCOPT:http-referrer=sriwijayatv.tv
+https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
+
+#EXTINF:-1 tvg-id="StaraTV.id" tvg-name="Stara TV" group-title="Uncategorized" tvg-language="ind;sun" tvg-quality="1080p",Stara TV
+#EXTVLCOPT:http-referrer=https://bandung.staratv.id/
+https://bandung.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="StaraTV.id" tvg-name="Stara TV" group-title="Uncategorized" tvg-language="ind;jav" tvg-quality="720p",Stara TV
+#EXTVLCOPT:http-referrer=https://bojonegoro.staratv.id/
+https://bojonegoro.staratv.id/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="StaraTV.id" tvg-name="Stara TV" group-title="Uncategorized" tvg-language="ind;sun" tvg-quality="720p",Stara TV
+#EXTVLCOPT:http-referrer=https://cianjur.staratv.id/
+https://cianjur.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="StaraTV.id" tvg-name="Stara TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="1080p",Stara TV
+#EXTVLCOPT:http-referrer=https://jakarta.staratv.id/
+https://jakarta.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="StaraTV.id" tvg-name="Stara TV" group-title="Uncategorized" tvg-language="ind;jav" tvg-quality="1080p",Stara TV
+#EXTVLCOPT:http-referrer=https://malang.staratv.id/
+https://malang.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="StaraTV.id" tvg-name="Stara TV" group-title="Uncategorized" tvg-language="ind;sun" tvg-quality="720p",Stara TV
+#EXTVLCOPT:http-referrer=https://parahyangan.staratv.id/
+https://parahyangan.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="StaraTV.id" tvg-name="Stara TV" group-title="Uncategorized" tvg-language="ind;sun" tvg-quality="720p",Stara TV
+#EXTVLCOPT:http-referrer=https://stream.staratv.id/
+https://stream.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="STV.id" tvg-name="STV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",STV
+http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuaraSurabayaVisualRadio.id" tvg-name="Suara Surabaya Visual Radio" group-title="Interactive;News" tvg-language="ind" tvg-quality="720p",Suara Surabaya Visual Radio
+#EXTVLCOPT:http-referrer=https://www.suarasurabaya.net/
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SultraTV.id" tvg-name="Sultra TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",Sultra TV
+http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SurauTV.id" tvg-name="Surau TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",Surau TV
+http://ikitv.sqn.at:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 tvg-id="SurauTV.id" tvg-name="Surau TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",Surau TV
+#EXTVLCOPT:http-referrer=https://surau.tv/
+https://surau-tv-rtmp-surautv.ltjafv.easypanel.host/hls/surautv.m3u8
+
+#EXTINF:-1 tvg-id="TATV.id" tvg-name="TATV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",TATV
+https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV9Nusantara.id" tvg-name="TV 9 Nusantara" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",TV 9 Nusantara
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMu.id" tvg-name="TV Mu" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",TV Mu
+https://e.siar.us/live/tvmu.m3u8
+
+#EXTINF:-1 tvg-id="TVTabalong.id" tvg-name="TV Tabalong" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",TV Tabalong
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVKU.id" tvg-name="TVKU" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",TVKU
+https://tvku.tv/hlsstream/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="TVRParlemen.id" tvg-name="TVR Parlemen" group-title="Legislative" tvg-language="ind" tvg-quality="720p",TVR Parlemen
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRParlemen.id" tvg-name="TVR Parlemen" group-title="Legislative" tvg-language="ind" tvg-quality="720p",TVR Parlemen
+https://ssv1.dpr.go.id/golive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="1080p",TVRI
+http://202.150.172.59/TVRI/index.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="720p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="720p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="720p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind;jav" tvg-quality="720p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="720p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="720p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="720p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="720p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="720p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="1080i",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="1080p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="720p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="720p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="720p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="1080p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="720p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" group-title="General" tvg-language="ind" tvg-quality="1080p",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
+
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-name="TVRI Sport" group-title="Sports" tvg-language="ind" tvg-quality="1080p",TVRI Sport
+http://202.150.172.59/TVRISport/index.m3u8
+
+#EXTINF:-1 tvg-id="UGTV.id" tvg-name="UGTV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+
+#EXTINF:-1 tvg-id="USMTV.id" tvg-name="USM TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="1080p",USM TV
+#EXTVLCOPT:http-referrer=https://usmtv.id/live-tv/
+https://play.fsa-stream.my.id/hls/siaran.m3u8
+
+#EXTINF:-1 tvg-id="VTV.id" tvg-name="VTV" group-title="Kids" tvg-language="ind" tvg-quality="1080p",VTV
+http://202.150.172.59/VTVHD/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV.id" tvg-name="VTV" group-title="Kids" tvg-language="ind" tvg-quality="1080p",VTV
+http://ikitv.sqn.at:8000/play/a023/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV.id" tvg-name="VTV" group-title="Kids" tvg-language="ind" tvg-quality="720p",VTV
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch107.m3u8
+

@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Jednotka.sk" tvg-name="Jednotka" group-title="General" tvg-language="slk" tvg-quality="1080p",Jednotka
+http://88.212.15.17/live/test_jednotka_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTR.sk" tvg-name="MTR" group-title="General" tvg-language="slk" tvg-quality="1080p",MTR
+https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
+
+#EXTINF:-1 tvg-id="NZTV.sk" tvg-name="NZTV" group-title="General" tvg-language="slk" tvg-quality="486p",NZTV
+http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8
+
+#EXTINF:-1 tvg-id="NZTV.sk" tvg-name="NZTV" group-title="General" tvg-language="slk" tvg-quality="576i",NZTV
+https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleviziaMocenok.sk" tvg-name="Televizia Mocenok" group-title="General" tvg-language="slk" tvg-quality="720p",Televizia Mocenok
+https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBrezova.sk" tvg-name="TV Brezova" group-title="General" tvg-language="slk" tvg-quality="540p",TV Brezova
+http://95.105.193.219:88/hls/tvb.m3u8
+
+#EXTINF:-1 tvg-id="TVLiptov.sk" tvg-name="TV Liptov" group-title="General" tvg-language="slk" tvg-quality="1080p",TV Liptov
+http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMistral.sk" tvg-name="TV Mistral" group-title="General" tvg-language="slk" tvg-quality="576i",TV Mistral
+https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMyjava.sk" tvg-name="TV Myjava" group-title="General" tvg-language="slk" tvg-quality="540p",TV Myjava
+http://95.105.193.219:88/hls/tvm.m3u8
+
+#EXTINF:-1 tvg-id="TVNitricka.sk" tvg-name="TV Nitricka" group-title="General" tvg-language="slk" tvg-quality="576i",TV Nitricka
+https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPanorama.sk" tvg-name="TV Panorama" group-title="General" tvg-language="slk" tvg-quality="576i",TV Panorama
+https://public.live.rebit.tv/live/20750f0b-e12d-4915-a4c3-47c5db9ccbf6/main.m3u8
+
+#EXTINF:-1 tvg-id="TVPoprad.sk" tvg-name="TV Poprad" group-title="General" tvg-language="slk" tvg-quality="1080p",TV Poprad
+http://213.81.153.221:8080/poprad
+
+#EXTINF:-1 tvg-id="TVSen.sk" tvg-name="TV Sen" group-title="General" tvg-language="slk" tvg-quality="540p",TV Sen
+http://95.105.193.219:88/hls/tvsen.m3u8
+
+#EXTINF:-1 tvg-id="TVSkalica.sk" tvg-name="TV Skalica" group-title="General" tvg-language="slk" tvg-quality="540p",TV Skalica
+http://95.105.193.219:88/hls/tvs.m3u8
+
+#EXTINF:-1 tvg-id="TVStaraTura.sk" tvg-name="TV Stara Tura" group-title="General" tvg-language="slk" tvg-quality="540p",TV Stara Tura
+http://95.105.193.219:88/hls/tvst.m3u8
+
+#EXTINF:-1 tvg-id="ZapadoslovenskaTV.sk" tvg-name="Zapadoslovenska TV" group-title="General" tvg-language="slk" tvg-quality="576i",Zapadoslovenska TV
+https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8
+

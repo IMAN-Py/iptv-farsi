@@ -1,0 +1,181 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABN.kr" tvg-name="ABN" group-title="General" tvg-language="kor" tvg-quality="720p",ABN
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+
+#EXTINF:-1 tvg-id="ArirangRadio.kr" tvg-name="Arirang Radio" group-title="General" tvg-language="kor" tvg-quality="720p",Arirang Radio
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArirangRadio.kr" tvg-name="Arirang Radio" group-title="General" tvg-language="kor" tvg-quality="720p",Arirang Radio
+http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArirangRadio.kr" tvg-name="Arirang Radio" group-title="General" tvg-language="kor" tvg-quality="720p",Arirang Radio
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArirangRadio.kr" tvg-name="Arirang Radio" group-title="General" tvg-language="kor" tvg-quality="720p",Arirang Radio
+http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArirangRadio.kr" tvg-name="Arirang Radio" group-title="General" tvg-language="kor" tvg-quality="720p",Arirang Radio
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="720p",BabyFirst
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+
+#EXTINF:-1 tvg-id="BBSTV.kr" tvg-name="BBS TV" group-title="Religious" tvg-language="kor" tvg-quality="1080p",BBS TV
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BTNTV.kr" tvg-name="BTN TV" group-title="Religious" tvg-language="kor" tvg-quality="1080p",BTN TV
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChannelU.sg" tvg-name="Channel U" group-title="Entertainment" tvg-language="eng;kor;tha;zho" tvg-quality="720p",Channel U
+https://cdn.qd.je/163189/chu
+
+#EXTINF:-1 tvg-id="FGTV.kr" tvg-name="FGTV" group-title="Religious" tvg-language="kor" tvg-quality="720p",FGTV
+https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GCN.kr" tvg-name="GCN" group-title="Religious" tvg-language="kor" tvg-quality="720p",GCN
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GongyoungHomeShopping.kr" tvg-name="Gongyoung Home Shopping" group-title="Shop" tvg-language="kor" tvg-quality="720p",Gongyoung Home Shopping
+https://etv.publichs.com/live5.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoodTV.kr" tvg-name="Good TV" group-title="Religious" tvg-language="kor" tvg-quality="1080p",Good TV
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GSMyShop.kr" tvg-name="GS My Shop" group-title="Shop" tvg-language="kor" tvg-quality="1080p",GS My Shop
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GugakTV.kr" tvg-name="Gugak TV" group-title="Music" tvg-language="kor" tvg-quality="1080p",Gugak TV
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GugbangTV.kr" tvg-name="Gugbang TV" group-title="News" tvg-language="kor" tvg-quality="1080p",Gugbang TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLAMDTV.kr" tvg-name="HLAM-DTV" group-title="General" tvg-language="kor" tvg-quality="720p",HLAM-DTV
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLAODTV.kr" tvg-name="HLAO-DTV" group-title="General" tvg-language="kor" tvg-quality="720p",HLAO-DTV
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLAQDTV.kr" tvg-name="HLAQ-DTV" group-title="General" tvg-language="kor" tvg-quality="1080p",HLAQ-DTV
+http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLATDTV.kr" tvg-name="HLAT-DTV" group-title="General" tvg-language="kor" tvg-quality="1080p",HLAT-DTV
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLCNDTV.kr" tvg-name="HLCN-DTV" group-title="General" tvg-language="kor" tvg-quality="1080p",HLCN-DTV
+https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLCQDTV.kr" tvg-name="HLCQ-DTV" group-title="General" tvg-language="kor" tvg-quality="720p",HLCQ-DTV
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLDGDTV.kr" tvg-name="HLDG-DTV" group-title="General" tvg-language="kor" tvg-quality="1080p",HLDG-DTV
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="HLDHDTV.kr" tvg-name="HLDH-DTV" group-title="General" tvg-language="kor" tvg-quality="1080p",HLDH-DTV
+https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLKJDTV.kr" tvg-name="HLKJ-DTV" group-title="General" tvg-language="kor" tvg-quality="720p",HLKJ-DTV
+http://123.140.197.22/stream/1/play.m3u8
+
+#EXTINF:-1 tvg-id="HomeShopping.kr" tvg-name="Home & Shopping" group-title="Shop" tvg-language="kor" tvg-quality="720p",Home & Shopping
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HyundaiHomeShopping.kr" tvg-name="Hyundai Home Shopping" group-title="Shop" tvg-language="kor" tvg-quality="720p",Hyundai Home Shopping
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HyundaiHomeShoppingPlusShop.kr" tvg-name="Hyundai Home Shopping + Shop" group-title="Shop" tvg-language="kor" tvg-quality="720p",Hyundai Home Shopping + Shop
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KShopping.kr" tvg-name="K Shopping" group-title="Shop" tvg-language="kor" tvg-quality="1080p",K Shopping
+https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" group-title="General" tvg-language="eng;kor" tvg-quality="720p",KBS World
+#EXTVLCOPT:http-referrer=https://cinerama.uz/
+https://stream8.cinerama.uz/1448/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KCTV.kr" tvg-name="KCTV" group-title="General" tvg-language="kor" tvg-quality="720p",KCTV
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-name="Korean Central Television" group-title="General" tvg-language="kor" tvg-quality="1080p",Korean Central Television
+https://live.koryocdn.org/kctv/index.m3u8
+
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-name="Korean Central Television" group-title="General" tvg-language="kor" tvg-quality="1080p",Korean Central Television
+https://stream.intchoson.com/kctv/index.m3u8
+
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-name="Korean Central Television" group-title="General" tvg-language="kor" tvg-quality="1080p",Korean Central Television
+https://stream.intchoson.com/kctv/main_stream.m3u8
+
+#EXTINF:-1 tvg-id="KTV.kr" tvg-name="KTV" group-title="Legislative;News" tvg-language="kor" tvg-quality="1080p",KTV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LotteHomeShopping.kr" tvg-name="Lotte Home Shopping" group-title="Shop" tvg-language="kor" tvg-quality="720p",Lotte Home Shopping
+https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+
+#EXTINF:-1 tvg-id="LotteOneTV.kr" tvg-name="Lotte OneTV" group-title="Shop" tvg-language="kor" tvg-quality="720p",Lotte OneTV
+https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+
+#EXTINF:-1 tvg-id="MBCAmerica.us" tvg-name="MBC America" group-title="Culture;Entertainment;Music" tvg-language="eng;kor" tvg-quality="1080p",MBC America
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCGyeongnamTV.kr" tvg-name="MBC Gyeongnam TV" group-title="General" tvg-language="kor" tvg-quality="1080p",MBC Gyeongnam TV
+https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTN.kr" tvg-name="MTN" group-title="Uncategorized" tvg-language="kor" tvg-quality="720p",MTN
+http://183.110.27.87/mtnlive/720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalAssemblyTV.kr" tvg-name="National Assembly TV" group-title="Legislative" tvg-language="kor" tvg-quality="720p",National Assembly TV
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
+
+#EXTINF:-1 tvg-id="NBS.kr" tvg-name="NBS" group-title="Education" tvg-language="kor" tvg-quality="720p",NBS
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHTV.kr" tvg-name="NHTV" group-title="Entertainment" tvg-language="kor" tvg-quality="720p",NHTV
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NSHomeShopping.kr" tvg-name="NS Home Shopping" group-title="Shop" tvg-language="kor" tvg-quality="720p",NS Home Shopping
+https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
+
+#EXTINF:-1 tvg-id="NSShopPlus.kr" tvg-name="NS Shop+" group-title="Shop" tvg-language="kor" tvg-quality="720p",NS Shop+
+https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
+
+#EXTINF:-1 tvg-id="OUN.kr" tvg-name="OUN" group-title="Education" tvg-language="kor" tvg-quality="1080p",OUN
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTV.kr" tvg-name="RTV" group-title="Uncategorized" tvg-language="kor" tvg-quality="720p",RTV
+https://rtv-stream2.a04f922e9e85c8d25ebfeae3dfd22a67.com/rtv/rtv.m3u8
+
+#EXTINF:-1 tvg-id="RUTCTV.kr" tvg-name="RUTC TV" group-title="Religious" tvg-language="kor" tvg-quality="720p",RUTC TV
+http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RyongnamsanTelevision.kp" tvg-name="Ryongnamsan Television" group-title="Education" tvg-language="kor" tvg-quality="720p",Ryongnamsan Television
+https://live.koryocdn.org/ryongnamsan/index.m3u8
+
+#EXTINF:-1 tvg-id="ShinsegaeTVShopping.kr" tvg-name="Shinsegae TV Shopping" group-title="Shop" tvg-language="kor" tvg-quality="720p",Shinsegae TV Shopping
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShoppingNT.kr" tvg-name="Shopping NT" group-title="Shop" tvg-language="kor" tvg-quality="720p",Shopping NT
+https://live.shoppingntmall.com/live/10011.m3u8
+
+#EXTINF:-1 tvg-id="SportsTelevision.kp" tvg-name="Sports Television" group-title="Sports" tvg-language="kor" tvg-quality="720p",Sports Television
+https://live.koryocdn.org/sports/index.m3u8
+
+#EXTINF:-1 tvg-id="TBSTV.kr" tvg-name="TBS TV" group-title="Uncategorized" tvg-language="kor" tvg-quality="720p",TBS TV
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVChosun.kr" tvg-name="TV Chosun" group-title="General" tvg-language="kor" tvg-quality="720p",TV Chosun
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVChosun2.kr" tvg-name="TV Chosun 2" group-title="Uncategorized" tvg-language="kor" tvg-quality="720p",TV Chosun 2
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WShopping.kr" tvg-name="W Shopping" group-title="Shop" tvg-language="kor" tvg-quality="720p",W Shopping
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YTN.kr" tvg-name="YTN" group-title="General" tvg-language="kor" tvg-quality="720p",YTN
+http://202.60.106.14:21585/214/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YTN.kr" tvg-name="YTN" group-title="General" tvg-language="kor" tvg-quality="720p",YTN
+http://202.60.106.14:8080/214/playlist.m3u8
+

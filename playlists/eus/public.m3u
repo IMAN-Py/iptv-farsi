@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ETB1.es" tvg-name="ETB 1" group-title="General;Public" tvg-language="eus" tvg-quality="1080p",ETB 1
+https://cdn1.etbon.eus/etb1/index.m3u8
+
+#EXTINF:-1 tvg-id="ETBEvents1.es" tvg-name="ETB Events 1" group-title="General;Public" tvg-language="eus;spa" tvg-quality="1080p",ETB Events 1
+https://cdn1.etbon.eus/oc1/index.m3u8
+
+#EXTINF:-1 tvg-id="ETB1On.es" tvg-name="ETB1 On" group-title="Public" tvg-language="eus" tvg-quality="1080p",ETB1 On
+https://cdn1.etbon.eus/etb1on/index.m3u8
+
+#EXTINF:-1 tvg-id="ETB1On.es" tvg-name="ETB1 On" group-title="Public" tvg-language="eus" tvg-quality="1080p",ETB1 On
+https://cdn1.etbon.eus/etb1on/index.mpd
+

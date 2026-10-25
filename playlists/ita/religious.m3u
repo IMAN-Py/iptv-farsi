@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GiovanniPaoloTV.it" tvg-name="Giovanni Paolo TV" group-title="Religious" tvg-language="ita" tvg-quality="1080p",Giovanni Paolo TV
+https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MedjugorjeItaliaTV.it" tvg-name="Medjugorje Italia TV" group-title="Religious" tvg-language="ita" tvg-quality="480p",Medjugorje Italia TV
+https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PadrePioTV.it" tvg-name="Padre Pio TV" group-title="Religious" tvg-language="ita" tvg-quality="576i",Padre Pio TV
+http://80.79.6.221:25461/smash/public/8
+
+#EXTINF:-1 tvg-id="PadrePioTV.it" tvg-name="Padre Pio TV" group-title="Religious" tvg-language="ita" tvg-quality="1080p",Padre Pio TV
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ParolediVita.it" tvg-name="Parole di Vita" group-title="Religious" tvg-language="ita" tvg-quality="1080p",Parole di Vita
+https://stream.paroledivita.org/paroledivita.m3u8
+
+#EXTINF:-1 tvg-id="Telepace1.it" tvg-name="Telepace 1" group-title="Religious" tvg-language="ita" tvg-quality="1080p",Telepace 1
+https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telepace2.it" tvg-name="Telepace 2" group-title="Culture;Religious" tvg-language="eng;fra;ita" tvg-quality="1080p",Telepace 2
+https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telepace3.it" tvg-name="Telepace 3" group-title="Education;Religious" tvg-language="ita" tvg-quality="1080p",Telepace 3
+https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telepace4.it" tvg-name="Telepace 4" group-title="Religious" tvg-language="eng;fra;ita" tvg-quality="1080p",Telepace 4
+https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelepaceTrento.it" tvg-name="Telepace Trento" group-title="Religious" tvg-language="ita" tvg-quality="540p",Telepace Trento
+https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleSanDomenico.it" tvg-name="TeleSanDomenico" group-title="Religious" tvg-language="ita" tvg-quality="1080p",TeleSanDomenico
+https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" group-title="Religious" tvg-language="ita" tvg-quality="360p",TV2000
+http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
+
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" group-title="Religious" tvg-language="ita" tvg-quality="360p",TV2000
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" group-title="Religious" tvg-language="ita" tvg-quality="720p",TV2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" group-title="Religious" tvg-language="ita" tvg-quality="720p",TV2000
+https://videotv2000-meride-tv.akamaized.net/branded/monoscopio/monoscopio.m3u8
+

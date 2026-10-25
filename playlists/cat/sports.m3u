@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barca TV" group-title="Sports" tvg-language="cat;eng;spa" tvg-quality="576i",Barca TV
+https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
+
+#EXTINF:-1 tvg-id="Esport3.es" tvg-name="Esport3" group-title="Public;Sports" tvg-language="cat" tvg-quality="1080p",Esport3
+https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="Esport3.es" tvg-name="Esport3" group-title="Public;Sports" tvg-language="cat" tvg-quality="1080p",Esport3
+https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="Esport3.es" tvg-name="Esport3" group-title="Public;Sports" tvg-language="cat" tvg-quality="1080p",Esport3
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="Esport3.es" tvg-name="Esport3" group-title="Public;Sports" tvg-language="cat" tvg-quality="1080p",Esport3
+https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
+

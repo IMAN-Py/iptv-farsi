@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CortsValencianes.es" tvg-name="Corts Valencianes" group-title="Legislative" tvg-language="cat;spa" tvg-quality="480p",Corts Valencianes
+https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
+

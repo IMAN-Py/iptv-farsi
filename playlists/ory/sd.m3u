@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EkamraBharatOdia.in" tvg-name="Ekamra Bharat Odia" group-title="News" tvg-language="ory" tvg-quality="400p",Ekamra Bharat Odia
+https://live.ekamraott.com/bharat/bharat/index.m3u8
+
+#EXTINF:-1 tvg-id="OnePaschima.in" tvg-name="One Paschima" group-title="Entertainment" tvg-language="ory" tvg-quality="400p",One Paschima
+https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8
+

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HuzurTV.ru" tvg-name="Huzur TV" group-title="Religious" tvg-language="rus;tat" tvg-quality="1080p",Huzur TV
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KanalA.si" tvg-name="Kanal A" group-title="General" tvg-language="slv" tvg-quality="576i",Kanal A
+https://streamer01.xploretv.si/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+
+#EXTINF:-1 tvg-id="TelevizijaUrslja.si" tvg-name="Televizija Urslja" group-title="General" tvg-language="slv" tvg-quality="1080p",Televizija Urslja
+http://ott.sgn.net/hls/tvurslja.m3u8
+

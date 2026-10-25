@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-name="24 Horas Catalunya" group-title="News;Public" tvg-language="cat;spa" tvg-quality="720p",24 Horas Catalunya
+https://ztnr.rtve.es/ztnr/4952053.m3u8
+
+#EXTINF:-1 tvg-id="3CatExclusiu1.es" tvg-name="3Cat Exclusiu 1" group-title="News;Public" tvg-language="cat" tvg-quality="1080p",3Cat Exclusiu 1
+https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="3CatExclusiu1.es" tvg-name="3Cat Exclusiu 1" group-title="News;Public" tvg-language="cat" tvg-quality="1080p",3Cat Exclusiu 1
+https://directes-tv-cat.3catdirectes.cat/live-origin/oca1-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="3CatExclusiu2.es" tvg-name="3Cat Exclusiu 2" group-title="News;Public" tvg-language="cat" tvg-quality="1080p",3Cat Exclusiu 2
+https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="3CatExclusiu2.es" tvg-name="3Cat Exclusiu 2" group-title="News;Public" tvg-language="cat" tvg-quality="1080p",3Cat Exclusiu 2
+https://directes-tv-cat.3catdirectes.cat/live-origin/oca2-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="3CatExclusiu3.es" tvg-name="3Cat Exclusiu 3" group-title="News;Public" tvg-language="cat" tvg-quality="1080p",3Cat Exclusiu 3
+https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="3CatExclusiu3.es" tvg-name="3Cat Exclusiu 3" group-title="News;Public" tvg-language="cat" tvg-quality="1080p",3Cat Exclusiu 3
+https://directes-tv-cat.3catdirectes.cat/live-origin/oca3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="3CatInfo.es" tvg-name="3CatInfo" group-title="News;Public" tvg-language="cat" tvg-quality="1080p",3CatInfo
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="BDN.es" tvg-name="BDN" group-title="News" tvg-language="cat" tvg-quality="1080p",BDN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8
+

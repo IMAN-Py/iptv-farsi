@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Player setup and FAQ
+    url: https://github.com/IMAN-Py/iptv-farsi/blob/main/FAQ.md
+    about: Common setup, quality, language, and playback questions.
+  - name: Upstream public stream contributions
+    url: https://github.com/iptv-org/iptv/blob/master/CONTRIBUTING.md
+    about: Read the upstream guidelines for adding or correcting stream URLs.

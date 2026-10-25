@@ -1,0 +1,346 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABHPTV.us" tvg-name="ABHP TV" group-title="Religious" tvg-language="vie" tvg-quality="480p",ABHP TV
+https://vietprocast.app/hls/abhp/index.m3u8
+
+#EXTINF:-1 tvg-id="AnGiangTV1.vn" tvg-name="An Giang TV 1" group-title="General" tvg-language="vie" tvg-quality="1080p",An Giang TV 1
+https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
+
+#EXTINF:-1 tvg-id="AnGiangTV2.vn" tvg-name="An Giang TV 2" group-title="Entertainment" tvg-language="vie" tvg-quality="1080p",An Giang TV 2
+https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
+
+#EXTINF:-1 tvg-id="AnGiangTV3.vn" tvg-name="An Giang TV 3" group-title="Entertainment" tvg-language="vie" tvg-quality="1080p",An Giang TV 3
+https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
+
+#EXTINF:-1 tvg-id="AnNinhTV.vn" tvg-name="An Ninh TV" group-title="Uncategorized" tvg-language="vie" tvg-quality="1080p",An Ninh TV
+https://freem3u.xyz/api/live/play.m3u8?vid=20
+
+#EXTINF:-1 tvg-id="AnNinhTV.vn" tvg-name="An Ninh TV" group-title="Uncategorized" tvg-language="vie" tvg-quality="1080p",An Ninh TV
+https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
+
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="Asian Food Network" group-title="Cooking" tvg-language="eng;vie" tvg-quality="1080p",Asian Food Network
+https://freem3u.xyz/api/live/play.m3u8?vid=215
+
+#EXTINF:-1 tvg-id="BinhThuanTV.vn" tvg-name="Binh Thuan TV" group-title="Uncategorized" tvg-language="vie" tvg-quality="1080p",Binh Thuan TV
+https://1011154949.vnns.net/CDN-FPT02/BINHTHUAN-SD-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BrianTV.la" tvg-name="Brian TV" group-title="News" tvg-language="vie" tvg-quality="720p",Brian TV
+https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CaMauTV.vn" tvg-name="Ca Mau TV" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",Ca Mau TV
+https://tv.ctvcamau.vn/live/tv/tv.m3u8
+
+#EXTINF:-1 tvg-id="CanThoTV.vn" tvg-name="Can Tho TV" group-title="General" tvg-language="vie" tvg-quality="1080p",Can Tho TV
+https://live.canthotv.vn/live/tv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="CanThoTV2.vn" tvg-name="Can Tho TV 2" group-title="Education;Science" tvg-language="vie" tvg-quality="1080p",Can Tho TV 2
+https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanThoTV3.vn" tvg-name="Can Tho TV 3" group-title="Uncategorized" tvg-language="vie" tvg-quality="1080p",Can Tho TV 3
+https://live.canthotv.vn/cs3/tv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="CaoBangTV.vn" tvg-name="Cao Bang TV" group-title="General" tvg-language="vie" tvg-quality="720p",Cao Bang TV
+https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="DaNangTV1.vn" tvg-name="Da Nang TV 1" group-title="General" tvg-language="vie" tvg-quality="1080p",Da Nang TV 1
+https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="DaNangTV2.vn" tvg-name="Da Nang TV2" group-title="General" tvg-language="vie" tvg-quality="1080p",Da Nang TV2
+https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="DaVinciAsia.de" tvg-name="Da Vinci Asia" group-title="Education" tvg-language="eng;vie" tvg-quality="1080p",Da Vinci Asia
+https://vmttv.dpdns.org/tv360/?id=davinci-hd
+
+#EXTINF:-1 tvg-id="DaoLaneXangTV.la" tvg-name="Dao Lane Xang TV" group-title="General" tvg-language="vie" tvg-quality="720p",Dao Lane Xang TV
+https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DienBienTV.vn" tvg-name="Dien Bien TV" group-title="General" tvg-language="vie" tvg-quality="1080p",Dien Bien TV
+https://stream.langsontv.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DienBienTV.vn" tvg-name="Dien Bien TV" group-title="General" tvg-language="vie" tvg-quality="406p",Dien Bien TV
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
+
+#EXTINF:-1 tvg-id="DongNaiTV1.vn" tvg-name="Dong Nai TV 1" group-title="General;News" tvg-language="vie" tvg-quality="480p",Dong Nai TV 1
+http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="DongNaiTV1.vn" tvg-name="Dong Nai TV 1" group-title="General;News" tvg-language="vie" tvg-quality="1080p",Dong Nai TV 1
+https://freem3u.xyz/api/live/play.m3u8?vid=53
+
+#EXTINF:-1 tvg-id="DongNaiTV1.vn" tvg-name="Dong Nai TV 1" group-title="General;News" tvg-language="vie" tvg-quality="720p",Dong Nai TV 1
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
+
+#EXTINF:-1 tvg-id="DongNaiTV1.vn" tvg-name="Dong Nai TV 1" group-title="General;News" tvg-language="vie" tvg-quality="720p",Dong Nai TV 1
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-dp/dongnai1tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DongNaiTV2.vn" tvg-name="Dong Nai TV 2" group-title="Entertainment;Sports" tvg-language="vie" tvg-quality="1080p",Dong Nai TV 2
+https://freem3u.xyz/api/live/play.m3u8?vid=255
+
+#EXTINF:-1 tvg-id="DongNaiTV2.vn" tvg-name="Dong Nai TV 2" group-title="Entertainment;Sports" tvg-language="vie" tvg-quality="720p",Dong Nai TV 2
+https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
+
+#EXTINF:-1 tvg-id="DongNaiTV3.vn" tvg-name="Dong Nai TV 3" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",Dong Nai TV 3
+https://dethich.pw/dongnai3/index.m3u8
+
+#EXTINF:-1 tvg-id="DongNaiTV3.vn" tvg-name="Dong Nai TV 3" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",Dong Nai TV 3
+https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
+
+#EXTINF:-1 tvg-id="DongThapTV.vn" tvg-name="Dong Thap TV" group-title="General" tvg-language="vie" tvg-quality="720p",Dong Thap TV
+https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8
+
+#EXTINF:-1 tvg-id="GEBNetwork.us" tvg-name="GEB Network" group-title="Religious" tvg-language="vie" tvg-quality="1080p",GEB Network
+https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GiaLaiTV.vn" tvg-name="Gia Lai TV" group-title="General" tvg-language="vie" tvg-quality="720p",Gia Lai TV
+http://tldigital-17th06day-tl9648290.duckdns.org/tv.m3u8
+
+#EXTINF:-1 tvg-id="HaTinhTV.vn" tvg-name="Ha Tinh TV" group-title="General" tvg-language="vie" tvg-quality="720p",Ha Tinh TV
+https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
+
+#EXTINF:-1 tvg-id="HanoiTV1.vn" tvg-name="HanoiTV1" group-title="General" tvg-language="vie" tvg-quality="720p",HanoiTV1
+https://liveh34.vtvprime.vn/hls/HANOI1TV/index.m3u8
+
+#EXTINF:-1 tvg-id="HmongStarTV.us" tvg-name="Hmong Star TV" group-title="Culture" tvg-language="hmn;vie" tvg-quality="720p",Hmong Star TV
+https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HmongTVNetwork.us" tvg-name="Hmong TV Network" group-title="Culture" tvg-language="hmn;vie" tvg-quality="720p",Hmong TV Network
+https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HTVSports.vn" tvg-name="HTV Sports" group-title="Sports" tvg-language="vie" tvg-quality="576i",HTV Sports
+https://dethich.pw/htvthethao/index.m3u8
+
+#EXTINF:-1 tvg-id="HTV1.vn" tvg-name="HTV1" group-title="General" tvg-language="vie" tvg-quality="720p",HTV1
+https://dethich.pw/htv1/index.m3u8
+
+#EXTINF:-1 tvg-id="HTV2.vn" tvg-name="HTV2" group-title="Entertainment;General" tvg-language="vie" tvg-quality="720p",HTV2
+https://dethich.pw/htv2/index.m3u8
+
+#EXTINF:-1 tvg-id="HTV3.vn" tvg-name="HTV3" group-title="Entertainment;General;Series" tvg-language="vie" tvg-quality="720p",HTV3
+https://dethich.pw/htv3/index.m3u8
+
+#EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" group-title="Education" tvg-language="vie" tvg-quality="720p",HTV4
+https://dethich.pw/htv4/index.m3u8
+
+#EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" group-title="Education" tvg-language="vie" tvg-quality="1080p",HTV4
+https://freem3u.xyz/api/live/play.m3u8?vid=9
+
+#EXTINF:-1 tvg-id="HTV7.vn" tvg-name="HTV7" group-title="General" tvg-language="vie" tvg-quality="720p",HTV7
+https://dethich.pw/htv7/index.m3u8
+
+#EXTINF:-1 tvg-id="HTV9.vn" tvg-name="HTV9" group-title="General;News" tvg-language="vie" tvg-quality="720p",HTV9
+https://dethich.pw/htv9/index.m3u8
+
+#EXTINF:-1 tvg-id="HungYenTV.vn" tvg-name="Hung Yen TV" group-title="General" tvg-language="vie" tvg-quality="480p",Hung Yen TV
+https://ott3.nethubtv.vn/live/hungyentv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ISTV.la" tvg-name="ISTV" group-title="General" tvg-language="vie" tvg-quality="480p",ISTV
+https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KonTumTV.vn" tvg-name="Kon Tum TV" group-title="General" tvg-language="vie" tvg-quality="720p",Kon Tum TV
+https://247.dpdns.org/module/IPTV/?id=QNgTV2&accKenh=vuminhthanh1
+
+#EXTINF:-1 tvg-id="LangSonTV.vn" tvg-name="Lang Son TV" group-title="General" tvg-language="vie" tvg-quality="720p",Lang Son TV
+https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaoSVTV.vn" tvg-name="Lao SV TV" group-title="Shop" tvg-language="vie" tvg-quality="480p",Lao SV TV
+https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaoThaiTV.us" tvg-name="Lao-Thai TV" group-title="Shop" tvg-language="vie" tvg-quality="720p",Lao-Thai TV
+https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NgheAnTV.vn" tvg-name="Nghe An TV" group-title="General" tvg-language="vie" tvg-quality="720p",Nghe An TV
+https://67tz1gnwrvxic.cmccdn.net/hls/NGHEANTV/03.m3u8
+
+#EXTINF:-1 tvg-id="OhMuangLaoTV.la" tvg-name="Oh Muang Lao TV" group-title="General" tvg-language="vie" tvg-quality="720p",Oh Muang Lao TV
+https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ONCine.vn" tvg-name="ON Cine" group-title="Series" tvg-language="vie" tvg-quality="576i",ON Cine
+https://freem3u.xyz/api/live/play.m3u8?vid=176
+
+#EXTINF:-1 tvg-id="ONKids.vn" tvg-name="ON Kids" group-title="Kids" tvg-language="vie" tvg-quality="720p",ON Kids
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+
+#EXTINF:-1 tvg-id="ONLife.vn" tvg-name="ON Life" group-title="Lifestyle" tvg-language="vie" tvg-quality="720p",ON Life
+https://freem3u.xyz/api/live/play.m3u8?vid=188
+
+#EXTINF:-1 tvg-id="ONMovies.vn" tvg-name="ON Movies" group-title="Movies" tvg-language="vie" tvg-quality="720p",ON Movies
+https://freem3u.xyz/api/live/play.m3u8?vid=181
+
+#EXTINF:-1 tvg-id="ONMusic.vn" tvg-name="ON Music" group-title="Music" tvg-language="vie" tvg-quality="1080p",ON Music
+https://freem3u.xyz/api/live/play.m3u8?vid=185
+
+#EXTINF:-1 tvg-id="ONO2TV.vn" tvg-name="ON O2TV" group-title="Lifestyle" tvg-language="vie" tvg-quality="1080p",ON O2TV
+https://freem3u.xyz/api/live/play.m3u8?vid=136
+
+#EXTINF:-1 tvg-id="ONVieGiaiTri.vn" tvg-name="ON Vie Giai Tri" group-title="Entertainment" tvg-language="vie" tvg-quality="1080p",ON Vie Giai Tri
+https://freem3u.xyz/api/live/play.m3u8?vid=180
+
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" group-title="Outdoor" tvg-language="eng;vie" tvg-quality="1080p",Outdoor Channel
+https://freem3u.xyz/api/live/play.m3u8?vid=216
+
+#EXTINF:-1 tvg-id="QPVN.vn" tvg-name="QPVN" group-title="Uncategorized" tvg-language="vie" tvg-quality="1080p",QPVN
+https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8
+
+#EXTINF:-1 tvg-id="QPVN.vn" tvg-name="QPVN" group-title="Uncategorized" tvg-language="vie" tvg-quality="1080p",QPVN
+https://qpvn.vn/live/qpvn/master.m3u8
+
+#EXTINF:-1 tvg-id="QuangNamTV.vn" tvg-name="Quang Nam TV" group-title="Uncategorized" tvg-language="vie" tvg-quality="576i",Quang Nam TV
+https://freem3u.xyz/api/live/play.m3u8?vid=80
+
+#EXTINF:-1 tvg-id="SCTV11.vn" tvg-name="SCTV11" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",SCTV11
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8
+
+#EXTINF:-1 tvg-id="SCTV12.vn" tvg-name="SCTV12" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",SCTV12
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8
+
+#EXTINF:-1 tvg-id="SCTV13.vn" tvg-name="SCTV13" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",SCTV13
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/master.m3u8
+
+#EXTINF:-1 tvg-id="SCTV14.vn" tvg-name="SCTV14" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",SCTV14
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/master.m3u8
+
+#EXTINF:-1 tvg-id="SCTV16.vn" tvg-name="SCTV16" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",SCTV16
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8
+
+#EXTINF:-1 tvg-id="SCTV18.vn" tvg-name="SCTV18" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",SCTV18
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8
+
+#EXTINF:-1 tvg-id="SCTV19.vn" tvg-name="SCTV19" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",SCTV19
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8
+
+#EXTINF:-1 tvg-id="SCTV2.vn" tvg-name="SCTV2" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",SCTV2
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8
+
+#EXTINF:-1 tvg-id="SCTV20.vn" tvg-name="SCTV20" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",SCTV20
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8
+
+#EXTINF:-1 tvg-id="SCTV3.vn" tvg-name="SCTV3" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",SCTV3
+https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8
+
+#EXTINF:-1 tvg-id="SCTV4.vn" tvg-name="SCTV4" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",SCTV4
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
+
+#EXTINF:-1 tvg-id="SCTV4K.vn" tvg-name="SCTV4K" group-title="Uncategorized" tvg-language="vie" tvg-quality="2160p",SCTV4K
+https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
+
+#EXTINF:-1 tvg-id="SCTV6.vn" tvg-name="SCTV6" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",SCTV6
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8
+
+#EXTINF:-1 tvg-id="SCTV7.vn" tvg-name="SCTV7" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",SCTV7
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8
+
+#EXTINF:-1 tvg-id="SCTV9.vn" tvg-name="SCTV9" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",SCTV9
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8
+
+#EXTINF:-1 tvg-id="TayNinhTV.vn" tvg-name="Tay Ninh TV" group-title="General" tvg-language="vie" tvg-quality="720p",Tay Ninh TV
+https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TeaTV.vn" tvg-name="Tea TV" group-title="Shop" tvg-language="vie" tvg-quality="720p",Tea TV
+https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThaiNguyenTV.vn" tvg-name="Thai Nguyen TV" group-title="General" tvg-language="vie" tvg-quality="720p",Thai Nguyen TV
+https://streaming.thainguyentv.vn/hls/livestream.m3u8
+
+#EXTINF:-1 tvg-id="TienGiangTV.vn" tvg-name="Tien Giang TV" group-title="Uncategorized" tvg-language="vie" tvg-quality="540p",Tien Giang TV
+https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="720p",Tra Vinh TV
+https://dethich.pw/thvl5/index.m3u8
+
+#EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="1080p",Tra Vinh TV
+https://freem3u.xyz/api/live/play.m3u8?vid=91
+
+#EXTINF:-1 tvg-id="TVBVietnam.vn" tvg-name="TVB Vietnam" group-title="General" tvg-language="vie" tvg-quality="1080p",TVB Vietnam
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UniquelyThai.vn" tvg-name="Uniquely Thai" group-title="Shop" tvg-language="vie" tvg-quality="720p",Uniquely Thai
+https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VBSTV.us" tvg-name="VBS TV" group-title="General" tvg-language="vie" tvg-quality="480p",VBS TV
+https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VietnamToday.vn" tvg-name="Vietnam Today" group-title="Uncategorized" tvg-language="eng;vie" tvg-quality="1080p",Vietnam Today
+https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
+
+#EXTINF:-1 tvg-id="VietnamToday.vn" tvg-name="Vietnam Today" group-title="Uncategorized" tvg-language="eng;vie" tvg-quality="1080p",Vietnam Today
+https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-id="VinhLongTV1.vn" tvg-name="Vinh Long TV 1" group-title="General;News" tvg-language="vie" tvg-quality="720p",Vinh Long TV 1
+https://dethich.pw/thvl1/index.m3u8
+
+#EXTINF:-1 tvg-id="VinhLongTV2.vn" tvg-name="Vinh Long TV 2" group-title="Culture;Entertainment" tvg-language="vie" tvg-quality="1080p",Vinh Long TV 2
+https://1011154949.vnns.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VinhLongTV2.vn" tvg-name="Vinh Long TV 2" group-title="Culture;Entertainment" tvg-language="vie" tvg-quality="720p",Vinh Long TV 2
+https://dethich.pw/thvl2/index.m3u8
+
+#EXTINF:-1 tvg-id="VinhLongTV3.vn" tvg-name="Vinh Long TV 3" group-title="Entertainment;Movies" tvg-language="vie" tvg-quality="720p",Vinh Long TV 3
+https://dethich.pw/thvl3/index.m3u8
+
+#EXTINF:-1 tvg-id="VinhLongTV4.vn" tvg-name="Vinh Long TV 4" group-title="Culture;Entertainment;Sports;Travel" tvg-language="vie" tvg-quality="720p",Vinh Long TV 4
+https://dethich.pw/thvl4/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV1.vn" tvg-name="VTV1" group-title="Uncategorized" tvg-language="eng;vie" tvg-quality="720p",VTV1
+https://dethich.pw/vtv1/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV1.vn" tvg-name="VTV1" group-title="Uncategorized" tvg-language="eng;vie" tvg-quality="1080p",VTV1
+https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV10.vn" tvg-name="VTV10" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",VTV10
+https://dethich.pw/vtv10/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV10.vn" tvg-name="VTV10" group-title="Uncategorized" tvg-language="vie" tvg-quality="1080p",VTV10
+https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV2.vn" tvg-name="VTV2" group-title="Uncategorized" tvg-language="vie" tvg-quality="1080p",VTV2
+http://125hvt.ddns.net:21585/vtv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VTV2.vn" tvg-name="VTV2" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",VTV2
+https://dethich.pw/vtv2/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV2.vn" tvg-name="VTV2" group-title="Uncategorized" tvg-language="vie" tvg-quality="1080p",VTV2
+https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV3.vn" tvg-name="VTV3" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",VTV3
+https://dethich.pw/vtv3/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV3.vn" tvg-name="VTV3" group-title="Uncategorized" tvg-language="vie" tvg-quality="1080p",VTV3
+https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV4.vn" tvg-name="VTV4" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",VTV4
+https://dethich.pw/vtv4/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV4.vn" tvg-name="VTV4" group-title="Uncategorized" tvg-language="vie" tvg-quality="1080p",VTV4
+https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV5.vn" tvg-name="VTV5" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",VTV5
+https://dethich.pw/vtv5/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV5.vn" tvg-name="VTV5" group-title="Uncategorized" tvg-language="vie" tvg-quality="1080p",VTV5
+https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV5TayNamBo.vn" tvg-name="VTV5 Tay Nam Bo" group-title="Uncategorized" tvg-language="vie" tvg-quality="1080i",VTV5 Tay Nam Bo
+https://dethich.pw/vtv5tnb/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV5TayNguyen.vn" tvg-name="VTV5 Tay Nguyen" group-title="Uncategorized" tvg-language="vie" tvg-quality="1080i",VTV5 Tay Nguyen
+http://dethich.pw/vtv5tn/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV6.vn" tvg-name="VTV6" group-title="Sports" tvg-language="vie" tvg-quality="720p",VTV6
+https://dethich.pw/vtv6/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV6.vn" tvg-name="VTV6" group-title="Sports" tvg-language="vie" tvg-quality="1080p",VTV6
+https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV7.vn" tvg-name="VTV7" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",VTV7
+https://dethich.pw/vtv7/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV7.vn" tvg-name="VTV7" group-title="Uncategorized" tvg-language="vie" tvg-quality="1080p",VTV7
+https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV8.vn" tvg-name="VTV8" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",VTV8
+https://dethich.pw/vtv8/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV9.vn" tvg-name="VTV9" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",VTV9
+https://dethich.pw/vtv9/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV9.vn" tvg-name="VTV9" group-title="Uncategorized" tvg-language="vie" tvg-quality="1080p",VTV9
+https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/index.m3u8
+

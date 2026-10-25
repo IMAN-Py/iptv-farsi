@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="24.sk" tvg-name=":24" group-title="News" tvg-language="slk" tvg-quality="1080p",:24
+http://88.212.15.17/live/test_trojka_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntikInfoTV.sk" tvg-name="Antik Info TV" group-title="News" tvg-language="slk" tvg-quality="1080p",Antik Info TV
+https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlusActionEurope.nl" tvg-name="Canal+ Action Europe" group-title="Movies" tvg-language="slk" tvg-quality="720p",Canal+ Action Europe
+http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" group-title="Legislative" tvg-language="bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mlt;nld;pol;por;ron;slk;slv;spa;swe;ukr" tvg-quality="1080p",EbS
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8
+
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+
+#EXTINF:-1 tvg-id="Jednotka.sk" tvg-name="Jednotka" group-title="General" tvg-language="slk" tvg-quality="1080p",Jednotka
+http://88.212.15.17/live/test_jednotka_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" group-title="Kids" tvg-language="ces;eng;heb;por;slk" tvg-quality="720p",JimJam Europe
+http://212.5.144.156:8080/jimjam/index.m3u8
+
+#EXTINF:-1 tvg-id="LifeTv.sk" tvg-name="LifeTv" group-title="Religious" tvg-language="slk" tvg-quality="1080p",LifeTv
+https://lifetv.mpks.sk/s.m3u8
+
+#EXTINF:-1 tvg-id="ManaCirkevOnline.pt" tvg-name="Mana Cirkev Online" group-title="Religious" tvg-language="slk" tvg-quality="1080p",Mana Cirkev Online
+https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTR.sk" tvg-name="MTR" group-title="General" tvg-language="slk" tvg-quality="1080p",MTR
+https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
+
+#EXTINF:-1 tvg-id="PrimaCoolSK.sk" tvg-name="Prima Cool SK" group-title="Uncategorized" tvg-language="slk" tvg-quality="1080p",Prima Cool SK
+http://88.212.15.17/live/prima_cool_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrimaKrimiSK.sk" tvg-name="Prima Krimi SK" group-title="Uncategorized" tvg-language="slk" tvg-quality="1080p",Prima Krimi SK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/prima_krimi_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrimaloveSK.sk" tvg-name="Prima love SK" group-title="Uncategorized" tvg-language="slk" tvg-quality="1080p",Prima love SK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/prima_love_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrimaSK.sk" tvg-name="Prima SK" group-title="Uncategorized" tvg-language="slk" tvg-quality="1080p",Prima SK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_prima_plus_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Senzi.sk" tvg-name="Senzi" group-title="Uncategorized" tvg-language="slk" tvg-quality="720p",Senzi
+http://lb.streaming.sk/senzi/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sport.sk" tvg-name="Sport" group-title="Sports" tvg-language="slk" tvg-quality="1080p",Sport
+http://88.212.15.17/live/test_rtvs_sport_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleviziaMocenok.sk" tvg-name="Televizia Mocenok" group-title="General" tvg-language="slk" tvg-quality="720p",Televizia Mocenok
+https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TurboTV.sk" tvg-name="Turbo TV" group-title="Uncategorized" tvg-language="slk" tvg-quality="1080p",Turbo TV
+https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVLiptov.sk" tvg-name="TV Liptov" group-title="General" tvg-language="slk" tvg-quality="1080p",TV Liptov
+http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVLux.sk" tvg-name="TV Lux" group-title="Uncategorized" tvg-language="slk" tvg-quality="720p",TV Lux
+https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVLux.sk" tvg-name="TV Lux" group-title="Uncategorized" tvg-language="slk" tvg-quality="720p",TV Lux
+https://stream.tvlux.sk/luxtv/luxtv-livestream/chunklist_w617812057.m3u8
+
+#EXTINF:-1 tvg-id="TVNRSR.sk" tvg-name="TV NRSR" group-title="Legislative" tvg-language="slk" tvg-quality="720p",TV NRSR
+https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPoprad.sk" tvg-name="TV Poprad" group-title="General" tvg-language="slk" tvg-quality="1080p",TV Poprad
+http://213.81.153.221:8080/poprad
+
+#EXTINF:-1 tvg-id="TVPovazie.sk" tvg-name="TV Povazie" group-title="Uncategorized" tvg-language="slk" tvg-quality="1080p",TV Povazie
+https://dash3.antik.sk/live/test_povazie/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRaj.sk" tvg-name="TV Raj" group-title="Uncategorized" tvg-language="slk" tvg-quality="720p",TV Raj
+https://ottst05.flexitv.sk/2827-tv-pc.m3u8
+
+#EXTINF:-1 tvg-id="TVRomana.sk" tvg-name="TV Romana" group-title="Uncategorized" tvg-language="slk" tvg-quality="720p",TV Romana
+http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRuzinov.sk" tvg-name="TV Ruzinov" group-title="Uncategorized" tvg-language="slk" tvg-quality="1080p",TV Ruzinov
+http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
+

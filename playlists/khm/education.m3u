@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EBCGeneralEducation.kh" tvg-name="EBC General Education" group-title="Education" tvg-language="khm" tvg-quality="720p",EBC General Education
+https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
+
+#EXTINF:-1 tvg-id="OneTVESchoolCambodia.kh" tvg-name="One TV E-School Cambodia" group-title="Education" tvg-language="khm" tvg-quality="1080p",One TV E-School Cambodia
+http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVK2.kh" tvg-name="TVK 2" group-title="Education" tvg-language="khm" tvg-quality="720p",TVK 2
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WikiTV.kh" tvg-name="Wiki TV" group-title="Education" tvg-language="khm" tvg-quality="720p",Wiki TV
+https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
+

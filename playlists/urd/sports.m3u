@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MSports.pk" tvg-name="M Sports" group-title="Sports" tvg-language="urd" tvg-quality="1080p",M Sports
+https://cdn.rabta.stream/M-Sports/index.m3u8
+
+#EXTINF:-1 tvg-id="MSports.pk" tvg-name="M Sports" group-title="Sports" tvg-language="urd" tvg-quality="576i",M Sports
+https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MSports.pk" tvg-name="M Sports" group-title="Sports" tvg-language="urd" tvg-quality="576i",M Sports
+https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="PKSports.pk" tvg-name="PK Sports" group-title="Sports" tvg-language="urd" tvg-quality="720p",PK Sports
+https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PTVSports.pk" tvg-name="PTV Sports" group-title="Sports" tvg-language="urd" tvg-quality="1080p",PTV Sports
+http://103.250.28.74:8000/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-id="PTVSports.pk" tvg-name="PTV Sports" group-title="Sports" tvg-language="urd" tvg-quality="720p",PTV Sports
+https://tvsen7.aynascope.net/Sports1/index.m3u8
+

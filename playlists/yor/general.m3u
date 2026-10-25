@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVWEST.ng" tvg-name="TV-WEST" group-title="General" tvg-language="eng;yor" tvg-quality="720p",TV-WEST
+https://tv-west.lg.mncdn.com/tv_west/tv_west.stream/playlist.m3u8
+

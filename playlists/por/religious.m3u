@@ -1,0 +1,176 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ADBTV.pt" tvg-name="ADB TV" group-title="Religious" tvg-language="por" tvg-quality="1080p",ADB TV
+https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="por" tvg-quality="720p",Angel TV
+https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DespertarTV.br" tvg-name="Despertar TV" group-title="Religious" tvg-language="por" tvg-quality="720p",Despertar TV
+https://br.conectmy.com.br/DespertarTV/index.m3u8
+
+#EXTINF:-1 tvg-id="FonteTV.br" tvg-name="Fonte TV" group-title="Religious" tvg-language="por" tvg-quality="1080p",Fonte TV
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+
+#EXTINF:-1 tvg-id="FonteTV.br" tvg-name="Fonte TV" group-title="Religious" tvg-language="por" tvg-quality="480i",Fonte TV
+https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8
+
+#EXTINF:-1 tvg-id="GospelCartoon.br" tvg-name="Gospel Cartoon" group-title="Religious" tvg-language="por" tvg-quality="360p",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GospelMovieTV.br" tvg-name="Gospel Movie TV" group-title="Religious" tvg-language="por" tvg-quality="360p",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IMPDTVWorldwide.br" tvg-name="IMPD TV Worldwide" group-title="Religious" tvg-language="por" tvg-quality="1080p",IMPD TV Worldwide
+#EXTVLCOPT:http-referrer=https://igrejamundial.nuvemplay.live
+https://igrejamundial.nuvemplay.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="KKTV.ao" tvg-name="KK TV" group-title="Religious" tvg-language="por" tvg-quality="1080p",KK TV
+https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-name="Kuriakos Kids" group-title="Animation;Kids;Religious" tvg-language="por" tvg-quality="1080p",Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-name="Kuriakos TV" group-title="Religious" tvg-language="por" tvg-quality="1080p",Kuriakos TV
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ManaIgrejaOnline.pt" tvg-name="Mana Igreja Online" group-title="Religious" tvg-language="por" tvg-quality="1080p",Mana Igreja Online
+https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="Novo Tempo" group-title="Religious" tvg-language="por" tvg-quality="720p",Novo Tempo
+http://168.197.104.22/NOVO_TEMPO/index.m3u8
+
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="Novo Tempo" group-title="Religious" tvg-language="por" tvg-quality="720p",Novo Tempo
+http://186.219.52.187/novo_tempo/index.m3u8
+
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="Novo Tempo" group-title="Religious" tvg-language="por" tvg-quality="720p",Novo Tempo
+http://45.162.64.114/NOVO_TEMPO/index.m3u8
+
+#EXTINF:-1 tvg-id="PlenitudeTV.br" tvg-name="Plenitude TV" group-title="Religious" tvg-language="por" tvg-quality="480i",Plenitude TV
+https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="Rede Gospel" group-title="Religious" tvg-language="por" tvg-quality="720p",Rede Gospel
+http://170.83.49.66:8083/REDEGOSPELHD/index.m3u8
+
+#EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="Rede Gospel" group-title="Religious" tvg-language="por" tvg-quality="720p",Rede Gospel
+http://45.177.114.115/REDE_GOSPEL/index.m3u8
+
+#EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="Rede Gospel" group-title="Religious" tvg-language="por" tvg-quality="1080p",Rede Gospel
+https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="Rede Gospel" group-title="Religious" tvg-language="por" tvg-quality="1080p",Rede Gospel
+https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-name="Rede Seculo 21" group-title="Religious" tvg-language="por" tvg-quality="720p",Rede Seculo 21
+http://186.219.52.187/seculo21/index.m3u8
+
+#EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-name="Rede Seculo 21" group-title="Religious" tvg-language="por" tvg-quality="720p",Rede Seculo 21
+http://45.162.64.114/REDE_SECULO_21/index.m3u8
+
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" group-title="Religious" tvg-language="por" tvg-quality="720p",Rede Vida
+http://168.197.104.22/REDE_VIDA/index.m3u8
+
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" group-title="Religious" tvg-language="por" tvg-quality="720p",Rede Vida
+http://170.84.165.204/REDEVIDA_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" group-title="Religious" tvg-language="por" tvg-quality="720p",Rede Vida
+http://186.219.52.187/rede_vida/index.m3u8
+
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" group-title="Religious" tvg-language="por" tvg-quality="720p",Rede Vida
+http://46.151.196.223:14244
+
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" group-title="Religious" tvg-language="por" tvg-quality="576p",Rede Vida
+https://cdn-5.nxplay.com.br/REDE_VIDA/index.m3u8
+
+#EXTINF:-1 tvg-id="RITTV.br" tvg-name="RIT TV" group-title="Religious" tvg-language="por" tvg-quality="720p",RIT TV
+http://170.83.49.66:8083/RITHD/index.m3u8
+
+#EXTINF:-1 tvg-id="RITTV.br" tvg-name="RIT TV" group-title="Religious" tvg-language="por" tvg-quality="720p",RIT TV
+http://170.84.165.204/RIT_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="RITTV.br" tvg-name="RIT TV" group-title="Religious" tvg-language="por" tvg-quality="720p",RIT TV
+http://45.177.114.115/RIT_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="RITTV.br" tvg-name="RIT TV" group-title="Religious" tvg-language="por" tvg-quality="1080p",RIT TV
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+
+#EXTINF:-1 tvg-id="RITTV.br" tvg-name="RIT TV" group-title="Religious" tvg-language="por" tvg-quality="720p",RIT TV
+https://cdn-5.nxplay.com.br/RIT_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="SBNTVGlobal.us" tvg-name="SBN TV Global" group-title="Religious" tvg-language="eng;por;spa" tvg-quality="720p",SBN TV Global
+https://watch.sardius.media/channels/Ea867F3e1F56B06/site_8D363D13Eb/live.m3u8
+
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" group-title="Religious" tvg-language="por" tvg-quality="720p",TV Aparecida
+http://168.197.104.22/TV_APARECIDA/index.m3u8
+
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" group-title="Religious" tvg-language="por" tvg-quality="720p",TV Aparecida
+http://170.83.16.50/TV_APARECIDA/index.m3u8
+
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" group-title="Religious" tvg-language="por" tvg-quality="720p",TV Aparecida
+http://170.83.49.66:8083/TVAPARECIDAHD/index.m3u8
+
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" group-title="Religious" tvg-language="por" tvg-quality="720p",TV Aparecida
+http://45.162.64.114/TV_APARECIDA/index.m3u8
+
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" group-title="Religious" tvg-language="por" tvg-quality="720p",TV Aparecida
+http://45.177.114.115/TV_APARECIDA_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" group-title="Religious" tvg-language="por" tvg-quality="1080p",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" group-title="Religious" tvg-language="por" tvg-quality="720p",TV Evangelizar
+http://168.197.104.22/EVANGELIZAR/index.m3u8
+
+#EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" group-title="Religious" tvg-language="por" tvg-quality="720p",TV Evangelizar
+http://170.83.16.50/TV_EVANGELIZAR/index.m3u8
+
+#EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" group-title="Religious" tvg-language="por" tvg-quality="720p",TV Evangelizar
+http://170.83.49.66:8083/EVANGELIZARHD/index.m3u8
+
+#EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" group-title="Religious" tvg-language="por" tvg-quality="720p",TV Evangelizar
+http://186.219.52.187/tv_evangelizar/index.m3u8
+
+#EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" group-title="Religious" tvg-language="por" tvg-quality="720p",TV Evangelizar
+http://45.162.64.114/EVANGELIZAR/index.m3u8
+
+#EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" group-title="Religious" tvg-language="por" tvg-quality="480p",TV Evangelizar
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" group-title="Religious" tvg-language="por" tvg-quality="720p",TV Evangelizar
+https://cdn-tiva-tvevangelizar-brasilstream-com-br.smartbit.co/hls/tvevangelizar/index.m3u8
+
+#EXTINF:-1 tvg-id="TVGideoes.br" tvg-name="TV Gideoes" group-title="Religious" tvg-language="por" tvg-quality="1080p",TV Gideoes
+https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMana1.pt" tvg-name="TV Mana 1" group-title="Religious" tvg-language="por" tvg-quality="1080p",TV Mana 1
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMana2.pt" tvg-name="TV Mana 2" group-title="Religious" tvg-language="por" tvg-quality="1080p",TV Mana 2
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVManaBrasil.pt" tvg-name="TV Mana Brasil" group-title="Religious" tvg-language="por" tvg-quality="1080p",TV Mana Brasil
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVManaMocambique.mz" tvg-name="TV Mana Mocambique" group-title="Religious" tvg-language="por" tvg-quality="1080p",TV Mana Mocambique
+https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPadreCicero.br" tvg-name="TV Padre Cicero" group-title="Religious" tvg-language="por" tvg-quality="720p",TV Padre Cicero
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" group-title="Religious" tvg-language="eng;por" tvg-quality="720p",TV Pai Eterno
+http://168.197.104.22/TV_PAI_ETERNO/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" group-title="Religious" tvg-language="eng;por" tvg-quality="720p",TV Pai Eterno
+http://186.219.52.187/pai_eterno/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" group-title="Religious" tvg-language="eng;por" tvg-quality="720p",TV Pai Eterno
+http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" group-title="Religious" tvg-language="eng;por" tvg-quality="720p",TV Pai Eterno
+https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-name="TV Terceiro Anjo" group-title="Religious" tvg-language="por" tvg-quality="360p",TV Terceiro Anjo
+https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVUniversal.br" tvg-name="TV Universal" group-title="Religious" tvg-language="por" tvg-quality="480p",TV Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+

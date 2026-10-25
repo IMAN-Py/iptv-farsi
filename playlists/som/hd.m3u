@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PuntlandTV.so" tvg-name="Puntland TV" group-title="General" tvg-language="som" tvg-quality="720p",Puntland TV
+http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBCTV.so" tvg-name="SBC TV" group-title="General" tvg-language="som" tvg-quality="720p",SBC TV
+http://cdn.mediavisionuae.com:1935/live/sbctv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBNTVInternational.us" tvg-name="SBN TV International" group-title="Religious" tvg-language="eng;som;spa" tvg-quality="720p",SBN TV International
+https://watch.sardius.media/channels/Ea867F3e1F56B06/site_09a4778E89/live.m3u8
+

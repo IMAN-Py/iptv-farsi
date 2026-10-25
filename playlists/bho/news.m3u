@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MahuaKhabar.in" tvg-name="Mahua Khabar" group-title="News" tvg-language="bho" tvg-quality="1080p",Mahua Khabar
+https://cdn.ottlive.co.in/mahuakhabar/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBiharJharkhand.in" tvg-name="Zee Bihar Jharkhand" group-title="News" tvg-language="bho" tvg-quality="720p",Zee Bihar Jharkhand
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBiharJharkhand.in" tvg-name="Zee Bihar Jharkhand" group-title="News" tvg-language="bho" tvg-quality="720p",Zee Bihar Jharkhand
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/main.m3u8
+

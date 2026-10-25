@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CiftciTV.tr" tvg-name="Ciftci TV" group-title="Culture;Education" tvg-language="tur" tvg-quality="720p",Ciftci TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ManasTV.kg" tvg-name="Manas TV" group-title="Culture;Education;Entertainment" tvg-language="kir;tur" tvg-quality="576i",Manas TV
+http://120.70.60.179:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+
+#EXTINF:-1 tvg-id="ManasTV.kg" tvg-name="Manas TV" group-title="Culture;Education;Entertainment" tvg-language="kir;tur" tvg-quality="1080p",Manas TV
+http://212.42.111.152:8080/hls/manas.m3u8
+
+#EXTINF:-1 tvg-id="TRTEBA.tr" tvg-name="TRT EBA" group-title="Education" tvg-language="tur" tvg-quality="720p",TRT EBA
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTEBAIlkokul.tr" tvg-name="TRT EBA Ilkokul" group-title="Education" tvg-language="tur" tvg-quality="720p",TRT EBA Ilkokul
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTEBALise.tr" tvg-name="TRT EBA Lise" group-title="Education" tvg-language="tur" tvg-quality="720p",TRT EBA Lise
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+

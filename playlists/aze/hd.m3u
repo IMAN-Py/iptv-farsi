@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="APATv.az" tvg-name="APA Tv" group-title="News" tvg-language="aze" tvg-quality="1080p",APA Tv
+http://stream.apa.tv/apastream/index.m3u8
+
+#EXTINF:-1 tvg-id="AyazTV.az" tvg-name="Ayaz TV" group-title="General" tvg-language="aze" tvg-quality="720p",Ayaz TV
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+
+#EXTINF:-1 tvg-id="AzStarTV.ca" tvg-name="Az Star TV" group-title="General" tvg-language="aze" tvg-quality="1080p",Az Star TV
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AzStarTV.ca" tvg-name="Az Star TV" group-title="General" tvg-language="aze" tvg-quality="1080p",Az Star TV
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AzTV.az" tvg-name="Az TV" group-title="General" tvg-language="aze" tvg-quality="1080p",Az TV
+https://str.yodacdn.net/azertv/index.m3u8
+
+#EXTINF:-1 tvg-id="AzadTV.az" tvg-name="Azad TV" group-title="General" tvg-language="aze" tvg-quality="1080p",Azad TV
+#EXTVLCOPT:http-user-agent=No response
+#EXTVLCOPT:http-referrer=No response
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+
+#EXTINF:-1 tvg-id="AznewsTV.se" tvg-name="Aznews TV" group-title="News" tvg-language="aze" tvg-quality="720p",Aznews TV
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBCSport.az" tvg-name="CBC Sport" group-title="Sports" tvg-language="aze" tvg-quality="1080i",CBC Sport
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kanal35.az" tvg-name="Kanal 35" group-title="General" tvg-language="aze" tvg-quality="720p",Kanal 35
+https://str2.yodacdn.net/kanal35/index.m3u8
+
+#EXTINF:-1 tvg-id="MedeniyyetTV.az" tvg-name="Medeniyyet TV" group-title="Culture" tvg-language="aze" tvg-quality="1080p",Medeniyyet TV
+https://str.yodacdn.net/medeniyyettele/index.m3u8
+
+#EXTINF:-1 tvg-id="NaxcivanTV.az" tvg-name="Naxcivan TV" group-title="General" tvg-language="aze;eng;rus" tvg-quality="720p",Naxcivan TV
+https://str2.yodacdn.net/ntv/video.m3u8
+
+#EXTINF:-1 tvg-id="XezerTV.az" tvg-name="Xezer TV" group-title="General" tvg-language="aze" tvg-quality="720p",Xezer TV
+https://www.xezerxeber.az/stream/index.m3u8
+

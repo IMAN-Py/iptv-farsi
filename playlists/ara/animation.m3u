@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-name="Cartoon Network Arabic" group-title="Animation;Kids" tvg-language="ara" tvg-quality="576i",Cartoon Network Arabic
+http://149.100.11.252:8000/play/a056/index.m3u8
+
+#EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-name="Spacetoon Arabic" group-title="Animation;Kids" tvg-language="ara" tvg-quality="576p",Spacetoon Arabic
+#EXTVLCOPT:http-referrer=https://spacetoon.com
+https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
+

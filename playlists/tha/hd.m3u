@@ -1,0 +1,142 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="13SiamThai.th" tvg-name="13 Siam Thai" group-title="News" tvg-language="tha" tvg-quality="1080p",13 Siam Thai
+https://live.x2.co.th/live/13livetv-th.m3u8
+
+#EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" group-title="Education" tvg-language="tha" tvg-quality="1080p",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" group-title="Education" tvg-language="tha" tvg-quality="1080p",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel5.th" tvg-name="Channel 5" group-title="General" tvg-language="tha" tvg-quality="1080p",Channel 5
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel5.th" tvg-name="Channel 5" group-title="General" tvg-language="tha" tvg-quality="720p",Channel 5
+https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8
+
+#EXTINF:-1 tvg-id="Channel7.th" tvg-name="Channel 7" group-title="General" tvg-language="tha" tvg-quality="1080p",Channel 7
+https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
+
+#EXTINF:-1 tvg-id="Channel8.th" tvg-name="Channel 8" group-title="General" tvg-language="tha" tvg-quality="1080p",Channel 8
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel8.th" tvg-name="Channel 8" group-title="General" tvg-language="tha" tvg-quality="720p",Channel 8
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="ChannelU.sg" tvg-name="Channel U" group-title="Entertainment" tvg-language="eng;kor;tha;zho" tvg-quality="720p",Channel U
+https://cdn.qd.je/163189/chu
+
+#EXTINF:-1 tvg-id="DLTV1.th" tvg-name="DLTV 1" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 1
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+
+#EXTINF:-1 tvg-id="DLTV10.th" tvg-name="DLTV 10" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 10
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+
+#EXTINF:-1 tvg-id="DLTV11.th" tvg-name="DLTV 11" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 11
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+
+#EXTINF:-1 tvg-id="DLTV12.th" tvg-name="DLTV 12" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 12
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+
+#EXTINF:-1 tvg-id="DLTV13.th" tvg-name="DLTV 13" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 13
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+
+#EXTINF:-1 tvg-id="DLTV14.th" tvg-name="DLTV 14" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 14
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+
+#EXTINF:-1 tvg-id="DLTV15.th" tvg-name="DLTV 15" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 15
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+
+#EXTINF:-1 tvg-id="DLTV2.th" tvg-name="DLTV 2" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 2
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+
+#EXTINF:-1 tvg-id="DLTV3.th" tvg-name="DLTV 3" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 3
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+
+#EXTINF:-1 tvg-id="DLTV4.th" tvg-name="DLTV 4" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 4
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+
+#EXTINF:-1 tvg-id="DLTV5.th" tvg-name="DLTV 5" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 5
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+
+#EXTINF:-1 tvg-id="DLTV6.th" tvg-name="DLTV 6" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 6
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+
+#EXTINF:-1 tvg-id="DLTV7.th" tvg-name="DLTV 7" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 7
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+
+#EXTINF:-1 tvg-id="DLTV8.th" tvg-name="DLTV 8" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 8
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+
+#EXTINF:-1 tvg-id="DLTV9.th" tvg-name="DLTV 9" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 9
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+
+#EXTINF:-1 tvg-id="DramaChannel.th" tvg-name="Drama Channel" group-title="Series" tvg-language="tha" tvg-quality="1080p",Drama Channel
+https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
+
+#EXTINF:-1 tvg-id="ETV.th" tvg-name="ETV" group-title="Education" tvg-language="tha" tvg-quality="1080p",ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GlobalBuddhistNetwork.us" tvg-name="Global Buddhist Network" group-title="Religious" tvg-language="tha" tvg-quality="1080p",Global Buddhist Network
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/us/gbnus.m3u8
+
+#EXTINF:-1 tvg-id="GMM25.th" tvg-name="GMM 25" group-title="General" tvg-language="tha" tvg-quality="720p",GMM 25
+https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
+
+#EXTINF:-1 tvg-id="GoodIdeaTV.th" tvg-name="Good Idea TV" group-title="Entertainment" tvg-language="tha" tvg-quality="720p",Good Idea TV
+http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" group-title="News" tvg-language="tha" tvg-quality="1080p",JKN 18
+https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
+
+#EXTINF:-1 tvg-id="LifetimeAsia.us" tvg-name="Lifetime Asia" group-title="Entertainment" tvg-language="eng;ind;tha" tvg-quality="1080p",Lifetime Asia
+http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8
+
+#EXTINF:-1 tvg-id="Mangorn.th" tvg-name="Mangorn" group-title="General" tvg-language="tha" tvg-quality="720p",Mangorn
+http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NATTV.us" tvg-name="NAT TV" group-title="General" tvg-language="tha" tvg-quality="1080p",NAT TV
+https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBT2HD.th" tvg-name="NBT 2 HD" group-title="General" tvg-language="tha" tvg-quality="1080p",NBT 2 HD
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News1.th" tvg-name="News1" group-title="News" tvg-language="tha" tvg-quality="720p",News1
+http://news1.live14.com/stream/news1.m3u8
+
+#EXTINF:-1 tvg-id="One31.th" tvg-name="One 31" group-title="General" tvg-language="eng;tha" tvg-quality="720p",One 31
+https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
+
+#EXTINF:-1 tvg-id="PoliceTV.th" tvg-name="Police TV" group-title="Uncategorized" tvg-language="tha" tvg-quality="1080p",Police TV
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="STOUChannel.th" tvg-name="STOU Channel" group-title="Uncategorized" tvg-language="tha" tvg-quality="720p",STOU Channel
+https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuwannabhumiChannel.th" tvg-name="Suwannabhumi Channel" group-title="Uncategorized" tvg-language="tha" tvg-quality="720p",Suwannabhumi Channel
+https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
+
+#EXTINF:-1 tvg-id="ThaiParliamentTelevision.th" tvg-name="Thai Parliament Television" group-title="Legislative" tvg-language="tha" tvg-quality="1080p",Thai Parliament Television
+https://tv-live.tpchannel.org/live/tv.m3u8
+
+#EXTINF:-1 tvg-id="ThaiPBS.th" tvg-name="Thai PBS" group-title="Uncategorized" tvg-language="tha" tvg-quality="1080p",Thai PBS
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNN16.th" tvg-name="TNN16" group-title="Uncategorized" tvg-language="eng;tha" tvg-quality="720p",TNN16
+https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
+
+#EXTINF:-1 tvg-id="TopNews.th" tvg-name="Top News" group-title="News" tvg-language="tha" tvg-quality="720p",Top News
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+
+#EXTINF:-1 tvg-id="VipaTV.th" tvg-name="Vipa TV" group-title="General" tvg-language="tha" tvg-quality="1080p",Vipa TV
+https://fastly.live.brightcove.com/1846248737588002042/ap-southeast-1/6075037809001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoibzRoaGc2LmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjA3NTAzNzgwOTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDc1MDM3ODA5MDAxIl0sImp0aSI6IjE4NDYyNDg3Mzc1ODgwMDIwNDIifQ.HbjGHxGv87ivAdsCtAdEDjj2SVCfRnCUMYWn2fCkVPY/playlist-hls.m3u8
+
+#EXTINF:-1 tvg-id="WhiteChannel.th" tvg-name="White Channel" group-title="Uncategorized" tvg-language="tha" tvg-quality="1080p",White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ZabbChannel.th" tvg-name="Zabb Channel" group-title="Uncategorized" tvg-language="tha" tvg-quality="720p",Zabb Channel
+https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZeeNung.th" tvg-name="Zee Nung" group-title="Uncategorized" tvg-language="tha" tvg-quality="1080p",Zee Nung
+https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
+

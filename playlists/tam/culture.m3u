@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EETTV.ca" tvg-name="EET TV" group-title="Culture" tvg-language="eng;tam" tvg-quality="1080p",EET TV
+https://eu.streamjo.com/eetlive/eettv.m3u8
+
+#EXTINF:-1 tvg-id="ImaiTV.lk" tvg-name="Imai TV" group-title="Culture" tvg-language="tam" tvg-quality="1080p",Imai TV
+https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JayaPlus.in" tvg-name="Jaya Plus" group-title="Culture;Entertainment" tvg-language="tam" tvg-quality="576p",Jaya Plus
+https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
+

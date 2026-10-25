@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A2iMusic.sn" tvg-name="A2i Music" group-title="Music" tvg-language="fra;wol" tvg-quality="720p",A2i Music
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A2iNaija.sn" tvg-name="A2i Naija" group-title="Education" tvg-language="fra;wol" tvg-quality="720p",A2i Naija
+https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A2iReligion.sn" tvg-name="A2i Religion" group-title="Religious" tvg-language="fra;wol" tvg-quality="720p",A2i Religion
+https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QTVGambia.gm" tvg-name="QTV Gambia" group-title="General" tvg-language="eng;fuc;mnk;wol" tvg-quality="720p",QTV Gambia
+https://player.qtv.gm/hls/live.stream.m3u8
+

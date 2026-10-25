@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OdishaTV.in" tvg-name="Odisha TV" group-title="Culture" tvg-language="ori" tvg-quality="576i",Odisha TV
+https://cdn.pishow.tv/ott/live/1600/master.m3u8
+
+#EXTINF:-1 tvg-id="OdishaTV.in" tvg-name="Odisha TV" group-title="Culture" tvg-language="ori" tvg-quality="720p",Odisha TV
+https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OdishaTV.in" tvg-name="Odisha TV" group-title="Culture" tvg-language="ori" tvg-quality="576p",Odisha TV
+https://streams.tangotv.in/OTVLIVE24X7/ORIGIN/index.m3u8
+

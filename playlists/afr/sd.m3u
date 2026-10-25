@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HomebaseTV.za" tvg-name="Homebase TV" group-title="Religious" tvg-language="afr;eng" tvg-quality="480p",Homebase TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HomebaseTV.za" tvg-name="Homebase TV" group-title="Religious" tvg-language="afr;eng" tvg-quality="576p",Homebase TV
+https://webstreaming-2.viewmedia.tv/web_022/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBC1.na" tvg-name="NBC 1" group-title="General" tvg-language="afr;deu;eng" tvg-quality="576i",NBC 1
+https://hls2.nbcplus.na/hls/high_nbc1.m3u8
+

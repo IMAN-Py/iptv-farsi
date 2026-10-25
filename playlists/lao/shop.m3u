@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LSTV.la" tvg-name="LS TV" group-title="Shop" tvg-language="lao" tvg-quality="480p",LS TV
+https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
+

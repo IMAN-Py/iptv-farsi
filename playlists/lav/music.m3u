@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RadioSWHTV.lv" tvg-name="Radio SWH TV" group-title="Music" tvg-language="lav" tvg-quality="1080p",Radio SWH TV
+https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8
+

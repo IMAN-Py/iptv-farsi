@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" group-title="Legislative" tvg-language="bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mlt;nld;pol;por;ron;slk;slv;spa;swe;ukr" tvg-quality="1080p",EbS
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8
+
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+
+#EXTINF:-1 tvg-id="TweedeKamerActualiteitenkanaal.nl" tvg-name="Tweede Kamer: Actualiteitenkanaal" group-title="Legislative" tvg-language="nld" tvg-quality="1080p",Tweede Kamer: Actualiteitenkanaal
+https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+
+#EXTINF:-1 tvg-id="TweedeKamerAlettaJacobszaal.nl" tvg-name="Tweede Kamer: Aletta Jacobszaal" group-title="Legislative" tvg-language="nld" tvg-quality="720p",Tweede Kamer: Aletta Jacobszaal
+https://livestream.tweedekamer.nl/live/aletta_jacobszaal/index.m3u8?hd=1&subtitles=1
+
+#EXTINF:-1 tvg-id="TweedeKamerAlettaJacobszaal.nl" tvg-name="Tweede Kamer: Aletta Jacobszaal" group-title="Legislative" tvg-language="nld" tvg-quality="1080p",Tweede Kamer: Aletta Jacobszaal
+https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+
+#EXTINF:-1 tvg-id="TweedeKamerEnquetezaal.nl" tvg-name="Tweede Kamer: Enquetezaal" group-title="Legislative" tvg-language="nld" tvg-quality="1080p",Tweede Kamer: Enquetezaal
+https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+
+#EXTINF:-1 tvg-id="TweedeKamerGroenvanPrinstererzaal.nl" tvg-name="Tweede Kamer: Groen van Prinstererzaal" group-title="Legislative" tvg-language="nld" tvg-quality="1080p",Tweede Kamer: Groen van Prinstererzaal
+https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+
+#EXTINF:-1 tvg-id="TweedeKamerMaxvanderStoelzaal.nl" tvg-name="Tweede Kamer: Max van der Stoelzaal" group-title="Legislative" tvg-language="nld" tvg-quality="1080p",Tweede Kamer: Max van der Stoelzaal
+https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+
+#EXTINF:-1 tvg-id="TweedeKamerPlenairezaal.nl" tvg-name="Tweede Kamer: Plenaire zaal" group-title="Legislative" tvg-language="nld" tvg-quality="720p",Tweede Kamer: Plenaire zaal
+https://livestream.tweedekamer.nl/live/plenaire_zaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
+
+#EXTINF:-1 tvg-id="TweedeKamerPlenairezaal.nl" tvg-name="Tweede Kamer: Plenaire zaal" group-title="Legislative" tvg-language="nld" tvg-quality="1080p",Tweede Kamer: Plenaire zaal
+https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+
+#EXTINF:-1 tvg-id="TweedeKamerSuzeGroenewegzaal.nl" tvg-name="Tweede Kamer: Suze Groenewegzaal" group-title="Legislative" tvg-language="nld" tvg-quality="1080p",Tweede Kamer: Suze Groenewegzaal
+https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+
+#EXTINF:-1 tvg-id="TweedeKamerThorbeckezaal.nl" tvg-name="Tweede Kamer: Thorbeckezaal" group-title="Legislative" tvg-language="nld" tvg-quality="720p",Tweede Kamer: Thorbeckezaal
+https://livestream.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
+
+#EXTINF:-1 tvg-id="TweedeKamerThorbeckezaal.nl" tvg-name="Tweede Kamer: Thorbeckezaal" group-title="Legislative" tvg-language="nld" tvg-quality="1080p",Tweede Kamer: Thorbeckezaal
+https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+
+#EXTINF:-1 tvg-id="TweedeKamerTilanuskamer.nl" tvg-name="Tweede Kamer: Tilanuskamer" group-title="Legislative" tvg-language="nld" tvg-quality="1080p",Tweede Kamer: Tilanuskamer
+https://livestream.tweedekamer.nl/live/tilanuskamer/73/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="TweedeKamerTilanuskamer.nl" tvg-name="Tweede Kamer: Tilanuskamer" group-title="Legislative" tvg-language="nld" tvg-quality="720p",Tweede Kamer: Tilanuskamer
+https://livestream.tweedekamer.nl/live/tilanuskamer/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
+
+#EXTINF:-1 tvg-id="TweedeKamerTroelstrazaal.nl" tvg-name="Tweede Kamer: Troelstrazaal" group-title="Legislative" tvg-language="nld" tvg-quality="1080p",Tweede Kamer: Troelstrazaal
+https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+
+#EXTINF:-1 tvg-id="TweedeKamerWttewaallvanStoetwegenzaal.nl" tvg-name="Tweede Kamer: Wttewaall van Stoetwegenzaal" group-title="Legislative" tvg-language="nld" tvg-quality="1080p",Tweede Kamer: Wttewaall van Stoetwegenzaal
+https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+

@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Armenia1.am" tvg-name="Armenia 1" group-title="General" tvg-language="hye" tvg-quality="576i",Armenia 1
+https://dash2.antik.sk/live/test_armenia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArmeniaTVSatellite.am" tvg-name="Armenia TV Satellite" group-title="General" tvg-language="hye;rus" tvg-quality="576p",Armenia TV Satellite
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/175/index.m3u8
+
+#EXTINF:-1 tvg-id="FirstChannelNews.am" tvg-name="First Channel News" group-title="News" tvg-language="hye" tvg-quality="576i",First Channel News
+https://amtvusdvr.tulix.tv/am3abr/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="KIIOLD104.us" tvg-name="KIIO-LD 10.4" group-title="Culture" tvg-language="eng;hye" tvg-quality="480p",KIIO-LD 10.4
+https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
+

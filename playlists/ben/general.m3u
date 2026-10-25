@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla" group-title="General" tvg-language="ben" tvg-quality="720p",ATN Bangla
+http://tvsen5.aynascope.net/atnbangla/index.m3u8
+
+#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla" group-title="General" tvg-language="ben" tvg-quality="720p",ATN Bangla
+https://tvsen5.aynaott.com/atnbangla/index.m3u8
+
+#EXTINF:-1 tvg-id="ATNBanglaUK.uk" tvg-name="ATN Bangla UK" group-title="General" tvg-language="ben" tvg-quality="576p",ATN Bangla UK
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BanglaVision.bd" tvg-name="Bangla Vision" group-title="General" tvg-language="ben" tvg-quality="720p",Bangla Vision
+https://tvsen5.aynaott.com/banglavision/index.m3u8
+
+#EXTINF:-1 tvg-id="BoishakhiTV.bd" tvg-name="Boishakhi TV" group-title="General" tvg-language="ben" tvg-quality="576i",Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+
+#EXTINF:-1 tvg-id="DDBangla.in" tvg-name="DD Bangla" group-title="General" tvg-language="ben" tvg-quality="576i",DD Bangla
+https://cdn.pishow.tv/ott/live/37/master.m3u8
+
+#EXTINF:-1 tvg-id="DDBangla.in" tvg-name="DD Bangla" group-title="General" tvg-language="ben" tvg-quality="504p",DD Bangla
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8
+
+#EXTINF:-1 tvg-id="DDTripura.in" tvg-name="DD Tripura" group-title="General" tvg-language="ben" tvg-quality="504p",DD Tripura
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index.m3u8
+
+#EXTINF:-1 tvg-id="DeenTV.uk" tvg-name="Deen TV" group-title="General" tvg-language="ben" tvg-quality="576p",Deen TV
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DeenTV.uk" tvg-name="Deen TV" group-title="General" tvg-language="ben" tvg-quality="576p",Deen TV
+https://cd198.anystream.uk:9092/iqapp/d33ntv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DesheBidesheTV.ca" tvg-name="DesheBideshe TV" group-title="General" tvg-language="ben" tvg-quality="480i",DesheBideshe TV
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+
+#EXTINF:-1 tvg-id="DeshiTV.ca" tvg-name="Deshi TV" group-title="General" tvg-language="ben" tvg-quality="720p",Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GaziTV.bd" tvg-name="Gazi TV" group-title="General" tvg-language="ben" tvg-quality="1080p",Gazi TV
+http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
+
+#EXTINF:-1 tvg-id="GaziTV.bd" tvg-name="Gazi TV" group-title="General" tvg-language="ben" tvg-quality="576i",Gazi TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IonTV.uk" tvg-name="Ion TV" group-title="General" tvg-language="ben" tvg-quality="576p",Ion TV
+https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JonmoBhumiTV.au" tvg-name="JonmoBhumi TV" group-title="General" tvg-language="ben" tvg-quality="720p",JonmoBhumi TV
+https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTVBangla.in" tvg-name="KTV Bangla" group-title="General" tvg-language="ben;sat" tvg-quality="720p",KTV Bangla
+https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
+
+#EXTINF:-1 tvg-id="MyTV.bd" tvg-name="My TV" group-title="General" tvg-language="ben" tvg-quality="576i",My TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NexusTV.bd" tvg-name="Nexus TV" group-title="General" tvg-language="ben" tvg-quality="576p",Nexus TV
+https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
+
+#EXTINF:-1 tvg-id="NTV.bd" tvg-name="NTV" group-title="General" tvg-language="ben" tvg-quality="720p",NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+
+#EXTINF:-1 tvg-id="RajdhaniTV.bd" tvg-name="Rajdhani TV" group-title="General" tvg-language="ben" tvg-quality="1080p",Rajdhani TV
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+
+#EXTINF:-1 tvg-id="RTV.bd" tvg-name="RTV" group-title="General" tvg-language="ben" tvg-quality="480p",RTV
+http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8
+
+#EXTINF:-1 tvg-id="RTV.bd" tvg-name="RTV" group-title="General" tvg-language="ben" tvg-quality="720p",RTV
+http://tvsen5.aynascope.net/RtvHD/index.m3u8
+
+#EXTINF:-1 tvg-id="RTV.bd" tvg-name="RTV" group-title="General" tvg-language="ben" tvg-quality="720p",RTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="RTV.bd" tvg-name="RTV" group-title="General" tvg-language="ben" tvg-quality="720p",RTV
+https://tvsen5.aynaott.com/RtvHD/index.m3u8
+
+#EXTINF:-1 tvg-id="VoktaTV.bd" tvg-name="Vokta TV" group-title="General" tvg-language="ben" tvg-quality="720p",Vokta TV
+https://vokta.raytahost.com/live/voktatv/index.m3u8
+

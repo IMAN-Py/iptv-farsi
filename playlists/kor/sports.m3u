@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SportsTelevision.kp" tvg-name="Sports Television" group-title="Sports" tvg-language="kor" tvg-quality="720p",Sports Television
+https://live.koryocdn.org/sports/index.m3u8
+

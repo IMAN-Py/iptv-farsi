@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TeReo.nz" tvg-name="Te Reo" group-title="Uncategorized" tvg-language="mri" tvg-quality="1080p",Te Reo
+https://i.mjh.nz/.r/te-reo.m3u8
+
+#EXTINF:-1 tvg-id="WhakaataMaori.nz" tvg-name="Whakaata Maori" group-title="Uncategorized" tvg-language="mri" tvg-quality="1080p",Whakaata Maori
+https://i.mjh.nz/.r/maori-tv.m3u8
+

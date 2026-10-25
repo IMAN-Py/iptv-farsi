@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-name="Teleislas" group-title="General" tvg-language="icr;spa" tvg-quality="576p",Teleislas
+http://181.78.211.244:8005/play/a08d/index.m3u8
+
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-name="Teleislas" group-title="General" tvg-language="icr;spa" tvg-quality="720p",Teleislas
+http://190.61.47.54:8000/play/a015/index.m3u8
+
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-name="Teleislas" group-title="General" tvg-language="icr;spa" tvg-quality="486p",Teleislas
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+

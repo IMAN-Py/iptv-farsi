@@ -1,0 +1,260 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="4FunDance.pl" tvg-name="4 Fun Dance" group-title="Music" tvg-language="pol" tvg-quality="576i",4 Fun Dance
+http://92.114.85.87:8018/play/a00k/index.m3u8
+
+#EXTINF:-1 tvg-id="4FunKids.pl" tvg-name="4 Fun Kids" group-title="Kids" tvg-language="pol" tvg-quality="576i",4 Fun Kids
+https://stream.4fun.tv:8889/hd/kids_hd_high.m3u8
+
+#EXTINF:-1 tvg-id="4FunKids.pl" tvg-name="4 Fun Kids" group-title="Kids" tvg-language="pol" tvg-quality="576i",4 Fun Kids
+https://stream.4fun.tv:8889/hls/4fk.m3u8
+
+#EXTINF:-1 tvg-id="4FunTV.pl" tvg-name="4 Fun TV" group-title="Music" tvg-language="pol" tvg-quality="288p",4 Fun TV
+https://stream.4fun.tv:8888/hls/4f.m3u8
+
+#EXTINF:-1 tvg-id="4FunTV.pl" tvg-name="4 Fun TV" group-title="Music" tvg-language="pol" tvg-quality="576i",4 Fun TV
+https://stream.4fun.tv:8888/sd/4fun_sd_high.m3u8
+
+#EXTINF:-1 tvg-id="AntenaHD.pl" tvg-name="Antena HD" group-title="Entertainment" tvg-language="pol" tvg-quality="576i",Antena HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://92.114.85.87:8010/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-id="AXNBlack.pl" tvg-name="AXN Black" group-title="Series" tvg-language="pol" tvg-quality="576i",AXN Black
+http://92.114.85.87:8014/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" group-title="Movies" tvg-language="pol" tvg-quality="576p",AXN Black
+http://185.227.34.179:8080/axn-black/index.m3u8
+
+#EXTINF:-1 tvg-id="AXNSpin.hu" tvg-name="AXN Spin" group-title="Entertainment" tvg-language="hrv;pol;ron;srp" tvg-quality="576i",AXN Spin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
+
+#EXTINF:-1 tvg-id="AXNSpin.hu" tvg-name="AXN Spin" group-title="Entertainment" tvg-language="pol" tvg-quality="576i",AXN Spin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ritsatv.ru/
+https://polska.hach.workers.dev/14847.m3u8
+
+#EXTINF:-1 tvg-id="AXNWhite.pl" tvg-name="AXN White" group-title="Movies;Series" tvg-language="pol" tvg-quality="576i",AXN White
+http://92.114.85.87:8014/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" group-title="Entertainment" tvg-language="pol" tvg-quality="576p",AXN White
+http://185.227.34.179:8080/axn-white/index.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="480i",BabyFirst
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+
+#EXTINF:-1 tvg-id="Bigtime.pl" tvg-name="Bigtime" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",Bigtime
+https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CANALPlus360.pl" tvg-name="CANAL+ 360" group-title="Family" tvg-language="pol" tvg-quality="576i",CANAL+ 360
+http://92.114.85.87:8019/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlusDomo.pl" tvg-name="Canal+ Domo" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",Canal+ Domo
+http://92.114.85.87:8019/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlusKuchnia.pl" tvg-name="Canal+ Kuchnia" group-title="Cooking" tvg-language="pol" tvg-quality="576i",Canal+ Kuchnia
+http://92.114.85.87:8019/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlusNow.pl" tvg-name="Canal+ Now" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",Canal+ Now
+http://92.114.85.87:8006/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-id="CarCityAdventures.pl" tvg-name="Car City Adventures" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",Car City Adventures
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095
+
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Animation;Kids" tvg-language="pol" tvg-quality="576i",Cartoon Network CEE
+http://92.114.85.87:8007/play/a009
+
+#EXTINF:-1 tvg-id="CBeebies.pl" tvg-name="CBeebies" group-title="Kids" tvg-language="eng;pol" tvg-quality="576p",CBeebies
+http://92.114.85.87:8017/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-id="CBeebies.pl" tvg-name="CBeebies" group-title="Kids" tvg-language="eng;pol" tvg-quality="360p",CBeebies
+https://gist.githubusercontent.com/xykt-fix/e01ce187bbad74d0a0c5a86e0fc1b885/raw/eb00491161b819c2321733e929a27aeb2972b416/cbeeb-stream.m3u8
+
+#EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl" tvg-name="Crime + Investigation Polsat" group-title="Entertainment" tvg-language="pol" tvg-quality="576i",Crime + Investigation Polsat
+http://92.114.85.87:8015/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="Disney XD" group-title="Kids" tvg-language="pol" tvg-quality="576p",Disney XD
+http://185.227.34.179:8080/disney-xd/index.m3u8
+
+#EXTINF:-1 tvg-id="EskaRockTV.pl" tvg-name="Eska Rock TV" group-title="Music" tvg-language="pol" tvg-quality="576i",Eska Rock TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://91.228.35.249:8001/1:0:1:2909:1EDC:71:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="Eurosport3Polska.pl" tvg-name="Eurosport 3 Polska" group-title="Sports" tvg-language="pol" tvg-quality="576i",Eurosport 3 Polska
+#EXTVLCOPT:http-user-agent=Enigma2
+http://91.228.35.249:8001/1:0:1:3D:1964:13E:820000:0:0:0
+
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-name="FightBox" group-title="Sports" tvg-language="pol" tvg-quality="576i",FightBox
+http://92.114.85.87:8003/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusFestival.pl" tvg-name="FILMBOX+ Festival" group-title="Movies" tvg-language="pol" tvg-quality="576i",FILMBOX+ Festival
+http://92.114.85.87:8018/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusHits.pl" tvg-name="FILMBOX+ Hits" group-title="Movies" tvg-language="pol" tvg-quality="576i",FILMBOX+ Hits
+http://92.114.85.87:8008/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="FokusTV.pl" tvg-name="Fokus TV" group-title="General" tvg-language="pol" tvg-quality="576i",Fokus TV
+http://92.114.85.87:8018/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="Grjngo.pl" tvg-name="Grjngo" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",Grjngo
+https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HomeTV.pl" tvg-name="Home TV" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",Home TV
+http://92.114.85.87:8010/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-id="Moconomy.pl" tvg-name="Moconomy" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",Moconomy
+https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatGeoPeople.pl" tvg-name="Nat Geo People" group-title="Culture" tvg-language="pol" tvg-quality="576i",Nat Geo People
+http://92.114.85.87:8016/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.pl" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="pol" tvg-quality="576i",National Geographic Wild
+http://92.114.85.87:8010/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsmaxPolska.pl" tvg-name="Newsmax Polska" group-title="News" tvg-language="pol" tvg-quality="576i",Newsmax Polska
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://91.228.35.249:8001/1:0:1:1C8A:1CE8:71:820000:0:0:0
+
+#EXTINF:-1 tvg-id="NewsmaxPolska.pl" tvg-name="Newsmax Polska" group-title="News" tvg-language="pol" tvg-quality="576i",Newsmax Polska
+http://92.114.85.87:8014/play/a006/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.pl" tvg-name="Nick Jr." group-title="Kids" tvg-language="pol" tvg-quality="576i",Nick Jr.
+http://92.114.85.87:8013/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-name="Nickelodeon" group-title="Kids" tvg-language="pol;ukr" tvg-quality="576i",Nickelodeon
+http://92.114.85.87:8013/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-id="NutaGold.pl" tvg-name="Nuta Gold" group-title="Documentary;Lifestyle" tvg-language="pol" tvg-quality="576i",Nuta Gold
+http://92.114.85.87:8010/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-id="NutaTV.pl" tvg-name="Nuta TV" group-title="Music" tvg-language="pol" tvg-quality="576i",Nuta TV
+http://92.114.85.87:8010/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-id="Polonia1.pl" tvg-name="Polonia 1" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",Polonia 1
+http://92.114.85.87:8012/play/a006/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatJimJam.pl" tvg-name="Polsat JimJam" group-title="Kids" tvg-language="eng;pol" tvg-quality="576p",Polsat JimJam
+http://185.227.34.179:8080/jimjam/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatJimJam.pl" tvg-name="Polsat JimJam" group-title="Kids" tvg-language="eng;pol" tvg-quality="576i",Polsat JimJam
+http://92.114.85.87:8014/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatSport2.pl" tvg-name="Polsat Sport 2" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",Polsat Sport 2
+#EXTVLCOPT:http-referrer=Enigma2
+http://91.228.35.249:8001/1:0:1:C24:1E78:71:820000:0:0:0:
+
+#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="Polsat Sport Fight" group-title="Sports" tvg-language="pol" tvg-quality="576i",Polsat Sport Fight
+http://92.114.85.87:8016/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatViasatExplore.pl" tvg-name="Polsat Viasat Explore" group-title="Documentary" tvg-language="pol" tvg-quality="576i",Polsat Viasat Explore
+http://92.114.85.87:8014/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatViasatHistory.pl" tvg-name="Polsat Viasat History" group-title="Documentary" tvg-language="pol" tvg-quality="576i",Polsat Viasat History
+http://92.114.85.87:8015/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatViasatNature.pl" tvg-name="Polsat Viasat Nature" group-title="Documentary" tvg-language="pol" tvg-quality="576i",Polsat Viasat Nature
+http://92.114.85.87:8016/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-id="PowerTV.pl" tvg-name="Power TV" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",Power TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://92.114.85.87:8010/play/a00k/index.m3u8
+
+#EXTINF:-1 tvg-id="RomanceTV.pl" tvg-name="Romance TV" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",Romance TV
+http://92.114.85.87:8009/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="SferaTV.pl" tvg-name="Sfera TV" group-title="Uncategorized" tvg-language="pol" tvg-quality="480p",Sfera TV
+https://stream.sferatv.pl/sferatvlive/live.m3u8
+
+#EXTINF:-1 tvg-id="StopklatkaTV.pl" tvg-name="Stopklatka TV" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",Stopklatka TV
+http://92.114.85.87:8018/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-id="SundanceTV.pl" tvg-name="Sundance TV" group-title="Movies" tvg-language="pol" tvg-quality="576i",Sundance TV
+http://92.114.85.87:8003/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperPolsat.pl" tvg-name="Super Polsat" group-title="General" tvg-language="pol" tvg-quality="576i",Super Polsat
+http://92.114.85.87:8004/play/a00c/index.m3u8
+
+#EXTINF:-1 tvg-id="SzlagierTV.pl" tvg-name="Szlagier TV" group-title="General" tvg-language="pol" tvg-quality="576i",Szlagier TV
+http://92.114.85.87:8010/play/a00l/index.m3u8
+
+#EXTINF:-1 tvg-id="Tele5.pl" tvg-name="Tele5" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",Tele5
+http://92.114.85.87:8012/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-id="TelewizjaRegionalnaZary.pl" tvg-name="Telewizja Regionalna Zary" group-title="General" tvg-language="pol" tvg-quality="576i",Telewizja Regionalna Zary
+https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8
+
+#EXTINF:-1 tvg-id="TVKujawy.pl" tvg-name="TV Kujawy" group-title="Uncategorized" tvg-language="pol" tvg-quality="576p",TV Kujawy
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+
+#EXTINF:-1 tvg-id="TVOkazje.pl" tvg-name="TV Okazje" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",TV Okazje
+http://92.114.85.87:8014/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="TV Republika" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",TV Republika
+http://92.114.85.87:8018/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-id="TVC.pl" tvg-name="TVC" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",TVC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://92.114.85.87:8010/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-id="TVCSuper.pl" tvg-name="TVC Super" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",TVC Super
+http://92.114.85.87:8010/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-id="TVKStella.pl" tvg-name="TVK Stella" group-title="General;News" tvg-language="pol" tvg-quality="576p",TVK Stella
+https://stream.tvkstella.pl/stella/stella.m3u8
+
+#EXTINF:-1 tvg-id="TVP3Warszawa.pl" tvg-name="TVP 3 Warszawa" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",TVP 3 Warszawa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://92.114.85.87:8010/play/a006/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPABC.pl" tvg-name="TVP ABC" group-title="Kids" tvg-language="pol" tvg-quality="576i",TVP ABC
+http://92.114.85.87:8002/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPHistoria.pl" tvg-name="TVP Historia" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",TVP Historia
+http://92.114.85.87:8002/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPInfo.pl" tvg-name="TVP Info" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",TVP Info
+https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPPolonia.pl" tvg-name="TVP Polonia" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",TVP Polonia
+https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPRozrywka.pl" tvg-name="TVP Rozrywka" group-title="Uncategorized" tvg-language="pol" tvg-quality="576p",TVP Rozrywka
+http://185.227.34.179:8080/tvp-rozrywka/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPWilno.pl" tvg-name="TVP Wilno" group-title="News" tvg-language="pol" tvg-quality="576i",TVP Wilno
+http://78.62.9.23:55555/TVP%20Wilno%20HD
+
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-name="TVP1" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",TVP1
+http://92.114.85.87:8009/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-id="TVS.pl" tvg-name="TVS" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",TVS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://92.114.85.87:8010/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-id="TVTZgorzelec.pl" tvg-name="TVT Zgorzelec" group-title="Uncategorized" tvg-language="pol" tvg-quality="576p",TVT Zgorzelec
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+
+#EXTINF:-1 tvg-id="VOD205.pl" tvg-name="VOD 205" group-title="Uncategorized" tvg-language="pol" tvg-quality="576p",VOD 205
+http://91.228.35.249:8001/1:0:1:3F:1964:13E:820000:0:0:0
+
+#EXTINF:-1 tvg-id="VOD206.pl" tvg-name="VOD 206" group-title="Uncategorized" tvg-language="pol" tvg-quality="576p",VOD 206
+http://91.228.35.249:8001/1:0:1:40:1964:13E:820000:0:0:0
+
+#EXTINF:-1 tvg-id="VOD207.pl" tvg-name="VOD 207" group-title="Uncategorized" tvg-language="pol" tvg-quality="576p",VOD 207
+http://91.228.35.249:8001/1:0:1:41:1964:13E:820000:0:0:0
+
+#EXTINF:-1 tvg-id="VOD208.pl" tvg-name="VOD 208" group-title="Uncategorized" tvg-language="pol" tvg-quality="576p",VOD 208
+http://91.228.35.249:8001/1:0:1:42:1964:13E:820000:0:0:0
+
+#EXTINF:-1 tvg-id="wedotvAuta.pl" tvg-name="wedotv Auta" group-title="Auto" tvg-language="pol" tvg-quality="480p",wedotv Auta
+https://amg00735-amg00735c57-rakuten-de-10677.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedotvauta-rakutende/cb553d1e726c678e9cd43d67d3ef42a0df2416fc087a8d6933fb4b926bc10f41f4e2a581b212bb785d9914ce1c553f080132c0099c3a0bc6da73b6512d6c6021c9c3ed64d89d1b17b2c8797368e62c4119e10f11d93b53309dbb1858dd68ec2b005ebb0d6f577fdcec0fac6b5ac58402967a7c82fc8e68312f5e56cd543fa29a7c9b1f0f5d65e94693d1605aa34f1abbd31c9df63d81b2a13ebedf52bbc33eabe7b5c98c50d7acad5b3ef4ac466f6f236f8a816ed1b835750fce1b5bcd2552213354fcac85f74f76ee2d250ca9b29fe635ad50a6fd540358406cb1d865a44989e5902bf9691a80e7d6fa575336b4c1145626b2f6a19dc1d352d742d6adf3d47f7098b94136178925f92c2f2a9ff4cf54d5954ed69b2c87bd651863808353c1cce6daa1e0c40abb20c9ccfbd76c16172d5442a054b09f6bd4319229fc975d712e202ecabb5bc094d65734102dd7d6249b797c8cd5808dd01935b0163c5fe665cb52062ced3a686eea24fdda11638b2f06807751d65737894ef9f81cfda8d5e00c58e48e91a29ebd7f4ba5b486210eed8f29b009af85251fe39768f8/106/426x240_611520/index.m3u8
+
+#EXTINF:-1 tvg-id="WPTV.pl" tvg-name="WP TV" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",WP TV
+http://92.114.85.87:8002/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-id="Wydarzenia24.pl" tvg-name="Wydarzenia 24" group-title="News" tvg-language="pol" tvg-quality="576i",Wydarzenia 24
+http://92.114.85.87:8016/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-id="ZoomTV.pl" tvg-name="Zoom TV" group-title="Uncategorized" tvg-language="pol" tvg-quality="576i",Zoom TV
+http://92.114.85.87:8001/play/a00y/index.m3u8
+

@@ -1,0 +1,104 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BarrandovKrimi.cz" tvg-name="Barrandov Krimi" group-title="General" tvg-language="ces" tvg-quality="1080p",Barrandov Krimi
+https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNNPrimaNews.cz" tvg-name="CNN Prima News" group-title="News" tvg-language="ces" tvg-quality="1080p",CNN Prima News
+http://88.212.15.17/live/test_cnn_pirma_news/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CTDecko.cz" tvg-name="CT Decko" group-title="Kids" tvg-language="ces" tvg-quality="1080p",CT Decko
+http://88.212.15.17/live/ct_art_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CTSport.cz" tvg-name="CT Sport" group-title="Sports" tvg-language="ces" tvg-quality="720p",CT Sport
+http://88.212.15.17/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CT24.cz" tvg-name="CT24" group-title="News" tvg-language="ces" tvg-quality="1080p",CT24
+http://88.212.15.17/live/test_ct24_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" group-title="Legislative" tvg-language="bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mlt;nld;pol;por;ron;slk;slv;spa;swe;ukr" tvg-quality="1080p",EbS
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8
+
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+
+#EXTINF:-1 tvg-id="ElektrikaTV.cz" tvg-name="Elektrika TV" group-title="Uncategorized" tvg-language="ces" tvg-quality="1080p",Elektrika TV
+https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport4KCzechia.cz" tvg-name="Eurosport 4K Czechia" group-title="Sports" tvg-language="ces" tvg-quality="2160p",Eurosport 4K Czechia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/esp_4k_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JC1.cz" tvg-name="JC1" group-title="General" tvg-language="ces" tvg-quality="1080p",JC1
+https://stream.jc1.cz/hls/jc1.m3u8
+
+#EXTINF:-1 tvg-id="Jihoceskatelevize.cz" tvg-name="Jihoceska televize" group-title="General" tvg-language="ces" tvg-quality="1080p",Jihoceska televize
+https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
+
+#EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" group-title="Kids" tvg-language="ces;eng;heb;por;slk" tvg-quality="720p",JimJam Europe
+http://212.5.144.156:8080/jimjam/index.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
+https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="720p",Love Nature
+https://bamus-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="720p",Love Nature
+https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
+https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
+
+#EXTINF:-1 tvg-id="MnauTV.cz" tvg-name="Mnau TV" group-title="Uncategorized" tvg-language="ces" tvg-quality="1080p",Mnau TV
+https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlzenTV.cz" tvg-name="Plzen TV" group-title="General" tvg-language="ces" tvg-quality="1080p",Plzen TV
+https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
+
+#EXTINF:-1 tvg-id="PolarTV.cz" tvg-name="Polar TV" group-title="General" tvg-language="ces" tvg-quality="1080p",Polar TV
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Prima.cz" tvg-name="Prima" group-title="Uncategorized" tvg-language="ces" tvg-quality="1080p",Prima
+http://88.212.15.17/live/prima_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrimaShow.cz" tvg-name="Prima Show" group-title="Uncategorized" tvg-language="ces" tvg-quality="1080p",Prima Show
+http://88.212.15.17/live/test_prima_show_hevc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrimaStar.cz" tvg-name="Prima Star" group-title="Uncategorized" tvg-language="ces" tvg-quality="1080p",Prima Star
+http://88.212.15.17/live/test_prima_star_hevc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrimaZoom.cz" tvg-name="Prima Zoom" group-title="Uncategorized" tvg-language="ces" tvg-quality="1080p",Prima Zoom
+http://88.212.15.17/live/prima_zoom_avc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTMPlus.cz" tvg-name="RTM+" group-title="Uncategorized" tvg-language="ces" tvg-quality="720p",RTM+
+https://www.rtmplus.cz/live/1-playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelevizePrerov.cz" tvg-name="Televize Prerov" group-title="General" tvg-language="ces" tvg-quality="1080p",Televize Prerov
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 OPR/132.0.0.0
+#EXTVLCOPT:http-referrer=https://tvprerov.cz/
+https://173.212.247.21/live/tvprerov.m3u8
+
+#EXTINF:-1 tvg-id="TelevizeSeznam.cz" tvg-name="Televize Seznam" group-title="Uncategorized" tvg-language="ces" tvg-quality="1080p",Televize Seznam
+http://88.212.15.17/live/test_seznam_hevc_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" group-title="Outdoor" tvg-language="bul;ces;hun;ron" tvg-quality="1080i",The Fishing & Hunting Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/fishing_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="TVBrno1.cz" tvg-name="TV Brno 1" group-title="General" tvg-language="ces" tvg-quality="1080p",TV Brno 1
+https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVNoe.cz" tvg-name="TV Noe" group-title="Uncategorized" tvg-language="ces" tvg-quality="720p",TV Noe
+https://n105.quickmedia.tv/noetv/live/noetv/Ifd4_1_4/chunks_dvr_timeshift-0-7200.m3u8
+
+#EXTINF:-1 tvg-id="TVNoePlus.cz" tvg-name="TV Noe+" group-title="General" tvg-language="ces" tvg-quality="720p",TV Noe+
+https://n105.quickmedia.tv/noetvplus/live/noetvplus/Shz3_1_1/chunks_dvr_timeshift-0-7200.m3u8
+
+#EXTINF:-1 tvg-id="UTV.cz" tvg-name="UTV" group-title="Uncategorized" tvg-language="ces" tvg-quality="1080p",UTV
+https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
+
+#EXTINF:-1 tvg-id="VychodoceskaTV.cz" tvg-name="Vychodoceska TV" group-title="Uncategorized" tvg-language="ces" tvg-quality="1080p",Vychodoceska TV
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+

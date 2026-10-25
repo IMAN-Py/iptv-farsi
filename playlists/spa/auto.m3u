@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.us" tvg-name="Discovery Turbo Latin America" group-title="Auto" tvg-language="spa" tvg-quality="1080p",Discovery Turbo Latin America
+http://38.134.250.110:8000/play/a01y/index.m3u8
+
+#EXTINF:-1 tvg-id="FierroaFondoTV.us" tvg-name="Fierro a Fondo TV" group-title="Auto" tvg-language="spa" tvg-quality="1080p",Fierro a Fondo TV
+http://45.70.201.81:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-name="Garage TV Latin America" group-title="Auto" tvg-language="spa" tvg-quality="576i",Garage TV Latin America
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVMotor.de" tvg-name="Pluto TV Motor" group-title="Auto" tvg-language="spa" tvg-quality="720p",Pluto TV Motor
+https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
+

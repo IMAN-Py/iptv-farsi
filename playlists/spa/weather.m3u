@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WeatherSpy.mx" tvg-name="WeatherSpy" group-title="Weather" tvg-language="spa" tvg-quality="720p",WeatherSpy
+https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
+

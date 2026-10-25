@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BOXTV.bg" tvg-name="BOX TV" group-title="Music" tvg-language="bul" tvg-quality="576i",BOX TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0an
+
+#EXTINF:-1 tvg-id="CityTV.bg" tvg-name="City TV" group-title="Music" tvg-language="bul" tvg-quality="576p",City TV
+https://tv.city.bg/play/tshls/citytv/index.m3u8
+
+#EXTINF:-1 tvg-id="DSTV.bg" tvg-name="DSTV" group-title="Music" tvg-language="bul" tvg-quality="614p",DSTV
+http://46.249.95.140:8081/hls/data.m3u8
+
+#EXTINF:-1 tvg-id="HitMixMusic.bg" tvg-name="Hit Mix Music" group-title="Music" tvg-language="bul" tvg-quality="576i",Hit Mix Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0cl
+
+#EXTINF:-1 tvg-id="MagicTV.bg" tvg-name="Magic TV" group-title="Music" tvg-language="bul" tvg-quality="720p",Magic TV
+https://bss1.neterra.tv/magictv/magictv.m3u8
+
+#EXTINF:-1 tvg-id="TheVoice.bg" tvg-name="The Voice" group-title="Music" tvg-language="bul" tvg-quality="720p",The Voice
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
+
+#EXTINF:-1 tvg-id="TiankovFolk.bg" tvg-name="Tiankov Folk" group-title="Music" tvg-language="bul" tvg-quality="576p",Tiankov Folk
+https://streamer103.neterra.tv/tiankov-folk/live.m3u8
+
+#EXTINF:-1 tvg-id="TiankovOrientFolk.bg" tvg-name="Tiankov Orient Folk" group-title="Music" tvg-language="bul" tvg-quality="576p",Tiankov Orient Folk
+https://streamer103.neterra.tv/tiankov-orient/live.m3u8
+
+#EXTINF:-1 tvg-id="TVRodina.bg" tvg-name="TV Rodina" group-title="Music" tvg-language="bul" tvg-quality="1080p",TV Rodina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/RodinaTV/index.m3u8
+

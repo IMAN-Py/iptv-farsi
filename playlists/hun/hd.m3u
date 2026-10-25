@@ -1,0 +1,180 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlfoldTV.hu" tvg-name="Alfold TV" group-title="Entertainment" tvg-language="hun" tvg-quality="1080p",Alfold TV
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="720p",BabyFirst
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+
+#EXTINF:-1 tvg-id="BajaiTV.hu" tvg-name="Bajai TV" group-title="General" tvg-language="hun" tvg-quality="720p",Bajai TV
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BerenteTV.hu" tvg-name="Berente TV" group-title="General" tvg-language="hun" tvg-quality="1080p",Berente TV
+https://stream.streaming4u.hu/BerenteTV/index.m3u8
+
+#EXTINF:-1 tvg-id="CsurgoTV.hu" tvg-name="Csurgo TV" group-title="General" tvg-language="hun" tvg-quality="720p",Csurgo TV
+http://79.120.178.90:1935/csurgotv/csurgolive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CsurgoTV.hu" tvg-name="Csurgo TV" group-title="General" tvg-language="hun" tvg-quality="720p",Csurgo TV
+https://5cd03f21c7193.streamlock.net/csurgotv/csurgolive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CsurgoTV.hu" tvg-name="Csurgo TV" group-title="General" tvg-language="hun" tvg-quality="720p",Csurgo TV
+https://cstv.medialivecdn.hu/csurgotv/27725804dc13aa23b3970414524d2dbf.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DaruTV.hu" tvg-name="Daru TV" group-title="General" tvg-language="hun" tvg-quality="720p",Daru TV
+https://5cd03f21c7193.streamlock.net/darutv/darutvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DSTV.hu" tvg-name="DSTV" group-title="General" tvg-language="hun" tvg-quality="720p",DSTV
+http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DTV.hu" tvg-name="DTV" group-title="Uncategorized" tvg-language="hun" tvg-quality="720p",DTV
+http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
+
+#EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" group-title="Legislative" tvg-language="bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mlt;nld;pol;por;ron;slk;slv;spa;swe;ukr" tvg-quality="1080p",EbS
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8
+
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+
+#EXTINF:-1 tvg-id="EgykerTV.hu" tvg-name="Egyker TV" group-title="General" tvg-language="hun" tvg-quality="1080p",Egyker TV
+https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsHungarian.fr" tvg-name="Euronews Hungarian" group-title="News" tvg-language="hun" tvg-quality="720p",Euronews Hungarian
+https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl" tvg-name="FILMBOX+ Emotion" group-title="Movies" tvg-language="hun" tvg-quality="1080p",FILMBOX+ Emotion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FIXTV.hu" tvg-name="FIX TV" group-title="Uncategorized" tvg-language="hun" tvg-quality="720p",FIX TV
+https://fixhd.tv:8082/fix/1080i/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GloboTV.hu" tvg-name="Globo TV" group-title="General" tvg-language="hun" tvg-quality="720p",Globo TV
+https://stream.streaming4u.hu/GloboTV/index.m3u8
+
+#EXTINF:-1 tvg-id="GranTV.hu" tvg-name="Gran TV" group-title="Religious" tvg-language="hun" tvg-quality="720p",Gran TV
+https://stream.medialive.hu/gran/grantvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HangulatTV.hu" tvg-name="Hangulat TV" group-title="Lifestyle" tvg-language="hun" tvg-quality="720p",Hangulat TV
+https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8
+
+#EXTINF:-1 tvg-id="HeviziTV.hu" tvg-name="Hevizi TV" group-title="General" tvg-language="hun" tvg-quality="1080p",Hevizi TV
+https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IzauraTV.hu" tvg-name="Izaura TV" group-title="Entertainment" tvg-language="hun" tvg-quality="1080p",Izaura TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/izaura/index.m3u8
+
+#EXTINF:-1 tvg-id="KaposTV.hu" tvg-name="Kapos TV" group-title="General" tvg-language="hun" tvg-quality="1080p",Kapos TV
+https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KarcagTV.hu" tvg-name="Karcag TV" group-title="General" tvg-language="hun" tvg-quality="720p",Karcag TV
+https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KiskorosTV.hu" tvg-name="Kiskoros TV" group-title="General" tvg-language="hun" tvg-quality="720p",Kiskoros TV
+https://5cd03f21c7193.streamlock.net/kiskorostv/korostvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KomlosTV.hu" tvg-name="Komlos TV" group-title="General" tvg-language="hun" tvg-quality="1080p",Komlos TV
+https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
+https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="720p",Love Nature
+https://bamus-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="720p",Love Nature
+https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" group-title="Outdoor" tvg-language="bul;ces;eng;hun;rus;spa;tur;zho" tvg-quality="1080p",Love Nature
+https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
+
+#EXTINF:-1 tvg-id="M1.hu" tvg-name="M1" group-title="News" tvg-language="hun" tvg-quality="1080i",M1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_m_1_hungary_1200_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="M2.hu" tvg-name="M2" group-title="Entertainment" tvg-language="hun" tvg-quality="1080p",M2
+http://88.212.15.17/live/m2_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="M4Sport.hu" tvg-name="M4 Sport" group-title="Sports" tvg-language="hun" tvg-quality="1080p",M4 Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/uatlmvixrr/index.m3u8
+
+#EXTINF:-1 tvg-id="M5.hu" tvg-name="M5" group-title="Education" tvg-language="hun" tvg-quality="1080p",M5
+http://88.212.15.17/live/test_m_5_hun_atk_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Match4.hu" tvg-name="Match4" group-title="Sports" tvg-language="hun" tvg-quality="1080p",Match4
+http://141.94.193.53:80/Match4_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="MAX4.hu" tvg-name="MAX4" group-title="Movies" tvg-language="hun" tvg-quality="1080p",MAX4
+http://141.94.193.53:80/MAX4_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="OroszlanyiVarosiTelevizio.hu" tvg-name="Oroszlanyi Varosi Televizio" group-title="General" tvg-language="hun" tvg-quality="720p",Oroszlanyi Varosi Televizio
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OrszaggyulesOGYplenaris.hu" tvg-name="Orszaggyules: OGY plenaris" group-title="Legislative" tvg-language="hun" tvg-quality="720p",Orszaggyules: OGY plenaris
+http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OrszaggyulesOGYplenaris.hu" tvg-name="Orszaggyules: OGY plenaris" group-title="Legislative" tvg-language="hun" tvg-quality="720p",Orszaggyules: OGY plenaris
+https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OrszaggyulesOGYTAB.hu" tvg-name="Orszaggyules: OGY TAB" group-title="Legislative" tvg-language="hun" tvg-quality="720p",Orszaggyules: OGY TAB
+http://tab.parlament.hu:1935/edgelive/smil:mkogytab.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OrszaggyulesOGYTAB.hu" tvg-name="Orszaggyules: OGY TAB" group-title="Legislative" tvg-language="hun" tvg-quality="720p",Orszaggyules: OGY TAB
+https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OxygenMusic.hu" tvg-name="Oxygen Music" group-title="Music" tvg-language="hun" tvg-quality="1080p",Oxygen Music
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+
+#EXTINF:-1 tvg-id="OzdiVarosiTV.hu" tvg-name="Ozdi Varosi TV" group-title="General" tvg-language="hun" tvg-quality="720p",Ozdi Varosi TV
+http://stream.nmih.hu:7980/live.m3u8
+
+#EXTINF:-1 tvg-id="PilisTV.hu" tvg-name="PilisTV" group-title="General" tvg-language="hun" tvg-quality="1080p",PilisTV
+https://stream.streaming4u.hu/PilisTV/index.m3u8
+
+#EXTINF:-1 tvg-id="PVTV.hu" tvg-name="PVTV" group-title="General" tvg-language="hun" tvg-quality="720p",PVTV
+http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null
+
+#EXTINF:-1 tvg-id="RakosmenteTV.hu" tvg-name="Rakosmente TV" group-title="General" tvg-language="hun" tvg-quality="720p",Rakosmente TV
+http://rakosmentetv.hu:8080/hls/rmtv.m3u8
+
+#EXTINF:-1 tvg-id="RegioPluszTV.hu" tvg-name="RegioPlusz TV" group-title="General" tvg-language="hun" tvg-quality="1080p",RegioPlusz TV
+https://stream.streaming4u.hu/RegioPluszTV/index.m3u8
+
+#EXTINF:-1 tvg-id="SoltvadkertiTelevizio.hu" tvg-name="Soltvadkerti Televizio" group-title="General" tvg-language="hun" tvg-quality="720p",Soltvadkerti Televizio
+http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SzecsenyTV.hu" tvg-name="Szecseny TV" group-title="General" tvg-language="hun" tvg-quality="720p",Szecseny TV
+http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8
+
+#EXTINF:-1 tvg-id="SzolnokTV.hu" tvg-name="Szolnok TV" group-title="General" tvg-language="hun" tvg-quality="1080p",Szolnok TV
+https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TataiTV.hu" tvg-name="Tatai TV" group-title="General" tvg-language="hun" tvg-quality="1080p",Tatai TV
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" group-title="Outdoor" tvg-language="bul;ces;hun;ron" tvg-quality="1080i",The Fishing & Hunting Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/fishing_hun/index.m3u8
+
+#EXTINF:-1 tvg-id="TrimedioTV.hu" tvg-name="Trimedio TV" group-title="General" tvg-language="hun" tvg-quality="1080p",Trimedio TV
+https://stream.streaming4u.hu/TriMedioTV/index.m3u8
+
+#EXTINF:-1 tvg-id="TVBozsikeHamburgHD.de" tvg-name="TV Bozsike Hamburg HD" group-title="Music" tvg-language="deu;hun" tvg-quality="1080p",TV Bozsike Hamburg HD
+https://rtmp.radiobozsike.com/hls/stream1.m3u8
+
+#EXTINF:-1 tvg-id="TVBudakalasz.hu" tvg-name="TV Budakalasz" group-title="Uncategorized" tvg-language="hun" tvg-quality="1080p",TV Budakalasz
+https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TVEger.hu" tvg-name="TV Eger" group-title="Uncategorized" tvg-language="hun" tvg-quality="1080p",TV Eger
+http://stream.tveger.hu:8010/live.m3u8
+
+#EXTINF:-1 tvg-id="TVSzentendre.hu" tvg-name="TV Szentendre" group-title="General" tvg-language="hun" tvg-quality="1080p",TV Szentendre
+https://stream.streaming4u.hu/TVSzentendre/index.m3u8
+
+#EXTINF:-1 tvg-id="VTVFuzesabony.hu" tvg-name="VTV Fuzesabony" group-title="Uncategorized" tvg-language="hun" tvg-quality="720p",VTV Fuzesabony
+https://stream.nmih.hu:7962/live.m3u8
+

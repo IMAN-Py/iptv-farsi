@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EWTNUkraine.ua" tvg-name="EWTN Ukraine" group-title="Religious" tvg-language="ukr" tvg-quality="1080p",EWTN Ukraine
+https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Glas.ua" tvg-name="Glas" group-title="Religious" tvg-language="ukr" tvg-quality="576p",Glas
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelUkraine.ua" tvg-name="Hope Channel Ukraine" group-title="Religious" tvg-language="ukr" tvg-quality="576p",Hope Channel Ukraine
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelUkraine.ua" tvg-name="Hope Channel Ukraine" group-title="Religious" tvg-language="ukr" tvg-quality="576i",Hope Channel Ukraine
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.172/index.m3u8
+

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="cmn" tvg-quality="1080p",AXN Asia
+http://125.227.210.55:4050/VideoInput/play.ts
+

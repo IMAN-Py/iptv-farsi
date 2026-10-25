@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="312Kino.kg" tvg-name="312 Kino" group-title="Movies" tvg-language="kir;rus" tvg-quality="406p",312 Kino
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+

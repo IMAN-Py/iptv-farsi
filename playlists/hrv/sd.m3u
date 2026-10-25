@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AXNSpin.hu" tvg-name="AXN Spin" group-title="Entertainment" tvg-language="hrv;pol;ron;srp" tvg-quality="576i",AXN Spin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
+
+#EXTINF:-1 tvg-id="BravoKidsTV.hr" tvg-name="Bravo! Kids TV" group-title="Kids" tvg-language="hrv" tvg-quality="576i",Bravo! Kids TV
+https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
+
+#EXTINF:-1 tvg-id="DiadoraTV.hr" tvg-name="Diadora TV" group-title="General" tvg-language="hrv" tvg-quality="576i",Diadora TV
+https://diadoratv.stream/live/diadora/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Klasik.hr" tvg-name="Klasik" group-title="Movies" tvg-language="hrv" tvg-quality="576p",Klasik
+https://178.253.194.105/klasiktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.hr" tvg-name="Nick Jr." group-title="Kids" tvg-language="hrv" tvg-quality="540p",Nick Jr.
+http://176.61.157.250/NickJr/index.m3u8
+
+#EXTINF:-1 tvg-id="RTVHB.ba" tvg-name="RTV HB" group-title="General" tvg-language="hrv" tvg-quality="576p",RTV HB
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrendTV.hr" tvg-name="Trend TV" group-title="General" tvg-language="hrv" tvg-quality="480p",Trend TV
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+

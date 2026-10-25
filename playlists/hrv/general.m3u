@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DiadoraTV.hr" tvg-name="Diadora TV" group-title="General" tvg-language="hrv" tvg-quality="576i",Diadora TV
+https://diadoratv.stream/live/diadora/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HRT1.hr" tvg-name="HRT 1" group-title="General" tvg-language="hrv" tvg-quality="1080p",HRT 1
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
+
+#EXTINF:-1 tvg-id="HRT1.hr" tvg-name="HRT 1" group-title="General" tvg-language="hrv" tvg-quality="720p",HRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt1.m3u8
+
+#EXTINF:-1 tvg-id="HRT2.hr" tvg-name="HRT 2" group-title="General" tvg-language="hrv" tvg-quality="1080p",HRT 2
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
+
+#EXTINF:-1 tvg-id="HRT2.hr" tvg-name="HRT 2" group-title="General" tvg-language="hrv" tvg-quality="720p",HRT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt2.m3u8
+
+#EXTINF:-1 tvg-id="LibertasTV.hr" tvg-name="Libertas TV" group-title="General" tvg-language="hrv" tvg-quality="1080p",Libertas TV
+https://stream.luci.xyz/hls/LTV.m3u8
+
+#EXTINF:-1 tvg-id="NovaTV.hr" tvg-name="Nova TV" group-title="General" tvg-language="hrv" tvg-quality="1080p",Nova TV
+http://176.61.157.250/NovaTV/index.m3u8
+
+#EXTINF:-1 tvg-id="RTVHB.ba" tvg-name="RTV HB" group-title="General" tvg-language="hrv" tvg-quality="576p",RTV HB
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBTV.hr" tvg-name="SBTV" group-title="General" tvg-language="hrv" tvg-quality="1080p",SBTV
+https://live.leveex.hr/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="STV.hr" tvg-name="STV" group-title="General" tvg-language="hrv" tvg-quality="720p",STV
+http://89.201.163.244:8080/hls/hdmi.m3u8
+
+#EXTINF:-1 tvg-id="TrendTV.hr" tvg-name="Trend TV" group-title="General" tvg-language="hrv" tvg-quality="480p",Trend TV
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVZapad.hr" tvg-name="TV Zapad" group-title="General" tvg-language="hrv" tvg-quality="1080p",TV Zapad
+http://85.94.67.158/TVZAPAD/index.fmp4.m3u8
+

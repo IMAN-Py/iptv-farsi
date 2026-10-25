@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="STARChannel.fi" tvg-name="STAR Channel" group-title="Uncategorized" tvg-language="fin" tvg-quality="576i",STAR Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv
+

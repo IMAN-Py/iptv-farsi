@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DiscoveryScience.in" tvg-name="Discovery Science" group-title="Science" tvg-language="eng;hin" tvg-quality="720p",Discovery Science
+https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-name="InWonder" group-title="Science" tvg-language="eng" tvg-quality="1080p",InWonder
+https://amg00861-amg00861c14-rlaxx-uk-3954.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-name="InWonder" group-title="Science" tvg-language="eng" tvg-quality="1080p",InWonder
+https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-name="InWonder" group-title="Science" tvg-language="eng" tvg-quality="1080p",InWonder
+https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-name="InWonder" group-title="Science" tvg-language="eng" tvg-quality="1080p",InWonder
+https://amg00861-terncloud-amg00861c4-cineverse-us-962.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderushd-cineverseus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-name="InWonder" group-title="Science" tvg-language="eng" tvg-quality="1080p",InWonder
+https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-name="InWonder" group-title="Science" tvg-language="eng" tvg-quality="1080p",InWonder
+https://amg00861-terninternation-inwonderushd-samsungus-gqtpa.amagi.tv/playlist/amg00861-terninternation-inwonderushd-samsungus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InWonder.nl" tvg-name="InWonder" group-title="Science" tvg-language="eng" tvg-quality="720p",InWonder
+https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MediBizTV.in" tvg-name="MediBizTV" group-title="Education;News;Science" tvg-language="eng" tvg-quality="720p",MediBizTV
+https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVScience.us" tvg-name="Pluto TV Science" group-title="Documentary;Science" tvg-language="eng" tvg-quality="480i",Pluto TV Science
+https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
+
+#EXTINF:-1 tvg-id="SmithsonianChannelSelects.us" tvg-name="Smithsonian Channel Selects" group-title="Science" tvg-language="eng" tvg-quality="480i",Smithsonian Channel Selects
+https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
+
+#EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder" group-title="Science" tvg-language="eng" tvg-quality="720p",Wonder
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder" group-title="Science" tvg-language="eng" tvg-quality="1080p",Wonder
+https://lds-wonder-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder" group-title="Science" tvg-language="eng" tvg-quality="1080p",Wonder
+https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder" group-title="Science" tvg-language="eng" tvg-quality="720p",Wonder
+https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder" group-title="Science" tvg-language="eng" tvg-quality="720p",Wonder
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+

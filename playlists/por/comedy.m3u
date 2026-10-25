@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ComedyCentralBrasil.br" tvg-name="Comedy Central Brasil" group-title="Comedy" tvg-language="por" tvg-quality="480p",Comedy Central Brasil
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us" tvg-name="Comedy Central Pluto TV" group-title="Comedy" tvg-language="por" tvg-quality="720p",Comedy Central Pluto TV
+https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentralSouthPark.us" tvg-name="Comedy Central South Park" group-title="Animation;Comedy" tvg-language="por" tvg-quality="720p",Comedy Central South Park
+https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
+
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-name="FailArmy" group-title="Comedy" tvg-language="por" tvg-quality="480i",FailArmy
+https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
+
+#EXTINF:-1 tvg-id="ForaTedioTV.br" tvg-name="Fora Tedio TV" group-title="Comedy" tvg-language="por" tvg-quality="720p",Fora Tedio TV
+#EXTVLCOPT:http-referrer=https://www.foratedio.com
+https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSeriesComedia.us" tvg-name="Pluto TV Series Comedia" group-title="Comedy;Series" tvg-language="por" tvg-quality="720p",Pluto TV Series Comedia
+https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkColecaoCartman.us" tvg-name="South Park: Colecao Cartman" group-title="Animation;Comedy" tvg-language="por" tvg-quality="720p",South Park: Colecao Cartman
+https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkColecaoKenny.us" tvg-name="South Park: Colecao Kenny" group-title="Animation;Comedy" tvg-language="por" tvg-quality="720p",South Park: Colecao Kenny
+https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkColecaoKyle.us" tvg-name="South Park: Colecao Kyle" group-title="Animation;Comedy" tvg-language="por" tvg-quality="720p",South Park: Colecao Kyle
+https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
+
+#EXTINF:-1 tvg-id="SouthParkColecaoStan.us" tvg-name="South Park: Colecao Stan" group-title="Animation;Comedy" tvg-language="por" tvg-quality="720p",South Park: Colecao Stan
+https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
+
+#EXTINF:-1 tvg-id="StarComedy.pt" tvg-name="Star Comedy" group-title="Comedy" tvg-language="por" tvg-quality="576i",Star Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://znty.dyndns.org:5010/hls/foxcomedy.m3u8
+
+#EXTINF:-1 tvg-id="TVMaticComedy.br" tvg-name="TVMatic Comedy" group-title="Comedy" tvg-language="por" tvg-quality="720p",TVMatic Comedy
+http://cdn.tvmatic.net/comedy.m3u8
+

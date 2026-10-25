@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BravoKidsTV.hr" tvg-name="Bravo! Kids TV" group-title="Kids" tvg-language="hrv" tvg-quality="576i",Bravo! Kids TV
+https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.hr" tvg-name="Nick Jr." group-title="Kids" tvg-language="hrv" tvg-quality="540p",Nick Jr.
+http://176.61.157.250/NickJr/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.hr" tvg-name="Nickelodeon" group-title="Kids" tvg-language="hrv" tvg-quality="1080p",Nickelodeon
+http://176.61.157.250/Nickelodeon/index.m3u8
+

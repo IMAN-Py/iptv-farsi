@@ -1,0 +1,609 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde" group-title="General" tvg-language="ara;fra" tvg-quality="360p",2M Monde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+#EXTVLCOPT:http-referrer=http://www.radio2m.ma/
+https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+
+#EXTINF:-1 tvg-id="3ABNFrench.us" tvg-name="3ABN French" group-title="Religious" tvg-language="fra" tvg-quality="480i",3ABN French
+https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="7Info.ci" tvg-name="7 Info" group-title="News" tvg-language="fra" tvg-quality="576i",7 Info
+https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A12TV.ci" tvg-name="A12 TV" group-title="General" tvg-language="fra" tvg-quality="576i",A12 TV
+https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8
+
+#EXTINF:-1 tvg-id="ACTV.tg" tvg-name="AC TV" group-title="Religious" tvg-language="fra" tvg-quality="480p",AC TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/actvstream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ACTV.be" tvg-name="ACTV" group-title="General" tvg-language="fra" tvg-quality="504p",ACTV
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8
+
+#EXTINF:-1 tvg-id="ACTV.be" tvg-name="ACTV" group-title="General" tvg-language="fra" tvg-quality="576i",ACTV
+https://tvlocales-live.freecaster.com/live/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f/95d2f733-1bc2-4bd5-9b96-c53ed3fc450f.isml/master.m3u8
+
+#EXTINF:-1 tvg-id="AfrikInfoTV.gn" tvg-name="Afrik Info TV" group-title="News" tvg-language="fra" tvg-quality="576i",Afrik Info TV
+https://kali.vdopanel.com:3119/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="AfroMagicChannel.ci" tvg-name="Afro Magic Channel" group-title="Culture" tvg-language="fra" tvg-quality="576i",Afro Magic Channel
+https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AfroMagicChannel.ci" tvg-name="Afro Magic Channel" group-title="Culture" tvg-language="fra" tvg-quality="576i",Afro Magic Channel
+https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AfrocultureTV.ci" tvg-name="Afroculture TV" group-title="Culture" tvg-language="fra" tvg-quality="576i",Afroculture TV
+https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8
+
+#EXTINF:-1 tvg-id="AL24News.dz" tvg-name="AL24 News" group-title="News" tvg-language="ara;eng;fra" tvg-quality="576i",AL24 News
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AlerteaMalibu.us" tvg-name="Alerte a Malibu" group-title="Series" tvg-language="fra" tvg-quality="576i",Alerte a Malibu
+https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
+
+#EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-name="Amou Yazid TV" group-title="Kids" tvg-language="ara;fra" tvg-quality="576p",Amou Yazid TV
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntenneA.cd" tvg-name="Antenne A" group-title="General" tvg-language="fra;lin" tvg-quality="576i",Antenne A
+http://51.254.199.122:8080/antenne_a-plus/index.m3u8
+
+#EXTINF:-1 tvg-id="ATV.gn" tvg-name="ATV" group-title="General" tvg-language="fra" tvg-quality="400p",ATV
+https://guineetvdirect.online:3320/live/atvguineelive.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="480i",BabyFirst
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+
+#EXTINF:-1 tvg-id="BalafonTV.cm" tvg-name="Balafon TV" group-title="News" tvg-language="fra" tvg-quality="576i",Balafon TV
+https://broadcasting-channels.com:9044/hls/test.m3u8
+
+#EXTINF:-1 tvg-id="BAMTV.be" tvg-name="BAM-TV" group-title="Culture" tvg-language="fra" tvg-quality="576i",BAM-TV
+https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8
+
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business" group-title="Business;News" tvg-language="fra" tvg-quality="576p",BFM Business
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-name="BFM Lyon" group-title="News" tvg-language="fra" tvg-quality="576p",BFM Lyon
+https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" group-title="News" tvg-language="fra" tvg-quality="576p",BFM TV
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1 tvg-id="Bouke.be" tvg-name="Bouke" group-title="Uncategorized" tvg-language="fra" tvg-quality="504p",Bouke
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8
+
+#EXTINF:-1 tvg-id="Bouke.be" tvg-name="Bouke" group-title="Uncategorized" tvg-language="fra" tvg-quality="576i",Bouke
+https://tvlocales-live.freecaster.com/live/95d2f70d-9229-478b-9aed-bc4fa220316d/95d2f70d-9229-478b-9aed-bc4fa220316d.isml/master.m3u8
+
+#EXTINF:-1 tvg-id="BPXTVRadio.us" tvg-name="BPX TV Radio" group-title="Music" tvg-language="fra;hat" tvg-quality="480i",BPX TV Radio
+https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BX1.be" tvg-name="BX1" group-title="Uncategorized" tvg-language="fra" tvg-quality="504p",BX1
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8
+
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="C Star" group-title="Entertainment" tvg-language="fra" tvg-quality="477p",C Star
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
+
+#EXTINF:-1 tvg-id="Caillou.fr" tvg-name="Caillou" group-title="Uncategorized" tvg-language="fra" tvg-quality="576i",Caillou
+https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
+
+#EXTINF:-1 tvg-id="Canaf54TV.uk" tvg-name="Canaf54 TV" group-title="General" tvg-language="eng;fra" tvg-quality="576i",Canaf54 TV
+https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal3.bf" tvg-name="Canal 3" group-title="General" tvg-language="fra" tvg-quality="576i",Canal 3
+https://cs2.push2stream.com/CANAL3BENIN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalZoom.be" tvg-name="Canal Zoom" group-title="General" tvg-language="fra" tvg-quality="576i",Canal Zoom
+https://tvlocales-live.freecaster.com/live/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5/95d2e3af-5ab8-45a9-9dc9-f544d006b5d5.isml/master.m3u8
+
+#EXTINF:-1 tvg-id="Carac5.ch" tvg-name="Carac 5" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",Carac 5
+https://lfmmd.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
+
+#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" group-title="News" tvg-language="fra" tvg-quality="576i",CGTN French
+https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" group-title="News" tvg-language="fra" tvg-quality="576i",CGTN French
+https://h5cul1yar48um3t.wcetv.com/hls/cgtnf.m3u8
+
+#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" group-title="News" tvg-language="fra" tvg-quality="576p",CGTN French
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+
+#EXTINF:-1 tvg-id="ChabibaTV.sn" tvg-name="Chabiba TV" group-title="Religious" tvg-language="fra" tvg-quality="360p",Chabiba TV
+https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8
+
+#EXTINF:-1 tvg-id="ChampionTV.ci" tvg-name="Champion TV" group-title="Business" tvg-language="fra" tvg-quality="576i",Champion TV
+https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8
+
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="Cine+ Classic" group-title="Movies" tvg-language="fra" tvg-quality="576i",Cine+ Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147/CineClassic/index.m3u8
+
+#EXTINF:-1 tvg-id="ClubbingTV.us" tvg-name="Clubbing TV" group-title="Music" tvg-language="eng;fra" tvg-quality="576i",Clubbing TV
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+
+#EXTINF:-1 tvg-id="CNA.dz" tvg-name="CNA" group-title="Religious" tvg-language="ara;fra" tvg-quality="360p",CNA
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNA.dz" tvg-name="CNA" group-title="Religious" tvg-language="ara;fra" tvg-quality="360p",CNA
+https://live.creacast.com/cna/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CRTV.cm" tvg-name="CRTV" group-title="General" tvg-language="eng;fra" tvg-quality="576i",CRTV
+https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CRTVNews.cm" tvg-name="CRTV News" group-title="News" tvg-language="fra" tvg-quality="576i",CRTV News
+https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CRTVSportsandEntertainment.cm" tvg-name="CRTV Sports and Entertainment" group-title="Sports" tvg-language="fra" tvg-quality="360p",CRTV Sports and Entertainment
+#EXTVLCOPT:http-referrer=https://crtv.cm/live/crtv-sport
+https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="D3TV.ml" tvg-name="D3 TV" group-title="Entertainment" tvg-language="fra" tvg-quality="480p",D3 TV
+https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Diaspora24.sn" tvg-name="Diaspora 24" group-title="Uncategorized" tvg-language="fra" tvg-quality="576i",Diaspora 24
+https://vdo3.pro-fhi.net:3218/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="DigitalCongoTV.cd" tvg-name="Digital Congo TV" group-title="General" tvg-language="fra;kon;lin;lua;swa" tvg-quality="576i",Digital Congo TV
+http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJr.fr" tvg-name="Disney Jr." group-title="Kids" tvg-language="fra" tvg-quality="576p",Disney Jr.
+http://41.205.64.66/DISNEY-JUNIOR/index.m3u8
+
+#EXTINF:-1 tvg-id="DossiersFBI.us" tvg-name="Dossiers FBI" group-title="Documentary" tvg-language="fra" tvg-quality="576i",Dossiers FBI
+https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
+
+#EXTINF:-1 tvg-id="DouniaTV.ne" tvg-name="Dounia TV" group-title="General" tvg-language="fra;hau" tvg-quality="576i",Dounia TV
+https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8
+
+#EXTINF:-1 tvg-id="DRTVInternational.cg" tvg-name="DRTV International" group-title="General" tvg-language="fra" tvg-quality="576i",DRTV International
+https://vps122407.serveur-vps.net/hls/drtv.m3u8
+
+#EXTINF:-1 tvg-id="DynamicGospelTV.tg" tvg-name="Dynamic Gospel TV" group-title="Religious" tvg-language="fra" tvg-quality="480p",Dynamic Gospel TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdynamicstream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EcclesiaTV.ci" tvg-name="Ecclesia TV" group-title="Religious" tvg-language="fra" tvg-quality="576i",Ecclesia TV
+https://video1.getstreamhosting.com:1936/8294/8294/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EdenTV.bj" tvg-name="Eden TV" group-title="General" tvg-language="ayb;fon;fra" tvg-quality="540p",Eden TV
+https://rtmp.edentv.bj/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Esaie45Tele.cg" tvg-name="Esaie 45 Tele" group-title="Religious" tvg-language="fra" tvg-quality="576i",Esaie 45 Tele
+https://stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8
+
+#EXTINF:-1 tvg-id="EvasionTV.gn" tvg-name="Evasion TV" group-title="General" tvg-language="fra" tvg-quality="576i",Evasion TV
+https://kali.vdopanel.com:3788/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="ExploitsTV.ci" tvg-name="Exploits TV" group-title="Religious" tvg-language="fra" tvg-quality="576i",Exploits TV
+https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8
+
+#EXTINF:-1 tvg-id="ForYouTV.cm" tvg-name="For You TV" group-title="News" tvg-language="eng;fra" tvg-quality="576i",For You TV
+https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
+
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" group-title="General" tvg-language="fra" tvg-quality="576i",France 2
+http://149.62.177.107:9999/France_2/index.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="fra" tvg-quality="576i",France 24
+https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="fra" tvg-quality="360p",France 24
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="fra" tvg-quality="576p",France 24
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="fra" tvg-quality="360p",France 24
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="fra" tvg-quality="576p",France 24
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" group-title="General" tvg-language="fra" tvg-quality="576i",France 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.144:5000
+
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" group-title="General" tvg-language="fra" tvg-quality="576i",France 3
+http://89.187.185.76:8080/France3/index.m3u8
+
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" group-title="Kids" tvg-language="fra" tvg-quality="576i",France 4
+http://149.62.177.107:9999/France_4/index.m3u8
+
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" group-title="General" tvg-language="fra" tvg-quality="576i",France 5
+http://149.62.177.107:9999/France_5/index.m3u8
+
+#EXTINF:-1 tvg-id="FunVision.be" tvg-name="Fun Vision" group-title="Music" tvg-language="fra" tvg-quality="576i",Fun Vision
+https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
+
+#EXTINF:-1 tvg-id="GenerationsTV.fr" tvg-name="Generations TV" group-title="Uncategorized" tvg-language="fra" tvg-quality="576p",Generations TV
+https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+
+#EXTINF:-1 tvg-id="GMSTV.sn" tvg-name="GMS TV" group-title="General" tvg-language="fra" tvg-quality="576i",GMS TV
+https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GTV.gh" tvg-name="GTV" group-title="General" tvg-language="eng;fra" tvg-quality="540p",GTV
+#EXTVLCOPT:http-referrer=https://liveghanatv.com/
+https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" group-title="Kids" tvg-language="fra" tvg-quality="576i",Gulli
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147:8080/Gulli/index.m3u8
+
+#EXTINF:-1 tvg-id="HANDICAPTV.fr" tvg-name="HANDICAP TV" group-title="Lifestyle" tvg-language="fra" tvg-quality="576i",HANDICAP TV
+https://srv.webtvmanager.fr:3697/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="HC2TV.bj" tvg-name="HC2 TV" group-title="News" tvg-language="fra" tvg-quality="576i",HC2 TV
+https://stream.hc2tv.bj/2/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="Heleneetlesgarcons.us" tvg-name="Helene et les garcons" group-title="Series" tvg-language="fra" tvg-quality="576i",Helene et les garcons
+https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8
+
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-name="Ici Radio-Canada Tele" group-title="Uncategorized" tvg-language="fra" tvg-quality="480i",Ici Radio-Canada Tele
+https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8
+
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-name="Ici Radio-Canada Tele" group-title="Uncategorized" tvg-language="fra" tvg-quality="480i",Ici Radio-Canada Tele
+https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
+
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-name="Ici Radio-Canada Tele" group-title="Uncategorized" tvg-language="fra" tvg-quality="480i",Ici Radio-Canada Tele
+https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
+
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-name="Ici Radio-Canada Tele" group-title="Uncategorized" tvg-language="fra" tvg-quality="480i",Ici Radio-Canada Tele
+https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
+
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-name="Ici Radio-Canada Tele" group-title="Uncategorized" tvg-language="fra" tvg-quality="480i",Ici Radio-Canada Tele
+https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
+
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-name="Ici Radio-Canada Tele" group-title="Uncategorized" tvg-language="fra" tvg-quality="480i",Ici Radio-Canada Tele
+https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8
+
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-name="Ici Radio-Canada Tele" group-title="Uncategorized" tvg-language="fra" tvg-quality="480i",Ici Radio-Canada Tele
+https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
+
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-name="Ici Radio-Canada Tele" group-title="Uncategorized" tvg-language="fra" tvg-quality="480i",Ici Radio-Canada Tele
+https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
+
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-name="Ici Radio-Canada Tele" group-title="Uncategorized" tvg-language="fra" tvg-quality="480i",Ici Radio-Canada Tele
+https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8
+
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-name="Ici Radio-Canada Tele" group-title="Uncategorized" tvg-language="fra" tvg-quality="480i",Ici Radio-Canada Tele
+https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
+
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-name="Ici Radio-Canada Tele" group-title="Uncategorized" tvg-language="fra" tvg-quality="480i",Ici Radio-Canada Tele
+https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
+
+#EXTINF:-1 tvg-id="ICONETV.bj" tvg-name="ICONE TV" group-title="News" tvg-language="fra" tvg-quality="576i",ICONE TV
+https://lecteur.iconetv.bj/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="IdentiteTeleCaraibes.mq" tvg-name="Identite Tele Caraibes" group-title="Music" tvg-language="fra" tvg-quality="548p",Identite Tele Caraibes
+https://vdo2.pro-fhi.net:3769/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="ImpactTV.bf" tvg-name="Impact TV" group-title="Religious" tvg-language="fra" tvg-quality="576i",Impact TV
+https://edge11.vedge.infomaniak.com/livecast/ik:impacttv-2/manifest.m3u8
+
+#EXTINF:-1 tvg-id="InazumaEleven.us" tvg-name="Inazuma Eleven" group-title="Kids;Series" tvg-language="fra" tvg-quality="576i",Inazuma Eleven
+https://jmp2.uk/plu-611e75226b7f420007c3f319.m3u8
+
+#EXTINF:-1 tvg-id="InazumaEleven.us" tvg-name="Inazuma Eleven" group-title="Kids;Series" tvg-language="fra" tvg-quality="576i",Inazuma Eleven
+https://jmp2.uk/plu-612375086abc84000738fc03.m3u8
+
+#EXTINF:-1 tvg-id="InazumaEleven.us" tvg-name="Inazuma Eleven" group-title="Kids;Series" tvg-language="fra" tvg-quality="576i",Inazuma Eleven
+https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
+
+#EXTINF:-1 tvg-id="InstantSaga.us" tvg-name="Instant Saga" group-title="Series" tvg-language="fra" tvg-quality="480i",Instant Saga
+https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8
+
+#EXTINF:-1 tvg-id="KemetTV.cm" tvg-name="Kemet TV" group-title="Culture" tvg-language="fra" tvg-quality="576i",Kemet TV
+https://kemettv.cm/memfs/4e7fb105-9f92-4e8d-a7cd-09923f17a577.m3u8
+
+#EXTINF:-1 tvg-id="KemetTV.cm" tvg-name="Kemet TV" group-title="Culture" tvg-language="fra" tvg-quality="576i",Kemet TV
+https://kemettv.cm/memfs/b6d60ea7-18b4-4afb-b84f-bd082ed7f74f.m3u8
+
+#EXTINF:-1 tvg-id="Kin24.cd" tvg-name="Kin24" group-title="News" tvg-language="fra" tvg-quality="576i",Kin24
+http://51.254.199.122:8080/kin24/index.m3u8
+
+#EXTINF:-1 tvg-id="KTO.fr" tvg-name="KTO" group-title="Religious" tvg-language="fra" tvg-quality="404p",KTO
+https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+
+#EXTINF:-1 tvg-id="LCN.ca" tvg-name="LCN" group-title="News" tvg-language="fra" tvg-quality="480i",LCN
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
+
+#EXTINF:-1 tvg-id="LCP.fr" tvg-name="LCP" group-title="Legislative" tvg-language="fra" tvg-quality="477p",LCP
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
+
+#EXTINF:-1 tvg-id="Lemiracledelamour.us" tvg-name="Le miracle de l'amour" group-title="Series" tvg-language="fra" tvg-quality="576i",Le miracle de l'amour
+https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8
+
+#EXTINF:-1 tvg-id="LeMondeen24h.cd" tvg-name="Le Monde en 24h" group-title="News" tvg-language="eng;fra;spa" tvg-quality="576i",Le Monde en 24h
+https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
+
+#EXTINF:-1 tvg-id="LeNouveauManagerTV.bj" tvg-name="Le Nouveau Manager TV" group-title="Business" tvg-language="fra" tvg-quality="576i",Le Nouveau Manager TV
+https://lnmlive.com/live/lnmtv.m3u8
+
+#EXTINF:-1 tvg-id="LegislativeAssemblyofOntario.ca" tvg-name="Legislative Assembly of Ontario" group-title="Legislative" tvg-language="eng;fra" tvg-quality="480i",Legislative Assembly of Ontario
+https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LegislativeAssemblyofOntario.ca" tvg-name="Legislative Assembly of Ontario" group-title="Legislative" tvg-language="eng;fra" tvg-quality="480i",Legislative Assembly of Ontario
+https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LesAnneesfac.us" tvg-name="Les Annees fac" group-title="Series" tvg-language="fra" tvg-quality="576i",Les Annees fac
+https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8
+
+#EXTINF:-1 tvg-id="Lesfillesdacote.us" tvg-name="Les filles d'a cote" group-title="Series" tvg-language="fra" tvg-quality="576i",Les filles d'a cote
+https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8
+
+#EXTINF:-1 tvg-id="LesNouveauxDetectives.us" tvg-name="Les Nouveaux Detectives" group-title="Series" tvg-language="fra" tvg-quality="576i",Les Nouveaux Detectives
+https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8
+
+#EXTINF:-1 tvg-id="LollywoodHDTV.cd" tvg-name="Lollywood HD TV" group-title="Movies" tvg-language="fra" tvg-quality="576i",Lollywood HD TV
+https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8
+
+#EXTINF:-1 tvg-id="LougaTV.sn" tvg-name="Louga TV" group-title="General" tvg-language="fra" tvg-quality="480p",Louga TV
+https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LouisLaBrocante.us" tvg-name="Louis La Brocante" group-title="Series" tvg-language="fra" tvg-quality="576i",Louis La Brocante
+https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
+
+#EXTINF:-1 tvg-id="M6Music.fr" tvg-name="M6 Music" group-title="Music" tvg-language="fra" tvg-quality="576i",M6 Music
+https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
+
+#EXTINF:-1 tvg-id="MCMPop.fr" tvg-name="MCM Pop" group-title="Music" tvg-language="fra" tvg-quality="580p",MCM Pop
+http://188.115.15.121:8000/play/a014
+
+#EXTINF:-1 tvg-id="MCMTop.ru" tvg-name="MCM Top" group-title="Music" tvg-language="fra" tvg-quality="576p",MCM Top
+http://46.32.176.50/mcmtop/index.m3u8
+
+#EXTINF:-1 tvg-id="MikubaTV.cd" tvg-name="Mikuba TV" group-title="General" tvg-language="fra;swa" tvg-quality="480p",Mikuba TV
+http://51.254.199.122:8080/MIKUBATV/index.m3u8
+
+#EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-name="Montreal Greek TV" group-title="Culture" tvg-language="ell;eng;fra" tvg-quality="480p",Montreal Greek TV
+http://live.greektv.ca/hls1/greektv.m3u8
+
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147:8080/MTV/index.m3u8
+
+#EXTINF:-1 tvg-id="MuseumTVFrench.fr" tvg-name="Museum TV French" group-title="Culture" tvg-language="fra" tvg-quality="576i",Museum TV French
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="Nickelodeon" group-title="Kids" tvg-language="fra" tvg-quality="504p",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+
+#EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="NRJ Hits" group-title="Music" tvg-language="fra" tvg-quality="576i",NRJ Hits
+https://test.946985.filegear-sg.me/proxy/a23981548880f405
+
+#EXTINF:-1 tvg-id="NWEconomie.tg" tvg-name="NW Economie" group-title="Business" tvg-language="fra" tvg-quality="576p",NW Economie
+https://hls.newworldtv.com/nw-economie/video/live.m3u8
+
+#EXTINF:-1 tvg-id="NWInfo.tg" tvg-name="NW Info" group-title="News" tvg-language="fra" tvg-quality="576p",NW Info
+https://hls.newworldtv.com/nw-info/video/live.m3u8
+
+#EXTINF:-1 tvg-id="NWMagazine.tg" tvg-name="NW Magazine" group-title="Entertainment" tvg-language="fra" tvg-quality="576p",NW Magazine
+https://hls.newworldtv.com/nw-magazine/video/live.m3u8
+
+#EXTINF:-1 tvg-id="ORTM1.ml" tvg-name="ORTM 1" group-title="General" tvg-language="bam;fra" tvg-quality="540p",ORTM 1
+http://69.64.57.208/ortm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ORTM1.ml" tvg-name="ORTM 1" group-title="General" tvg-language="bam;fra" tvg-quality="576i",ORTM 1
+https://cs2.push2stream.com/ORTM-DVR/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PanafricanMediaTV.cm" tvg-name="Panafrican Media TV" group-title="News" tvg-language="fra" tvg-quality="480p",Panafrican Media TV
+https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PLEXTV.cm" tvg-name="PLEX TV" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",PLEX TV
+http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PSTVHD.cd" tvg-name="PSTV HD" group-title="General" tvg-language="fra" tvg-quality="480p",PSTV HD
+http://51.254.199.122:8080/PSTV/index.m3u8
+
+#EXTINF:-1 tvg-id="PuissanceTV.fr" tvg-name="Puissance TV" group-title="General" tvg-language="fra" tvg-quality="576i",Puissance TV
+https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleAmenFM.ht" tvg-name="Radio Tele Amen FM" group-title="Religious" tvg-language="fra" tvg-quality="360p",Radio Tele Amen FM
+http://184.173.179.163:1935/daniel/daniel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleEvangileSansLimite.ca" tvg-name="Radio Tele Evangile Sans Limite" group-title="Religious" tvg-language="fra" tvg-quality="480i",Radio Tele Evangile Sans Limite
+https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleFullGospel.ht" tvg-name="Radio Tele Full Gospel" group-title="Religious" tvg-language="fra;hat" tvg-quality="576i",Radio Tele Full Gospel
+https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleGinen.ht" tvg-name="Radio Tele Ginen" group-title="General" tvg-language="fra" tvg-quality="480i",Radio Tele Ginen
+http://teleginen.srfms.com:1935/teleginen/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleHit.ht" tvg-name="Radio Tele Hit" group-title="Music" tvg-language="fra;hat" tvg-quality="480p",Radio Tele Hit
+https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleKajou.us" tvg-name="Radio Tele Kajou" group-title="Music" tvg-language="fra" tvg-quality="480p",Radio Tele Kajou
+https://59d39900ebfb8.streamlock.net/RadioTelekAJOU/RadioTelekAJOU/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTelePuissance.us" tvg-name="Radio Tele Puissance" group-title="Religious" tvg-language="eng;fra" tvg-quality="480i",Radio Tele Puissance
+https://video1.getstreamhosting.com:1936/8560/8560/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleSentinel.us" tvg-name="Radio Tele Sentinel" group-title="Religious" tvg-language="fra;hat" tvg-quality="480i",Radio Tele Sentinel
+https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTeleWisdom.us" tvg-name="Radio Tele Wisdom" group-title="Religious" tvg-language="fra" tvg-quality="360p",Radio Tele Wisdom
+https://59d39900ebfb8.streamlock.net/daniel/daniel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RLPROTV.cd" tvg-name="RL PRO TV" group-title="Documentary" tvg-language="fra" tvg-quality="576i",RL PRO TV
+https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
+
+#EXTINF:-1 tvg-id="RTB.bf" tvg-name="RTB" group-title="Uncategorized" tvg-language="fra" tvg-quality="360p",RTB
+https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8
+
+#EXTINF:-1 tvg-id="RTNBDivertissement.bi" tvg-name="RTNB Divertissement" group-title="Entertainment" tvg-language="eng;fra;run;swa" tvg-quality="576i",RTNB Divertissement
+https://tv2-stream.rtnb.bi/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="RTNBTV.bi" tvg-name="RTNB TV" group-title="General" tvg-language="eng;fra;run;swa" tvg-quality="576i",RTNB TV
+https://tv1-stream.rtnb.bi/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="RTNC3.cd" tvg-name="RTNC 3" group-title="General" tvg-language="fra;lin" tvg-quality="576i",RTNC 3
+http://51.254.199.122:8080/e-cableRTNC3/index.m3u8
+
+#EXTINF:-1 tvg-id="RTVS1.cd" tvg-name="RTVS1" group-title="General" tvg-language="fra" tvg-quality="576i",RTVS1
+http://51.254.199.122:8080/RTVS1/index.m3u8
+
+#EXTINF:-1 tvg-id="RwandaTV.rw" tvg-name="Rwanda TV" group-title="General" tvg-language="eng;fra;kin" tvg-quality="480p",Rwanda TV
+http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="RwandaTV.rw" tvg-name="Rwanda TV" group-title="General" tvg-language="eng;fra;kin" tvg-quality="480p",Rwanda TV
+https://5c46fa289c89f.streamlock.net/rtv25/rtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SaraouniaTV.ne" tvg-name="Saraounia TV" group-title="General" tvg-language="fra" tvg-quality="576i",Saraounia TV
+https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8
+
+#EXTINF:-1 tvg-id="SavaneTV.bf" tvg-name="Savane TV" group-title="General" tvg-language="fra;mos" tvg-quality="576i",Savane TV
+https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
+
+#EXTINF:-1 tvg-id="Savoirmedia.ca" tvg-name="Savoir media" group-title="Uncategorized" tvg-language="fra" tvg-quality="360p",Savoir media
+https://hls.savoir.media/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="SenewebTV.sn" tvg-name="Seneweb TV" group-title="General" tvg-language="fra" tvg-quality="576i",Seneweb TV
+https://vdo2.pro-fhi.net:3297/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="SenJeunesTV.sn" tvg-name="SenJeunes TV" group-title="General" tvg-language="fra" tvg-quality="480p",SenJeunes TV
+https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SerieMax.ci" tvg-name="Serie Max" group-title="Series" tvg-language="fra" tvg-quality="576i",Serie Max
+https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SOSDocteurTV.tg" tvg-name="SOS Docteur TV" group-title="Lifestyle" tvg-language="fra" tvg-quality="480p",SOS Docteur TV
+https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SpeedlineTV.bj" tvg-name="Speedline TV" group-title="General" tvg-language="fra" tvg-quality="576i",Speedline TV
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8
+
+#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-name="Stingray Classica" group-title="Music" tvg-language="deu;eng;fra;spa" tvg-quality="480i",Stingray Classica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8
+
+#EXTINF:-1 tvg-id="SunuLabelTV.sn" tvg-name="SunuLabel TV" group-title="News" tvg-language="fra" tvg-quality="480p",SunuLabel TV
+https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="Syfy" group-title="Uncategorized" tvg-language="fra" tvg-quality="576i",Syfy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147:8080/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleBoston.us" tvg-name="Tele Boston" group-title="Entertainment" tvg-language="acf;eng;fra" tvg-quality="480p",Tele Boston
+https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
+
+#EXTINF:-1 tvg-id="TeleCongo.cg" tvg-name="Tele Congo" group-title="General" tvg-language="fra;lin;mkw" tvg-quality="576i",Tele Congo
+http://trn03.bozztv.com/gin-telecongo/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleMB.be" tvg-name="Tele MB" group-title="Uncategorized" tvg-language="fra" tvg-quality="504p",Tele MB
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/d14f1e64/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleTchad.td" tvg-name="Tele Tchad" group-title="General" tvg-language="ara;fra" tvg-quality="576i",Tele Tchad
+http://176.65.153.84:7013/play/a069/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleZoukla.mq" tvg-name="Tele Zoukla" group-title="Music" tvg-language="fra" tvg-quality="576i",Tele Zoukla
+https://vdo.pro-fhi.net:3228/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="TeleGohelle.fr" tvg-name="TeleGohelle" group-title="General" tvg-language="fra" tvg-quality="576i",TeleGohelle
+https://videas.agglo-lenslievin.fr/index.m3u8
+
+#EXTINF:-1 tvg-id="Telesambre.be" tvg-name="Telesambre" group-title="Uncategorized" tvg-language="fra" tvg-quality="504p",Telesambre
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.m3u8
+
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",TF1
+http://149.62.177.107:9999/TF1/index.m3u8
+
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Series Films" group-title="Movies" tvg-language="fra" tvg-quality="576i",TF1 Series Films
+http://149.62.177.107:9999/TF1_Series_Films/index.m3u8
+
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" group-title="Uncategorized" tvg-language="eng;fra" tvg-quality="576i",TFX
+http://149.62.177.107:9999/TFX/index.m3u8
+
+#EXTINF:-1 tvg-id="TiVi5Monde.fr" tvg-name="TiVi5 Monde" group-title="Uncategorized" tvg-language="fra" tvg-quality="576i",TiVi5 Monde
+https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
+
+#EXTINF:-1 tvg-id="TM1TV.ml" tvg-name="TM1 TV" group-title="General" tvg-language="fra" tvg-quality="360p",TM1 TV
+http://69.64.57.208/tm1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="Trace Latina" group-title="Music" tvg-language="fra" tvg-quality="576p",Trace Latina
+https://mumbai-edge.smartplaytv.in/TraceLatina/index.m3u8
+
+#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars" group-title="Sports" tvg-language="eng;fra" tvg-quality="576p",Trace Sport Stars
+https://mumbai-edge.smartplaytv.in/TraceSport/index.m3u8
+
+#EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-name="Turkmenistan" group-title="General" tvg-language="ara;cmn;eng;fra;rus;tuk" tvg-quality="406p",Turkmenistan
+https://alpha.tv.online.tm/hls/ch007.m3u8
+
+#EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-name="Turkmenistan" group-title="General" tvg-language="ara;cmn;eng;fra;rus;tuk" tvg-quality="406p",Turkmenistan
+https://alpha.tv.online.tm/legacyhls/ch007.m3u8
+
+#EXTINF:-1 tvg-id="TVLux.be" tvg-name="TV Lux" group-title="Uncategorized" tvg-language="fra" tvg-quality="504p",TV Lux
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-name="TV5Monde Asia" group-title="Uncategorized" tvg-language="fra" tvg-quality="576i",TV5Monde Asia
+http://103.172.187.30:12000/stream/allchannel/tv5asie
+
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-name="TV5Monde Asia" group-title="Uncategorized" tvg-language="fra" tvg-quality="576i",TV5Monde Asia
+http://103.190.232.129/stream/tvb/asie/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-name="TV5Monde Asia" group-title="Uncategorized" tvg-language="fra" tvg-quality="576i",TV5Monde Asia
+http://103.190.232.129/stream/tvb/asie?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-name="TV5Monde Asia" group-title="Uncategorized" tvg-language="fra" tvg-quality="576p",TV5Monde Asia
+http://27.131.164.187:8080/TV5_Monde/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-name="TV5Monde Asia" group-title="Uncategorized" tvg-language="fra" tvg-quality="576p",TV5Monde Asia
+https://mumt03.tangotv.in/Dsly5z3HTV5MONDEASIA/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-name="TV5Monde Asia" group-title="Uncategorized" tvg-language="fra" tvg-quality="576i",TV5Monde Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h121/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" tvg-name="TV5Monde France Belgium Switzerland Monaco" group-title="General" tvg-language="fra" tvg-quality="576i",TV5Monde France Belgium Switzerland Monaco
+http://5.78.65.164/TV5Monde/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr" tvg-name="TV5Monde Latin America" group-title="General" tvg-language="fra;spa" tvg-quality="576i",TV5Monde Latin America
+http://45.235.0.78/TV5_Monde/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-name="TV5Monde Pacific" group-title="Uncategorized" tvg-language="eng;fra" tvg-quality="576i",TV5Monde Pacific
+http://103.190.232.129/stream/tvb/pacifique/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+
+#EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-name="TV5Monde Pacific" group-title="Uncategorized" tvg-language="eng;fra" tvg-quality="576i",TV5Monde Pacific
+http://103.190.232.129/stream/tvb/pacifique?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-name="TV5Monde Style" group-title="Lifestyle" tvg-language="fra" tvg-quality="576i",TV5Monde Style
+http://103.190.232.129/stream/tvb/style/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-name="TV5Monde Style" group-title="Lifestyle" tvg-language="fra" tvg-quality="576i",TV5Monde Style
+http://103.190.232.129/stream/tvb/style?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+
+#EXTINF:-1 tvg-id="TV7Colmar.fr" tvg-name="TV7 Colmar" group-title="General" tvg-language="fra" tvg-quality="576p",TV7 Colmar
+https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVA.ca" tvg-name="TVA" group-title="Uncategorized" tvg-language="fra" tvg-quality="480i",TVA
+https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
+
+#EXTINF:-1 tvg-id="TVCARiBGospel.sx" tvg-name="TVCARiB Gospel" group-title="Religious" tvg-language="eng;fra" tvg-quality="480p",TVCARiB Gospel
+https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8
+
+#EXTINF:-1 tvg-id="ViaOccitanie.fr" tvg-name="ViaOccitanie" group-title="General" tvg-language="fra" tvg-quality="540p",ViaOccitanie
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
+
+#EXTINF:-1 tvg-id="VosgesTV.fr" tvg-name="Vosges TV" group-title="Uncategorized" tvg-language="fra" tvg-quality="576p",Vosges TV
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WalkerTexasRanger.us" tvg-name="Walker Texas Ranger" group-title="Series" tvg-language="fra" tvg-quality="576i",Walker Texas Ranger
+https://jmp2.uk/plu-60afa749ac7f3200078adb40.m3u8
+
+#EXTINF:-1 tvg-id="WalkerTexasRanger.us" tvg-name="Walker Texas Ranger" group-title="Series" tvg-language="fra" tvg-quality="576i",Walker Texas Ranger
+https://jmp2.uk/plu-62a0ae8b2241f500073e0925.m3u8
+
+#EXTINF:-1 tvg-id="WalkerTexasRanger.us" tvg-name="Walker Texas Ranger" group-title="Series" tvg-language="fra" tvg-quality="576i",Walker Texas Ranger
+https://jmp2.uk/plu-62a0aefc7c5f9f00075b4e24.m3u8
+
+#EXTINF:-1 tvg-id="WalkerTexasRanger.us" tvg-name="Walker Texas Ranger" group-title="Series" tvg-language="fra" tvg-quality="576i",Walker Texas Ranger
+https://jmp2.uk/plu-62a0b114a1c8650007e93688.m3u8
+
+#EXTINF:-1 tvg-id="WalkerTexasRanger.us" tvg-name="Walker Texas Ranger" group-title="Series" tvg-language="fra" tvg-quality="576i",Walker Texas Ranger
+https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
+
+#EXTINF:-1 tvg-id="Yaquelaveritequicompte.us" tvg-name="Y'a que la verite qui compte" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",Y'a que la verite qui compte
+https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8
+
+#EXTINF:-1 tvg-id="ZitataTV.mq" tvg-name="Zitata TV" group-title="General" tvg-language="fra" tvg-quality="480i",Zitata TV
+https://live.zitata.tv/direct-hls/playlist.m3u8
+

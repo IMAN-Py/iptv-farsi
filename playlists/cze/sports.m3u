@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PrimaSportCzechia.cz" tvg-name="Prima Sport Czechia" group-title="Sports" tvg-language="cze" tvg-quality="576i",Prima Sport Czechia
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0
+

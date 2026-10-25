@@ -1,0 +1,134 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlternaTV.ar" tvg-name="AlternaTV" group-title="Culture;Documentary;Entertainment;General;Movies;Music" tvg-language="spa" tvg-quality="720p",AlternaTV
+https://tv.alterna.ar/stream/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="720p",Animal Planet Latin America
+http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",Animal Planet Latin America
+http://190.128.214.97:64333/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-id="ArchivosForenses.us" tvg-name="Archivos Forenses" group-title="Documentary" tvg-language="spa" tvg-quality="576i",Archivos Forenses
+https://jmp2.uk/plu-5efb8c19b2678b000780d032.m3u8
+
+#EXTINF:-1 tvg-id="ArchivosForenses.us" tvg-name="Archivos Forenses" group-title="Documentary" tvg-language="spa" tvg-quality="576i",Archivos Forenses
+https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
+
+#EXTINF:-1 tvg-id="CazadordeHomicidas.us" tvg-name="Cazador de Homicidas" group-title="Documentary" tvg-language="spa" tvg-quality="576i",Cazador de Homicidas
+https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8
+
+#EXTINF:-1 tvg-id="CazadordeHomicidas.us" tvg-name="Cazador de Homicidas" group-title="Documentary" tvg-language="spa" tvg-quality="576i",Cazador de Homicidas
+https://jmp2.uk/plu-6109a9f5531b840007a4a187.m3u8
+
+#EXTINF:-1 tvg-id="ClickTVChile.cl" tvg-name="ClickTV Chile" group-title="Documentary" tvg-language="spa" tvg-quality="720p",ClickTV Chile
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CrimenHistoria.es" tvg-name="Crimen & Historia" group-title="Documentary" tvg-language="spa" tvg-quality="720p",Crimen & Historia
+https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
+
+#EXTINF:-1 tvg-id="Ecovision.do" tvg-name="Ecovision" group-title="Documentary" tvg-language="spa" tvg-quality="720p",Ecovision
+https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
+
+#EXTINF:-1 tvg-id="ForensicFiles.us" tvg-name="Forensic Files" group-title="Documentary" tvg-language="spa" tvg-quality="480i",Forensic Files
+https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8
+
+#EXTINF:-1 tvg-id="ForensicFiles.us" tvg-name="Forensic Files" group-title="Documentary" tvg-language="spa" tvg-quality="480i",Forensic Files
+https://jmp2.uk/plu-6181241c1a35d50007874c27.m3u8
+
+#EXTINF:-1 tvg-id="ForensicFiles.us" tvg-name="Forensic Files" group-title="Documentary" tvg-language="spa" tvg-quality="480i",Forensic Files
+https://jmp2.uk/plu-618124b2e53c8d00077b37f8.m3u8
+
+#EXTINF:-1 tvg-id="ForensicFiles.us" tvg-name="Forensic Files" group-title="Documentary" tvg-language="spa" tvg-quality="480i",Forensic Files
+https://jmp2.uk/plu-6181262dc68b92000780fed2.m3u8
+
+#EXTINF:-1 tvg-id="ForensicFiles.us" tvg-name="Forensic Files" group-title="Documentary" tvg-language="spa" tvg-quality="480i",Forensic Files
+https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
+
+#EXTINF:-1 tvg-id="ForensicFiles.us" tvg-name="Forensic Files" group-title="Documentary" tvg-language="spa" tvg-quality="480i",Forensic Files
+https://jmp2.uk/plu-64ec5cf50f73a800081310a5.m3u8
+
+#EXTINF:-1 tvg-id="HistoriaYVida.es" tvg-name="Historia Y Vida" group-title="Documentary" tvg-language="spa" tvg-quality="720p",Historia Y Vida
+https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8
+
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="History 2 Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",History 2 Latin America
+http://138.121.15.230:9002/HISTORY-2/index.m3u8
+
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="History 2 Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",History 2 Latin America
+http://190.93.224.42/HISTORY-2/index.m3u8
+
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us" tvg-name="History Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",History Latin America
+http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us" tvg-name="History Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",History Latin America
+http://15.204.246.24:8080/HistoryHD/index.m3u8
+
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us" tvg-name="History Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",History Latin America
+http://190.93.224.42/HISTORY/index.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us" tvg-name="Investigation Discovery Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",Investigation Discovery Latin America
+http://38.65.175.84:8000/play/a0ch/index.m3u8
+
+#EXTINF:-1 tvg-id="LoveThePlanet.es" tvg-name="Love The Planet" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",Love The Planet
+https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",National Geographic
+http://138.121.15.230:9002/NAT-GEO/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",National Geographic Latin America
+http://15.204.246.24:8080/NatGeoHD/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="480i",National Geographic Latin America
+http://181.78.79.131:8000/play/a0pt
+
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",National Geographic Latin America
+http://190.93.224.42/NAT-GEO/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",National Geographic Latin America
+http://45.173.231.22:8000/play/a05z/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",National Geographic Latin America
+https://barinaslive1.boldmss.com/NATGEO/NATGEO.isml/NATGEO.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",NatureTime
+https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",NatureTime
+https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",NatureTime
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="spa" tvg-quality="720p",NatureTime
+https://jmp2.uk/plu-60dd6b1da79e4d0007309455.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="spa" tvg-quality="684p",NatureTime
+https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="spa" tvg-quality="720p",NatureTime
+https://jmp2.uk/plu-681ba2ad93d3d19bcab47433.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",NatureTime
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAnimales.de" tvg-name="Pluto TV Animales" group-title="Documentary" tvg-language="spa" tvg-quality="720p",Pluto TV Animales
+https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVHistoria.de" tvg-name="Pluto TV Historia" group-title="Documentary" tvg-language="spa" tvg-quality="720p",Pluto TV Historia
+https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVMiObsesionFavorita.us" tvg-name="Pluto TV Mi Obsesion Favorita" group-title="Documentary" tvg-language="spa" tvg-quality="720p",Pluto TV Mi Obsesion Favorita
+https://jmp2.uk/plu-6109ab25b84d6a0007504886.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVNaturaleza.us" tvg-name="Pluto TV Naturaleza" group-title="Documentary;Outdoor" tvg-language="spa" tvg-quality="720p",Pluto TV Naturaleza
+https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
+
+#EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us" tvg-name="Smithsonian Channel Pluto TV" group-title="Documentary" tvg-language="spa" tvg-quality="720p",Smithsonian Channel Pluto TV
+https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
+
+#EXTINF:-1 tvg-id="UMSATVUInternacional.bo" tvg-name="UMSA TVU Internacional" group-title="Documentary;Education;Science" tvg-language="spa" tvg-quality="720p",UMSA TVU Internacional
+https://edge.enhdtv.com/8026/index.m3u8
+
+#EXTINF:-1 tvg-id="UMSATVUInternacional.bo" tvg-name="UMSA TVU Internacional" group-title="Documentary;Education;Science" tvg-language="spa" tvg-quality="720p",UMSA TVU Internacional
+#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/tvu-internacional
+https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
+

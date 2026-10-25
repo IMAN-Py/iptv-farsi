@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlZahraTVTurkic.tr" tvg-name="Al-Zahra TV Turkic" group-title="Religious" tvg-language="tur" tvg-quality="720p",Al-Zahra TV Turkic
+https://live.al-zahratv.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiyanetTV.tr" tvg-name="Diyanet TV" group-title="Religious" tvg-language="tur" tvg-quality="1080p",Diyanet TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiyarTV.tr" tvg-name="Diyar TV" group-title="Religious" tvg-language="tur" tvg-quality="720p",Diyar TV
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DostTV.tr" tvg-name="Dost TV" group-title="Religious" tvg-language="tur" tvg-quality="576p",Dost TV
+https://dost.stream.emsal.im/tv/live.m3u8
+
+#EXTINF:-1 tvg-id="ImamHusseinTV5.iq" tvg-name="Imam Hussein TV 5" group-title="Religious" tvg-language="tur" tvg-quality="720p",Imam Hussein TV 5
+http://live.al-zahratv.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LalegulTV.tr" tvg-name="Lalegul TV" group-title="Religious" tvg-language="tur" tvg-quality="720p",Lalegul TV
+http://lalegultv.netmedya.net/hls/lalegultv.m3u8
+
+#EXTINF:-1 tvg-id="LalegulTV.tr" tvg-name="Lalegul TV" group-title="Religious" tvg-language="tur" tvg-quality="720p",Lalegul TV
+http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LalegulTV.tr" tvg-name="Lalegul TV" group-title="Religious" tvg-language="tur" tvg-quality="1080p",Lalegul TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+
+#EXTINF:-1 tvg-id="SercemTV.tr" tvg-name="Sercem TV" group-title="Culture;General;Religious" tvg-language="kur;tur;zza" tvg-quality="1080p",Sercem TV
+https://canli.sercemtv.com.tr/hls/0/stream.m3u8
+

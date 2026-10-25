@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PlutoTVCuisine.de" tvg-name="Pluto TV Cuisine" group-title="Cooking;Lifestyle" tvg-language="fra" tvg-quality="720p",Pluto TV Cuisine
+https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
+
+#EXTINF:-1 tvg-id="TV5MONDEChefs.fr" tvg-name="TV5MONDE Chefs" group-title="Cooking;Lifestyle" tvg-language="fra" tvg-quality="1080p",TV5MONDE Chefs
+https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+

@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AsomLive24.in" tvg-name="Asom Live 24" group-title="News" tvg-language="asm" tvg-quality="576p",Asom Live 24
+https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8
+
+#EXTINF:-1 tvg-id="AssamTalks.in" tvg-name="Assam Talks" group-title="News" tvg-language="asm" tvg-quality="576p",Assam Talks
+http://tvsen7.aynascope.net/AssamTalks/index.m3u8
+
+#EXTINF:-1 tvg-id="AssamTalks.in" tvg-name="Assam Talks" group-title="News" tvg-language="asm" tvg-quality="576p",Assam Talks
+https://cdn.pishow.tv/ott/live/258/master.m3u8
+
+#EXTINF:-1 tvg-id="AssamTalks.in" tvg-name="Assam Talks" group-title="News" tvg-language="asm" tvg-quality="576p",Assam Talks
+https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
+
+#EXTINF:-1 tvg-id="DDAssam.in" tvg-name="DD Assam" group-title="General" tvg-language="asm;eng" tvg-quality="504p",DD Assam
+https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
+
+#EXTINF:-1 tvg-id="DY365.in" tvg-name="DY 365" group-title="News" tvg-language="asm" tvg-quality="360p",DY 365
+https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ETVBalBharat.in" tvg-name="ETV Bal Bharat" group-title="Kids" tvg-language="asm;ben;eng;guj;hin;kan;mal;mar;ori;pan;tam;tel" tvg-quality="576p",ETV Bal Bharat
+http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
+
+#EXTINF:-1 tvg-id="Jonack.in" tvg-name="Jonack" group-title="General" tvg-language="asm" tvg-quality="576p",Jonack
+https://cdn.pishow.tv/ott/live/10006/master.m3u8
+
+#EXTINF:-1 tvg-id="Jonack.in" tvg-name="Jonack" group-title="General" tvg-language="asm" tvg-quality="360p",Jonack
+https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NewsLive.in" tvg-name="News Live" group-title="News" tvg-language="asm" tvg-quality="576p",News Live
+https://cdn.pishow.tv/ott/live/10011/master.m3u8
+
+#EXTINF:-1 tvg-id="NewsLive.in" tvg-name="News Live" group-title="News" tvg-language="asm" tvg-quality="576p",News Live
+https://prideeast.thelegitpro.in/newslive/newslive/index.m3u8
+
+#EXTINF:-1 tvg-id="News18AssamNorthEast.in" tvg-name="News18 Assam North-East" group-title="News" tvg-language="asm;eng" tvg-quality="1080p",News18 Assam North-East
+https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="NKTV24x7.in" tvg-name="NK TV 24x7" group-title="News" tvg-language="asm" tvg-quality="1080p",NK TV 24x7
+https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
+
+#EXTINF:-1 tvg-id="PearTV.in" tvg-name="Pear TV" group-title="Entertainment" tvg-language="asm" tvg-quality="576p",Pear TV
+https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8
+
+#EXTINF:-1 tvg-id="PragNews.in" tvg-name="Prag News" group-title="News" tvg-language="asm" tvg-quality="576p",Prag News
+https://hls.pragnews.com/master.m3u8
+
+#EXTINF:-1 tvg-id="PragNews.in" tvg-name="Prag News" group-title="News" tvg-language="asm" tvg-quality="576p",Prag News
+https://streams.tangotv.in/PRAGNEWS/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="PrathamKhabar24x7.in" tvg-name="Pratham Khabar 24x7" group-title="News" tvg-language="asm" tvg-quality="576p",Pratham Khabar 24x7
+https://livelegitpro.in/hls2/newstime/index.m3u8
+
+#EXTINF:-1 tvg-id="PratidinTime.in" tvg-name="Pratidin Time" group-title="News" tvg-language="asm" tvg-quality="576p",Pratidin Time
+https://cdn.pishow.tv/ott/live/1437/master.m3u8
+
+#EXTINF:-1 tvg-id="PratidinTime.in" tvg-name="Pratidin Time" group-title="News" tvg-language="asm" tvg-quality="576p",Pratidin Time
+https://d1msejlow1t3l4.cloudfront.net/fta/protidintime/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PratidinTime.in" tvg-name="Pratidin Time" group-title="News" tvg-language="asm" tvg-quality="576p",Pratidin Time
+https://server.thelegitpro.in/pratidintime/pratidintime/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="PratidinTime.in" tvg-name="Pratidin Time" group-title="News" tvg-language="asm" tvg-quality="576p",Pratidin Time
+https://streams.tangotv.in/PROTIDINTIME/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="Ramdhenu.in" tvg-name="Ramdhenu" group-title="Uncategorized" tvg-language="asm" tvg-quality="576p",Ramdhenu
+https://mumt01.tangotv.in/O5aw8Zn3RAMDHENU/index.m3u8
+
+#EXTINF:-1 tvg-id="Rang.in" tvg-name="Rang" group-title="Uncategorized" tvg-language="asm" tvg-quality="576p",Rang
+https://cdn.pishow.tv/ott/live/10017/master.m3u8
+
+#EXTINF:-1 tvg-id="Rang.in" tvg-name="Rang" group-title="Uncategorized" tvg-language="asm" tvg-quality="576p",Rang
+https://mumt01.tangotv.in/O5aw8Zn3RANG/index.m3u8
+
+#EXTINF:-1 tvg-id="Rang.in" tvg-name="Rang" group-title="Uncategorized" tvg-language="asm" tvg-quality="576p",Rang
+https://streams.tangotv.in/RANG/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="Rengoni.in" tvg-name="Rengoni" group-title="Uncategorized" tvg-language="asm" tvg-quality="396p",Rengoni
+https://d1msejlow1t3l4.cloudfront.net/fta/rengonitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rengoni.in" tvg-name="Rengoni" group-title="Uncategorized" tvg-language="asm" tvg-quality="576p",Rengoni
+https://mumt05.tangotv.in/87NeALx2RENGONI/index.m3u8
+
+#EXTINF:-1 tvg-id="Rengoni.in" tvg-name="Rengoni" group-title="Uncategorized" tvg-language="asm" tvg-quality="576p",Rengoni
+https://streams.tangotv.in/RENGONI/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="Spondon.in" tvg-name="Spondon" group-title="Entertainment" tvg-language="asm" tvg-quality="576p",Spondon
+https://mumt05.tangotv.in/87NeALx2SPONDON/index.m3u8
+
+#EXTINF:-1 tvg-id="Spondon.in" tvg-name="Spondon" group-title="Entertainment" tvg-language="asm" tvg-quality="1080p",Spondon
+https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
+

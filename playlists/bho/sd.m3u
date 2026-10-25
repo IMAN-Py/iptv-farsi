@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" group-title="Movies" tvg-language="bho" tvg-quality="576p",B4U Bhojpuri
+https://mumt05.tangotv.in/87NeALx2B4UBHOJPURI/index.m3u8
+
+#EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" group-title="Movies" tvg-language="bho" tvg-quality="576p",B4U Bhojpuri
+https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="BhojpuriCinema.in" tvg-name="Bhojpuri Cinema" group-title="Movies" tvg-language="bho" tvg-quality="576i",Bhojpuri Cinema
+https://cdn.pishow.tv/ott/live/1033/master.m3u8
+
+#EXTINF:-1 tvg-id="BhojpuriCinema.in" tvg-name="Bhojpuri Cinema" group-title="Movies" tvg-language="bho" tvg-quality="576p",Bhojpuri Cinema
+https://mumt05.tangotv.in/87NeALx2BHOJPURICINEMA/index.m3u8
+
+#EXTINF:-1 tvg-id="BhojpuriCinema.in" tvg-name="Bhojpuri Cinema" group-title="Movies" tvg-language="bho" tvg-quality="576p",Bhojpuri Cinema
+https://streams.tangotv.in/BHOJPURICINEMA/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="Captain.in" tvg-name="Captain" group-title="Entertainment" tvg-language="bho" tvg-quality="576p",Captain
+https://mumbai-edge.smartplaytv.in/captain/index.m3u8
+
+#EXTINF:-1 tvg-id="EpicBhojpuri.in" tvg-name="Epic Bhojpuri" group-title="Movies" tvg-language="bho" tvg-quality="576p",Epic Bhojpuri
+https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
+
+#EXTINF:-1 tvg-id="ManoranjanPrime.in" tvg-name="Manoranjan Prime" group-title="Entertainment" tvg-language="bho" tvg-quality="576i",Manoranjan Prime
+https://cdn.pishow.tv/ott/live/1474/master.m3u8
+
+#EXTINF:-1 tvg-id="ManoranjanPrime.in" tvg-name="Manoranjan Prime" group-title="Entertainment" tvg-language="bho" tvg-quality="576p",Manoranjan Prime
+https://mumt06.tangotv.in/qYyB8fXVMANORANJANPRIME/index.m3u8
+
+#EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in" tvg-name="Oscar Movies Bhojpuri" group-title="Movies" tvg-language="bho" tvg-quality="576p",Oscar Movies Bhojpuri
+https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8
+
+#EXTINF:-1 tvg-id="PasandTV.in" tvg-name="Pasand TV" group-title="Entertainment" tvg-language="bho" tvg-quality="576p",Pasand TV
+https://d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PasandTV.in" tvg-name="Pasand TV" group-title="Entertainment" tvg-language="bho" tvg-quality="576p",Pasand TV
+https://mumt01.tangotv.in/O5aw8Zn3PASANDTV/index.m3u8
+
+#EXTINF:-1 tvg-id="SangeetBhojpuri.in" tvg-name="Sangeet Bhojpuri" group-title="Music" tvg-language="bho" tvg-quality="576p",Sangeet Bhojpuri
+https://cdn.pishow.tv/ott/live/1293/master.m3u8
+
+#EXTINF:-1 tvg-id="SangeetBhojpuri.in" tvg-name="Sangeet Bhojpuri" group-title="Music" tvg-language="bho" tvg-quality="576p",Sangeet Bhojpuri
+https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
+

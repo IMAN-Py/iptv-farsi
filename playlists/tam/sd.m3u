@@ -1,0 +1,351 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="7SMusic.in" tvg-name="7S Music" group-title="Music" tvg-language="tam" tvg-quality="576p",7S Music
+https://cdn.pishow.tv/ott/live/1257/master.m3u8
+
+#EXTINF:-1 tvg-id="7SMusic.in" tvg-name="7S Music" group-title="Music" tvg-language="tam" tvg-quality="576p",7S Music
+https://mumbai-edge.smartplaytv.in/7SMusic/index.m3u8
+
+#EXTINF:-1 tvg-id="7SMusic.in" tvg-name="7S Music" group-title="Music" tvg-language="tam" tvg-quality="360p",7S Music
+https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
+
+#EXTINF:-1 tvg-id="AaseervathamTV.in" tvg-name="Aaseervatham TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Aaseervatham TV
+https://mumt04.tangotv.in/m18aqlK4AASEERVATHAMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="AasthaTamil.in" tvg-name="Aastha Tamil" group-title="Religious" tvg-language="tam" tvg-quality="480p",Aastha Tamil
+https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AathavanTV.uk" tvg-name="Aathavan TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Aathavan TV
+https://oj7lnxonyg82-hls-live.5centscdn.com/uks/24263a839810d2041a349baaeef36a79.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Angel TV
+https://mumt01.tangotv.in/O5aw8Zn3ANGELTVHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArputharYesuTV.in" tvg-name="Arputhar Yesu TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Arputhar Yesu TV
+https://account33.livebox.co.in/jesushelpshls/live.m3u8
+
+#EXTINF:-1 tvg-id="BeritaRTM.my" tvg-name="Berita RTM" group-title="News" tvg-language="eng;msa;tam;zho" tvg-quality="576i",Berita RTM
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+
+#EXTINF:-1 tvg-id="BhagyamTV.in" tvg-name="Bhagyam TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Bhagyam TV
+https://bhagyam.iptv.pics/bhagyam/index.m3u8
+
+#EXTINF:-1 tvg-id="Chithiram.in" tvg-name="Chithiram" group-title="Kids" tvg-language="tam" tvg-quality="576p",Chithiram
+https://cdn.pishow.tv/ott/live/1243/master.m3u8
+
+#EXTINF:-1 tvg-id="DhoolTV.in" tvg-name="Dhool TV" group-title="Music" tvg-language="tam" tvg-quality="576p",Dhool TV
+https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.in" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Disney Junior
+http://103.151.60.162:2122/play/a016/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="ETVBalBharat.in" tvg-name="ETV Bal Bharat" group-title="Kids" tvg-language="asm;ben;eng;guj;hin;kan;mal;mar;ori;pan;tam;tel" tvg-quality="576p",ETV Bal Bharat
+http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
+
+#EXTINF:-1 tvg-id="HungamaTV.in" tvg-name="Hungama TV" group-title="Kids" tvg-language="hin;tam;tel" tvg-quality="576p",Hungama TV
+http://103.185.24.134:3001/HUNGAMA/index.m3u8
+
+#EXTINF:-1 tvg-id="HungamaTV.in" tvg-name="Hungama TV" group-title="Kids" tvg-language="hin;tam;tel" tvg-quality="576p",Hungama TV
+http://66.102.126.10:8000/play/a023/index.m3u8
+
+#EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-name="Isai Aruvi" group-title="Music" tvg-language="tam" tvg-quality="396p",Isai Aruvi
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JayaPlus.in" tvg-name="Jaya Plus" group-title="Culture;Entertainment" tvg-language="tam" tvg-quality="576p",Jaya Plus
+https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
+
+#EXTINF:-1 tvg-id="JoyTV.in" tvg-name="Joy TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Joy TV
+https://joy.inet.moe/live/joytv/index.m3u8
+
+#EXTINF:-1 tvg-id="JoyTV.in" tvg-name="Joy TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Joy TV
+https://mumbai-edge.smartplaytv.in/JoyTV/index.m3u8
+
+#EXTINF:-1 tvg-id="KalaignarMurasu.in" tvg-name="Kalaignar Murasu" group-title="Entertainment" tvg-language="tam" tvg-quality="396p",Kalaignar Murasu
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KalaignarMurasu.in" tvg-name="Kalaignar Murasu" group-title="Entertainment" tvg-language="tam" tvg-quality="396p",Kalaignar Murasu
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KalaignarSeithigal.in" tvg-name="Kalaignar Seithigal" group-title="News" tvg-language="tam" tvg-quality="576p",Kalaignar Seithigal
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/KalaignarSeithigal.m3u8
+
+#EXTINF:-1 tvg-id="KalaignarTV.in" tvg-name="Kalaignar TV" group-title="General" tvg-language="tam" tvg-quality="396p",Kalaignar TV
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MNaduTV.in" tvg-name="M Nadu TV" group-title="News" tvg-language="tam" tvg-quality="576p",M Nadu TV
+https://cloudcdnplayer.mslivestream.net/mslivecdn/mnadu/index.m3u8
+
+#EXTINF:-1 tvg-id="MadhaTV.in" tvg-name="Madha TV" group-title="Religious" tvg-language="tam" tvg-quality="576i",Madha TV
+https://cdn.pishow.tv/ott/live/1265/master.m3u8
+
+#EXTINF:-1 tvg-id="MadhaTV.in" tvg-name="Madha TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Madha TV
+https://mumt07.tangotv.in/zHjX9OFlMADHATV/index.m3u8
+
+#EXTINF:-1 tvg-id="MadhaTV.in" tvg-name="Madha TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Madha TV
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/MadhaTV.m3u8
+
+#EXTINF:-1 tvg-id="MadhimugamTV.in" tvg-name="Madhimugam TV" group-title="News" tvg-language="tam" tvg-quality="576p",Madhimugam TV
+https://cdn.pishow.tv/ott/live/1476/master.m3u8
+
+#EXTINF:-1 tvg-id="MadhimugamTV.in" tvg-name="Madhimugam TV" group-title="News" tvg-language="tam" tvg-quality="576p",Madhimugam TV
+https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="MadhimugamTV.in" tvg-name="Madhimugam TV" group-title="News" tvg-language="tam" tvg-quality="576p",Madhimugam TV
+https://yuppparoriglin.akamaized.net/181224/smil:mathimugam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="MahimaiTV.in" tvg-name="Mahimai TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Mahimai TV
+https://mahimai.iptelevision.live/mahimaitv/video.m3u8
+
+#EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="Makkal TV" group-title="General" tvg-language="tam" tvg-quality="576i",Makkal TV
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="Makkal TV" group-title="General" tvg-language="tam" tvg-quality="576p",Makkal TV
+https://mumbai-edge.smartplaytv.in/MakkalTV/index.m3u8
+
+#EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="Makkal TV" group-title="General" tvg-language="tam" tvg-quality="576p",Makkal TV
+https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8
+
+#EXTINF:-1 tvg-id="MalaiMurasuTV.in" tvg-name="Malai Murasu TV" group-title="News" tvg-language="tam" tvg-quality="576p",Malai Murasu TV
+https://mumt04.tangotv.in/m18aqlK4MALAIMURASUSEITHIGAL/index.m3u8
+
+#EXTINF:-1 tvg-id="MalaiMurasuTV.in" tvg-name="Malai Murasu TV" group-title="News" tvg-language="tam" tvg-quality="576p",Malai Murasu TV
+https://streams.tangotv.in/MALAIMURASUSEITHIGAL/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="MeiAlaiTV.in" tvg-name="Mei Alai TV" group-title="General" tvg-language="tam" tvg-quality="576p",Mei Alai TV
+https://meialai.iptelevishion.com/meialai/2/index.m3u8
+
+#EXTINF:-1 tvg-id="MKSix.in" tvg-name="MK Six" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",MK Six
+https://mumt06.tangotv.in/qYyB8fXVMKSIX/index.m3u8
+
+#EXTINF:-1 tvg-id="MoonTV.in" tvg-name="Moon TV" group-title="News" tvg-language="tam" tvg-quality="576i",Moon TV
+https://cdn.pishow.tv/ott/live/1121/master.m3u8
+
+#EXTINF:-1 tvg-id="MoonTV.in" tvg-name="Moon TV" group-title="News" tvg-language="tam" tvg-quality="576p",Moon TV
+https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NambikkaiTV.in" tvg-name="Nambikkai TV" group-title="Religious" tvg-language="tam" tvg-quality="576i",Nambikkai TV
+https://cdn.pishow.tv/ott/live/1389/master.m3u8
+
+#EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-name="NDTV Good Times" group-title="Lifestyle" tvg-language="eng;hin;tam" tvg-quality="396p",NDTV Good Times
+https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8
+
+#EXTINF:-1 tvg-id="News7Tamil.in" tvg-name="News 7 Tamil" group-title="News" tvg-language="tam" tvg-quality="576i",News 7 Tamil
+https://cdn.pishow.tv/ott/live/1498/master.m3u8
+
+#EXTINF:-1 tvg-id="News7Tamil.in" tvg-name="News 7 Tamil" group-title="News" tvg-language="tam" tvg-quality="576p",News 7 Tamil
+https://mumt07.tangotv.in/zHjX9OFlNEWS7TAMIL/index.m3u8
+
+#EXTINF:-1 tvg-id="News7Tamil.in" tvg-name="News 7 Tamil" group-title="News" tvg-language="tam" tvg-quality="576p",News 7 Tamil
+https://segment.yuppcdn.net/240122/news7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News7Tamil.in" tvg-name="News 7 Tamil" group-title="News" tvg-language="tam" tvg-quality="576p",News 7 Tamil
+https://streams.tangotv.in/NEWS7TAMIL/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsTamil24x7.in" tvg-name="News Tamil 24x7" group-title="News" tvg-language="tam" tvg-quality="576p",News Tamil 24x7
+https://cdn.pishow.tv/ott/live/1433/master.m3u8
+
+#EXTINF:-1 tvg-id="NewsTamil24x7.in" tvg-name="News Tamil 24x7" group-title="News" tvg-language="tam" tvg-quality="576p",News Tamil 24x7
+https://streams.tangotv.in/NEWSTAMIL24X7/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
+http://103.185.24.134:3001/NICK/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
+http://202.70.146.135:8000/play/a04c/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.in" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Nickelodeon
+http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5
+
+#EXTINF:-1 tvg-id="Okey.my" tvg-name="Okey" group-title="General" tvg-language="eng;msa;pan;tam;zho" tvg-quality="576i",Okey
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+
+#EXTINF:-1 tvg-id="OMTV.in" tvg-name="OM TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",OM TV
+https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="PeppersTV.in" tvg-name="Peppers TV" group-title="Music" tvg-language="tam" tvg-quality="396p",Peppers TV
+https://d1msejlow1t3l4.cloudfront.net/fta/peppers/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PeppersTV.in" tvg-name="Peppers TV" group-title="Music" tvg-language="tam" tvg-quality="576p",Peppers TV
+https://mumt07.tangotv.in/zHjX9OFlPEPPERS/index.m3u8
+
+#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
+http://103.151.60.162:2122/play/a01e/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="Polimer News" group-title="News" tvg-language="tam" tvg-quality="576i",Polimer News
+https://cdn.pishow.tv/ott/live/1245/master.m3u8
+
+#EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="Polimer News" group-title="News" tvg-language="tam" tvg-quality="576p",Polimer News
+https://mumt05.tangotv.in/87NeALx2POLIMERNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="Polimer News" group-title="News" tvg-language="tam" tvg-quality="576p",Polimer News
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/PolimerNews.m3u8
+
+#EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="Polimer News" group-title="News" tvg-language="tam" tvg-quality="576p",Polimer News
+https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PolimerNews.in" tvg-name="Polimer News" group-title="News" tvg-language="tam" tvg-quality="576p",Polimer News
+https://streams.tangotv.in/POLIMERNEWS/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="PolimerTV.in" tvg-name="Polimer TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Polimer TV
+https://mumt04.tangotv.in/m18aqlK4POLIMERTV/index.m3u8
+
+#EXTINF:-1 tvg-id="PolimerTV.in" tvg-name="Polimer TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Polimer TV
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/PolimerTV.m3u8
+
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in" tvg-name="Puthiya Thalaimurai" group-title="News" tvg-language="tam" tvg-quality="576i",Puthiya Thalaimurai
+https://cdn.pishow.tv/ott/live/1261/master.m3u8
+
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in" tvg-name="Puthiya Thalaimurai" group-title="News" tvg-language="tam" tvg-quality="576p",Puthiya Thalaimurai
+https://mumbai-edge.smartplaytv.in/Puthiyathalaimurai/index.m3u8
+
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in" tvg-name="Puthiya Thalaimurai" group-title="News" tvg-language="tam" tvg-quality="576p",Puthiya Thalaimurai
+https://mumt07.tangotv.in/zHjX9OFlPUTHIYAEXPRESS/index.m3u8
+
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in" tvg-name="Puthiya Thalaimurai" group-title="News" tvg-language="tam" tvg-quality="576p",Puthiya Thalaimurai
+https://mumt07.tangotv.in/zHjX9OFlPUTHIYATHALAIMURAI/index.m3u8
+
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in" tvg-name="Puthiya Thalaimurai" group-title="News" tvg-language="tam" tvg-quality="576p",Puthiya Thalaimurai
+https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in" tvg-name="Puthiya Thalaimurai" group-title="News" tvg-language="tam" tvg-quality="576p",Puthiya Thalaimurai
+https://streams.tangotv.in/PUTHIYATHALAIMURAI/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="PuthuyugamTV.in" tvg-name="Puthuyugam TV" group-title="Uncategorized" tvg-language="tam" tvg-quality="576p",Puthuyugam TV
+https://mumt04.tangotv.in/m18aqlK4PUTHUYUGAMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="SaiTV.in" tvg-name="Sai TV" group-title="Uncategorized" tvg-language="tam" tvg-quality="576i",Sai TV
+https://account31.livebox.co.in/saitvhls/live.m3u8
+
+#EXTINF:-1 tvg-id="SaiTV.in" tvg-name="Sai TV" group-title="Uncategorized" tvg-language="tam" tvg-quality="576i",Sai TV
+https://cdn.pishow.tv/ott/live/1235/master.m3u8
+
+#EXTINF:-1 tvg-id="SaiTV.in" tvg-name="Sai TV" group-title="Uncategorized" tvg-language="tam" tvg-quality="576p",Sai TV
+https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8
+
+#EXTINF:-1 tvg-id="SairamTV.in" tvg-name="Sairam TV" group-title="Religious" tvg-language="tam" tvg-quality="576i",Sairam TV
+https://cdn.pishow.tv/ott/live/1611/master.m3u8
+
+#EXTINF:-1 tvg-id="SairamTV.in" tvg-name="Sairam TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Sairam TV
+https://mumt04.tangotv.in/m18aqlK4SAIRAMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="SankaraTV.in" tvg-name="Sankara TV" group-title="Religious" tvg-language="kan;tam" tvg-quality="576p",Sankara TV
+https://cdn.pishow.tv/ott/live/1135/master.m3u8
+
+#EXTINF:-1 tvg-id="SankaraTV.in" tvg-name="Sankara TV" group-title="Religious" tvg-language="kan;tam" tvg-quality="576p",Sankara TV
+https://mumbai-edge.smartplaytv.in/SriSankara/index.m3u8
+
+#EXTINF:-1 tvg-id="SankaraTV.in" tvg-name="Sankara TV" group-title="Religious" tvg-language="kan;tam" tvg-quality="576p",Sankara TV
+https://mumt05.tangotv.in/87NeALx2SRISANKARA/index.m3u8
+
+#EXTINF:-1 tvg-id="SathiyamTV.in" tvg-name="Sathiyam TV" group-title="News" tvg-language="tam" tvg-quality="576p",Sathiyam TV
+https://mumt07.tangotv.in/zHjX9OFlSATHIYAMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="ShakthiTV.lk" tvg-name="Shakthi TV" group-title="Uncategorized" tvg-language="tam" tvg-quality="576p",Shakthi TV
+https://mumbai-edge.smartplaytv.in/ShakthiTV/index.m3u8
+
+#EXTINF:-1 tvg-id="SirippoliTV.in" tvg-name="Sirippoli TV" group-title="Comedy" tvg-language="tam" tvg-quality="576p",Sirippoli TV
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
+http://103.151.60.162:2122/play/a02v/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
+http://103.185.24.134:3001/SONIC/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-name="Sony Yay!" group-title="Animation;Kids" tvg-language="ben;hin;kan;mal;mar;ori;tam;tel" tvg-quality="576p",Sony Yay!
+http://103.165.93.31:8095/sonyYay/index.m3u8
+
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Star Sports 2
+http://103.151.60.162:2122/play/a00v/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Star Sports 2
+http://103.151.60.162:2122/play/a019/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="StarTamilTelevision.lk" tvg-name="Star Tamil Television" group-title="Movies" tvg-language="tam" tvg-quality="360p",Star Tamil Television
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
+
+#EXTINF:-1 tvg-id="StarVijay.in" tvg-name="Star Vijay" group-title="Entertainment" tvg-language="eng;tam" tvg-quality="396p",Star Vijay
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuperHungama.in" tvg-name="Super Hungama" group-title="Animation;Kids" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Super Hungama
+http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
+
+#EXTINF:-1 tvg-id="SuriyanTV.in" tvg-name="Suriyan TV" group-title="Movies" tvg-language="tam" tvg-quality="576p",Suriyan TV
+https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8
+
+#EXTINF:-1 tvg-id="SuriyanTV.in" tvg-name="Suriyan TV" group-title="Movies" tvg-language="tam" tvg-quality="576p",Suriyan TV
+https://stream.sscloud7.com/live/suriyantv/index.m3u8
+
+#EXTINF:-1 tvg-id="SVBC2.in" tvg-name="SVBC 2" group-title="Religious" tvg-language="tam" tvg-quality="576p",SVBC 2
+https://mumt03.tangotv.in/Dsly5z3HSVBC2TAMIL/index.m3u8
+
+#EXTINF:-1 tvg-id="TamilJanam.in" tvg-name="Tamil Janam" group-title="News" tvg-language="tam" tvg-quality="576p",Tamil Janam
+https://mumt01.tangotv.in/O5aw8Zn3JANAMTVTAMIL/index.m3u8
+
+#EXTINF:-1 tvg-id="TamilanTV.in" tvg-name="Tamilan TV" group-title="Uncategorized" tvg-language="tam" tvg-quality="576p",Tamilan TV
+https://mumt04.tangotv.in/m18aqlK4TAMILANTELEVISION/index.m3u8
+
+#EXTINF:-1 tvg-id="ThanthiOne.in" tvg-name="Thanthi One" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Thanthi One
+https://mumbai-edge.smartplaytv.in/thanthione/index.m3u8
+
+#EXTINF:-1 tvg-id="ThanthiOne.in" tvg-name="Thanthi One" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Thanthi One
+https://mumt07.tangotv.in/zHjX9OFlTHANTHIONE/index.m3u8
+
+#EXTINF:-1 tvg-id="ThanthiTV.in" tvg-name="Thanthi TV" group-title="News" tvg-language="tam" tvg-quality="576p",Thanthi TV
+https://cdn.pishow.tv/ott/live/1612/master.m3u8
+
+#EXTINF:-1 tvg-id="ThanthiTV.in" tvg-name="Thanthi TV" group-title="News" tvg-language="tam" tvg-quality="576p",Thanthi TV
+https://mumt03.tangotv.in/Dsly5z3HTHANTHITV/index.m3u8
+
+#EXTINF:-1 tvg-id="ThanthiTV.in" tvg-name="Thanthi TV" group-title="News" tvg-language="tam" tvg-quality="576p",Thanthi TV
+https://streams.tangotv.in/THANTHITV/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="ThendralTV.in" tvg-name="Thendral TV" group-title="Uncategorized" tvg-language="tam" tvg-quality="576p",Thendral TV
+https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8
+
+#EXTINF:-1 tvg-id="UltimateTV.in" tvg-name="Ultimate TV" group-title="Music" tvg-language="tam" tvg-quality="576p",Ultimate TV
+https://mumbai-edge.smartplaytv.in/utv/index.m3u8
+
+#EXTINF:-1 tvg-id="VaanavilTV.in" tvg-name="Vaanavil TV" group-title="Music" tvg-language="tam" tvg-quality="576p",Vaanavil TV
+https://mumt01.tangotv.in/O5aw8Zn3VAANAVILTV/index.m3u8
+
+#EXTINF:-1 tvg-id="VasanthTV.in" tvg-name="Vasanth TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Vasanth TV
+https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8
+
+#EXTINF:-1 tvg-id="VasanthTV.in" tvg-name="Vasanth TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Vasanth TV
+https://mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8
+
+#EXTINF:-1 tvg-id="VelichamTV.in" tvg-name="Velicham TV" group-title="News" tvg-language="tam" tvg-quality="576p",Velicham TV
+https://cdn.pishow.tv/ott/live/461/master.m3u8
+
+#EXTINF:-1 tvg-id="VelichamTV.in" tvg-name="Velicham TV" group-title="News" tvg-language="tam" tvg-quality="576p",Velicham TV
+https://mumbai-edge.smartplaytv.in/Velichamtv/index.m3u8
+
+#EXTINF:-1 tvg-id="VelichamTV.in" tvg-name="Velicham TV" group-title="News" tvg-language="tam" tvg-quality="576p",Velicham TV
+https://mumt05.tangotv.in/87NeALx2VALICHAMPLUS/index.m3u8
+
+#EXTINF:-1 tvg-id="VendharTV.in" tvg-name="Vendhar TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Vendhar TV
+https://cdn.pishow.tv/ott/live/1271/master.m3u8
+
+#EXTINF:-1 tvg-id="VendharTV.in" tvg-name="Vendhar TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Vendhar TV
+https://mumt04.tangotv.in/m18aqlK4VENDHARTV/index.m3u8
+
+#EXTINF:-1 tvg-id="VendharTV.in" tvg-name="Vendhar TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Vendhar TV
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/VendharTV.m3u8
+
+#EXTINF:-1 tvg-id="VerbumTV.lk" tvg-name="Verbum TV" group-title="Uncategorized" tvg-language="tam" tvg-quality="480p",Verbum TV
+https://edge3-moblive.yuppcdn.net/drm1/smil:verbumtvdrm.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="VillageTV.in" tvg-name="Village TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Village TV
+https://villagetv.applelive.in/villagetv/villagetv/index.m3u8
+
+#EXTINF:-1 tvg-id="WinTV.in" tvg-name="Win TV" group-title="Uncategorized" tvg-language="tam" tvg-quality="576p",Win TV
+https://mumbai-edge.smartplaytv.in/WINTV/index.m3u8
+
+#EXTINF:-1 tvg-id="WinTV.in" tvg-name="Win TV" group-title="Uncategorized" tvg-language="tam" tvg-quality="576p",Win TV
+https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeTamil.in" tvg-name="Zee Tamil" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Zee Tamil
+https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd
+

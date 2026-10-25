@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ONLife.vn" tvg-name="ON Life" group-title="Lifestyle" tvg-language="vie" tvg-quality="720p",ON Life
+https://freem3u.xyz/api/live/play.m3u8?vid=188
+
+#EXTINF:-1 tvg-id="ONO2TV.vn" tvg-name="ON O2TV" group-title="Lifestyle" tvg-language="vie" tvg-quality="1080p",ON O2TV
+https://freem3u.xyz/api/live/play.m3u8?vid=136
+

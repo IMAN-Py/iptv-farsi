@@ -1,0 +1,58 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" group-title="Education" tvg-language="tha" tvg-quality="1080p",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" group-title="Education" tvg-language="tha" tvg-quality="1080p",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="DLTV1.th" tvg-name="DLTV 1" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 1
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+
+#EXTINF:-1 tvg-id="DLTV10.th" tvg-name="DLTV 10" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 10
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+
+#EXTINF:-1 tvg-id="DLTV11.th" tvg-name="DLTV 11" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 11
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+
+#EXTINF:-1 tvg-id="DLTV12.th" tvg-name="DLTV 12" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 12
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+
+#EXTINF:-1 tvg-id="DLTV13.th" tvg-name="DLTV 13" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 13
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+
+#EXTINF:-1 tvg-id="DLTV14.th" tvg-name="DLTV 14" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 14
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+
+#EXTINF:-1 tvg-id="DLTV15.th" tvg-name="DLTV 15" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 15
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+
+#EXTINF:-1 tvg-id="DLTV2.th" tvg-name="DLTV 2" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 2
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+
+#EXTINF:-1 tvg-id="DLTV3.th" tvg-name="DLTV 3" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 3
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+
+#EXTINF:-1 tvg-id="DLTV4.th" tvg-name="DLTV 4" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 4
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+
+#EXTINF:-1 tvg-id="DLTV5.th" tvg-name="DLTV 5" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 5
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+
+#EXTINF:-1 tvg-id="DLTV6.th" tvg-name="DLTV 6" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 6
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+
+#EXTINF:-1 tvg-id="DLTV7.th" tvg-name="DLTV 7" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 7
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+
+#EXTINF:-1 tvg-id="DLTV8.th" tvg-name="DLTV 8" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 8
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+
+#EXTINF:-1 tvg-id="DLTV9.th" tvg-name="DLTV 9" group-title="Education" tvg-language="eng;tha" tvg-quality="1080p",DLTV 9
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+
+#EXTINF:-1 tvg-id="ETV.th" tvg-name="ETV" group-title="Education" tvg-language="tha" tvg-quality="1080p",ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RChannel.th" tvg-name="R Channel" group-title="Education" tvg-language="tha" tvg-quality="576i",R Channel
+http://180.180.243.239/streams/3/hls
+

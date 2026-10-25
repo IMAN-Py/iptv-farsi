@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVT.tg" tvg-name="TVT" group-title="General" tvg-language="ewe;fra;kbp" tvg-quality="720p",TVT
+http://69.64.57.208/tvt/playlist.m3u8
+

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RaizalTV.co" tvg-name="Raizal TV" group-title="Culture" tvg-language="eng;icr" tvg-quality="1080p",Raizal TV
+http://200.122.223.13:55000/play/raizal-tv-ses-6/index.m3u8
+

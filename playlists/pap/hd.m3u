@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Bonairetv.bq" tvg-name="Bonaire.tv" group-title="Culture" tvg-language="nld;pap" tvg-quality="1080p",Bonaire.tv
+https://media.streambrothers.com:1936/8506/8506/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CoolFM989.aw" tvg-name="Cool FM 98.9" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="720p",Cool FM 98.9
+https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="EnergiaTV.bq" tvg-name="Energia TV" group-title="General" tvg-language="eng;nld;pap" tvg-quality="720p",Energia TV
+https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8
+
+#EXTINF:-1 tvg-id="Live99FM.bq" tvg-name="Live99FM" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="1080p",Live99FM
+https://media.streambrothers.com:1936/8014/8014/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NosIslaTV.aw" tvg-name="Nos Isla TV" group-title="Entertainment" tvg-language="nld;pap" tvg-quality="1080p",Nos Isla TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+https://backend-server-dot-telearuba-app.appspot.com/media/livestream23/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NosIslaTV.aw" tvg-name="Nos Isla TV" group-title="Entertainment" tvg-language="nld;pap" tvg-quality="1080p",Nos Isla TV
+https://cdn01.setar.aw/Canal23/canal23/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NosPais.cw" tvg-name="Nos Pais" group-title="Entertainment" tvg-language="eng;nld;pap" tvg-quality="720p",Nos Pais
+https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NosTVBonaire.bq" tvg-name="NosTV Bonaire" group-title="General" tvg-language="nld;pap" tvg-quality="1080p",NosTV Bonaire
+http://streaming.flamingotv.net/nostv/live.m3u8
+
+#EXTINF:-1 tvg-id="Power1017FM.aw" tvg-name="Power 101.7 FM" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="720p",Power 101.7 FM
+https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telearuba.aw" tvg-name="Telearuba" group-title="General" tvg-language="eng;nld;pap;spa" tvg-quality="1080p",Telearuba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telearuba.aw" tvg-name="Telearuba" group-title="General" tvg-language="eng;nld;pap;spa" tvg-quality="1080p",Telearuba
+https://cdn01.setar.aw/Telearuba/telearuba/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VAMTV.cw" tvg-name="VAM TV" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="720p",VAM TV
+https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8
+
+#EXTINF:-1 tvg-id="VIPTV.aw" tvg-name="VIP TV" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="720p",VIP TV
+https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8
+
+#EXTINF:-1 tvg-id="VozDiBonaireTV.bq" tvg-name="Voz Di Bonaire TV" group-title="Entertainment" tvg-language="nld;pap" tvg-quality="720p",Voz Di Bonaire TV
+https://tv.westream.cloud/VozdiBonaireTV/VozdiBonaireTV.m3u8
+
+#EXTINF:-1 tvg-id="X1027FM.aw" tvg-name="X 102.7 FM" group-title="Music" tvg-language="eng;pap" tvg-quality="720p",X 102.7 FM
+#EXTVLCOPT:http-referrer=https://player.castr.com/live_21e811c0d60d11eeaa1a471c2c967e4a
+https://stream.castr.com/65dee3aad6beacddbd6cd1af/live_21e811c0d60d11eeaa1a471c2c967e4a/index.m3u8
+

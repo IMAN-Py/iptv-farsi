@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlankarTV.in" tvg-name="Alankar TV" group-title="Movies" tvg-language="ori" tvg-quality="720p",Alankar TV
+https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KalingaTV.in" tvg-name="Kalinga TV" group-title="News" tvg-language="ori" tvg-quality="720p",Kalinga TV
+https://server.thelegitpro.in/kalingatv/kalingatv/index.m3u8
+
+#EXTINF:-1 tvg-id="News18Odia.in" tvg-name="News18 Odia" group-title="News" tvg-language="ori" tvg-quality="1080p",News18 Odia
+https://mumbai-edge.smartplaytv.in/news18odiya/index.m3u8
+
+#EXTINF:-1 tvg-id="News18Odia.in" tvg-name="News18 Odia" group-title="News" tvg-language="ori" tvg-quality="1080p",News18 Odia
+https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="OdishaTV.in" tvg-name="Odisha TV" group-title="Culture" tvg-language="ori" tvg-quality="720p",Odisha TV
+https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrarthanaLife.in" tvg-name="Prarthana Life" group-title="Uncategorized" tvg-language="ori" tvg-quality="720p",Prarthana Life
+https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TarangMusic.in" tvg-name="Tarang Music" group-title="Music" tvg-language="ori" tvg-quality="720p",Tarang Music
+https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TarangTV.in" tvg-name="Tarang TV" group-title="Entertainment" tvg-language="ori" tvg-quality="720p",Tarang TV
+https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
+

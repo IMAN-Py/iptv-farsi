@@ -1,0 +1,36 @@
+name: Broken stream or wrong channel information
+description: Report playback problems, wrong languages, or incorrect categories.
+title: "[Playlist]: "
+body:
+  - type: input
+    id: playlist
+    attributes:
+      label: Playlist URL
+      description: Paste the playlist you added to your player.
+    validations:
+      required: true
+  - type: input
+    id: channel
+    attributes:
+      label: Channel name or ID
+    validations:
+      required: true
+  - type: input
+    id: stream
+    attributes:
+      label: Affected public stream URL
+      description: If known. Do not paste private tokens or account credentials.
+  - type: input
+    id: environment
+    attributes:
+      label: Player, device, and country
+      placeholder: VLC, Windows, Germany
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include the error, expected behavior, and when you last refreshed the playlist. Persian or English is welcome.
+    validations:
+      required: true

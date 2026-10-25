@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DumaTV.ru" tvg-name="Duma TV" group-title="Legislative" tvg-language="rus" tvg-quality="720p",Duma TV
+http://185.23.80.23:8080/DumaTV/index.m3u8
+
+#EXTINF:-1 tvg-id="DumaTV.ru" tvg-name="Duma TV" group-title="Legislative" tvg-language="rus" tvg-quality="1080p",Duma TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://dumatv.iptv2022.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadaTV.ua" tvg-name="Rada TV" group-title="Legislative" tvg-language="eng;rus;ukr" tvg-quality="720p",Rada TV
+https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
+

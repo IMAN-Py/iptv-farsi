@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DidikTVKPM.my" tvg-name="DidikTV KPM" group-title="Education" tvg-language="mal" tvg-quality="1080p",DidikTV KPM
+#EXTVLCOPT:http-referrer=https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420324
+https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420324
+
+#EXTINF:-1 tvg-id="KiteVicters.in" tvg-name="Kite Victers" group-title="Education" tvg-language="mal" tvg-quality="720p",Kite Victers
+https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
+

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Klasik.hr" tvg-name="Klasik" group-title="Movies" tvg-language="hrv" tvg-quality="576p",Klasik
+https://178.253.194.105/klasiktv/playlist.m3u8
+

@@ -1,0 +1,518 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="312Kino.kg" tvg-name="312 Kino" group-title="Movies" tvg-language="kir;rus" tvg-quality="406p",312 Kino
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+
+#EXTINF:-1 tvg-id="alphaCinema.ru" tvg-name="alpha Cinema" group-title="Comedy;Family;Movies" tvg-language="rus" tvg-quality="1080p",alpha Cinema
+https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+
+#EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" group-title="Movies;Series" tvg-language="rus" tvg-quality="720p",Amedia Hit
+http://31.148.48.15/Amedia_HIT_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" group-title="Movies;Series" tvg-language="rus" tvg-quality="576p",Amedia Hit
+http://flussonic.linkintel.ru/amedia-hit/index.m3u8
+
+#EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" group-title="Movies;Series" tvg-language="rus" tvg-quality="1080p",Amedia Hit
+http://stream.mcquack.net/162/index.m3u8
+
+#EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-name="Amedia Premium" group-title="Movies;Series" tvg-language="rus" tvg-quality="720p",Amedia Premium
+http://31.148.48.15/Amedia_Premium_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Blokbaster.ru" tvg-name="Blokbaster" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Blokbaster
+http://stream.mcquack.net/364/index.m3u8
+
+#EXTINF:-1 tvg-id="Bollywood.ru" tvg-name="Bollywood" group-title="Movies" tvg-language="rus" tvg-quality="576p",Bollywood
+http://176.118.197.101/Bollywood_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-name="Bollywood HD" group-title="Movies" tvg-language="hin;rus" tvg-quality="576p",Bollywood HD
+https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
+
+#EXTINF:-1 tvg-id="Bolt.ru" tvg-name="Bolt" group-title="Movies;Series" tvg-language="rus" tvg-quality="576p",Bolt
+http://hls127.freeott.top:8080/Bolt/video.m3u8
+
+#EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" group-title="Movies" tvg-language="rus" tvg-quality="576i",Cinema
+http://catchup.videoline.ru/cinema/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" group-title="Movies" tvg-language="rus" tvg-quality="576p",Cinema
+http://flussonic.linkintel.ru/cinema/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" group-title="Movies" tvg-language="rus" tvg-quality="576i",Cinema
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CityEdenKinoAction.ru" tvg-name="City Eden KinoAction" group-title="Movies" tvg-language="rus" tvg-quality="1080p",City Eden KinoAction
+https://cityeden.catcast.tv/content/41333/index.m3u8
+
+#EXTINF:-1 tvg-id="CityEdenKinoArt.ru" tvg-name="City Eden KinoArt" group-title="Movies" tvg-language="rus" tvg-quality="1080p",City Eden KinoArt
+https://cityeden.catcast.tv/content/38398/index.m3u8
+
+#EXTINF:-1 tvg-id="CityEdenKinoAsia.ru" tvg-name="City Eden KinoAsia" group-title="Movies" tvg-language="rus" tvg-quality="1080p",City Eden KinoAsia
+https://cityeden.catcast.tv/content/34393/index.m3u8
+
+#EXTINF:-1 tvg-id="CityEdenKinoDetektiv.ru" tvg-name="City Eden KinoDetektiv" group-title="Movies" tvg-language="rus" tvg-quality="1080p",City Eden KinoDetektiv
+https://cityeden.catcast.tv/content/41327/index.m3u8
+
+#EXTINF:-1 tvg-id="CityEdenKinoDrama.ru" tvg-name="City Eden KinoDrama" group-title="Movies" tvg-language="rus" tvg-quality="1080p",City Eden KinoDrama
+https://cityeden.catcast.tv/content/45269/index.m3u8
+
+#EXTINF:-1 tvg-id="CityEdenKinoFantastika.ru" tvg-name="City Eden KinoFantastika" group-title="Movies" tvg-language="rus" tvg-quality="1080p",City Eden KinoFantastika
+https://cityeden.catcast.tv/content/45268/index.m3u8
+
+#EXTINF:-1 tvg-id="CityEdenKinoKlassika.ru" tvg-name="City Eden KinoKlassika" group-title="Movies" tvg-language="rus" tvg-quality="1080p",City Eden KinoKlassika
+https://cityeden.catcast.tv/content/34185/index.m3u8
+
+#EXTINF:-1 tvg-id="CityEdenKinoKomediya.ru" tvg-name="City Eden KinoKomediya" group-title="Movies" tvg-language="rus" tvg-quality="1080p",City Eden KinoKomediya
+https://cityeden.catcast.tv/content/41331/index.m3u8
+
+#EXTINF:-1 tvg-id="CityEdenKinoMistika.ru" tvg-name="City Eden KinoMistika" group-title="Movies" tvg-language="rus" tvg-quality="1080p",City Eden KinoMistika
+https://cityeden.catcast.tv/content/40783/index.m3u8
+
+#EXTINF:-1 tvg-id="CityEdenKinoSemya.ru" tvg-name="City Eden KinoSemya" group-title="Movies" tvg-language="rus" tvg-quality="1080p",City Eden KinoSemya
+https://v2.catcast.tv/content/38128/index.m3u8
+
+#EXTINF:-1 tvg-id="Detskoekino.ru" tvg-name="Detskoe kino" group-title="Movies" tvg-language="rus" tvg-quality="480p",Detskoe kino
+https://autopilot.catcast.tv/content/38720/index.m3u8
+
+#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Dom kino
+http://88.212.15.17/live/test_dom_kino/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Dom kino
+http://stream.mcquack.net/236/index.m3u8
+
+#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Dom kino
+https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" group-title="Movies" tvg-language="rus" tvg-quality="576i",Dom kino
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" group-title="Movies" tvg-language="rus" tvg-quality="576i",Dom kino
+https://streaming.thestream.cyou/live/44.m3u8
+
+#EXTINF:-1 tvg-id="DomkinoPremium.ru" tvg-name="Dom kino Premium" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Dom kino Premium
+http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="DomkinoPremium.ru" tvg-name="Dom kino Premium" group-title="Movies" tvg-language="rus" tvg-quality="576p",Dom kino Premium
+http://88.212.15.17/live/test_dom_kino_premium/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DomkinoPremium.ru" tvg-name="Dom kino Premium" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Dom kino Premium
+http://stream.mcquack.net/108/index.m3u8
+
+#EXTINF:-1 tvg-id="DomkinoPremium.ru" tvg-name="Dom kino Premium" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Dom kino Premium
+https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Dorama.ru" tvg-name="Dorama" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Dorama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/412/index.m3u8
+
+#EXTINF:-1 tvg-id="Dorama.ru" tvg-name="Dorama" group-title="Movies" tvg-language="rus" tvg-quality="576p",Dorama
+https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Dorama.ru" tvg-name="Dorama" group-title="Movies" tvg-language="rus" tvg-quality="576i",Dorama
+https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Evrokino.ru" tvg-name="Evrokino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Evrokino
+http://176.118.197.101/Evrokino/index.m3u8
+
+#EXTINF:-1 tvg-id="Evrokino.ru" tvg-name="Evrokino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Evrokino
+http://31.148.48.15/Evrokino/index.m3u8
+
+#EXTINF:-1 tvg-id="Evrokino.ru" tvg-name="Evrokino" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Evrokino
+http://stream.mcquack.net/385/index.m3u8
+
+#EXTINF:-1 tvg-id="Evrokino.ru" tvg-name="Evrokino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Evrokino
+https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="FAN.ru" tvg-name="FAN" group-title="Animation;Movies" tvg-language="rus" tvg-quality="1080p",FAN
+http://31.148.48.15/Fan/index.m3u8
+
+#EXTINF:-1 tvg-id="FAN.ru" tvg-name="FAN" group-title="Animation;Movies" tvg-language="rus" tvg-quality="576p",FAN
+http://stream.mcquack.net/420/index.m3u8
+
+#EXTINF:-1 tvg-id="FeniksplusKino.ru" tvg-name="Feniks plus Kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Feniks plus Kino
+http://31.148.48.15/Feniks_plus_kino/index.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-name="FILMBOX+ One" group-title="Movies" tvg-language="rus" tvg-quality="450p",FILMBOX+ One
+https://s70378.cdn.ngenix.net/filmbox/index.m3u8
+
+#EXTINF:-1 tvg-id="FilmUADrama.ua" tvg-name="FilmUADrama" group-title="Movies;Series" tvg-language="rus;ukr" tvg-quality="1080p",FilmUADrama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.99.215.227/FilmUADrama/index.m3u8
+
+#EXTINF:-1 tvg-id="FilmUADrama.ua" tvg-name="FilmUADrama" group-title="Movies;Series" tvg-language="rus;ukr" tvg-quality="576i",FilmUADrama
+https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hit.ru" tvg-name="Hit" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Hit
+http://hls127.freeott.top:8080/XitHD/video.m3u8
+
+#EXTINF:-1 tvg-id="Hit.ru" tvg-name="Hit" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Hit
+http://stream.mcquack.net/363/index.m3u8
+
+#EXTINF:-1 tvg-id="Hollywood.ru" tvg-name="Hollywood" group-title="Movies" tvg-language="rus" tvg-quality="576p",Hollywood
+http://31.148.48.15/AMC/index.m3u8
+
+#EXTINF:-1 tvg-id="Hollywood.ru" tvg-name="Hollywood" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Hollywood
+http://31.148.48.15/MGM_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="HorosheeKino.ru" tvg-name="Horoshee Kino" group-title="Movies" tvg-language="rus" tvg-quality="720p",Horoshee Kino
+https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IllusionPlus.ru" tvg-name="Illusion+" group-title="Movies" tvg-language="rus" tvg-quality="576p",Illusion+
+http://176.118.197.101/Illuzion+/index.m3u8
+
+#EXTINF:-1 tvg-id="IllusionPlus.ru" tvg-name="Illusion+" group-title="Movies" tvg-language="rus" tvg-quality="576p",Illusion+
+http://31.148.48.15/Illusion_plus/index.m3u8
+
+#EXTINF:-1 tvg-id="IndiyskoyeKino.ru" tvg-name="Indiyskoye Kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Indiyskoye Kino
+http://188.113.190.12/329/index.m3u8
+
+#EXTINF:-1 tvg-id="IndiyskoyeKino.ru" tvg-name="Indiyskoye Kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Indiyskoye Kino
+http://stream.mcquack.net/104/index.m3u8
+
+#EXTINF:-1 tvg-id="IndiyskoyeKino.ru" tvg-name="Indiyskoye Kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Indiyskoye Kino
+https://fs.uplink.kz/indiyskoe_kino/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="IndiyskoyeKino.ru" tvg-name="Indiyskoye Kino" group-title="Movies" tvg-language="rus" tvg-quality="576i",Indiyskoye Kino
+https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Kineko.ru" tvg-name="Kineko" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kineko
+http://31.148.48.15/Kineko_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Kino1.ru" tvg-name="Kino 1" group-title="Movies" tvg-language="rus" tvg-quality="480p",Kino 1
+http://kino-1.catcast.tv/content/38617/index.m3u8
+
+#EXTINF:-1 tvg-id="Kino1.ru" tvg-name="Kino 1" group-title="Movies" tvg-language="rus" tvg-quality="480p",Kino 1
+https://autopilot.catcast.tv/content/38617/index.m3u8
+
+#EXTINF:-1 tvg-id="Kino1.ua" tvg-name="Kino 1" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kino 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/395/index.m3u8
+
+#EXTINF:-1 tvg-id="Kino2.ua" tvg-name="Kino 2" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kino 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/465/index.m3u8
+
+#EXTINF:-1 tvg-id="Kino24.ru" tvg-name="Kino 24" group-title="Movies" tvg-language="rus" tvg-quality="720p",Kino 24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+
+#EXTINF:-1 tvg-id="KinoTV.ru" tvg-name="Kino TV" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kino TV
+http://176.118.197.101/KinoTvHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KinoTV.ru" tvg-name="Kino TV" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kino TV
+http://31.148.48.15/Kino_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="KinoTV.ru" tvg-name="Kino TV" group-title="Movies" tvg-language="rus" tvg-quality="720p",Kino TV
+http://31.148.48.15/Kino_TV_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="KinoTV.ru" tvg-name="Kino TV" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kino TV
+http://flussonic.linkintel.ru/kino-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="KinoTV.ru" tvg-name="Kino TV" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kino TV
+http://stream.mcquack.net/221/index.m3u8
+
+#EXTINF:-1 tvg-id="KinoTV.ru" tvg-name="Kino TV" group-title="Movies" tvg-language="rus" tvg-quality="576i",Kino TV
+https://vod.tuva.ru/kinotv/index.m3u8
+
+#EXTINF:-1 tvg-id="KinoBoevik.kz" tvg-name="KinoBoevik" group-title="Movies" tvg-language="kaz;rus" tvg-quality="1080p",KinoBoevik
+https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="KinoHit.ru" tvg-name="KinoHit" group-title="Movies" tvg-language="rus" tvg-quality="576p",KinoHit
+http://stream.mcquack.net/126/index.m3u8
+
+#EXTINF:-1 tvg-id="KinoHit.ru" tvg-name="KinoHit" group-title="Movies" tvg-language="rus" tvg-quality="576p",KinoHit
+https://fs.uplink.kz/kinohit/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="KinoHit.ru" tvg-name="KinoHit" group-title="Movies" tvg-language="rus" tvg-quality="576i",KinoHit
+https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Kinomix.ru" tvg-name="Kinomix" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinomix
+http://93.170.254.17/Kinomiks/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinomix.ru" tvg-name="Kinomix" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinomix
+http://stream.mcquack.net/133/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinomix.ru" tvg-name="Kinomix" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinomix
+https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinopokaz
+http://31.148.48.15/Kinopokaz/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinopokaz
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinopokaz
+http://stream.mcquack.net/64/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" group-title="Movies" tvg-language="rus" tvg-quality="576i",Kinopokaz
+https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinopremyera
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinopremyera
+https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" group-title="Movies" tvg-language="rus" tvg-quality="576i",Kinopremyera
+https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="KinoSat.ru" tvg-name="KinoSat" group-title="Movies" tvg-language="rus" tvg-quality="576p",KinoSat
+http://31.148.48.15/Kineko/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinosemja.ru" tvg-name="Kinosemja" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinosemja
+http://stream.mcquack.net/170/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinosemja.ru" tvg-name="Kinosemja" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinosemja
+https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Kinoseriya.ru" tvg-name="Kinoseriya" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinoseriya
+http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="Kinoseriya.ru" tvg-name="Kinoseriya" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinoseriya
+https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Kinosvidanie" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinosvidanie
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Kinosvidanie" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinosvidanie
+http://stream.mcquack.net/171/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Kinosvidanie" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinosvidanie
+https://fs.uplink.kz/kinosvidanie/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Kinosvidanie" group-title="Movies" tvg-language="rus" tvg-quality="576i",Kinosvidanie
+https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Kinouzhas.ru" tvg-name="Kinouzhas" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinouzhas
+http://stream.mcquack.net/278/index.m3u8
+
+#EXTINF:-1 tvg-id="Kinouzhas.ru" tvg-name="Kinouzhas" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinouzhas
+https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="Mirovoekino.kz" tvg-name="Mirovoe kino" group-title="Movies" tvg-language="kaz;rus" tvg-quality="1080p",Mirovoe kino
+https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" tvg-name="Mosfilm Gold Collection" group-title="Movies" tvg-language="rus" tvg-quality="576p",Mosfilm Gold Collection
+http://31.222.235.15/mosfilm/index.m3u8
+
+#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" tvg-name="Mosfilm Gold Collection" group-title="Movies" tvg-language="rus" tvg-quality="576p",Mosfilm Gold Collection
+http://hls127.freeott.top:8080/Mosfilm/video.m3u8
+
+#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" tvg-name="Mosfilm Gold Collection" group-title="Movies" tvg-language="rus" tvg-quality="576p",Mosfilm Gold Collection
+http://stream.mcquack.net/369/index.m3u8
+
+#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" tvg-name="Mosfilm Gold Collection" group-title="Movies" tvg-language="rus" tvg-quality="576p",Mosfilm Gold Collection
+https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="MovifyKino.lv" tvg-name="Movify Kino" group-title="Classic;Movies" tvg-language="lav;rus" tvg-quality="576p",Movify Kino
+#EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
+https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
+
+#EXTINF:-1 tvg-id="Muzhskoekino.ru" tvg-name="Muzhskoe kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Muzhskoe kino
+http://stream.mcquack.net/107/index.m3u8
+
+#EXTINF:-1 tvg-id="Muzhskoekino.ru" tvg-name="Muzhskoe kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Muzhskoe kino
+https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="NashKinomir.de" tvg-name="Nash Kinomir" group-title="Movies" tvg-language="rus" tvg-quality="576p",Nash Kinomir
+http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
+
+#EXTINF:-1 tvg-id="NashKinopokaz.ru" tvg-name="Nash Kinopokaz" group-title="Movies" tvg-language="rus" tvg-quality="576p",Nash Kinopokaz
+http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
+
+#EXTINF:-1 tvg-id="Nashe.ru" tvg-name="Nashe" group-title="Movies;Series" tvg-language="rus" tvg-quality="576p",Nashe
+http://stream.mcquack.net/217/index.m3u8
+
+#EXTINF:-1 tvg-id="NasheLubimoeKino.ru" tvg-name="Nashe Lubimoe Kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Nashe Lubimoe Kino
+http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
+
+#EXTINF:-1 tvg-id="NasheLubimoeKinoUkraine.ua" tvg-name="Nashe Lubimoe Kino Ukraine" group-title="Movies" tvg-language="rus;ukr" tvg-quality="1080p",Nashe Lubimoe Kino Ukraine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/456/index.m3u8
+
+#EXTINF:-1 tvg-id="Nashemuzhskoe.ru" tvg-name="Nashe muzhskoe" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Nashe muzhskoe
+http://stream.mcquack.net/362/index.m3u8
+
+#EXTINF:-1 tvg-id="NasheNovoeKino.ru" tvg-name="Nashe Novoe Kino" group-title="Movies" tvg-language="rus" tvg-quality="576i",Nashe Novoe Kino
+https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru" tvg-name="Ostrosyuzhetnoye" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Ostrosyuzhetnoye
+http://stream.mcquack.net/214/index.m3u8
+
+#EXTINF:-1 tvg-id="Patriot.ru" tvg-name="Patriot" group-title="Movies" tvg-language="rus" tvg-quality="720p",Patriot
+https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
+
+#EXTINF:-1 tvg-id="Premialnoe.ru" tvg-name="Premialnoe" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Premialnoe
+http://stream.mcquack.net/421/index.m3u8
+
+#EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-name="Rodnoe Kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Rodnoe Kino
+http://31.148.48.15/Rodnoe_kino/index.m3u8
+
+#EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-name="Rodnoe Kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Rodnoe Kino
+http://stream.mcquack.net/242/index.m3u8
+
+#EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-name="Rodnoe Kino" group-title="Movies" tvg-language="rus" tvg-quality="576i",Rodnoe Kino
+https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RusskiyBestseller.ru" tvg-name="Russkiy Bestseller" group-title="Movies" tvg-language="rus" tvg-quality="576p",Russkiy Bestseller
+http://31.148.48.15/Russkiy_Bestseller/index.m3u8
+
+#EXTINF:-1 tvg-id="RusskiyBestseller.ru" tvg-name="Russkiy Bestseller" group-title="Movies" tvg-language="rus" tvg-quality="576p",Russkiy Bestseller
+http://stream.mcquack.net/208/index.m3u8
+
+#EXTINF:-1 tvg-id="RusskiyDetektiv.ru" tvg-name="Russkiy Detektiv" group-title="Movies" tvg-language="rus" tvg-quality="576p",Russkiy Detektiv
+http://31.148.48.15/Russkiy_Detektiv/index.m3u8
+
+#EXTINF:-1 tvg-id="RusskiyDetektiv.ru" tvg-name="Russkiy Detektiv" group-title="Movies" tvg-language="rus" tvg-quality="576p",Russkiy Detektiv
+http://stream.mcquack.net/204/index.m3u8
+
+#EXTINF:-1 tvg-id="RusskiyIllusion.ru" tvg-name="Russkiy Illusion" group-title="Movies" tvg-language="rus" tvg-quality="576p",Russkiy Illusion
+http://31.148.48.15/Russkiy_illusion/index.m3u8
+
+#EXTINF:-1 tvg-id="Russkiyroman.ru" tvg-name="Russkiy roman" group-title="Movies" tvg-language="rus" tvg-quality="576p",Russkiy roman
+http://31.148.48.15/Russkiy_Roman/index.m3u8
+
+#EXTINF:-1 tvg-id="Russkiyroman.ru" tvg-name="Russkiy roman" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Russkiy roman
+http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Russkiyroman.ru" tvg-name="Russkiy roman" group-title="Movies" tvg-language="rus" tvg-quality="576p",Russkiy roman
+http://stream.mcquack.net/266/index.m3u8
+
+#EXTINF:-1 tvg-id="Russkiyroman.ru" tvg-name="Russkiy roman" group-title="Movies" tvg-language="rus" tvg-quality="576p",Russkiy roman
+https://vod.tuva.ru/rusroman/index.m3u8
+
+#EXTINF:-1 tvg-id="Shokiruyushchee.ru" tvg-name="Shokiruyushchee" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Shokiruyushchee
+http://stream.mcquack.net/75/index.m3u8
+
+#EXTINF:-1 tvg-id="ShotTV.ru" tvg-name="Shot TV" group-title="Movies" tvg-language="rus" tvg-quality="576p",Shot TV
+http://hls127.freeott.top:8080/SHOT_TV/video.m3u8
+
+#EXTINF:-1 tvg-id="SilkWayCinema.kz" tvg-name="Silk Way Cinema" group-title="Movies" tvg-language="kaz;rus" tvg-quality="1080p",Silk Way Cinema
+https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8
+
+#EXTINF:-1 tvg-id="Smotrim100Klassika.ru" tvg-name="Smotrim 100% Klassika" group-title="Classic;Movies" tvg-language="rus" tvg-quality="576i",Smotrim 100% Klassika
+https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+
+#EXTINF:-1 tvg-id="Smotrim100Klassika.ru" tvg-name="Smotrim 100% Klassika" group-title="Classic;Movies" tvg-language="rus" tvg-quality="720p",Smotrim 100% Klassika
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="StarCinema.ru" tvg-name="Star Cinema" group-title="Movies" tvg-language="rus" tvg-quality="576i",Star Cinema
+https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarFamily.ru" tvg-name="Star Family" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Star Family
+https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="STARTAir.ru" tvg-name="START Air" group-title="Movies" tvg-language="rus" tvg-quality="1080p",START Air
+http://176.118.197.101/START_AIR/index.m3u8
+
+#EXTINF:-1 tvg-id="STARTAir.ru" tvg-name="START Air" group-title="Movies" tvg-language="rus" tvg-quality="576p",START Air
+http://stream.mcquack.net/128/index.m3u8
+
+#EXTINF:-1 tvg-id="STARTWorld.ru" tvg-name="START World" group-title="Movies" tvg-language="rus" tvg-quality="576p",START World
+https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="TV21.ru" tvg-name="TV 21" group-title="Movies" tvg-language="rus" tvg-quality="576p",TV 21
+http://178.134.1.158:8081/TVXXI/index.m3u8
+
+#EXTINF:-1 tvg-id="TV21.ru" tvg-name="TV 21" group-title="Movies" tvg-language="rus" tvg-quality="576p",TV 21
+https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="TV21International.ru" tvg-name="TV 21 International" group-title="Movies" tvg-language="rus" tvg-quality="576p",TV 21 International
+http://46.53.200.153:7777/play/TV-21M/index.m3u8
+
+#EXTINF:-1 tvg-id="TV21International.ru" tvg-name="TV 21 International" group-title="Movies" tvg-language="rus" tvg-quality="576p",TV 21 International
+http://stream.mcquack.net/152/index.m3u8
+
+#EXTINF:-1 tvg-id="TV1000RussianKinoGlobal.ru" tvg-name="TV1000 Russian Kino Global" group-title="Movies" tvg-language="rus" tvg-quality="576i",TV1000 Russian Kino Global
+http://213.91.179.28:8000/play/a0bx
+
+#EXTINF:-1 tvg-id="VelvetEuropeanMovies.ru" tvg-name="Velvet. European Movies" group-title="Family;Movies" tvg-language="rus" tvg-quality="1080p",Velvet. European Movies
+https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
+
+#EXTINF:-1 tvg-id="VelvetGoldenCollection.ru" tvg-name="Velvet. Golden Collection" group-title="Classic;Movies" tvg-language="rus" tvg-quality="1080p",Velvet. Golden Collection
+https://cdn.rostelekom-tv.xyz/live/v804qFZr0QVQ1s9Z.m3u8
+
+#EXTINF:-1 tvg-id="VelvetScary.ru" tvg-name="Velvet. Scary" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Velvet. Scary
+https://cdn.rostelekom-tv.xyz/live/NImhIFLevxCbtcP-.m3u8
+
+#EXTINF:-1 tvg-id="VelvetSovetskoeKino.ru" tvg-name="Velvet. Sovetskoe Kino" group-title="Classic;Movies" tvg-language="rus" tvg-quality="1080p",Velvet. Sovetskoe Kino
+https://cdn.rostelekom-tv.xyz/live/nF4sFCa49nFPHSF_.m3u8
+
+#EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng;rus" tvg-quality="576i",Viasat Kino
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&master=104
+
+#EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" group-title="Movies" tvg-language="eng;rus" tvg-quality="576p",Viasat Kino
+http://dtv.vol.net.ua/Viasat_Kino/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatKinoAction.ua" tvg-name="Viasat Kino Action" group-title="Movies" tvg-language="eng;lat;rus" tvg-quality="576i",Viasat Kino Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105
+
+#EXTINF:-1 tvg-id="ViasatKinoAction.ua" tvg-name="Viasat Kino Action" group-title="Movies" tvg-language="eng;lat;rus" tvg-quality="576p",Viasat Kino Action
+http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatKinoComedy.ua" tvg-name="Viasat Kino Comedy" group-title="Comedy;Movies" tvg-language="eng;lat;rus" tvg-quality="576i",Viasat Kino Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249
+
+#EXTINF:-1 tvg-id="ViasatKinoWorld.ua" tvg-name="Viasat Kino World" group-title="Movies" tvg-language="rus" tvg-quality="576i",Viasat Kino World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ%3D%3D&master=102
+
+#EXTINF:-1 tvg-id="ViasatSerial.ua" tvg-name="Viasat Serial" group-title="Movies;Series" tvg-language="rus" tvg-quality="1080p",Viasat Serial
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599
+
+#EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000
+http://46.53.200.153:7777/play/TV_1000/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000
+http://stream.mcquack.net/110/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000
+https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="viju TV1000 action" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000 action
+http://46.53.200.153:7777/play/a01h/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="viju TV1000 action" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000 action
+http://stream.mcquack.net/100/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="viju TV1000 action" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000 action
+https://fs.uplink.kz/viju_tv1000_action/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="viju TV1000 action" group-title="Movies" tvg-language="rus" tvg-quality="576i",viju TV1000 action
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="vijuTV1000novella.ru" tvg-name="viju TV1000 novella" group-title="Movies" tvg-language="rus" tvg-quality="1080p",viju TV1000 novella
+http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-name="viju TV1000 russkoe" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000 russkoe
+http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-name="viju TV1000 russkoe" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000 russkoe
+http://46.53.200.153:7777/play/a01g/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-name="viju TV1000 russkoe" group-title="Movies" tvg-language="rus" tvg-quality="576p",viju TV1000 russkoe
+https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv
+
+#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-name="viju TV1000 russkoe" group-title="Movies" tvg-language="rus" tvg-quality="576i",viju TV1000 russkoe
+https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-name="viju TV1000 russkoe" group-title="Movies" tvg-language="rus" tvg-quality="576i",viju TV1000 russkoe
+https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="vijuPlusMegahit.ru" tvg-name="viju+ Megahit" group-title="Movies" tvg-language="rus" tvg-quality="1080p",viju+ Megahit
+http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuPlusMegahit.ru" tvg-name="viju+ Megahit" group-title="Movies" tvg-language="rus" tvg-quality="1080p",viju+ Megahit
+http://stream.mcquack.net/200/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuPlusPremiere.ru" tvg-name="viju+ Premiere" group-title="Movies" tvg-language="rus" tvg-quality="1080p",viju+ Premiere
+http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuPlusPremiere.ru" tvg-name="viju+ Premiere" group-title="Movies" tvg-language="rus" tvg-quality="1080p",viju+ Premiere
+http://stream.mcquack.net/202/index.m3u8
+

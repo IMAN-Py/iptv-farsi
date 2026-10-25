@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="YES.mv" tvg-name="YES" group-title="Culture;Entertainment;Sports" tvg-language="div" tvg-quality="576i",YES
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
+
+#EXTINF:-1 tvg-id="YES.mv" tvg-name="YES" group-title="Culture;Entertainment;Sports" tvg-language="div" tvg-quality="576i",YES
+https://lana.psm.mv/live/yes.m3u8
+

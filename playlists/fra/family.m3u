@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVFamille.mq" tvg-name="TV Famille" group-title="Family;Religious" tvg-language="fra" tvg-quality="720p",TV Famille
+https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
+

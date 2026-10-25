@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AfraFilm.ir" tvg-name="Afra Film" group-title="Movies" tvg-language="fas" tvg-quality="720p",Afra Film
+https://afrafhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="BravoFarsiTV.ir" tvg-name="Bravo Farsi TV" group-title="Movies" tvg-language="fas" tvg-quality="360p",Bravo Farsi TV
+https://bravoohls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="CafeFilm.ir" tvg-name="Cafe Film" group-title="Movies" tvg-language="fas" tvg-quality="720p",Cafe Film
+https://cafefhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="EkranMovies.ir" tvg-name="Ekran Movies" group-title="Movies" tvg-language="fas" tvg-quality="576i",Ekran Movies
+https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="GEMBollywood.tr" tvg-name="GEM Bollywood" group-title="Movies" tvg-language="fas" tvg-quality="480i",GEM Bollywood
+https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="GEMDrama.tr" tvg-name="GEM Drama" group-title="Movies" tvg-language="fas" tvg-quality="480i",GEM Drama
+https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="GEMDramaPlus.tr" tvg-name="GEM Drama +" group-title="Movies" tvg-language="fas" tvg-quality="480i",GEM Drama +
+https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="GEMFilm.tr" tvg-name="GEM Film" group-title="Movies" tvg-language="fas" tvg-quality="480i",GEM Film
+https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="GEMOnyx.tr" tvg-name="GEM Onyx" group-title="Movies" tvg-language="fas" tvg-quality="576i",GEM Onyx
+https://ca-rt.onetv.app/gemonyx/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="GEMPixel.tr" tvg-name="GEM Pixel" group-title="Movies" tvg-language="fas" tvg-quality="576i",GEM Pixel
+https://ca-rt.onetv.app/gempixel/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="GEMPixel.tr" tvg-name="GEM Pixel" group-title="Movies" tvg-language="fas" tvg-quality="576i",GEM Pixel
+https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
+
+#EXTINF:-1 tvg-id="GEMRubix.tr" tvg-name="GEM Rubix" group-title="Movies" tvg-language="fas" tvg-quality="576i",GEM Rubix
+https://ca-rt.onetv.app/gemrubix/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="GEMRubixPlus.tr" tvg-name="GEM Rubix +" group-title="Movies" tvg-language="fas" tvg-quality="576i",GEM Rubix +
+https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="GEMTV.tr" tvg-name="GEM TV" group-title="Movies" tvg-language="fas" tvg-quality="480i",GEM TV
+https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="GEMTVPlus.tr" tvg-name="GEM TV +" group-title="Movies" tvg-language="fas" tvg-quality="480i",GEM TV +
+https://ca-rt.onetv.app/gemtvplus/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="GoldStar.ir" tvg-name="Gold Star" group-title="Movies" tvg-language="fas" tvg-quality="720p",Gold Star
+https://moviethls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="GrandCinema.tr" tvg-name="Grand Cinema" group-title="Movies" tvg-language="fas" tvg-quality="576i",Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="HomePlus.ir" tvg-name="HomePlus" group-title="Movies" tvg-language="fas" tvg-quality="720p",HomePlus
+https://homeplushls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ICCplus.us" tvg-name="ICC plus" group-title="Movies" tvg-language="fas" tvg-quality="1080p",ICC plus
+https://icchls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="iFilm2.ir" tvg-name="iFilm 2" group-title="Movies" tvg-language="fas" tvg-quality="576i",iFilm 2
+https://live.presstv.co.uk/hls/ifilm2.m3u8
+
+#EXTINF:-1 tvg-id="iFilmPersian.ir" tvg-name="iFilm Persian" group-title="Movies" tvg-language="fas" tvg-quality="576i",iFilm Persian
+https://live.presstv.co.uk/hls/ifilmfa.m3u8
+
+#EXTINF:-1 tvg-id="iFilmPersian.ir" tvg-name="iFilm Persian" group-title="Movies" tvg-language="fas" tvg-quality="576i",iFilm Persian
+https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MaahTV.my" tvg-name="Maah TV" group-title="Movies" tvg-language="fas" tvg-quality="720p",Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="MetaFilmTV.ir" tvg-name="Meta Film TV" group-title="Movies" tvg-language="fas" tvg-quality="576i",Meta Film TV
+https://metafilmhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="NewFlix.ir" tvg-name="NewFlix" group-title="Movies" tvg-language="fas" tvg-quality="720p",NewFlix
+https://newfhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PersianaCinema.fr" tvg-name="Persiana Cinema" group-title="Movies" tvg-language="fas" tvg-quality="576i",Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PersianaCinema.fr" tvg-name="Persiana Cinema" group-title="Movies" tvg-language="fas" tvg-quality="576i",Persiana Cinema
+https://todayhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PersianaFamily.fr" tvg-name="Persiana Family" group-title="Movies" tvg-language="fas" tvg-quality="576i",Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PersianaIranian.fr" tvg-name="Persiana Iranian" group-title="Movies" tvg-language="fas" tvg-quality="576i",Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PersianaPlus.fr" tvg-name="Persiana Plus" group-title="Movies" tvg-language="fas" tvg-quality="576i",Persiana Plus
+https://euhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="SL1.ir" tvg-name="SL 1" group-title="Movies" tvg-language="fas" tvg-quality="576i",SL 1
+https://slonehls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="SL2.ir" tvg-name="SL 2" group-title="Movies" tvg-language="fas" tvg-quality="576i",SL 2
+https://sltwohls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="T2Movies.ir" tvg-name="T2 Movies" group-title="Movies" tvg-language="fas" tvg-quality="720p",T2 Movies
+https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
+
+#EXTINF:-1 tvg-id="Tamasha.ir" tvg-name="Tamasha" group-title="Movies" tvg-language="fas" tvg-quality="576i",Tamasha
+https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
+

@@ -1,0 +1,1131 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde" group-title="General" tvg-language="ara;fra" tvg-quality="1080p",2M Monde
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+
+#EXTINF:-1 tvg-id="AbdulmajeedAbdullah.sa" tvg-name="Abdulmajeed Abdullah" group-title="Music" tvg-language="ara" tvg-quality="1080p",Abdulmajeed Abdullah
+https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
+
+#EXTINF:-1 tvg-id="ABNsat.iq" tvg-name="ABNsat" group-title="Religious" tvg-language="ara" tvg-quality="720p",ABNsat
+https://mediaserver.abnvideos.com/streams/abnsat.m3u8
+
+#EXTINF:-1 tvg-id="AfghanistanInternational.uk" tvg-name="Afghanistan International" group-title="News" tvg-language="ara;eng;pus" tvg-quality="720p",Afghanistan International
+https://hls.afintl.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Aflam.sa" tvg-name="Aflam" group-title="Movies" tvg-language="ara;arz" tvg-quality="1080p",Aflam
+https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AghaniAghaniTV.lb" tvg-name="Aghani Aghani TV" group-title="Music" tvg-language="ara" tvg-quality="1080p",Aghani Aghani TV
+https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
+
+#EXTINF:-1 tvg-id="AghapyTV.eg" tvg-name="Aghapy TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Aghapy TV
+https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AjmanTV.ae" tvg-name="Ajman TV" group-title="General" tvg-language="ara;eng" tvg-quality="1080p",Ajman TV
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AjyalTV.ps" tvg-name="Ajyal TV" group-title="General" tvg-language="ara" tvg-quality="720p",Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/index.m3u8
+
+#EXTINF:-1 tvg-id="AjyalTV.ps" tvg-name="Ajyal TV" group-title="General" tvg-language="ara" tvg-quality="720p",Ajyal TV
+http://htvmada.mada.ps:8888/ajyal/index.m3u8
+
+#EXTINF:-1 tvg-id="AlArabiyaBusiness.ae" tvg-name="Al Arabiya Business" group-title="Business" tvg-language="ara" tvg-quality="1080p",Al Arabiya Business
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae" tvg-name="Al Arabiya Programs" group-title="Documentary;News" tvg-language="ara" tvg-quality="1280p",Al Arabiya Programs
+https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlArabyTV.qa" tvg-name="Al Araby TV" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Araby TV
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlArabyTV.qa" tvg-name="Al Araby TV" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Araby TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5616
+
+#EXTINF:-1 tvg-id="AlArabyTV2.qa" tvg-name="Al Araby TV 2" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Araby TV 2
+https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlArabyTV2.qa" tvg-name="Al Araby TV 2" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Araby TV 2
+https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlArabyTV2.qa" tvg-name="Al Araby TV 2" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Araby TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617
+
+#EXTINF:-1 tvg-id="AlEkhbariya.sa" tvg-name="Al Ekhbariya" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Ekhbariya
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+
+#EXTINF:-1 tvg-id="AlGhadTV.eg" tvg-name="Al Ghad TV" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Ghad TV
+https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+
+#EXTINF:-1 tvg-id="AlHadath.sa" tvg-name="Al Hadath" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlHadath.sa" tvg-name="Al Hadath" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Hadath
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlHadath.sa" tvg-name="Al Hadath" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Hadath
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
+
+#EXTINF:-1 tvg-id="AlHayatTV.us" tvg-name="Al Hayat TV" group-title="Religious" tvg-language="ara" tvg-quality="720p",Al Hayat TV
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlHiwarTV.uk" tvg-name="Al Hiwar TV" group-title="Education" tvg-language="ara" tvg-quality="1080p",Al Hiwar TV
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlHorreyaTV.us" tvg-name="Al Horreya TV" group-title="Religious" tvg-language="ara" tvg-quality="720p",Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlHorreyaTV.us" tvg-name="Al Horreya TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlIraqia.iq" tvg-name="Al Iraqia" group-title="General" tvg-language="ara" tvg-quality="1080p",Al Iraqia
+https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
+
+#EXTINF:-1 tvg-id="AlIraqiaNews.iq" tvg-name="Al Iraqia News" group-title="News" tvg-language="ara" tvg-quality="720p",Al Iraqia News
+https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
+
+#EXTINF:-1 tvg-id="AlIraqiaSport.iq" tvg-name="Al Iraqia Sport" group-title="Sports" tvg-language="ara" tvg-quality="720p",Al Iraqia Sport
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+
+#EXTINF:-1 tvg-id="AlJadeed.lb" tvg-name="Al Jadeed" group-title="General" tvg-language="ara" tvg-quality="1080p",Al Jadeed
+http://185.9.2.18/chid_391/mono.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Jazeera
+https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Jazeera
+https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Jazeera
+https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Jazeera
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Jazeera
+https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Jazeera
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera2.qa" tvg-name="Al Jazeera 2" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Jazeera 2
+https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="Al Jazeera Documentary" group-title="Documentary" tvg-language="ara" tvg-quality="1080p",Al Jazeera Documentary
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="Al Jazeera Documentary" group-title="Documentary" tvg-language="ara" tvg-quality="1080p",Al Jazeera Documentary
+https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="Al Jazeera Documentary" group-title="Documentary" tvg-language="ara" tvg-quality="1080p",Al Jazeera Documentary
+https://live-hls-web-ajd-fa.thehlive.com/AJD/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="Al Jazeera Documentary" group-title="Documentary" tvg-language="ara" tvg-quality="1080p",Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-name="Al Jazeera Mubasher" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Jazeera Mubasher
+https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-name="Al Jazeera Mubasher" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Jazeera Mubasher
+https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-name="Al Jazeera Mubasher" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Jazeera Mubasher
+https://live-hls-web-ajm-fa.thehlive.com/AJM/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-name="Al Jazeera Mubasher" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraMubasher24.qa" tvg-name="Al Jazeera Mubasher 24" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Jazeera Mubasher 24
+https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraMubasher24.qa" tvg-name="Al Jazeera Mubasher 24" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Jazeera Mubasher 24
+https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraMubasher24.qa" tvg-name="Al Jazeera Mubasher 24" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Jazeera Mubasher 24
+https://live-hls-web-ajm24-fa.thehlive.com/AJM24/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraMubasherBroadcast2.qa" tvg-name="Al Jazeera Mubasher Broadcast 2" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Jazeera Mubasher Broadcast 2
+https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraMubasherBroadcast2.qa" tvg-name="Al Jazeera Mubasher Broadcast 2" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Jazeera Mubasher Broadcast 2
+https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraMubasherBroadcast2.qa" tvg-name="Al Jazeera Mubasher Broadcast 2" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Jazeera Mubasher Broadcast 2
+https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8
+
+#EXTINF:-1 tvg-id="AlMaarefTV.qa" tvg-name="Al Maaref TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Al Maaref TV
+https://bucharest.zeuscdn724.com/lb0/CH-AL-MA/index.m3u8
+
+#EXTINF:-1 tvg-id="AlMadina.ps" tvg-name="Al Madina" group-title="Uncategorized" tvg-language="ara" tvg-quality="720p",Al Madina
+https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
+
+#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-name="Al Maghribia" group-title="General" tvg-language="ara" tvg-quality="1080p",Al Maghribia
+http://185.9.2.18/chid_205/index.m3u8
+
+#EXTINF:-1 tvg-id="AlMashhad.ae" tvg-name="Al Mashhad" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Mashhad
+https://amg30483-amg30483c23-amgplt0794.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30483-amg30483c23-amgplt0794/playlist.m3u8?ads.appversion=[APP_VERSION]&ads.devicemodel=[DEVICE_MODEL]&ads.lat=[LMT]&ads.bundleid=[APP_BUNDLE]&ads.donotsell=[DNS]&ads.ifa=[IFA]&ads.targetad=[TARGETAD_ALLOWED]&ads.appstoreurl=[APP_STOREURL]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicetype=[DEVICE_TYPE]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.appname=[APP_NAME]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.givn=[NONCE]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]&ads.coppa=0&ads.ic=[IC]&ads.network_name=[networkname]
+
+#EXTINF:-1 tvg-id="AlMasirah.ye" tvg-name="Al Masirah" group-title="News" tvg-language="ara" tvg-quality="720p",Al Masirah
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlMasriyah.eg" tvg-name="Al Masriyah" group-title="General" tvg-language="ara" tvg-quality="1080p",Al Masriyah
+http://185.9.2.18/chid_247/index.m3u8
+
+#EXTINF:-1 tvg-id="AlNajahNews.ps" tvg-name="Al Najah News" group-title="News" tvg-language="ara" tvg-quality="720p",Al Najah News
+https://streaming.najah.edu:8443/hls/AlNajah.m3u8
+
+#EXTINF:-1 tvg-id="AlQamarTV.ae" tvg-name="Al Qamar TV" group-title="Uncategorized" tvg-language="ara" tvg-quality="1080p",Al Qamar TV
+https://streamer3.premio.link/alqamar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" group-title="Religious" tvg-language="ara" tvg-quality="720p",Al Quran Al Kareem TV
+http://m.live.net.sa:1935/live/quran/gmswf.m3u8
+
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" group-title="Religious" tvg-language="ara" tvg-quality="720p",Al Quran Al Kareem TV
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlRasheedTV.iq" tvg-name="Al Rasheed TV" group-title="General" tvg-language="ara" tvg-quality="1080p",Al Rasheed TV
+https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlRayyanOldTV.qa" tvg-name="Al Rayyan Old TV" group-title="General" tvg-language="ara" tvg-quality="1080p",Al Rayyan Old TV
+https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="AlRayyanOldTV.qa" tvg-name="Al Rayyan Old TV" group-title="General" tvg-language="ara" tvg-quality="720p",Al Rayyan Old TV
+https://streamer7.qna.org.qa/148136781_live/148136781_63.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlRayyanTV.qa" tvg-name="Al Rayyan TV" group-title="General" tvg-language="ara" tvg-quality="1080p",Al Rayyan TV
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="AlRayyanTV.qa" tvg-name="Al Rayyan TV" group-title="General" tvg-language="ara" tvg-quality="720p",Al Rayyan TV
+https://streamer7.qna.org.qa/148136749_live/148136749_296.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="Al Resalah" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Al Resalah
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlRiyadhRadio.sa" tvg-name="Al Riyadh Radio" group-title="Uncategorized" tvg-language="ara" tvg-quality="1080p",Al Riyadh Radio
+https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlSaudiya.sa" tvg-name="Al Saudiya" group-title="General" tvg-language="ara" tvg-quality="1080p",Al Saudiya
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+
+#EXTINF:-1 tvg-id="AlSaudiyaAlaan.sa" tvg-name="Al Saudiya Alaan" group-title="Uncategorized" tvg-language="ara" tvg-quality="1080p",Al Saudiya Alaan
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
+
+#EXTINF:-1 tvg-id="AlShallalTV.ae" tvg-name="Al Shallal TV" group-title="General" tvg-language="ara" tvg-quality="1080p",Al Shallal TV
+https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-name="Al Sharqiya" group-title="General" tvg-language="ara" tvg-quality="1080p",Al Sharqiya
+http://185.9.2.18/chid_144/index.m3u8
+
+#EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-name="Al Sharqiya" group-title="General" tvg-language="ara" tvg-quality="1080p",Al Sharqiya
+https://indexforce.com/tvhighres/mystream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae" tvg-name="Al Sharqiya Min Kabla" group-title="General" tvg-language="ara" tvg-quality="1080p",Al Sharqiya Min Kabla
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-name="Al Sharqiya News" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Sharqiya News
+https://indexforce.com/newshighres/mystream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" group-title="Religious" tvg-language="ara" tvg-quality="720p",Al Sunnah Al Nabawiyah TV
+http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
+
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" group-title="Religious" tvg-language="ara" tvg-quality="720p",Al Sunnah Al Nabawiyah TV
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlWilayah.ir" tvg-name="Al Wilayah" group-title="Religious" tvg-language="ara" tvg-quality="720p",Al Wilayah
+https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
+
+#EXTINF:-1 tvg-id="AlWoustaTV.ae" tvg-name="Al Wousta TV" group-title="General" tvg-language="ara" tvg-quality="1080p",Al Wousta TV
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-name="Al Yaum TV" group-title="News" tvg-language="ara" tvg-quality="1080p",Al Yaum TV
+https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
+
+#EXTINF:-1 tvg-id="AlAimmaTV.iq" tvg-name="Al-Aimma TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Al-Aimma TV
+https://alaimma.tv/live/index.m3u8
+
+#EXTINF:-1 tvg-id="AlFadyTV.us" tvg-name="Al-Fady TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Al-Fady TV
+https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlJawadainTV.iq" tvg-name="Al-Jawadain TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Al-Jawadain TV
+https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlRafidainTV.tr" tvg-name="Al-Rafidain TV" group-title="Religious" tvg-language="ara" tvg-quality="720p",Al-Rafidain TV
+https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlSahatTV.ye" tvg-name="Al-Sahat TV" group-title="Religious" tvg-language="ara" tvg-quality="720p",Al-Sahat TV
+https://assahat.b-cdn.net/Assahat/assahatobs/index.m3u8
+
+#EXTINF:-1 tvg-id="AlSouriyaTV.sy" tvg-name="Al-Souriya TV" group-title="Family" tvg-language="ara" tvg-quality="1080p",Al-Souriya TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
+
+#EXTINF:-1 tvg-id="AlabbassiaTV.iq" tvg-name="Alabbassia TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Alabbassia TV
+https://stream.alabbassia.com/live/alabbassia/index.m3u8
+
+#EXTINF:-1 tvg-id="AlalamNewsChannelSyria.sy" tvg-name="Alalam News Channel Syria" group-title="News" tvg-language="ara" tvg-quality="1080p",Alalam News Channel Syria
+http://live2.alalam.ir/alalam.m3u8
+
+#EXTINF:-1 tvg-id="Alarabiya.ae" tvg-name="Alarabiya" group-title="News" tvg-language="ara" tvg-quality="1080p",Alarabiya
+http://185.9.2.18/chid_146/index.m3u8
+
+#EXTINF:-1 tvg-id="Alarabiya.ae" tvg-name="Alarabiya" group-title="News" tvg-language="ara" tvg-quality="1080p",Alarabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Alarabiya.ae" tvg-name="Alarabiya" group-title="News" tvg-language="ara" tvg-quality="1080p",Alarabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Alarabiya.ae" tvg-name="Alarabiya" group-title="News" tvg-language="ara" tvg-quality="1080p",Alarabiya
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8
+
+#EXTINF:-1 tvg-id="AlghadeerTV.iq" tvg-name="Alghadeer TV" group-title="News" tvg-language="ara" tvg-quality="1080p",Alghadeer TV
+https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
+
+#EXTINF:-1 tvg-id="AlhaqeqaAldawlia.jo" tvg-name="Alhaqeqa Aldawlia" group-title="News" tvg-language="ara" tvg-quality="1080p",Alhaqeqa Aldawlia
+https://ghaasiflu.online/alhqeqa/index.m3u8
+
+#EXTINF:-1 tvg-id="AlikhbariaSyria.sy" tvg-name="Alikhbaria Syria" group-title="News" tvg-language="ara" tvg-quality="1080p",Alikhbaria Syria
+http://185.9.2.18/chid_423/index.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVAustralia.us" tvg-name="Alkarma TV Australia" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Alkarma TV Australia
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVAustralia.us" tvg-name="Alkarma TV Australia" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Alkarma TV Australia
+https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVFamily.us" tvg-name="Alkarma TV Family" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Alkarma TV Family
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVMiddleEast.us" tvg-name="Alkarma TV Middle East" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Alkarma TV Middle East
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVNorthAmericaCanada.us" tvg-name="Alkarma TV North America & Canada" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Alkarma TV North America & Canada
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVPraise.us" tvg-name="Alkarma TV Praise" group-title="Religious" tvg-language="ara" tvg-quality="720p",Alkarma TV Praise
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVTalmazaDiscipleship.us" tvg-name="Alkarma TV Talmaza Discipleship" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Alkarma TV Talmaza Discipleship
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkarmaTVYouthEnglish.us" tvg-name="Alkarma TV Youth & English" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Alkarma TV Youth & English
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlkhuzamaRadio.sa" tvg-name="Alkhuzama Radio" group-title="Uncategorized" tvg-language="ara" tvg-quality="1080p",Alkhuzama Radio
+https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlmagdTVMiddleEast.us" tvg-name="Almagd TV Middle East" group-title="Religious" tvg-language="ara;eng" tvg-quality="1080p",Almagd TV Middle East
+https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlmagdTVNorthAmerica.us" tvg-name="Almagd TV North America" group-title="Religious" tvg-language="ara;eng" tvg-quality="1080p",Almagd TV North America
+https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Alquran.iq" tvg-name="Alquran" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Alquran
+https://ktvlive.online/stream/hls/ch1.m3u8
+
+#EXTINF:-1 tvg-id="AltaghierTV.jo" tvg-name="Altaghier TV" group-title="News" tvg-language="ara" tvg-quality="1080p",Altaghier TV
+https://jmc-live.ercdn.net/altaghier/altaghier.m3u8
+
+#EXTINF:-1 tvg-id="Althania.sy" tvg-name="Althania" group-title="General" tvg-language="ara" tvg-quality="1080p",Althania
+https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlwesamTV.sa" tvg-name="Alwesam TV" group-title="Uncategorized" tvg-language="ara" tvg-quality="1080p",Alwesam TV
+https://stream.addresses-sat.com/Alwesam/index.m3u8
+
+#EXTINF:-1 tvg-id="ALWifakNewsTV.lb" tvg-name="ALWifak News TV" group-title="News" tvg-language="ara" tvg-quality="720p",ALWifak News TV
+http://alwifaklive.info:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AmmanTV.jo" tvg-name="Amman TV" group-title="General" tvg-language="ara" tvg-quality="720p",Amman TV
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
+
+#EXTINF:-1 tvg-id="AmmanTV.jo" tvg-name="Amman TV" group-title="General" tvg-language="ara" tvg-quality="720p",Amman TV
+https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd.m3u8
+
+#EXTINF:-1 tvg-id="AnwarTV2.iq" tvg-name="Anwar TV2" group-title="News" tvg-language="ara" tvg-quality="720p",Anwar TV2
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/f92670235a1ce2bce4cf77671cc4dcc2188baa1d/master.m3u8
+
+#EXTINF:-1 tvg-id="ArabicaTV.lb" tvg-name="Arabica TV" group-title="Music" tvg-language="ara" tvg-quality="720p",Arabica TV
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="Arryadia" group-title="Sports" tvg-language="ara" tvg-quality="720p",Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
+
+#EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-name="Asharq Discovery" group-title="Documentary;Education" tvg-language="ara" tvg-quality="1080p",Asharq Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="AsharqDocumentary.sa" tvg-name="Asharq Documentary" group-title="Documentary" tvg-language="ara" tvg-quality="1080p",Asharq Documentary
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="AsharqNews.sa" tvg-name="Asharq News" group-title="Business;News" tvg-language="ara" tvg-quality="1080p",Asharq News
+https://live-news.asharq.com/asharq.m3u8
+
+#EXTINF:-1 tvg-id="AsharqNews.sa" tvg-name="Asharq News" group-title="Business;News" tvg-language="ara" tvg-quality="1080p",Asharq News
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8
+
+#EXTINF:-1 tvg-id="AsharqNews.sa" tvg-name="Asharq News" group-title="Business;News" tvg-language="ara" tvg-quality="1080p",Asharq News
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="AsharqNews.sa" tvg-name="Asharq News" group-title="Business;News" tvg-language="ara" tvg-quality="1080p",Asharq News
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="AsharqRadio.sa" tvg-name="Asharq Radio" group-title="Business;News" tvg-language="ara" tvg-quality="1080p",Asharq Radio
+https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AtfalMawahebTV.sa" tvg-name="Atfal & Mawaheb TV" group-title="Kids" tvg-language="ara" tvg-quality="1080p",Atfal & Mawaheb TV
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AtfalMawahebTV.sa" tvg-name="Atfal & Mawaheb TV" group-title="Kids" tvg-language="ara" tvg-quality="1080p",Atfal & Mawaheb TV
+https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATVSat.us" tvg-name="ATVSat" group-title="Religious" tvg-language="ara" tvg-quality="1080p",ATVSat
+https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BabAlHara.sa" tvg-name="Bab Al Hara" group-title="Series" tvg-language="ara" tvg-quality="1080p",Bab Al Hara
+https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="720p",BabyFirst
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+
+#EXTINF:-1 tvg-id="BahrainInternational.bh" tvg-name="Bahrain International" group-title="General" tvg-language="ara;eng" tvg-quality="720p",Bahrain International
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BahrainQuran.bh" tvg-name="Bahrain Quran" group-title="Religious" tvg-language="ara" tvg-quality="720p",Bahrain Quran
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-name="Bahrain Sports 1" group-title="Sports" tvg-language="ara" tvg-quality="720p",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-name="Bahrain Sports 2" group-title="Sports" tvg-language="ara" tvg-quality="720p",Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BahrainTV.bh" tvg-name="Bahrain TV" group-title="General" tvg-language="ara" tvg-quality="720p",Bahrain TV
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCArabic.uk" tvg-name="BBC Arabic" group-title="News" tvg-language="ara" tvg-quality="720p",BBC Arabic
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-id="BBCArabic.uk" tvg-name="BBC Arabic" group-title="News" tvg-language="ara" tvg-quality="720p",BBC Arabic
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_http.mpd
+
+#EXTINF:-1 tvg-id="BBCArabic.uk" tvg-name="BBC Arabic" group-title="News" tvg-language="ara" tvg-quality="720p",BBC Arabic
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-id="BBCArabic.uk" tvg-name="BBC Arabic" group-title="News" tvg-language="ara" tvg-quality="720p",BBC Arabic
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_http.mpd
+
+#EXTINF:-1 tvg-id="BBCArabic.uk" tvg-name="BBC Arabic" group-title="News" tvg-language="ara" tvg-quality="720p",BBC Arabic
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_hd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-id="BBCArabic.uk" tvg-name="BBC Arabic" group-title="News" tvg-language="ara" tvg-quality="720p",BBC Arabic
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN Sports 1" group-title="Sports" tvg-language="ara" tvg-quality="1080p",beIN Sports 1
+http://primetv.cc.cd/beinfhd11/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beIN Sports 2" group-title="Sports" tvg-language="ara" tvg-quality="1080p",beIN Sports 2
+http://primetv.cc.cd/beinfhd22/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beIN Sports 3" group-title="Sports" tvg-language="ara" tvg-quality="1080p",beIN Sports 3
+http://primetv.cc.cd/beinfhd33/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beIN Sports 4" group-title="Sports" tvg-language="ara" tvg-quality="1080p",beIN Sports 4
+http://primetv.cc.cd/beinfhd44/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beIN Sports 5" group-title="Sports" tvg-language="ara" tvg-quality="1080p",beIN Sports 5
+http://primetv.cc.cd/beinfhd55/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beIN Sports 6" group-title="Sports" tvg-language="ara" tvg-quality="1080p",beIN Sports 6
+http://primetv.cc.cd/beinfhd66/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="beIN Sports 7" group-title="Sports" tvg-language="ara" tvg-quality="1080p",beIN Sports 7
+http://primetv.cc.cd/beinfhd77/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="beIN Sports 8" group-title="Sports" tvg-language="ara" tvg-quality="1080p",beIN Sports 8
+http://primetv.cc.cd/beinfhd88/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="beIN Sports 9" group-title="Uncategorized" tvg-language="ara" tvg-quality="1080p",beIN Sports 9
+http://primetv.cc.cd/beinfhd99/tracks-v1a1/mono.tbin.m3u8
+
+#EXTINF:-1 tvg-id="BeitolAbbasTVChannel.iq" tvg-name="BeitolAbbas TV Channel" group-title="Religious" tvg-language="ara" tvg-quality="720p",BeitolAbbas TV Channel
+https://live.beitolabbas.tv/live/beitolabbastv.m3u8
+
+#EXTINF:-1 tvg-id="BigTimePlus.sa" tvg-name="Big Time Plus" group-title="Uncategorized" tvg-language="ara" tvg-quality="1080p",Big Time Plus
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8
+
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" group-title="News" tvg-language="ara" tvg-quality="1080p",CGTN Arabic
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ch4TeenDocumentary.kw" tvg-name="Ch4Teen Documentary" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Ch4Teen Documentary
+https://ch14.tv/live/ch4teendoc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChadaTV.ma" tvg-name="Chada TV" group-title="General" tvg-language="ara" tvg-quality="720p",Chada TV
+https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8
+
+#EXTINF:-1 tvg-id="ChadaTV.ma" tvg-name="Chada TV" group-title="General" tvg-language="ara" tvg-quality="720p",Chada TV
+https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel8.iq" tvg-name="Channel8" group-title="News" tvg-language="ara;eng;kur" tvg-quality="720p",Channel8
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="CharityTV.lb" tvg-name="Charity TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Charity TV
+http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
+
+#EXTINF:-1 tvg-id="CNBCArabiya.ae" tvg-name="CNBC Arabiya" group-title="Business" tvg-language="ara" tvg-quality="1080p",CNBC Arabiya
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+
+#EXTINF:-1 tvg-id="CopticTV.eg" tvg-name="Coptic TV" group-title="Religious" tvg-language="ara" tvg-quality="720p",Coptic TV
+https://ctv.icopts.app/CTV/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="DabangaTV.sd" tvg-name="Dabanga TV" group-title="Education;News" tvg-language="ara" tvg-quality="1080p",Dabanga TV
+https://hls.dabangasudan.org/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="DijlahTV.iq" tvg-name="Dijlah TV" group-title="News" tvg-language="ara;eng" tvg-quality="1080p",Dijlah TV
+https://ghaasiflu.online/Dijlah/index.m3u8
+
+#EXTINF:-1 tvg-id="DrPalTV.sa" tvg-name="Dr Pal TV" group-title="General" tvg-language="ara;eng" tvg-quality="720p",Dr Pal TV
+https://stream.cisk.tech/drpal/index.m3u8
+
+#EXTINF:-1 tvg-id="DubaiTVInternational.ae" tvg-name="Dubai TV International" group-title="General" tvg-language="ara" tvg-quality="1080p",Dubai TV International
+http://185.9.2.18/chid_139/index.m3u8
+
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" group-title="News" tvg-language="ara" tvg-quality="1080p",DW
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
+
+#EXTINF:-1 tvg-id="ElWatania1.tn" tvg-name="El Watania 1" group-title="General" tvg-language="ara" tvg-quality="1080i",El Watania 1
+https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ElWatania1.tn" tvg-name="El Watania 1" group-title="General" tvg-language="ara" tvg-quality="1080p",El Watania 1
+https://sw1.tanitweb.net/TunisiaTV/_definst_/watania1/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="ElWatania1.tn" tvg-name="El Watania 1" group-title="General" tvg-language="ara" tvg-quality="1080i",El Watania 1
+https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ElWatania2.tn" tvg-name="El Watania 2" group-title="General" tvg-language="ara" tvg-quality="1080p",El Watania 2
+https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="ElHeddafTV.dz" tvg-name="El-Heddaf TV" group-title="Sports" tvg-language="ara" tvg-quality="1080p",El-Heddaf TV
+https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
+
+#EXTINF:-1 tvg-id="ElbesharaGTV.us" tvg-name="Elbeshara GTV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Elbeshara GTV
+http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElsharqTV.tr" tvg-name="Elsharq TV" group-title="General" tvg-language="ara" tvg-quality="1080p",Elsharq TV
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElwataniaTV.dz" tvg-name="Elwatania TV" group-title="General" tvg-language="ara" tvg-quality="1080i",Elwatania TV
+https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
+
+#EXTINF:-1 tvg-id="ElyssaTV.tn" tvg-name="Elyssa TV" group-title="News" tvg-language="ara" tvg-quality="1080p",Elyssa TV
+https://tv.elyssatv.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="Fairuz.sa" tvg-name="Fairuz" group-title="Music" tvg-language="ara" tvg-quality="1080p",Fairuz
+https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FalastiniTV.ps" tvg-name="Falastini TV" group-title="Music" tvg-language="ara" tvg-quality="1080p",Falastini TV
+https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="ara" tvg-quality="720p",France 24
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="ara" tvg-quality="1080p",France 24
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="ara" tvg-quality="720p",France 24
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="News" tvg-language="ara" tvg-quality="1080p",France 24
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="FujairahTV.ae" tvg-name="Fujairah TV" group-title="Entertainment" tvg-language="ara" tvg-quality="720p",Fujairah TV
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FutureTV.lb" tvg-name="Future TV" group-title="General" tvg-language="ara" tvg-quality="1080p",Future TV
+https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HalaLondon.uk" tvg-name="Hala London" group-title="General" tvg-language="ara;eng" tvg-quality="1080p",Hala London
+https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
+
+#EXTINF:-1 tvg-id="HalaTV.il" tvg-name="Hala TV" group-title="General" tvg-language="ara" tvg-quality="1080p",Hala TV
+https://stream.panet.com/edge/halaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HalabTodayTV.sy" tvg-name="Halab Today TV" group-title="News" tvg-language="ara" tvg-quality="1080p",Halab Today TV
+https://halabtoday-live.lg.mncdn.com/halabtoday/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HalabTodayTV.sy" tvg-name="Halab Today TV" group-title="News" tvg-language="ara" tvg-quality="1080p",Halab Today TV
+https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
+
+#EXTINF:-1 tvg-id="HolyQuranRadio.sa" tvg-name="Holy Quran Radio" group-title="General;Religious" tvg-language="ara" tvg-quality="1080p",Holy Quran Radio
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HolyQuranRadioNablus.ps" tvg-name="Holy Quran Radio Nablus" group-title="Religious" tvg-language="ara" tvg-quality="720p",Holy Quran Radio Nablus
+http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
+
+#EXTINF:-1 tvg-id="INews.iq" tvg-name="I News" group-title="News" tvg-language="ara" tvg-quality="1080p",I News
+https://live.i-news.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="i24NEWSArabic.il" tvg-name="i24NEWS Arabic" group-title="News" tvg-language="ara" tvg-quality="1080p",i24NEWS Arabic
+https://hlspackager.akamaized.net/live/DB/i24_ARABIC/HLS/i24_ARABIC.m3u8
+
+#EXTINF:-1 tvg-id="i24NEWSArabic.il" tvg-name="i24NEWS Arabic" group-title="News" tvg-language="ara" tvg-quality="1080p",i24NEWS Arabic
+https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="ImamHusseinTV2.iq" tvg-name="Imam Hussein TV 2" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Imam Hussein TV 2
+http://ar.imamhossaintv.com/live/ih2.m3u8
+
+#EXTINF:-1 tvg-id="ImamHusseinTV2.iq" tvg-name="Imam Hussein TV 2" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Imam Hussein TV 2
+https://live.imamhossaintv.com/live/ih2.m3u8
+
+#EXTINF:-1 tvg-id="IqraaAfricaEurope.sa" tvg-name="Iqraa Africa & Europe" group-title="Religious" tvg-language="ara;eng;fra" tvg-quality="1080p",Iqraa Africa & Europe
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IqraaArabic.sa" tvg-name="Iqraa Arabic" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Iqraa Arabic
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IqraaQuran.sa" tvg-name="Iqraa Quran" group-title="Religious" tvg-language="ara;eng;fra" tvg-quality="1080p",Iqraa Quran
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IshtarTV.iq" tvg-name="Ishtar TV" group-title="Culture;Music;Religious" tvg-language="ara" tvg-quality="1080p",Ishtar TV
+https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JeddahRadio.sa" tvg-name="Jeddah Radio" group-title="Music" tvg-language="ara" tvg-quality="1080p",Jeddah Radio
+https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8
+
+#EXTINF:-1 tvg-id="JordanArchive.jo" tvg-name="Jordan Archive" group-title="Uncategorized" tvg-language="ara" tvg-quality="1080p",Jordan Archive
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JordanComedy.jo" tvg-name="Jordan Comedy" group-title="Comedy" tvg-language="ara" tvg-quality="1080p",Jordan Comedy
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JordanDrama.jo" tvg-name="Jordan Drama" group-title="Uncategorized" tvg-language="ara" tvg-quality="1080p",Jordan Drama
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JordanKitchen.jo" tvg-name="Jordan Kitchen" group-title="Cooking" tvg-language="ara" tvg-quality="1080p",Jordan Kitchen
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JordanSongs.jo" tvg-name="Jordan Songs" group-title="Music" tvg-language="ara" tvg-quality="1080p",Jordan Songs
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JordanSport.jo" tvg-name="Jordan Sport" group-title="Sports" tvg-language="ara" tvg-quality="1080p",Jordan Sport
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+
+#EXTINF:-1 tvg-id="JordanTourism.jo" tvg-name="Jordan Tourism" group-title="Uncategorized" tvg-language="ara" tvg-quality="1080p",Jordan Tourism
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JordanTV.jo" tvg-name="Jordan TV" group-title="General" tvg-language="ara" tvg-quality="1080p",Jordan TV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+
+#EXTINF:-1 tvg-id="KarbalaDocumentary.iq" tvg-name="Karbala Documentary" group-title="Documentary;Religious" tvg-language="ara" tvg-quality="1080p",Karbala Documentary
+https://ktvlive.online/stream/hls/ch3.m3u8
+
+#EXTINF:-1 tvg-id="KoogiTV.eg" tvg-name="Koogi TV" group-title="Kids;Religious" tvg-language="ara" tvg-quality="1080p",Koogi TV
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTV1.kw" tvg-name="KTV 1" group-title="General" tvg-language="ara" tvg-quality="1080p",KTV 1
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="KTVAlQurain.kw" tvg-name="KTV Al Qurain" group-title="Religious" tvg-language="ara" tvg-quality="1080p",KTV Al Qurain
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="KTVArabe.kw" tvg-name="KTV Arabe" group-title="Culture" tvg-language="ara" tvg-quality="1080p",KTV Arabe
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="KTVEthraa.kw" tvg-name="KTV Ethraa" group-title="Religious" tvg-language="ara" tvg-quality="1080p",KTV Ethraa
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="KTVNews.kw" tvg-name="KTV News" group-title="News" tvg-language="ara" tvg-quality="1080p",KTV News
+https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="KTVNews.kw" tvg-name="KTV News" group-title="News" tvg-language="ara" tvg-quality="1080p",KTV News
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="KTVSport.kw" tvg-name="KTV Sport" group-title="Sports" tvg-language="ara;eng" tvg-quality="1080p",KTV Sport
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="KTVSportPlus.kw" tvg-name="KTV Sport Plus" group-title="Sports" tvg-language="ara" tvg-quality="1080p",KTV Sport Plus
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="KurdistanTV.iq" tvg-name="Kurdistan TV" group-title="General" tvg-language="ara;kur;tur" tvg-quality="720p",Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kurdsat.iq" tvg-name="Kurdsat" group-title="Entertainment" tvg-language="ara;kur" tvg-quality="1080p",Kurdsat
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
+
+#EXTINF:-1 tvg-id="KurdsatNews.iq" tvg-name="Kurdsat News" group-title="News" tvg-language="ara;kur" tvg-quality="1080p",Kurdsat News
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
+
+#EXTINF:-1 tvg-id="LBC.sa" tvg-name="LBC" group-title="General" tvg-language="ara" tvg-quality="1080p",LBC
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LBCInternational.lb" tvg-name="LBC International" group-title="General" tvg-language="ara" tvg-quality="1080p",LBC International
+http://185.9.2.18/chid_521/index.m3u8
+
+#EXTINF:-1 tvg-id="LibyaAlAhrarTV.qa" tvg-name="Libya Al Ahrar TV" group-title="News" tvg-language="ara" tvg-quality="1080p",Libya Al Ahrar TV
+#EXTVLCOPT:http-referrer=https://player.castr.com
+https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="LogosTV.us" tvg-name="Logos TV" group-title="Religious" tvg-language="ara" tvg-quality="720p",Logos TV
+https://597f64b67707a.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LogosTV.us" tvg-name="Logos TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Logos TV
+https://5a8308add0b31.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MaanTV.ps" tvg-name="Ma'an TV" group-title="News" tvg-language="ara;eng;heb" tvg-quality="720p",Ma'an TV
+https://htvmada.mada.ps:4443/maannews/index.m3u8
+
+#EXTINF:-1 tvg-id="MajidAlMohandis.sa" tvg-name="Majid Al Mohandis" group-title="Music" tvg-language="ara" tvg-quality="1080p",Majid Al Mohandis
+https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Makan33.il" tvg-name="Makan 33" group-title="News" tvg-language="ara" tvg-quality="1080p",Makan 33
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Maraya.sa" tvg-name="Maraya" group-title="Series" tvg-language="ara" tvg-quality="1080p",Maraya
+https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MarinaTV.kw" tvg-name="Marina TV" group-title="Music" tvg-language="ara" tvg-quality="1080p",Marina TV
+https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="MarjaeyatTVArabic.iq" tvg-name="Marjaeyat TV Arabic" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Marjaeyat TV Arabic
+https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MasterChefsAcademyTV.uk" tvg-name="Master Chefs Academy TV" group-title="Cooking;Education" tvg-language="ara;eng" tvg-quality="720p",Master Chefs Academy TV
+https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="MBC 1" group-title="General" tvg-language="ara" tvg-quality="1080p",MBC 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC1Egypt.eg" tvg-name="MBC 1 Egypt" group-title="General" tvg-language="ara" tvg-quality="1080p",MBC 1 Egypt
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC1USA.us" tvg-name="MBC 1 USA" group-title="General" tvg-language="ara;eng" tvg-quality="1080p",MBC 1 USA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC3USA.us" tvg-name="MBC 3 USA" group-title="Kids" tvg-language="ara;eng" tvg-quality="1080p",MBC 3 USA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC4.ae" tvg-name="MBC 4" group-title="Entertainment" tvg-language="ara" tvg-quality="1080p",MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC5.ae" tvg-name="MBC 5" group-title="Family" tvg-language="ara" tvg-quality="1080p",MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-name="MBC Bollywood" group-title="Movies" tvg-language="ara;eng;hin" tvg-quality="1080p",MBC Bollywood
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-name="MBC Drama" group-title="Entertainment" tvg-language="ara" tvg-quality="1080p",MBC Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCDramaUSA.us" tvg-name="MBC Drama USA" group-title="Series" tvg-language="ara" tvg-quality="1080p",MBC Drama USA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCIraq.iq" tvg-name="MBC Iraq" group-title="General" tvg-language="ara" tvg-quality="1080p",MBC Iraq
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCMasr.eg" tvg-name="MBC Masr" group-title="General" tvg-language="ara" tvg-quality="1080p",MBC Masr
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCMasr2.eg" tvg-name="MBC Masr 2" group-title="General" tvg-language="ara" tvg-quality="1080p",MBC Masr 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCMasrDrama.sa" tvg-name="MBC Masr Drama" group-title="Series" tvg-language="ara" tvg-quality="1080p",MBC Masr Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCMasrUSA.us" tvg-name="MBC Masr USA" group-title="General" tvg-language="ara" tvg-quality="1080p",MBC Masr USA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCMood.sa" tvg-name="MBC Mood" group-title="Music" tvg-language="ara" tvg-quality="1080p",MBC Mood
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.sa" tvg-name="MBC+ Drama" group-title="Movies" tvg-language="ara" tvg-quality="1080p",MBC+ Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+
+#EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-name="Medi1TV Arabic" group-title="News" tvg-language="ara" tvg-quality="1080p",Medi1TV Arabic
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-name="Medi1TV Arabic" group-title="News" tvg-language="ara" tvg-quality="1080p",Medi1TV Arabic
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-name="Medi1TV Maghreb" group-title="News" tvg-language="ara;fra" tvg-quality="1080p",Medi1TV Maghreb
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-name="Medi1TV Maghreb" group-title="News" tvg-language="ara;fra" tvg-quality="1080p",Medi1TV Maghreb
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="MekameleenTV.tr" tvg-name="Mekameleen TV" group-title="News" tvg-language="ara" tvg-quality="1080p",Mekameleen TV
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MelodyFM.jo" tvg-name="Melody FM" group-title="Music" tvg-language="ara" tvg-quality="720p",Melody FM
+https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mfm.lb" tvg-name="mfm" group-title="Music" tvg-language="ara" tvg-quality="1080p",mfm
+https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MiracleChannel.se" tvg-name="Miracle Channel" group-title="News" tvg-language="ara" tvg-quality="1080p",Miracle Channel
+https://live.miracleonline.org/hls/miracle1.m3u8
+
+#EXTINF:-1 tvg-id="MissionAsia.au" tvg-name="Mission Asia" group-title="Religious" tvg-language="ara;eng" tvg-quality="1080p",Mission Asia
+https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MixHollywood.eg" tvg-name="Mix Hollywood" group-title="Movies" tvg-language="ara" tvg-quality="1080p",Mix Hollywood
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="MohammedAbdo.sa" tvg-name="Mohammed Abdo" group-title="Music" tvg-language="ara" tvg-quality="1080p",Mohammed Abdo
+https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8
+
+#EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-name="Mosaique FM" group-title="Music" tvg-language="ara" tvg-quality="1080p",Mosaique FM
+https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="MoviesAction.sa" tvg-name="Movies Action" group-title="Movies" tvg-language="ara;eng" tvg-quality="1080p",Movies Action
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MoviesThriller.sa" tvg-name="Movies Thriller" group-title="Movies" tvg-language="ara;eng" tvg-quality="1080p",Movies Thriller
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA1World.uk" tvg-name="MTA1 World" group-title="Religious" tvg-language="ara;ben;deu;eng;fra;urd" tvg-quality="720p",MTA1 World
+https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA2Europe.uk" tvg-name="MTA2 Europe" group-title="Religious" tvg-language="ara;ben;deu;eng;fra;hin;urd" tvg-quality="720p",MTA2 Europe
+https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA3AlArabia.uk" tvg-name="MTA3 Al-Arabia" group-title="Religious" tvg-language="ara" tvg-quality="1080p",MTA3 Al-Arabia
+https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA6Asia.uk" tvg-name="MTA6 Asia" group-title="Religious" tvg-language="ara;ben;eng;ind;tam;urd" tvg-quality="1080p",MTA6 Asia
+https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTA7Asia.uk" tvg-name="MTA7 Asia" group-title="Religious" tvg-language="ara;ben;eng;hin;mal;tam;urd" tvg-quality="1080p",MTA7 Asia
+https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="MTV Lebanon" group-title="General" tvg-language="ara" tvg-quality="1080p",MTV Lebanon
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
+
+#EXTINF:-1 tvg-id="MusawaChannel.ps" tvg-name="Musawa Channel" group-title="General" tvg-language="ara" tvg-quality="1080p",Musawa Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://pbc.furrera.ps/musawahd/index.m3u8
+
+#EXTINF:-1 tvg-id="NabaaTV.lb" tvg-name="Nabaa TV" group-title="News" tvg-language="ara" tvg-quality="720p",Nabaa TV
+http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NabaaTV.lb" tvg-name="Nabaa TV" group-title="News" tvg-language="ara" tvg-quality="720p",Nabaa TV
+https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NabaaTV.lb" tvg-name="Nabaa TV" group-title="News" tvg-language="ara" tvg-quality="720p",Nabaa TV
+https://655ca86f46b1f.streamlock.net/live/Nabaa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NablusTV.ps" tvg-name="Nablus TV" group-title="News" tvg-language="ara" tvg-quality="720p",Nablus TV
+http://htvmada.mada.ps:8888/nabluslive/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsoftheWorld.us" tvg-name="News of the World" group-title="News" tvg-language="ara" tvg-quality="720p",News of the World
+https://live.nowtelly.com/now_arabic/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NidaeAlIslamRadio.sa" tvg-name="Nidae AlIslam Radio" group-title="Music" tvg-language="ara" tvg-quality="1080p",Nidae AlIslam Radio
+https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NourElShabeb.lb" tvg-name="Nour El Shabeb" group-title="Religious" tvg-language="ara" tvg-quality="720p",Nour El Shabeb
+https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-name="Oman Sports TV" group-title="Sports" tvg-language="ara;eng" tvg-quality="1080p",Oman Sports TV
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="OmanTV.om" tvg-name="Oman TV" group-title="General" tvg-language="ara" tvg-quality="1080p",Oman TV
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="OmanTVCultural.om" tvg-name="Oman TV Cultural" group-title="Culture" tvg-language="ara" tvg-quality="1080p",Oman TV Cultural
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="OmanTVMubashir.om" tvg-name="Oman TV Mubashir" group-title="News" tvg-language="ara" tvg-quality="1080p",Oman TV Mubashir
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="OneTV.lb" tvg-name="One TV" group-title="Music" tvg-language="ara" tvg-quality="720p",One TV
+https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OneFM.lb" tvg-name="OneFM" group-title="Music" tvg-language="ara" tvg-quality="720p",OneFM
+https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OTV.lb" tvg-name="OTV" group-title="General" tvg-language="ara;eng;fra;hye" tvg-quality="1080p",OTV
+https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PalestineAlYawm.lb" tvg-name="Palestine Al Yawm" group-title="News" tvg-language="ara" tvg-quality="720p",Palestine Al Yawm
+https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
+
+#EXTINF:-1 tvg-id="PalestineEdu.ps" tvg-name="Palestine Edu" group-title="Education" tvg-language="ara" tvg-quality="1080p",Palestine Edu
+https://pbc.furrera.ps/PalestineEDU/index.m3u8
+
+#EXTINF:-1 tvg-id="PalestineMubasher.ps" tvg-name="Palestine Mubasher" group-title="General" tvg-language="ara" tvg-quality="1080p",Palestine Mubasher
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://pbc.furrera.ps/palestinelivehd/index.m3u8
+
+#EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" tvg-name="Palestine Satellite Channel" group-title="General" tvg-language="ara" tvg-quality="1080p",Palestine Satellite Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://pbc.furrera.ps/palestinehd/index.m3u8
+
+#EXTINF:-1 tvg-id="PanoramaFM.sa" tvg-name="Panorama FM" group-title="Music" tvg-language="ara" tvg-quality="1080p",Panorama FM
+https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
+
+#EXTINF:-1 tvg-id="PanoramaFM.sa" tvg-name="Panorama FM" group-title="Music" tvg-language="ara" tvg-quality="1080p",Panorama FM
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-panorama-fm/ea22f3856a1b772f793c43eb5d1c0636/index.m3u8
+
+#EXTINF:-1 tvg-id="Prime.sy" tvg-name="Prime" group-title="General;Sports" tvg-language="ara" tvg-quality="1080p",Prime
+https://cdn.bestream.io/prime/prime.m3u8
+
+#EXTINF:-1 tvg-id="Pulse95Radio.ae" tvg-name="Pulse95 Radio" group-title="Uncategorized" tvg-language="ara;eng" tvg-quality="1080p",Pulse95 Radio
+https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QafTV.tr" tvg-name="Qaf TV" group-title="Uncategorized" tvg-language="ara" tvg-quality="1080p",Qaf TV
+https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8
+
+#EXTINF:-1 tvg-id="QatarTelevision.qa" tvg-name="Qatar Television" group-title="General" tvg-language="ara" tvg-quality="1080p",Qatar Television
+https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QatarTelevision.qa" tvg-name="Qatar Television" group-title="General" tvg-language="ara" tvg-quality="1080p",Qatar Television
+https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8
+
+#EXTINF:-1 tvg-id="QatarTelevision.qa" tvg-name="Qatar Television" group-title="General" tvg-language="ara" tvg-quality="720p",Qatar Television
+https://streamer1.qna.org.qa/148133273_live/148133273_63.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QatarTelevision2.qa" tvg-name="Qatar Television 2" group-title="General" tvg-language="ara" tvg-quality="1080p",Qatar Television 2
+https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QatarTelevision2.qa" tvg-name="Qatar Television 2" group-title="General" tvg-language="ara" tvg-quality="1080p",Qatar Television 2
+https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8
+
+#EXTINF:-1 tvg-id="QatarTelevision2.qa" tvg-name="Qatar Television 2" group-title="General" tvg-language="ara" tvg-quality="720p",Qatar Television 2
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+
+#EXTINF:-1 tvg-id="QatarTelevision2.qa" tvg-name="Qatar Television 2" group-title="General" tvg-language="ara" tvg-quality="720p",Qatar Television 2
+https://streamer1.qna.org.qa/148133344_live/148133344_63.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QatarTVTheHolyQuran.qa" tvg-name="Qatar TV The Holy Quran" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Qatar TV The Holy Quran
+https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8
+
+#EXTINF:-1 tvg-id="QBC.qa" tvg-name="QBC" group-title="Business;News" tvg-language="ara" tvg-quality="1080p",QBC
+https://googlecdn1.alkassdigital.net/livestream/qbc4/main.m3u8
+
+#EXTINF:-1 tvg-id="QBC.qa" tvg-name="QBC" group-title="Business;News" tvg-language="ara" tvg-quality="1080p",QBC
+https://live.kwikmotion.com/qbusinesslive/qbusiness.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RabehSaqer.sa" tvg-name="Rabeh Saqer" group-title="Music" tvg-language="ara" tvg-quality="1080p",Rabeh Saqer
+https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioAlbaladTV.ps" tvg-name="Radio Albalad TV" group-title="General" tvg-language="ara" tvg-quality="720p",Radio Albalad TV
+http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioFannJordanStudio.jo" tvg-name="Radio Fann Jordan Studio" group-title="Uncategorized" tvg-language="ara" tvg-quality="1080p",Radio Fann Jordan Studio
+http://45.63.116.205/hls2/stream1.m3u8
+
+#EXTINF:-1 tvg-id="RadioYaqeenJordanCityView.jo" tvg-name="Radio Yaqeen Jordan City View" group-title="Uncategorized" tvg-language="ara" tvg-quality="1080p",Radio Yaqeen Jordan City View
+http://45.63.116.205/hls4/stream1.m3u8
+
+#EXTINF:-1 tvg-id="RajeenTV.ps" tvg-name="Rajeen TV" group-title="Uncategorized" tvg-language="ara" tvg-quality="1080p",Rajeen TV
+https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RASDTV.eh" tvg-name="RASD TV" group-title="General" tvg-language="ara;spa" tvg-quality="1080i",RASD TV
+https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv.m3u8
+
+#EXTINF:-1 tvg-id="RASDTV.eh" tvg-name="RASD TV" group-title="General" tvg-language="ara;spa" tvg-quality="720p",RASD TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12830
+
+#EXTINF:-1 tvg-id="RashidAlMajed.sa" tvg-name="Rashid AlMajed" group-title="Music" tvg-language="ara" tvg-quality="1080p",Rashid AlMajed
+https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8
+
+#EXTINF:-1 tvg-id="RedTVLebanon.lb" tvg-name="Red TV Lebanon" group-title="News" tvg-language="ara" tvg-quality="1080p",Red TV Lebanon
+https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RojavaTV.sy" tvg-name="Rojava TV" group-title="General" tvg-language="ara;kur" tvg-quality="1080p",Rojava TV
+https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
+
+#EXTINF:-1 tvg-id="RonahiTV.sy" tvg-name="Ronahi TV" group-title="Uncategorized" tvg-language="ara;kur" tvg-quality="1080p",Ronahi TV
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
+
+#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg" tvg-name="Rotana Cinema Egypt" group-title="Movies" tvg-language="ara" tvg-quality="1080p",Rotana Cinema Egypt
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-name="Rotana Cinema KSA" group-title="Movies" tvg-language="ara" tvg-quality="1080p",Rotana Cinema KSA
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-name="Rotana Classic" group-title="Classic" tvg-language="ara" tvg-quality="1080p",Rotana Classic
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaClip.sa" tvg-name="Rotana Clip" group-title="Uncategorized" tvg-language="ara" tvg-quality="1080p",Rotana Clip
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaComedy.sa" tvg-name="Rotana Comedy" group-title="Comedy" tvg-language="ara" tvg-quality="1080p",Rotana Comedy
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-name="Rotana Drama" group-title="Series" tvg-language="ara" tvg-quality="1080p",Rotana Drama
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-name="Rotana Khalijia" group-title="Music" tvg-language="ara" tvg-quality="1080p",Rotana Khalijia
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-name="Rotana Music" group-title="Music" tvg-language="ara" tvg-quality="1080p",Rotana Music
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RotanaRadioJordanStudio.jo" tvg-name="Rotana Radio Jordan Studio" group-title="Uncategorized" tvg-language="ara" tvg-quality="1080p",Rotana Radio Jordan Studio
+http://45.63.116.205/hls/stream1.m3u8
+
+#EXTINF:-1 tvg-id="RotanaTarabJordanCityView.jo" tvg-name="Rotana Tarab Jordan City View" group-title="Uncategorized" tvg-language="ara" tvg-quality="720p",Rotana Tarab Jordan City View
+http://45.63.116.205/hls3/stream1.m3u8
+
+#EXTINF:-1 tvg-id="RoyaTV.jo" tvg-name="Roya TV" group-title="General" tvg-language="ara" tvg-quality="1080p",Roya TV
+https://live.kwikmotion.com/royatvpublic/royatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTArabic.ru" tvg-name="RT Arabic" group-title="News" tvg-language="ara" tvg-quality="1080p",RT Arabic
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTArabic.ru" tvg-name="RT Arabic" group-title="News" tvg-language="ara" tvg-quality="1080p",RT Arabic
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SafeerTV.uk" tvg-name="Safeer TV" group-title="Religious" tvg-language="ara;eng" tvg-quality="1080p",Safeer TV
+https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sahara24.mr" tvg-name="Sahara 24" group-title="News" tvg-language="ara" tvg-quality="1080p",Sahara 24
+https://live.saharamedias.net:3317/live/shara24live.m3u8
+
+#EXTINF:-1 tvg-id="Sat7Kids.cy" tvg-name="Sat 7 Kids" group-title="Kids;Religious" tvg-language="ara" tvg-quality="1080p",Sat 7 Kids
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="SaudiThaqafiyaTV.sa" tvg-name="Saudi Thaqafiya TV" group-title="Culture" tvg-language="ara;eng" tvg-quality="1080p",Saudi Thaqafiya TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
+
+#EXTINF:-1 tvg-id="SaudiaRadio.sa" tvg-name="Saudia Radio" group-title="Uncategorized" tvg-language="ara" tvg-quality="1080p",Saudia Radio
+https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBC.sa" tvg-name="SBC" group-title="General" tvg-language="ara" tvg-quality="1080p",SBC
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
+
+#EXTINF:-1 tvg-id="SensesTV.lb" tvg-name="Senses TV" group-title="Uncategorized" tvg-language="ara" tvg-quality="1080p",Senses TV
+http://31.14.41.69:8080/hls/sensesonline/index.m3u8
+
+#EXTINF:-1 tvg-id="SerajTV.ps" tvg-name="Seraj TV" group-title="General;News" tvg-language="ara" tvg-quality="1080i",Seraj TV
+#EXTVLCOPT:http-referrer=https://www.alaqsanet.news/
+https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
+
+#EXTINF:-1 tvg-id="ShababFM.ps" tvg-name="Shabab FM" group-title="Uncategorized" tvg-language="ara" tvg-quality="720p",Shabab FM
+https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
+
+#EXTINF:-1 tvg-id="ShamsTV.iq" tvg-name="Shams TV" group-title="News" tvg-language="ara" tvg-quality="1080p",Shams TV
+https://stream.shams.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Sharjah2.ae" tvg-name="Sharjah 2" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Sharjah 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SharjahRadio.ae" tvg-name="Sharjah Radio" group-title="General" tvg-language="ara" tvg-quality="1080p",Sharjah Radio
+https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SharjahRadioQuran.ae" tvg-name="Sharjah Radio Quran" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Sharjah Radio Quran
+https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SharjahSports.ae" tvg-name="Sharjah Sports" group-title="Sports" tvg-language="ara;eng" tvg-quality="1080p",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SharjahTV.ae" tvg-name="Sharjah TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Sharjah TV
+https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-name="Sky News Arabia" group-title="News" tvg-language="ara" tvg-quality="1080p",Sky News Arabia
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-name="Sky News Arabia" group-title="News" tvg-language="ara" tvg-quality="720p",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-name="Sky News Arabia" group-title="News" tvg-language="ara" tvg-quality="1080p",Sky News Arabia
+https://stream.skynewsarabia.com/ott/ott.m3u8
+
+#EXTINF:-1 tvg-id="SkyNewsArabiaVertical.ae" tvg-name="Sky News Arabia Vertical" group-title="News" tvg-language="ara" tvg-quality="1080p",Sky News Arabia Vertical
+https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyNewsArabiaVertical.ae" tvg-name="Sky News Arabia Vertical" group-title="News" tvg-language="ara" tvg-quality="1280p",Sky News Arabia Vertical
+https://stream.skynewsarabia.com/vertical/vertical.m3u8
+
+#EXTINF:-1 tvg-id="StoryChannelTV.ma" tvg-name="StoryChannel TV" group-title="Culture" tvg-language="ara;asp;eng;fra;kab;rif;shi;shy;taq;tzm;xms" tvg-quality="720p",StoryChannel TV
+https://136044159.r.cdnsun.net/storychannel.m3u8
+
+#EXTINF:-1 tvg-id="SyriaTV.sy" tvg-name="Syria TV" group-title="News" tvg-language="ara" tvg-quality="1080p",Syria TV
+https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="SyriaTV.sy" tvg-name="Syria TV" group-title="News" tvg-language="ara" tvg-quality="1080p",Syria TV
+https://qmcconnect.qa/api/StreamServices/arabictvsyria1/master.m3u8
+
+#EXTINF:-1 tvg-id="SyriaTV.sy" tvg-name="Syria TV" group-title="News" tvg-language="ara" tvg-quality="1080p",Syria TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6017
+
+#EXTINF:-1 tvg-id="SyriaTV.sy" tvg-name="Syria TV" group-title="News" tvg-language="ara" tvg-quality="1080p",Syria TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="TakbeerTV.uk" tvg-name="Takbeer TV" group-title="Uncategorized" tvg-language="ara" tvg-quality="720p",Takbeer TV
+https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-name="Tanasuh TV" group-title="General" tvg-language="ara" tvg-quality="1080p",Tanasuh TV
+https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-name="Tanasuh TV" group-title="General" tvg-language="ara" tvg-quality="1080p",Tanasuh TV
+https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-name="Tanasuh TV" group-title="General" tvg-language="ara" tvg-quality="1080p",Tanasuh TV
+https://tip.stream.tanasuh.tv:4434/live/smil:tanasuhtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tarab.sa" tvg-name="Tarab" group-title="Music" tvg-language="ara" tvg-quality="1080p",Tarab
+https://shd-amg-fast.edgenextcdn.net/tx002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleLiban.lb" tvg-name="Tele Liban" group-title="General" tvg-language="ara" tvg-quality="720p",Tele Liban
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleTchad.td" tvg-name="Tele Tchad" group-title="General" tvg-language="ara;fra" tvg-quality="1080p",Tele Tchad
+https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThikrayatTV.sa" tvg-name="Thikrayat TV" group-title="Classic" tvg-language="ara" tvg-quality="1080p",Thikrayat TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
+
+#EXTINF:-1 tvg-id="TRTArabi.tr" tvg-name="TRT Arabi" group-title="News" tvg-language="ara;tur" tvg-quality="1080p",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TurksatTanitim.tr" tvg-name="Turksat Tanitim" group-title="Uncategorized" tvg-language="ara;eng;tur" tvg-quality="1080p",Turksat Tanitim
+http://176.65.153.26:6004/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-id="TV2.dz" tvg-name="TV2" group-title="General" tvg-language="ara;eng;fra" tvg-quality="1080p",TV2
+http://185.9.2.18/chid_347/index.m3u8
+
+#EXTINF:-1 tvg-id="UNews.lb" tvg-name="UNews" group-title="News" tvg-language="ara" tvg-quality="1080p",UNews
+https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UTV.iq" tvg-name="UTV" group-title="Uncategorized" tvg-language="ara" tvg-quality="1080p",UTV
+https://utviraqi-live.lg.mncdn.com/utviraqi-live/64c80359/index.m3u8
+
+#EXTINF:-1 tvg-id="VoiceofLebanon.lb" tvg-name="Voice of Lebanon" group-title="News" tvg-language="ara" tvg-quality="1080p",Voice of Lebanon
+https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WasatTV.ly" tvg-name="Wasat TV" group-title="General" tvg-language="ara" tvg-quality="1080p",Wasat TV
+#EXTVLCOPT:http-referrer=https://alwasat.ly/
+https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WatanTV.eg" tvg-name="Watan TV" group-title="General" tvg-language="ara" tvg-quality="1080p",Watan TV
+https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WatarRadio.ae" tvg-name="Watar Radio" group-title="Uncategorized" tvg-language="ara" tvg-quality="1080p",Watar Radio
+https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WatarTV.ps" tvg-name="Watar TV" group-title="General" tvg-language="ara" tvg-quality="720p",Watar TV
+http://htvint.mada.ps:8889/orient/index.m3u8
+
+#EXTINF:-1 tvg-id="WatarTV.ps" tvg-name="Watar TV" group-title="General" tvg-language="ara" tvg-quality="720p",Watar TV
+https://htvint.mada.ps/orient/index.m3u8
+
+#EXTINF:-1 tvg-id="WelatTV.sy" tvg-name="Welat TV" group-title="News" tvg-language="ara" tvg-quality="1080i",Welat TV
+https://stream.badinan.xyz/welat/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZagrosTV.iq" tvg-name="Zagros TV" group-title="General" tvg-language="ara" tvg-quality="720p",Zagros TV
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZagrosTV.iq" tvg-name="Zagros TV" group-title="General" tvg-language="ara" tvg-quality="1080p",Zagros TV
+https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8
+
+#EXTINF:-1 tvg-id="ZarinTV.us" tvg-name="Zarin TV" group-title="General" tvg-language="ara;pus" tvg-quality="1080p",Zarin TV
+https://fl1002.bozztv.com/gf-zarintv/index.m3u8
+

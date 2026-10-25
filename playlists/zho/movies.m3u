@@ -1,0 +1,64 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="CCTV-6" group-title="Movies" tvg-language="zho" tvg-quality="1080p",CCTV-6
+http://198.204.240.250:82/live/cctv6.m3u8
+
+#EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="CCTV-6" group-title="Movies" tvg-language="zho" tvg-quality="1080p",CCTV-6
+http://69.30.245.50/live/cctv6.m3u8
+
+#EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="CCTV-6" group-title="Movies" tvg-language="zho" tvg-quality="576i",CCTV-6
+https://live.eac-news.com/CCTV/streams/cctv6.m3u8
+
+#EXTINF:-1 tvg-id="CCTVStormTheater.cn" tvg-name="CCTV-Storm Theater" group-title="Movies" tvg-language="zho" tvg-quality="1080p",CCTV-Storm Theater
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-id="CCTVTheFirstTheater.cn" tvg-name="CCTV-The First Theater" group-title="Movies" tvg-language="zho" tvg-quality="1080p",CCTV-The First Theater
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="Celestial Movies" group-title="Movies" tvg-language="zho" tvg-quality="576i",Celestial Movies
+http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CHCAction.cn" tvg-name="CHC Action" group-title="Movies" tvg-language="zho" tvg-quality="1080p",CHC Action
+http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+
+#EXTINF:-1 tvg-id="CNDFilmMiddleSchoolChannel.cn" tvg-name="CND Film Middle School Channel" group-title="Movies" tvg-language="zho" tvg-quality="576i",CND Film Middle School Channel
+http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
+
+#EXTINF:-1 tvg-id="CNDFilmMiddleSchoolChannel.cn" tvg-name="CND Film Middle School Channel" group-title="Movies" tvg-language="zho" tvg-quality="576i",CND Film Middle School Channel
+http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=
+
+#EXTINF:-1 tvg-id="EBCForeignMovie.tw" tvg-name="EBC Foreign Movie" group-title="Movies" tvg-language="zho" tvg-quality="480i",EBC Foreign Movie
+http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv
+
+#EXTINF:-1 tvg-id="HarbinMovieChannel.cn" tvg-name="Harbin Movie Channel" group-title="Movies" tvg-language="zho" tvg-quality="576i",Harbin Movie Channel
+https://stream.hrbtv.net/yspd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JiangsuMovieChannel.cn" tvg-name="Jiangsu Movie Channel" group-title="Movies" tvg-language="zho" tvg-quality="576p",Jiangsu Movie Channel
+http://183.207.248.71/gitv/live1/G_JSYS/G_JSYS
+
+#EXTINF:-1 tvg-id="JiangsuMovieChannel.cn" tvg-name="Jiangsu Movie Channel" group-title="Movies" tvg-language="zho" tvg-quality="576p",Jiangsu Movie Channel
+http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
+
+#EXTINF:-1 tvg-id="JiangxiMovieChannel.cn" tvg-name="Jiangxi Movie Channel" group-title="Movies" tvg-language="zho" tvg-quality="576i",Jiangxi Movie Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
+
+#EXTINF:-1 tvg-id="JilinMovieChannel.cn" tvg-name="Jilin Movie Channel" group-title="Movies" tvg-language="zho" tvg-quality="576i",Jilin Movie Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
+
+#EXTINF:-1 tvg-id="MeiAhMovieChannel.hk" tvg-name="Mei Ah Movie Channel" group-title="Movies" tvg-language="zho" tvg-quality="1080p",Mei Ah Movie Channel
+http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
+
+#EXTINF:-1 tvg-id="MeiAhMovieChannel.hk" tvg-name="Mei Ah Movie Channel" group-title="Movies" tvg-language="zho" tvg-quality="1080p",Mei Ah Movie Channel
+http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
+
+#EXTINF:-1 tvg-id="MeiAhMovieChannel.hk" tvg-name="Mei Ah Movie Channel" group-title="Movies" tvg-language="zho" tvg-quality="1080p",Mei Ah Movie Channel
+http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
+
+#EXTINF:-1 tvg-id="QTV3.cn" tvg-name="QTV-3" group-title="Movies" tvg-language="zho" tvg-quality="576i",QTV-3
+http://119.166.53.110:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="QTV3.cn" tvg-name="QTV-3" group-title="Movies" tvg-language="zho" tvg-quality="576i",QTV-3
+http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" group-title="Movies" tvg-language="eng;tha;zho" tvg-quality="540p",Thrill
+https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
+

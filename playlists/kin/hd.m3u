@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KC2.rw" tvg-name="KC2" group-title="Entertainment" tvg-language="eng;fra;kin" tvg-quality="720p",KC2
+http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="KC2.rw" tvg-name="KC2" group-title="Entertainment" tvg-language="eng;fra;kin" tvg-quality="720p",KC2
+https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TV10.rw" tvg-name="TV10" group-title="General" tvg-language="eng;kin" tvg-quality="720p",TV10
+https://5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8
+

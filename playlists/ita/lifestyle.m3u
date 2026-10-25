@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlmaTV.it" tvg-name="Alma TV" group-title="Lifestyle" tvg-language="ita" tvg-quality="576p",Alma TV
+http://151.0.207.99:1935/AlmaTv/AlmaTv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlmaTV.it" tvg-name="Alma TV" group-title="Lifestyle" tvg-language="ita" tvg-quality="576i",Alma TV
+http://80.79.6.221:25461/smash/public/27
+
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" group-title="Lifestyle" tvg-language="eng;ita" tvg-quality="1080p",DMAX
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-id="GamberoRossoChannel.it" tvg-name="Gambero Rosso Channel" group-title="Cooking;Lifestyle" tvg-language="ita" tvg-quality="720p",Gambero Rosso Channel
+https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
+
+#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV" group-title="Lifestyle" tvg-language="eng;ita" tvg-quality="1080p",HGTV
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCucina.de" tvg-name="Pluto TV Cucina" group-title="Cooking;Lifestyle" tvg-language="ita" tvg-quality="720p",Pluto TV Cucina
+https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVRealLife.de" tvg-name="Pluto TV Real Life" group-title="Lifestyle" tvg-language="ita" tvg-quality="720p",Pluto TV Real Life
+https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVViaggi.de" tvg-name="Pluto TV Viaggi" group-title="Lifestyle" tvg-language="ita" tvg-quality="720p",Pluto TV Viaggi
+https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
+

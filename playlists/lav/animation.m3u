@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Pingviins.lv" tvg-name="Pingviins" group-title="Animation;Kids" tvg-language="lav" tvg-quality="720p",Pingviins
+https://sirius.greenhosting.ru/PingvinRu/video.m3u8
+
+#EXTINF:-1 tvg-id="Pingviins.lv" tvg-name="Pingviins" group-title="Animation;Kids" tvg-language="lav" tvg-quality="576p",Pingviins
+#EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
+https://void.greenhosting.ru/PingvinsLV_Mpeg4/video.m3u8
+

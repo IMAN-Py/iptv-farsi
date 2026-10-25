@@ -1,0 +1,144 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ArenaSport1.sk" tvg-name="Arena Sport 1" group-title="Sports" tvg-language="ces;slk" tvg-quality="576i",Arena Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.212.15.17/live/test_arenasport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport2.sk" tvg-name="Arena Sport 2" group-title="Sports" tvg-language="slk" tvg-quality="576i",Arena Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.212.15.17/live/test_arenasport_dva/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalPlusSport2SK.sk" tvg-name="Canal+ Sport 2 SK" group-title="Sports" tvg-language="slk" tvg-quality="576i",Canal+ Sport 2 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="CanalPlusSport3SK.sk" tvg-name="Canal+ Sport 3 SK" group-title="Sports" tvg-language="slk" tvg-quality="576i",Canal+ Sport 3 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="CanalPlusSport4SK.sk" tvg-name="Canal+ Sport 4 SK" group-title="Sports" tvg-language="slk" tvg-quality="576i",Canal+ Sport 4 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="CanalPlusSport5SK.sk" tvg-name="Canal+ Sport 5 SK" group-title="Sports" tvg-language="slk" tvg-quality="576i",Canal+ Sport 5 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="CanalPlusSport6SK.sk" tvg-name="Canal+ Sport 6 SK" group-title="Sports" tvg-language="slk" tvg-quality="576i",Canal+ Sport 6 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="CanalPlusSport7SK.sk" tvg-name="Canal+ Sport 7 SK" group-title="Sports" tvg-language="slk" tvg-quality="576i",Canal+ Sport 7 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="CanalPlusSport8SK.sk" tvg-name="Canal+ Sport 8 SK" group-title="Sports" tvg-language="slk" tvg-quality="576i",Canal+ Sport 8 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="CanalPlusSportSK.sk" tvg-name="Canal+ Sport SK" group-title="Sports" tvg-language="slk" tvg-quality="576i",Canal+ Sport SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 tvg-id="ducktvPLUS.sk" tvg-name="ducktv PLUS" group-title="Kids" tvg-language="slk" tvg-quality="576i",ducktv PLUS
+https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dvojka.sk" tvg-name="Dvojka" group-title="Documentary" tvg-language="slk" tvg-quality="576i",Dvojka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_dvojka_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HAHATV.sk" tvg-name="HAHA TV" group-title="Comedy" tvg-language="slk" tvg-quality="576i",HAHA TV
+https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" group-title="Kids" tvg-language="ces;eng;heb;por;slk" tvg-quality="576p",JimJam Europe
+http://158.160.149.81:8080/269/index.m3u8
+
+#EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" group-title="Kids" tvg-language="ces;eng;heb;por;slk" tvg-quality="576p",JimJam Europe
+http://stream.mcquack.net/150/index.m3u8
+
+#EXTINF:-1 tvg-id="NZTV.sk" tvg-name="NZTV" group-title="General" tvg-language="slk" tvg-quality="486p",NZTV
+http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8
+
+#EXTINF:-1 tvg-id="NZTV.sk" tvg-name="NZTV" group-title="General" tvg-language="slk" tvg-quality="576i",NZTV
+https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spektrum.cz" tvg-name="Spektrum" group-title="Documentary" tvg-language="ces;slk" tvg-quality="576i",Spektrum
+http://88.212.15.17/live/test_spektrum/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SpektrumHome.cz" tvg-name="Spektrum Home" group-title="Entertainment" tvg-language="ces;slk" tvg-quality="576i",Spektrum Home
+http://88.212.15.17/live/test_home_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sport1.cz" tvg-name="Sport1" group-title="Sports" tvg-language="ces;slk" tvg-quality="576i",Sport1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_sport1_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sport2.cz" tvg-name="Sport2" group-title="Sports" tvg-language="ces;slk" tvg-quality="576i",Sport2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_sport_2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBrezova.sk" tvg-name="TV Brezova" group-title="General" tvg-language="slk" tvg-quality="540p",TV Brezova
+http://95.105.193.219:88/hls/tvb.m3u8
+
+#EXTINF:-1 tvg-id="TVCentral.sk" tvg-name="TV Central" group-title="Uncategorized" tvg-language="slk" tvg-quality="540p",TV Central
+https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
+
+#EXTINF:-1 tvg-id="TVCentral.sk" tvg-name="TV Central" group-title="Uncategorized" tvg-language="slk" tvg-quality="576i",TV Central
+https://dash4.antik.sk/live/test_central/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVDK.sk" tvg-name="TV DK" group-title="Uncategorized" tvg-language="slk" tvg-quality="486p",TV DK
+http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVDK.sk" tvg-name="TV DK" group-title="Uncategorized" tvg-language="slk" tvg-quality="486p",TV DK
+https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVLocAll.sk" tvg-name="TV LocAll" group-title="Uncategorized" tvg-language="slk" tvg-quality="406p",TV LocAll
+http://tv.geniusnet.sk:8081/localltv/pl.m3u8
+
+#EXTINF:-1 tvg-id="TVLocAll.sk" tvg-name="TV LocAll" group-title="Uncategorized" tvg-language="slk" tvg-quality="576i",TV LocAll
+https://dash3.antik.sk/live/test_locall/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMistral.sk" tvg-name="TV Mistral" group-title="General" tvg-language="slk" tvg-quality="576i",TV Mistral
+https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMyjava.sk" tvg-name="TV Myjava" group-title="General" tvg-language="slk" tvg-quality="540p",TV Myjava
+http://95.105.193.219:88/hls/tvm.m3u8
+
+#EXTINF:-1 tvg-id="TVNitricka.sk" tvg-name="TV Nitricka" group-title="General" tvg-language="slk" tvg-quality="576i",TV Nitricka
+https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPanorama.sk" tvg-name="TV Panorama" group-title="General" tvg-language="slk" tvg-quality="576i",TV Panorama
+https://public.live.rebit.tv/live/20750f0b-e12d-4915-a4c3-47c5db9ccbf6/main.m3u8
+
+#EXTINF:-1 tvg-id="TVSen.sk" tvg-name="TV Sen" group-title="General" tvg-language="slk" tvg-quality="540p",TV Sen
+http://95.105.193.219:88/hls/tvsen.m3u8
+
+#EXTINF:-1 tvg-id="TVSeverka.sk" tvg-name="TV Severka" group-title="Uncategorized" tvg-language="slk" tvg-quality="576p",TV Severka
+http://88.212.7.11/live/test_severka_web_player/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSkalica.sk" tvg-name="TV Skalica" group-title="General" tvg-language="slk" tvg-quality="540p",TV Skalica
+http://95.105.193.219:88/hls/tvs.m3u8
+
+#EXTINF:-1 tvg-id="TVStaraTura.sk" tvg-name="TV Stara Tura" group-title="General" tvg-language="slk" tvg-quality="540p",TV Stara Tura
+http://95.105.193.219:88/hls/tvst.m3u8
+
+#EXTINF:-1 tvg-id="TVVega.sk" tvg-name="TV Vega" group-title="Uncategorized" tvg-language="slk" tvg-quality="576p",TV Vega
+http://88.212.7.11/live/test_tv_vega_web_player/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVVita.sk" tvg-name="TV Vita" group-title="Culture" tvg-language="slk" tvg-quality="576i",TV Vita
+https://dash3.antik.sk/live/test_vita/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV8.sk" tvg-name="TV8" group-title="Uncategorized" tvg-language="slk" tvg-quality="360p",TV8
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV8.sk" tvg-name="TV8" group-title="Uncategorized" tvg-language="slk" tvg-quality="576p",TV8
+http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV8.sk" tvg-name="TV8" group-title="Uncategorized" tvg-language="slk" tvg-quality="576i",TV8
+https://dash3.antik.sk/live/test_osem/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV9.sk" tvg-name="TV9" group-title="Uncategorized" tvg-language="slk" tvg-quality="576i",TV9
+https://dash4.antik.sk/live/test_tv9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVT.sk" tvg-name="TVT" group-title="Uncategorized" tvg-language="slk" tvg-quality="486p",TVT
+https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VIATV.sk" tvg-name="VIA TV" group-title="Uncategorized" tvg-language="slk" tvg-quality="576i",VIA TV
+http://88.212.15.17/live/via_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="VIOTV.sk" tvg-name="VIO TV" group-title="Uncategorized" tvg-language="slk" tvg-quality="480p",VIO TV
+http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZapadoslovenskaTV.sk" tvg-name="Zapadoslovenska TV" group-title="General" tvg-language="slk" tvg-quality="576i",Zapadoslovenska TV
+https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8
+

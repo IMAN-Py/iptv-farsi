@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2TV.lt" tvg-name="2TV" group-title="Music" tvg-language="lit" tvg-quality="1080p",2TV
+https://lnk5511.bstrm.net/live/687e3ff1679c8d4d68fab6c5/hd/manifest.mpd
+
+#EXTINF:-1 tvg-id="LRTKlasika.lt" tvg-name="LRT Klasika" group-title="Music" tvg-language="lit" tvg-quality="1080p",LRT Klasika
+https://stream-live.lrt.lt/klasika/master.m3u8
+
+#EXTINF:-1 tvg-id="LRTOpus.lt" tvg-name="LRT Opus" group-title="Music" tvg-language="lit" tvg-quality="1080p",LRT Opus
+https://stream-live.lrt.lt/opus/master.m3u8
+
+#EXTINF:-1 tvg-id="M1.lt" tvg-name="M-1" group-title="Music" tvg-language="lit" tvg-quality="480p",M-1
+https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerHitRadio.lt" tvg-name="Power Hit Radio" group-title="Music" tvg-language="lit" tvg-quality="576p",Power Hit Radio
+https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8
+

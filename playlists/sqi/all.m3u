@@ -1,0 +1,158 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN" group-title="News" tvg-language="sqi" tvg-quality="576i",A2 CNN
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlbUKTV.uk" tvg-name="Alb UK TV" group-title="General" tvg-language="eng;sqi" tvg-quality="1080p",Alb UK TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" group-title="Music" tvg-language="sqi" tvg-quality="1080p",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-name="AlbKanale Music TV" group-title="Music" tvg-language="sqi" tvg-quality="1080p",AlbKanale Music TV
+https://secured.albportal.net:2083/AlbKanaleMusicTv/index.m3u8
+
+#EXTINF:-1 tvg-id="AlpoTV.al" tvg-name="Alpo TV" group-title="General" tvg-language="sqi" tvg-quality="576i",Alpo TV
+https://vs.sednastream.com:1936/alportv/alportv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Alsat.mk" tvg-name="Alsat" group-title="General" tvg-language="mkd;sqi" tvg-quality="576i",Alsat
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
+
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" group-title="News" tvg-language="sqi" tvg-quality="576i",CNA
+https://live1.mediadesk.al/cnatv.php
+
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" group-title="News" tvg-language="sqi" tvg-quality="1080p",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+
+#EXTINF:-1 tvg-id="CNA.al" tvg-name="CNA" group-title="News" tvg-language="sqi" tvg-quality="576i",CNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h29/index.m3u8
+
+#EXTINF:-1 tvg-id="Cufo.al" tvg-name="Cufo" group-title="Kids" tvg-language="sqi" tvg-quality="576i",Cufo
+https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_id=backoffice1&application_installation_id=1&authority_instance_id=spectar-prd-digitalb&detected_delivery_method=hls&id=DAL_1_005&playlist_template=nginx&profile_id=1&ps=94d0066599d8f74d1c090e93ac4617b6491d3629d2e2d770870fcef1f7effa25b204aa53b3821da5e9e65bee8e94331bcae2cb344d0739ca3a938b4ef2051cc8&subscriber_id=1&token=142cda7d50870275a9ca7988ff001b32ab30709b&uuid=backoffice1&vh=7ab82e63aae8510c6b37ea16da502e54e441a5a1a88bce0c8ed63da99bce948d86253d64ae00424dda8b9c8b6e2cd0f6cd79d8b0a56e10759210cdf4f6761d11&video_id=12498
+
+#EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+
+#EXTINF:-1 tvg-id="FieriTv.al" tvg-name="Fieri Tv" group-title="General" tvg-language="sqi" tvg-quality="720p",Fieri Tv
+http://valashop.online:8090/fieritv.m3u8
+
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-name="Kanal D Drama" group-title="Entertainment" tvg-language="spa;sqi;tur" tvg-quality="1080p",Kanal D Drama
+http://190.93.224.42/KANAL-D-DRAMA/index.m3u8
+
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-name="Kanal D Drama" group-title="Entertainment" tvg-language="spa;sqi;tur" tvg-quality="1080p",Kanal D Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-name="Kanal D Drama" group-title="Entertainment" tvg-language="spa;sqi;tur" tvg-quality="1080p",Kanal D Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD_principal_SRT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-name="Kanal D Drama" group-title="Entertainment" tvg-language="spa;sqi;tur" tvg-quality="1080p",Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kohavision.xk" tvg-name="Kohavision" group-title="News" tvg-language="sqi;srp" tvg-quality="576i",Kohavision
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MRT2.mk" tvg-name="MRT 2" group-title="Culture" tvg-language="sqi" tvg-quality="576i",MRT 2
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
+
+#EXTINF:-1 tvg-id="MRTSobraniskikanal.mk" tvg-name="MRT Sobraniski kanal" group-title="Legislative" tvg-language="mkd;sqi" tvg-quality="576i",MRT Sobraniski kanal
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
+
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24" group-title="News" tvg-language="sqi" tvg-quality="392p",News 24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News24.al" tvg-name="News 24" group-title="News" tvg-language="sqi" tvg-quality="392p",News 24
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ntv.al" tvg-name="ntv" group-title="News" tvg-language="sqi" tvg-quality="720p",ntv
+https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8
+
+#EXTINF:-1 tvg-id="OraNews.al" tvg-name="Ora News" group-title="News" tvg-language="sqi" tvg-quality="720p",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+
+#EXTINF:-1 tvg-id="PanoramaTV.al" tvg-name="Panorama TV" group-title="News" tvg-language="sqi" tvg-quality="576i",Panorama TV
+https://159.69.221.56/panorama/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ReportTV.al" tvg-name="Report TV" group-title="News" tvg-language="sqi" tvg-quality="720p",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="RTK3.xk" tvg-name="RTK 3" group-title="Uncategorized" tvg-language="sqi" tvg-quality="1080p",RTK 3
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
+
+#EXTINF:-1 tvg-id="RTSH1.al" tvg-name="RTSH 1" group-title="General" tvg-language="sqi" tvg-quality="1080p",RTSH 1
+http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTSH2.al" tvg-name="RTSH 2" group-title="General" tvg-language="sqi" tvg-quality="1080p",RTSH 2
+http://178.33.11.6:8696/live/rtsh2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTSH24.al" tvg-name="RTSH 24" group-title="News" tvg-language="sqi" tvg-quality="1080p",RTSH 24
+http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTSHShqip.al" tvg-name="RTSH Shqip" group-title="Movies" tvg-language="sqi" tvg-quality="1080p",RTSH Shqip
+http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTSHSport.al" tvg-name="RTSH Sport" group-title="Sports" tvg-language="sqi" tvg-quality="1080p",RTSH Sport
+http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTVPendimi.ch" tvg-name="RTV Pendimi" group-title="Religious" tvg-language="sqi" tvg-quality="720p",RTV Pendimi
+https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8
+
+#EXTINF:-1 tvg-id="RTV21.xk" tvg-name="RTV21" group-title="Uncategorized" tvg-language="sqi" tvg-quality="576i",RTV21
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Syri.al" tvg-name="Syri" group-title="News" tvg-language="sqi" tvg-quality="720p",Syri
+https://stream.syritv.al/live/syritv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="T7.xk" tvg-name="T7" group-title="Uncategorized" tvg-language="sqi" tvg-quality="720p",T7
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
+
+#EXTINF:-1 tvg-id="TopEstradaTV.mk" tvg-name="TopEstrada TV" group-title="Music" tvg-language="sqi" tvg-quality="720p",TopEstrada TV
+http://live.topestrada.com/live/topestrada/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TropojaTelevizion.al" tvg-name="Tropoja Televizion" group-title="General" tvg-language="sqi" tvg-quality="576i",Tropoja Televizion
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV7Albania.al" tvg-name="TV 7 Albania" group-title="Religious" tvg-language="sqi" tvg-quality="576i",TV 7 Albania
+https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVArberia3Femije.xk" tvg-name="TV Arberia 3 Femije" group-title="Kids" tvg-language="sqi" tvg-quality="720p",TV Arberia 3 Femije
+https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVArberia4Muzike.xk" tvg-name="TV Arberia 4 Muzike" group-title="Music" tvg-language="sqi" tvg-quality="720p",TV Arberia 4 Muzike
+https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVArberiaRetroHits.xk" tvg-name="TV Arberia Retro Hits" group-title="Music" tvg-language="sqi" tvg-quality="720p",TV Arberia Retro Hits
+https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVArta.xk" tvg-name="TV Arta" group-title="News" tvg-language="sqi" tvg-quality="720p",TV Arta
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+
+#EXTINF:-1 tvg-id="TVDielli.xk" tvg-name="TV Dielli" group-title="Uncategorized" tvg-language="sqi" tvg-quality="720p",TV Dielli
+http://stream.tvdielli.com:8081/dielli/index.m3u8
+
+#EXTINF:-1 tvg-id="TVERA.mk" tvg-name="TV ERA" group-title="Entertainment" tvg-language="sqi" tvg-quality="576i",TV ERA
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8
+
+#EXTINF:-1 tvg-id="TVJohaniter.al" tvg-name="TV Johaniter" group-title="General" tvg-language="sqi" tvg-quality="720p",TV Johaniter
+https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8
+
+#EXTINF:-1 tvg-id="TVOpoja.xk" tvg-name="TV Opoja" group-title="Uncategorized" tvg-language="sqi" tvg-quality="720p",TV Opoja
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSyri.xk" tvg-name="TV Syri" group-title="Uncategorized" tvg-language="sqi" tvg-quality="720p",TV Syri
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
+
+#EXTINF:-1 tvg-id="TV21.mk" tvg-name="TV21" group-title="General" tvg-language="mkd;sqi" tvg-quality="576i",TV21
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
+
+#EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus" group-title="General" tvg-language="sqi" tvg-quality="1080p",Vizion Plus
+https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
+
+#EXTINF:-1 tvg-id="ZICOTV.rs" tvg-name="ZICO TV" group-title="Music" tvg-language="sqi" tvg-quality="720p",ZICO TV
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
+
+#EXTINF:-1 tvg-id="ZjarrTV.al" tvg-name="Zjarr TV" group-title="General" tvg-language="sqi" tvg-quality="360p",Zjarr TV
+https://zjarr.future.al/hls/playlist.m3u8
+

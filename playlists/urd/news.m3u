@@ -1,0 +1,124 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="24NewsHD.pk" tvg-name="24 News HD" group-title="News" tvg-language="urd" tvg-quality="576i",24 News HD
+https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8
+
+#EXTINF:-1 tvg-id="365News.pk" tvg-name="365 News" group-title="News" tvg-language="urd" tvg-quality="720p",365 News
+https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8
+
+#EXTINF:-1 tvg-id="4TVNews.in" tvg-name="4TV News" group-title="News" tvg-language="urd" tvg-quality="576p",4TV News
+https://cdn.pishow.tv/ott/live/1007/master.m3u8
+
+#EXTINF:-1 tvg-id="7News.pk" tvg-name="7 News" group-title="News" tvg-language="urd" tvg-quality="720p",7 News
+https://sscsott.com/7news/live/index.m3u8
+
+#EXTINF:-1 tvg-id="92NewsHD.pk" tvg-name="92 News HD" group-title="News" tvg-language="urd" tvg-quality="720p",92 News HD
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AajNews.pk" tvg-name="Aaj News" group-title="News" tvg-language="urd" tvg-quality="576p",Aaj News
+http://115.42.65.142:9981/stream/channelid/750987367
+
+#EXTINF:-1 tvg-id="AbbTakk.pk" tvg-name="Abb Takk" group-title="News" tvg-language="urd" tvg-quality="576p",Abb Takk
+http://115.42.65.142:9981/stream/channelid/852828604
+
+#EXTINF:-1 tvg-id="ABNNews.pk" tvg-name="ABN News" group-title="News" tvg-language="urd" tvg-quality="1080p",ABN News
+http://115.42.65.142:9981/stream/channelid/966869781
+
+#EXTINF:-1 tvg-id="ABNNews.pk" tvg-name="ABN News" group-title="News" tvg-language="urd" tvg-quality="360p",ABN News
+https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AikNews.pk" tvg-name="Aik News" group-title="News" tvg-language="urd" tvg-quality="576i",Aik News
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/live/vsat-84H/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AikNews.pk" tvg-name="Aik News" group-title="News" tvg-language="urd" tvg-quality="576i",Aik News
+https://s2.ideationtec.live/Pnn/Pnn.m3u8?token=KsR3k27_sH3n-2
+
+#EXTINF:-1 tvg-id="ARYNews.pk" tvg-name="ARY News" group-title="News" tvg-language="urd" tvg-quality="576i",ARY News
+https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8
+
+#EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="576i",Bharat Express
+https://cdn.pishow.tv/ott/live/1139/master.m3u8
+
+#EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="576p",Bharat Express
+https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/index.m3u8
+
+#EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="480p",Bharat Express
+https://stream1.livebox.co.in/VCAREhls/live.m3u8
+
+#EXTINF:-1 tvg-id="CapitalTV.pk" tvg-name="Capital TV" group-title="News" tvg-language="urd" tvg-quality="576i",Capital TV
+https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8
+
+#EXTINF:-1 tvg-id="City41.pk" tvg-name="City 41" group-title="News" tvg-language="eng;urd" tvg-quality="576p",City 41
+http://163.61.227.29:8000/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-id="DunyaNews.pk" tvg-name="Dunya News" group-title="News" tvg-language="urd" tvg-quality="720p",Dunya News
+https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DunyaNews.pk" tvg-name="Dunya News" group-title="News" tvg-language="urd" tvg-quality="720p",Dunya News
+https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DunyaNewsUK.uk" tvg-name="Dunya News UK" group-title="News" tvg-language="eng;urd" tvg-quality="720p",Dunya News UK
+https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HumNews.pk" tvg-name="Hum News" group-title="News" tvg-language="urd" tvg-quality="576i",Hum News
+http://103.86.135.164:9981/stream/channelid/2024790699?profile=pass&ticket=CAC87CD3CF8747A13FB03B91C9BE860F93CD615C
+
+#EXTINF:-1 tvg-id="KohenoorNews.pk" tvg-name="Kohenoor News" group-title="News" tvg-language="urd" tvg-quality="576p",Kohenoor News
+http://103.250.28.74:8000/play/a00r/index.m3u8
+
+#EXTINF:-1 tvg-id="LahoreNews.pk" tvg-name="Lahore News" group-title="News" tvg-language="urd" tvg-quality="720p",Lahore News
+https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LahoreRang.pk" tvg-name="Lahore Rang" group-title="News" tvg-language="urd" tvg-quality="1080p",Lahore Rang
+http://103.250.28.74:8000/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-id="MNews.pk" tvg-name="M News" group-title="News" tvg-language="urd" tvg-quality="1080p",M News
+https://cdn.rabta.stream/M-News/index.m3u8
+
+#EXTINF:-1 tvg-id="Metro1News.pk" tvg-name="Metro1 News" group-title="News" tvg-language="urd" tvg-quality="576p",Metro1 News
+http://103.250.28.74:8000/play/a04u/index.m3u8
+
+#EXTINF:-1 tvg-id="MunsifTV.in" tvg-name="Munsif TV" group-title="News" tvg-language="urd" tvg-quality="576p",Munsif TV
+https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8
+
+#EXTINF:-1 tvg-id="MunsifTV.in" tvg-name="Munsif TV" group-title="News" tvg-language="urd" tvg-quality="576p",Munsif TV
+https://mumbai-edge.smartplaytv.in/munsiftv/index.m3u8
+
+#EXTINF:-1 tvg-id="NeoNews.pk" tvg-name="Neo News" group-title="News" tvg-language="urd" tvg-quality="1080p",Neo News
+http://103.250.28.74:8000/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-id="NeoNews.pk" tvg-name="Neo News" group-title="News" tvg-language="urd" tvg-quality="1080p",Neo News
+https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NewsOne.pk" tvg-name="News One" group-title="News" tvg-language="urd" tvg-quality="576p",News One
+http://103.250.28.74:8000/play/a04j/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsOne.pk" tvg-name="News One" group-title="News" tvg-language="urd" tvg-quality="720p",News One
+https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News18DelhiNCRJK.in" tvg-name="News18 Delhi NCR JK" group-title="News" tvg-language="hin;urd" tvg-quality="1080p",News18 Delhi NCR JK
+https://n18syndication.akamaized.net/bpk-tv/News18_JKLH_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="News18Urdu.in" tvg-name="News18 Urdu" group-title="News" tvg-language="urd" tvg-quality="1080p",News18 Urdu
+https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="PTVNews.pk" tvg-name="PTV News" group-title="News" tvg-language="urd" tvg-quality="1080p",PTV News
+http://103.250.28.74:8000/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-id="SalaamTV.in" tvg-name="Salaam TV" group-title="News" tvg-language="urd" tvg-quality="720p",Salaam TV
+https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
+
+#EXTINF:-1 tvg-id="SalaamTV.in" tvg-name="Salaam TV" group-title="News" tvg-language="urd" tvg-quality="576p",Salaam TV
+https://mumt07.tangotv.in/zHjX9OFlZEESALAM/index.m3u8
+
+#EXTINF:-1 tvg-id="SalaamTV.in" tvg-name="Salaam TV" group-title="News" tvg-language="urd" tvg-quality="720p",Salaam TV
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/af896be5-4743-41fc-8b6a-eb05e44f3a6e/3.m3u8
+
+#EXTINF:-1 tvg-id="SkyNewsUrdu.pk" tvg-name="Sky News Urdu" group-title="News" tvg-language="urd" tvg-quality="720p",Sky News Urdu
+https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuchTV.pk" tvg-name="Such TV" group-title="News" tvg-language="urd" tvg-quality="576i",Such TV
+https://video.primexsports.com/suchnews/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SunoNewsHD.pk" tvg-name="Suno News HD" group-title="News" tvg-language="urd" tvg-quality="1080p",Suno News HD
+http://103.250.28.74:8000/play/a02a/index.m3u8
+

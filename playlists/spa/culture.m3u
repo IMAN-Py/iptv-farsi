@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="13C" group-title="Culture" tvg-language="spa" tvg-quality="1080p",13C
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+
+#EXTINF:-1 tvg-id="AlternaTV.ar" tvg-name="AlternaTV" group-title="Culture;Documentary;Entertainment;General;Movies;Music" tvg-language="spa" tvg-quality="720p",AlternaTV
+https://tv.alterna.ar/stream/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="AMP2.us" tvg-name="AMP 2" group-title="Culture" tvg-language="eng;spa" tvg-quality="720p",AMP 2
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch2/video.m3u8
+
+#EXTINF:-1 tvg-id="AsiriTV.pe" tvg-name="AsiriTV" group-title="Culture" tvg-language="spa" tvg-quality="720p",AsiriTV
+https://video2.lhdserver.es/asiritv/live.m3u8
+
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" group-title="Culture;Travel" tvg-language="spa" tvg-quality="1080p",Aunar
+http://190.128.214.97:64333/play/a057/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal17RTVD.do" tvg-name="Canal 17 RTVD" group-title="Culture" tvg-language="spa" tvg-quality="1080p",Canal 17 RTVD
+https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalDiplomatico.ve" tvg-name="Canal Diplomatico" group-title="Culture" tvg-language="spa" tvg-quality="480i",Canal Diplomatico
+https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
+
+#EXTINF:-1 tvg-id="Capital21.mx" tvg-name="Capital 21" group-title="Culture;Entertainment" tvg-language="spa" tvg-quality="1080p",Capital 21
+https://video.cdmx.gob.mx/redes/stream.m3u8
+
+#EXTINF:-1 tvg-id="CatamarcaTV.ar" tvg-name="Catamarca TV" group-title="Culture;News" tvg-language="spa" tvg-quality="720p",Catamarca TV
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
+
+#EXTINF:-1 tvg-id="ChiloeRed25.cl" tvg-name="Chiloe Red 25" group-title="Culture" tvg-language="spa" tvg-quality="720p",Chiloe Red 25
+https://v2.tustreaming.cl/chiloered/index.m3u8
+
+#EXTINF:-1 tvg-id="CiracuTV.ec" tvg-name="Ciracu TV" group-title="Culture" tvg-language="spa" tvg-quality="720p",Ciracu TV
+https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Condavision.es" tvg-name="Condavision" group-title="Culture" tvg-language="spa" tvg-quality="1080p",Condavision
+https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CostaRicaChannel.cr" tvg-name="Costa Rica Channel" group-title="Culture;Travel" tvg-language="spa" tvg-quality="576p",Costa Rica Channel
+https://video0.rogohosting.com:19360/8006/8006.m3u8
+
+#EXTINF:-1 tvg-id="Cultura24.pe" tvg-name="Cultura 24" group-title="Culture" tvg-language="spa" tvg-quality="480i",Cultura 24
+https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
+
+#EXTINF:-1 tvg-id="CulturaOnline.cl" tvg-name="Cultura Online" group-title="Culture" tvg-language="spa" tvg-quality="480i",Cultura Online
+https://streaming.bitsur.cl:3399/live/vdo532live.m3u8
+
+#EXTINF:-1 tvg-id="DiasporaTV.pe" tvg-name="Diaspora TV" group-title="Culture" tvg-language="spa" tvg-quality="480i",Diaspora TV
+https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8
+
+#EXTINF:-1 tvg-id="ElSonorense.mx" tvg-name="El Sonorense" group-title="Culture" tvg-language="spa" tvg-quality="1080p",El Sonorense
+https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Encuentro" group-title="Culture" tvg-language="spa" tvg-quality="720p",Encuentro
+http://138.59.227.20:8000/play/a05s/index.m3u8
+
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Encuentro" group-title="Culture" tvg-language="spa" tvg-quality="720p",Encuentro
+http://190.128.214.97:64333/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-id="GikTVMX.mx" tvg-name="GikTVMX" group-title="Animation;Culture;Entertainment" tvg-language="spa" tvg-quality="720p",GikTVMX
+https://pistream.ddns.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="GuaymateTV.do" tvg-name="Guaymate TV" group-title="Culture" tvg-language="spa" tvg-quality="720p",Guaymate TV
+https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HamaikaTelebista.es" tvg-name="Hamaika Telebista" group-title="Culture" tvg-language="spa" tvg-quality="1080p",Hamaika Telebista
+https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HolvoetTV.cl" tvg-name="Holvoet TV" group-title="Culture" tvg-language="spa" tvg-quality="720p",Holvoet TV
+https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JaliscoTV.mx" tvg-name="Jalisco TV" group-title="Culture;Education" tvg-language="spa" tvg-quality="720p",Jalisco TV
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+
+#EXTINF:-1 tvg-id="Manavision.ec" tvg-name="Manavision" group-title="Culture" tvg-language="spa" tvg-quality="480p",Manavision
+https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
+
+#EXTINF:-1 tvg-id="Mega2.cl" tvg-name="Mega 2" group-title="Culture" tvg-language="spa" tvg-quality="1080p",Mega 2
+http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
+
+#EXTINF:-1 tvg-id="Mega2.cl" tvg-name="Mega 2" group-title="Culture" tvg-language="spa" tvg-quality="1080p",Mega 2
+http://15.204.246.24:8080/Mega2HD/index.m3u8
+
+#EXTINF:-1 tvg-id="OndambientalTV.co" tvg-name="Ondambiental TV" group-title="Culture;Music" tvg-language="spa" tvg-quality="360p",Ondambiental TV
+https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PresumiendoMexico.mx" tvg-name="Presumiendo Mexico" group-title="Culture" tvg-language="spa" tvg-quality="720p",Presumiendo Mexico
+https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Radio3.es" tvg-name="Radio 3" group-title="Culture" tvg-language="spa" tvg-quality="720p",Radio 3
+https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
+
+#EXTINF:-1 tvg-id="RadioSuyaiTV.cl" tvg-name="Radio Suyai TV" group-title="Culture;Music" tvg-language="spa" tvg-quality="1080p",Radio Suyai TV
+https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioSuyaiTV.cl" tvg-name="Radio Suyai TV" group-title="Culture;Music" tvg-language="spa" tvg-quality="1080p",Radio Suyai TV
+https://trun.suyaitv.cl/memfs/d0835165-7fb4-4982-8336-84a7f4522908.m3u8
+
+#EXTINF:-1 tvg-id="RadioUniversitariaSanAndres.bo" tvg-name="Radio Universitaria San Andres" group-title="Culture;Education;Entertainment" tvg-language="spa" tvg-quality="720p",Radio Universitaria San Andres
+https://edge.enhdtv.com/8054/index.m3u8
+
+#EXTINF:-1 tvg-id="SenalU.ar" tvg-name="Senal U" group-title="Culture" tvg-language="spa" tvg-quality="576i",Senal U
+https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ShowVenTV.ve" tvg-name="ShowVen TV" group-title="Culture;Music" tvg-language="spa" tvg-quality="720p",ShowVen TV
+https://cdnbarinas.tvzamora.com/showven/index.m3u8
+
+#EXTINF:-1 tvg-id="SomosEntreRios.ar" tvg-name="Somos Entre Rios" group-title="Culture;Family;General" tvg-language="spa" tvg-quality="360p",Somos Entre Rios
+https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuyaiTV.cl" tvg-name="Suyai TV" group-title="Culture" tvg-language="spa" tvg-quality="1080p",Suyai TV
+https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8
+
+#EXTINF:-1 tvg-id="TeleAmiga.co" tvg-name="Tele Amiga" group-title="Culture" tvg-language="spa" tvg-quality="720p",Tele Amiga
+http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleAmiga.co" tvg-name="Tele Amiga" group-title="Culture" tvg-language="spa" tvg-quality="480p",Tele Amiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCuatro42.mx" tvg-name="TV Cuatro 4.2" group-title="Culture" tvg-language="spa" tvg-quality="1080p",TV Cuatro 4.2
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+
+#EXTINF:-1 tvg-id="UAATV.mx" tvg-name="UAA TV" group-title="Culture;Education;Public" tvg-language="spa" tvg-quality="1080p",UAA TV
+https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UCL.uy" tvg-name="UCL" group-title="Culture" tvg-language="spa" tvg-quality="720p",UCL
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+
+#EXTINF:-1 tvg-id="UCL.uy" tvg-name="UCL" group-title="Culture" tvg-language="spa" tvg-quality="1080p",UCL
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?m=1670250741
+
+#EXTINF:-1 tvg-id="UCVTV.cl" tvg-name="UCV TV" group-title="Culture" tvg-language="spa" tvg-quality="720p",UCV TV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UMSATVULP.bo" tvg-name="UMSA TVU LP" group-title="Culture;Education;News" tvg-language="spa" tvg-quality="720p",UMSA TVU LP
+https://edge.enhdtv.com/8190/index.m3u8
+
+#EXTINF:-1 tvg-id="UMSATVULP.bo" tvg-name="UMSA TVU LP" group-title="Culture;Education;News" tvg-language="spa" tvg-quality="720p",UMSA TVU LP
+#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/en-vivo
+https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="USMPTV.pe" tvg-name="USMPTV" group-title="Culture" tvg-language="spa" tvg-quality="720p",USMPTV
+http://187.102.210.46/USMP/index.m3u8
+
+#EXTINF:-1 tvg-id="USMPTV.pe" tvg-name="USMPTV" group-title="Culture" tvg-language="spa" tvg-quality="480i",USMPTV
+#EXTVLCOPT:http-referrer=https://usmptv.pe/
+https://streamusmptv.ddns.net/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="VersoTV.cl" tvg-name="Verso TV" group-title="Culture" tvg-language="spa" tvg-quality="576i",Verso TV
+https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
+

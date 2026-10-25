@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTSHShqip.al" tvg-name="RTSH Shqip" group-title="Movies" tvg-language="sqi" tvg-quality="1080p",RTSH Shqip
+http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
+

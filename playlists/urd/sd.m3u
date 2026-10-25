@@ -1,0 +1,178 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="24NewsHD.pk" tvg-name="24 News HD" group-title="News" tvg-language="urd" tvg-quality="576i",24 News HD
+https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8
+
+#EXTINF:-1 tvg-id="4TVNews.in" tvg-name="4TV News" group-title="News" tvg-language="urd" tvg-quality="576p",4TV News
+https://cdn.pishow.tv/ott/live/1007/master.m3u8
+
+#EXTINF:-1 tvg-id="APlusTV.pk" tvg-name="A-Plus TV" group-title="Entertainment" tvg-language="urd" tvg-quality="576i",A-Plus TV
+http://103.86.135.164:9981/stream/channelid/1522598263?profile=pass&ticket=8F210F02E7EF3471D45EFD9B293E0E07CE3532BF
+
+#EXTINF:-1 tvg-id="APlusTV.pk" tvg-name="A-Plus TV" group-title="Entertainment" tvg-language="urd" tvg-quality="576p",A-Plus TV
+http://115.42.65.142:9981/stream/channelid/113328724
+
+#EXTINF:-1 tvg-id="APlusTV.pk" tvg-name="A-Plus TV" group-title="Entertainment" tvg-language="urd" tvg-quality="576i",A-Plus TV
+https://cdn4.mjunoon.tv:8087/streamtest/118M/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AajNews.pk" tvg-name="Aaj News" group-title="News" tvg-language="urd" tvg-quality="576p",Aaj News
+http://115.42.65.142:9981/stream/channelid/750987367
+
+#EXTINF:-1 tvg-id="AbbTakk.pk" tvg-name="Abb Takk" group-title="News" tvg-language="urd" tvg-quality="576p",Abb Takk
+http://115.42.65.142:9981/stream/channelid/852828604
+
+#EXTINF:-1 tvg-id="ABNNews.pk" tvg-name="ABN News" group-title="News" tvg-language="urd" tvg-quality="360p",ABN News
+https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABNUrdu.us" tvg-name="ABN Urdu" group-title="Religious" tvg-language="urd" tvg-quality="540p",ABN Urdu
+https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
+
+#EXTINF:-1 tvg-id="AikNews.pk" tvg-name="Aik News" group-title="News" tvg-language="urd" tvg-quality="576i",Aik News
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/live/vsat-84H/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AikNews.pk" tvg-name="Aik News" group-title="News" tvg-language="urd" tvg-quality="576i",Aik News
+https://s2.ideationtec.live/Pnn/Pnn.m3u8?token=KsR3k27_sH3n-2
+
+#EXTINF:-1 tvg-id="ApnaChannel.pk" tvg-name="Apna Channel" group-title="General" tvg-language="eng;urd" tvg-quality="576p",Apna Channel
+http://115.42.65.142:9981/stream/channelid/1273966657
+
+#EXTINF:-1 tvg-id="ARYNews.pk" tvg-name="ARY News" group-title="News" tvg-language="urd" tvg-quality="576i",ARY News
+https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8
+
+#EXTINF:-1 tvg-id="aurLifeHD.pk" tvg-name="aurLife HD" group-title="General" tvg-language="eng;urd" tvg-quality="614p",aurLife HD
+http://124.109.47.101/hls/stream1.m3u8
+
+#EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="576i",Bharat Express
+https://cdn.pishow.tv/ott/live/1139/master.m3u8
+
+#EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="576p",Bharat Express
+https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/index.m3u8
+
+#EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="480p",Bharat Express
+https://stream1.livebox.co.in/VCAREhls/live.m3u8
+
+#EXTINF:-1 tvg-id="BSFilm.pk" tvg-name="BS Film" group-title="General" tvg-language="urd" tvg-quality="576p",BS Film
+https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BSFilm.pk" tvg-name="BS Film" group-title="General" tvg-language="urd" tvg-quality="576p",BS Film
+https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BSTV.pk" tvg-name="BSTV" group-title="General" tvg-language="urd" tvg-quality="576p",BSTV
+https://lbgo.bozztv.com/ssh101/ssh101/bstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CapitalTV.pk" tvg-name="Capital TV" group-title="News" tvg-language="urd" tvg-quality="576i",Capital TV
+https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.pk" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;urd" tvg-quality="576i",Cartoon Network
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ChannelWIN.in" tvg-name="Channel WIN" group-title="Religious" tvg-language="urd" tvg-quality="576p",Channel WIN
+https://mumt05.tangotv.in/87NeALx2CHANNELWIN/index.m3u8
+
+#EXTINF:-1 tvg-id="City41.pk" tvg-name="City 41" group-title="News" tvg-language="eng;urd" tvg-quality="576p",City 41
+http://163.61.227.29:8000/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-id="DDUrdu.in" tvg-name="DD Urdu" group-title="General" tvg-language="eng;hin;urd" tvg-quality="504p",DD Urdu
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8
+
+#EXTINF:-1 tvg-id="DDUrdu.in" tvg-name="DD Urdu" group-title="General" tvg-language="eng;hin;urd" tvg-quality="576p",DD Urdu
+https://mumbai-edge.smartplaytv.in/DDUrdu/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" group-title="Travel" tvg-language="urd" tvg-quality="576i",Discover Pakistan
+http://103.86.135.164:9981/stream/channelid/2073419458?profile=pass&ticket=461AC76A96B0E3DC1FCFBFCF318709B61B2D3F5B
+
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" group-title="Travel" tvg-language="urd" tvg-quality="576i",Discover Pakistan
+http://103.86.135.164:9981/stream/channelid/2089283490?profile=pass&ticket=BB7D99860884A453E7DEA789EDFB5114621FEDED
+
+#EXTINF:-1 tvg-id="FalakTV.pk" tvg-name="Falak TV" group-title="Entertainment" tvg-language="pan;urd" tvg-quality="576i",Falak TV
+https://falak.rst.ae/index.m3u8
+
+#EXTINF:-1 tvg-id="Filmax.pk" tvg-name="Filmax" group-title="Movies" tvg-language="urd" tvg-quality="576p",Filmax
+https://s3.ideationtec.live/Filmax/Filmax.m3u8
+
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-name="God Stands Kids Club TV" group-title="Kids;Religious" tvg-language="urd" tvg-quality="480i",God Stands Kids Club TV
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
+
+#EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-name="God Stands TV" group-title="Religious" tvg-language="urd" tvg-quality="480i",God Stands TV
+https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8
+
+#EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-name="God Stands TV" group-title="Religious" tvg-language="eng;urd" tvg-quality="480i",God Stands TV
+https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8
+
+#EXTINF:-1 tvg-id="HarPalGeo.pk" tvg-name="HarPal Geo" group-title="Culture" tvg-language="urd" tvg-quality="360p",HarPal Geo
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HumNews.pk" tvg-name="Hum News" group-title="News" tvg-language="urd" tvg-quality="576i",Hum News
+http://103.86.135.164:9981/stream/channelid/2024790699?profile=pass&ticket=CAC87CD3CF8747A13FB03B91C9BE860F93CD615C
+
+#EXTINF:-1 tvg-id="HumTV.pk" tvg-name="Hum TV" group-title="Entertainment" tvg-language="urd" tvg-quality="576i",Hum TV
+https://cdn4.mjunoon.tv:8087/streamtest/82M/chunks.m3u8
+
+#EXTINF:-1 tvg-id="IqraTV.uk" tvg-name="Iqra TV" group-title="Religious" tvg-language="urd" tvg-quality="576i",Iqra TV
+https://cdn149.anystream.uk:8082/app/iq53la/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JeremiahTV.pk" tvg-name="Jeremiah TV" group-title="General" tvg-language="urd" tvg-quality="576i",Jeremiah TV
+https://x.streamablecloud.com/stream/hls/jeremiahtv/1_2/index.m3u8
+
+#EXTINF:-1 tvg-id="JeremiahTV.pk" tvg-name="Jeremiah TV" group-title="General" tvg-language="urd" tvg-quality="576i",Jeremiah TV
+https://x.streamablecloud.com/stream/hls/jeremiahtv/index.m3u8
+
+#EXTINF:-1 tvg-id="KohenoorNews.pk" tvg-name="Kohenoor News" group-title="News" tvg-language="urd" tvg-quality="576p",Kohenoor News
+http://103.250.28.74:8000/play/a00r/index.m3u8
+
+#EXTINF:-1 tvg-id="MSports.pk" tvg-name="M Sports" group-title="Sports" tvg-language="urd" tvg-quality="576i",M Sports
+https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MSports.pk" tvg-name="M Sports" group-title="Sports" tvg-language="urd" tvg-quality="576i",M Sports
+https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="MasalaTV.pk" tvg-name="Masala TV" group-title="Cooking" tvg-language="urd" tvg-quality="576p",Masala TV
+http://103.250.28.74:8000/play/a02x/index.m3u8
+
+#EXTINF:-1 tvg-id="MasalaTV.pk" tvg-name="Masala TV" group-title="Cooking" tvg-language="urd" tvg-quality="576i",Masala TV
+https://cdn4.mjunoon.tv:8087/streamtest/81M/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Metro1News.pk" tvg-name="Metro1 News" group-title="News" tvg-language="urd" tvg-quality="576p",Metro1 News
+http://103.250.28.74:8000/play/a04u/index.m3u8
+
+#EXTINF:-1 tvg-id="Minimax.pk" tvg-name="Minimax" group-title="Kids" tvg-language="urd" tvg-quality="360p",Minimax
+https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MunsifTV.in" tvg-name="Munsif TV" group-title="News" tvg-language="urd" tvg-quality="576p",Munsif TV
+https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8
+
+#EXTINF:-1 tvg-id="MunsifTV.in" tvg-name="Munsif TV" group-title="News" tvg-language="urd" tvg-quality="576p",Munsif TV
+https://mumbai-edge.smartplaytv.in/munsiftv/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsOne.pk" tvg-name="News One" group-title="News" tvg-language="urd" tvg-quality="576p",News One
+http://103.250.28.74:8000/play/a04j/index.m3u8
+
+#EXTINF:-1 tvg-id="PaighanTV.pk" tvg-name="Paighan TV" group-title="Education;Religious" tvg-language="urd" tvg-quality="576i",Paighan TV
+https://cdn4.mjunoon.tv:8087/streamtest/107M/chunks.m3u8
+
+#EXTINF:-1 tvg-id="PlayEntertainment.pk" tvg-name="Play Entertainment" group-title="Entertainment" tvg-language="urd" tvg-quality="576p",Play Entertainment
+http://103.250.28.74:8000/play/a050/index.m3u8
+
+#EXTINF:-1 tvg-id="RaaviTV.pk" tvg-name="Raavi TV" group-title="Uncategorized" tvg-language="urd" tvg-quality="576p",Raavi TV
+http://116.90.120.149:8000/play/a01f/index.m3u8
+
+#EXTINF:-1 tvg-id="SalaamTV.in" tvg-name="Salaam TV" group-title="News" tvg-language="urd" tvg-quality="576p",Salaam TV
+https://mumt07.tangotv.in/zHjX9OFlZEESALAM/index.m3u8
+
+#EXTINF:-1 tvg-id="SamaaTV.pk" tvg-name="Samaa TV" group-title="Uncategorized" tvg-language="urd" tvg-quality="576p",Samaa TV
+http://103.250.28.74:8000/play/a022/index.m3u8
+
+#EXTINF:-1 tvg-id="SamaaTV.pk" tvg-name="Samaa TV" group-title="Uncategorized" tvg-language="urd" tvg-quality="576p",Samaa TV
+https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SuchTV.pk" tvg-name="Such TV" group-title="News" tvg-language="urd" tvg-quality="576i",Such TV
+https://video.primexsports.com/suchnews/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVOneGlobal.pk" tvg-name="TV One Global" group-title="Uncategorized" tvg-language="urd" tvg-quality="576p",TV One Global
+http://103.250.28.74:8000/play/a04i/index.m3u8
+
+#EXTINF:-1 tvg-id="ZainabiaChannel.in" tvg-name="Zainabia Channel" group-title="Religious" tvg-language="eng;urd" tvg-quality="576i",Zainabia Channel
+https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
+
+#EXTINF:-1 tvg-id="ZindagiTV.pk" tvg-name="Zindagi TV" group-title="Uncategorized" tvg-language="urd" tvg-quality="576p",Zindagi TV
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
+

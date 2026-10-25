@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BHRT.ba" tvg-name="BHRT" group-title="Uncategorized" tvg-language="bos" tvg-quality="270p",BHRT
+https://bhrtstream.bhtelecom.ba/hls15/bhrtportal.m3u8
+
+#EXTINF:-1 tvg-id="Kanal6.ba" tvg-name="Kanal 6" group-title="General" tvg-language="bos" tvg-quality="288p",Kanal 6
+https://restreamer1.tnt.ba/hls/kanal6.m3u8
+
+#EXTINF:-1 tvg-id="RTVGlasDrine.ba" tvg-name="RTV Glas Drine" group-title="General;Music" tvg-language="bos" tvg-quality="404p",RTV Glas Drine
+http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Televizija5.ba" tvg-name="Televizija 5" group-title="Uncategorized" tvg-language="bos" tvg-quality="576p",Televizija 5
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+
+#EXTINF:-1 tvg-id="TNTKidsTV.ba" tvg-name="TNT Kids TV" group-title="Kids" tvg-language="bos" tvg-quality="288p",TNT Kids TV
+https://restreamer1.tnt.ba/hls/tntkids.m3u8
+

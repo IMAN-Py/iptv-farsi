@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" group-title="Business" tvg-language="tur" tvg-quality="576i",Bloomberg HT
+http://193.123.61.120:3000/kanal/bloomberght
+
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" group-title="Business" tvg-language="tur" tvg-quality="720p",Bloomberg HT
+https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
+
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" group-title="Business" tvg-language="tur" tvg-quality="720p",Bloomberg HT
+https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8
+
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" group-title="Business" tvg-language="tur" tvg-quality="720p",Bloomberg HT
+https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
+
+#EXTINF:-1 tvg-id="CNBCe.tr" tvg-name="CNBC-e" group-title="Business;Series" tvg-language="tur" tvg-quality="576i",CNBC-e
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+

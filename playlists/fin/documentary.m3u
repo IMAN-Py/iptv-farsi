@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NationalGeographic.fi" tvg-name="National Geographic" group-title="Documentary" tvg-language="fin" tvg-quality="720p",National Geographic
+https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true
+

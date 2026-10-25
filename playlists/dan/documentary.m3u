@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PlutoTVAlienInvasion.se" tvg-name="Pluto TV Alien Invasion" group-title="Documentary" tvg-language="dan" tvg-quality="720p",Pluto TV Alien Invasion
+https://jmp2.uk/plu-650999b86a841400083bd1ab.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVDokumentar.se" tvg-name="Pluto TV Dokumentar" group-title="Documentary" tvg-language="dan;eng" tvg-quality="720p",Pluto TV Dokumentar
+https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVSpace.se" tvg-name="Pluto TV Space" group-title="Documentary" tvg-language="dan" tvg-quality="720p",Pluto TV Space
+https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTrueCrime.se" tvg-name="Pluto TV True Crime" group-title="Documentary;Series" tvg-language="dan;eng" tvg-quality="720p",Pluto TV True Crime
+https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVVerdenskrigene.se" tvg-name="Pluto TV Verdenskrigene" group-title="Documentary" tvg-language="dan" tvg-quality="720p",Pluto TV Verdenskrigene
+https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8
+
+#EXTINF:-1 tvg-id="SmithsonianChannelSelects.se" tvg-name="Smithsonian Channel Selects" group-title="Documentary" tvg-language="dan;eng" tvg-quality="720p",Smithsonian Channel Selects
+https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
+

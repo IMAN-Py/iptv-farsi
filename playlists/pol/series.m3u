@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AXNBlack.pl" tvg-name="AXN Black" group-title="Series" tvg-language="pol" tvg-quality="576i",AXN Black
+http://92.114.85.87:8014/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-id="AXNSpin.pl" tvg-name="AXN Spin" group-title="Series" tvg-language="pol" tvg-quality="1080p",AXN Spin
+http://92.114.85.87:8010/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-id="AXNWhite.pl" tvg-name="AXN White" group-title="Movies;Series" tvg-language="pol" tvg-quality="576i",AXN White
+http://92.114.85.87:8014/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatSeriale.pl" tvg-name="Polsat Seriale" group-title="Series" tvg-language="pol" tvg-quality="1080p",Polsat Seriale
+http://57.128.210.196:8080/196/index.m3u8
+
+#EXTINF:-1 tvg-id="PolsatSeriale.pl" tvg-name="Polsat Seriale" group-title="Series" tvg-language="pol" tvg-quality="1080i",Polsat Seriale
+http://92.114.85.87:8014/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPSeriale.pl" tvg-name="TVP Seriale" group-title="Series" tvg-language="pol" tvg-quality="1080p",TVP Seriale
+http://92.114.85.87:8019/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatEpicDrama.uk" tvg-name="Viasat Epic Drama" group-title="Series" tvg-language="pol" tvg-quality="1080p",Viasat Epic Drama
+http://92.114.85.87:8001/play/a00x/index.m3u8
+

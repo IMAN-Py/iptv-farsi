@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="4E.gr" tvg-name="4E" group-title="Religious" tvg-language="ell" tvg-quality="576i",4E
+http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4E.gr" tvg-name="4E" group-title="Religious" tvg-language="ell" tvg-quality="1080p",4E
+http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+

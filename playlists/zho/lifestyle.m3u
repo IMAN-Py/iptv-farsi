@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV12.cn" tvg-name="CCTV-12" group-title="Lifestyle" tvg-language="zho" tvg-quality="720p",CCTV-12
+http://74.91.26.218:82/live/cctv12hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTVHealth.cn" tvg-name="CCTV-Health" group-title="Lifestyle" tvg-language="zho" tvg-quality="1080p",CCTV-Health
+http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-id="CCTVWomensFashion.cn" tvg-name="CCTV-Women's Fashion" group-title="Lifestyle" tvg-language="zho" tvg-quality="576p",CCTV-Women's Fashion
+http://223.110.245.169/PLTV/4/224/3221227026/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTVWomensFashion.cn" tvg-name="CCTV-Women's Fashion" group-title="Lifestyle" tvg-language="zho" tvg-quality="1080p",CCTV-Women's Fashion
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+
+#EXTINF:-1 tvg-id="HunanWomensChannel.cn" tvg-name="Hunan Womens Channel" group-title="Lifestyle" tvg-language="zho" tvg-quality="576i",Hunan Womens Channel
+http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
+
+#EXTINF:-1 tvg-id="JilinCityChannel.cn" tvg-name="Jilin City Channel" group-title="Lifestyle" tvg-language="zho" tvg-quality="576i",Jilin City Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8
+
+#EXTINF:-1 tvg-id="JilinLifestyleChannel.cn" tvg-name="Jilin Lifestyle Channel" group-title="Lifestyle" tvg-language="zho" tvg-quality="576i",Jilin Lifestyle Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8
+
+#EXTINF:-1 tvg-id="JilinRuralChannel.cn" tvg-name="Jilin Rural Channel" group-title="Education;Lifestyle;Science" tvg-language="zho" tvg-quality="576i",Jilin Rural Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
+
+#EXTINF:-1 tvg-id="LuxeTV.lu" tvg-name="Luxe TV" group-title="Lifestyle" tvg-language="eng;fra;rus;zho" tvg-quality="1080p",Luxe TV
+http://103.154.3.101:5001/live/1736.m3u8
+
+#EXTINF:-1 tvg-id="LuxeTV.lu" tvg-name="Luxe TV" group-title="Lifestyle" tvg-language="eng;fra;rus;zho" tvg-quality="1080p",Luxe TV
+http://nmk.ioapk.com:5050/4gtv-live121/index.m3u8
+
+#EXTINF:-1 tvg-id="QTV2.cn" tvg-name="QTV-2" group-title="Lifestyle" tvg-language="zho" tvg-quality="576i",QTV-2
+http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+
+#EXTINF:-1 tvg-id="QTV6.cn" tvg-name="QTV-6" group-title="Kids;Lifestyle" tvg-language="zho" tvg-quality="576i",QTV-6
+http://119.166.53.110:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="QTV6.cn" tvg-name="QTV-6" group-title="Kids;Lifestyle" tvg-language="zho" tvg-quality="576i",QTV-6
+http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+

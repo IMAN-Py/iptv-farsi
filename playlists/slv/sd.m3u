@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ArenaSport1Premium.si" tvg-name="Arena Sport 1 Premium" group-title="Sports" tvg-language="slv" tvg-quality="576i",Arena Sport 1 Premium
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vhWLdkJ_3C0RZgs4W19uhl8S3kU0l__4SxERjFMDgcT6
+
+#EXTINF:-1 tvg-id="H2HD.si" tvg-name="H2 HD" group-title="Documentary" tvg-language="slv" tvg-quality="576i",H2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/HistoryChannel2/index.m3u8
+
+#EXTINF:-1 tvg-id="KanalA.si" tvg-name="Kanal A" group-title="General" tvg-language="slv" tvg-quality="576i",Kanal A
+https://streamer01.xploretv.si/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" group-title="Uncategorized" tvg-language="ita;slv" tvg-quality="576i",Rai 3
+https://tgrfriulibis-live.akamaized.net/hls/live/2025579/tgrfriulibis/tgrfriulibis/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarChannel.si" tvg-name="Star Channel" group-title="Movies" tvg-language="slv" tvg-quality="576i",Star Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://92.36.202.5:10001/play/a01s
+
+#EXTINF:-1 tvg-id="StarCrime.si" tvg-name="Star Crime" group-title="Series" tvg-language="slv" tvg-quality="576i",Star Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://92.36.202.5:10001/play/a02o
+
+#EXTINF:-1 tvg-id="StarLife.si" tvg-name="Star Life" group-title="Series" tvg-language="slv" tvg-quality="576i",Star Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://92.36.202.5:10001/play/a02n
+
+#EXTINF:-1 tvg-id="StarMovies.si" tvg-name="Star Movies" group-title="Movies" tvg-language="slv" tvg-quality="576i",Star Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://92.36.202.5:10001/play/a01o
+
+#EXTINF:-1 tvg-id="TVSLO1.si" tvg-name="TV SLO 1" group-title="Uncategorized" tvg-language="slv" tvg-quality="576i",TV SLO 1
+https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+
+#EXTINF:-1 tvg-id="TVSLO2.si" tvg-name="TV SLO 2" group-title="Uncategorized" tvg-language="slv" tvg-quality="576i",TV SLO 2
+https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+
+#EXTINF:-1 tvg-id="TVSLO3.si" tvg-name="TV SLO 3" group-title="Uncategorized" tvg-language="slv" tvg-quality="576i",TV SLO 3
+https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+
+#EXTINF:-1 tvg-id="TVVeseljakGolicaHD.si" tvg-name="TV Veseljak Golica HD" group-title="Uncategorized" tvg-language="slv" tvg-quality="576i",TV Veseljak Golica HD
+https://radio.serv.si/VeseljakGolicaTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ViasatNature.si" tvg-name="Viasat Nature" group-title="Documentary" tvg-language="slv" tvg-quality="576i",Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://lb.dstvmultimedia.com/ViasatNature/index.m3u8
+

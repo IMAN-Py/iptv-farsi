@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PrudentMedia.in" tvg-name="Prudent Media" group-title="News" tvg-language="eng;gom" tvg-quality="1080p",Prudent Media
+https://prudentmcdn.rixcast.com/prudentm.m3u8
+
