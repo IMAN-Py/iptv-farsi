@@ -1,6 +1,6 @@
 ### Link
 
-https://open-tv-atlas.vividtuna13.chatgpt.site/
+https://iman-py.github.io/open-tv-atlas/
 
 ### Description
 

@@ -1,8 +1,14 @@
 # Launch and measurement
 
-The public picker is at https://open-tv-atlas.vividtuna13.chatgpt.site/.
+The public picker is at https://iman-py.github.io/open-tv-atlas/.
 
-The walkthrough at `/guide/` records real browser interactions. It does not claim to demonstrate playback in StreamVault.
+The collapsed walkthrough on the picker page records real browser interactions. It does not claim to demonstrate playback in StreamVault.
+
+## Published launch
+
+- Awesome IPTV submission: https://github.com/iptv-org/awesome-iptv/issues/916 (submitted; maintainer review pending).
+- StreamVault Show and tell: https://github.com/Davidona/StreamVault-IPTV/discussions/293.
+- Launch date: 2026-10-26, Tehran time.
 
 ## Distribution
 
@@ -26,4 +32,4 @@ Compare snapshots after 24 hours and one week. Rolling 14-day totals overlap; do
 
 ## Search
 
-The site includes crawlable directory pages, a sitemap, canonical URLs, descriptions, and social metadata. This makes it easier to understand and discover, but does not guarantee Google indexing or rank. Search Console verification requires access to the Google account that will own the property.
+The compact GitHub Pages site includes a sitemap, a canonical URL, a description, and social metadata; the full directory remains on GitHub. This makes it easier to understand and discover, but does not guarantee Google indexing or rank. Search Console verification requires access to the Google account that will own the property.

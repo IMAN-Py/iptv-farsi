@@ -2,8 +2,8 @@ Hi! I've built **Open TV Atlas**, a free playlist picker that may be useful to p
 
 It lets you choose a **language + category + quality** and copy one playlist URL. For example, English sports in HD or Farsi movies. English appears first, Farsi second, followed by the wider language directory.
 
-- **Try the picker:** https://open-tv-atlas.vividtuna13.chatgpt.site/
-- **Browser walkthrough and setup:** https://open-tv-atlas.vividtuna13.chatgpt.site/guide/
+- **Try the picker:** https://iman-py.github.io/open-tv-atlas/
+- **Browser walkthrough and setup:** https://iman-py.github.io/open-tv-atlas/#demo
 - **Source and playlists:** https://github.com/IMAN-Py/open-tv-atlas
 
 The stream links and channel metadata come from **iptv-org**, whose community deserves the credit for maintaining that data. Atlas adds filtering, quality variants, and a simpler way to choose and share playlist URLs. The repository rebuilds them daily.

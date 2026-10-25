@@ -1,6 +1,7 @@
 'use strict';
 const RAW = 'https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/';
 const $ = id => document.getElementById(id);
+if (location.hash === '#demo') $('demo').open = true;
 const params = new URLSearchParams(location.search);
 const state = {lang: params.get('lang') || 'eng', category: params.get('category') || 'all', quality: params.get('quality') || 'all'};
 let catalog;
@@ -63,7 +64,7 @@ function render() {
 }
 async function copy(text, message) {
   try {await navigator.clipboard.writeText(text); $('copy-status').textContent = message;}
-  catch { $('playlist-url').focus(); $('playlist-url').select(); $('copy-status').textContent = 'Select the URL above and copy it with your device’s copy command.'; }
+  catch { $('copy-status').textContent = 'Clipboard unavailable. Copy this link manually: ' + text; }
 }
 $('filters').addEventListener('submit', e => e.preventDefault());
 $('language-search').addEventListener('input', () => catalog && updateLanguages());
@@ -75,7 +76,7 @@ $('copy').addEventListener('click', () => selected && copy(selected, 'Copied. Pa
 $('share').addEventListener('click', () => copy(location.href.split('#')[0] + '#picker', 'Selection link copied. Share it with someone.'));
 async function load(url) {const response = await fetch(url,{signal:AbortSignal.timeout(12000)}); if (!response.ok) throw Error('Download failed'); const data = await response.json(); if (!valid(data)) throw Error('Invalid catalog'); return data;}
 (async () => {
-  try {catalog = await load('/catalog.json'); updateLanguages(); $('data-status').textContent = 'Saved directory ready. Checking for updates…';} catch {}
+  try {catalog = await load(new URL('./catalog.json', location.href).href); updateLanguages(); $('data-status').textContent = 'Saved directory ready. Checking for updates…';} catch {}
   try {catalog = await load(RAW + 'index.json'); updateLanguages(); $('data-status').textContent = 'Latest directory loaded · refreshed daily';}
   catch {if (catalog) $('data-status').textContent = 'Using the saved directory. Live update unavailable.'; else {empty('Directory unavailable','Please use the GitHub directory or try again later.'); $('data-status').innerHTML = '<a href="https://github.com/IMAN-Py/open-tv-atlas/blob/main/DIRECTORY.md">Open the GitHub directory ↗</a>';}}
 })();
