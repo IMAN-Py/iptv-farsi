@@ -4,6 +4,10 @@
 
 **Live TV, in your language. Sports, movies, news, music, and more.**
 
+**[Open the searchable playlist picker →](https://open-tv-atlas.vividtuna13.chatgpt.site/) · [Watch the browser demo](https://open-tv-atlas.vividtuna13.chatgpt.site/guide/)**
+
+Choose a language, category, and quality, then copy a stable M3U URL. No account required.
+
 Free IPTV M3U playlists for live TV, organized by **language × category**, with HD and SD options for each language. Copy a playlist URL into your M3U player. No account or installation from this repository required.
 
 [![Update playlists](https://github.com/IMAN-Py/open-tv-atlas/actions/workflows/update-playlists.yml/badge.svg)](https://github.com/IMAN-Py/open-tv-atlas/actions/workflows/update-playlists.yml)
