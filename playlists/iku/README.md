@@ -7,13 +7,13 @@
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/iku/all.m3u
+https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/iku/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/iku/all.m3u` |
-| HD | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/iku/hd.m3u` |
+| All channels | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/iku/all.m3u` |
+| HD | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/iku/hd.m3u` |
 | SD / unknown | 0 | No matching streams |
 
 <a id="categories"></a>

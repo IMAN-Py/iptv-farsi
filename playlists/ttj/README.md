@@ -7,13 +7,13 @@
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ttj/all.m3u
+https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ttj/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ttj/all.m3u` |
-| HD | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ttj/hd.m3u` |
+| All channels | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ttj/all.m3u` |
+| HD | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ttj/hd.m3u` |
 | SD / unknown | 0 | No matching streams |
 
 <a id="categories"></a>
@@ -23,7 +23,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| General | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ttj/general.m3u` |
+| General | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ttj/general.m3u` |
 
 ## Included channels
 

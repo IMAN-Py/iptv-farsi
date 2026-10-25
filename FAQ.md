@@ -2,9 +2,13 @@
 
 [← Back to playlists](README.md)
 
+### Which link should I use for English?
+
+Use `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/eng/all.m3u`. For sports, movies, news, or another category, open the [English page](playlists/eng/README.md).
+
 ### Which link should I use for Farsi?
 
-Use `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlist.m3u`. The original Farsi links are preserved. For only sports, movies, or another category, open the [Farsi page](playlists/fas/README.md).
+Use `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlist.m3u`. The original Farsi links are preserved. For only sports, movies, or another category, open the [Farsi page](playlists/fas/README.md).
 
 ### How do I find another language?
 
@@ -36,11 +40,11 @@ Not currently. Playlists preserve upstream channel IDs in `tvg-id`, which can he
 
 ### Why is yesterday's playlist still showing?
 
-Refresh the playlist inside your player. Check the [update workflow](https://github.com/IMAN-Py/iptv-farsi/actions/workflows/update-playlists.yml) for failures or delays. Players and CDNs can cache files, and a successful run may have nothing new to commit.
+Refresh the playlist inside your player. Check the [update workflow](https://github.com/IMAN-Py/open-tv-atlas/actions/workflows/update-playlists.yml) for failures or delays. Players and CDNs can cache files, and a successful run may have nothing new to commit.
 
 ### Can I report a wrong channel name, category, or language?
 
-Yes. Include the channel ID and playlist URL in an [issue](https://github.com/IMAN-Py/iptv-farsi/issues/new/choose). Upstream metadata corrections belong in [iptv-org/database](https://github.com/iptv-org/database); broken stream URLs belong in [iptv-org/iptv](https://github.com/iptv-org/iptv). Fixes to this generator belong here.
+Yes. Include the channel ID and playlist URL in an [issue](https://github.com/IMAN-Py/open-tv-atlas/issues/new/choose). Upstream metadata corrections belong in [iptv-org/database](https://github.com/iptv-org/database); broken stream URLs belong in [iptv-org/iptv](https://github.com/iptv-org/iptv). Fixes to this generator belong here.
 
 ### آیا نسخه فارسی همچنان مستقل است؟
 

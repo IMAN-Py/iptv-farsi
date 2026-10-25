@@ -7,13 +7,13 @@
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/wol/all.m3u
+https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/wol/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 4 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/wol/all.m3u` |
-| HD | 4 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/wol/hd.m3u` |
+| All channels | 4 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/wol/all.m3u` |
+| HD | 4 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/wol/hd.m3u` |
 | SD / unknown | 0 | No matching streams |
 
 <a id="categories"></a>
@@ -23,10 +23,10 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Music | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/wol/music.m3u` |
-| Education | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/wol/education.m3u` |
-| General | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/wol/general.m3u` |
-| Religious | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/wol/religious.m3u` |
+| Music | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/wol/music.m3u` |
+| Education | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/wol/education.m3u` |
+| General | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/wol/general.m3u` |
+| Religious | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/wol/religious.m3u` |
 
 ## Included channels
 

@@ -7,14 +7,14 @@
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/bel/all.m3u
+https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/bel/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 20 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/bel/all.m3u` |
-| HD | 13 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/bel/hd.m3u` |
-| SD / unknown | 7 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/bel/sd.m3u` |
+| All channels | 20 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/bel/all.m3u` |
+| HD | 13 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/bel/hd.m3u` |
+| SD / unknown | 7 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/bel/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -23,11 +23,11 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/bel/sports.m3u` |
-| News | 2 | 5 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/bel/news.m3u` |
-| Entertainment | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/bel/entertainment.m3u` |
-| Culture | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/bel/culture.m3u` |
-| General | 7 | 10 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/bel/general.m3u` |
+| Sports | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/bel/sports.m3u` |
+| News | 2 | 5 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/bel/news.m3u` |
+| Entertainment | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/bel/entertainment.m3u` |
+| Culture | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/bel/culture.m3u` |
+| General | 7 | 10 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/bel/general.m3u` |
 
 ## Included channels
 

@@ -7,13 +7,13 @@
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/gle/all.m3u
+https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/gle/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 4 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/gle/all.m3u` |
-| HD | 4 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/gle/hd.m3u` |
+| All channels | 4 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/gle/all.m3u` |
+| HD | 4 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/gle/hd.m3u` |
 | SD / unknown | 0 | No matching streams |
 
 <a id="categories"></a>
@@ -23,7 +23,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Legislative | 3 | 3 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/gle/legislative.m3u` |
+| Legislative | 3 | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/gle/legislative.m3u` |
 
 ## Included channels
 

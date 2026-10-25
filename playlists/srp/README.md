@@ -7,14 +7,14 @@
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/srp/all.m3u
+https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/srp/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 58 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/srp/all.m3u` |
-| HD | 26 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/srp/hd.m3u` |
-| SD / unknown | 32 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/srp/sd.m3u` |
+| All channels | 58 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/srp/all.m3u` |
+| HD | 26 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/srp/hd.m3u` |
+| SD / unknown | 32 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/srp/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -23,15 +23,15 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/srp/sports.m3u` |
-| News | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/srp/news.m3u` |
-| Music | 8 | 9 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/srp/music.m3u` |
-| Series | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/srp/series.m3u` |
-| Entertainment | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/srp/entertainment.m3u` |
-| Cooking | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/srp/cooking.m3u` |
-| Education | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/srp/education.m3u` |
-| General | 4 | 4 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/srp/general.m3u` |
-| Legislative | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/srp/legislative.m3u` |
+| Sports | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/srp/sports.m3u` |
+| News | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/srp/news.m3u` |
+| Music | 8 | 9 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/srp/music.m3u` |
+| Series | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/srp/series.m3u` |
+| Entertainment | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/srp/entertainment.m3u` |
+| Cooking | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/srp/cooking.m3u` |
+| Education | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/srp/education.m3u` |
+| General | 4 | 4 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/srp/general.m3u` |
+| Legislative | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/srp/legislative.m3u` |
 
 ## Included channels
 

@@ -7,14 +7,14 @@
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/hau/all.m3u
+https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/hau/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 5 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/hau/all.m3u` |
-| HD | 4 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/hau/hd.m3u` |
-| SD / unknown | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/hau/sd.m3u` |
+| All channels | 5 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/hau/all.m3u` |
+| HD | 4 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/hau/hd.m3u` |
+| SD / unknown | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/hau/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -23,10 +23,10 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Music | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/hau/music.m3u` |
-| Entertainment | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/hau/entertainment.m3u` |
-| General | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/hau/general.m3u` |
-| Religious | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/hau/religious.m3u` |
+| Music | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/hau/music.m3u` |
+| Entertainment | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/hau/entertainment.m3u` |
+| General | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/hau/general.m3u` |
+| Religious | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/hau/religious.m3u` |
 
 ## Included channels
 

@@ -7,14 +7,14 @@
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/cze/all.m3u
+https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/cze/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 14 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/cze/all.m3u` |
-| HD | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/cze/hd.m3u` |
-| SD / unknown | 13 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/cze/sd.m3u` |
+| All channels | 14 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/cze/all.m3u` |
+| HD | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/cze/hd.m3u` |
+| SD / unknown | 13 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/cze/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -23,10 +23,10 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/cze/sports.m3u` |
-| Movies | 6 | 6 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/cze/movies.m3u` |
-| Documentary | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/cze/documentary.m3u` |
-| Series | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/cze/series.m3u` |
+| Sports | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/cze/sports.m3u` |
+| Movies | 6 | 6 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/cze/movies.m3u` |
+| Documentary | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/cze/documentary.m3u` |
+| Series | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/cze/series.m3u` |
 
 ## Included channels
 

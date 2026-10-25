@@ -7,14 +7,14 @@
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/cmn/all.m3u
+https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/cmn/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 6 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/cmn/all.m3u` |
-| HD | 4 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/cmn/hd.m3u` |
-| SD / unknown | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/cmn/sd.m3u` |
+| All channels | 6 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/cmn/all.m3u` |
+| HD | 4 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/cmn/hd.m3u` |
+| SD / unknown | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/cmn/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -23,10 +23,10 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Movies | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/cmn/movies.m3u` |
-| Series | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/cmn/series.m3u` |
-| Entertainment | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/cmn/entertainment.m3u` |
-| General | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/cmn/general.m3u` |
+| Movies | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/cmn/movies.m3u` |
+| Series | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/cmn/series.m3u` |
+| Entertainment | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/cmn/entertainment.m3u` |
+| General | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/cmn/general.m3u` |
 
 ## Included channels
 

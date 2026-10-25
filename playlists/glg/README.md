@@ -7,13 +7,13 @@
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/glg/all.m3u
+https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/glg/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/glg/all.m3u` |
-| HD | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/glg/hd.m3u` |
+| All channels | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/glg/all.m3u` |
+| HD | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/glg/hd.m3u` |
 | SD / unknown | 0 | No matching streams |
 
 <a id="categories"></a>
@@ -23,8 +23,8 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| General | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/glg/general.m3u` |
-| Public | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/glg/public.m3u` |
+| General | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/glg/general.m3u` |
+| Public | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/glg/public.m3u` |
 
 ## Included channels
 

@@ -7,14 +7,14 @@
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/lug/all.m3u
+https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/lug/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 9 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/lug/all.m3u` |
-| HD | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/lug/hd.m3u` |
-| SD / unknown | 7 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/lug/sd.m3u` |
+| All channels | 9 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/lug/all.m3u` |
+| HD | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/lug/hd.m3u` |
+| SD / unknown | 7 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/lug/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -23,8 +23,8 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| General | 5 | 5 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/lug/general.m3u` |
-| Religious | 3 | 4 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/lug/religious.m3u` |
+| General | 5 | 5 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/lug/general.m3u` |
+| Religious | 3 | 4 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/lug/religious.m3u` |
 
 ## Included channels
 

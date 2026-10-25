@@ -1,6 +1,189 @@
 {
   "languages": [
     {
+      "code": "eng",
+      "name": "English",
+      "categories": [
+        {
+          "id": "animation",
+          "path": "playlists/eng/animation.m3u",
+          "streams": 91,
+          "channels": 51
+        },
+        {
+          "id": "auto",
+          "path": "playlists/eng/auto.m3u",
+          "streams": 43,
+          "channels": 14
+        },
+        {
+          "id": "business",
+          "path": "playlists/eng/business.m3u",
+          "streams": 64,
+          "channels": 24
+        },
+        {
+          "id": "classic",
+          "path": "playlists/eng/classic.m3u",
+          "streams": 76,
+          "channels": 50
+        },
+        {
+          "id": "comedy",
+          "path": "playlists/eng/comedy.m3u",
+          "streams": 189,
+          "channels": 84
+        },
+        {
+          "id": "cooking",
+          "path": "playlists/eng/cooking.m3u",
+          "streams": 43,
+          "channels": 27
+        },
+        {
+          "id": "culture",
+          "path": "playlists/eng/culture.m3u",
+          "streams": 67,
+          "channels": 46
+        },
+        {
+          "id": "documentary",
+          "path": "playlists/eng/documentary.m3u",
+          "streams": 179,
+          "channels": 87
+        },
+        {
+          "id": "education",
+          "path": "playlists/eng/education.m3u",
+          "streams": 89,
+          "channels": 70
+        },
+        {
+          "id": "entertainment",
+          "path": "playlists/eng/entertainment.m3u",
+          "streams": 364,
+          "channels": 227
+        },
+        {
+          "id": "family",
+          "path": "playlists/eng/family.m3u",
+          "streams": 36,
+          "channels": 18
+        },
+        {
+          "id": "general",
+          "path": "playlists/eng/general.m3u",
+          "streams": 548,
+          "channels": 298
+        },
+        {
+          "id": "kids",
+          "path": "playlists/eng/kids.m3u",
+          "streams": 235,
+          "channels": 136
+        },
+        {
+          "id": "legislative",
+          "path": "playlists/eng/legislative.m3u",
+          "streams": 123,
+          "channels": 114
+        },
+        {
+          "id": "lifestyle",
+          "path": "playlists/eng/lifestyle.m3u",
+          "streams": 90,
+          "channels": 57
+        },
+        {
+          "id": "movies",
+          "path": "playlists/eng/movies.m3u",
+          "streams": 271,
+          "channels": 170
+        },
+        {
+          "id": "music",
+          "path": "playlists/eng/music.m3u",
+          "streams": 257,
+          "channels": 164
+        },
+        {
+          "id": "news",
+          "path": "playlists/eng/news.m3u",
+          "streams": 450,
+          "channels": 191
+        },
+        {
+          "id": "outdoor",
+          "path": "playlists/eng/outdoor.m3u",
+          "streams": 75,
+          "channels": 27
+        },
+        {
+          "id": "relax",
+          "path": "playlists/eng/relax.m3u",
+          "streams": 24,
+          "channels": 9
+        },
+        {
+          "id": "religious",
+          "path": "playlists/eng/religious.m3u",
+          "streams": 268,
+          "channels": 211
+        },
+        {
+          "id": "science",
+          "path": "playlists/eng/science.m3u",
+          "streams": 16,
+          "channels": 6
+        },
+        {
+          "id": "series",
+          "path": "playlists/eng/series.m3u",
+          "streams": 487,
+          "channels": 207
+        },
+        {
+          "id": "shop",
+          "path": "playlists/eng/shop.m3u",
+          "streams": 39,
+          "channels": 27
+        },
+        {
+          "id": "sports",
+          "path": "playlists/eng/sports.m3u",
+          "streams": 319,
+          "channels": 145
+        },
+        {
+          "id": "travel",
+          "path": "playlists/eng/travel.m3u",
+          "streams": 52,
+          "channels": 28
+        },
+        {
+          "id": "weather",
+          "path": "playlists/eng/weather.m3u",
+          "streams": 19,
+          "channels": 11
+        }
+      ],
+      "all": {
+        "path": "playlists/eng/all.m3u",
+        "streams": 4426,
+        "channels": 2481
+      },
+      "hd": {
+        "path": "playlists/eng/hd.m3u",
+        "streams": 3320,
+        "channels": 1876
+      },
+      "sd": {
+        "path": "playlists/eng/sd.m3u",
+        "streams": 1106,
+        "channels": 855
+      }
+    },
+    {
       "code": "fas",
       "name": "Persian",
       "categories": [
@@ -2596,189 +2779,6 @@
         "path": "playlists/arz/sd.m3u",
         "streams": 0,
         "channels": 0
-      }
-    },
-    {
-      "code": "eng",
-      "name": "English",
-      "categories": [
-        {
-          "id": "animation",
-          "path": "playlists/eng/animation.m3u",
-          "streams": 91,
-          "channels": 51
-        },
-        {
-          "id": "auto",
-          "path": "playlists/eng/auto.m3u",
-          "streams": 43,
-          "channels": 14
-        },
-        {
-          "id": "business",
-          "path": "playlists/eng/business.m3u",
-          "streams": 64,
-          "channels": 24
-        },
-        {
-          "id": "classic",
-          "path": "playlists/eng/classic.m3u",
-          "streams": 76,
-          "channels": 50
-        },
-        {
-          "id": "comedy",
-          "path": "playlists/eng/comedy.m3u",
-          "streams": 189,
-          "channels": 84
-        },
-        {
-          "id": "cooking",
-          "path": "playlists/eng/cooking.m3u",
-          "streams": 43,
-          "channels": 27
-        },
-        {
-          "id": "culture",
-          "path": "playlists/eng/culture.m3u",
-          "streams": 67,
-          "channels": 46
-        },
-        {
-          "id": "documentary",
-          "path": "playlists/eng/documentary.m3u",
-          "streams": 179,
-          "channels": 87
-        },
-        {
-          "id": "education",
-          "path": "playlists/eng/education.m3u",
-          "streams": 89,
-          "channels": 70
-        },
-        {
-          "id": "entertainment",
-          "path": "playlists/eng/entertainment.m3u",
-          "streams": 364,
-          "channels": 227
-        },
-        {
-          "id": "family",
-          "path": "playlists/eng/family.m3u",
-          "streams": 36,
-          "channels": 18
-        },
-        {
-          "id": "general",
-          "path": "playlists/eng/general.m3u",
-          "streams": 548,
-          "channels": 298
-        },
-        {
-          "id": "kids",
-          "path": "playlists/eng/kids.m3u",
-          "streams": 235,
-          "channels": 136
-        },
-        {
-          "id": "legislative",
-          "path": "playlists/eng/legislative.m3u",
-          "streams": 123,
-          "channels": 114
-        },
-        {
-          "id": "lifestyle",
-          "path": "playlists/eng/lifestyle.m3u",
-          "streams": 90,
-          "channels": 57
-        },
-        {
-          "id": "movies",
-          "path": "playlists/eng/movies.m3u",
-          "streams": 271,
-          "channels": 170
-        },
-        {
-          "id": "music",
-          "path": "playlists/eng/music.m3u",
-          "streams": 257,
-          "channels": 164
-        },
-        {
-          "id": "news",
-          "path": "playlists/eng/news.m3u",
-          "streams": 450,
-          "channels": 191
-        },
-        {
-          "id": "outdoor",
-          "path": "playlists/eng/outdoor.m3u",
-          "streams": 75,
-          "channels": 27
-        },
-        {
-          "id": "relax",
-          "path": "playlists/eng/relax.m3u",
-          "streams": 24,
-          "channels": 9
-        },
-        {
-          "id": "religious",
-          "path": "playlists/eng/religious.m3u",
-          "streams": 268,
-          "channels": 211
-        },
-        {
-          "id": "science",
-          "path": "playlists/eng/science.m3u",
-          "streams": 16,
-          "channels": 6
-        },
-        {
-          "id": "series",
-          "path": "playlists/eng/series.m3u",
-          "streams": 487,
-          "channels": 207
-        },
-        {
-          "id": "shop",
-          "path": "playlists/eng/shop.m3u",
-          "streams": 39,
-          "channels": 27
-        },
-        {
-          "id": "sports",
-          "path": "playlists/eng/sports.m3u",
-          "streams": 319,
-          "channels": 145
-        },
-        {
-          "id": "travel",
-          "path": "playlists/eng/travel.m3u",
-          "streams": 52,
-          "channels": 28
-        },
-        {
-          "id": "weather",
-          "path": "playlists/eng/weather.m3u",
-          "streams": 19,
-          "channels": 11
-        }
-      ],
-      "all": {
-        "path": "playlists/eng/all.m3u",
-        "streams": 4426,
-        "channels": 2481
-      },
-      "hd": {
-        "path": "playlists/eng/hd.m3u",
-        "streams": 3320,
-        "channels": 1876
-      },
-      "sd": {
-        "path": "playlists/eng/sd.m3u",
-        "streams": 1106,
-        "channels": 855
       }
     },
     {

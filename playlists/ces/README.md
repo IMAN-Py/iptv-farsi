@@ -7,14 +7,14 @@
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ces/all.m3u
+https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ces/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 96 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ces/all.m3u` |
-| HD | 33 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ces/hd.m3u` |
-| SD / unknown | 63 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ces/sd.m3u` |
+| All channels | 96 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ces/all.m3u` |
+| HD | 33 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ces/hd.m3u` |
+| SD / unknown | 63 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ces/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -23,19 +23,19 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 7 | 7 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ces/sports.m3u` |
-| Movies | 9 | 9 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ces/movies.m3u` |
-| News | 2 | 3 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ces/news.m3u` |
-| Music | 8 | 12 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ces/music.m3u` |
-| Kids | 9 | 11 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ces/kids.m3u` |
-| Documentary | 9 | 9 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ces/documentary.m3u` |
-| Entertainment | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ces/entertainment.m3u` |
-| Animation | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ces/animation.m3u` |
-| General | 9 | 10 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ces/general.m3u` |
-| Legislative | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ces/legislative.m3u` |
-| Lifestyle | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ces/lifestyle.m3u` |
-| Outdoor | 2 | 7 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ces/outdoor.m3u` |
-| Travel | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ces/travel.m3u` |
+| Sports | 7 | 7 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ces/sports.m3u` |
+| Movies | 9 | 9 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ces/movies.m3u` |
+| News | 2 | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ces/news.m3u` |
+| Music | 8 | 12 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ces/music.m3u` |
+| Kids | 9 | 11 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ces/kids.m3u` |
+| Documentary | 9 | 9 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ces/documentary.m3u` |
+| Entertainment | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ces/entertainment.m3u` |
+| Animation | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ces/animation.m3u` |
+| General | 9 | 10 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ces/general.m3u` |
+| Legislative | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ces/legislative.m3u` |
+| Lifestyle | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ces/lifestyle.m3u` |
+| Outdoor | 2 | 7 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ces/outdoor.m3u` |
+| Travel | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ces/travel.m3u` |
 
 ## Included channels
 

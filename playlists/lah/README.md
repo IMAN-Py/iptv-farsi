@@ -7,14 +7,14 @@
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/lah/all.m3u
+https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/lah/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/lah/all.m3u` |
+| All channels | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/lah/all.m3u` |
 | HD | 0 | No matching streams |
-| SD / unknown | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/lah/sd.m3u` |
+| SD / unknown | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/lah/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories

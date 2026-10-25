@@ -7,14 +7,14 @@
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ori/all.m3u
+https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ori/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 26 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ori/all.m3u` |
-| HD | 8 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ori/hd.m3u` |
-| SD / unknown | 18 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ori/sd.m3u` |
+| All channels | 26 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ori/all.m3u` |
+| HD | 8 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ori/hd.m3u` |
+| SD / unknown | 18 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ori/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -23,14 +23,14 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Movies | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ori/movies.m3u` |
-| News | 5 | 9 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ori/news.m3u` |
-| Music | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ori/music.m3u` |
-| Kids | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ori/kids.m3u` |
-| Entertainment | 2 | 3 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ori/entertainment.m3u` |
-| Animation | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ori/animation.m3u` |
-| Culture | 1 | 3 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ori/culture.m3u` |
-| General | 3 | 5 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ori/general.m3u` |
+| Movies | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ori/movies.m3u` |
+| News | 5 | 9 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ori/news.m3u` |
+| Music | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ori/music.m3u` |
+| Kids | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ori/kids.m3u` |
+| Entertainment | 2 | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ori/entertainment.m3u` |
+| Animation | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ori/animation.m3u` |
+| Culture | 1 | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ori/culture.m3u` |
+| General | 3 | 5 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ori/general.m3u` |
 
 ## Included channels
 

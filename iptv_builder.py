@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build Farsi-first IPTV playlists by language, category, and quality."""
+"""Build worldwide IPTV playlists by language, category, and quality."""
 from __future__ import annotations
 
 import argparse
@@ -29,7 +29,7 @@ def fetch_dataframe(url: str, file_type: str = 'csv') -> pd.DataFrame:
     retry = Retry(total=3, backoff_factor=1, status_forcelist=[429, 500, 502, 503, 504])
     with requests.Session() as session:
         session.mount('https://', HTTPAdapter(max_retries=retry))
-        response = session.get(url, headers={'User-Agent': 'FarsiIPTV/3.0'}, timeout=REQUEST_TIMEOUT)
+        response = session.get(url, headers={'User-Agent': 'OpenTVAtlas/3.0'}, timeout=REQUEST_TIMEOUT)
         response.raise_for_status()
     if file_type == 'csv':
         return pd.read_csv(StringIO(response.text))
@@ -180,7 +180,9 @@ def collection_outputs(entries, language_names):
         return {'path': path, 'streams': text.count('#EXTINF:'),
                 'channels': len({e.channel for e in selected})}
 
-    codes = sorted({code for e in entries for code in e.languages}, key=lambda c: (c != 'fas', language_names.get(c, c).casefold()))
+    codes = sorted({code for e in entries for code in e.languages},
+                   key=lambda c: (0 if c == 'eng' else 1 if c == 'fas' else 2,
+                                  language_names.get(c, c).casefold()))
     for code in codes:
         selected = select_language(entries, code)
         if not selected:

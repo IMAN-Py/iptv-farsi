@@ -7,14 +7,14 @@
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/bak/all.m3u
+https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/bak/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/bak/all.m3u` |
+| All channels | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/bak/all.m3u` |
 | HD | 0 | No matching streams |
-| SD / unknown | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/bak/sd.m3u` |
+| SD / unknown | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/bak/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -23,7 +23,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Kids | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/bak/kids.m3u` |
+| Kids | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/bak/kids.m3u` |
 
 ## Included channels
 

@@ -6,8 +6,8 @@ import json
 from pathlib import Path
 import re
 
-RAW = 'https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/'
-FEATURED = ['fas', 'eng', 'ara', 'tur', 'kur', 'pus', 'urd', 'hin', 'spa', 'fra', 'deu', 'rus']
+RAW = 'https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/'
+FEATURED = ['eng', 'fas', 'ara', 'tur', 'kur', 'pus', 'urd', 'hin', 'spa', 'fra', 'deu', 'rus']
 CATEGORIES = ['sports', 'movies', 'news', 'music', 'kids', 'documentary', 'series', 'entertainment']
 PERSIAN = {'sports': 'ورزش', 'movies': 'فیلم', 'news': 'اخبار', 'music': 'موسیقی', 'kids': 'کودک',
            'documentary': 'مستند', 'series': 'سریال', 'entertainment': 'سرگرمی', 'general': 'عمومی',
@@ -67,10 +67,14 @@ def update_catalog(root):
     languages = {item['code']: item for item in index['languages']}
     categories = {item['id']: item for item in index['categories']}
     farsi = languages['fas']
-    stats = (f'**Farsi: {farsi["all"]["channels"]} channels · {farsi["all"]["streams"]} stream entries '
-             f'· {farsi["hd"]["streams"]} HD · {farsi["sd"]["streams"]} SD / unknown**\n\n'
-             f'Worldwide directory: **{len(languages)} languages · {len(categories)} categories**. '
-             'Counts describe playlist entries, not verified live streams.')
+    summaries = [f'**{len(languages)} languages · {len(categories)} categories**']
+    for code, title in [('eng', 'English'), ('fas', 'Farsi')]:
+        if code in languages:
+            item = languages[code]
+            summaries.append(f'**{title}: {item["all"]["channels"]} channels · {item["all"]["streams"]} stream entries '
+                             f'· {item["hd"]["streams"]} HD · {item["sd"]["streams"]} SD / unknown**')
+    summaries.append('Counts describe playlist entries, not verified live streams.')
+    stats = '\n\n'.join(summaries)
     featured = ['### Language shortcuts', '', '| Language | All | HD | SD / unknown | Categories |', '| --- | --- | --- | --- | --- |']
     for code in FEATURED:
         if code not in languages:
@@ -79,11 +83,12 @@ def update_catalog(root):
         featured.append(f'| [{label(code, item["name"])}](playlists/{code}/README.md) | {link(item["all"])} | '
                         f'{link(item["hd"])} | {link(item["sd"])} | [Browse](playlists/{code}/README.md#categories) |')
     featured += ['', '**[Browse every language →](DIRECTORY.md)**', '', '### Category shortcuts', '',
-                 '| Category | Farsi only | All languages |', '| --- | --- | --- |']
+                 '| Category | English | Farsi only | All languages |', '| --- | --- | --- | --- |']
     fc = {item['id']: item for item in farsi['categories']}
+    ec = {item['id']: item for item in languages.get('eng', {}).get('categories', [])}
     for category in CATEGORIES:
         if category in categories:
-            featured.append(f'| {category.title()} · {PERSIAN[category]} | {link(fc[category]) if category in fc else "—"} | {link(categories[category])} |')
+            featured.append(f'| {category.title()} · {PERSIAN[category]} | {link(ec[category]) if category in ec else "—"} | {link(fc[category]) if category in fc else "—"} | {link(categories[category])} |')
     featured += ['', 'Open a language page for category links in that language. A dash means no matching entries are available.']
     readme = root / 'README.md'
     contents = readme.read_text(encoding='utf-8')

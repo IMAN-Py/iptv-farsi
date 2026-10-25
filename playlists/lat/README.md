@@ -7,14 +7,14 @@
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/lat/all.m3u
+https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/lat/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 3 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/lat/all.m3u` |
+| All channels | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/lat/all.m3u` |
 | HD | 0 | No matching streams |
-| SD / unknown | 3 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/lat/sd.m3u` |
+| SD / unknown | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/lat/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -23,8 +23,8 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Movies | 2 | 3 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/lat/movies.m3u` |
-| Comedy | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/lat/comedy.m3u` |
+| Movies | 2 | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/lat/movies.m3u` |
+| Comedy | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/lat/comedy.m3u` |
 
 ## Included channels
 

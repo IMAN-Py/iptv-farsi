@@ -7,14 +7,14 @@
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/nep/all.m3u
+https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/nep/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 19 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/nep/all.m3u` |
-| HD | 13 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/nep/hd.m3u` |
-| SD / unknown | 6 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/nep/sd.m3u` |
+| All channels | 19 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/nep/all.m3u` |
+| HD | 13 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/nep/hd.m3u` |
+| SD / unknown | 6 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/nep/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -23,10 +23,10 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Movies | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/nep/movies.m3u` |
-| Entertainment | 4 | 7 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/nep/entertainment.m3u` |
-| General | 6 | 11 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/nep/general.m3u` |
-| Religious | 2 | 3 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/nep/religious.m3u` |
+| Movies | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/nep/movies.m3u` |
+| Entertainment | 4 | 7 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/nep/entertainment.m3u` |
+| General | 6 | 11 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/nep/general.m3u` |
+| Religious | 2 | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/nep/religious.m3u` |
 
 ## Included channels
 

@@ -7,14 +7,14 @@
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ben/all.m3u
+https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ben/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 160 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ben/all.m3u` |
-| HD | 81 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ben/hd.m3u` |
-| SD / unknown | 79 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ben/sd.m3u` |
+| All channels | 160 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ben/all.m3u` |
+| HD | 81 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ben/hd.m3u` |
+| SD / unknown | 79 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ben/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -23,20 +23,20 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 5 | 6 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ben/sports.m3u` |
-| Movies | 5 | 6 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ben/movies.m3u` |
-| News | 25 | 37 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ben/news.m3u` |
-| Music | 5 | 9 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ben/music.m3u` |
-| Kids | 6 | 10 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ben/kids.m3u` |
-| Entertainment | 17 | 41 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ben/entertainment.m3u` |
-| Animation | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ben/animation.m3u` |
-| Business | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ben/business.m3u` |
-| Classic | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ben/classic.m3u` |
-| Culture | 4 | 4 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ben/culture.m3u` |
-| Family | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ben/family.m3u` |
-| General | 19 | 26 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ben/general.m3u` |
-| Religious | 10 | 10 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ben/religious.m3u` |
-| Travel | 1 | 3 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/ben/travel.m3u` |
+| Sports | 5 | 6 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ben/sports.m3u` |
+| Movies | 5 | 6 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ben/movies.m3u` |
+| News | 25 | 37 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ben/news.m3u` |
+| Music | 5 | 9 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ben/music.m3u` |
+| Kids | 6 | 10 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ben/kids.m3u` |
+| Entertainment | 17 | 41 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ben/entertainment.m3u` |
+| Animation | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ben/animation.m3u` |
+| Business | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ben/business.m3u` |
+| Classic | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ben/classic.m3u` |
+| Culture | 4 | 4 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ben/culture.m3u` |
+| Family | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ben/family.m3u` |
+| General | 19 | 26 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ben/general.m3u` |
+| Religious | 10 | 10 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ben/religious.m3u` |
+| Travel | 1 | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ben/travel.m3u` |
 
 ## Included channels
 

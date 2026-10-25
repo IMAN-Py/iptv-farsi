@@ -7,14 +7,14 @@
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/tuk/all.m3u
+https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tuk/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 18 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/tuk/all.m3u` |
-| HD | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/tuk/hd.m3u` |
-| SD / unknown | 16 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/tuk/sd.m3u` |
+| All channels | 18 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tuk/all.m3u` |
+| HD | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tuk/hd.m3u` |
+| SD / unknown | 16 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tuk/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -23,11 +23,11 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/tuk/sports.m3u` |
-| Music | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/tuk/music.m3u` |
-| Culture | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/tuk/culture.m3u` |
-| Education | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/tuk/education.m3u` |
-| General | 4 | 8 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/tuk/general.m3u` |
+| Sports | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tuk/sports.m3u` |
+| Music | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tuk/music.m3u` |
+| Culture | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tuk/culture.m3u` |
+| Education | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tuk/education.m3u` |
+| General | 4 | 8 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tuk/general.m3u` |
 
 ## Included channels
 

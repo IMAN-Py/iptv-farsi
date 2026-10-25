@@ -7,14 +7,14 @@
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/eus/all.m3u
+https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/eus/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 10 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/eus/all.m3u` |
-| HD | 6 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/eus/hd.m3u` |
-| SD / unknown | 4 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/eus/sd.m3u` |
+| All channels | 10 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/eus/all.m3u` |
+| HD | 6 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/eus/hd.m3u` |
+| SD / unknown | 4 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/eus/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -23,10 +23,10 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Entertainment | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/eus/entertainment.m3u` |
-| General | 5 | 5 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/eus/general.m3u` |
-| Legislative | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/eus/legislative.m3u` |
-| Public | 3 | 4 | `https://raw.githubusercontent.com/IMAN-Py/iptv-farsi/main/playlists/eus/public.m3u` |
+| Entertainment | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/eus/entertainment.m3u` |
+| General | 5 | 5 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/eus/general.m3u` |
+| Legislative | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/eus/legislative.m3u` |
+| Public | 3 | 4 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/eus/public.m3u` |
 
 ## Included channels
 
