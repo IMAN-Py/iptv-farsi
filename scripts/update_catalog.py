@@ -88,7 +88,7 @@ def update_catalog(root):
     ec = {item['id']: item for item in languages.get('eng', {}).get('categories', [])}
     for category in CATEGORIES:
         if category in categories:
-            featured.append(f'| {category.title()} · {PERSIAN[category]} | {link(ec[category]) if category in ec else "—"} | {link(fc[category]) if category in fc else "—"} | {link(categories[category])} |')
+            featured.append(f'| [{category.title()} · {PERSIAN[category]}](categories/{category}.md) | {link(ec[category]) if category in ec else "—"} | {link(fc[category]) if category in fc else "—"} | {link(categories[category])} |')
     featured += ['', 'Open a language page for category links in that language. A dash means no matching entries are available.']
     readme = root / 'README.md'
     contents = readme.read_text(encoding='utf-8')
@@ -106,7 +106,10 @@ def update_catalog(root):
         code = item['code']
         directory.append(f'| [{label(code, item["name"])}](playlists/{code}/README.md) | `{code}` | {item["all"]["channels"]} | '
                          f'{item["all"]["streams"]} | {link(item["all"])} | {link(item["hd"])} | {link(item["sd"])} |')
-        page = [f'# {label(code, item["name"])} IPTV', '', '[← All languages](../../DIRECTORY.md) · [Player setup](../../README.md#setup)', '',
+        page = [f'# {label(code, item["name"])} IPTV Playlist — Free Live TV M3U', '', '[← All languages](../../DIRECTORY.md) · [Player setup](../../README.md#setup)', '',
+                f'Find free {cell(item["name"])} live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. '
+                'Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; '
+                'individual streams may be unavailable or region restricted.', '',
                 f'**{item["all"]["channels"]} channels · {item["all"]["streams"]} stream entries**', '',
                 'Copy this URL into the M3U URL field of your player:', '', '```text', RAW + item['all']['path'], '```', '',
                 '| Version | Entries | Copy this URL |', '| --- | ---: | --- |']
@@ -134,7 +137,34 @@ def update_catalog(root):
     directory += ['', '## Categories across all languages', '', 'For a language-specific category, open its language page above.', '',
                   '| Category | Channels | Stream entries | Copy this URL |', '| --- | ---: | ---: | --- |']
     for item in index['categories']:
-        directory.append(f'| {item["id"].title()} | {item["channels"]} | {item["streams"]} | `{RAW}{item["path"]}` |')
+        category = item['id']
+        directory.append(f'| [{category.title()}](categories/{category}.md) | {item["channels"]} | {item["streams"]} | `{RAW}{item["path"]}` |')
+        page = [f'# Free {category.title()} IPTV Playlist — M3U Links by Language', '',
+                '[← All playlists](../DIRECTORY.md) · [Player setup](../README.md#setup)', '',
+                f'Browse live {category} channels from the iptv-org collection. '
+                'Use the worldwide M3U playlist or choose a language below. '
+                'English appears first, followed by Farsi, then the other available languages.', '',
+                f'**{item["channels"]} channels · {item["streams"]} stream entries**', '',
+                '## All languages', '', 'Copy this URL into your player’s M3U playlist field:', '',
+                '```text', RAW + item['path'], '```', '',
+                '## Choose a language', '', '| Language | Channels | Entries | Copy this URL |', '| --- | ---: | ---: | --- |']
+        for language in index['languages']:
+            matching = next((cat for cat in language['categories'] if cat['id'] == category), None)
+            if matching:
+                code = language['code']
+                page.append(f'| [{label(code, language["name"])}](../playlists/{code}/README.md) | {matching["channels"]} | '
+                            f'{matching["streams"]} | `{RAW}{matching["path"]}` |')
+        page += ['', '## How to use this playlist', '',
+                 '1. Copy the full URL for all languages or your preferred language.',
+                 '2. In VLC, open a network stream; in an IPTV player, add an M3U playlist URL.',
+                 '3. Refresh the playlist periodically to pick up source changes.', '',
+                 f'Categories describe channels tagged as **{category}** in upstream metadata, '
+                 'not the programme airing right now. These are live channel links, not an on-demand library or an event guarantee. '
+                 'Counts include alternative streams and do not mean every link has been playback-tested.', '',
+                 'Source: [iptv-org](https://github.com/iptv-org/iptv). '
+                 'For playback or metadata problems, see the [FAQ](../FAQ.md) or '
+                 '[report an issue](https://github.com/IMAN-Py/open-tv-atlas/issues/new/choose).']
+        (root / f'categories/{category}.md').write_text('\n'.join(page) + '\n', encoding='utf-8')
     (root / 'DIRECTORY.md').write_text('\n'.join(directory) + '\n', encoding='utf-8')
     channel_doc = ['# Farsi channel directory · فهرست کانال‌های فارسی', '',
                    '[← Farsi playlists and categories](playlists/fas/README.md) · [Other languages](DIRECTORY.md)', '', stats, '',
@@ -144,6 +174,9 @@ def update_catalog(root):
     (root / 'CHANNELS.md').write_text('\n'.join(channel_doc) + '\n', encoding='utf-8')
     for path in (root / 'playlists').glob('*/README.md'):
         if path.parent.name not in languages:
+            path.unlink()
+    for path in (root / 'categories').glob('*.md'):
+        if path.stem not in categories:
             path.unlink()
 
 

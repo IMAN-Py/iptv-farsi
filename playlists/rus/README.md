@@ -1,6 +1,8 @@
-# Russian IPTV
+# Russian IPTV Playlist — Free Live TV M3U
 
 [← All languages](../../DIRECTORY.md) · [Player setup](../../README.md#setup)
+
+Find free Russian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
 **582 channels · 1358 stream entries**
 

@@ -27,4 +27,4 @@ jobs:
       - name: Ensure generated docs are current
         run: |
           python scripts/update_catalog.py
-          git diff --exit-code -- README.md DIRECTORY.md CHANNELS.md playlists
+          git diff --exit-code -- README.md DIRECTORY.md CHANNELS.md playlists categories

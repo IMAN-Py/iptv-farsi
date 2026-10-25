@@ -1,6 +1,8 @@
-# Yucatec Maya IPTV
+# Yucatec Maya IPTV Playlist — Free Live TV M3U
 
 [← All languages](../../DIRECTORY.md) · [Player setup](../../README.md#setup)
+
+Find free Yucatec Maya live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
 **1 channels · 1 stream entries**
 

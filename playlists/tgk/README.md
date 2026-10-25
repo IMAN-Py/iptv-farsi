@@ -1,6 +1,8 @@
-# Tajik IPTV
+# Tajik IPTV Playlist — Free Live TV M3U
 
 [← All languages](../../DIRECTORY.md) · [Player setup](../../README.md#setup)
+
+Find free Tajik live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
 **15 channels · 18 stream entries**
 

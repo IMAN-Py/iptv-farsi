@@ -137,6 +137,7 @@ class CollectionTests(unittest.TestCase):
             (root / 'README.md').write_text(
                 '<!-- playlist-stats:start -->\n<!-- playlist-stats:end -->\n'
                 '<!-- featured-playlists:start -->\n<!-- featured-playlists:end -->\n')
+            (root / 'FAQ.md').write_text('# FAQ\n')
             update_catalog(root)
             self.assertGreater(validate_collection(root), 10)
             self.assertIn('Farsi: 1 channels', (root / 'README.md').read_text())
