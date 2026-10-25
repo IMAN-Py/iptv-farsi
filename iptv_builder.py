@@ -80,6 +80,7 @@ def build_playlist(
     logging.info(f"Filtering feeds for language only: '{lang}'...")
     lang_lists = (
         df_feeds["languages"]
+        .fillna("")
         .astype(str)
         .str.split(";")
         .map(lambda parts: [p.strip() for p in parts if p.strip()])
