@@ -2,7 +2,7 @@
 
 URL: https://iman-py.github.io/open-tv-atlas/
 
-One page, static HTML/CSS/JavaScript. No backend, accounts, or third-party fonts. Assets are served by GitHub Pages; the current catalog and playlist URLs come from GitHub Raw. A bundled catalog is used if the live fetch fails.
+One page, static HTML/CSS/JavaScript. No backend, accounts, or third-party fonts. Assets, catalog, and the published `.m3u` files are served by GitHub Pages; the Pages workflow copies the playlists into the deployed directory so the shorter links resolve. A bundled catalog is used if the live fetch fails.
 
 The picker is optional: users can paste raw M3U links into their player directly. English is first and Farsi is second. Setup and the browser demo stay collapsed until requested.
 

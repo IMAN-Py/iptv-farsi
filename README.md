@@ -4,7 +4,7 @@
 
 **Live TV, in your language. Sports, movies, news, music, and more.**
 
-**[Optional one-page picker →](https://iman-py.github.io/open-tv-atlas/)** — choose a language, category and quality, then copy a GitHub Raw link. Or use the direct English and Farsi links below. Everything is static and hosted on GitHub; no account or backend required.
+**[Optional one-page picker →](https://iman-py.github.io/open-tv-atlas/)** — choose a language, category and quality, then copy a short playlist link. Or use the direct English and Farsi links below. Everything is static and hosted on GitHub; no account or backend required.
 
 Free IPTV M3U playlists for live TV, organized by **language × category**, with HD and SD options for each language. Copy a playlist URL into your M3U player. No account or installation from this repository required.
 
