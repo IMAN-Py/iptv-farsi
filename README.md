@@ -150,7 +150,7 @@ See the [FAQ](FAQ.md) for missing channels, quality labels, TV guides, and troub
 
 Updates are scheduled daily at **06:00 UTC / 09:30 Tehran**. GitHub can delay scheduled runs; the [latest workflow result](https://github.com/IMAN-Py/open-tv-atlas/actions/workflows/update-playlists.yml) shows whether a refresh succeeded. A refresh rebuilds metadata and playlists; it does **not** test playback of every stream.
 
-This is an independent project built on [iptv-org/iptv](https://github.com/iptv-org/iptv), [iptv-org/database](https://github.com/iptv-org/database), and the [iptv-org API](https://github.com/iptv-org/api). Their community maintains the stream links, languages, and channel categories. Thank you to those contributors. This project is not affiliated with iptv-org.
+This is an independent project built on [iptv-org/iptv](https://github.com/iptv-org/iptv), [iptv-org/database](https://github.com/iptv-org/database), and the [iptv-org API](https://github.com/iptv-org/api). This project is not affiliated with iptv-org.
 
 Feeds are matched by channel **and feed ID**. Streams without a feed ID use the channel's main feed. Streams with missing language metadata or unmatched feed IDs are omitted. Category pages are generated only when matching entries exist; unclassified channels remain in their language's all/HD/SD lists.
 

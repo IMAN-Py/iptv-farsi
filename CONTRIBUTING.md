@@ -1,7 +1,5 @@
 # Contributing
 
-Thanks for helping make these playlists easier to use.
-
 ## Report a problem
 
 Use the issue templates for broken streams, metadata errors, or suggestions. Include the playlist URL, channel ID, player, country, and what happened. Do not include private account credentials or access tokens.
