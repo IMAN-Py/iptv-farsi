@@ -6,13 +6,13 @@ The collapsed walkthrough on the picker page records real browser interactions. 
 
 ## Published launch
 
-- Awesome IPTV submission: https://github.com/iptv-org/awesome-iptv/issues/916 (submitted; maintainer review pending).
+- Awesome IPTV submission: https://github.com/iptv-org/awesome-iptv/issues/916 (closed as not planned by maintainers).
 - StreamVault Show and tell: https://github.com/Davidona/StreamVault-IPTV/discussions/293.
 - Launch date: 2026-10-26, Tehran time.
 
 ## Distribution
 
-- Awesome IPTV: use the New link form with the title `Open TV Atlas`, the website URL in Link, and the description in `directory-submission.md`. Do not include links in the description. Acceptance is subject to maintainers' review.
+- Awesome IPTV: use the New link form with the title `Open TV Atlas`, the website URL in Link, and the description in `directory-submission.md`. Do not include links in the description. This submission was closed as “not planned”; do not resubmit unless the maintainers invite it.
 - StreamVault: share the relevant walkthrough and ask for import/grouping feedback in Show and tell. The exact message is in `streamvault-discussion.md`.
 - Do not cross-post repeatedly. Reply to feedback and fix concrete problems before another announcement.
 - Reddit AndroidTV/GoogleTV were not used because of restrictive self-promotion and playlist-sharing rules. Re-check moderators' rules before any future submission.

@@ -5,7 +5,7 @@
   "browser_demo": "https://iman-py.github.io/open-tv-atlas/#demo",
   "directory_submission": {
     "url": "https://github.com/iptv-org/awesome-iptv/issues/916",
-    "status_at_launch": "submitted_pending_review"
+    "status_at_launch": "closed_not_planned"
   },
   "community_launch": "https://github.com/Davidona/StreamVault-IPTV/discussions/293",
   "traffic_schedule": "Daily at 07:30 local time on the maintainer's Mac",
