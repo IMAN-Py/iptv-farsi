@@ -9,13 +9,13 @@ Find free Maori live TV playlist URLs for M3U-compatible players such as VLC and
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mri/all.m3u
+https://iman-py.github.io/open-tv-atlas/playlists/mri/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mri/all.m3u` |
-| HD | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mri/hd.m3u` |
+| All channels | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/mri/all.m3u` |
+| HD | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/mri/hd.m3u` |
 | SD / unknown | 0 | No matching streams |
 
 <a id="categories"></a>

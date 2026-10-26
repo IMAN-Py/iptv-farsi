@@ -9,14 +9,14 @@ Find free Letzeburgesch live TV playlist URLs for M3U-compatible players such as
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ltz/all.m3u
+https://iman-py.github.io/open-tv-atlas/playlists/ltz/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 8 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ltz/all.m3u` |
-| HD | 7 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ltz/hd.m3u` |
-| SD / unknown | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ltz/sd.m3u` |
+| All channels | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ltz/all.m3u` |
+| HD | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/ltz/hd.m3u` |
+| SD / unknown | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ltz/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,12 +25,12 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Music | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ltz/music.m3u` |
-| Entertainment | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ltz/entertainment.m3u` |
-| Business | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ltz/business.m3u` |
-| Culture | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ltz/culture.m3u` |
-| General | 5 | 5 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ltz/general.m3u` |
-| Lifestyle | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ltz/lifestyle.m3u` |
+| Music | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ltz/music.m3u` |
+| Entertainment | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ltz/entertainment.m3u` |
+| Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ltz/business.m3u` |
+| Culture | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ltz/culture.m3u` |
+| General | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ltz/general.m3u` |
+| Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ltz/lifestyle.m3u` |
 
 ## Included channels
 

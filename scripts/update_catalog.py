@@ -6,7 +6,7 @@ import json
 from pathlib import Path
 import re
 
-RAW = 'https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/'
+RAW = 'https://iman-py.github.io/open-tv-atlas/'
 FEATURED = ['eng', 'fas', 'ara', 'tur', 'kur', 'pus', 'urd', 'hin', 'spa', 'fra', 'deu', 'rus']
 CATEGORIES = ['sports', 'movies', 'news', 'music', 'kids', 'documentary', 'series', 'entertainment']
 PERSIAN = {'sports': 'ورزش', 'movies': 'فیلم', 'news': 'اخبار', 'music': 'موسیقی', 'kids': 'کودک',

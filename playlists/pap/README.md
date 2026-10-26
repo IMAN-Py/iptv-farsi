@@ -9,14 +9,14 @@ Find free Papiamento live TV playlist URLs for M3U-compatible players such as VL
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/pap/all.m3u
+https://iman-py.github.io/open-tv-atlas/playlists/pap/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 24 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/pap/all.m3u` |
-| HD | 15 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/pap/hd.m3u` |
-| SD / unknown | 9 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/pap/sd.m3u` |
+| All channels | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/pap/all.m3u` |
+| HD | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/pap/hd.m3u` |
+| SD / unknown | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/pap/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,10 +25,10 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Music | 8 | 10 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/pap/music.m3u` |
-| Entertainment | 5 | 6 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/pap/entertainment.m3u` |
-| Culture | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/pap/culture.m3u` |
-| General | 5 | 6 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/pap/general.m3u` |
+| Music | 8 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/pap/music.m3u` |
+| Entertainment | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/pap/entertainment.m3u` |
+| Culture | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pap/culture.m3u` |
+| General | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/pap/general.m3u` |
 
 ## Included channels
 

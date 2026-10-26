@@ -9,14 +9,14 @@ Find free Marathi live TV playlist URLs for M3U-compatible players such as VLC a
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mar/all.m3u
+https://iman-py.github.io/open-tv-atlas/playlists/mar/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 43 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mar/all.m3u` |
-| HD | 17 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mar/hd.m3u` |
-| SD / unknown | 26 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mar/sd.m3u` |
+| All channels | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/all.m3u` |
+| HD | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/hd.m3u` |
+| SD / unknown | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,13 +25,13 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Movies | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mar/movies.m3u` |
-| News | 10 | 16 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mar/news.m3u` |
-| Music | 2 | 6 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mar/music.m3u` |
-| Kids | 6 | 9 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mar/kids.m3u` |
-| Entertainment | 5 | 6 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mar/entertainment.m3u` |
-| Animation | 3 | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mar/animation.m3u` |
-| General | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mar/general.m3u` |
+| Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/movies.m3u` |
+| News | 10 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/news.m3u` |
+| Music | 2 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/music.m3u` |
+| Kids | 6 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/kids.m3u` |
+| Entertainment | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/entertainment.m3u` |
+| Animation | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/animation.m3u` |
+| General | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/mar/general.m3u` |
 
 ## Included channels
 

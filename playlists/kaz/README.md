@@ -9,14 +9,14 @@ Find free Kazakh live TV playlist URLs for M3U-compatible players such as VLC an
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kaz/all.m3u
+https://iman-py.github.io/open-tv-atlas/playlists/kaz/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 73 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kaz/all.m3u` |
-| HD | 23 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kaz/hd.m3u` |
-| SD / unknown | 50 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kaz/sd.m3u` |
+| All channels | 73 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/all.m3u` |
+| HD | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/hd.m3u` |
+| SD / unknown | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,14 +25,14 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 2 | 4 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kaz/sports.m3u` |
-| Movies | 3 | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kaz/movies.m3u` |
-| News | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kaz/news.m3u` |
-| Music | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kaz/music.m3u` |
-| Kids | 3 | 8 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kaz/kids.m3u` |
-| Entertainment | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kaz/entertainment.m3u` |
-| Culture | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kaz/culture.m3u` |
-| General | 26 | 43 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kaz/general.m3u` |
+| Sports | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/sports.m3u` |
+| Movies | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/movies.m3u` |
+| News | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/news.m3u` |
+| Music | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/music.m3u` |
+| Kids | 3 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/kids.m3u` |
+| Entertainment | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/entertainment.m3u` |
+| Culture | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/culture.m3u` |
+| General | 26 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/kaz/general.m3u` |
 
 ## Included channels
 

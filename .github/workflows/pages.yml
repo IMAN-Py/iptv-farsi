@@ -6,6 +6,8 @@ on:
     paths:
       - 'website/**'
       - 'index.json'
+      - 'playlists/**'
+      - 'playlist*.m3u'
       - '.github/workflows/pages.yml'
   workflow_dispatch:
   workflow_run:
@@ -37,6 +39,10 @@ jobs:
           persist-credentials: false
       - name: Build compact static picker
         run: python3 website/build_catalog.py index.json
+      - name: Add playlists to the site
+        run: |
+          rsync -a --include='*/' --include='*.m3u' --exclude='*' playlists/ website/dist/playlists/
+          cp playlist.m3u playlist_hd.m3u playlist_sd.m3u website/dist/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:

@@ -9,14 +9,14 @@ Find free Kinyarwanda live TV playlist URLs for M3U-compatible players such as V
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kin/all.m3u
+https://iman-py.github.io/open-tv-atlas/playlists/kin/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 9 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kin/all.m3u` |
-| HD | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kin/hd.m3u` |
-| SD / unknown | 6 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kin/sd.m3u` |
+| All channels | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/kin/all.m3u` |
+| HD | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/kin/hd.m3u` |
+| SD / unknown | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/kin/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,9 +25,9 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Music | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kin/music.m3u` |
-| Entertainment | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kin/entertainment.m3u` |
-| General | 5 | 6 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kin/general.m3u` |
+| Music | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kin/music.m3u` |
+| Entertainment | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/kin/entertainment.m3u` |
+| General | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/kin/general.m3u` |
 
 ## Included channels
 

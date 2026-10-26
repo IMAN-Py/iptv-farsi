@@ -1,5 +1,5 @@
 'use strict';
-const RAW = 'https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/';
+const RAW = 'https://iman-py.github.io/open-tv-atlas/';
 const $ = id => document.getElementById(id);
 if (location.hash === '#demo') $('demo').open = true;
 const params = new URLSearchParams(location.search);

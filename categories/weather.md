@@ -11,20 +11,20 @@ Browse live weather channels from the iptv-org collection. Use the worldwide M3U
 Copy this URL into your player’s M3U playlist field:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/categories/weather.m3u
+https://iman-py.github.io/open-tv-atlas/categories/weather.m3u
 ```
 
 ## Choose a language
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 11 | 19 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/eng/weather.m3u` |
-| [Catalan](../playlists/cat/README.md) | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/cat/weather.m3u` |
-| [Chinese](../playlists/zho/README.md) | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/zho/weather.m3u` |
-| [German](../playlists/deu/README.md) | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/deu/weather.m3u` |
-| [Hindi](../playlists/hin/README.md) | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/hin/weather.m3u` |
-| [Japanese](../playlists/jpn/README.md) | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/jpn/weather.m3u` |
-| [Spanish](../playlists/spa/README.md) | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/weather.m3u` |
+| [English](../playlists/eng/README.md) | 11 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/weather.m3u` |
+| [Catalan](../playlists/cat/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/weather.m3u` |
+| [Chinese](../playlists/zho/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/weather.m3u` |
+| [German](../playlists/deu/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/weather.m3u` |
+| [Hindi](../playlists/hin/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/weather.m3u` |
+| [Japanese](../playlists/jpn/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/weather.m3u` |
+| [Spanish](../playlists/spa/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/weather.m3u` |
 
 ## How to use this playlist
 

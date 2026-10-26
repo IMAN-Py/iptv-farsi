@@ -9,14 +9,14 @@ Find free Persian live TV playlist URLs for M3U-compatible players such as VLC a
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/fas/all.m3u
+https://iman-py.github.io/open-tv-atlas/playlists/fas/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 219 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/fas/all.m3u` |
-| HD | 73 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/fas/hd.m3u` |
-| SD / unknown | 146 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/fas/sd.m3u` |
+| All channels | 219 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/all.m3u` |
+| HD | 73 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/hd.m3u` |
+| SD / unknown | 146 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/sd.m3u` |
 
 لینک‌های اصلی فارسی بدون تغییر باقی مانده‌اند: [همه](../../playlist.m3u)، [HD](../../playlist_hd.m3u)، [SD](../../playlist_sd.m3u). برای استفاده در پلیر، لینک کامل جدول بالا را کپی کنید. فقط فیدهای تک‌زبانه فارسی در این صفحه قرار دارند.
 
@@ -27,24 +27,24 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports · ورزش | 5 | 5 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/fas/sports.m3u` |
-| Movies · فیلم | 31 | 34 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/fas/movies.m3u` |
-| News · اخبار | 11 | 24 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/fas/news.m3u` |
-| Music · موسیقی | 15 | 17 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/fas/music.m3u` |
-| Kids · کودک | 8 | 9 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/fas/kids.m3u` |
-| Documentary · مستند | 4 | 5 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/fas/documentary.m3u` |
-| Series · سریال | 4 | 4 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/fas/series.m3u` |
-| Entertainment · سرگرمی | 17 | 20 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/fas/entertainment.m3u` |
-| Business · اقتصاد | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/fas/business.m3u` |
-| Classic · کلاسیک | 3 | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/fas/classic.m3u` |
-| Comedy · کمدی | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/fas/comedy.m3u` |
-| Cooking · آشپزی | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/fas/cooking.m3u` |
-| Culture · فرهنگ | 3 | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/fas/culture.m3u` |
-| Education · آموزش | 2 | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/fas/education.m3u` |
-| Family · خانواده | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/fas/family.m3u` |
-| General · عمومی | 34 | 34 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/fas/general.m3u` |
-| Lifestyle · سبک زندگی | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/fas/lifestyle.m3u` |
-| Religious · مذهبی | 20 | 22 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/fas/religious.m3u` |
+| Sports · ورزش | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/sports.m3u` |
+| Movies · فیلم | 31 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/movies.m3u` |
+| News · اخبار | 11 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/news.m3u` |
+| Music · موسیقی | 15 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/music.m3u` |
+| Kids · کودک | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/kids.m3u` |
+| Documentary · مستند | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/documentary.m3u` |
+| Series · سریال | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/series.m3u` |
+| Entertainment · سرگرمی | 17 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/entertainment.m3u` |
+| Business · اقتصاد | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/business.m3u` |
+| Classic · کلاسیک | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/classic.m3u` |
+| Comedy · کمدی | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/comedy.m3u` |
+| Cooking · آشپزی | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/cooking.m3u` |
+| Culture · فرهنگ | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/culture.m3u` |
+| Education · آموزش | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/education.m3u` |
+| Family · خانواده | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/family.m3u` |
+| General · عمومی | 34 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/general.m3u` |
+| Lifestyle · سبک زندگی | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/lifestyle.m3u` |
+| Religious · مذهبی | 20 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/religious.m3u` |
 
 ## Included channels
 

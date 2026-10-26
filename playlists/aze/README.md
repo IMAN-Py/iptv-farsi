@@ -9,14 +9,14 @@ Find free Azerbaijani live TV playlist URLs for M3U-compatible players such as V
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/aze/all.m3u
+https://iman-py.github.io/open-tv-atlas/playlists/aze/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 26 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/aze/all.m3u` |
-| HD | 12 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/aze/hd.m3u` |
-| SD / unknown | 14 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/aze/sd.m3u` |
+| All channels | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/all.m3u` |
+| HD | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/hd.m3u` |
+| SD / unknown | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,11 +25,11 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/aze/sports.m3u` |
-| News | 4 | 4 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/aze/news.m3u` |
-| Music | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/aze/music.m3u` |
-| Culture | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/aze/culture.m3u` |
-| General | 14 | 19 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/aze/general.m3u` |
+| Sports | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/sports.m3u` |
+| News | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/news.m3u` |
+| Music | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/music.m3u` |
+| Culture | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/culture.m3u` |
+| General | 14 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/aze/general.m3u` |
 
 ## Included channels
 

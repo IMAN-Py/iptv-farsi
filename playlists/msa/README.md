@@ -9,14 +9,14 @@ Find free Malay live TV playlist URLs for M3U-compatible players such as VLC and
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/msa/all.m3u
+https://iman-py.github.io/open-tv-atlas/playlists/msa/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 22 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/msa/all.m3u` |
-| HD | 14 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/msa/hd.m3u` |
-| SD / unknown | 8 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/msa/sd.m3u` |
+| All channels | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/all.m3u` |
+| HD | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/hd.m3u` |
+| SD / unknown | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,14 +25,14 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/msa/sports.m3u` |
-| News | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/msa/news.m3u` |
-| Kids | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/msa/kids.m3u` |
-| Series | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/msa/series.m3u` |
-| Entertainment | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/msa/entertainment.m3u` |
-| General | 6 | 8 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/msa/general.m3u` |
-| Religious | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/msa/religious.m3u` |
-| Shop | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/msa/shop.m3u` |
+| Sports | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/sports.m3u` |
+| News | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/news.m3u` |
+| Kids | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/kids.m3u` |
+| Series | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/series.m3u` |
+| Entertainment | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/entertainment.m3u` |
+| General | 6 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/general.m3u` |
+| Religious | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/religious.m3u` |
+| Shop | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/shop.m3u` |
 
 ## Included channels
 

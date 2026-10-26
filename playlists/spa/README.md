@@ -9,14 +9,14 @@ Find free Spanish live TV playlist URLs for M3U-compatible players such as VLC a
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/all.m3u
+https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 3177 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/all.m3u` |
-| HD | 2411 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/hd.m3u` |
-| SD / unknown | 766 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/sd.m3u` |
+| All channels | 3177 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u` |
+| HD | 2411 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u` |
+| SD / unknown | 766 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,34 +25,34 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 67 | 111 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/sports.m3u` |
-| Movies | 104 | 142 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/movies.m3u` |
-| News | 131 | 213 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/news.m3u` |
-| Music | 203 | 227 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/music.m3u` |
-| Kids | 49 | 101 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/kids.m3u` |
-| Documentary | 22 | 44 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/documentary.m3u` |
-| Series | 72 | 103 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/series.m3u` |
-| Entertainment | 177 | 250 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/entertainment.m3u` |
-| Animation | 34 | 64 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/animation.m3u` |
-| Auto | 4 | 4 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/auto.m3u` |
-| Business | 4 | 5 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/business.m3u` |
-| Classic | 8 | 10 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/classic.m3u` |
-| Comedy | 19 | 23 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/comedy.m3u` |
-| Cooking | 4 | 7 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/cooking.m3u` |
-| Culture | 42 | 49 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/culture.m3u` |
-| Education | 35 | 40 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/education.m3u` |
-| Family | 12 | 23 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/family.m3u` |
-| General | 891 | 1218 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/general.m3u` |
-| Legislative | 33 | 36 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/legislative.m3u` |
-| Lifestyle | 15 | 15 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/lifestyle.m3u` |
-| Outdoor | 12 | 20 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/outdoor.m3u` |
-| Public | 22 | 33 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/public.m3u` |
-| Relax | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/relax.m3u` |
-| Religious | 195 | 232 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/religious.m3u` |
-| Science | 4 | 5 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/science.m3u` |
-| Shop | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/shop.m3u` |
-| Travel | 11 | 11 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/travel.m3u` |
-| Weather | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/weather.m3u` |
+| Sports | 67 | 111 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sports.m3u` |
+| Movies | 104 | 142 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/movies.m3u` |
+| News | 131 | 213 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/news.m3u` |
+| Music | 203 | 227 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/music.m3u` |
+| Kids | 49 | 101 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/kids.m3u` |
+| Documentary | 22 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/documentary.m3u` |
+| Series | 72 | 103 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/series.m3u` |
+| Entertainment | 177 | 250 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/entertainment.m3u` |
+| Animation | 34 | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/animation.m3u` |
+| Auto | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/auto.m3u` |
+| Business | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/business.m3u` |
+| Classic | 8 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/classic.m3u` |
+| Comedy | 19 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/comedy.m3u` |
+| Cooking | 4 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/cooking.m3u` |
+| Culture | 42 | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/culture.m3u` |
+| Education | 35 | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/education.m3u` |
+| Family | 12 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/family.m3u` |
+| General | 891 | 1218 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
+| Legislative | 33 | 36 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/legislative.m3u` |
+| Lifestyle | 15 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/lifestyle.m3u` |
+| Outdoor | 12 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/outdoor.m3u` |
+| Public | 22 | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/public.m3u` |
+| Relax | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/relax.m3u` |
+| Religious | 195 | 232 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/religious.m3u` |
+| Science | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/science.m3u` |
+| Shop | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/shop.m3u` |
+| Travel | 11 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/travel.m3u` |
+| Weather | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/weather.m3u` |
 
 ## Included channels
 

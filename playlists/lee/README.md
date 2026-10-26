@@ -9,14 +9,14 @@ Find free Lyélé live TV playlist URLs for M3U-compatible players such as VLC a
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/lee/all.m3u
+https://iman-py.github.io/open-tv-atlas/playlists/lee/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/lee/all.m3u` |
+| All channels | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/lee/all.m3u` |
 | HD | 0 | No matching streams |
-| SD / unknown | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/lee/sd.m3u` |
+| SD / unknown | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/lee/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Culture | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/lee/culture.m3u` |
+| Culture | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/lee/culture.m3u` |
 
 ## Included channels
 

@@ -11,15 +11,15 @@ Browse live interactive channels from the iptv-org collection. Use the worldwide
 Copy this URL into your player’s M3U playlist field:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/categories/interactive.m3u
+https://iman-py.github.io/open-tv-atlas/categories/interactive.m3u
 ```
 
 ## Choose a language
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [French](../playlists/fra/README.md) | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/fra/interactive.m3u` |
-| [Indonesian](../playlists/ind/README.md) | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/ind/interactive.m3u` |
+| [French](../playlists/fra/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/interactive.m3u` |
+| [Indonesian](../playlists/ind/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/interactive.m3u` |
 
 ## How to use this playlist
 

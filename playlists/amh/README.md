@@ -9,14 +9,14 @@ Find free Amharic live TV playlist URLs for M3U-compatible players such as VLC a
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/amh/all.m3u
+https://iman-py.github.io/open-tv-atlas/playlists/amh/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 7 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/amh/all.m3u` |
-| HD | 6 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/amh/hd.m3u` |
-| SD / unknown | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/amh/sd.m3u` |
+| All channels | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/amh/all.m3u` |
+| HD | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/amh/hd.m3u` |
+| SD / unknown | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/amh/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,12 +25,12 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Movies | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/amh/movies.m3u` |
-| News | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/amh/news.m3u` |
-| Music | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/amh/music.m3u` |
-| Culture | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/amh/culture.m3u` |
-| General | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/amh/general.m3u` |
-| Religious | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/amh/religious.m3u` |
+| Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/amh/movies.m3u` |
+| News | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/amh/news.m3u` |
+| Music | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/amh/music.m3u` |
+| Culture | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/amh/culture.m3u` |
+| General | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/amh/general.m3u` |
+| Religious | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/amh/religious.m3u` |
 
 ## Included channels
 

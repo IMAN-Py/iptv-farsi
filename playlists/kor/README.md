@@ -9,14 +9,14 @@ Find free Korean live TV playlist URLs for M3U-compatible players such as VLC an
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kor/all.m3u
+https://iman-py.github.io/open-tv-atlas/playlists/kor/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 90 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kor/all.m3u` |
-| HD | 59 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kor/hd.m3u` |
-| SD / unknown | 31 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kor/sd.m3u` |
+| All channels | 90 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/all.m3u` |
+| HD | 59 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/hd.m3u` |
+| SD / unknown | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,18 +25,18 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kor/sports.m3u` |
-| Movies | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kor/movies.m3u` |
-| News | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kor/news.m3u` |
-| Music | 3 | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kor/music.m3u` |
-| Kids | 2 | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kor/kids.m3u` |
-| Entertainment | 4 | 4 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kor/entertainment.m3u` |
-| Culture | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kor/culture.m3u` |
-| Education | 8 | 9 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kor/education.m3u` |
-| General | 30 | 40 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kor/general.m3u` |
-| Legislative | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kor/legislative.m3u` |
-| Religious | 7 | 7 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kor/religious.m3u` |
-| Shop | 15 | 15 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/kor/shop.m3u` |
+| Sports | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/sports.m3u` |
+| Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/movies.m3u` |
+| News | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/news.m3u` |
+| Music | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/music.m3u` |
+| Kids | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/kids.m3u` |
+| Entertainment | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/entertainment.m3u` |
+| Culture | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/culture.m3u` |
+| Education | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/education.m3u` |
+| General | 30 | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/general.m3u` |
+| Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/legislative.m3u` |
+| Religious | 7 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/religious.m3u` |
+| Shop | 15 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/kor/shop.m3u` |
 
 ## Included channels
 

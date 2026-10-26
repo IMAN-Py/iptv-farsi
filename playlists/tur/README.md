@@ -9,14 +9,14 @@ Find free Turkish live TV playlist URLs for M3U-compatible players such as VLC a
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tur/all.m3u
+https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 234 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tur/all.m3u` |
-| HD | 184 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tur/hd.m3u` |
-| SD / unknown | 50 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tur/sd.m3u` |
+| All channels | 234 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
+| HD | 184 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
+| SD / unknown | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,24 +25,24 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 17 | 18 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tur/sports.m3u` |
-| Movies | 6 | 6 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tur/movies.m3u` |
-| News | 19 | 23 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tur/news.m3u` |
-| Music | 14 | 17 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tur/music.m3u` |
-| Kids | 8 | 11 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tur/kids.m3u` |
-| Documentary | 5 | 8 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tur/documentary.m3u` |
-| Series | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tur/series.m3u` |
-| Entertainment | 8 | 13 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tur/entertainment.m3u` |
-| Animation | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tur/animation.m3u` |
-| Business | 2 | 5 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tur/business.m3u` |
-| Culture | 5 | 6 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tur/culture.m3u` |
-| Education | 5 | 6 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tur/education.m3u` |
-| General | 50 | 60 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tur/general.m3u` |
-| Lifestyle | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tur/lifestyle.m3u` |
-| Outdoor | 1 | 5 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tur/outdoor.m3u` |
-| Relax | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tur/relax.m3u` |
-| Religious | 7 | 9 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tur/religious.m3u` |
-| Travel | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tur/travel.m3u` |
+| Sports | 17 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sports.m3u` |
+| Movies | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/movies.m3u` |
+| News | 19 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/news.m3u` |
+| Music | 14 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/music.m3u` |
+| Kids | 8 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/kids.m3u` |
+| Documentary | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/documentary.m3u` |
+| Series | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/series.m3u` |
+| Entertainment | 8 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/entertainment.m3u` |
+| Animation | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/animation.m3u` |
+| Business | 2 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/business.m3u` |
+| Culture | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/culture.m3u` |
+| Education | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/education.m3u` |
+| General | 50 | 60 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/general.m3u` |
+| Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/lifestyle.m3u` |
+| Outdoor | 1 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/outdoor.m3u` |
+| Relax | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/relax.m3u` |
+| Religious | 7 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/religious.m3u` |
+| Travel | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/travel.m3u` |
 
 ## Included channels
 

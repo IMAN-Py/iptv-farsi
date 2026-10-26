@@ -9,13 +9,13 @@ Find free Mandinka live TV playlist URLs for M3U-compatible players such as VLC 
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mnk/all.m3u
+https://iman-py.github.io/open-tv-atlas/playlists/mnk/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mnk/all.m3u` |
-| HD | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mnk/hd.m3u` |
+| All channels | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mnk/all.m3u` |
+| HD | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mnk/hd.m3u` |
 | SD / unknown | 0 | No matching streams |
 
 <a id="categories"></a>
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| General | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mnk/general.m3u` |
+| General | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mnk/general.m3u` |
 
 ## Included channels
 

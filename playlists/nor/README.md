@@ -9,13 +9,13 @@ Find free Norwegian live TV playlist URLs for M3U-compatible players such as VLC
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/nor/all.m3u
+https://iman-py.github.io/open-tv-atlas/playlists/nor/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 126 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/nor/all.m3u` |
-| HD | 126 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/nor/hd.m3u` |
+| All channels | 126 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/all.m3u` |
+| HD | 126 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/hd.m3u` |
 | SD / unknown | 0 | No matching streams |
 
 <a id="categories"></a>
@@ -25,19 +25,19 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/nor/sports.m3u` |
-| Movies | 17 | 17 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/nor/movies.m3u` |
-| Kids | 8 | 8 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/nor/kids.m3u` |
-| Documentary | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/nor/documentary.m3u` |
-| Series | 38 | 38 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/nor/series.m3u` |
-| Entertainment | 23 | 23 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/nor/entertainment.m3u` |
-| Animation | 9 | 9 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/nor/animation.m3u` |
-| Auto | 2 | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/nor/auto.m3u` |
-| Classic | 9 | 9 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/nor/classic.m3u` |
-| Comedy | 23 | 23 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/nor/comedy.m3u` |
-| Cooking | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/nor/cooking.m3u` |
-| General | 8 | 17 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/nor/general.m3u` |
-| Lifestyle | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/nor/lifestyle.m3u` |
+| Sports | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/sports.m3u` |
+| Movies | 17 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/movies.m3u` |
+| Kids | 8 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/kids.m3u` |
+| Documentary | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/documentary.m3u` |
+| Series | 38 | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/series.m3u` |
+| Entertainment | 23 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/entertainment.m3u` |
+| Animation | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/animation.m3u` |
+| Auto | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/auto.m3u` |
+| Classic | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/classic.m3u` |
+| Comedy | 23 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/comedy.m3u` |
+| Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/cooking.m3u` |
+| General | 8 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/general.m3u` |
+| Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/lifestyle.m3u` |
 
 ## Included channels
 

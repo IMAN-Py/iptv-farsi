@@ -9,14 +9,14 @@ Find free Albanian live TV playlist URLs for M3U-compatible players such as VLC 
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/sqi/all.m3u
+https://iman-py.github.io/open-tv-atlas/playlists/sqi/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 51 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/sqi/all.m3u` |
-| HD | 33 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/sqi/hd.m3u` |
-| SD / unknown | 18 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/sqi/sd.m3u` |
+| All channels | 51 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/all.m3u` |
+| HD | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/hd.m3u` |
+| SD / unknown | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,16 +25,16 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/sqi/sports.m3u` |
-| Movies | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/sqi/movies.m3u` |
-| News | 11 | 14 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/sqi/news.m3u` |
-| Music | 5 | 6 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/sqi/music.m3u` |
-| Kids | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/sqi/kids.m3u` |
-| Entertainment | 2 | 5 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/sqi/entertainment.m3u` |
-| Culture | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/sqi/culture.m3u` |
-| General | 11 | 11 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/sqi/general.m3u` |
-| Legislative | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/sqi/legislative.m3u` |
-| Religious | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/sqi/religious.m3u` |
+| Sports | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/sports.m3u` |
+| Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/movies.m3u` |
+| News | 11 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/news.m3u` |
+| Music | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/music.m3u` |
+| Kids | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/kids.m3u` |
+| Entertainment | 2 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/entertainment.m3u` |
+| Culture | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/culture.m3u` |
+| General | 11 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/general.m3u` |
+| Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/legislative.m3u` |
+| Religious | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/sqi/religious.m3u` |
 
 ## Included channels
 

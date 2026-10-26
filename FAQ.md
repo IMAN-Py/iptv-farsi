@@ -4,11 +4,11 @@
 
 ### Which link should I use for English?
 
-Use `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/eng/all.m3u`. For sports, movies, news, or another category, open the [English page](playlists/eng/README.md).
+Use `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u`. For sports, movies, news, or another category, open the [English page](playlists/eng/README.md).
 
 ### Which link should I use for Farsi?
 
-Use `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlist.m3u`. The original Farsi links are preserved. For only sports, movies, or another category, open the [Farsi page](playlists/fas/README.md).
+Use `https://iman-py.github.io/open-tv-atlas/playlist.m3u`. The original Farsi links are preserved. For only sports, movies, or another category, open the [Farsi page](playlists/fas/README.md).
 
 ### How do I find another language?
 

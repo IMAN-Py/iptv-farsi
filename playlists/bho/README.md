@@ -9,14 +9,14 @@ Find free Bhojpuri live TV playlist URLs for M3U-compatible players such as VLC 
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/bho/all.m3u
+https://iman-py.github.io/open-tv-atlas/playlists/bho/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 25 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/bho/all.m3u` |
-| HD | 11 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/bho/hd.m3u` |
-| SD / unknown | 14 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/bho/sd.m3u` |
+| All channels | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/all.m3u` |
+| HD | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/hd.m3u` |
+| SD / unknown | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,11 +25,11 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/bho/sports.m3u` |
-| Movies | 5 | 13 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/bho/movies.m3u` |
-| News | 2 | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/bho/news.m3u` |
-| Music | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/bho/music.m3u` |
-| Entertainment | 3 | 5 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/bho/entertainment.m3u` |
+| Sports | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/sports.m3u` |
+| Movies | 5 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/movies.m3u` |
+| News | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/news.m3u` |
+| Music | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/music.m3u` |
+| Entertainment | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/bho/entertainment.m3u` |
 
 ## Included channels
 

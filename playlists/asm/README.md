@@ -9,14 +9,14 @@ Find free Assamese live TV playlist URLs for M3U-compatible players such as VLC 
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/asm/all.m3u
+https://iman-py.github.io/open-tv-atlas/playlists/asm/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 30 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/asm/all.m3u` |
-| HD | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/asm/hd.m3u` |
-| SD / unknown | 27 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/asm/sd.m3u` |
+| All channels | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/all.m3u` |
+| HD | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/hd.m3u` |
+| SD / unknown | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,10 +25,10 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| News | 9 | 16 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/asm/news.m3u` |
-| Kids | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/asm/kids.m3u` |
-| Entertainment | 2 | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/asm/entertainment.m3u` |
-| General | 2 | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/asm/general.m3u` |
+| News | 9 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/news.m3u` |
+| Kids | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/kids.m3u` |
+| Entertainment | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/entertainment.m3u` |
+| General | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/asm/general.m3u` |
 
 ## Included channels
 

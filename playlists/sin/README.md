@@ -9,14 +9,14 @@ Find free Sinhala live TV playlist URLs for M3U-compatible players such as VLC a
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/sin/all.m3u
+https://iman-py.github.io/open-tv-atlas/playlists/sin/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 11 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/sin/all.m3u` |
-| HD | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/sin/hd.m3u` |
-| SD / unknown | 8 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/sin/sd.m3u` |
+| All channels | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/sin/all.m3u` |
+| HD | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/sin/hd.m3u` |
+| SD / unknown | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/sin/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,11 +25,11 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Entertainment | 3 | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/sin/entertainment.m3u` |
-| Education | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/sin/education.m3u` |
-| Family | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/sin/family.m3u` |
-| General | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/sin/general.m3u` |
-| Religious | 2 | 3 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/sin/religious.m3u` |
+| Entertainment | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/sin/entertainment.m3u` |
+| Education | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/sin/education.m3u` |
+| Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/sin/family.m3u` |
+| General | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/sin/general.m3u` |
+| Religious | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/sin/religious.m3u` |
 
 ## Included channels
 

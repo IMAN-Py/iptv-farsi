@@ -11,19 +11,19 @@ Browse live relax channels from the iptv-org collection. Use the worldwide M3U p
 Copy this URL into your player’s M3U playlist field:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/categories/relax.m3u
+https://iman-py.github.io/open-tv-atlas/categories/relax.m3u
 ```
 
 ## Choose a language
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 9 | 24 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/eng/relax.m3u` |
-| [Bulgarian](../playlists/bul/README.md) | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/bul/relax.m3u` |
-| [French](../playlists/fra/README.md) | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/fra/relax.m3u` |
-| [Russian](../playlists/rus/README.md) | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/rus/relax.m3u` |
-| [Spanish](../playlists/spa/README.md) | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/spa/relax.m3u` |
-| [Turkish](../playlists/tur/README.md) | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/tur/relax.m3u` |
+| [English](../playlists/eng/README.md) | 9 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/relax.m3u` |
+| [Bulgarian](../playlists/bul/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/relax.m3u` |
+| [French](../playlists/fra/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/relax.m3u` |
+| [Russian](../playlists/rus/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/relax.m3u` |
+| [Spanish](../playlists/spa/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/relax.m3u` |
+| [Turkish](../playlists/tur/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/relax.m3u` |
 
 ## How to use this playlist
 

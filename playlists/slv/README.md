@@ -9,14 +9,14 @@ Find free Slovenian live TV playlist URLs for M3U-compatible players such as VLC
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/slv/all.m3u
+https://iman-py.github.io/open-tv-atlas/playlists/slv/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 27 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/slv/all.m3u` |
-| HD | 14 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/slv/hd.m3u` |
-| SD / unknown | 13 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/slv/sd.m3u` |
+| All channels | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/slv/all.m3u` |
+| HD | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/slv/hd.m3u` |
+| SD / unknown | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/slv/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,13 +25,13 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/slv/sports.m3u` |
-| Movies | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/slv/movies.m3u` |
-| Documentary | 5 | 6 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/slv/documentary.m3u` |
-| Series | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/slv/series.m3u` |
-| General | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/slv/general.m3u` |
-| Legislative | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/slv/legislative.m3u` |
-| Religious | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/slv/religious.m3u` |
+| Sports | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/slv/sports.m3u` |
+| Movies | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/slv/movies.m3u` |
+| Documentary | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/slv/documentary.m3u` |
+| Series | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/slv/series.m3u` |
+| General | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/slv/general.m3u` |
+| Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/slv/legislative.m3u` |
+| Religious | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/slv/religious.m3u` |
 
 ## Included channels
 

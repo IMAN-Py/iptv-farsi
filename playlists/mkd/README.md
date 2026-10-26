@@ -9,14 +9,14 @@ Find free Macedonian live TV playlist URLs for M3U-compatible players such as VL
 Copy this URL into the M3U URL field of your player:
 
 ```text
-https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mkd/all.m3u
+https://iman-py.github.io/open-tv-atlas/playlists/mkd/all.m3u
 ```
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 29 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mkd/all.m3u` |
-| HD | 15 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mkd/hd.m3u` |
-| SD / unknown | 14 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mkd/sd.m3u` |
+| All channels | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/mkd/all.m3u` |
+| HD | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/mkd/hd.m3u` |
+| SD / unknown | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/mkd/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,12 +25,12 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 1 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mkd/sports.m3u` |
-| News | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mkd/news.m3u` |
-| Music | 8 | 9 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mkd/music.m3u` |
-| Kids | 1 | 1 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mkd/kids.m3u` |
-| General | 10 | 11 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mkd/general.m3u` |
-| Legislative | 2 | 2 | `https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/playlists/mkd/legislative.m3u` |
+| Sports | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/mkd/sports.m3u` |
+| News | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mkd/news.m3u` |
+| Music | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/mkd/music.m3u` |
+| Kids | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mkd/kids.m3u` |
+| General | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/mkd/general.m3u` |
+| Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/mkd/legislative.m3u` |
 
 ## Included channels
 

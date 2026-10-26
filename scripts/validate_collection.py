@@ -83,7 +83,7 @@ def validate_collection(root):
     # Check relative documentation links and raw playlist links against local files.
     docs = (list(root.glob('*.md')) + list((root / 'playlists').glob('*/README.md'))
             + list((root / 'categories').glob('*.md')))
-    raw_prefix = 'https://raw.githubusercontent.com/IMAN-Py/open-tv-atlas/main/'
+    raw_prefix = 'https://iman-py.github.io/open-tv-atlas/'
     for path in docs:
         text = path.read_text(encoding='utf-8')
         for target in re.findall(r'\]\(([^)]+)\)', text):
