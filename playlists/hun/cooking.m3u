@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="FoodNetwork.hu" tvg-name="Food Network" group-title="Cooking" tvg-language="hun" tvg-quality="576i",Food Network
-http://88.212.15.17/live/fn_hungary/index.m3u8
+http://88.212.7.14/live/fn_hungary/index.m3u8
 

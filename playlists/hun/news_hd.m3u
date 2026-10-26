@@ -4,5 +4,5 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 
 #EXTINF:-1 tvg-id="M1.hu" tvg-name="M1" group-title="News" tvg-language="hun" tvg-quality="1080i",M1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_m_1_hungary_1200_atk/playlist.m3u8
+http://88.212.7.14/live/test_m_1_hungary_1200_atk/playlist.m3u8
 

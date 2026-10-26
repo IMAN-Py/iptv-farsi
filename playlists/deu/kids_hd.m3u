@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" group-title="Kids" tvg-language="ara;deu;eng;fra;heb;hun;jpn;kor;pol;por;ron;rus;spa;tur;zho" tvg-quality="720p",BabyFirst
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel" group-title="Kids" tvg-language="deu" tvg-quality="1080i",Disney Channel
+http://109.85.181.77:9981/stream/channelid/652495718?profile=pass
+
 #EXTINF:-1 tvg-id="DrakeJosh.de" tvg-name="Drake & Josh" group-title="Kids" tvg-language="deu" tvg-quality="720p",Drake & Josh
 https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
 

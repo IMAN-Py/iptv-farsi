@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Jednotka.sk" tvg-name="Jednotka" group-title="General" tvg-language="slk" tvg-quality="1080p",Jednotka
-http://88.212.15.17/live/test_jednotka_25p/playlist.m3u8
+http://88.212.15.50/live/test_jednotka_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTR.sk" tvg-name="MTR" group-title="General" tvg-language="slk" tvg-quality="1080p",MTR
 https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8

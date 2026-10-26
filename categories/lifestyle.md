@@ -4,7 +4,7 @@
 
 Browse live lifestyle channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**141 channels · 203 stream entries**
+**143 channels · 205 stream entries**
 
 ## All languages
 
@@ -47,7 +47,7 @@ https://iman-py.github.io/open-tv-atlas/categories/lifestyle.m3u
 | [Telugu](../playlists/tel/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/lifestyle.m3u` |
 | [Turkish](../playlists/tur/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/lifestyle.m3u` |
 | [Ukrainian](../playlists/ukr/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/lifestyle.m3u` |
-| [Vietnamese](../playlists/vie/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/lifestyle.m3u` |
+| [Vietnamese](../playlists/vie/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/lifestyle.m3u` |
 
 ## How to use this playlist
 

@@ -4,7 +4,7 @@
 
 Browse live news channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**980 channels · 1858 stream entries**
+**980 channels · 1859 stream entries**
 
 ## All languages
 
@@ -44,7 +44,7 @@ https://iman-py.github.io/open-tv-atlas/categories/news.m3u
 | [Dutch](../playlists/nld/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/nld/news.m3u` |
 | [Filipino](../playlists/fil/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fil/news.m3u` |
 | [Finnish](../playlists/fin/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fin/news.m3u` |
-| [French](../playlists/fra/README.md) | 55 | 81 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/news.m3u` |
+| [French](../playlists/fra/README.md) | 55 | 82 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/news.m3u` |
 | [Georgian](../playlists/kat/README.md) | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/kat/news.m3u` |
 | [German](../playlists/deu/README.md) | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/news.m3u` |
 | [Goan Konkani](../playlists/gom/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/gom/news.m3u` |

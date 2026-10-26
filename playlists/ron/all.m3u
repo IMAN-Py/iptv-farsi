@@ -105,6 +105,9 @@ https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
 https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="CineWow.ro" tvg-name="CineWow" group-title="Movies" tvg-language="ron" tvg-quality="576i",CineWow
+https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="CineWow.ro" tvg-name="CineWow" group-title="Movies" tvg-language="ron" tvg-quality="576i",CineWow
 https://hls02ns.antenaplay.ro/hls/bollywood-clasic-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="ColumnaTV.ro" tvg-name="Columna TV" group-title="General" tvg-language="ron" tvg-quality="576i",Columna TV
@@ -134,9 +137,6 @@ https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 #EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Digi Sport 2
 https://lbgo.bozztv.com/ssh101/ssh101/digisport222/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DiscoMix.ro" tvg-name="Disco Mix" group-title="Music" tvg-language="eng;ron" tvg-quality="576p",Disco Mix
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-disco-mix/live_hq?offsetSeconds=0
-
 #EXTINF:-1 tvg-id="DisneyChannel.ro" tvg-name="Disney Channel" group-title="Kids" tvg-language="ron" tvg-quality="576i",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
@@ -151,11 +151,11 @@ https://streams.prd.commavservices.eu/live/ebs/index.m3u8
 #EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
 https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 
-#EXTINF:-1 tvg-id="EMITV.ro" tvg-name="EMI TV" group-title="Music" tvg-language="ron" tvg-quality="1080i",EMI TV
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-emi/live_hq?offsetSeconds=0
-
 #EXTINF:-1 tvg-id="EMITV.ro" tvg-name="EMI TV" group-title="Music" tvg-language="ron" tvg-quality="576i",EMI TV
 https://astra.emitv.ro/hls/emi/index.m3u8
+
+#EXTINF:-1 tvg-id="EMITV.ro" tvg-name="EMI TV" group-title="Music" tvg-language="ron" tvg-quality="576i",EMI TV
+https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="EtnoTV.ro" tvg-name="Etno TV" group-title="General" tvg-language="ron" tvg-quality="576i",Etno TV
 https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
@@ -203,9 +203,6 @@ https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-name="FILMBOX+ One" group-title="Movies" tvg-language="ron" tvg-quality="576p",FILMBOX+ One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
-
-#EXTINF:-1 tvg-id="HtMusicChannel.ro" tvg-name="H!t Music Channel" group-title="Music" tvg-language="ron" tvg-quality="576i",H!t Music Channel
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0
 
 #EXTINF:-1 tvg-id="HalloweenNonStop.ro" tvg-name="Halloween Non Stop" group-title="Movies" tvg-language="ron" tvg-quality="720p",Halloween Non Stop
 https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8
@@ -336,9 +333,6 @@ https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
 #EXTINF:-1 tvg-id="MuscelTV.ro" tvg-name="Muscel TV" group-title="General" tvg-language="ron" tvg-quality="720p",Muscel TV
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MusicChannel.ro" tvg-name="Music Channel" group-title="Music" tvg-language="ron" tvg-quality="576i",Music Channel
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0
-
 #EXTINF:-1 tvg-id="NasulTV.ro" tvg-name="Nasul TV" group-title="General" tvg-language="ron" tvg-quality="720p",Nasul TV
 https://live.nasul.tv/live/stream.m3u8
 
@@ -357,9 +351,6 @@ https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
 
 #EXTINF:-1 tvg-id="NationalTV.ro" tvg-name="National TV" group-title="General" tvg-language="ron" tvg-quality="576i",National TV
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
-
-#EXTINF:-1 tvg-id="NationalTV2.ro" tvg-name="National TV2" group-title="Uncategorized" tvg-language="ron" tvg-quality="576i",National TV2
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-telestar1/live_hq?offsetSeconds=0
 
 #EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ron" tvg-quality="576i",Nickelodeon
 http://178.76.68.60:7442/64/mpegts
@@ -384,8 +375,8 @@ http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-id="ObservatorNews.ro" tvg-name="Observator News" group-title="News" tvg-language="ron" tvg-quality="360p",Observator News
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 
-#EXTINF:-1 tvg-id="OrizontTV.ro" tvg-name="Orizont TV" group-title="Music" tvg-language="ron" tvg-quality="576p",Orizont TV
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-orizont-tv/live_hq?offsetSeconds=0
+#EXTINF:-1 tvg-id="OrizontTV.ro" tvg-name="Orizont TV" group-title="Music" tvg-language="ron" tvg-quality="576i",Orizont TV
+https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="PrimaNews.ro" tvg-name="Prima News" group-title="News" tvg-language="ron" tvg-quality="576i",Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
@@ -532,10 +523,10 @@ https://tezaurtv.md/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" group-title="Outdoor" tvg-language="bul;ces;hun;ron" tvg-quality="1080i",The Fishing & Hunting Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/fishing_hun/index.m3u8
+http://88.212.7.14/live/fishing_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" group-title="Outdoor" tvg-language="bul;ces;hun;ron" tvg-quality="576i",The Fishing & Hunting Channel
-http://88.212.15.17/live/test_fishing_hunting/playlist.m3u8
+http://88.212.7.14/live/test_fishing_hunting/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TimelessDiziChannel.ro" tvg-name="Timeless Dizi Channel" group-title="Uncategorized" tvg-language="ron" tvg-quality="576i",Timeless Dizi Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -559,6 +550,9 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-travel-mix/live_hq?offsetSecond
 
 #EXTINF:-1 tvg-id="TravelMix.ro" tvg-name="Travel Mix" group-title="Travel" tvg-language="ron" tvg-quality="576i",Travel Mix
 https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="TrinitasTV.ro" tvg-name="Trinitas TV" group-title="Uncategorized" tvg-language="ron" tvg-quality="576i",Trinitas TV
+https://hls01ns.antenaplay.ro/hls/trinitas-tv-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="TVArad.ro" tvg-name="TV Arad" group-title="General" tvg-language="ron" tvg-quality="576i",TV Arad
 https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
@@ -678,6 +672,9 @@ https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8
 
 #EXTINF:-1 tvg-id="VoceaBasarabieiTV.md" tvg-name="Vocea Basarabiei TV" group-title="Uncategorized" tvg-language="ron" tvg-quality="720p",Vocea Basarabiei TV
 https://storage.voceabasarabiei.md/vocea/vocea.m3u8
+
+#EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Voyo Sport 1
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
 
 #EXTINF:-1 tvg-id="VPTV.ro" tvg-name="VP TV" group-title="Uncategorized" tvg-language="ron" tvg-quality="576i",VP TV
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-vp-tv/live_lq?offsetSeconds=0

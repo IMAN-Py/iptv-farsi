@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Sport.sk" tvg-name="Sport" group-title="Sports" tvg-language="slk" tvg-quality="1080p",Sport
-http://88.212.15.17/live/test_rtvs_sport_hevc/playlist.m3u8
+http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
 

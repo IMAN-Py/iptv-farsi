@@ -95,6 +95,9 @@ https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HmongTVNetwork.us" tvg-name="Hmong TV Network" group-title="Culture" tvg-language="hmn;vie" tvg-quality="720p",Hmong TV Network
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HTVSports.vn" tvg-name="HTV Sports" group-title="Sports" tvg-language="vie" tvg-quality="1080i",HTV Sports
+https://vmttv.dpdns.org/tv360/?id=htv-the-thao
+
 #EXTINF:-1 tvg-id="HTV1.vn" tvg-name="HTV1" group-title="General" tvg-language="vie" tvg-quality="720p",HTV1
 https://dethich.pw/htv1/index.m3u8
 
@@ -115,6 +118,15 @@ https://dethich.pw/htv7/index.m3u8
 
 #EXTINF:-1 tvg-id="HTV9.vn" tvg-name="HTV9" group-title="General;News" tvg-language="vie" tvg-quality="720p",HTV9
 https://dethich.pw/htv9/index.m3u8
+
+#EXTINF:-1 tvg-id="HTVCFamily.vn" tvg-name="HTVC Family" group-title="Family" tvg-language="vie" tvg-quality="720p",HTVC Family
+https://dethich.pw/htvcgiadinh/index.m3u8
+
+#EXTINF:-1 tvg-id="HTVCMovies.vn" tvg-name="HTVC Movies" group-title="Movies;Series" tvg-language="vie" tvg-quality="720p",HTVC Movies
+https://dethich.pw/htvcphim/index.m3u8
+
+#EXTINF:-1 tvg-id="HTVCWomen.vn" tvg-name="HTVC Women" group-title="Lifestyle" tvg-language="vie" tvg-quality="720p",HTVC Women
+https://dethich.pw/htvcphunu/index.m3u8
 
 #EXTINF:-1 tvg-id="KonTumTV.vn" tvg-name="Kon Tum TV" group-title="General" tvg-language="vie" tvg-quality="720p",Kon Tum TV
 https://247.dpdns.org/module/IPTV/?id=QNgTV2&accKenh=vuminhthanh1
@@ -146,8 +158,17 @@ https://freem3u.xyz/api/live/play.m3u8?vid=185
 #EXTINF:-1 tvg-id="ONO2TV.vn" tvg-name="ON O2TV" group-title="Lifestyle" tvg-language="vie" tvg-quality="1080p",ON O2TV
 https://freem3u.xyz/api/live/play.m3u8?vid=136
 
+#EXTINF:-1 tvg-id="ONStyleTV.vn" tvg-name="ON Style TV" group-title="Lifestyle" tvg-language="vie" tvg-quality="1080p",ON Style TV
+https://freem3u.xyz/api/live/play.m3u8?vid=184
+
+#EXTINF:-1 tvg-id="ONVieDramas.vn" tvg-name="ON Vie Dramas" group-title="Entertainment" tvg-language="vie" tvg-quality="1080i",ON Vie Dramas
+https://freem3u.xyz/api/live/play.m3u8?vid=177
+
 #EXTINF:-1 tvg-id="ONVieGiaiTri.vn" tvg-name="ON Vie Giai Tri" group-title="Entertainment" tvg-language="vie" tvg-quality="1080p",ON Vie Giai Tri
 https://freem3u.xyz/api/live/play.m3u8?vid=180
+
+#EXTINF:-1 tvg-id="ONVieGiaiTri.vn" tvg-name="ON Vie Giai Tri" group-title="Entertainment" tvg-language="vie" tvg-quality="1080i",ON Vie Giai Tri
+https://tv.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd
 
 #EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" group-title="Outdoor" tvg-language="eng;vie" tvg-quality="1080p",Outdoor Channel
 https://freem3u.xyz/api/live/play.m3u8?vid=216

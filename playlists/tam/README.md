@@ -4,7 +4,7 @@
 
 Find free Tamil live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**123 channels · 201 stream entries**
+**124 channels · 202 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 201 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u` |
+| All channels | 202 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u` |
 | HD | 85 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/hd.m3u` |
-| SD / unknown | 116 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sd.m3u` |
+| SD / unknown | 117 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -36,7 +36,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Comedy | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/comedy.m3u` |
 | Culture | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/culture.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/family.m3u` |
-| General | 8 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/general.m3u` |
+| General | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/general.m3u` |
 | Lifestyle | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/lifestyle.m3u` |
 | Religious | 22 | 37 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/religious.m3u` |
 | Travel | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/travel.m3u` |
@@ -52,6 +52,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Aaseervatham TV | AaseervathamTV.in | 576p | 1 |
 | Aastha Tamil | AasthaTamil.in | 480p | 1 |
 | Aathavan TV | AathavanTV.uk | 576p, 720p | 2 |
+| AMN TV | AMNTV.in | 576p | 1 |
 | Angel TV | AngelTV.in | 576p, 720p | 6 |
 | Animal Planet | AnimalPlanet.in | 720p | 2 |
 | Arputhar Yesu TV | ArputharYesuTV.in | 576p | 1 |

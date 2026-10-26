@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="24.sk" tvg-name=":24" group-title="News" tvg-language="slk" tvg-quality="1080p",:24
-http://88.212.15.17/live/test_trojka_25p/playlist.m3u8
+http://88.212.15.50/live/test_trojka_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AntikInfoTV.sk" tvg-name="Antik Info TV" group-title="News" tvg-language="slk" tvg-quality="1080p",Antik Info TV
 https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ArenaSport1.sk" tvg-name="Arena Sport 1" group-title="Sports" tvg-language="ces;slk" tvg-quality="576i",Arena Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.17/live/test_arenasport/playlist.m3u8
+http://88.212.15.50/live/test_arenasport/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ArenaSport2.sk" tvg-name="Arena Sport 2" group-title="Sports" tvg-language="slk" tvg-quality="576i",Arena Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.17/live/test_arenasport_dva/playlist.m3u8
+http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlusActionEurope.nl" tvg-name="Canal+ Action Europe" group-title="Movies" tvg-language="slk" tvg-quality="720p",Canal+ Action Europe
 http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
@@ -45,7 +45,7 @@ https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dvojka.sk" tvg-name="Dvojka" group-title="Documentary" tvg-language="slk" tvg-quality="576i",Dvojka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_dvojka_25p/playlist.m3u8
+http://88.212.15.50/live/test_dvojka_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EbS.be" tvg-name="EbS" group-title="Legislative" tvg-language="bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mlt;nld;pol;por;ron;slk;slv;spa;swe;ukr" tvg-quality="1080p",EbS
 https://streams.prd.commavservices.eu/live/ebs/index.m3u8
@@ -57,7 +57,7 @@ https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Jednotka.sk" tvg-name="Jednotka" group-title="General" tvg-language="slk" tvg-quality="1080p",Jednotka
-http://88.212.15.17/live/test_jednotka_25p/playlist.m3u8
+http://88.212.15.50/live/test_jednotka_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" group-title="Kids" tvg-language="ces;eng;heb;por;slk" tvg-quality="576p",JimJam Europe
 http://158.160.149.81:8080/269/index.m3u8
@@ -84,39 +84,39 @@ http://s1.media-planet.sk/live/novezamky/BratuMarian.m3u8
 https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PrimaCoolSK.sk" tvg-name="Prima Cool SK" group-title="Uncategorized" tvg-language="slk" tvg-quality="1080p",Prima Cool SK
-http://88.212.15.17/live/prima_cool_avc_25p/playlist.m3u8
+http://88.212.15.50/live/prima_cool_avc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PrimaKrimiSK.sk" tvg-name="Prima Krimi SK" group-title="Uncategorized" tvg-language="slk" tvg-quality="1080p",Prima Krimi SK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/prima_krimi_avc_25p/playlist.m3u8
+http://88.212.15.50/live/prima_krimi_avc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PrimaloveSK.sk" tvg-name="Prima love SK" group-title="Uncategorized" tvg-language="slk" tvg-quality="1080p",Prima love SK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/prima_love_avc_25p/playlist.m3u8
+http://88.212.15.50/live/prima_love_avc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PrimaSK.sk" tvg-name="Prima SK" group-title="Uncategorized" tvg-language="slk" tvg-quality="1080p",Prima SK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_prima_plus_25p/playlist.m3u8
+http://88.212.15.50/live/test_prima_plus_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Senzi.sk" tvg-name="Senzi" group-title="Uncategorized" tvg-language="slk" tvg-quality="720p",Senzi
 http://lb.streaming.sk/senzi/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Spektrum.cz" tvg-name="Spektrum" group-title="Documentary" tvg-language="ces;slk" tvg-quality="576i",Spektrum
-http://88.212.15.17/live/test_spektrum/playlist.m3u8
+http://88.212.15.50/live/test_spektrum/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SpektrumHome.cz" tvg-name="Spektrum Home" group-title="Entertainment" tvg-language="ces;slk" tvg-quality="576i",Spektrum Home
-http://88.212.15.17/live/test_home_hevc/playlist.m3u8
+http://88.212.15.50/live/test_home_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sport.sk" tvg-name="Sport" group-title="Sports" tvg-language="slk" tvg-quality="1080p",Sport
-http://88.212.15.17/live/test_rtvs_sport_hevc/playlist.m3u8
+http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sport1.cz" tvg-name="Sport1" group-title="Sports" tvg-language="ces;slk" tvg-quality="576i",Sport1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_sport1_25p/playlist.m3u8
+http://88.212.15.50/live/test_sport1_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sport2.cz" tvg-name="Sport2" group-title="Sports" tvg-language="ces;slk" tvg-quality="576i",Sport2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_sport_2/playlist.m3u8
+http://88.212.15.50/live/test_sport_2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleviziaMocenok.sk" tvg-name="Televizia Mocenok" group-title="General" tvg-language="slk" tvg-quality="720p",Televizia Mocenok
 https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
@@ -218,7 +218,7 @@ https://dash4.antik.sk/live/test_tv9/playlist.m3u8
 https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VIATV.sk" tvg-name="VIA TV" group-title="Uncategorized" tvg-language="slk" tvg-quality="576i",VIA TV
-http://88.212.15.17/live/via_tv/index.m3u8
+http://88.212.15.50/live/via_tv/index.m3u8
 
 #EXTINF:-1 tvg-id="VIOTV.sk" tvg-name="VIO TV" group-title="Uncategorized" tvg-language="slk" tvg-quality="480p",VIO TV
 http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8

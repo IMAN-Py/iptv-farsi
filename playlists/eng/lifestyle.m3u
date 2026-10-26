@@ -258,7 +258,7 @@ https://pb-gxzycliwq14lw.akamaized.net/Jamie_Oliver.m3u8
 https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8
 
 #EXTINF:-1 tvg-id="TLC.hu" tvg-name="TLC" group-title="Lifestyle" tvg-language="eng;hun" tvg-quality="576i",TLC
-http://88.212.15.17/live/tlc_hungary/index.m3u8
+http://88.212.7.14/live/tlc_hungary/index.m3u8
 
 #EXTINF:-1 tvg-id="TLC.in" tvg-name="TLC" group-title="Lifestyle" tvg-language="eng;hin" tvg-quality="720p",TLC
 https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8

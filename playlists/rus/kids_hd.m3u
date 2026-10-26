@@ -31,7 +31,7 @@ https://stream8.cinerama.uz/1500/playlist.m3u8
 https://stream8.cinerama.uz/1502/playlist.m3u8
 
 #EXTINF:-1 tvg-id="O.ru" tvg-name="O!" group-title="Kids" tvg-language="rus" tvg-quality="720p",O!
-http://88.212.15.17/live/test_telekanal_o/playlist.m3u8
+http://88.212.15.50/live/test_telekanal_o/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RUTVKids.ru" tvg-name="RU.TV Kids" group-title="Kids" tvg-language="rus" tvg-quality="720p",RU.TV Kids
 https://rutvkids.ru/live/efir/index.m3u8

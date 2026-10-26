@@ -681,6 +681,9 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:-1 tvg-id="AmmanTV.jo" tvg-name="Amman TV" group-title="General" tvg-language="ara" tvg-quality="720p",Amman TV
 https://htvnksdtmy.erbvr.com/ammantvhd/ammantvhd.m3u8
 
+#EXTINF:-1 tvg-id="AMNTV.in" tvg-name="AMN TV" group-title="General" tvg-language="tam" tvg-quality="576p",AMN TV
+https://live.onecloudlive.in/amn/amntv/index.m3u8
+
 #EXTINF:-1 tvg-id="AmouzeshTV.ir" tvg-name="Amouzesh TV" group-title="General" tvg-language="fas" tvg-quality="576i",Amouzesh TV
 https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8
 
@@ -983,7 +986,7 @@ https://guineetvdirect.online:3320/live/atvguineelive.m3u8
 
 #EXTINF:-1 tvg-id="ATV.hu" tvg-name="ATV" group-title="General" tvg-language="hun" tvg-quality="576i",ATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_atv_hungary_1200_atk/playlist.m3u8
+http://88.212.7.14/live/test_atv_hungary_1200_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV.hu" tvg-name="ATV" group-title="General" tvg-language="hun" tvg-quality="360p",ATV
 https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
@@ -1790,7 +1793,7 @@ https://cantv.streamguys1.com/cantv/cantv27hls/playlist.m3u8
 https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanaTVDigital.do" tvg-name="Cana TV Digital" group-title="General" tvg-language="spa" tvg-quality="720p",Cana TV Digital
-https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
+https://cdnfox.hostlagarto.com/canatvdigital/index.m3u8
 
 #EXTINF:-1 tvg-id="Canaf54TV.uk" tvg-name="Canaf54 TV" group-title="General" tvg-language="eng;fra" tvg-quality="576i",Canaf54 TV
 https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
@@ -2325,9 +2328,6 @@ https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalSTART.br" tvg-name="Canal START" group-title="General" tvg-language="por" tvg-quality="720p",Canal START
 https://cdn-tiva-srv5-zcast-com-br.smartbit.co/canalstart/canalstart/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CanalSur.es" tvg-name="Canal Sur" group-title="General;Public" tvg-language="spa" tvg-quality="576i",Canal Sur
-https://cdn.stmify.com/zapitv/stream/CANAL_SUR/canal_sur_hd.mpd
 
 #EXTINF:-1 tvg-id="CanalSur2.es" tvg-name="Canal Sur 2" group-title="General;Public" tvg-language="spa" tvg-quality="720p",Canal Sur 2
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
@@ -3156,7 +3156,7 @@ https://5cd03f21c7193.streamlock.net/csurgotv/csurgolive/playlist.m3u8
 https://cstv.medialivecdn.hu/csurgotv/27725804dc13aa23b3970414524d2dbf.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CT1.cz" tvg-name="CT1" group-title="General" tvg-language="ces" tvg-quality="576i",CT1
-http://88.212.15.17/live/test_ct1_25p/playlist.m3u8
+http://88.212.15.50/live/test_ct1_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CTBPerth.au" tvg-name="CTB Perth" group-title="General" tvg-language="eng" tvg-quality="720p",CTB Perth
 https://live.ctbperth.net.au/hls/0/stream.m3u8
@@ -3663,11 +3663,11 @@ https://live.fansplay.tv/livestreams/21.GdPGZIRcwzZ9vgE5.m3u8
 
 #EXTINF:-1 tvg-id="Duna.hu" tvg-name="Duna" group-title="General" tvg-language="hun" tvg-quality="576i",Duna
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/duna_hun/index.m3u8
+http://88.212.7.14/live/duna_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="DunaWorld.hu" tvg-name="Duna World" group-title="General" tvg-language="hun" tvg-quality="576i",Duna World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/duna_world_hun/index.m3u8
+http://88.212.7.14/live/duna_world_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="DunyaNawTV.af" tvg-name="Dunya Naw TV" group-title="General" tvg-language="prd" tvg-quality="576p",Dunya Naw TV
 https://dunyanhls.wns.live/hls/stream.m3u8
@@ -4018,7 +4018,7 @@ https://panel.freedomflixtv.org:3868/hybrid/play.m3u8
 https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Farovision.do" tvg-name="Farovision" group-title="General" tvg-language="spa" tvg-quality="720p",Farovision
-https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+https://5790d294af2dc.streamlock.net/femeninatv/femeninatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FarsTV.ir" tvg-name="Fars TV" group-title="General" tvg-language="fas" tvg-quality="576i",Fars TV
 https://ncdn.telewebion.ir/fars/live/playlist.m3u8
@@ -4277,7 +4277,7 @@ https://securestream11.champds.com/LIVE/GilletteWYLIVE/GilletteWYLIVE.m3u8
 https://stream.castr.com/6809124f3f3e7e594c63cf15/live_8e5d0b50206a11f08690576446b3c082/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="GlobalTV.do" tvg-name="Global TV" group-title="General" tvg-language="spa" tvg-quality="720p",Global TV
-https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8
+https://vtm1.msinteractiva.com./globaltv/globaltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GlobalTV.pe" tvg-name="Global TV" group-title="General" tvg-language="spa" tvg-quality="720p",Global TV
 http://187.102.210.46/GLOBAL/index.m3u8
@@ -4836,7 +4836,7 @@ http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
 https://stream.jc1.cz/hls/jc1.m3u8
 
 #EXTINF:-1 tvg-id="Jednotka.sk" tvg-name="Jednotka" group-title="General" tvg-language="slk" tvg-quality="1080p",Jednotka
-http://88.212.15.17/live/test_jednotka_25p/playlist.m3u8
+http://88.212.15.50/live/test_jednotka_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JeevanTV.in" tvg-name="Jeevan TV" group-title="General" tvg-language="mal" tvg-quality="576p",Jeevan TV
 https://cdn.pishow.tv/ott/live/1467/master.m3u8
@@ -5402,7 +5402,7 @@ https://ms7.mx-cd.net/tv/278-3414514/RTV_Lansingerland.smil/playlist.m3u8
 https://cloud5.larivision.net/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="LarivisionTV.do" tvg-name="Larivision TV" group-title="General" tvg-language="spa" tvg-quality="720p",Larivision TV
-https://live.larimartv.net/livelan/stream.m3u8
+https://live.larivision.net/livelan/live.m3u8
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" group-title="General" tvg-language="spa" tvg-quality="1080p",Las Estrellas
 http://45.189.151.7:8000/play/a07s
@@ -5722,7 +5722,7 @@ http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
 https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
 
 #EXTINF:-1 tvg-id="ManielTV.do" tvg-name="Maniel TV" group-title="General" tvg-language="spa" tvg-quality="720p",Maniel TV
-https://mp.panelchs.com/hls/8024/8024.m3u8
+https://5790d294af2dc.streamlock.net/manieltv/manieltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MarayTV.cl" tvg-name="Maray TV" group-title="General" tvg-language="spa" tvg-quality="576i",Maray TV
 https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8
@@ -7228,7 +7228,7 @@ http://ftp.orbita.dn.ua/hls/orbita.m3u8
 https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
 
 #EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" group-title="General" tvg-language="deu" tvg-quality="720p",ORF 2
-http://88.212.15.17/live/test_orf_zwei_tizen/playlist.m3u8
+http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OromarTV.ec" tvg-name="Oromar TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Oromar TV
 http://45.224.97.181:9999/Oromar/index.m3u8
@@ -9095,7 +9095,7 @@ http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8
 https://servilive.com:3263/live/channel12live.m3u8
 
 #EXTINF:-1 tvg-id="SuperDigitalTV.do" tvg-name="Super Digital TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Super Digital TV
-https://mp.panelchs.com/hls/8032/8032.m3u8
+https://cdn.streamrd.cloud/live/ch_kb5qe1zr.m3u8
 
 #EXTINF:-1 tvg-id="SuperPolsat.pl" tvg-name="Super Polsat" group-title="General" tvg-language="pol" tvg-quality="576i",Super Polsat
 http://92.114.85.87:8004/play/a00c/index.m3u8

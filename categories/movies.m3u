@@ -96,11 +96,11 @@ http://213.91.179.28:8000/play/a0by
 
 #EXTINF:-1 tvg-id="AMCEurope.uk" tvg-name="AMC Europe" group-title="Movies" tvg-language="eng" tvg-quality="576i",AMC Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/amc_hun/index.m3u8
+http://88.212.7.14/live/amc_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="AMCEurope.uk" tvg-name="AMC Europe" group-title="Movies" tvg-language="eng" tvg-quality="576i",AMC Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.17/live/test_amc_25p/playlist.m3u8
+http://88.212.7.14/live/test_amc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMCEurope.uk" tvg-name="AMC Europe" group-title="Movies" tvg-language="bul" tvg-quality="576p",AMC Europe
 http://hls127.freeott.top:8080/BG_AMC/video.m3u8
@@ -190,7 +190,7 @@ http://85.14.32.26:8800/udp/239.100.10.17:5000
 
 #EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" group-title="Movies" tvg-language="eng" tvg-quality="576i",AXN Black
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.17/live/test_black/playlist.m3u8
+http://88.212.15.50/live/test_black/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" group-title="Movies" tvg-language="bul" tvg-quality="576p",AXN Black
 http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8
@@ -205,11 +205,11 @@ http://85.11.144.9:4222/AXN
 
 #EXTINF:-1 tvg-id="AXNCEE.es" tvg-name="AXN CEE" group-title="Movies" tvg-language="eng;hun" tvg-quality="576i",AXN CEE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/axn_hun/index.m3u8
+http://88.212.15.50/live/axn_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="AXNCEE.es" tvg-name="AXN CEE" group-title="Movies" tvg-language="ces" tvg-quality="576i",AXN CEE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.17/live/test_axn/playlist.m3u8
+http://88.212.15.50/live/test_axn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AXNCEE.es" tvg-name="AXN CEE" group-title="Movies" tvg-language="eng" tvg-quality="576i",AXN CEE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -218,7 +218,7 @@ https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
 
 #EXTINF:-1 tvg-id="AXNCrime.us" tvg-name="AXN Crime" group-title="Movies" tvg-language="eng" tvg-quality="576i",AXN Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/viasat_film/index.m3u8
+http://88.212.7.14/live/viasat_film/index.m3u8
 
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" group-title="Movies" tvg-language="spa" tvg-quality="1080p",AXN Latin America
 http://138.121.15.230:9002/AXN/index.m3u8
@@ -632,13 +632,13 @@ http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
 https://cdn.qd.je/163189/cinemaworld
 
 #EXTINF:-1 tvg-id="Cinemax.cz" tvg-name="Cinemax" group-title="Movies" tvg-language="ces" tvg-quality="576i",Cinemax
-http://88.212.15.17/live/test_cinemax_hd_hevc/playlist.m3u8
+http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" group-title="Movies" tvg-language="eng;spa" tvg-quality="720p",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax2.cz" tvg-name="Cinemax 2" group-title="Movies" tvg-language="ces" tvg-quality="576i",Cinemax 2
-http://88.212.15.17/live/test_cinemax2_hd_hevc/playlist.m3u8
+http://88.212.15.50/live/test_cinemax2_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Cinemax Asia
 http://125.227.210.55:1001/VideoInput/play.ts
@@ -666,6 +666,9 @@ https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playl
 
 #EXTINF:-1 tvg-id="Cinevault80s.us" tvg-name="Cinevault 80s" group-title="Movies" tvg-language="eng" tvg-quality="540p",Cinevault 80s
 https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineWow.ro" tvg-name="CineWow" group-title="Movies" tvg-language="ron" tvg-quality="576i",CineWow
+https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="CineWow.ro" tvg-name="CineWow" group-title="Movies" tvg-language="ron" tvg-quality="576i",CineWow
 https://hls02ns.antenaplay.ro/hls/bollywood-clasic-sd/index.m3u8
@@ -780,7 +783,7 @@ https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8
 http://213.91.179.28:8000/play/a045
 
 #EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Dom kino
-http://88.212.15.17/live/test_dom_kino/playlist.m3u8
+http://88.212.15.50/live/test_dom_kino/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Dom kino
 http://stream.mcquack.net/236/index.m3u8
@@ -798,7 +801,7 @@ https://streaming.thestream.cyou/live/44.m3u8
 http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="DomkinoPremium.ru" tvg-name="Dom kino Premium" group-title="Movies" tvg-language="rus" tvg-quality="576p",Dom kino Premium
-http://88.212.15.17/live/test_dom_kino_premium/playlist.m3u8
+http://88.212.15.50/live/test_dom_kino_premium/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DomkinoPremium.ru" tvg-name="Dom kino Premium" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Dom kino Premium
 http://stream.mcquack.net/108/index.m3u8
@@ -888,7 +891,7 @@ http://200.115.120.1:8000/play/ca131/index.m3u8
 
 #EXTINF:-1 tvg-id="FilmCafe.hu" tvg-name="Film Cafe" group-title="Movies" tvg-language="hun" tvg-quality="576i",Film Cafe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/film_cafe/index.m3u8
+http://88.212.7.14/live/film_cafe/index.m3u8
 
 #EXTINF:-1 tvg-id="FilmCafe.hu" tvg-name="Film Cafe" group-title="Movies" tvg-language="rom" tvg-quality="576i",Film Cafe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -905,11 +908,11 @@ https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8
 
 #EXTINF:-1 tvg-id="FilmPlus.cz" tvg-name="Film+" group-title="Movies" tvg-language="ces" tvg-quality="576i",Film+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_film_plus_25p/playlist.m3u8
+http://88.212.15.50/live/test_film_plus_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FilmPlus.hu" tvg-name="Film+" group-title="Movies" tvg-language="hun" tvg-quality="576i",Film+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/film_plus_hun_atk/index.m3u8
+http://88.212.7.14/live/film_plus_hun_atk/index.m3u8
 
 #EXTINF:-1 tvg-id="Film1Action.nl" tvg-name="Film1 Action" group-title="Movies" tvg-language="eng;nld" tvg-quality="576i",Film1 Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -929,7 +932,7 @@ http://86.87.15.10:8008/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-id="Film4.hu" tvg-name="Film4" group-title="Movies" tvg-language="hun" tvg-quality="576i",Film4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/film4_hun/index.m3u8
+http://88.212.7.14/live/film4_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="Filmax.pk" tvg-name="Filmax" group-title="Movies" tvg-language="urd" tvg-quality="576p",Filmax
 https://s3.ideationtec.live/Filmax/Filmax.m3u8
@@ -942,11 +945,11 @@ http://92.114.85.87:8008/play/a007/index.m3u8
 
 #EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl" tvg-name="FILMBOX+ Comedy" group-title="Movies" tvg-language="cze" tvg-quality="576i",FILMBOX+ Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.17/live/test_filmbox_family_atk_1200/playlist.m3u8
+http://88.212.15.50/live/test_filmbox_family_atk_1200/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl" tvg-name="FILMBOX+ Comedy" group-title="Movies" tvg-language="hun" tvg-quality="576p",FILMBOX+ Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
+http://88.212.15.50/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl" tvg-name="FILMBOX+ Comedy" group-title="Movies" tvg-language="pol" tvg-quality="720p",FILMBOX+ Comedy
 http://92.114.85.87:8008/play/a009/index.m3u8
@@ -960,11 +963,11 @@ http://213.91.179.28:8000/play/a04r
 
 #EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl" tvg-name="FILMBOX+ Emotion" group-title="Movies" tvg-language="cze" tvg-quality="576i",FILMBOX+ Emotion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.17/live/test_film_boxextra_hd_hevc/playlist.m3u8
+http://88.212.15.50/live/test_film_boxextra_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl" tvg-name="FILMBOX+ Emotion" group-title="Movies" tvg-language="hun" tvg-quality="1080p",FILMBOX+ Emotion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
+http://88.212.15.50/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl" tvg-name="FILMBOX+ Emotion" group-title="Movies" tvg-language="pol" tvg-quality="720p",FILMBOX+ Emotion
 http://92.114.85.87:8008/play/a008/index.m3u8
@@ -991,13 +994,13 @@ https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://webtvstream.bhtelecom.ba/filmbox_arthouse.m3u8
 
-#EXTINF:-1 tvg-id="FILMBOXPlusHits.pl" tvg-name="FILMBOX+ Hits" group-title="Movies" tvg-language="eng" tvg-quality="720p",FILMBOX+ Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/fb_premium_hungary/index.m3u8
-
 #EXTINF:-1 tvg-id="FILMBOXPlusHits.pl" tvg-name="FILMBOX+ Hits" group-title="Movies" tvg-language="cze" tvg-quality="576i",FILMBOX+ Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.17/live/test_film_boxpremium_hd_hevc/playlist.m3u8
+http://88.212.15.50/live/test_film_boxpremium_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusHits.pl" tvg-name="FILMBOX+ Hits" group-title="Movies" tvg-language="eng" tvg-quality="720p",FILMBOX+ Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.7.14/live/fb_premium_hungary/index.m3u8
 
 #EXTINF:-1 tvg-id="FILMBOXPlusHits.pl" tvg-name="FILMBOX+ Hits" group-title="Movies" tvg-language="pol" tvg-quality="576i",FILMBOX+ Hits
 http://92.114.85.87:8008/play/a00a/index.m3u8
@@ -1020,11 +1023,11 @@ http://213.91.179.28:8000/play/a066
 
 #EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl" tvg-name="FILMBOX+ Love & Crime" group-title="Movies" tvg-language="cze" tvg-quality="720p",FILMBOX+ Love & Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.17/live/test_filmbox_plus_atk_1200/playlist.m3u8
+http://88.212.15.50/live/test_filmbox_plus_atk_1200/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl" tvg-name="FILMBOX+ Love & Crime" group-title="Movies" tvg-language="hun" tvg-quality="576i",FILMBOX+ Love & Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
+http://88.212.7.14/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl" tvg-name="FILMBOX+ Love & Crime" group-title="Movies" tvg-language="bul" tvg-quality="720p",FILMBOX+ Love & Crime
 http://hls127.freeott.top:8080/BG_FilmBox_Stars_HD/video.m3u8
@@ -1043,12 +1046,12 @@ http://213.91.179.28:8000/play/a06i
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-name="FILMBOX+ One" group-title="Movies" tvg-language="nld" tvg-quality="576i",FILMBOX+ One
 http://46.149.191.219:9100/play/a015
 
-#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-name="FILMBOX+ One" group-title="Movies" tvg-language="hun" tvg-quality="576i",FILMBOX+ One
-http://88.212.15.17/live/filmbox_hungary/index.m3u8
-
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-name="FILMBOX+ One" group-title="Movies" tvg-language="cze" tvg-quality="576i",FILMBOX+ One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.17/live/test_filmbox/playlist.m3u8
+http://88.212.15.50/live/test_filmbox/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-name="FILMBOX+ One" group-title="Movies" tvg-language="hun" tvg-quality="576i",FILMBOX+ One
+http://88.212.7.14/live/filmbox_hungary/index.m3u8
 
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl" tvg-name="FILMBOX+ One" group-title="Movies" tvg-language="bul" tvg-quality="576p",FILMBOX+ One
 http://hls127.freeott.top:8080/BG_Filmbox/video.m3u8
@@ -1251,13 +1254,13 @@ https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8
 https://stream.hrbtv.net/yspd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO.cz" tvg-name="HBO" group-title="Movies" tvg-language="ces" tvg-quality="576i",HBO
-http://88.212.15.17/live/test_hbo_hd_hevc/playlist.m3u8
+http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" group-title="Movies;Series" tvg-language="eng;spa" tvg-quality="720p",HBO
 http://tvsen7.aynascope.net/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2.cz" tvg-name="HBO 2" group-title="Movies" tvg-language="ces" tvg-quality="576i",HBO 2
-http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8
+http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 Latin America" group-title="Movies;Series" tvg-language="spa" tvg-quality="720p",HBO 2 Latin America
 http://15.204.246.24:8080/HBO2HD/index.m3u8
@@ -1270,7 +1273,7 @@ http://45.171.64.30:6060/play/a00i/index.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/hbo2/chunks.m3u8
 
 #EXTINF:-1 tvg-id="HBO3.cz" tvg-name="HBO 3" group-title="Movies" tvg-language="ces" tvg-quality="576i",HBO 3
-http://88.212.15.17/live/test_hbo3_hd_hevc/playlist.m3u8
+http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" group-title="Movies" tvg-language="cmn;eng" tvg-quality="1080p",HBO Asia
 http://125.227.210.55:1003/VideoInput/play.ts
@@ -1315,6 +1318,9 @@ https://homeplushls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="HorosheeKino.ru" tvg-name="Horoshee Kino" group-title="Movies" tvg-language="rus" tvg-quality="720p",Horoshee Kino
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HTVCMovies.vn" tvg-name="HTVC Movies" group-title="Movies;Series" tvg-language="vie" tvg-quality="720p",HTVC Movies
+https://dethich.pw/htvcphim/index.m3u8
 
 #EXTINF:-1 tvg-id="ICCplus.us" tvg-name="ICC plus" group-title="Movies" tvg-language="fas" tvg-quality="1080p",ICC plus
 https://icchls.wns.live/hls/stream.m3u8
@@ -1425,7 +1431,7 @@ http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 
 #EXTINF:-1 tvg-id="KinoBarrandov.cz" tvg-name="Kino Barrandov" group-title="Movies" tvg-language="ces" tvg-quality="576i",Kino Barrandov
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
+http://88.212.15.50/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KinoNova.bg" tvg-name="Kino Nova" group-title="Movies" tvg-language="bul" tvg-quality="576i",Kino Nova
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -1561,7 +1567,7 @@ https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 
 #EXTINF:-1 tvg-id="MagyarMoziTV.hu" tvg-name="Magyar Mozi TV" group-title="Movies" tvg-language="hun" tvg-quality="576i",Magyar Mozi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/mozi/index.m3u8
+http://88.212.7.14/live/mozi/index.m3u8
 
 #EXTINF:-1 tvg-id="MahaMovie.in" tvg-name="Maha Movie" group-title="Movies" tvg-language="hin" tvg-quality="576p",Maha Movie
 https://cdn.pishow.tv/ott/live/10007/master.m3u8
@@ -1756,11 +1762,11 @@ https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
 
 #EXTINF:-1 tvg-id="MoziPlus.hu" tvg-name="Mozi+" group-title="Movies" tvg-language="hun" tvg-quality="576i",Mozi+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/mozi_plusz/index.m3u8
+http://88.212.7.14/live/mozi_plusz/index.m3u8
 
 #EXTINF:-1 tvg-id="Moziverzum.hu" tvg-name="Moziverzum" group-title="Movies" tvg-language="hun" tvg-quality="576i",Moziverzum
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/moziverzum/index.m3u8
+http://88.212.7.14/live/moziverzum/index.m3u8
 
 #EXTINF:-1 tvg-id="MultiPremier.mx" tvg-name="MultiPremier" group-title="Movies" tvg-language="spa" tvg-quality="1080p",MultiPremier
 http://168.196.127.137:6001/play/a08n/index.m3u8
@@ -2572,6 +2578,9 @@ https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-s
 #EXTINF:-1 tvg-id="SensaCineTVxPluto.de" tvg-name="SensaCine TV x Pluto" group-title="Movies" tvg-language="spa" tvg-quality="720p",SensaCine TV x Pluto
 https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
 
+#EXTINF:-1 tvg-id="ServusTV.at" tvg-name="ServusTV" group-title="Movies" tvg-language="deu" tvg-quality="576p",ServusTV
+https://s6.hopslan.com/servuz1/index.m3u8
+
 #EXTINF:-1 tvg-id="ServusTV.at" tvg-name="ServusTV" group-title="Movies" tvg-language="deu" tvg-quality="1080p",ServusTV
 https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
 
@@ -3044,7 +3053,7 @@ https://dethich.pw/thvl3/index.m3u8
 http://38.134.250.110:8000/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerTV.cz" tvg-name="Warner TV" group-title="Movies" tvg-language="ces" tvg-quality="576i",Warner TV
-http://88.212.15.17/live/warner_tv/index.m3u8
+http://88.212.15.50/live/warner_tv/index.m3u8
 
 #EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-name="Warner TV Asia" group-title="Movies" tvg-language="eng" tvg-quality="720p",Warner TV Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36

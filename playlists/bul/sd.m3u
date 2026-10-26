@@ -221,7 +221,7 @@ http://213.91.179.28:8000/play/a0cs
 http://213.91.179.28:8000/play/a0cr
 
 #EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" group-title="Outdoor" tvg-language="bul;ces;hun;ron" tvg-quality="576i",The Fishing & Hunting Channel
-http://88.212.15.17/live/test_fishing_hunting/playlist.m3u8
+http://88.212.7.14/live/test_fishing_hunting/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TiankovFolk.bg" tvg-name="Tiankov Folk" group-title="Music" tvg-language="bul" tvg-quality="576p",Tiankov Folk
 https://streamer103.neterra.tv/tiankov-folk/live.m3u8

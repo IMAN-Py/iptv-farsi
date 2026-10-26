@@ -4,7 +4,7 @@
 
 Browse live sports channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**419 channels · 728 stream entries**
+**420 channels · 730 stream entries**
 
 ## All languages
 
@@ -59,7 +59,7 @@ https://iman-py.github.io/open-tv-atlas/categories/sports.m3u
 | [Norwegian](../playlists/nor/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/sports.m3u` |
 | [Polish](../playlists/pol/README.md) | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sports.m3u` |
 | [Portuguese](../playlists/por/README.md) | 20 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sports.m3u` |
-| [Romanian](../playlists/ron/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sports.m3u` |
+| [Romanian](../playlists/ron/README.md) | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sports.m3u` |
 | [Russian](../playlists/rus/README.md) | 30 | 61 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sports.m3u` |
 | [Serbian](../playlists/srp/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/srp/sports.m3u` |
 | [sgn](../playlists/sgn/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/sgn/sports.m3u` |
@@ -76,7 +76,7 @@ https://iman-py.github.io/open-tv-atlas/categories/sports.m3u
 | [Ukrainian](../playlists/ukr/README.md) | 14 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/sports.m3u` |
 | [Urdu](../playlists/urd/README.md) | 3 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/sports.m3u` |
 | [Uzbek](../playlists/uzb/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/uzb/sports.m3u` |
-| [Vietnamese](../playlists/vie/README.md) | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/sports.m3u` |
+| [Vietnamese](../playlists/vie/README.md) | 4 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/sports.m3u` |
 
 ## How to use this playlist
 

@@ -130,7 +130,7 @@ https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
 http://93.78.206.172:8080/stream3/stream.m3u8
 
 #EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Muzyka Pervogo" group-title="Music" tvg-language="rus;ukr" tvg-quality="576p",Muzyka Pervogo
-http://88.212.15.17/live/test_muzyka_pervogo/playlist.m3u8
+http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Muzyka Pervogo" group-title="Music" tvg-language="rus;ukr" tvg-quality="576p",Muzyka Pervogo
 http://stream.mcquack.net/153/index.m3u8
@@ -161,7 +161,7 @@ https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
 
 #EXTINF:-1 tvg-id="OTV.ee" tvg-name="OTV" group-title="Entertainment" tvg-language="rus;ukr" tvg-quality="576i",OTV
-http://88.212.15.17/live/otv/playlist.m3u8
+http://88.212.7.14/live/otv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OTV.ua" tvg-name="OTV" group-title="Uncategorized" tvg-language="ukr" tvg-quality="576i",OTV
 https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8

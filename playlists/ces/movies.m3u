@@ -1,31 +1,31 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AXNCEE.es" tvg-name="AXN CEE" group-title="Movies" tvg-language="ces" tvg-quality="576i",AXN CEE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.17/live/test_axn/playlist.m3u8
+http://88.212.15.50/live/test_axn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.cz" tvg-name="Cinemax" group-title="Movies" tvg-language="ces" tvg-quality="576i",Cinemax
-http://88.212.15.17/live/test_cinemax_hd_hevc/playlist.m3u8
+http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax2.cz" tvg-name="Cinemax 2" group-title="Movies" tvg-language="ces" tvg-quality="576i",Cinemax 2
-http://88.212.15.17/live/test_cinemax2_hd_hevc/playlist.m3u8
+http://88.212.15.50/live/test_cinemax2_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FilmPlus.cz" tvg-name="Film+" group-title="Movies" tvg-language="ces" tvg-quality="576i",Film+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_film_plus_25p/playlist.m3u8
+http://88.212.15.50/live/test_film_plus_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO.cz" tvg-name="HBO" group-title="Movies" tvg-language="ces" tvg-quality="576i",HBO
-http://88.212.15.17/live/test_hbo_hd_hevc/playlist.m3u8
+http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO2.cz" tvg-name="HBO 2" group-title="Movies" tvg-language="ces" tvg-quality="576i",HBO 2
-http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8
+http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO3.cz" tvg-name="HBO 3" group-title="Movies" tvg-language="ces" tvg-quality="576i",HBO 3
-http://88.212.15.17/live/test_hbo3_hd_hevc/playlist.m3u8
+http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KinoBarrandov.cz" tvg-name="Kino Barrandov" group-title="Movies" tvg-language="ces" tvg-quality="576i",Kino Barrandov
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
+http://88.212.15.50/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WarnerTV.cz" tvg-name="Warner TV" group-title="Movies" tvg-language="ces" tvg-quality="576i",Warner TV
-http://88.212.15.17/live/warner_tv/index.m3u8
+http://88.212.15.50/live/warner_tv/index.m3u8
 

@@ -526,7 +526,7 @@ https://tvsen6.aynaott.com/cnn/index.m3u8
 http://168.228.44.241:9997/play/a073/index.m3u8
 
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" group-title="News" tvg-language="eng" tvg-quality="576i",CNN International
-http://88.212.15.17/live/test_cnn_1200_atk/playlist.m3u8
+http://88.212.15.50/live/test_cnn_1200_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" group-title="News" tvg-language="eng" tvg-quality="1080p",CNN International
 https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8

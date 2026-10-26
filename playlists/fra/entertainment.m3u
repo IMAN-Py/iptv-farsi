@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",6ter
+http://149.62.177.107:9999/6ter/index.m3u8
+
 #EXTINF:-1 tvg-id="arte.fr" tvg-name="arte" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 
@@ -84,9 +87,6 @@ https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-id="RTNBDivertissement.bi" tvg-name="RTNB Divertissement" group-title="Entertainment" tvg-language="eng;fra;run;swa" tvg-quality="576i",RTNB Divertissement
 https://tv2-stream.rtnb.bi/hls/master.m3u8
-
-#EXTINF:-1 tvg-id="SciFi.fr" tvg-name="SciFi" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",SciFi
-http://41.205.93.154/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="TalTV.ne" tvg-name="Tal TV" group-title="Entertainment" tvg-language="dje;fra;hau;tmh" tvg-quality="1080p",Tal TV
 https://mediaserver1.castpin.com/hls/taltv/index.m3u8

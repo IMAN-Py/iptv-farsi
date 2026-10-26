@@ -1,23 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" group-title="Animation;Kids" tvg-language="ces" tvg-quality="576i",Cartoon Network CEE
-http://88.212.15.17/live/test_cartoon_network_tizen/playlist.m3u8
+http://88.212.7.14/live/test_cartoon_network_tizen/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk" tvg-name="Cartoonito CEE" group-title="Kids" tvg-language="ces" tvg-quality="576i",Cartoonito CEE
-http://88.212.15.17/live/test_boomerang_tizen/playlist.m3u8
+http://88.212.7.14/live/test_boomerang_tizen/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CTDecko.cz" tvg-name="CT Decko" group-title="Kids" tvg-language="ces" tvg-quality="1080p",CT Decko
-http://88.212.15.17/live/ct_art_avc_25p/playlist.m3u8
+http://88.212.15.50/live/ct_art_avc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.cz" tvg-name="Disney Channel" group-title="Kids" tvg-language="ces" tvg-quality="576i",Disney Channel
-http://88.212.15.17/live/test_disney/playlist.m3u8
+http://88.212.15.50/live/test_disney/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.hu" tvg-name="Disney Channel" group-title="Kids" tvg-language="ces;hun" tvg-quality="576i",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/disney_channel_hun/index.m3u8
+http://88.212.7.14/live/disney_channel_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJunior.cz" tvg-name="Disney Junior" group-title="Kids" tvg-language="ces" tvg-quality="576i",Disney Junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_disney_junior/playlist.m3u8
+http://88.212.15.50/live/test_disney_junior/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" group-title="Kids" tvg-language="ces;eng;heb;por;slk" tvg-quality="576p",JimJam Europe
 http://158.160.149.81:8080/269/index.m3u8
@@ -30,8 +30,8 @@ http://stream.mcquack.net/150/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.cz" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ces" tvg-quality="576i",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_nickelodeon_hevc_25p/playlist.m3u8
+http://88.212.15.50/live/test_nickelodeon_hevc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.cz" tvg-name="Nicktoons" group-title="Kids" tvg-language="ces;hun" tvg-quality="576i",Nicktoons
-http://88.212.15.17/live/test_nicktoons/playlist.m3u8
+http://88.212.15.50/live/test_nicktoons/playlist.m3u8
 

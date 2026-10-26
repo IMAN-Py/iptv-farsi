@@ -43,7 +43,7 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 
 #EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl" tvg-name="FILMBOX+ Emotion" group-title="Movies" tvg-language="hun" tvg-quality="1080p",FILMBOX+ Emotion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
+http://88.212.15.50/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FIXTV.hu" tvg-name="FIX TV" group-title="Uncategorized" tvg-language="hun" tvg-quality="720p",FIX TV
 https://fixhd.tv:8082/fix/1080i/playlist.m3u8
@@ -62,7 +62,7 @@ https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u
 
 #EXTINF:-1 tvg-id="IzauraTV.hu" tvg-name="Izaura TV" group-title="Entertainment" tvg-language="hun" tvg-quality="1080p",Izaura TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/izaura/index.m3u8
+http://88.212.7.14/live/izaura/index.m3u8
 
 #EXTINF:-1 tvg-id="KaposTV.hu" tvg-name="Kapos TV" group-title="General" tvg-language="hun" tvg-quality="1080p",Kapos TV
 https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
@@ -93,17 +93,17 @@ https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
 
 #EXTINF:-1 tvg-id="M1.hu" tvg-name="M1" group-title="News" tvg-language="hun" tvg-quality="1080i",M1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_m_1_hungary_1200_atk/playlist.m3u8
+http://88.212.7.14/live/test_m_1_hungary_1200_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="M2.hu" tvg-name="M2" group-title="Entertainment" tvg-language="hun" tvg-quality="1080p",M2
-http://88.212.15.17/live/m2_hun/index.m3u8
+http://88.212.7.14/live/m2_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="M4Sport.hu" tvg-name="M4 Sport" group-title="Sports" tvg-language="hun" tvg-quality="1080p",M4 Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/uatlmvixrr/index.m3u8
+http://88.212.7.14/live/uatlmvixrr/index.m3u8
 
 #EXTINF:-1 tvg-id="M5.hu" tvg-name="M5" group-title="Education" tvg-language="hun" tvg-quality="1080p",M5
-http://88.212.15.17/live/test_m_5_hun_atk_1200/playlist.m3u8
+http://88.212.7.14/live/test_m_5_hun_atk_1200/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Match4.hu" tvg-name="Match4" group-title="Sports" tvg-language="hun" tvg-quality="1080p",Match4
 http://141.94.193.53:80/Match4_HD/index.m3u8
@@ -158,7 +158,7 @@ https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" group-title="Outdoor" tvg-language="bul;ces;hun;ron" tvg-quality="1080i",The Fishing & Hunting Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/fishing_hun/index.m3u8
+http://88.212.7.14/live/fishing_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="TrimedioTV.hu" tvg-name="Trimedio TV" group-title="General" tvg-language="hun" tvg-quality="1080p",Trimedio TV
 https://stream.streaming4u.hu/TriMedioTV/index.m3u8

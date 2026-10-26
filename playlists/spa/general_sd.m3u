@@ -237,9 +237,6 @@ https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalProvincial.ar" tvg-name="Canal Provincial" group-title="General" tvg-language="spa" tvg-quality="360p",Canal Provincial
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 
-#EXTINF:-1 tvg-id="CanalSur.es" tvg-name="Canal Sur" group-title="General;Public" tvg-language="spa" tvg-quality="576i",Canal Sur
-https://cdn.stmify.com/zapitv/stream/CANAL_SUR/canal_sur_hd.mpd
-
 #EXTINF:-1 tvg-id="CanalTRV.sv" tvg-name="Canal TRV" group-title="General" tvg-language="spa" tvg-quality="576p",Canal TRV
 https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
 

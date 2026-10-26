@@ -3,45 +3,45 @@
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.hu" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="hun" tvg-quality="576i",Discovery Channel
-http://88.212.15.17/live/discovery_hungary/index.m3u8
+http://88.212.7.14/live/discovery_hungary/index.m3u8
 
 #EXTINF:-1 tvg-id="FEM3.hu" tvg-name="FEM3" group-title="Entertainment" tvg-language="hun" tvg-quality="576i",FEM3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_fem3_atktv/playlist.m3u8
+http://88.212.7.14/live/test_fem3_atktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GolyaTV.hu" tvg-name="Golya TV" group-title="Entertainment" tvg-language="hun" tvg-quality="480p",Golya TV
 https://stream.streaming4u.hu/GolyaTV/index.m3u8
 
 #EXTINF:-1 tvg-id="IzauraTV.hu" tvg-name="Izaura TV" group-title="Entertainment" tvg-language="hun" tvg-quality="1080p",Izaura TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/izaura/index.m3u8
+http://88.212.7.14/live/izaura/index.m3u8
 
 #EXTINF:-1 tvg-id="JockyTV.hu" tvg-name="Jocky TV" group-title="Entertainment" tvg-language="hun" tvg-quality="576i",Jocky TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/jocky/index.m3u8
+http://88.212.7.14/live/jocky/index.m3u8
 
 #EXTINF:-1 tvg-id="LifeTV.hu" tvg-name="Life TV" group-title="Entertainment" tvg-language="hun" tvg-quality="576i",Life TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/lifetv/index.m3u8
+http://88.212.7.14/live/lifetv/index.m3u8
 
 #EXTINF:-1 tvg-id="M2.hu" tvg-name="M2" group-title="Entertainment" tvg-language="hun" tvg-quality="1080p",M2
-http://88.212.15.17/live/m2_hun/index.m3u8
+http://88.212.7.14/live/m2_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="Moziklub.hu" tvg-name="Moziklub" group-title="Entertainment" tvg-language="hun" tvg-quality="576i",Moziklub
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/moziklub_atk/index.m3u8
+http://88.212.7.14/live/moziklub_atk/index.m3u8
 
 #EXTINF:-1 tvg-id="RTLOtthon.hu" tvg-name="RTL Otthon" group-title="Entertainment" tvg-language="hun" tvg-quality="576i",RTL Otthon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/rtl_otthon_atk/index.m3u8
+http://88.212.7.14/live/rtl_otthon_atk/index.m3u8
 
 #EXTINF:-1 tvg-id="Sorozatklub.hu" tvg-name="Sorozatklub" group-title="Entertainment" tvg-language="hun" tvg-quality="576i",Sorozatklub
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/sorozatklub_atk/index.m3u8
+http://88.212.7.14/live/sorozatklub_atk/index.m3u8
 
 #EXTINF:-1 tvg-id="SpektrumHome.hu" tvg-name="Spektrum Home" group-title="Entertainment" tvg-language="hun" tvg-quality="576i",Spektrum Home
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/spektrum_home_hun/index.m3u8
+http://88.212.7.14/live/spektrum_home_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="ZugloTV.hu" tvg-name="Zuglo TV" group-title="Entertainment" tvg-language="hun" tvg-quality="360p",Zuglo TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8

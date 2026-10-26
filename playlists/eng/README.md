@@ -4,7 +4,7 @@
 
 Find free English live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2481 channels · 4426 stream entries**
+**2481 channels · 4427 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 4426 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
-| HD | 3320 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
+| All channels | 4427 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
+| HD | 3321 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
 | SD / unknown | 1106 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
 
 <a id="categories"></a>
@@ -28,12 +28,12 @@ Each list combines this language with a source category. Counts are stream entri
 | Sports | 145 | 319 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
 | Movies | 170 | 271 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/movies.m3u` |
 | News | 191 | 450 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/news.m3u` |
-| Music | 164 | 257 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/music.m3u` |
-| Kids | 136 | 235 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/kids.m3u` |
+| Music | 163 | 256 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/music.m3u` |
+| Kids | 137 | 236 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/kids.m3u` |
 | Documentary | 87 | 179 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/documentary.m3u` |
 | Series | 207 | 487 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/series.m3u` |
 | Entertainment | 227 | 364 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/entertainment.m3u` |
-| Animation | 51 | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/animation.m3u` |
+| Animation | 51 | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/animation.m3u` |
 | Auto | 14 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/auto.m3u` |
 | Business | 24 | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/business.m3u` |
 | Classic | 50 | 76 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/classic.m3u` |
@@ -215,7 +215,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Animal Planet | AnimalPlanet.in | 720p | 2 |
 | Animal Planet | AnimalPlanet.us | 720p | 2 |
 | Animation+ | AnimationPlus.us | 1080p | 1 |
-| Animax Asia | AnimaxAsia.sg | 1080p | 1 |
+| Animax Asia | AnimaxAsia.sg | 1080p, 480i | 2 |
 | Anime x HIDIVE | AnimexHIDIVE.us | 1080p, 720p | 2 |
 | Aniplus Asia | AniplusAsia.sg | 720p | 1 |
 | Anthony Bourdain: Parts Unknown | AnthonyBourdainPartsUnknown.us | 576i | 1 |
@@ -717,7 +717,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | DHA | DHA.tr | 720p | 1 |
 | Diagnosis Murder | DiagnosisMurder.se | 720p | 3 |
 | Dijlah TV | DijlahTV.iq | 1080p | 1 |
-| Disco Mix | DiscoMix.ro | 576p | 1 |
 | Discovering China | DiscoveringChina.cn | 1080p | 2 |
 | Discovery Asia Taiwan | DiscoveryAsiaTaiwan.tw | 1080p | 1 |
 | Discovery Channel | DiscoveryChannel.in | 720p | 2 |
@@ -733,6 +732,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Disney Junior | DisneyJunior.in | 576p | 1 |
 | Disney Junior | DisneyJunior.ro | 576i | 1 |
 | Disney Junior | DisneyJunior.us | 480p, 576p | 5 |
+| Disney XD | DisneyXD.us | 1080p | 1 |
 | District of Columbia Network | DistrictofColumbiaNetwork.us | 1080p | 1 |
 | Distrito Comedia | DistritoComedia.mx | 1080p | 4 |
 | Diya TV | DiyaTV.us | 1080p | 1 |

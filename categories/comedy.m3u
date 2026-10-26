@@ -804,7 +804,7 @@ https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
 
 #EXTINF:-1 tvg-id="TV2Comedy.hu" tvg-name="TV2 Comedy" group-title="Comedy" tvg-language="hun" tvg-quality="576i",TV2 Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/tv2_comedy/index.m3u8
+http://88.212.7.14/live/tv2_comedy/index.m3u8
 
 #EXTINF:-1 tvg-id="TVMaticComedy.br" tvg-name="TVMatic Comedy" group-title="Comedy" tvg-language="por" tvg-quality="720p",TVMatic Comedy
 http://cdn.tvmatic.net/comedy.m3u8

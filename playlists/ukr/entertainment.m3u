@@ -37,7 +37,7 @@ http://stream.mcquack.net/157/index.m3u8
 http://stream.mcquack.net/329/index.m3u8
 
 #EXTINF:-1 tvg-id="OTV.ee" tvg-name="OTV" group-title="Entertainment" tvg-language="rus;ukr" tvg-quality="576i",OTV
-http://88.212.15.17/live/otv/playlist.m3u8
+http://88.212.7.14/live/otv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sonce.ua" tvg-name="Sonce" group-title="Entertainment" tvg-language="ukr" tvg-quality="576i",Sonce
 #EXTVLCOPT:http-user-agent=curl/8.16.0

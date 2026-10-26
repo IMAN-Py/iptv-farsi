@@ -17,8 +17,14 @@ https://dethich.pw/htv2/index.m3u8
 #EXTINF:-1 tvg-id="HTV3.vn" tvg-name="HTV3" group-title="Entertainment;General;Series" tvg-language="vie" tvg-quality="720p",HTV3
 https://dethich.pw/htv3/index.m3u8
 
+#EXTINF:-1 tvg-id="ONVieDramas.vn" tvg-name="ON Vie Dramas" group-title="Entertainment" tvg-language="vie" tvg-quality="1080i",ON Vie Dramas
+https://freem3u.xyz/api/live/play.m3u8?vid=177
+
 #EXTINF:-1 tvg-id="ONVieGiaiTri.vn" tvg-name="ON Vie Giai Tri" group-title="Entertainment" tvg-language="vie" tvg-quality="1080p",ON Vie Giai Tri
 https://freem3u.xyz/api/live/play.m3u8?vid=180
+
+#EXTINF:-1 tvg-id="ONVieGiaiTri.vn" tvg-name="ON Vie Giai Tri" group-title="Entertainment" tvg-language="vie" tvg-quality="1080i",ON Vie Giai Tri
+https://tv.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd
 
 #EXTINF:-1 tvg-id="TraVinhTV.vn" tvg-name="Tra Vinh TV" group-title="Culture;Entertainment;Music;News" tvg-language="vie" tvg-quality="720p",Tra Vinh TV
 https://dethich.pw/thvl5/index.m3u8

@@ -139,7 +139,7 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 https://cdn.pishow.tv/ott/live/1211/master.m3u8
 
 #EXTINF:-1 tvg-id="24.sk" tvg-name=":24" group-title="News" tvg-language="slk" tvg-quality="1080p",:24
-http://88.212.15.17/live/test_trojka_25p/playlist.m3u8
+http://88.212.15.50/live/test_trojka_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber" group-title="News" tvg-language="tur" tvg-quality="1080p",A Haber
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
@@ -1634,7 +1634,7 @@ https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3
 http://168.228.44.241:9997/play/a073/index.m3u8
 
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" group-title="News" tvg-language="eng" tvg-quality="576i",CNN International
-http://88.212.15.17/live/test_cnn_1200_atk/playlist.m3u8
+http://88.212.15.50/live/test_cnn_1200_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" group-title="News" tvg-language="eng" tvg-quality="1080p",CNN International
 https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8
@@ -1655,7 +1655,7 @@ https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/a
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 
 #EXTINF:-1 tvg-id="CNNPrimaNews.cz" tvg-name="CNN Prima News" group-title="News" tvg-language="ces" tvg-quality="1080p",CNN Prima News
-http://88.212.15.17/live/test_cnn_pirma_news/playlist.m3u8
+http://88.212.15.50/live/test_cnn_pirma_news/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-name="Conecta2TV" group-title="News" tvg-language="spa" tvg-quality="720p",Conecta2TV
 https://live.obslivestream.com/conecta2/index.m3u8
@@ -1685,7 +1685,7 @@ https://streaming.televizor-24-tochka.ru/live/28.m3u8
 https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CT24.cz" tvg-name="CT24" group-title="News" tvg-language="ces" tvg-quality="1080p",CT24
-http://88.212.15.17/live/test_ct24_hevc/playlist.m3u8
+http://88.212.15.50/live/test_ct24_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CT24.cz" tvg-name="CT24" group-title="News" tvg-language="ces" tvg-quality="576i",CT24
 https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
@@ -2893,6 +2893,9 @@ https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
 #EXTINF:-1 tvg-id="LatinaNoticias247.pe" tvg-name="Latina Noticias 24/7" group-title="News" tvg-language="spa" tvg-quality="720p",Latina Noticias 24/7
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" group-title="News" tvg-language="fra" tvg-quality="576i",LCI
+http://149.62.177.107:9999/LCI/index.m3u8
+
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" group-title="News" tvg-language="fra" tvg-quality="1080p",LCI
 http://151.80.18.177:86/LCI_HD/index.m3u8
 
@@ -2992,7 +2995,7 @@ https://live.mnet.mk/hls/mnet-info.m3u8
 
 #EXTINF:-1 tvg-id="M1.hu" tvg-name="M1" group-title="News" tvg-language="hun" tvg-quality="1080i",M1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_m_1_hungary_1200_atk/playlist.m3u8
+http://88.212.7.14/live/test_m_1_hungary_1200_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="M95TelevisionMarbella.es" tvg-name="M95 Television Marbella" group-title="News" tvg-language="spa" tvg-quality="1080p",M95 Television Marbella
 https://limited2.todostreaming.es/live/m95-livestream.m3u8

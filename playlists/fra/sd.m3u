@@ -7,6 +7,9 @@ https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz25
 #EXTINF:-1 tvg-id="3ABNFrench.us" tvg-name="3ABN French" group-title="Religious" tvg-language="fra" tvg-quality="480i",3ABN French
 https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",6ter
+http://149.62.177.107:9999/6ter/index.m3u8
+
 #EXTINF:-1 tvg-id="7Info.ci" tvg-name="7 Info" group-title="News" tvg-language="fra" tvg-quality="576i",7 Info
 https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
 
@@ -299,6 +302,9 @@ http://51.254.199.122:8080/kin24/index.m3u8
 
 #EXTINF:-1 tvg-id="KTO.fr" tvg-name="KTO" group-title="Religious" tvg-language="fra" tvg-quality="404p",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" group-title="News" tvg-language="fra" tvg-quality="576i",LCI
+http://149.62.177.107:9999/LCI/index.m3u8
 
 #EXTINF:-1 tvg-id="LCN.ca" tvg-name="LCN" group-title="News" tvg-language="fra" tvg-quality="480i",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8

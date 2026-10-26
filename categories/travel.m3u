@@ -226,7 +226,7 @@ https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 
 #EXTINF:-1 tvg-id="TurismoRDTV.do" tvg-name="Turismo RDTV" group-title="Travel" tvg-language="spa" tvg-quality="720p",Turismo RDTV
-https://streamunoapp.com:3086/live/telemileniolive.m3u8
+https://5790d294af2dc.streamlock.net/yosoyturismotv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TurismoTravelTV.cl" tvg-name="Turismo Travel TV" group-title="Travel" tvg-language="spa" tvg-quality="480i",Turismo Travel TV
 https://stmv3.voxtvhd.com.br/turismotraveltv/turismotraveltv/playlist.m3u8
@@ -239,11 +239,11 @@ https://edge.enhdtv.com/tvoff/index.m3u8
 
 #EXTINF:-1 tvg-id="TVPaprika.cz" tvg-name="TV Paprika" group-title="Lifestyle;Travel" tvg-language="ces" tvg-quality="576i",TV Paprika
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_parpika_tv_sd_hevc/playlist.m3u8
+http://88.212.15.50/live/test_parpika_tv_sd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVPaprika.hu" tvg-name="TV Paprika" group-title="Lifestyle;Travel" tvg-language="hun" tvg-quality="576i",TV Paprika
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/parpika_hun/index.m3u8
+http://88.212.7.14/live/parpika_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="TVPaprika.ro" tvg-name="TV Paprika" group-title="Lifestyle;Travel" tvg-language="ron" tvg-quality="576i",TV Paprika
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18

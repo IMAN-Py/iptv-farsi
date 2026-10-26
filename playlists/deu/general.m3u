@@ -216,7 +216,7 @@ https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
 
 #EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" group-title="General" tvg-language="deu" tvg-quality="720p",ORF 2
-http://88.212.15.17/live/test_orf_zwei_tizen/playlist.m3u8
+http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
 
 #EXTINF:-1 tvg-id="P3tv.at" tvg-name="P3tv" group-title="General" tvg-language="deu" tvg-quality="720p",P3tv
 http://p3-6.mov.at:1935/live/weekstream/master.m3u8

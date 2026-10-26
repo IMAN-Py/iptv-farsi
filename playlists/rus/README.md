@@ -4,7 +4,7 @@
 
 Find free Russian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**582 channels · 1358 stream entries**
+**583 channels · 1359 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1358 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
-| HD | 505 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
+| All channels | 1359 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
+| HD | 506 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
 | SD / unknown | 853 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
 
 <a id="categories"></a>
@@ -387,6 +387,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Okhota i rybalka | Okhotairybalka.ru | 576i, 576p | 2 |
 | Okko Futbol | OkkoFutbol.ru | 576p | 1 |
 | Okko Prajm Sport | OkkoPrajmSport.ru | 1080p | 1 |
+| Oplot 2 | Oplot2.ru | 720p | 1 |
 | Oplot TV | OplotTV.ru | 1080p | 2 |
 | Osetiya-Iryston | OsetiyaIryston.ru | 1080p | 1 |
 | Osh Pirim | OshPirim.kg | 1080p | 1 |

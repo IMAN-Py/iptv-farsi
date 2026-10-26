@@ -17,6 +17,9 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8
 #EXTINF:-1 tvg-id="AmarinTV.th" tvg-name="Amarin TV" group-title="Entertainment" tvg-language="tha" tvg-quality="576i",Amarin TV
 https://live-us1.thaimomo.com/live-as/chamarin-3/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-name="Animax Asia" group-title="Animation" tvg-language="eng;jpn;tha" tvg-quality="480i",Animax Asia
+http://125.227.210.55:3056/VideoInput/play.ts
+
 #EXTINF:-1 tvg-id="BaanBaanTV73.th" tvg-name="Baan Baan TV 73" group-title="Uncategorized" tvg-language="tha" tvg-quality="576i",Baan Baan TV 73
 https://vdo.plathong.net/live8794/live8794/playlist.m3u8
 

@@ -23,6 +23,9 @@ https://oj7lnxonyg82-hls-live.5centscdn.com/uks/24263a839810d2041a349baaeef36a79
 #EXTINF:-1 tvg-id="AathavanTV.uk" tvg-name="Aathavan TV" group-title="Entertainment" tvg-language="tam" tvg-quality="720p",Aathavan TV
 https://yuppmumfta1.vgcdn.net/211125/athvantv/manifest.mpd
 
+#EXTINF:-1 tvg-id="AMNTV.in" tvg-name="AMN TV" group-title="General" tvg-language="tam" tvg-quality="576p",AMN TV
+https://live.onecloudlive.in/amn/amntv/index.m3u8
+
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="eng;ind;tam" tvg-quality="720p",Angel TV
 https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
 

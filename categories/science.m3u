@@ -70,7 +70,7 @@ http://stream.mcquack.net/403/index.m3u8
 
 #EXTINF:-1 tvg-id="OzoneTV.hu" tvg-name="Ozone TV" group-title="Science" tvg-language="hun" tvg-quality="576i",Ozone TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/ozone/index.m3u8
+http://88.212.7.14/live/ozone/index.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVScience.us" tvg-name="Pluto TV Science" group-title="Documentary;Science" tvg-language="eng" tvg-quality="480i",Pluto TV Science
 https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8

@@ -4,7 +4,7 @@
 
 Browse live family channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**48 channels · 99 stream entries**
+**49 channels · 100 stream entries**
 
 ## All languages
 
@@ -36,6 +36,7 @@ https://iman-py.github.io/open-tv-atlas/categories/family.m3u
 | [Spanish](../playlists/spa/README.md) | 12 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/family.m3u` |
 | [Tamil](../playlists/tam/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/family.m3u` |
 | [Uzbek](../playlists/uzb/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/uzb/family.m3u` |
+| [Vietnamese](../playlists/vie/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/family.m3u` |
 
 ## How to use this playlist
 

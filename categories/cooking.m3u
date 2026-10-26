@@ -86,7 +86,7 @@ https://mumbai-edge.smartplaytv.in/FoodFood/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetwork.hu" tvg-name="Food Network" group-title="Cooking" tvg-language="hun" tvg-quality="576i",Food Network
-http://88.212.15.17/live/fn_hungary/index.m3u8
+http://88.212.7.14/live/fn_hungary/index.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="Food Network" group-title="Cooking" tvg-language="ita" tvg-quality="1080p",Food Network
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
@@ -245,7 +245,7 @@ https://tm-tmtar-xumo.amagi.tv/playlist.m3u8
 http://31.148.48.15/Telekafe/index.m3u8
 
 #EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" group-title="Cooking" tvg-language="rus" tvg-quality="576p",Telecafe
-http://88.212.15.17/live/test_telecafe_tv/playlist.m3u8
+http://88.212.15.50/live/test_telecafe_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" group-title="Cooking" tvg-language="rus" tvg-quality="576p",Telecafe
 http://stream.mcquack.net/314/index.m3u8

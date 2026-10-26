@@ -545,9 +545,6 @@ https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
 #EXTINF:-1 tvg-id="CanalSantaMaria.ar" tvg-name="Canal Santa Maria" group-title="Religious" tvg-language="spa" tvg-quality="360p",Canal Santa Maria
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 
-#EXTINF:-1 tvg-id="CanalSur.es" tvg-name="Canal Sur" group-title="General;Public" tvg-language="spa" tvg-quality="576i",Canal Sur
-https://cdn.stmify.com/zapitv/stream/CANAL_SUR/canal_sur_hd.mpd
-
 #EXTINF:-1 tvg-id="CanalSurNoticias.es" tvg-name="Canal Sur Noticias" group-title="News;Public" tvg-language="spa" tvg-quality="576i",Canal Sur Noticias
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 
@@ -2042,6 +2039,9 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TNTseries.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="spa" tvg-quality="480p",Tooncast
 http://190.61.42.218:9000/play/a06i/index.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="spa" tvg-quality="480i",Tooncast
+http://45.173.231.22:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="TopTV.pe" tvg-name="Top TV" group-title="General" tvg-language="spa" tvg-quality="240p",Top TV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8

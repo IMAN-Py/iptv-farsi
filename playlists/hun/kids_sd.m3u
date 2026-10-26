@@ -4,19 +4,19 @@ https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.hu" tvg-name="Disney Channel" group-title="Kids" tvg-language="ces;hun" tvg-quality="576i",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/disney_channel_hun/index.m3u8
+http://88.212.7.14/live/disney_channel_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="JimJam.hu" tvg-name="JimJam" group-title="Kids" tvg-language="eng;hun" tvg-quality="576i",JimJam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/jim_jam_hun/index.m3u8
+http://88.212.7.14/live/jim_jam_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="Kolyokklub.hu" tvg-name="Kolyokklub" group-title="Kids" tvg-language="hun" tvg-quality="576i",Kolyokklub
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/kolyokklub_atk/index.m3u8
+http://88.212.7.14/live/kolyokklub_atk/index.m3u8
 
 #EXTINF:-1 tvg-id="Minimax.hu" tvg-name="Minimax" group-title="Kids" tvg-language="hun" tvg-quality="576i",Minimax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/minimax_hun/index.m3u8
+http://88.212.7.14/live/minimax_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="Minimax.ro" tvg-name="Minimax" group-title="Animation;Kids" tvg-language="eng;hun;ron" tvg-quality="576i",Minimax
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
@@ -24,20 +24,20 @@ https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.hu" tvg-name="Nick Jr." group-title="Kids" tvg-language="hun" tvg-quality="576i",Nick Jr.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/nick_junior_hun/index.m3u8
+http://88.212.7.14/live/nick_junior_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.hu" tvg-name="Nickelodeon" group-title="Kids" tvg-language="hun" tvg-quality="576i",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
+http://88.212.7.14/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.cz" tvg-name="Nicktoons" group-title="Kids" tvg-language="ces;hun" tvg-quality="576i",Nicktoons
-http://88.212.15.17/live/test_nicktoons/playlist.m3u8
+http://88.212.15.50/live/test_nicktoons/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.hu" tvg-name="Nicktoons" group-title="Kids" tvg-language="hun" tvg-quality="576i",Nicktoons
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/nicktoons_hungary/index.m3u8
+http://88.212.7.14/live/nicktoons_hungary/index.m3u8
 
 #EXTINF:-1 tvg-id="TV2Kids.hu" tvg-name="TV2 Kids" group-title="Kids" tvg-language="hun" tvg-quality="576i",TV2 Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/tv2_kids/index.m3u8
+http://88.212.7.14/live/tv2_kids/index.m3u8
 

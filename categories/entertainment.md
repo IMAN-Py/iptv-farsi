@@ -4,7 +4,7 @@
 
 Browse live entertainment channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**795 channels · 1244 stream entries**
+**796 channels · 1246 stream entries**
 
 ## All languages
 
@@ -93,7 +93,7 @@ https://iman-py.github.io/open-tv-atlas/categories/entertainment.m3u
 | [Ukrainian](../playlists/ukr/README.md) | 15 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/entertainment.m3u` |
 | [Urdu](../playlists/urd/README.md) | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/entertainment.m3u` |
 | [Uzbek](../playlists/uzb/README.md) | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/uzb/entertainment.m3u` |
-| [Vietnamese](../playlists/vie/README.md) | 10 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/entertainment.m3u` |
+| [Vietnamese](../playlists/vie/README.md) | 11 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/entertainment.m3u` |
 | [Yue Chinese](../playlists/yue/README.md) | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/yue/entertainment.m3u` |
 | [Zarma](../playlists/dje/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/dje/entertainment.m3u` |
 

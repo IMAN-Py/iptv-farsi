@@ -52,7 +52,7 @@ https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-id="ArenaSport1.sk" tvg-name="Arena Sport 1" group-title="Sports" tvg-language="ces;slk" tvg-quality="576i",Arena Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.17/live/test_arenasport/playlist.m3u8
+http://88.212.15.50/live/test_arenasport/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ArenaSport1Premium.rs" tvg-name="Arena Sport 1 Premium" group-title="Sports" tvg-language="srp" tvg-quality="360p",Arena Sport 1 Premium
 http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD
@@ -62,7 +62,7 @@ http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vhWLdkJ_3C0RZgs4W19uhl8S3
 
 #EXTINF:-1 tvg-id="ArenaSport2.sk" tvg-name="Arena Sport 2" group-title="Sports" tvg-language="slk" tvg-quality="576i",Arena Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.17/live/test_arenasport_dva/playlist.m3u8
+http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ArenaSportPremiumM1.mk" tvg-name="Arena Sport Premium M1" group-title="Sports" tvg-language="mak" tvg-quality="576i",Arena Sport Premium M1
 http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqQgIFxl-Ch6B37eGpkVDb28
@@ -74,7 +74,7 @@ http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqR25
 http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqSVr5S9_a_TNo_sg7gE1yvH
 
 #EXTINF:-1 tvg-id="Arena4.hu" tvg-name="Arena4" group-title="Sports" tvg-language="hun" tvg-quality="576i",Arena4
-http://88.212.15.17/live/arena4/index.m3u8
+http://88.212.7.14/live/arena4/index.m3u8
 
 #EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="Arryadia" group-title="Sports" tvg-language="ara" tvg-quality="720p",Arryadia
 http://149.100.11.252:8000/play/a065/index.m3u8
@@ -334,7 +334,7 @@ https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
 https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CTSport.cz" tvg-name="CT Sport" group-title="Sports" tvg-language="ces" tvg-quality="720p",CT Sport
-http://88.212.15.17/live/test_ctsport_25p/playlist.m3u8
+http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DAZNCombat.uk" tvg-name="DAZN Combat" group-title="Sports" tvg-language="eng" tvg-quality="684p",DAZN Combat
 https://jmp2.uk/plu-648056f0f77b61000828f1ba.m3u8
@@ -569,7 +569,7 @@ https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="hun" tvg-quality="576i",Eurosport 1
-http://88.212.15.17/live/esp1_hun/index.m3u8
+http://88.212.7.14/live/esp1_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Eurosport 1
 http://stream.mcquack.net/176/index.m3u8
@@ -581,7 +581,7 @@ https://andro.mangeinde4.lat/checklist/androstreamlivees1.m3u8
 http://57.128.210.196:8080/264/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="hun" tvg-quality="576i",Eurosport 2
-http://88.212.15.17/live/esp2_hun/index.m3u8
+http://88.212.7.14/live/esp2_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Eurosport 2
 http://stream.mcquack.net/192/index.m3u8
@@ -598,7 +598,7 @@ http://91.228.35.249:8001/1:0:1:3D:1964:13E:820000:0:0:0
 
 #EXTINF:-1 tvg-id="Eurosport4KCzechia.cz" tvg-name="Eurosport 4K Czechia" group-title="Sports" tvg-language="ces" tvg-quality="2160p",Eurosport 4K Czechia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/esp_4k_atk/playlist.m3u8
+http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ExtremeSportsChannel.ru" tvg-name="Extreme Sports Channel" group-title="Sports" tvg-language="rus" tvg-quality="576p",Extreme Sports Channel
 http://46.32.176.50/extremesport/index.m3u8
@@ -850,6 +850,9 @@ https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-id="HTVSports.vn" tvg-name="HTV Sports" group-title="Sports" tvg-language="vie" tvg-quality="576i",HTV Sports
 https://dethich.pw/htvthethao/index.m3u8
 
+#EXTINF:-1 tvg-id="HTVSports.vn" tvg-name="HTV Sports" group-title="Sports" tvg-language="vie" tvg-quality="1080i",HTV Sports
+https://vmttv.dpdns.org/tv360/?id=htv-the-thao
+
 #EXTINF:-1 tvg-id="InterTV.it" tvg-name="Inter TV" group-title="Sports" tvg-language="ita" tvg-quality="1080p",Inter TV
 https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
 
@@ -957,11 +960,11 @@ http://ares.mnet.mk/hls/mnet-sport.m3u8
 https://live.mnet.mk/hls/mnet-sport.m3u8
 
 #EXTINF:-1 tvg-id="M4Sport.hu" tvg-name="M4 Sport" group-title="Sports" tvg-language="hun" tvg-quality="576i",M4 Sport
-http://88.212.15.17/live/m4_hun/index.m3u8
+http://88.212.7.14/live/m4_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="M4Sport.hu" tvg-name="M4 Sport" group-title="Sports" tvg-language="hun" tvg-quality="1080p",M4 Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/uatlmvixrr/index.m3u8
+http://88.212.7.14/live/uatlmvixrr/index.m3u8
 
 #EXTINF:-1 tvg-id="MadeinBOTV.it" tvg-name="MadeinBO TV" group-title="Sports" tvg-language="ita" tvg-quality="1080p",MadeinBO TV
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
@@ -1433,7 +1436,7 @@ https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 #EXTINF:-1 tvg-id="RealMadridTVEnglish.es" tvg-name="Real Madrid TV English" group-title="Sports" tvg-language="eng" tvg-quality="576i",Real Madrid TV English
-http://88.212.15.17/live/real_madrid_tv/index.m3u8
+http://88.212.15.50/live/real_madrid_tv/index.m3u8
 
 #EXTINF:-1 tvg-id="RealMadridTVEnglish.es" tvg-name="Real Madrid TV English" group-title="Sports" tvg-language="eng" tvg-quality="576i",Real Madrid TV English
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
@@ -1607,24 +1610,24 @@ https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m
 
 #EXTINF:-1 tvg-id="Spiler1.hu" tvg-name="Spiler 1" group-title="Sports" tvg-language="hun" tvg-quality="576i",Spiler 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/spiler1/index.m3u8
+http://88.212.7.14/live/spiler1/index.m3u8
 
 #EXTINF:-1 tvg-id="Spiler2.hu" tvg-name="Spiler 2" group-title="Sports" tvg-language="hun" tvg-quality="576i",Spiler 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/spiler2/index.m3u8
+http://88.212.7.14/live/spiler2/index.m3u8
 
 #EXTINF:-1 tvg-id="Sport.kg" tvg-name="Sport" group-title="Sports" tvg-language="eng;kir;rus" tvg-quality="480p",Sport
 https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
 
 #EXTINF:-1 tvg-id="Sport.sk" tvg-name="Sport" group-title="Sports" tvg-language="slk" tvg-quality="1080p",Sport
-http://88.212.15.17/live/test_rtvs_sport_hevc/playlist.m3u8
+http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sport.uz" tvg-name="Sport" group-title="Sports" tvg-language="uzb" tvg-quality="576i",Sport
 https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Sport1.hu" tvg-name="Sport 1" group-title="Sports" tvg-language="hun" tvg-quality="576i",Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/sport1_hun/index.m3u8
+http://88.212.7.14/live/sport1_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="Sport1.ua" tvg-name="Sport 1" group-title="Sports" tvg-language="ukr" tvg-quality="576p",Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -1636,7 +1639,7 @@ http://stream.mcquack.net/461/index.m3u8
 
 #EXTINF:-1 tvg-id="Sport2.hu" tvg-name="Sport 2" group-title="Sports" tvg-language="hun" tvg-quality="576i",Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/sport2_hun/index.m3u8
+http://88.212.7.14/live/sport2_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="Sport2.ua" tvg-name="Sport 2" group-title="Sports" tvg-language="ukr" tvg-quality="1080p",Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -1692,11 +1695,11 @@ https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="Sport1.cz" tvg-name="Sport1" group-title="Sports" tvg-language="ces;slk" tvg-quality="576i",Sport1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_sport1_25p/playlist.m3u8
+http://88.212.15.50/live/test_sport1_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sport2.cz" tvg-name="Sport2" group-title="Sports" tvg-language="ces;slk" tvg-quality="576i",Sport2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_sport_2/playlist.m3u8
+http://88.212.15.50/live/test_sport_2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" group-title="Sports" tvg-language="ita" tvg-quality="1080p",Sportitalia
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
@@ -2133,6 +2136,9 @@ https://autopilot.catcast.tv/content/37909/index.m3u8
 
 #EXTINF:-1 tvg-id="VitalDrive.ru" tvg-name="Vital Drive" group-title="Sports" tvg-language="rus" tvg-quality="720p",Vital Drive
 https://tv.a21network.ru/stream/37909/index.m3u8
+
+#EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-name="Voyo Sport 1" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Voyo Sport 1
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
 
 #EXTINF:-1 tvg-id="VTV6.vn" tvg-name="VTV6" group-title="Sports" tvg-language="vie" tvg-quality="720p",VTV6
 https://dethich.pw/vtv6/index.m3u8

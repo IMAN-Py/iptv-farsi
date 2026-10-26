@@ -99,6 +99,9 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Family/chunks.m3u8
 #EXTINF:-1 tvg-id="HopeChannelPROYECTOJA.cr" tvg-name="Hope Channel PROYECTO JA" group-title="Family;Music;Religious" tvg-language="eng;spa" tvg-quality="360p",Hope Channel PROYECTO JA
 https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8
 
+#EXTINF:-1 tvg-id="HTVCFamily.vn" tvg-name="HTVC Family" group-title="Family" tvg-language="vie" tvg-quality="720p",HTVC Family
+https://dethich.pw/htvcgiadinh/index.m3u8
+
 #EXTINF:-1 tvg-id="LTNFamily.pk" tvg-name="LTN Family" group-title="Family" tvg-language="eng" tvg-quality="576p",LTN Family
 http://103.250.28.74:8000/play/a02j/index.m3u8
 

@@ -176,6 +176,9 @@ https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 tvg-id="DieNeueZeitTV.ch" tvg-name="Die Neue Zeit TV" group-title="Religious" tvg-language="deu" tvg-quality="576p",Die Neue Zeit TV
 https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel" group-title="Kids" tvg-language="deu" tvg-quality="1080i",Disney Channel
+http://109.85.181.77:9981/stream/channelid/652495718?profile=pass
+
 #EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel" group-title="Kids" tvg-language="deu" tvg-quality="576i",Disney Channel
 http://178.27.12.3:9981/stream/channelid/269948147?profile=pass
 
@@ -603,7 +606,7 @@ https://oneapp.b-cdn.net/1080p/index.m3u8
 https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
 
 #EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" group-title="General" tvg-language="deu" tvg-quality="720p",ORF 2
-http://88.212.15.17/live/test_orf_zwei_tizen/playlist.m3u8
+http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ORFIII.at" tvg-name="ORF III" group-title="Culture" tvg-language="deu" tvg-quality="720p",ORF III
 https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
@@ -934,6 +937,9 @@ https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20
 
 #EXTINF:-1 tvg-id="SenderNeuJerusalem.de" tvg-name="Sender Neu Jerusalem" group-title="Uncategorized" tvg-language="deu" tvg-quality="576p",Sender Neu Jerusalem
 https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8
+
+#EXTINF:-1 tvg-id="ServusTV.at" tvg-name="ServusTV" group-title="Movies" tvg-language="deu" tvg-quality="576p",ServusTV
+https://s6.hopslan.com/servuz1/index.m3u8
 
 #EXTINF:-1 tvg-id="ServusTV.at" tvg-name="ServusTV" group-title="Movies" tvg-language="deu" tvg-quality="1080p",ServusTV
 https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8

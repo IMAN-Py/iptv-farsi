@@ -4,7 +4,7 @@
 
 Find free Spanish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2334 channels · 3177 stream entries**
+**2334 channels · 3176 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 3177 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u` |
-| HD | 2411 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u` |
+| All channels | 3176 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u` |
+| HD | 2410 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u` |
 | SD / unknown | 766 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sd.m3u` |
 
 <a id="categories"></a>
@@ -29,11 +29,11 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 104 | 142 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/movies.m3u` |
 | News | 131 | 213 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/news.m3u` |
 | Music | 203 | 227 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/music.m3u` |
-| Kids | 49 | 101 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/kids.m3u` |
+| Kids | 50 | 103 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/kids.m3u` |
 | Documentary | 22 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/documentary.m3u` |
 | Series | 72 | 103 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/series.m3u` |
 | Entertainment | 177 | 250 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/entertainment.m3u` |
-| Animation | 34 | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/animation.m3u` |
+| Animation | 34 | 65 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/animation.m3u` |
 | Auto | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/auto.m3u` |
 | Business | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/business.m3u` |
 | Classic | 8 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/classic.m3u` |
@@ -42,11 +42,11 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 42 | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/culture.m3u` |
 | Education | 35 | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/education.m3u` |
 | Family | 12 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/family.m3u` |
-| General | 891 | 1218 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
+| General | 890 | 1217 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
 | Legislative | 33 | 36 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/legislative.m3u` |
 | Lifestyle | 15 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/lifestyle.m3u` |
 | Outdoor | 12 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/outdoor.m3u` |
-| Public | 22 | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/public.m3u` |
+| Public | 21 | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/public.m3u` |
 | Relax | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/relax.m3u` |
 | Religious | 195 | 232 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/religious.m3u` |
 | Science | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/science.m3u` |
@@ -499,7 +499,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Canal Santa Maria | CanalSantaMaria.ar | 360p | 1 |
 | Canal Showsport | CanalShowsport.ar | 720p | 1 |
 | Canal Sierra de Cadiz | CanalSierradeCadiz.es | 1080p | 1 |
-| Canal Sur | CanalSur.es | 576i | 1 |
 | Canal Sur 2 | CanalSur2.es | 720p | 1 |
 | Canal Sur Andalucia | CanalSurAndalucia.es | 1080p, 720p | 2 |
 | Canal Sur Noticias | CanalSurNoticias.es | 576i | 1 |
@@ -731,6 +730,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Disney Channel Latin America | DisneyChannelLatinAmerica.ar | 1080p, 480i, 576p, 720p | 13 |
 | Disney Jr. Latin America | DisneyJrLatinAmerica.ar | 1080p, 576i, 576p | 7 |
 | Disney Junior | DisneyJunior.us | 480p, 576p | 5 |
+| Disney XD | DisneyXD.us | 1080p | 1 |
 | Distrito Comedia | DistritoComedia.mx | 1080p | 4 |
 | Distrito TV | DistritoTV.es | 1080p | 1 |
 | Dmoda Channel | DmodaChannel.bo | 1080p | 1 |
@@ -2048,7 +2048,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TNT Novelas | TNTNovelas.us | 1080p, 576i | 4 |
 | TNT Series Latin America | TNTSeriesLatinAmerica.us | 1080p, 480i | 2 |
 | Todo Novelas | TodoNovelas.es | 1080p | 2 |
-| Tooncast | Tooncast.us | 1080p, 480p, 720p | 3 |
+| Tooncast | Tooncast.us | 1080p, 480i, 480p, 720p | 4 |
 | Top TV | TopTV.pe | 240p | 1 |
 | Topical Moon RD | TopicalMoonRD.do | 720p | 1 |
 | Tora Canal 69 | ToraCanal69.do | 720p | 1 |
@@ -2344,7 +2344,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Win Sports | WinSports.co | 1080p, 576p, 720p | 5 |
 | Win+ Futbol | WinPlusFutbol.co | 1080p | 2 |
 | WIPR-TV 6.1 | WIPRTV61.pr | 1080p | 3 |
-| WKAQ-TV 2.2 | WKAQTV22.pr | 1080p, 720p | 3 |
+| WKAQ-TV 2.2 | WKAQTV22.pr | 1080p | 1 |
 | World TV Guatemala | WorldTVGuatemala.gt | 720p | 1 |
 | WOW TV | WOWTV.sv | 1080p, 720p | 2 |
 | Wtv | Wtv.pe | 720p | 1 |

@@ -39,7 +39,7 @@ http://31.148.48.15/Karusel_HD/index.m3u8
 http://31.148.5.241/kanal_8/index.m3u8
 
 #EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576p",Carousel
-http://88.212.15.17/live/test_karusel/playlist.m3u8
+http://88.212.15.50/live/test_karusel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Carousel" group-title="Kids" tvg-language="rus" tvg-quality="576p",Carousel
 http://flussonic.linkintel.ru/Karusel/index.m3u8
@@ -161,7 +161,7 @@ https://stream8.cinerama.uz/1500/playlist.m3u8
 https://stream8.cinerama.uz/1502/playlist.m3u8
 
 #EXTINF:-1 tvg-id="O.ru" tvg-name="O!" group-title="Kids" tvg-language="rus" tvg-quality="720p",O!
-http://88.212.15.17/live/test_telekanal_o/playlist.m3u8
+http://88.212.15.50/live/test_telekanal_o/playlist.m3u8
 
 #EXTINF:-1 tvg-id="O.ru" tvg-name="O!" group-title="Kids" tvg-language="rus" tvg-quality="576p",O!
 http://stream.mcquack.net/60/index.m3u8

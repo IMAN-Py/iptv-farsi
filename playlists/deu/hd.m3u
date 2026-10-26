@@ -140,6 +140,9 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 #EXTINF:-1 tvg-id="DHA.tr" tvg-name="DHA" group-title="News" tvg-language="deu;eng;tur;zho" tvg-quality="720p",DHA
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="Disney Channel" group-title="Kids" tvg-language="deu" tvg-quality="1080i",Disney Channel
+http://109.85.181.77:9981/stream/channelid/652495718?profile=pass
+
 #EXTINF:-1 tvg-id="DMF.de" tvg-name="DMF" group-title="Music" tvg-language="deu" tvg-quality="1080p",DMF
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 
@@ -447,7 +450,7 @@ https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" group-title="General" tvg-language="deu" tvg-quality="720p",ORF 2
-http://88.212.15.17/live/test_orf_zwei_tizen/playlist.m3u8
+http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ORFIII.at" tvg-name="ORF III" group-title="Culture" tvg-language="deu" tvg-quality="720p",ORF III
 https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8

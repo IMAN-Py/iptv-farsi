@@ -81,6 +81,9 @@ http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="5USA.uk" tvg-name="5USA" group-title="Entertainment" tvg-language="eng" tvg-quality="360p",5USA
 https://lb.iptvnetwork.net/ls28/10115/playlist.m3u8
 
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",6ter
+http://149.62.177.107:9999/6ter/index.m3u8
+
 #EXTINF:-1 tvg-id="7Gold.it" tvg-name="7 Gold" group-title="Entertainment" tvg-language="ita" tvg-quality="1080p",7 Gold
 https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
 
@@ -399,7 +402,7 @@ http://85.14.32.26:8800/udp/239.100.10.18:5000
 
 #EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" group-title="Entertainment" tvg-language="czh" tvg-quality="576i",AXN White
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.17/live/test_white/playlist.m3u8
+http://88.212.15.50/live/test_white/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" group-title="Entertainment" tvg-language="bul" tvg-quality="576p",AXN White
 http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8
@@ -429,7 +432,7 @@ http://23.239.31.26:8989/bbcamerica/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCFirst.uk" tvg-name="BBC First" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",BBC First
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/bbc_first/index.m3u8
+http://88.212.7.14/live/bbc_first/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCFirst.uk" tvg-name="BBC First" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",BBC First
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -842,7 +845,7 @@ http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
 https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
 
 #EXTINF:-1 tvg-id="CrimePlusInvestigationCEE.uk" tvg-name="Crime + Investigation CEE" group-title="Entertainment" tvg-language="eng" tvg-quality="576i",Crime + Investigation CEE
-http://88.212.15.17/live/test_cai_hevc/playlist.m3u8
+http://88.212.7.14/live/test_cai_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl" tvg-name="Crime + Investigation Polsat" group-title="Entertainment" tvg-language="pol" tvg-quality="576i",Crime + Investigation Polsat
 http://92.114.85.87:8015/play/a00d/index.m3u8
@@ -937,7 +940,7 @@ https://jmp2.uk/plu-660d6bc10cd4630008f4a25a.m3u8
 http://125.227.210.55:1004/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.hu" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="hun" tvg-quality="576i",Discovery Channel
-http://88.212.15.17/live/discovery_hungary/index.m3u8
+http://88.212.7.14/live/discovery_hungary/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;tam;tel" tvg-quality="720p",Discovery Channel
 https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
@@ -1186,7 +1189,7 @@ https://jmp2.uk/plu-61c19c8c9863900007acaa57.m3u8
 
 #EXTINF:-1 tvg-id="FEM3.hu" tvg-name="FEM3" group-title="Entertainment" tvg-language="hun" tvg-quality="576i",FEM3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_fem3_atktv/playlist.m3u8
+http://88.212.7.14/live/test_fem3_atktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FEVATV.ca" tvg-name="FEVA TV" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",FEVA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -1574,7 +1577,7 @@ https://lb.iptvnetwork.net/ls28/10107/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IzauraTV.hu" tvg-name="Izaura TV" group-title="Entertainment" tvg-language="hun" tvg-quality="1080p",Izaura TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/izaura/index.m3u8
+http://88.212.7.14/live/izaura/index.m3u8
 
 #EXTINF:-1 tvg-id="Jade.hk" tvg-name="Jade" group-title="Entertainment" tvg-language="yue;zho" tvg-quality="1080p",Jade
 http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
@@ -1620,7 +1623,7 @@ https://live-fi.tvkaista.net/jim/live.m3u8?hd=true
 
 #EXTINF:-1 tvg-id="JockyTV.hu" tvg-name="Jocky TV" group-title="Entertainment" tvg-language="hun" tvg-quality="576i",Jocky TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/jocky/index.m3u8
+http://88.212.7.14/live/jocky/index.m3u8
 
 #EXTINF:-1 tvg-id="JudgeJudy.de" tvg-name="Judge Judy" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Judge Judy
 https://jmp2.uk/plu-622f498d119b4c000719c0b7.m3u8
@@ -1782,7 +1785,7 @@ https://live.lietuvosryto.tv/live/hls/eteris.m3u8
 
 #EXTINF:-1 tvg-id="LifeTV.hu" tvg-name="Life TV" group-title="Entertainment" tvg-language="hun" tvg-quality="576i",Life TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/lifetv/index.m3u8
+http://88.212.7.14/live/lifetv/index.m3u8
 
 #EXTINF:-1 tvg-id="LifetimeAsia.us" tvg-name="Lifetime Asia" group-title="Entertainment" tvg-language="eng;ind;tha" tvg-quality="1080p",Lifetime Asia
 http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8
@@ -1846,7 +1849,7 @@ https://jmp2.uk/plu-67f7d328efc5473b6b4ac5f4.m3u8
 https://mmtvs.exliatycl.online/mchannel/stream.m3u8
 
 #EXTINF:-1 tvg-id="M2.hu" tvg-name="M2" group-title="Entertainment" tvg-language="hun" tvg-quality="1080p",M2
-http://88.212.15.17/live/m2_hun/index.m3u8
+http://88.212.7.14/live/m2_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",M6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -2083,7 +2086,7 @@ http://45.4.1.201:8000/play/a19y/index.m3u8
 
 #EXTINF:-1 tvg-id="Moziklub.hu" tvg-name="Moziklub" group-title="Entertainment" tvg-language="hun" tvg-quality="576i",Moziklub
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/moziklub_atk/index.m3u8
+http://88.212.7.14/live/moziklub_atk/index.m3u8
 
 #EXTINF:-1 tvg-id="MRTVEntertainment.mm" tvg-name="MRTV Entertainment" group-title="Entertainment" tvg-language="mya" tvg-quality="480i",MRTV Entertainment
 https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
@@ -2410,8 +2413,14 @@ https://live.olidigital.in/olitv/olitv/index.m3u8
 #EXTINF:-1 tvg-id="OmideIranTV.us" tvg-name="Omid e Iran TV" group-title="Entertainment" tvg-language="eng;fas" tvg-quality="480i",Omid e Iran TV
 https://oitnhls.wns.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="ONVieDramas.vn" tvg-name="ON Vie Dramas" group-title="Entertainment" tvg-language="vie" tvg-quality="1080i",ON Vie Dramas
+https://freem3u.xyz/api/live/play.m3u8?vid=177
+
 #EXTINF:-1 tvg-id="ONVieGiaiTri.vn" tvg-name="ON Vie Giai Tri" group-title="Entertainment" tvg-language="vie" tvg-quality="1080p",ON Vie Giai Tri
 https://freem3u.xyz/api/live/play.m3u8?vid=180
+
+#EXTINF:-1 tvg-id="ONVieGiaiTri.vn" tvg-name="ON Vie Giai Tri" group-title="Entertainment" tvg-language="vie" tvg-quality="1080i",ON Vie Giai Tri
+https://tv.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd
 
 #EXTINF:-1 tvg-id="OnePaschima.in" tvg-name="One Paschima" group-title="Entertainment" tvg-language="ory" tvg-quality="400p",One Paschima
 https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8
@@ -2421,7 +2430,7 @@ https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8
 http://stream.mcquack.net/329/index.m3u8
 
 #EXTINF:-1 tvg-id="OTV.ee" tvg-name="OTV" group-title="Entertainment" tvg-language="rus;ukr" tvg-quality="576i",OTV
-http://88.212.15.17/live/otv/playlist.m3u8
+http://88.212.7.14/live/otv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OTV.gh" tvg-name="OTV" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",OTV
 https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8
@@ -2623,7 +2632,7 @@ https://jmp2.uk/plu-67f79fdb3481170e68c0bc38.m3u8
 http://31.148.48.15/Poehali/index.m3u8
 
 #EXTINF:-1 tvg-id="Poehali.ru" tvg-name="Poehali!" group-title="Entertainment;Outdoor" tvg-language="rus" tvg-quality="576p",Poehali!
-http://88.212.15.17/live/test_poehali/playlist.m3u8
+http://88.212.15.50/live/test_poehali/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PolimerTV.in" tvg-name="Polimer TV" group-title="Entertainment" tvg-language="tam" tvg-quality="720p",Polimer TV
 https://cdn.pishow.tv/ott/live/1241/master.m3u8
@@ -2870,7 +2879,7 @@ https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTLOtthon.hu" tvg-name="RTL Otthon" group-title="Entertainment" tvg-language="hun" tvg-quality="576i",RTL Otthon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/rtl_otthon_atk/index.m3u8
+http://88.212.7.14/live/rtl_otthon_atk/index.m3u8
 
 #EXTINF:-1 tvg-id="RTNBDivertissement.bi" tvg-name="RTNB Divertissement" group-title="Entertainment" tvg-language="eng;fra;run;swa" tvg-quality="576i",RTNB Divertissement
 https://tv2-stream.rtnb.bi/hls/master.m3u8
@@ -2910,9 +2919,6 @@ https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 
 #EXTINF:-1 tvg-id="SBS6Classics.nl" tvg-name="SBS6 Classics" group-title="Entertainment" tvg-language="nld" tvg-quality="1080p",SBS6 Classics
 https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
-
-#EXTINF:-1 tvg-id="SciFi.fr" tvg-name="SciFi" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",SciFi
-http://41.205.93.154/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="Shabakeh7.us" tvg-name="Shabakeh 7" group-title="Entertainment" tvg-language="fas" tvg-quality="480i",Shabakeh 7
 https://sh7hls.wns.live/hls/stream.m3u8
@@ -3003,17 +3009,17 @@ https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sorozatklub.hu" tvg-name="Sorozatklub" group-title="Entertainment" tvg-language="hun" tvg-quality="576i",Sorozatklub
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/sorozatklub_atk/index.m3u8
+http://88.212.7.14/live/sorozatklub_atk/index.m3u8
 
 #EXTINF:-1 tvg-id="SowetoTV.za" tvg-name="Soweto TV" group-title="Entertainment;Family" tvg-language="eng" tvg-quality="576p",Soweto TV
 https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SpektrumHome.cz" tvg-name="Spektrum Home" group-title="Entertainment" tvg-language="ces;slk" tvg-quality="576i",Spektrum Home
-http://88.212.15.17/live/test_home_hevc/playlist.m3u8
+http://88.212.15.50/live/test_home_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SpektrumHome.hu" tvg-name="Spektrum Home" group-title="Entertainment" tvg-language="hun" tvg-quality="576i",Spektrum Home
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/spektrum_home_hun/index.m3u8
+http://88.212.7.14/live/spektrum_home_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="Spondon.in" tvg-name="Spondon" group-title="Entertainment" tvg-language="asm" tvg-quality="576p",Spondon
 https://mumt05.tangotv.in/87NeALx2SPONDON/index.m3u8

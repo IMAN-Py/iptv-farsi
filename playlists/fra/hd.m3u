@@ -730,9 +730,6 @@ https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3
 #EXTINF:-1 tvg-id="RTVC.ci" tvg-name="RTVC" group-title="Religious" tvg-language="fra" tvg-quality="720p",RTVC
 https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8
 
-#EXTINF:-1 tvg-id="SciFi.fr" tvg-name="SciFi" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",SciFi
-http://41.205.93.154/SYFY/index.m3u8
-
 #EXTINF:-1 tvg-id="ScreamIN.fr" tvg-name="ScreamIN" group-title="Movies" tvg-language="fra" tvg-quality="1080p",ScreamIN
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
 

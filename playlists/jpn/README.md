@@ -4,7 +4,7 @@
 
 Find free Japanese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**11 channels · 19 stream entries**
+**11 channels · 20 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/jpn/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/all.m3u` |
+| All channels | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/all.m3u` |
 | HD | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/hd.m3u` |
-| SD / unknown | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/sd.m3u` |
+| SD / unknown | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -28,7 +28,7 @@ Each list combines this language with a source category. Counts are stream entri
 | News | 2 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/news.m3u` |
 | Kids | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/kids.m3u` |
 | Entertainment | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/entertainment.m3u` |
-| Animation | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/animation.m3u` |
+| Animation | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/animation.m3u` |
 | Culture | 1 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/culture.m3u` |
 | General | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/general.m3u` |
 | Religious | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/religious.m3u` |
@@ -41,7 +41,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| Animax Asia | AnimaxAsia.sg | 1080p | 1 |
+| Animax Asia | AnimaxAsia.sg | 1080p, 480i | 2 |
 | BabyFirst | BabyFirst.us | 480i, 720p | 2 |
 | BBC News | BBCNews.uk | 576p | 1 |
 | CGNTV Japan | CGNTVJapan.jp | 1080p | 1 |

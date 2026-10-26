@@ -63,9 +63,6 @@ https://jmp2.uk/plu-699865ccac36b147e74619fe.m3u8
 #EXTINF:-1 tvg-id="RMCLife.fr" tvg-name="RMC Life" group-title="Entertainment;Interactive" tvg-language="fra" tvg-quality="1080p",RMC Life
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
 
-#EXTINF:-1 tvg-id="SciFi.fr" tvg-name="SciFi" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",SciFi
-http://41.205.93.154/SYFY/index.m3u8
-
 #EXTINF:-1 tvg-id="TalTV.ne" tvg-name="Tal TV" group-title="Entertainment" tvg-language="dje;fra;hau;tmh" tvg-quality="1080p",Tal TV
 https://mediaserver1.castpin.com/hls/taltv/index.m3u8
 

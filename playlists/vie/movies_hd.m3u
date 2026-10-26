@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="HTVCMovies.vn" tvg-name="HTVC Movies" group-title="Movies;Series" tvg-language="vie" tvg-quality="720p",HTVC Movies
+https://dethich.pw/htvcphim/index.m3u8
+
 #EXTINF:-1 tvg-id="ONMovies.vn" tvg-name="ON Movies" group-title="Movies" tvg-language="vie" tvg-quality="720p",ON Movies
 https://freem3u.xyz/api/live/play.m3u8?vid=181
 

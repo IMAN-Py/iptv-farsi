@@ -21,7 +21,7 @@ http://168.196.127.137:6001/play/a06p/index.m3u8
 https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TurismoRDTV.do" tvg-name="Turismo RDTV" group-title="Travel" tvg-language="spa" tvg-quality="720p",Turismo RDTV
-https://streamunoapp.com:3086/live/telemileniolive.m3u8
+https://5790d294af2dc.streamlock.net/yosoyturismotv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TurismoTravelTV.cl" tvg-name="Turismo Travel TV" group-title="Travel" tvg-language="spa" tvg-quality="480i",Turismo Travel TV
 https://stmv3.voxtvhd.com.br/turismotraveltv/turismotraveltv/playlist.m3u8

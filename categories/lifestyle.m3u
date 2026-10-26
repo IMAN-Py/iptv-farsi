@@ -277,7 +277,7 @@ https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8
 http://89.33.29.115:8080/Health/index.m3u8
 
 #EXTINF:-1 tvg-id="HGTV.hu" tvg-name="HGTV" group-title="Lifestyle" tvg-language="hun" tvg-quality="576i",HGTV
-http://88.212.15.17/live/hgtv_hun/index.m3u8
+http://88.212.7.14/live/hgtv_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV" group-title="Lifestyle" tvg-language="eng;ita" tvg-quality="1080p",HGTV
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
@@ -296,6 +296,9 @@ https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.
 
 #EXTINF:-1 tvg-id="HogarTV.co" tvg-name="Hogar TV" group-title="Lifestyle" tvg-language="spa" tvg-quality="1080p",Hogar TV
 http://190.61.47.54:8000/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-id="HTVCWomen.vn" tvg-name="HTVC Women" group-title="Lifestyle" tvg-language="vie" tvg-quality="720p",HTVC Women
+https://dethich.pw/htvcphunu/index.m3u8
 
 #EXTINF:-1 tvg-id="HunanWomensChannel.cn" tvg-name="Hunan Womens Channel" group-title="Lifestyle" tvg-language="zho" tvg-quality="576i",Hunan Womens Channel
 http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
@@ -416,6 +419,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=188
 
 #EXTINF:-1 tvg-id="ONO2TV.vn" tvg-name="ON O2TV" group-title="Lifestyle" tvg-language="vie" tvg-quality="1080p",ON O2TV
 https://freem3u.xyz/api/live/play.m3u8?vid=136
+
+#EXTINF:-1 tvg-id="ONStyleTV.vn" tvg-name="ON Style TV" group-title="Lifestyle" tvg-language="vie" tvg-quality="1080p",ON Style TV
+https://freem3u.xyz/api/live/play.m3u8?vid=184
 
 #EXTINF:-1 tvg-id="OtkritiymirZdorove.ru" tvg-name="Otkritiy mir. Zdorove" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",Otkritiy mir. Zdorove
 https://v4.proofix.ru/0mir/index.m3u8
@@ -558,7 +564,7 @@ https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8
 https://s6.hopslan.com/tlcX/index.m3u8
 
 #EXTINF:-1 tvg-id="TLC.hu" tvg-name="TLC" group-title="Lifestyle" tvg-language="eng;hun" tvg-quality="576i",TLC
-http://88.212.15.17/live/tlc_hungary/index.m3u8
+http://88.212.7.14/live/tlc_hungary/index.m3u8
 
 #EXTINF:-1 tvg-id="TLC.in" tvg-name="TLC" group-title="Lifestyle" tvg-language="eng;hin" tvg-quality="720p",TLC
 https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8
@@ -577,11 +583,11 @@ http://79.127.238.228:14433
 
 #EXTINF:-1 tvg-id="TVPaprika.cz" tvg-name="TV Paprika" group-title="Lifestyle;Travel" tvg-language="ces" tvg-quality="576i",TV Paprika
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_parpika_tv_sd_hevc/playlist.m3u8
+http://88.212.15.50/live/test_parpika_tv_sd_hevc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVPaprika.hu" tvg-name="TV Paprika" group-title="Lifestyle;Travel" tvg-language="hun" tvg-quality="576i",TV Paprika
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/parpika_hun/index.m3u8
+http://88.212.7.14/live/parpika_hun/index.m3u8
 
 #EXTINF:-1 tvg-id="TVPaprika.ro" tvg-name="TV Paprika" group-title="Lifestyle;Travel" tvg-language="ron" tvg-quality="576i",TV Paprika
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18

@@ -13,6 +13,9 @@ https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="3ABNFrench.us" tvg-name="3ABN French" group-title="Religious" tvg-language="fra" tvg-quality="480i",3ABN French
 https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" group-title="Entertainment" tvg-language="fra" tvg-quality="576i",6ter
+http://149.62.177.107:9999/6ter/index.m3u8
+
 #EXTINF:-1 tvg-id="7Info.ci" tvg-name="7 Info" group-title="News" tvg-language="fra" tvg-quality="576i",7 Info
 https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
 
@@ -747,6 +750,9 @@ https://streaming.lauradavemedia.com/ldm/index.m3u8
 #EXTINF:-1 tvg-id="LBFDRTV.cd" tvg-name="LBFD RTV" group-title="Religious" tvg-language="fra" tvg-quality="1080p",LBFD RTV
 https://tnt-television.com/LBFD_RTV/index.m3u8
 
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" group-title="News" tvg-language="fra" tvg-quality="576i",LCI
+http://149.62.177.107:9999/LCI/index.m3u8
+
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" group-title="News" tvg-language="fra" tvg-quality="1080p",LCI
 http://151.80.18.177:86/LCI_HD/index.m3u8
 
@@ -1185,9 +1191,6 @@ https://savane24.tv:5443/LiveApp/streams/Y4fyif69Q0ll6MeH2190896734859843.m3u8
 
 #EXTINF:-1 tvg-id="Savoirmedia.ca" tvg-name="Savoir media" group-title="Uncategorized" tvg-language="fra" tvg-quality="360p",Savoir media
 https://hls.savoir.media/live/stream.m3u8
-
-#EXTINF:-1 tvg-id="SciFi.fr" tvg-name="SciFi" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",SciFi
-http://41.205.93.154/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="ScreamIN.fr" tvg-name="ScreamIN" group-title="Movies" tvg-language="fra" tvg-quality="1080p",ScreamIN
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8

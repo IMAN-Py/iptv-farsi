@@ -4,7 +4,7 @@
 
 Find free French live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**427 channels · 555 stream entries**
+**427 channels · 556 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 555 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
-| HD | 357 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
-| SD / unknown | 198 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
+| All channels | 556 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
+| HD | 356 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
+| SD / unknown | 200 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,7 +27,7 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 11 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sports.m3u` |
 | Movies | 25 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/movies.m3u` |
-| News | 55 | 81 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/news.m3u` |
+| News | 55 | 82 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/news.m3u` |
 | Music | 40 | 59 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/music.m3u` |
 | Kids | 19 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/kids.m3u` |
 | Documentary | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/documentary.m3u` |
@@ -58,6 +58,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | 20 Minutes TV | 20MinutesTV.fr | 1080p | 1 |
 | 2M Monde | 2MMonde.ma | 1080p, 360p | 2 |
 | 3ABN French | 3ABNFrench.us | 480i | 1 |
+| 6ter | 6ter.fr | 576i | 1 |
 | 7 Info | 7Info.ci | 576i | 1 |
 | A12 TV | A12TV.ci | 576i | 1 |
 | A2i Music | A2iMusic.sn | 720p | 1 |
@@ -243,7 +244,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | La Une | LaUne.be | 720p | 1 |
 | Laura Dave Media TV | LauraDaveMediaTV.cm | 720p | 1 |
 | LBFD RTV | LBFDRTV.cd | 1080p | 1 |
-| LCI | LCI.fr | 1080p | 1 |
+| LCI | LCI.fr | 1080p, 576i | 2 |
 | LCN | LCN.ca | 480i | 1 |
 | LCP | LCP.fr | 477p | 1 |
 | Le Figaro TV Ile-de-France | LeFigaroTVIledeFrance.fr | 1080p, 720p | 2 |
@@ -375,7 +376,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Saraounia TV | SaraouniaTV.ne | 576i | 1 |
 | Savane TV | SavaneTV.bf | 576i | 1 |
 | Savoir media | Savoirmedia.ca | 360p | 1 |
-| SciFi | SciFi.fr | 720p | 1 |
 | ScreamIN | ScreamIN.fr | 1080p | 1 |
 | Seneweb TV | SenewebTV.sn | 576i | 1 |
 | SenJeunes TV | SenJeunesTV.sn | 480p | 1 |

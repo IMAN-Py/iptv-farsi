@@ -670,7 +670,7 @@ https://cdn.ntv.ru/vitrina/index.m3u8
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 
 #EXTINF:-1 tvg-id="O.ru" tvg-name="O!" group-title="Kids" tvg-language="rus" tvg-quality="720p",O!
-http://88.212.15.17/live/test_telekanal_o/playlist.m3u8
+http://88.212.15.50/live/test_telekanal_o/playlist.m3u8
 
 #EXTINF:-1 tvg-id="o2tv.ru" tvg-name="o2tv" group-title="Music" tvg-language="rus" tvg-quality="720p",o2tv
 http://31.148.48.15/O2_HD/index.m3u8
@@ -680,6 +680,9 @@ http://stream.mcquack.net/194/index.m3u8
 
 #EXTINF:-1 tvg-id="OkkoPrajmSport.ru" tvg-name="Okko Prajm Sport" group-title="Sports" tvg-language="rus" tvg-quality="1080p",Okko Prajm Sport
 http://stream.mcquack.net/493/index.m3u8
+
+#EXTINF:-1 tvg-id="Oplot2.ru" tvg-name="Oplot 2" group-title="Uncategorized" tvg-language="rus" tvg-quality="720p",Oplot 2
+http://91.224.16.9:7779/Oplot_2/index.m3u8
 
 #EXTINF:-1 tvg-id="OplotTV.ru" tvg-name="Oplot TV" group-title="News" tvg-language="rus" tvg-quality="1080p",Oplot TV
 http://31.131.139.253:9002/oplot_hd/index.m3u8

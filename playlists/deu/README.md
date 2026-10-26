@@ -4,7 +4,7 @@
 
 Find free German live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**295 channels · 391 stream entries**
+**295 channels · 393 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 391 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u` |
-| HD | 308 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/hd.m3u` |
-| SD / unknown | 83 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sd.m3u` |
+| All channels | 393 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u` |
+| HD | 309 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/hd.m3u` |
+| SD / unknown | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,10 +26,10 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 10 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sports.m3u` |
-| Movies | 19 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/movies.m3u` |
+| Movies | 19 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/movies.m3u` |
 | News | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/news.m3u` |
 | Music | 26 | 31 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/music.m3u` |
-| Kids | 12 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/kids.m3u` |
+| Kids | 12 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/kids.m3u` |
 | Documentary | 12 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/documentary.m3u` |
 | Series | 19 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/series.m3u` |
 | Entertainment | 11 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/entertainment.m3u` |
@@ -100,7 +100,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Deluxe Rap | DeluxeRap.de | 1080p | 1 |
 | DHA | DHA.tr | 720p | 1 |
 | Die Neue Zeit TV | DieNeueZeitTV.ch | 576p | 1 |
-| Disney Channel | DisneyChannel.de | 576i, 576p | 2 |
+| Disney Channel | DisneyChannel.de | 1080i, 576i, 576p | 3 |
 | DMAX | DMAX.de | 576p | 1 |
 | DMF | DMF.de | 1080p | 1 |
 | Dokusat | Dokusat.de | 1080p | 1 |
@@ -289,7 +289,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Schladming-Dachstein TV | SchladmingDachsteinTV.at | 720p | 1 |
 | Seenluft24 | Seenluft24.de | 1080p | 1 |
 | Sender Neu Jerusalem | SenderNeuJerusalem.de | 576p | 1 |
-| ServusTV | ServusTV.at | 1080p | 1 |
+| ServusTV | ServusTV.at | 1080p, 576p | 2 |
 | sixx | sixx.de | 576i | 1 |
 | Sonnenklar TV | SonnenklarTV.de | 1080p | 1 |
 | Sonus FM | SonusFM.de | 1080p | 2 |

@@ -59,6 +59,9 @@ https://lecteur.iconetv.bj/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Kin24.cd" tvg-name="Kin24" group-title="News" tvg-language="fra" tvg-quality="576i",Kin24
 http://51.254.199.122:8080/kin24/index.m3u8
 
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" group-title="News" tvg-language="fra" tvg-quality="576i",LCI
+http://149.62.177.107:9999/LCI/index.m3u8
+
 #EXTINF:-1 tvg-id="LCN.ca" tvg-name="LCN" group-title="News" tvg-language="fra" tvg-quality="480i",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 

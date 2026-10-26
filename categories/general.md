@@ -138,7 +138,7 @@ https://iman-py.github.io/open-tv-atlas/categories/general.m3u
 | [Slovak](../playlists/slk/README.md) | 15 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/general.m3u` |
 | [Slovenian](../playlists/slv/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/slv/general.m3u` |
 | [Somali](../playlists/som/README.md) | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/som/general.m3u` |
-| [Spanish](../playlists/spa/README.md) | 891 | 1218 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
+| [Spanish](../playlists/spa/README.md) | 890 | 1217 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
 | [Swahili](../playlists/swa/README.md) | 11 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/swa/general.m3u` |
 | [Swedish](../playlists/swe/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/swe/general.m3u` |
 | [Tachawit](../playlists/shy/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/shy/general.m3u` |
@@ -147,7 +147,7 @@ https://iman-py.github.io/open-tv-atlas/categories/general.m3u
 | [Tajik](../playlists/tgk/README.md) | 8 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/tgk/general.m3u` |
 | [Tamashek](../playlists/tmh/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tmh/general.m3u` |
 | [Tamasheq](../playlists/taq/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/taq/general.m3u` |
-| [Tamil](../playlists/tam/README.md) | 8 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/general.m3u` |
+| [Tamil](../playlists/tam/README.md) | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/general.m3u` |
 | [Telugu](../playlists/tel/README.md) | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/general.m3u` |
 | [Thai](../playlists/tha/README.md) | 15 | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/tha/general.m3u` |
 | [Tigre](../playlists/tig/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tig/general.m3u` |

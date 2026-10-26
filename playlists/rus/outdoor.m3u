@@ -54,7 +54,7 @@ https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 http://31.148.48.15/Poehali/index.m3u8
 
 #EXTINF:-1 tvg-id="Poehali.ru" tvg-name="Poehali!" group-title="Entertainment;Outdoor" tvg-language="rus" tvg-quality="576p",Poehali!
-http://88.212.15.17/live/test_poehali/playlist.m3u8
+http://88.212.15.50/live/test_poehali/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rybolov.ru" tvg-name="Rybolov" group-title="Outdoor" tvg-language="rus" tvg-quality="576p",Rybolov
 http://stream.mcquack.net/264/index.m3u8

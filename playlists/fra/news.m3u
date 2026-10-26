@@ -206,6 +206,9 @@ https://lecteur.iconetv.bj/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Kin24.cd" tvg-name="Kin24" group-title="News" tvg-language="fra" tvg-quality="576i",Kin24
 http://51.254.199.122:8080/kin24/index.m3u8
 
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" group-title="News" tvg-language="fra" tvg-quality="576i",LCI
+http://149.62.177.107:9999/LCI/index.m3u8
+
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" group-title="News" tvg-language="fra" tvg-quality="1080p",LCI
 http://151.80.18.177:86/LCI_HD/index.m3u8
 
