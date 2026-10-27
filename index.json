@@ -4171,12 +4171,12 @@
         {
           "id": "sports",
           "path": "playlists/zho/sports.m3u",
-          "streams": 10,
+          "streams": 11,
           "channels": 8,
           "hd": {
             "path": "playlists/zho/sports_hd.m3u",
-            "streams": 6,
-            "channels": 6
+            "streams": 7,
+            "channels": 7
           },
           "sd": {
             "path": "playlists/zho/sports_sd.m3u",
@@ -4219,13 +4219,13 @@
       ],
       "all": {
         "path": "playlists/zho/all.m3u",
-        "streams": 378,
+        "streams": 379,
         "channels": 211
       },
       "hd": {
         "path": "playlists/zho/hd.m3u",
-        "streams": 197,
-        "channels": 113
+        "streams": 198,
+        "channels": 114
       },
       "sd": {
         "path": "playlists/zho/sd.m3u",
@@ -16353,8 +16353,8 @@
         {
           "id": "kids",
           "path": "playlists/rus/kids.m3u",
-          "streams": 83,
-          "channels": 33,
+          "streams": 84,
+          "channels": 34,
           "hd": {
             "path": "playlists/rus/kids_hd.m3u",
             "streams": 17,
@@ -16362,8 +16362,8 @@
           },
           "sd": {
             "path": "playlists/rus/kids_sd.m3u",
-            "streams": 66,
-            "channels": 27
+            "streams": 67,
+            "channels": 28
           }
         },
         {
@@ -16577,8 +16577,8 @@
       ],
       "all": {
         "path": "playlists/rus/all.m3u",
-        "streams": 1359,
-        "channels": 583
+        "streams": 1360,
+        "channels": 584
       },
       "hd": {
         "path": "playlists/rus/hd.m3u",
@@ -16587,8 +16587,8 @@
       },
       "sd": {
         "path": "playlists/rus/sd.m3u",
-        "streams": 853,
-        "channels": 363
+        "streams": 854,
+        "channels": 364
       }
     },
     {
@@ -21391,13 +21391,13 @@
       ],
       "all": {
         "path": "playlists/vie/all.m3u",
-        "streams": 122,
-        "channels": 98
+        "streams": 121,
+        "channels": 97
       },
       "hd": {
         "path": "playlists/vie/hd.m3u",
-        "streams": 111,
-        "channels": 90
+        "streams": 110,
+        "channels": 89
       },
       "sd": {
         "path": "playlists/vie/sd.m3u",
@@ -21990,8 +21990,8 @@
     {
       "id": "kids",
       "path": "categories/kids.m3u",
-      "streams": 625,
-      "channels": 365
+      "streams": 626,
+      "channels": 366
     },
     {
       "id": "legislative",
@@ -22068,7 +22068,7 @@
     {
       "id": "sports",
       "path": "categories/sports.m3u",
-      "streams": 730,
+      "streams": 731,
       "channels": 420
     },
     {

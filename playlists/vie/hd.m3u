@@ -212,9 +212,6 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manife
 #EXTINF:-1 tvg-id="SCTV4.vn" tvg-name="SCTV4" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",SCTV4
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
 
-#EXTINF:-1 tvg-id="SCTV4K.vn" tvg-name="SCTV4K" group-title="Uncategorized" tvg-language="vie" tvg-quality="2160p",SCTV4K
-https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
-
 #EXTINF:-1 tvg-id="SCTV6.vn" tvg-name="SCTV6" group-title="Uncategorized" tvg-language="vie" tvg-quality="720p",SCTV6
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8
 

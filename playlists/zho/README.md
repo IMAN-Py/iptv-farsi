@@ -4,7 +4,7 @@
 
 Find free Chinese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**211 channels · 378 stream entries**
+**211 channels · 379 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 378 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u` |
-| HD | 197 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/hd.m3u` |
+| All channels | 379 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u` |
+| HD | 198 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/hd.m3u` |
 | SD / unknown | 181 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/sd.m3u` |
 
 <a id="categories"></a>
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 8 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/sports.m3u` |
+| Sports | 8 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/sports.m3u` |
 | Movies | 14 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/movies.m3u` |
 | News | 26 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/news.m3u` |
 | Music | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/music.m3u` |
@@ -85,7 +85,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CCTV-4 Asia | CCTV4Asia.cn | 720p | 1 |
 | CCTV-4 Europe | CCTV4Europe.cn | 576i | 1 |
 | CCTV-4K | CCTV4K.cn | 1080p | 1 |
-| CCTV-5+ | CCTV5Plus.cn | 576i | 1 |
+| CCTV-5+ | CCTV5Plus.cn | 1080p, 576i | 2 |
 | CCTV-6 | CCTV6.cn | 1080p, 576i | 3 |
 | CCTV-7 | CCTV7.cn | 720p | 1 |
 | CCTV-8 | CCTV8.cn | 720p | 1 |

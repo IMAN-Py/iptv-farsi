@@ -286,6 +286,9 @@ http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-name="CCTV-5+" group-title="Sports" tvg-language="zho" tvg-quality="576i",CCTV-5+
 https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-name="CCTV-5+" group-title="Sports" tvg-language="zho" tvg-quality="1080p",CCTV-5+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
+
 #EXTINF:-1 tvg-id="CCTVBilliards.cn" tvg-name="CCTV-Billiards" group-title="Sports" tvg-language="zho" tvg-quality="1080p",CCTV-Billiards
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 

@@ -4,7 +4,7 @@
 
 Find free Vietnamese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**98 channels · 122 stream entries**
+**97 channels · 121 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 122 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u` |
-| HD | 111 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/hd.m3u` |
+| All channels | 121 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u` |
+| HD | 110 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/hd.m3u` |
 | SD / unknown | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/sd.m3u` |
 
 <a id="categories"></a>
@@ -119,7 +119,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | SCTV20 | SCTV20.vn | 720p | 1 |
 | SCTV3 | SCTV3.vn | 720p | 1 |
 | SCTV4 | SCTV4.vn | 720p | 1 |
-| SCTV4K | SCTV4K.vn | 2160p | 1 |
 | SCTV6 | SCTV6.vn | 720p | 1 |
 | SCTV7 | SCTV7.vn | 720p | 1 |
 | SCTV9 | SCTV9.vn | 720p | 1 |

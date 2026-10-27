@@ -4,7 +4,7 @@
 
 Find free Russian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**583 channels · 1359 stream entries**
+**584 channels · 1360 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1359 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
+| All channels | 1360 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
 | HD | 506 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
-| SD / unknown | 853 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
+| SD / unknown | 854 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 94 | 167 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/movies.m3u` |
 | News | 33 | 148 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/news.m3u` |
 | Music | 39 | 82 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/music.m3u` |
-| Kids | 33 | 83 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/kids.m3u` |
+| Kids | 34 | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/kids.m3u` |
 | Documentary | 19 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/documentary.m3u` |
 | Series | 32 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/series.m3u` |
 | Entertainment | 36 | 90 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/entertainment.m3u` |
@@ -136,6 +136,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Bug-TV | BugTV.by | 1080p | 1 |
 | Carousel | Carousel.ru | 1080p, 540p, 576i, 576p, 720p | 10 |
 | Carousel International | CarouselInternational.ru | 576p | 1 |
+| Cartoon Classics | CartoonClassics.ru | 576i | 1 |
 | CGTN Russian | CGTNRussian.cn | 1080p, 576i, 576p | 3 |
 | Channel 10 | Channel10.ru | 576i | 1 |
 | Channel 12 | Channel12.ru | 1080p, 576p | 3 |

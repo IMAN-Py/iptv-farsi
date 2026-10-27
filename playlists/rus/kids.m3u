@@ -65,6 +65,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 tvg-id="CarouselInternational.ru" tvg-name="Carousel International" group-title="Kids" tvg-language="rus" tvg-quality="576p",Carousel International
 https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
 
+#EXTINF:-1 tvg-id="CartoonClassics.ru" tvg-name="Cartoon Classics" group-title="Kids" tvg-language="rus" tvg-quality="576i",Cartoon Classics
+http://88.218.242.237:8001/Cartoon_Classics
+
 #EXTINF:-1 tvg-id="Detskiy.ru" tvg-name="Detskiy" group-title="Kids" tvg-language="rus" tvg-quality="576p",Detskiy
 https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 

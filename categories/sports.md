@@ -4,7 +4,7 @@
 
 Browse live sports channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**420 channels · 730 stream entries**
+**420 channels · 731 stream entries**
 
 ## All languages
 
@@ -29,7 +29,7 @@ https://iman-py.github.io/open-tv-atlas/categories/sports.m3u
 | [Bulgarian](../playlists/bul/README.md) | 4 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/sports.m3u` |
 | [Burmese](../playlists/mya/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/mya/sports.m3u` |
 | [Catalan](../playlists/cat/README.md) | 2 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/sports.m3u` |
-| [Chinese](../playlists/zho/README.md) | 8 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/sports.m3u` |
+| [Chinese](../playlists/zho/README.md) | 8 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/sports.m3u` |
 | [cze](../playlists/cze/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/cze/sports.m3u` |
 | [Czech](../playlists/ces/README.md) | 7 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/sports.m3u` |
 | [Danish](../playlists/dan/README.md) | 7 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/dan/sports.m3u` |
