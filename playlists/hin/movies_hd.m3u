@@ -8,9 +8,6 @@ https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-a
 #EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV" group-title="Movies" tvg-language="hin" tvg-quality="720p",&TV
 https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
 
-#EXTINF:-1 tvg-id="AndxplorHD.in" tvg-name="&xplor HD" group-title="Movies" tvg-language="hin" tvg-quality="1080p",&xplor HD
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY
-
 #EXTINF:-1 tvg-id="Bollygold.in" tvg-name="Bollygold" group-title="Movies" tvg-language="hin" tvg-quality="1080p",Bollygold
 https://jmp2.uk/stvp-IN4000600Q
 
@@ -61,9 +58,6 @@ http://103.151.60.162:2122/play/a01v/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
 http://103.151.60.162:2122/play/a02k/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
-http://103.185.24.134:3001/Star-Movies/index.m3u8
 
 #EXTINF:-1 tvg-id="TheMovieClub.in" tvg-name="The Movie Club" group-title="Movies" tvg-language="hin" tvg-quality="1080p",The Movie Club
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf

@@ -80,6 +80,9 @@ https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
 #EXTINF:-1 tvg-id="MaldivesTV.mv" tvg-name="Maldives TV" group-title="Travel" tvg-language="eng" tvg-quality="720p",Maldives TV
 https://lana.psm.mv/live/mtv.m3u8
 
+#EXTINF:-1 tvg-id="MyDestinationTV.us" tvg-name="MyDestination.TV" group-title="Travel" tvg-language="eng" tvg-quality="720p",MyDestination.TV
+https://a-cdn.klowdtv.com/live2/mydestinationtv_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PalmBeachesTV.us" tvg-name="Palm Beaches TV" group-title="Travel" tvg-language="eng" tvg-quality="720p",Palm Beaches TV
 https://live.feed.thepalmbeaches.tv/index.m3u8
 

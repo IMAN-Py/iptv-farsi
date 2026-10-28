@@ -700,9 +700,6 @@ https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/in
 http://45.11.139.43:8555/8kanal/index.m3u8
 
 #EXTINF:-1 tvg-id="Channel8.ru" tvg-name="Channel 8" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Channel 8
-http://hls127.freeott.top:8080/8_KANAL/video.m3u8
-
-#EXTINF:-1 tvg-id="Channel8.ru" tvg-name="Channel 8" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Channel 8
 http://tshift-1.telecoma.tv/8channel/index.m3u8
 
 #EXTINF:-1 tvg-id="Channel8.ru" tvg-name="Channel 8" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Channel 8
@@ -862,6 +859,9 @@ https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8
 #EXTINF:-1 tvg-id="D3TV.ml" tvg-name="D3 TV" group-title="Entertainment" tvg-language="fra" tvg-quality="480p",D3 TV
 https://live20.bozztv.com/akamaissh101/ssh101/d3tvnet/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dangal2.in" tvg-name="Dangal 2" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Dangal 2
+http://107.167.16.138/Dangal2/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="Dangal2.in" tvg-name="Dangal 2" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Dangal 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
@@ -960,6 +960,9 @@ http://stream.mcquack.net/177/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Discovery Channel
 http://212.5.144.156:8080/discovery/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-name="Discovery Channel Latin America" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Discovery Channel Latin America
+http://45.162.64.114/DISCOVERY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-name="Discovery Channel Latin America" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="1080p",Discovery Channel Latin America
 http://45.171.64.30:6060/play/a032/index.m3u8
@@ -1312,6 +1315,9 @@ https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 https://webtvstream.bhtelecom.ba/gametoon.m3u8
 
 #EXTINF:-1 tvg-id="GangaurTV.in" tvg-name="Gangaur TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Gangaur TV
+https://cdn.pishow.tv/ott/live/1221/master.m3u8
+
+#EXTINF:-1 tvg-id="GangaurTV.in" tvg-name="Gangaur TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Gangaur TV
 https://mumt04.tangotv.in/m18aqlK4GANGAURTV/index.m3u8
 
 #EXTINF:-1 tvg-id="GangaurTV.in" tvg-name="Gangaur TV" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Gangaur TV
@@ -1404,8 +1410,20 @@ https://cdn.ottlive.co.in/gtcpunjabi/index.m3u8
 #EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",GTC Punjabi
 https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8
 
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",GTC Punjabi
+https://gtc.ottlive.co.in/gtcpunjabi/index.m3u8
+
 #EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",GTC Punjabi
 https://mumt01.tangotv.in/O5aw8Zn3GTC/index.m3u8
+
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",GTC Punjabi
+https://neotv.ottlive.co.in/gtcpunjabi/index.m3u8
+
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",GTC Punjabi
+https://neotv.ottlive.co.in/gtcpunjabiuk/index.m3u8
+
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",GTC Punjabi
+https://neotv.ottlive.co.in/gtcpunjabiusa/index.m3u8
 
 #EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",GTC Punjabi
 https://streams.tangotv.in/GTC/ORIGIN/index.m3u8
@@ -1521,6 +1539,9 @@ https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
 #EXTVLCOPT:http-referrer=https://indonesiana.tv/
 https://tvstreamcast.com/indonesiana.m3u8
 
+#EXTINF:-1 tvg-id="INSP.us" tvg-name="INSP" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",INSP
+https://a-cdn.klowdtv.com/live2/insp_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Insulanonstop.ro" tvg-name="Insula non stop" group-title="Entertainment" tvg-language="ron" tvg-quality="576i",Insula non stop
 https://live4dai.antenaplay.ro/live2_sdi05/live2_sdi05_600k.m3u8
 
@@ -1628,6 +1649,9 @@ http://88.212.7.14/live/jocky/index.m3u8
 #EXTINF:-1 tvg-id="JudgeJudy.de" tvg-name="Judge Judy" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Judge Judy
 https://jmp2.uk/plu-622f498d119b4c000719c0b7.m3u8
 
+#EXTINF:-1 tvg-id="JusticeCentralTV.us" tvg-name="Justice Central TV" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Justice Central TV
+https://a-cdn.klowdtv.com/live2/justicecentral_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KContentbyCJENM.us" tvg-name="K-Content by CJ ENM" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",K-Content by CJ ENM
 https://d2q0mzb9bm4w5z.cloudfront.net/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8
 
@@ -1706,9 +1730,6 @@ https://j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f
 #EXTINF:-1 tvg-id="KIX.hk" tvg-name="KIX" group-title="Entertainment" tvg-language="eng;ind;msa;zho" tvg-quality="1080p",KIX
 https://freem3u.xyz/api/live/play.m3u8?vid=9901
 
-#EXTINF:-1 tvg-id="Kluch.ru" tvg-name="Kluch" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Kluch
-http://hls127.freeott.top:8080/Kluch/video.m3u8
-
 #EXTINF:-1 tvg-id="KMCTTV391.us" tvg-name="KMCT-TV 39.1" group-title="Entertainment" tvg-language="eng" tvg-quality="1080i",KMCT-TV 39.1
 https://wggstv16.ddns.net:9953/hls/KMCT1.m3u8
 
@@ -1751,9 +1772,6 @@ https://cablered.iptvperu.tv:1936/cablered/la_tele.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaTeleTuya.ve" tvg-name="La Tele Tuya" group-title="Entertainment" tvg-language="spa" tvg-quality="576p",La Tele Tuya
 http://181.78.8.199:8000/play/a0fs/index.m3u8
-
-#EXTINF:-1 tvg-id="LaUne.be" tvg-name="La Une" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",La Une
-http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 
 #EXTINF:-1 tvg-id="La5.it" tvg-name="La5" group-title="Entertainment" tvg-language="ita" tvg-quality="576i",La5
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
@@ -2077,9 +2095,6 @@ https://lb.iptvnetwork.net/ls28/10114/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MovistarPlus.pe" tvg-name="Movistar Plus" group-title="Entertainment" tvg-language="spa" tvg-quality="576p",Movistar Plus
 http://190.108.91.206:9050/play/a0bb/index.m3u8
-
-#EXTINF:-1 tvg-id="MovistarPlus.pe" tvg-name="Movistar Plus" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Movistar Plus
-http://200.62.239.170:830/play/a08z/index.m3u8
 
 #EXTINF:-1 tvg-id="MovistarPlus.pe" tvg-name="Movistar Plus" group-title="Entertainment" tvg-language="spa" tvg-quality="576p",Movistar Plus
 http://45.4.1.201:8000/play/a19y/index.m3u8
@@ -2553,6 +2568,9 @@ https://petclub-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PetloversTV.br" tvg-name="Petlovers TV" group-title="Entertainment" tvg-language="por" tvg-quality="576i",Petlovers TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PetsTV.us" tvg-name="Pets.TV" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Pets.TV
+https://a-cdn.klowdtv.com/live2/petstv_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PimpMyRide.se" tvg-name="Pimp My Ride" group-title="Entertainment" tvg-language="dan;eng" tvg-quality="720p",Pimp My Ride
 https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8
 
@@ -2698,11 +2716,17 @@ https://mumbai-edge.smartplaytv.in/PulariTV/index.m3u8
 #EXTINF:-1 tvg-id="PulariTV.in" tvg-name="Pulari TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576i",Pulari TV
 https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
 
+#EXTINF:-1 tvg-id="PunjabiTV.in" tvg-name="Punjabi TV" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",Punjabi TV
+https://mumt07.tangotv.in/zHjX9OFlPUNJABITV/index.m3u8
+
 #EXTINF:-1 tvg-id="PunjabiTV.in" tvg-name="Punjabi TV" group-title="Entertainment" tvg-language="pan" tvg-quality="720p",Punjabi TV
 https://samitaorigin.tangotv.in/PUNJABITV/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="QTV.in" tvg-name="Q TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Q TV
 https://mumt05.tangotv.in/87NeALx2THEQ/index.m3u8
+
+#EXTINF:-1 tvg-id="QTV.in" tvg-name="Q TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Q TV
+https://samitaorigin.tangotv.in/THEQ/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="QTV.in" tvg-name="Q TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Q TV
 https://tvsen6.aynaott.com/3PjZZahm/index.m3u8
@@ -2740,6 +2764,9 @@ https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadiowaCzworka.pl" tvg-name="Radiowa Czworka" group-title="Entertainment" tvg-language="pol" tvg-quality="1080p",Radiowa Czworka
 https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RajTV.in" tvg-name="Raj TV" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Raj TV
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/b8640d6b-d131-4401-9451-944e1e65fe79/0.m3u8
 
 #EXTINF:-1 tvg-id="RajTV.in" tvg-name="Raj TV" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Raj TV
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8

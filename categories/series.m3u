@@ -291,9 +291,6 @@ https://jmp2.uk/plu-5d51e2bceca5b4b2c0e06c50.m3u8
 #EXTINF:-1 tvg-id="BlueBloods.us" tvg-name="Blue Bloods" group-title="Series" tvg-language="eng" tvg-quality="720p",Blue Bloods
 https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8
 
-#EXTINF:-1 tvg-id="Bolt.ru" tvg-name="Bolt" group-title="Movies;Series" tvg-language="rus" tvg-quality="576p",Bolt
-http://hls127.freeott.top:8080/Bolt/video.m3u8
-
 #EXTINF:-1 tvg-id="Bolt.ua" tvg-name="Bolt" group-title="Movies;Series" tvg-language="ukr" tvg-quality="1080p",Bolt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/73/index.m3u8
@@ -636,6 +633,9 @@ http://138.121.15.230:9002/EUROPA-EUROPA/index.m3u8
 http://38.252.238.18:8000/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="Europa Europa" group-title="Series" tvg-language="eng;spa" tvg-quality="1080p",Europa Europa
+http://45.228.234.9:8000/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="Europa Europa" group-title="Series" tvg-language="eng;spa" tvg-quality="1080p",Europa Europa
 https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="FamilyTies.us" tvg-name="Family Ties" group-title="Series" tvg-language="eng" tvg-quality="480i",Family Ties
@@ -722,6 +722,9 @@ https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8
 
 #EXTINF:-1 tvg-id="GZT.tr" tvg-name="GZT" group-title="Documentary;Series" tvg-language="eng;tur" tvg-quality="1080p",GZT
 https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkMystery.us" tvg-name="Hallmark Mystery" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",Hallmark Mystery
+http://41.205.93.154/HALLMARK/index.m3u8
 
 #EXTINF:-1 tvg-id="HappyDays.se" tvg-name="Happy Days" group-title="Classic;Series" tvg-language="dan;eng" tvg-quality="720p",Happy Days
 https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8
@@ -1374,6 +1377,9 @@ https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8
 #EXTINF:-1 tvg-id="ONCine.vn" tvg-name="ON Cine" group-title="Series" tvg-language="vie" tvg-quality="576i",ON Cine
 https://freem3u.xyz/api/live/play.m3u8?vid=176
 
+#EXTINF:-1 tvg-id="ONPhimViet.vn" tvg-name="ON Phim Viet" group-title="Series" tvg-language="vie" tvg-quality="1080p",ON Phim Viet
+https://vmttv.dpdns.org/tv360/?id=175
+
 #EXTINF:-1 tvg-id="OuterSphere.us" tvg-name="OuterSphere" group-title="Movies;Series" tvg-language="eng" tvg-quality="1080p",OuterSphere
 https://aegis-cloudfront-1.tubi.video/27de4f2e-7f9c-418a-9b0d-e4b35b0843a0/playlist.m3u8
 
@@ -1388,6 +1394,9 @@ https://jmp2.uk/plu-66c638726838ee00085ac20d.m3u8
 
 #EXTINF:-1 tvg-id="PantallaClasicaEC.ec" tvg-name="Pantalla Clasica EC" group-title="Movies;Series" tvg-language="spa" tvg-quality="512p",Pantalla Clasica EC
 https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" group-title="Movies;Series" tvg-language="eng" tvg-quality="1080p",Paramount Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us" tvg-name="PBS Antiques Roadshow" group-title="Series" tvg-language="eng" tvg-quality="1080p",PBS Antiques Roadshow
 https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
@@ -1834,9 +1843,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0cs
 
-#EXTINF:-1 tvg-id="StarCrime.bg" tvg-name="Star Crime" group-title="Series" tvg-language="bul" tvg-quality="720p",Star Crime
-http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8
-
 #EXTINF:-1 tvg-id="StarCrime.si" tvg-name="Star Crime" group-title="Series" tvg-language="slv" tvg-quality="576i",Star Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://92.36.202.5:10001/play/a02o
@@ -1844,9 +1850,6 @@ http://92.36.202.5:10001/play/a02o
 #EXTINF:-1 tvg-id="StarLife.bg" tvg-name="Star Life" group-title="Series" tvg-language="bul" tvg-quality="576i",Star Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0cr
-
-#EXTINF:-1 tvg-id="StarLife.bg" tvg-name="Star Life" group-title="Series" tvg-language="bul" tvg-quality="720p",Star Life
-http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8
 
 #EXTINF:-1 tvg-id="StarLife.si" tvg-name="Star Life" group-title="Series" tvg-language="slv" tvg-quality="576i",Star Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3

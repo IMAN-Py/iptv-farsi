@@ -6,9 +6,6 @@ http://hls127.freeott.top:8080/BG_FilmBox_Stars_HD/video.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/MovieStar/index.m3u8
 
-#EXTINF:-1 tvg-id="StarChannel.bg" tvg-name="Star Channel" group-title="Movies" tvg-language="bul;eng" tvg-quality="720p",Star Channel
-http://hls127.freeott.top:8080/BG_FOX/video.m3u8
-
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" group-title="Movies" tvg-language="bul" tvg-quality="1080p",Viasat Kino
 http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8
 

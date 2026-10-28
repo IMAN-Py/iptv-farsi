@@ -45,10 +45,19 @@ https://mumt01.tangotv.in/O5aw8Zn3KAIRALINEWS/index.m3u8
 https://cdn.pishow.tv/ott/live/463/master.m3u8
 
 #EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="Manorama News" group-title="News" tvg-language="mal" tvg-quality="1080p",Manorama News
+https://mmtvlive3.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvAdCampaign3/index.m3u8
+
+#EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="Manorama News" group-title="News" tvg-language="mal" tvg-quality="1080p",Manorama News
 https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
 
 #EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="Manorama News" group-title="News" tvg-language="mal" tvg-quality="576p",Manorama News
+https://segment.yuppcdn.net/240122/manoramanews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="Manorama News" group-title="News" tvg-language="mal" tvg-quality="576p",Manorama News
 https://streams.tangotv.in/MANORAMANEWSNORTH/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="Manorama News" group-title="News" tvg-language="mal" tvg-quality="576p",Manorama News
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/manoramanews_nim_https/240122/manoramanews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MathrubhumiNews.in" tvg-name="Mathrubhumi News" group-title="News" tvg-language="mal" tvg-quality="576i",Mathrubhumi News
 https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8
@@ -61,6 +70,9 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 
 #EXTINF:-1 tvg-id="MediaOne.in" tvg-name="Media One" group-title="News" tvg-language="mal" tvg-quality="720p",Media One
 https://cdn.pishow.tv/ott/live/1481/master.m3u8
+
+#EXTINF:-1 tvg-id="MediaOne.in" tvg-name="Media One" group-title="News" tvg-language="mal" tvg-quality="576p",Media One
+https://livegeoroueu.akamaized.net/120723/smil:mediaone3.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="MediaOne.in" tvg-name="Media One" group-title="News" tvg-language="mal" tvg-quality="576p",Media One
 https://streams.tangotv.in/MEDIAONETV/ORIGIN/index.m3u8
@@ -85,4 +97,7 @@ https://mumt07.tangotv.in/zHjX9OFlREPORTERTV/index.m3u8
 
 #EXTINF:-1 tvg-id="ReporterTV.in" tvg-name="Reporter TV" group-title="News" tvg-language="mal" tvg-quality="576p",Reporter TV
 https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ReporterTV.in" tvg-name="Reporter TV" group-title="News" tvg-language="mal" tvg-quality="576p",Reporter TV
+https://yuppnimresmum.akamaized.net/050522/reporter/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 

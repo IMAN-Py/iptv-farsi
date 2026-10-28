@@ -915,6 +915,9 @@ https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch1/video.m3u8
 https://mumbai-edge.smartplaytv.in/CVREnglishNews/index.m3u8
 
 #EXTINF:-1 tvg-id="CVREnglish.in" tvg-name="CVR English" group-title="News" tvg-language="eng" tvg-quality="576p",CVR English
+https://mumt03.tangotv.in/Dsly5z3HCVRNEWSENGLISH/index.m3u8
+
+#EXTINF:-1 tvg-id="CVREnglish.in" tvg-name="CVR English" group-title="News" tvg-language="eng" tvg-quality="576p",CVR English
 https://yuppnimrestreammum.akamaized.net/181224/smil:cvrnewseng.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="CypressChannel36.us" tvg-name="Cypress Channel 36" group-title="Legislative" tvg-language="eng" tvg-quality="360p",Cypress Channel 36
@@ -1250,9 +1253,6 @@ https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
 #EXTINF:-1 tvg-id="ForeverKids.us" tvg-name="Forever Kids" group-title="Kids" tvg-language="eng" tvg-quality="480i",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
 
-#EXTINF:-1 tvg-id="Formula1AntenaPlay.ro" tvg-name="Formula 1 AntenaPlay" group-title="Sports" tvg-language="eng" tvg-quality="576p",Formula 1 AntenaPlay
-https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8
-
 #EXTINF:-1 tvg-id="FORTTV.ug" tvg-name="FORT TV" group-title="Entertainment" tvg-language="eng" tvg-quality="480p",FORT TV
 https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8
 
@@ -1378,8 +1378,14 @@ https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8
 #EXTINF:-1 tvg-id="GODTV.uk" tvg-name="GOD TV" group-title="Religious" tvg-language="eng" tvg-quality="576p",GOD TV
 https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="GODTVAsia.uk" tvg-name="GOD TV Asia" group-title="Religious" tvg-language="eng" tvg-quality="576p",GOD TV Asia
+https://d1msejlow1t3l4.cloudfront.net/211125/godtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GodsLearningChannel.us" tvg-name="God's Learning Channel" group-title="Religious" tvg-language="eng" tvg-quality="480p",God's Learning Channel
 https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoodNewsTV.in" tvg-name="GoodNews TV" group-title="Religious" tvg-language="eng" tvg-quality="576p",GoodNews TV
+https://cdn.pishow.tv/ott/live/1413/master.m3u8
 
 #EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us" tvg-name="Gordon Ramsay's Hell's Kitchen" group-title="Cooking" tvg-language="eng" tvg-quality="480i",Gordon Ramsay's Hell's Kitchen
 https://jmp2.uk/plu-5b4e99f4423e067bd6df6903.m3u8
@@ -1853,12 +1859,6 @@ http://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-name="Moonbug Kids" group-title="Kids" tvg-language="eng" tvg-quality="576p",Moonbug Kids
 https://tvsen6.aynaott.com/MoonbugKids/index.m3u8
 
-#EXTINF:-1 tvg-id="MoozLove.ro" tvg-name="Mooz Love" group-title="Music" tvg-language="eng;ron" tvg-quality="576p",Mooz Love
-https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8
-
-#EXTINF:-1 tvg-id="MoozRetro.ro" tvg-name="Mooz Retro" group-title="Music" tvg-language="eng;ron" tvg-quality="576p",Mooz Retro
-https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8
-
 #EXTINF:-1 tvg-id="MoreGraceTV.ng" tvg-name="More Grace TV" group-title="Religious" tvg-language="eng" tvg-quality="410p",More Grace TV
 https://atechgroupuk.site/ETV.m3u8
 
@@ -2021,8 +2021,14 @@ https://reflect-npa.cablecast.tv/live-8/live/live.m3u8
 #EXTINF:-1 tvg-id="NCMMainChannel.us" tvg-name="NCM Main Channel" group-title="General" tvg-language="eng" tvg-quality="480i",NCM Main Channel
 https://reflect-npa.cablecast.tv/live-6/live/live.m3u8
 
+#EXTINF:-1 tvg-id="NDTV.in" tvg-name="NDTV" group-title="News" tvg-language="eng" tvg-quality="576p",NDTV
+https://cdn.pishow.tv/ott/live/315/master.m3u8
+
 #EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name="NDTV 24x7" group-title="News" tvg-language="eng" tvg-quality="480p",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+
+#EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-name="NDTV Good Times" group-title="Lifestyle" tvg-language="eng;hin;tam" tvg-quality="576p",NDTV Good Times
+https://cdn.pishow.tv/ott/live/1285/master.m3u8
 
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-name="NDTV Good Times" group-title="Lifestyle" tvg-language="eng;hin;tam" tvg-quality="396p",NDTV Good Times
 https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8
@@ -2511,6 +2517,9 @@ https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" group-title="News" tvg-language="eng" tvg-quality="576i",Republic TV
 https://cdn.pishow.tv/ott/live/271/master.m3u8
+
+#EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" group-title="News" tvg-language="eng" tvg-quality="576p",Republic TV
+https://mumt05.tangotv.in/87NeALx2REPUBLICTV/index.m3u8
 
 #EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" group-title="News" tvg-language="eng" tvg-quality="576p",Republic TV
 https://streams.tangotv.in/REPUBLICTV/ORIGIN/index.m3u8

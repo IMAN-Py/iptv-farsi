@@ -51,6 +51,9 @@ http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
 https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
 
 #EXTINF:-1 tvg-id="GTCNews.in" tvg-name="GTC News" group-title="News" tvg-language="pan" tvg-quality="1080p",GTC News
+https://gtc.ottlive.co.in/gtcnews/index.m3u8
+
+#EXTINF:-1 tvg-id="GTCNews.in" tvg-name="GTC News" group-title="News" tvg-language="pan" tvg-quality="1080p",GTC News
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/921cca59-daee-4f89-8c38-7ffe8de44f4c/index.m3u8
 
 #EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",GTC Punjabi
@@ -58,6 +61,18 @@ https://cdn.ottlive.co.in/gtcpunjabi/index.m3u8
 
 #EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",GTC Punjabi
 https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8
+
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",GTC Punjabi
+https://gtc.ottlive.co.in/gtcpunjabi/index.m3u8
+
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",GTC Punjabi
+https://neotv.ottlive.co.in/gtcpunjabi/index.m3u8
+
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",GTC Punjabi
+https://neotv.ottlive.co.in/gtcpunjabiuk/index.m3u8
+
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",GTC Punjabi
+https://neotv.ottlive.co.in/gtcpunjabiusa/index.m3u8
 
 #EXTINF:-1 tvg-id="HamdardTV.ca" tvg-name="Hamdard TV" group-title="News" tvg-language="pan" tvg-quality="1080p",Hamdard TV
 https://tv.hamdardtv.com/hamdard/index.m3u8
@@ -67,6 +82,9 @@ http://103.154.3.101:5001/live/959.m3u8
 
 #EXTINF:-1 tvg-id="KnockBhakti.in" tvg-name="Knock Bhakti" group-title="Religious" tvg-language="pan" tvg-quality="1080p",Knock Bhakti
 https://knocktv2.wiseplayout.com/Knock_Bhakti_EST/master.m3u8
+
+#EXTINF:-1 tvg-id="LivingIndiaNews.in" tvg-name="Living India News" group-title="News" tvg-language="pan" tvg-quality="1080p",Living India News
+https://livingindiaottlive.akamaized.net/livingindia/index.m3u8
 
 #EXTINF:-1 tvg-id="LivingIndiaNews.in" tvg-name="Living India News" group-title="News" tvg-language="pan" tvg-quality="1080p",Living India News
 https://stream.ottlive.co.in/livingindia/index.m3u8
@@ -88,6 +106,15 @@ https://samitaorigin.tangotv.in/NANAKSARLIVE/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="NewsStatePunjabHaryanaHimachal.in" tvg-name="News State Punjab Haryana Himachal" group-title="News" tvg-language="hin;pan" tvg-quality="1080p",News State Punjab Haryana Himachal
 https://jmp2.uk/stvp-IN300083R1
+
+#EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" group-title="Movies" tvg-language="pan" tvg-quality="1080p",Pitaara
+https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
+
+#EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" group-title="Movies" tvg-language="pan" tvg-quality="1080p",Pitaara
+https://d3i5c1nmken8bh.cloudfront.net/Live/Pitaara_TV_SCTE/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" group-title="Movies" tvg-language="pan" tvg-quality="1080p",Pitaara
+https://pitaara-lg.vgcdn.net/v1/vglive-sk-326599/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" group-title="Movies" tvg-language="pan" tvg-quality="720p",Pitaara
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
@@ -114,10 +141,19 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/in
 https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8
 
 #EXTINF:-1 tvg-id="PunjabiHits.in" tvg-name="Punjabi Hits" group-title="Music" tvg-language="pan" tvg-quality="1080p",Punjabi Hits
+https://legitpro.co.in/punjabihits/punjabihits/index.m3u8
+
+#EXTINF:-1 tvg-id="PunjabiHits.in" tvg-name="Punjabi Hits" group-title="Music" tvg-language="pan" tvg-quality="1080p",Punjabi Hits
+https://livingindiaottlive.akamaized.net/punjabihits/index.m3u8
+
+#EXTINF:-1 tvg-id="PunjabiHits.in" tvg-name="Punjabi Hits" group-title="Music" tvg-language="pan" tvg-quality="1080p",Punjabi Hits
 https://stream.ottlive.co.in/punjabihits/index.m3u8
 
 #EXTINF:-1 tvg-id="PunjabiMusicHD.in" tvg-name="Punjabi Music HD" group-title="Music" tvg-language="pan" tvg-quality="720p",Punjabi Music HD
 https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="PunjabiShorts.in" tvg-name="Punjabi Shorts" group-title="Movies" tvg-language="pan" tvg-quality="1080p",Punjabi Shorts
+https://gtc.ottlive.co.in/punjabshort/index.m3u8
 
 #EXTINF:-1 tvg-id="PunjabiShorts.in" tvg-name="Punjabi Shorts" group-title="Movies" tvg-language="pan" tvg-quality="1080p",Punjabi Shorts
 https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
@@ -141,6 +177,12 @@ https://samitaorigin.tangotv.in/SHREEHAZURSAHIBJI/SAMITAORIGIN/index.m3u8
 https://cdn12.henico.net:8443/live/ssct/index.m3u8
 
 #EXTINF:-1 tvg-id="TabbarHits.in" tvg-name="Tabbar Hits" group-title="Music" tvg-language="pan" tvg-quality="1080p",Tabbar Hits
+https://livingindiaottlive.akamaized.net/tabbarhits/index.m3u8
+
+#EXTINF:-1 tvg-id="TabbarHits.in" tvg-name="Tabbar Hits" group-title="Music" tvg-language="pan" tvg-quality="1080p",Tabbar Hits
+https://server.thelegitpro.in/tabbarhits/tabbarhits/index.m3u8
+
+#EXTINF:-1 tvg-id="TabbarHits.in" tvg-name="Tabbar Hits" group-title="Music" tvg-language="pan" tvg-quality="1080p",Tabbar Hits
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8
 
 #EXTINF:-1 tvg-id="TVPunjab.ca" tvg-name="TV Punjab" group-title="News" tvg-language="pan" tvg-quality="720p",TV Punjab
@@ -148,6 +190,12 @@ https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5
 
 #EXTINF:-1 tvg-id="WorldPunjabiTV.in" tvg-name="World Punjabi TV" group-title="News" tvg-language="pan" tvg-quality="1080p",World Punjabi TV
 https://live1.ottlive.co.in/worldpunjabitv/worldpunjabitv/index.m3u8
+
+#EXTINF:-1 tvg-id="WorldPunjabiTV.in" tvg-name="World Punjabi TV" group-title="News" tvg-language="pan" tvg-quality="1080p",World Punjabi TV
+https://stream.ottlive.co.in/worldpunjabitv/index.m3u8
+
+#EXTINF:-1 tvg-id="WorldPunjabiTV.in" tvg-name="World Punjabi TV" group-title="News" tvg-language="pan" tvg-quality="1080p",World Punjabi TV
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1cd73d38-bbd2-4d81-9ba7-58293f2e65a8/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeePunjabHaryanaHimachal.in" tvg-name="Zee Punjab Haryana Himachal" group-title="News" tvg-language="pan" tvg-quality="720p",Zee Punjab Haryana Himachal
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8

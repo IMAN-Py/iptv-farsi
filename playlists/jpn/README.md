@@ -4,7 +4,7 @@
 
 Find free Japanese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**11 channels · 20 stream entries**
+**12 channels · 21 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/jpn/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/all.m3u` |
-| HD | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/hd.m3u` |
+| All channels | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/all.m3u` |
+| HD | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/hd.m3u` |
 | SD / unknown | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/sd.m3u` |
 
 <a id="categories"></a>
@@ -30,7 +30,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Entertainment | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/entertainment.m3u` |
 | Animation | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/animation.m3u` |
 | Culture | 1 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/culture.m3u` |
-| General | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/general.m3u` |
+| General | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/general.m3u` |
 | Religious | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/religious.m3u` |
 | Shop | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/shop.m3u` |
 | Weather | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/jpn/weather.m3u` |
@@ -47,6 +47,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CGNTV Japan | CGNTVJapan.jp | 1080p | 1 |
 | DellaTV | DellaTV.it | 720p | 1 |
 | GSTV | GSTV.jp | 720p | 1 |
+| NHK General TV | NHKGeneralTV.jp | 1080i | 1 |
 | NHK World Premium | NHKWorldPremium.jp | 720p | 1 |
 | NHK World-Japan | NHKWorldJapan.jp | 1080p, 576p, 720p | 8 |
 | QVC | QVC.jp | 1080p | 1 |

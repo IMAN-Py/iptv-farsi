@@ -298,9 +298,6 @@ https://pb-5evqkeieu3o6d.akamaized.net/Magellan_TV_Now.m3u8
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://frndly.keralive.workers.dev/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/militaryhistory_live_nr/ab44a8245afe413db1169317ee5cda08/index.m3u8?type=ae2
 
-#EXTINF:-1 tvg-id="NationalGeographic.bg" tvg-name="National Geographic" group-title="Documentary" tvg-language="bul;eng" tvg-quality="1080p",National Geographic
-http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8
-
 #EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng" tvg-quality="720p",National Geographic
 http://198.58.104.90:8989/natgeo/index.m3u8
 

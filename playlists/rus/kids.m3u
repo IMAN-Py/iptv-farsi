@@ -130,9 +130,6 @@ https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
 http://31.148.48.15/Multimuzika/index.m3u8
 
 #EXTINF:-1 tvg-id="Multimuzyka.ru" tvg-name="Mult i muzyka" group-title="Kids" tvg-language="rus" tvg-quality="576p",Mult i muzyka
-http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8
-
-#EXTINF:-1 tvg-id="Multimuzyka.ru" tvg-name="Mult i muzyka" group-title="Kids" tvg-language="rus" tvg-quality="576p",Mult i muzyka
 http://stream.mcquack.net/82/index.m3u8
 
 #EXTINF:-1 tvg-id="Multilandia.ru" tvg-name="Multilandia" group-title="Kids" tvg-language="rus" tvg-quality="576p",Multilandia

@@ -28,6 +28,9 @@ http://178.76.68.60:7442/15/mpegts
 #EXTINF:-1 tvg-id="PROTVChisinau.md" tvg-name="PRO TV Chisinau" group-title="General;News" tvg-language="ron" tvg-quality="480p",PRO TV Chisinau
 https://stream.protv.md/live/sursa-1/index.m3u8
 
+#EXTINF:-1 tvg-id="PROTVNews.ro" tvg-name="PROTV News" group-title="News" tvg-language="ron" tvg-quality="576i",PROTV News
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-voyo-news/live_fullhd?offsetSeconds=0
+
 #EXTINF:-1 tvg-id="RealitateaTV.md" tvg-name="Realitatea TV" group-title="News" tvg-language="ron" tvg-quality="406p",Realitatea TV
 https://realitatealive.md/tv/rlive.m3u8
 

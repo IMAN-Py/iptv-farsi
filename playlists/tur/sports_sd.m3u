@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="beINSports1Turk.tr" tvg-name="beIN Sports 1 Turk" group-title="Sports" tvg-language="tur" tvg-quality="576i",beIN Sports 1 Turk
-https://andro.mangeinde4.lat/checklist/androstreamlivebs1.m3u8
-
-#EXTINF:-1 tvg-id="beINSports2Turk.tr" tvg-name="beIN Sports 2 Turk" group-title="Sports" tvg-language="tur" tvg-quality="576i",beIN Sports 2 Turk
-https://andro.mangeinde4.lat/checklist/androstreamlivebs2.m3u8
-
-#EXTINF:-1 tvg-id="beINSports3Turk.tr" tvg-name="beIN Sports 3 Turk" group-title="Sports" tvg-language="tur" tvg-quality="576i",beIN Sports 3 Turk
-https://andro.mangeinde4.lat/checklist/androstreamlivebs3.m3u8
-
-#EXTINF:-1 tvg-id="beINSports4Turk.tr" tvg-name="beIN Sports 4 Turk" group-title="Sports" tvg-language="tur" tvg-quality="576i",beIN Sports 4 Turk
-https://andro.mangeinde4.lat/checklist/androstreamlivebs4.m3u8
-
-#EXTINF:-1 tvg-id="beINSports5Turk.tr" tvg-name="beIN Sports 5 Turk" group-title="Sports" tvg-language="tur" tvg-quality="576i",beIN Sports 5 Turk
-https://andro.mangeinde4.lat/checklist/androstreamlivebs5.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-name="beIN Sports Haber" group-title="Sports" tvg-language="tur" tvg-quality="576i",beIN Sports Haber
-https://andro.mangeinde4.lat/checklist/androstreamlivebsh.m3u8
-
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="tur" tvg-quality="576i",Eurosport 1
 https://andro.mangeinde4.lat/checklist/androstreamlivees1.m3u8
 

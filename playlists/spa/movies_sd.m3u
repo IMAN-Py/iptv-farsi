@@ -37,6 +37,9 @@ http://200.115.96.61:9090/play/a0i5/index.m3u8
 #EXTINF:-1 tvg-id="CosmosTv.ar" tvg-name="Cosmos Tv" group-title="Movies;News" tvg-language="spa" tvg-quality="576i",Cosmos Tv
 https://canaletaplus.com:3922/live/cosmoslive.m3u8
 
+#EXTINF:-1 tvg-id="FilmArts.ar" tvg-name="Film & Arts" group-title="Movies" tvg-language="spa" tvg-quality="480p",Film & Arts
+http://45.228.234.9:8000/play/a06g/index.m3u8
+
 #EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO Mundi Latin America" group-title="Movies" tvg-language="spa" tvg-quality="480i",HBO Mundi Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8

@@ -148,6 +148,9 @@ http://45.167.2.101:8000/play/a0r8/index.m3u8
 #EXTINF:-1 tvg-id="Canal11TuTV.sv" tvg-name="Canal 11 TuTV" group-title="General" tvg-language="spa" tvg-quality="349p",Canal 11 TuTV
 https://stream.giostreaming.app/canal11/canal11.m3u8
 
+#EXTINF:-1 tvg-id="Canal12.ni" tvg-name="Canal 12" group-title="General" tvg-language="spa" tvg-quality="576p",Canal 12
+http://45.228.234.9:8000/play/a06s/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal12.sv" tvg-name="Canal 12" group-title="General" tvg-language="spa" tvg-quality="576p",Canal 12
 http://186.33.26.18:8000/play/a0nw/index.m3u8
 

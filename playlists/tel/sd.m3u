@@ -26,6 +26,9 @@ https://cdn.pishow.tv/ott/live/407/master.m3u8
 #EXTINF:-1 tvg-id="BhakthiTV.in" tvg-name="Bhakthi TV" group-title="Religious" tvg-language="tel" tvg-quality="576i",Bhakthi TV
 https://mumbai-edge.smartplaytv.in/BhakthiTv/index.m3u8
 
+#EXTINF:-1 tvg-id="BhakthiTV.in" tvg-name="Bhakthi TV" group-title="Religious" tvg-language="tel" tvg-quality="576p",Bhakthi TV
+https://yuppnimresmum.akamaized.net/240122/bhakti/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
 #EXTINF:-1 tvg-id="BIGTV.in" tvg-name="BIG TV" group-title="News" tvg-language="tel" tvg-quality="576p",BIG TV
 https://mumbai-edge.smartplaytv.in/BIGTV/index.m3u8
 
@@ -37,6 +40,9 @@ https://cdn.pishow.tv/ott/live/1037/master.m3u8
 
 #EXTINF:-1 tvg-id="BRKNews.in" tvg-name="BRK News" group-title="News" tvg-language="tel" tvg-quality="576p",BRK News
 https://d2gvyg6lvauoko.cloudfront.net/230226/brknews/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="BRKNews.in" tvg-name="BRK News" group-title="News" tvg-language="tel" tvg-quality="576p",BRK News
+https://mumt03.tangotv.in/Dsly5z3HBRKNEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="CalvaryTV.in" tvg-name="Calvary TV" group-title="Uncategorized" tvg-language="tel" tvg-quality="576p",Calvary TV
 https://cdn.pishow.tv/ott/live/963/master.m3u8
@@ -50,14 +56,23 @@ https://cdn.pishow.tv/ott/live/395/master.m3u8
 #EXTINF:-1 tvg-id="CVRHealth.in" tvg-name="CVR Health" group-title="Lifestyle" tvg-language="tel" tvg-quality="576p",CVR Health
 https://mumbai-edge.smartplaytv.in/CVRHealth/index.m3u8
 
+#EXTINF:-1 tvg-id="CVRHealth.in" tvg-name="CVR Health" group-title="Lifestyle" tvg-language="tel" tvg-quality="576p",CVR Health
+https://mumt04.tangotv.in/m18aqlK4CVRHEALTH/index.m3u8
+
 #EXTINF:-1 tvg-id="CVRNews.in" tvg-name="CVR News" group-title="News" tvg-language="tel" tvg-quality="576p",CVR News
 https://mumbai-edge.smartplaytv.in/CVRNews/index.m3u8
+
+#EXTINF:-1 tvg-id="CVRNews.in" tvg-name="CVR News" group-title="News" tvg-language="tel" tvg-quality="576p",CVR News
+https://mumt04.tangotv.in/m18aqlK4CVRNEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="CVROMSpiritual.in" tvg-name="CVR OM Spiritual" group-title="Religious" tvg-language="tel" tvg-quality="576p",CVR OM Spiritual
 https://cdn.pishow.tv/ott/live/957/master.m3u8
 
 #EXTINF:-1 tvg-id="CVROMSpiritual.in" tvg-name="CVR OM Spiritual" group-title="Religious" tvg-language="tel" tvg-quality="576p",CVR OM Spiritual
 https://mumbai-edge.smartplaytv.in/CVROM/index.m3u8
+
+#EXTINF:-1 tvg-id="CVROMSpiritual.in" tvg-name="CVR OM Spiritual" group-title="Religious" tvg-language="tel" tvg-quality="576p",CVR OM Spiritual
+https://mumt01.tangotv.in/O5aw8Zn3CVRSPRITUALOM/index.m3u8
 
 #EXTINF:-1 tvg-id="CVROMSpiritual.in" tvg-name="CVR OM Spiritual" group-title="Religious" tvg-language="tel" tvg-quality="576p",CVR OM Spiritual
 https://yuppnimrestreammum.akamaized.net/181224/smil:cvrom1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
@@ -98,14 +113,14 @@ https://cdn.pishow.tv/ott/live/959/master.m3u8
 #EXTINF:-1 tvg-id="HinduDharmam.in" tvg-name="Hindu Dharmam" group-title="Religious" tvg-language="tel" tvg-quality="576p",Hindu Dharmam
 https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8
 
+#EXTINF:-1 tvg-id="HinduDharmam.in" tvg-name="Hindu Dharmam" group-title="Religious" tvg-language="tel" tvg-quality="576p",Hindu Dharmam
+https://yuppnimrestreammum.akamaized.net/181224/smil:hindudharmam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
 #EXTINF:-1 tvg-id="HMTV.in" tvg-name="HMTV" group-title="News" tvg-language="tel" tvg-quality="576p",HMTV
 https://mumbai-edge.smartplaytv.in/HMTV/index.m3u8
 
 #EXTINF:-1 tvg-id="HMTV.in" tvg-name="HMTV" group-title="News" tvg-language="tel" tvg-quality="576p",HMTV
 https://yuppnimresmum.akamaized.net/28072023/smil:hmtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-
-#EXTINF:-1 tvg-id="HungamaTV.in" tvg-name="Hungama TV" group-title="Kids" tvg-language="hin;tam;tel" tvg-quality="576p",Hungama TV
-http://103.185.24.134:3001/HUNGAMA/index.m3u8
 
 #EXTINF:-1 tvg-id="HungamaTV.in" tvg-name="Hungama TV" group-title="Kids" tvg-language="hin;tam;tel" tvg-quality="576p",Hungama TV
 http://66.102.126.10:8000/play/a023/index.m3u8
@@ -121,6 +136,9 @@ https://yuppnimresmum.akamaized.net/28072023/smil:inews.smil/playlist.m3u8?hdnts
 
 #EXTINF:-1 tvg-id="MahaaBhakti.in" tvg-name="Mahaa Bhakti" group-title="Religious" tvg-language="tel" tvg-quality="576p",Mahaa Bhakti
 https://d1msejlow1t3l4.cloudfront.net/fta/mahaabhakti/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MahaaBhakti.in" tvg-name="Mahaa Bhakti" group-title="Religious" tvg-language="tel" tvg-quality="576p",Mahaa Bhakti
+https://mumt01.tangotv.in/O5aw8Zn3MAHABHAKTI/index.m3u8
 
 #EXTINF:-1 tvg-id="MahaaMax.in" tvg-name="Mahaa Max" group-title="Entertainment" tvg-language="tel" tvg-quality="576p",Mahaa Max
 https://cdn.pishow.tv/ott/live/1147/master.m3u8
@@ -161,6 +179,9 @@ https://cdn.pishow.tv/ott/live/383/master.m3u8
 #EXTINF:-1 tvg-id="NTVTelugu.in" tvg-name="NTV Telugu" group-title="News" tvg-language="tel" tvg-quality="576p",NTV Telugu
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NTVTelugu.in" tvg-name="NTV Telugu" group-title="News" tvg-language="tel" tvg-quality="576p",NTV Telugu
+https://yuppnimresmum.akamaized.net/110322/ntv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
 #EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" group-title="Animation;Kids" tvg-language="hin;kan;mal;mar;tam;tel" tvg-quality="576p",Pogo
 http://103.151.60.162:2122/play/a01e/index.m3u8?hls
 
@@ -187,6 +208,9 @@ https://mumt07.tangotv.in/zHjX9OFlSAKSHITV/index.m3u8
 
 #EXTINF:-1 tvg-id="SakshiTV.in" tvg-name="Sakshi TV" group-title="News" tvg-language="tel" tvg-quality="576p",Sakshi TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SakshiTV.in" tvg-name="Sakshi TV" group-title="News" tvg-language="tel" tvg-quality="576p",Sakshi TV
+https://yuppnimresmum.akamaized.net/240122/sakshi/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" group-title="Kids" tvg-language="ben;hin;kan;mal;mar;tam;tel" tvg-quality="576p",Sonic
 http://103.151.60.162:2122/play/a02v/index.m3u8?hls

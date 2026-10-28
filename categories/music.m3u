@@ -86,6 +86,9 @@ https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
 #EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9X Jalwa" group-title="Music" tvg-language="hin" tvg-quality="1080p",9X Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 
+#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9X Jalwa" group-title="Music" tvg-language="hin" tvg-quality="576p",9X Jalwa
+https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjalwa.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
 #EXTINF:-1 tvg-id="9XJhakaas.in" tvg-name="9X Jhakaas" group-title="Music" tvg-language="mar" tvg-quality="1080p",9X Jhakaas
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
 
@@ -97,6 +100,12 @@ https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8
 
 #EXTINF:-1 tvg-id="9XJhakaas.in" tvg-name="9X Jhakaas" group-title="Music" tvg-language="mar" tvg-quality="1080p",9X Jhakaas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+
+#EXTINF:-1 tvg-id="9XJhakaas.in" tvg-name="9X Jhakaas" group-title="Music" tvg-language="mar" tvg-quality="576p",9X Jhakaas
+https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjhakaas.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="576p",9X Tashan
+http://107.167.16.138/9xtashan/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="1080p",9X Tashan
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
@@ -116,8 +125,14 @@ https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8
 #EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="1080p",9X Tashan
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 
+#EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="576p",9X Tashan
+https://yupplivegcp2.yuppcdn.net/28072023/smil:9xtashan.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
 #EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" group-title="Music" tvg-language="hin" tvg-quality="1080p",9XM
 https://9xjio.wiseplayout.com/9XM/master.m3u8
+
+#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" group-title="Music" tvg-language="hin" tvg-quality="576p",9XM
+https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8
 
 #EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" group-title="Music" tvg-language="hin" tvg-quality="1080p",9XM
 https://epiconvh.akamaized.net/live/9XM/master.m3u8
@@ -127,6 +142,12 @@ https://streams.tangotv.in/9XM/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" group-title="Music" tvg-language="hin" tvg-quality="1080p",9XM
 https://wiselp.wiseplayout.com/9XM/master.m3u8
+
+#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" group-title="Music" tvg-language="hin" tvg-quality="576p",9XM
+https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" group-title="Music" tvg-language="hin" tvg-quality="576p",9XM
+https://yupplivegcp2.yuppcdn.net/28072023/smil:9xmusic4.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="A1.ru" tvg-name="A1" group-title="Music" tvg-language="eng;rus" tvg-quality="576p",A1
 http://31.148.48.15/A1/index.m3u8
@@ -275,6 +296,9 @@ https://cdn.pishow.tv/ott/live/987/master.m3u8
 
 #EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="Balle Balle" group-title="Music" tvg-language="hin" tvg-quality="720p",Balle Balle
 https://mcncdndigital.com/balleballetv/index.m3u8
+
+#EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="Balle Balle" group-title="Music" tvg-language="hin" tvg-quality="1080p",Balle Balle
+https://mcncdndigital.com/worldpunjabitv/index.m3u8
 
 #EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="Balle Balle" group-title="Music" tvg-language="hin" tvg-quality="576p",Balle Balle
 https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8
@@ -642,10 +666,6 @@ https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="EpicMusic.in" tvg-name="Epic Music" group-title="Music" tvg-language="hin" tvg-quality="576p",Epic Music
 https://streams.tangotv.in/EPICMUSIC/ORIGIN/index.m3u8
 
-#EXTINF:-1 tvg-id="EskaRockTV.pl" tvg-name="Eska Rock TV" group-title="Music" tvg-language="pol" tvg-quality="576i",Eska Rock TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://91.228.35.249:8001/1:0:1:2909:1EDC:71:820000:0:0:0:
-
 #EXTINF:-1 tvg-id="EskaRockTV.pl" tvg-name="Eska Rock TV" group-title="Music" tvg-language="pol" tvg-quality="1080p",Eska Rock TV
 http://92.114.85.87:8016/play/a005/index.m3u8
 
@@ -706,17 +726,11 @@ http://159.203.148.226/live/farra.m3u8
 #EXTINF:-1 tvg-id="FarraPlay.py" tvg-name="Farra Play" group-title="Music" tvg-language="spa" tvg-quality="576p",Farra Play
 https://stream.farra.com.py/live/farra_low.m3u8
 
-#EXTINF:-1 tvg-id="FavoritTV2.ro" tvg-name="Favorit TV2" group-title="Music" tvg-language="ron" tvg-quality="576i",Favorit TV2
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-canal-33/live_hq?offsetSeconds=0
-
 #EXTINF:-1 tvg-id="FiestaTV.co" tvg-name="Fiesta TV" group-title="Music" tvg-language="spa" tvg-quality="576i",Fiesta TV
 https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
 
 #EXTINF:-1 tvg-id="FinestTV.de" tvg-name="Finest TV" group-title="Music" tvg-language="deu;tur" tvg-quality="288p",Finest TV
 https://media.finest.tv/hls/live.m3u8
-
-#EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-name="First Music Channel" group-title="Music" tvg-language="rus" tvg-quality="1080p",First Music Channel
-http://hls127.freeott.top:8080/1mus_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-name="First Music Channel" group-title="Music" tvg-language="rus" tvg-quality="720p",First Music Channel
 http://hz1.teleport.cc/HLS/HD.m3u8
@@ -729,9 +743,6 @@ http://rtmp.one.by:1200
 
 #EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-name="First Music Channel" group-title="Music" tvg-language="rus" tvg-quality="1080p",First Music Channel
 http://rtmp.one.by:1300
-
-#EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-name="First Music Channel Russia" group-title="Music" tvg-language="rus" tvg-quality="1080p",First Music Channel Russia
-http://hls127.freeott.top:8080/1muz_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-name="First Music Channel Russia" group-title="Music" tvg-language="rus" tvg-quality="576p",First Music Channel Russia
 http://rtmp.one.by:2200
@@ -871,6 +882,9 @@ https://customer-yzxu6n447dx2x45h.cloudflarestream.com/f255a1e5ef17a8277e15e5f40
 
 #EXTINF:-1 tvg-id="HopeChannelPROYECTOJA.cr" tvg-name="Hope Channel PROYECTO JA" group-title="Family;Music;Religious" tvg-language="eng;spa" tvg-quality="360p",Hope Channel PROYECTO JA
 https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8
+
+#EXTINF:-1 tvg-id="HTV.us" tvg-name="HTV" group-title="Music" tvg-language="spa" tvg-quality="720p",HTV
+http://45.134.141.161:2200/ARG/HTV/index.m3u8
 
 #EXTINF:-1 tvg-id="HTV.us" tvg-name="HTV" group-title="Music" tvg-language="spa" tvg-quality="720p",HTV
 http://45.171.64.30:6060/play/a012/index.m3u8
@@ -1166,9 +1180,6 @@ https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-id="MagicTV.ro" tvg-name="Magic TV" group-title="Music" tvg-language="ron" tvg-quality="720p",Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 
-#EXTINF:-1 tvg-id="Maidan.ru" tvg-name="Maidan" group-title="Music" tvg-language="rus" tvg-quality="576p",Maidan
-http://hls127.freeott.top:8080/Maydan/video.m3u8
-
 #EXTINF:-1 tvg-id="Maidan.ru" tvg-name="Maidan" group-title="Music" tvg-language="rus" tvg-quality="720p",Maidan
 https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 
@@ -1332,12 +1343,6 @@ https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
 #EXTINF:-1 tvg-id="MoozHits.ro" tvg-name="Mooz Hits" group-title="Music" tvg-language="ron" tvg-quality="576i",Mooz Hits
 https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
 
-#EXTINF:-1 tvg-id="MoozLove.ro" tvg-name="Mooz Love" group-title="Music" tvg-language="eng;ron" tvg-quality="576p",Mooz Love
-https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8
-
-#EXTINF:-1 tvg-id="MoozRetro.ro" tvg-name="Mooz Retro" group-title="Music" tvg-language="eng;ron" tvg-quality="576p",Mooz Retro
-https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8
-
 #EXTINF:-1 tvg-id="MoozRo.ro" tvg-name="Mooz Ro!" group-title="Music" tvg-language="ron" tvg-quality="576i",Mooz Ro!
 https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
 
@@ -1448,9 +1453,6 @@ http://31.148.5.241/kanal_20/index.m3u8
 
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Muz-TV
 http://46.32.176.50/muztv/index.m3u8
-
-#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Muz-TV
-http://hls127.freeott.top:8080/MUZ_TV/video.m3u8
 
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Muz-TV
 http://stream.mcquack.net/86/index.m3u8
@@ -1637,9 +1639,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17
 
 #EXTINF:-1 tvg-id="Number1TV.tr" tvg-name="Number 1 TV" group-title="Music" tvg-language="tur" tvg-quality="720p",Number 1 TV
 https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
-
-#EXTINF:-1 tvg-id="NutaTV.pl" tvg-name="Nuta TV" group-title="Music" tvg-language="pol" tvg-quality="576i",Nuta TV
-http://92.114.85.87:8010/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="o2tv.ru" tvg-name="o2tv" group-title="Music" tvg-language="rus" tvg-quality="720p",o2tv
 http://31.148.48.15/O2_HD/index.m3u8
@@ -1849,6 +1848,15 @@ https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiBeatsHD.in" tvg-name="Punjabi Beats HD" group-title="Music" tvg-language="pan" tvg-quality="720p",Punjabi Beats HD
 https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8
 
+#EXTINF:-1 tvg-id="PunjabiBeatsHD.in" tvg-name="Punjabi Beats HD" group-title="Music" tvg-language="pan" tvg-quality="576p",Punjabi Beats HD
+https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="PunjabiHits.in" tvg-name="Punjabi Hits" group-title="Music" tvg-language="pan" tvg-quality="1080p",Punjabi Hits
+https://legitpro.co.in/punjabihits/punjabihits/index.m3u8
+
+#EXTINF:-1 tvg-id="PunjabiHits.in" tvg-name="Punjabi Hits" group-title="Music" tvg-language="pan" tvg-quality="1080p",Punjabi Hits
+https://livingindiaottlive.akamaized.net/punjabihits/index.m3u8
+
 #EXTINF:-1 tvg-id="PunjabiHits.in" tvg-name="Punjabi Hits" group-title="Music" tvg-language="pan" tvg-quality="1080p",Punjabi Hits
 https://stream.ottlive.co.in/punjabihits/index.m3u8
 
@@ -1989,9 +1997,6 @@ https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 
 #EXTINF:-1 tvg-id="RadioRomania3Net.ro" tvg-name="Radio Romania 3Net" group-title="Music" tvg-language="ron" tvg-quality="480p",Radio Romania 3Net
 https://media.3netmedia.ro/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro" tvg-name="Radio Romania Antena Satelor" group-title="Music" tvg-language="ron" tvg-quality="720p",Radio Romania Antena Satelor
-https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioRomaniaIasi.ro" tvg-name="Radio Romania Iasi" group-title="General;Music" tvg-language="ron" tvg-quality="576i",Radio Romania Iasi
 https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8
@@ -2483,8 +2488,14 @@ https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
 #EXTINF:-1 tvg-id="T2TV.ir" tvg-name="T2 TV" group-title="Music" tvg-language="fas" tvg-quality="576i",T2 TV
 https://t2hls.wns.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="TabbarHits.in" tvg-name="Tabbar Hits" group-title="Music" tvg-language="pan" tvg-quality="1080p",Tabbar Hits
+https://livingindiaottlive.akamaized.net/tabbarhits/index.m3u8
+
 #EXTINF:-1 tvg-id="TabbarHits.in" tvg-name="Tabbar Hits" group-title="Music" tvg-language="pan" tvg-quality="576p",Tabbar Hits
 https://mumt04.tangotv.in/m18aqlK4TABBARHITS/index.m3u8
+
+#EXTINF:-1 tvg-id="TabbarHits.in" tvg-name="Tabbar Hits" group-title="Music" tvg-language="pan" tvg-quality="1080p",Tabbar Hits
+https://server.thelegitpro.in/tabbarhits/tabbarhits/index.m3u8
 
 #EXTINF:-1 tvg-id="TabbarHits.in" tvg-name="Tabbar Hits" group-title="Music" tvg-language="pan" tvg-quality="576p",Tabbar Hits
 https://streams.tangotv.in/TABBARHITS/ORIGIN/index.m3u8

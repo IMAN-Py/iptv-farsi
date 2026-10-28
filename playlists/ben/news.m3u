@@ -8,6 +8,9 @@ https://cdn.pishow.tv/ott/live/237/master.m3u8
 #EXTINF:-1 tvg-id="AKDCalcuttaNews.in" tvg-name="AKD Calcutta News" group-title="News" tvg-language="ben" tvg-quality="1080p",AKD Calcutta News
 https://live.legitpro.co.in/cnnnews/index.m3u8
 
+#EXTINF:-1 tvg-id="AKDCalcuttaNews.in" tvg-name="AKD Calcutta News" group-title="News" tvg-language="ben" tvg-quality="576p",AKD Calcutta News
+https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8
+
 #EXTINF:-1 tvg-id="AkhonKolkata.in" tvg-name="Akhon Kolkata" group-title="News" tvg-language="ben" tvg-quality="478p",Akhon Kolkata
 https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8
 
@@ -25,6 +28,9 @@ https://cdn.pishow.tv/ott/live/448/master.m3u8
 
 #EXTINF:-1 tvg-id="CTVNAKDPlus.in" tvg-name="CTVN AKD Plus" group-title="News" tvg-language="ben" tvg-quality="1080p",CTVN AKD Plus
 https://live.legitpro.co.in/ctvnakdplus/index.m3u8
+
+#EXTINF:-1 tvg-id="CTVNAKDPlus.in" tvg-name="CTVN AKD Plus" group-title="News" tvg-language="ben" tvg-quality="576p",CTVN AKD Plus
+https://mumt03.tangotv.in/Dsly5z3HCTVNAKDPLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="DBCNews.bd" tvg-name="DBC News" group-title="News" tvg-language="ben" tvg-quality="480p",DBC News
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8

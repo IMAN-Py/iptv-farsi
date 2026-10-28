@@ -110,6 +110,9 @@ https://lana.psm.mv/live/mtv.m3u8
 #EXTINF:-1 tvg-id="Moyastikhiya.ru" tvg-name="Moya stikhiya" group-title="Travel" tvg-language="rus" tvg-quality="1080p",Moya stikhiya
 http://stream.mcquack.net/141/index.m3u8
 
+#EXTINF:-1 tvg-id="MyDestinationTV.us" tvg-name="MyDestination.TV" group-title="Travel" tvg-language="eng" tvg-quality="720p",MyDestination.TV
+https://a-cdn.klowdtv.com/live2/mydestinationtv_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="OEPMTV.do" tvg-name="OEPM TV" group-title="Travel" tvg-language="spa" tvg-quality="720p",OEPM TV
 https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
 
@@ -194,9 +197,6 @@ http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
 
 #EXTINF:-1 tvg-id="TravelChannel.pl" tvg-name="Travel Channel" group-title="Travel" tvg-language="eng" tvg-quality="576i",Travel Channel
 http://92.114.85.87:8011/play/a00d/index.m3u8
-
-#EXTINF:-1 tvg-id="TravelMix.ro" tvg-name="Travel Mix" group-title="Travel" tvg-language="ron" tvg-quality="576p",Travel Mix
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-travel-mix/live_hq?offsetSeconds=0
 
 #EXTINF:-1 tvg-id="TravelMix.ro" tvg-name="Travel Mix" group-title="Travel" tvg-language="ron" tvg-quality="576i",Travel Mix
 https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8

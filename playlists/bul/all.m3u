@@ -48,18 +48,12 @@ http://213.91.179.28:8000/play/a04m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a046
 
-#EXTINF:-1 tvg-id="BNT1.bg" tvg-name="BNT 1" group-title="General" tvg-language="bul" tvg-quality="720p",BNT 1
-http://hls127.freeott.top:8080/BG_BNT_1/video.m3u8
-
 #EXTINF:-1 tvg-id="BNT1.bg" tvg-name="BNT 1" group-title="General" tvg-language="bul" tvg-quality="1080p",BNT 1
 https://shift03.isp.bg/BNT1_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="BNT2.bg" tvg-name="BNT 2" group-title="General" tvg-language="bul" tvg-quality="576i",BNT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a049
-
-#EXTINF:-1 tvg-id="BNT2.bg" tvg-name="BNT 2" group-title="General" tvg-language="bul" tvg-quality="720p",BNT 2
-http://hls127.freeott.top:8080/BG_BNT_2_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="BNT2.bg" tvg-name="BNT 2" group-title="General" tvg-language="bul" tvg-quality="1080p",BNT 2
 https://shift03.isp.bg/BNT2_HD/index.m3u8
@@ -68,18 +62,12 @@ https://shift03.isp.bg/BNT2_HD/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03x
 
-#EXTINF:-1 tvg-id="BNT3.bg" tvg-name="BNT 3" group-title="General" tvg-language="bul" tvg-quality="720p",BNT 3
-http://hls127.freeott.top:8080/BG_BNT_3_HD/video.m3u8
-
 #EXTINF:-1 tvg-id="BNT3.bg" tvg-name="BNT 3" group-title="General" tvg-language="bul" tvg-quality="1080p",BNT 3
 https://shift03.isp.bg/BNT3_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="BNT4.bg" tvg-name="BNT 4" group-title="General" tvg-language="bul" tvg-quality="576i",BNT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a04u
-
-#EXTINF:-1 tvg-id="BNT4.bg" tvg-name="BNT 4" group-title="General" tvg-language="bul" tvg-quality="720p",BNT 4
-http://hls127.freeott.top:8080/BG_BNT_4_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="BNT4.bg" tvg-name="BNT 4" group-title="General" tvg-language="bul" tvg-quality="1080p",BNT 4
 https://shift03.isp.bg/BNT4_HD/index.m3u8
@@ -227,29 +215,17 @@ https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36x
 http://213.91.179.28:8000/play/a0as
 
-#EXTINF:-1 tvg-id="MaxSport1.bg" tvg-name="Max Sport 1" group-title="Sports" tvg-language="bul" tvg-quality="1080p",Max Sport 1
-http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8
-
 #EXTINF:-1 tvg-id="MaxSport2.bg" tvg-name="Max Sport 2" group-title="Sports" tvg-language="bul" tvg-quality="720p",Max Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://213.91.179.28:8000/play/a0at
-
-#EXTINF:-1 tvg-id="MaxSport2.bg" tvg-name="Max Sport 2" group-title="Sports" tvg-language="bul" tvg-quality="1080p",Max Sport 2
-http://hls127.freeott.top:8080/BG_MAX_Sport_2_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="MaxSport3.bg" tvg-name="Max Sport 3" group-title="Sports" tvg-language="bul" tvg-quality="720p",Max Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://213.91.179.28:8000/play/a0ar
 
-#EXTINF:-1 tvg-id="MaxSport3.bg" tvg-name="Max Sport 3" group-title="Sports" tvg-language="bul" tvg-quality="1080p",Max Sport 3
-http://hls127.freeott.top:8080/BG_MAX_Sport_3_HD/video.m3u8
-
 #EXTINF:-1 tvg-id="MaxSport4.bg" tvg-name="Max Sport 4" group-title="Sports" tvg-language="bul" tvg-quality="576i",Max Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a05n
-
-#EXTINF:-1 tvg-id="MaxSport4.bg" tvg-name="Max Sport 4" group-title="Sports" tvg-language="bul" tvg-quality="1080p",Max Sport 4
-http://hls127.freeott.top:8080/BG_MAX_Sport_4_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="MovieStar.bg" tvg-name="Movie Star" group-title="Movies" tvg-language="bul" tvg-quality="576i",Movie Star
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -269,15 +245,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsung
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0ct
 
-#EXTINF:-1 tvg-id="NationalGeographic.bg" tvg-name="National Geographic" group-title="Documentary" tvg-language="bul;eng" tvg-quality="1080p",National Geographic
-http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8
-
 #EXTINF:-1 tvg-id="NationalGeographicWild.bg" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="bul" tvg-quality="576i",National Geographic Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0cu
-
-#EXTINF:-1 tvg-id="NationalGeographicWild.bg" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="bul" tvg-quality="1080p",National Geographic Wild
-http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.bg" tvg-name="Nickelodeon" group-title="Kids" tvg-language="bul" tvg-quality="576i",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -285,9 +255,6 @@ http://213.91.179.28:8000/play/a056
 
 #EXTINF:-1 tvg-id="Nickelodeon.bg" tvg-name="Nickelodeon" group-title="Kids" tvg-language="bul" tvg-quality="576i",Nickelodeon
 http://87.120.179.187:8000/play/a00x
-
-#EXTINF:-1 tvg-id="Nickelodeon.bg" tvg-name="Nickelodeon" group-title="Kids" tvg-language="bul" tvg-quality="576p",Nickelodeon
-http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8
 
 #EXTINF:-1 tvg-id="Nostalgia.bg" tvg-name="Nostalgia" group-title="Classic" tvg-language="bul" tvg-quality="576i",Nostalgia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -318,22 +285,13 @@ https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/strea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0c9
 
-#EXTINF:-1 tvg-id="StarChannel.bg" tvg-name="Star Channel" group-title="Movies" tvg-language="bul;eng" tvg-quality="720p",Star Channel
-http://hls127.freeott.top:8080/BG_FOX/video.m3u8
-
 #EXTINF:-1 tvg-id="StarCrime.bg" tvg-name="Star Crime" group-title="Series" tvg-language="bul" tvg-quality="576i",Star Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0cs
 
-#EXTINF:-1 tvg-id="StarCrime.bg" tvg-name="Star Crime" group-title="Series" tvg-language="bul" tvg-quality="720p",Star Crime
-http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8
-
 #EXTINF:-1 tvg-id="StarLife.bg" tvg-name="Star Life" group-title="Series" tvg-language="bul" tvg-quality="576i",Star Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0cr
-
-#EXTINF:-1 tvg-id="StarLife.bg" tvg-name="Star Life" group-title="Series" tvg-language="bul" tvg-quality="720p",Star Life
-http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8
 
 #EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" group-title="Outdoor" tvg-language="bul;ces;hun;ron" tvg-quality="1080i",The Fishing & Hunting Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -392,7 +350,4 @@ https://shift03.isp.bg/ViasatNature_HD/index.m3u8
 #EXTINF:-1 tvg-id="VivacomArena.bg" tvg-name="Vivacom Arena" group-title="Uncategorized" tvg-language="bul" tvg-quality="576i",Vivacom Arena
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a053
-
-#EXTINF:-1 tvg-id="VivacomArena.bg" tvg-name="Vivacom Arena" group-title="Uncategorized" tvg-language="bul" tvg-quality="720p",Vivacom Arena
-http://hls127.freeott.top:8080/BG_Vivacom_Arena_HD/video.m3u8
 

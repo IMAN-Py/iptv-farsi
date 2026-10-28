@@ -274,6 +274,9 @@ https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
 #EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-name="Hallmark Movies & More" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Hallmark Movies & More
 https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
 
+#EXTINF:-1 tvg-id="HallmarkMystery.us" tvg-name="Hallmark Mystery" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",Hallmark Mystery
+http://41.205.93.154/HALLMARK/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" group-title="Movies;Series" tvg-language="eng;spa" tvg-quality="720p",HBO
 http://tvsen7.aynascope.net/hbo/index.m3u8
 
@@ -462,6 +465,9 @@ https://jmp2.uk/plu-66c638726838ee00085ac20d.m3u8
 
 #EXTINF:-1 tvg-id="ParamountMovieChannel.us" tvg-name="Paramount Movie Channel" group-title="Movies" tvg-language="eng" tvg-quality="480i",Paramount Movie Channel
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" group-title="Movies;Series" tvg-language="eng" tvg-quality="1080p",Paramount Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="ParamountPlusPicks.us" tvg-name="Paramount+ Picks" group-title="Movies" tvg-language="eng" tvg-quality="480i",Paramount+ Picks
 https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
@@ -701,14 +707,8 @@ http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0c9
 
-#EXTINF:-1 tvg-id="StarChannel.bg" tvg-name="Star Channel" group-title="Movies" tvg-language="bul;eng" tvg-quality="720p",Star Channel
-http://hls127.freeott.top:8080/BG_FOX/video.m3u8
-
 #EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
 http://103.151.60.162:2122/play/a02k/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
-http://103.185.24.134:3001/Star-Movies/index.m3u8
 
 #EXTINF:-1 tvg-id="StarTrekMovies.se" tvg-name="Star Trek Movies" group-title="Movies" tvg-language="eng;nor" tvg-quality="720p",Star Trek Movies
 https://jmp2.uk/plu-6400c228498393000878a9b7.m3u8

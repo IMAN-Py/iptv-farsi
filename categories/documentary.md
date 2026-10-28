@@ -4,7 +4,7 @@
 
 Browse live documentary channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**215 channels · 386 stream entries**
+**215 channels · 382 stream entries**
 
 ## All languages
 
@@ -18,10 +18,10 @@ https://iman-py.github.io/open-tv-atlas/categories/documentary.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 87 | 179 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/documentary.m3u` |
+| [English](../playlists/eng/README.md) | 87 | 178 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/documentary.m3u` |
 | [فارسی · Farsi / Persian](../playlists/fas/README.md) | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/documentary.m3u` |
 | [Arabic](../playlists/ara/README.md) | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/documentary.m3u` |
-| [Bulgarian](../playlists/bul/README.md) | 8 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/documentary.m3u` |
+| [Bulgarian](../playlists/bul/README.md) | 8 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/documentary.m3u` |
 | [Burmese](../playlists/mya/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/mya/documentary.m3u` |
 | [Chinese](../playlists/zho/README.md) | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/documentary.m3u` |
 | [Croatian](../playlists/hrv/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/documentary.m3u` |
@@ -40,7 +40,7 @@ https://iman-py.github.io/open-tv-atlas/categories/documentary.m3u
 | [Polish](../playlists/pol/README.md) | 6 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/documentary.m3u` |
 | [Portuguese](../playlists/por/README.md) | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/por/documentary.m3u` |
 | [Romanian](../playlists/ron/README.md) | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/documentary.m3u` |
-| [Russian](../playlists/rus/README.md) | 19 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/documentary.m3u` |
+| [Russian](../playlists/rus/README.md) | 19 | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/documentary.m3u` |
 | [Slovak](../playlists/slk/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/slk/documentary.m3u` |
 | [Slovenian](../playlists/slv/README.md) | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/slv/documentary.m3u` |
 | [Spanish](../playlists/spa/README.md) | 22 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/documentary.m3u` |

@@ -23,6 +23,9 @@ https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 tvg-id="CanalMotor.no" tvg-name="Canal Motor" group-title="Auto" tvg-language="eng;nor" tvg-quality="720p",Canal Motor
 https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 
+#EXTINF:-1 tvg-id="CarsTV.us" tvg-name="Cars.TV" group-title="Auto" tvg-language="eng" tvg-quality="720p",Cars.TV
+https://a-cdn.klowdtv.com/live2/carstv_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Choppertown.us" tvg-name="Choppertown" group-title="Auto;Series" tvg-language="eng" tvg-quality="720p",Choppertown
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 

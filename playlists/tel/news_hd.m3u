@@ -17,6 +17,9 @@ https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8
 #EXTINF:-1 tvg-id="BIGTV.in" tvg-name="BIG TV" group-title="News" tvg-language="tel" tvg-quality="720p",BIG TV
 https://cdn.pishow.tv/ott/live/1059/master.m3u8
 
+#EXTINF:-1 tvg-id="BIGTV.in" tvg-name="BIG TV" group-title="News" tvg-language="tel" tvg-quality="1080p",BIG TV
+https://stream.ottlive.co.in/bigtv/index.m3u8
+
 #EXTINF:-1 tvg-id="BRKNews.in" tvg-name="BRK News" group-title="News" tvg-language="tel" tvg-quality="720p",BRK News
 https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8
 

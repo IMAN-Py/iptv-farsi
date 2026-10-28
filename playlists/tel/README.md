@@ -4,7 +4,7 @@
 
 Find free Telugu live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**83 channels · 160 stream entries**
+**83 channels · 169 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 160 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u` |
-| HD | 60 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/hd.m3u` |
-| SD / unknown | 100 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sd.m3u` |
+| All channels | 169 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u` |
+| HD | 61 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/hd.m3u` |
+| SD / unknown | 108 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,16 +27,16 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 3 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sports.m3u` |
 | Movies | 5 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/movies.m3u` |
-| News | 26 | 65 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/news.m3u` |
+| News | 26 | 70 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/news.m3u` |
 | Music | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/music.m3u` |
-| Kids | 12 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/kids.m3u` |
+| Kids | 12 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/kids.m3u` |
 | Documentary | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/documentary.m3u` |
 | Entertainment | 12 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/entertainment.m3u` |
 | Animation | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/animation.m3u` |
 | Comedy | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/comedy.m3u` |
 | General | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/general.m3u` |
-| Lifestyle | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/lifestyle.m3u` |
-| Religious | 12 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/religious.m3u` |
+| Lifestyle | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/lifestyle.m3u` |
+| Religious | 12 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/religious.m3u` |
 
 ## Included channels
 
@@ -51,15 +51,15 @@ Availability is not verified. Use your browser’s Find command to search this t
 | 99TV | 99TV.in | 720p | 1 |
 | Aastha Telugu | AasthaTelugu.in | 480p, 576i, 576p | 3 |
 | ABN Andhra Jyoti | ABNAndhraJyoti.in | 576p, 720p | 2 |
-| Bhakthi TV | BhakthiTV.in | 576i, 720p | 2 |
-| BIG TV | BIGTV.in | 576p, 720p | 3 |
-| BRK News | BRKNews.in | 576p, 720p | 3 |
+| Bhakthi TV | BhakthiTV.in | 576i, 576p, 720p | 3 |
+| BIG TV | BIGTV.in | 1080p, 576p, 720p | 4 |
+| BRK News | BRKNews.in | 576p, 720p | 4 |
 | Calvary TV | CalvaryTV.in | 576p | 1 |
 | Cartoon Network | CartoonNetwork.in | 720p | 1 |
 | Chhaya Chitram Telugu | ChhayaChitramTelugu.in | 360p | 1 |
-| CVR Health | CVRHealth.in | 576p | 2 |
-| CVR News | CVRNews.in | 576p | 1 |
-| CVR OM Spiritual | CVROMSpiritual.in | 576p | 3 |
+| CVR Health | CVRHealth.in | 576p | 3 |
+| CVR News | CVRNews.in | 576p | 2 |
+| CVR OM Spiritual | CVROMSpiritual.in | 576p | 4 |
 | DD Saptagiri | DDSaptagiri.in | 504p, 576i | 2 |
 | DD Sports | DDSports.in | 1080p, 720p | 2 |
 | DD Yadagiri | DDYadagiri.in | 504p, 576p | 2 |
@@ -81,12 +81,12 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ETV Telangana | ETVTelangana.in | 1080p | 2 |
 | ETV Telugu | ETVTelugu.in | 1080p | 1 |
 | Gospel TV India | GospelTVIndia.in | 576p | 1 |
-| Hindu Dharmam | HinduDharmam.in | 1080p, 576p | 3 |
+| Hindu Dharmam | HinduDharmam.in | 1080p, 576p | 4 |
 | History TV18 | HistoryTV18.in | 1080p | 2 |
 | HMTV | HMTV.in | 576p, 720p | 3 |
-| Hungama TV | HungamaTV.in | 576p | 2 |
+| Hungama TV | HungamaTV.in | 576p | 1 |
 | INews | INews.in | 576p, 720p | 4 |
-| Mahaa Bhakti | MahaaBhakti.in | 1080p, 576p | 2 |
+| Mahaa Bhakti | MahaaBhakti.in | 1080p, 576p | 3 |
 | Mahaa Max | MahaaMax.in | 1080p, 576p | 4 |
 | Mahaa News | MahaaNews.in | 1080p, 576i, 576p | 4 |
 | Mango Mobile TV | MangoMobileTV.in | 1080p | 1 |
@@ -94,13 +94,13 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Mojo TV | MojoTV.in | 576p | 1 |
 | Nickelodeon | Nickelodeon.in | 576p | 3 |
 | Nireekshana TV | NireekshanaTV.in | 576p | 1 |
-| NTV Telugu | NTVTelugu.in | 1080p, 576i, 576p | 3 |
+| NTV Telugu | NTVTelugu.in | 1080p, 576i, 576p | 4 |
 | PMC Telugu | PMCTelugu.in | 1080p | 1 |
 | Pogo | Pogo.in | 576p | 1 |
 | Prime9 News | Prime9News.in | 1080p, 576p | 2 |
 | Raj Musix Telugu | RajMusixTelugu.in | 576p, 720p | 2 |
 | Raj News Telugu | RajNewsTelugu.in | 576p | 2 |
-| Sakshi TV | SakshiTV.in | 576i, 576p | 4 |
+| Sakshi TV | SakshiTV.in | 576i, 576p | 5 |
 | Sonic | Sonic.in | 576p | 2 |
 | Sony BBC Earth | SonyBBCEarth.in | 1080p | 1 |
 | Sony Pix | SonyPix.in | 1080p | 1 |

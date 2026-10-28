@@ -204,12 +204,6 @@ http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="Mezzo Live" group-title="Music" tvg-language="eng" tvg-quality="576i",Mezzo Live
 https://test.946985.filegear-sg.me/proxy/749755700e4ed9c6
 
-#EXTINF:-1 tvg-id="MoozLove.ro" tvg-name="Mooz Love" group-title="Music" tvg-language="eng;ron" tvg-quality="576p",Mooz Love
-https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8
-
-#EXTINF:-1 tvg-id="MoozRetro.ro" tvg-name="Mooz Retro" group-title="Music" tvg-language="eng;ron" tvg-quality="576p",Mooz Retro
-https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8
-
 #EXTINF:-1 tvg-id="MovieMusicbyStingray.ca" tvg-name="Movie Music by Stingray" group-title="Music" tvg-language="eng" tvg-quality="1080p",Movie Music by Stingray
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 

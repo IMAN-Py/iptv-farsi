@@ -17,8 +17,14 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Gujarati_NW18_MOB/output01/ma
 #EXTINF:-1 tvg-id="Pradesh24Gujarati.in" tvg-name="Pradesh24 Gujarati" group-title="News" tvg-language="guj" tvg-quality="1080p",Pradesh24 Gujarati
 https://stream2.livebox.co.in/pradesh24hls/live.m3u8
 
+#EXTINF:-1 tvg-id="ShreeSanatanTV.in" tvg-name="Shree Sanatan TV" group-title="Religious" tvg-language="guj" tvg-quality="720p",Shree Sanatan TV
+http://sanatan.valamtv.in/hls/shree/bhattji.m3u8
+
 #EXTINF:-1 tvg-id="TV9Gujarati.in" tvg-name="TV9 Gujarati" group-title="News" tvg-language="guj" tvg-quality="720p",TV9 Gujarati
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ValamTV.in" tvg-name="Valam TV" group-title="Religious" tvg-language="guj" tvg-quality="720p",Valam TV
+http://cabletv.valamtv.in/hls/stream0.m3u8
 
 #EXTINF:-1 tvg-id="VRLive.in" tvg-name="VR Live" group-title="News" tvg-language="guj" tvg-quality="720p",VR Live
 https://channel.vrlivegujarat.com/hls/vrchannel.m3u8

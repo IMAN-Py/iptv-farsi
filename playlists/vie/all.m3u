@@ -15,6 +15,10 @@ https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=20
 
 #EXTINF:-1 tvg-id="AnNinhTV.vn" tvg-name="An Ninh TV" group-title="Uncategorized" tvg-language="vie" tvg-quality="1080p",An Ninh TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36
+https://live.tvon.vn/g2/vtv1/video_hd_compat/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnNinhTV.vn" tvg-name="An Ninh TV" group-title="Uncategorized" tvg-language="vie" tvg-quality="1080p",An Ninh TV
 https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
 
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="Asian Food Network" group-title="Cooking" tvg-language="eng;vie" tvg-quality="1080p",Asian Food Network
@@ -55,9 +59,6 @@ https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DienBienTV.vn" tvg-name="Dien Bien TV" group-title="General" tvg-language="vie" tvg-quality="1080p",Dien Bien TV
 https://stream.langsontv.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DienBienTV.vn" tvg-name="Dien Bien TV" group-title="General" tvg-language="vie" tvg-quality="406p",Dien Bien TV
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
 
 #EXTINF:-1 tvg-id="DongNaiTV1.vn" tvg-name="Dong Nai TV 1" group-title="General;News" tvg-language="vie" tvg-quality="480p",Dong Nai TV 1
 http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
@@ -146,9 +147,6 @@ https://ott3.nethubtv.vn/live/hungyentv/playlist.m3u8
 #EXTINF:-1 tvg-id="ISTV.la" tvg-name="ISTV" group-title="General" tvg-language="vie" tvg-quality="480p",ISTV
 https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KonTumTV.vn" tvg-name="Kon Tum TV" group-title="General" tvg-language="vie" tvg-quality="720p",Kon Tum TV
-https://247.dpdns.org/module/IPTV/?id=QNgTV2&accKenh=vuminhthanh1
-
 #EXTINF:-1 tvg-id="LangSonTV.vn" tvg-name="Lang Son TV" group-title="General" tvg-language="vie" tvg-quality="720p",Lang Son TV
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
 
@@ -181,6 +179,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=185
 
 #EXTINF:-1 tvg-id="ONO2TV.vn" tvg-name="ON O2TV" group-title="Lifestyle" tvg-language="vie" tvg-quality="1080p",ON O2TV
 https://freem3u.xyz/api/live/play.m3u8?vid=136
+
+#EXTINF:-1 tvg-id="ONPhimViet.vn" tvg-name="ON Phim Viet" group-title="Series" tvg-language="vie" tvg-quality="1080p",ON Phim Viet
+https://vmttv.dpdns.org/tv360/?id=175
 
 #EXTINF:-1 tvg-id="ONStyleTV.vn" tvg-name="ON Style TV" group-title="Lifestyle" tvg-language="vie" tvg-quality="1080p",ON Style TV
 https://freem3u.xyz/api/live/play.m3u8?vid=184
@@ -279,6 +280,9 @@ https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
 
 #EXTINF:-1 tvg-id="VietnamToday.vn" tvg-name="Vietnam Today" group-title="Uncategorized" tvg-language="eng;vie" tvg-quality="1080p",Vietnam Today
+https://live.tvon.vn/s8/hls/vntoday/index.m3u8
+
+#EXTINF:-1 tvg-id="VietnamToday.vn" tvg-name="Vietnam Today" group-title="Uncategorized" tvg-language="eng;vie" tvg-quality="1080p",Vietnam Today
 https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/index.m3u8
 
 #EXTINF:-1 tvg-id="VinhLongTV1.vn" tvg-name="Vinh Long TV 1" group-title="General;News" tvg-language="vie" tvg-quality="720p",Vinh Long TV 1
@@ -298,6 +302,9 @@ https://dethich.pw/thvl4/index.m3u8
 
 #EXTINF:-1 tvg-id="VTV1.vn" tvg-name="VTV1" group-title="Uncategorized" tvg-language="eng;vie" tvg-quality="720p",VTV1
 https://dethich.pw/vtv1/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV1.vn" tvg-name="VTV1" group-title="Uncategorized" tvg-language="eng;vie" tvg-quality="1080p",VTV1
+https://livesct.vtvprime.vn/Live_DASHDRM1/VTV1_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="VTV1.vn" tvg-name="VTV1" group-title="Uncategorized" tvg-language="eng;vie" tvg-quality="1080p",VTV1
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8

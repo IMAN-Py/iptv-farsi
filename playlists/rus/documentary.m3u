@@ -30,9 +30,6 @@ http://stream.mcquack.net/205/index.m3u8
 http://31.148.48.15/Istoriya/index.m3u8
 
 #EXTINF:-1 tvg-id="Istoriya.ru" tvg-name="Istoriya" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Istoriya
-http://hls127.freeott.top:8080/Istoriya/video.m3u8
-
-#EXTINF:-1 tvg-id="Istoriya.ru" tvg-name="Istoriya" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Istoriya
 https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="Nano.ru" tvg-name="Nano" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",Nano
@@ -55,9 +52,6 @@ https://fs.uplink.kz/nat_geo/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="rus" tvg-quality="1080i",National Geographic Wild
 http://178.76.68.60:7442/50/mpegts
-
-#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",National Geographic Wild
-http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="rus" tvg-quality="576p",National Geographic Wild
 https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv

@@ -3,6 +3,9 @@
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="Discovery Science Latin America" group-title="Science" tvg-language="spa" tvg-quality="720p",Discovery Science Latin America
+http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="Discovery Science Latin America" group-title="Science" tvg-language="spa" tvg-quality="720p",Discovery Science Latin America
 http://45.171.64.30:6060/play/a007/index.m3u8
 
 #EXTINF:-1 tvg-id="EXCTV.ve" tvg-name="EXC TV" group-title="Science" tvg-language="spa" tvg-quality="720p",EXC TV

@@ -4,7 +4,7 @@
 
 Find free Vietnamese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**97 channels · 121 stream entries**
+**97 channels · 123 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 121 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u` |
-| HD | 110 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/hd.m3u` |
-| SD / unknown | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/sd.m3u` |
+| All channels | 123 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u` |
+| HD | 113 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/hd.m3u` |
+| SD / unknown | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -30,13 +30,13 @@ Each list combines this language with a source category. Counts are stream entri
 | News | 5 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/news.m3u` |
 | Music | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/music.m3u` |
 | Kids | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/kids.m3u` |
-| Series | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/series.m3u` |
+| Series | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/series.m3u` |
 | Entertainment | 11 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/entertainment.m3u` |
 | Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/cooking.m3u` |
 | Culture | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/culture.m3u` |
 | Education | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/education.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/family.m3u` |
-| General | 28 | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/general.m3u` |
+| General | 27 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/general.m3u` |
 | Lifestyle | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/lifestyle.m3u` |
 | Outdoor | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/outdoor.m3u` |
 | Religious | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/religious.m3u` |
@@ -54,7 +54,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | An Giang TV 1 | AnGiangTV1.vn | 1080p | 1 |
 | An Giang TV 2 | AnGiangTV2.vn | 1080p | 1 |
 | An Giang TV 3 | AnGiangTV3.vn | 1080p | 1 |
-| An Ninh TV | AnNinhTV.vn | 1080p | 2 |
+| An Ninh TV | AnNinhTV.vn | 1080p | 3 |
 | Asian Food Network | AsianFoodNetwork.sg | 1080p | 1 |
 | Binh Thuan TV | BinhThuanTV.vn | 1080p | 1 |
 | Brian TV | BrianTV.la | 720p | 1 |
@@ -67,7 +67,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Da Nang TV2 | DaNangTV2.vn | 1080p | 1 |
 | Da Vinci Asia | DaVinciAsia.de | 1080p | 1 |
 | Dao Lane Xang TV | DaoLaneXangTV.la | 720p | 1 |
-| Dien Bien TV | DienBienTV.vn | 1080p, 406p | 2 |
+| Dien Bien TV | DienBienTV.vn | 1080p | 1 |
 | Dong Nai TV 1 | DongNaiTV1.vn | 1080p, 480p, 720p | 4 |
 | Dong Nai TV 2 | DongNaiTV2.vn | 1080p, 720p | 2 |
 | Dong Nai TV 3 | DongNaiTV3.vn | 720p | 2 |
@@ -90,7 +90,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | HTVC Women | HTVCWomen.vn | 720p | 1 |
 | Hung Yen TV | HungYenTV.vn | 480p | 1 |
 | ISTV | ISTV.la | 480p | 1 |
-| Kon Tum TV | KonTumTV.vn | 720p | 1 |
 | Lang Son TV | LangSonTV.vn | 720p | 1 |
 | Lao SV TV | LaoSVTV.vn | 480p | 1 |
 | Lao-Thai TV | LaoThaiTV.us | 720p | 1 |
@@ -102,6 +101,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ON Movies | ONMovies.vn | 720p | 1 |
 | ON Music | ONMusic.vn | 1080p | 1 |
 | ON O2TV | ONO2TV.vn | 1080p | 1 |
+| ON Phim Viet | ONPhimViet.vn | 1080p | 1 |
 | ON Style TV | ONStyleTV.vn | 1080p | 1 |
 | ON Vie Dramas | ONVieDramas.vn | 1080i | 1 |
 | ON Vie Giai Tri | ONVieGiaiTri.vn | 1080i, 1080p | 2 |
@@ -130,12 +130,12 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TVB Vietnam | TVBVietnam.vn | 1080p | 1 |
 | Uniquely Thai | UniquelyThai.vn | 720p | 1 |
 | VBS TV | VBSTV.us | 480p | 1 |
-| Vietnam Today | VietnamToday.vn | 1080p | 2 |
+| Vietnam Today | VietnamToday.vn | 1080p | 3 |
 | Vinh Long TV 1 | VinhLongTV1.vn | 720p | 1 |
 | Vinh Long TV 2 | VinhLongTV2.vn | 1080p, 720p | 2 |
 | Vinh Long TV 3 | VinhLongTV3.vn | 720p | 1 |
 | Vinh Long TV 4 | VinhLongTV4.vn | 720p | 1 |
-| VTV1 | VTV1.vn | 1080p, 720p | 2 |
+| VTV1 | VTV1.vn | 1080p, 720p | 3 |
 | VTV10 | VTV10.vn | 1080p, 720p | 2 |
 | VTV2 | VTV2.vn | 1080p, 720p | 3 |
 | VTV3 | VTV3.vn | 1080p, 720p | 2 |

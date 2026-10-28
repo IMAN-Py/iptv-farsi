@@ -540,9 +540,6 @@ https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg008
 http://31.148.48.15/Istoriya/index.m3u8
 
 #EXTINF:-1 tvg-id="Istoriya.ru" tvg-name="Istoriya" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Istoriya
-http://hls127.freeott.top:8080/Istoriya/video.m3u8
-
-#EXTINF:-1 tvg-id="Istoriya.ru" tvg-name="Istoriya" group-title="Documentary" tvg-language="rus" tvg-quality="576p",Istoriya
 https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="Italiana.it" tvg-name="Italiana" group-title="Documentary" tvg-language="ita" tvg-quality="1080p",Italiana
@@ -633,9 +630,6 @@ http://stream.mcquack.net/419/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0ct
 
-#EXTINF:-1 tvg-id="NationalGeographic.bg" tvg-name="National Geographic" group-title="Documentary" tvg-language="bul;eng" tvg-quality="1080p",National Geographic
-http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8
-
 #EXTINF:-1 tvg-id="NationalGeographic.cz" tvg-name="National Geographic" group-title="Documentary" tvg-language="ces" tvg-quality="576i",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_ngc/playlist.m3u8
@@ -710,9 +704,6 @@ https://barinaslive1.boldmss.com/NATGEO/NATGEO.isml/NATGEO.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0cu
 
-#EXTINF:-1 tvg-id="NationalGeographicWild.bg" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="bul" tvg-quality="1080p",National Geographic Wild
-http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8
-
 #EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="ces" tvg-quality="576i",National Geographic Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_ngw/playlist.m3u8
@@ -731,9 +722,6 @@ https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="rus" tvg-quality="1080i",National Geographic Wild
 http://178.76.68.60:7442/50/mpegts
-
-#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",National Geographic Wild
-http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="rus" tvg-quality="576p",National Geographic Wild
 https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv

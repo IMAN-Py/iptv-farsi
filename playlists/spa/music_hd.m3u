@@ -119,6 +119,9 @@ https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=naci
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HTV.us" tvg-name="HTV" group-title="Music" tvg-language="spa" tvg-quality="720p",HTV
+http://45.134.141.161:2200/ARG/HTV/index.m3u8
+
+#EXTINF:-1 tvg-id="HTV.us" tvg-name="HTV" group-title="Music" tvg-language="spa" tvg-quality="720p",HTV
 http://45.171.64.30:6060/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="HTV.us" tvg-name="HTV" group-title="Music" tvg-language="spa" tvg-quality="720p",HTV

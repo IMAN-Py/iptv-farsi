@@ -4,7 +4,7 @@
 
 Find free Italian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**322 channels · 388 stream entries**
+**325 channels · 391 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 388 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
-| HD | 253 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
+| All channels | 391 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
+| HD | 256 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
 | SD / unknown | 135 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u` |
 
 <a id="categories"></a>
@@ -45,7 +45,7 @@ Each list combines this language with a source category. Counts are stream entri
 | General | 74 | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/general.m3u` |
 | Legislative | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/legislative.m3u` |
 | Lifestyle | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/lifestyle.m3u` |
-| Outdoor | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/outdoor.m3u` |
+| Outdoor | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/outdoor.m3u` |
 | Religious | 11 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/religious.m3u` |
 | Shop | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/shop.m3u` |
 | Travel | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/travel.m3u` |
@@ -80,6 +80,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Bergamo TV | BergamoTV.it | 1080p | 1 |
 | Boing | Boing.it | 1080p | 1 |
 | Bom Channel | BomChannel.it | 720p | 1 |
+| Caccia e Pesca | CacciaePesca.it | 720p | 1 |
 | CafeTV24 | CafeTV24.it | 720p | 1 |
 | Calabria TV | CalabriaTV.it | 576i | 1 |
 | Camera dei Deputati | CameradeiDeputati.it | 240p | 1 |
@@ -187,6 +188,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Parole di Vita | ParolediVita.it | 1080p | 1 |
 | Passione Lotto | PassioneLotto.it | 300p | 1 |
 | Peer TV Alto Adige | PeerTVAltoAdige.it | 1280p | 1 |
+| Pesca e Caccia | PescaeCaccia.it | 720p | 1 |
 | Pluto TV Alberto Sordi | PlutoTVAlbertoSordi.de | 720p | 1 |
 | Pluto TV Christmas tutto l&#x27;anno | PlutoTVChristmastuttolanno.de | 720p | 1 |
 | Pluto TV Cinema Italiano | PlutoTVCinemaItaliano.de | 720p | 1 |
@@ -365,6 +367,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV2000 | TV2000.it | 360p, 720p | 4 |
 | TV7 Benevento | TV7Benevento.it | 288p | 1 |
 | TV7 Triveneta | TV7Triveneta.it | 562p | 1 |
+| TV8 | TV8.it | 720p | 1 |
 | tv9 Telemaremma | tv9Telemaremma.it | 576p | 1 |
 | TVA Vicenza | TVAVicenza.it | 720p | 1 |
 | TVL | TVL.it | 720p | 1 |

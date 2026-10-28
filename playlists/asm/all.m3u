@@ -14,6 +14,9 @@ https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="DDAssam.in" tvg-name="DD Assam" group-title="General" tvg-language="asm;eng" tvg-quality="504p",DD Assam
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
 
+#EXTINF:-1 tvg-id="DY365.in" tvg-name="DY 365" group-title="News" tvg-language="asm" tvg-quality="576p",DY 365
+https://cdn.pishow.tv/ott/live/1624/master.m3u8
+
 #EXTINF:-1 tvg-id="DY365.in" tvg-name="DY 365" group-title="News" tvg-language="asm" tvg-quality="360p",DY 365
 https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 
@@ -30,10 +33,19 @@ https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 https://cdn.pishow.tv/ott/live/10011/master.m3u8
 
 #EXTINF:-1 tvg-id="NewsLive.in" tvg-name="News Live" group-title="News" tvg-language="asm" tvg-quality="576p",News Live
+https://mumt01.tangotv.in/O5aw8Zn3NEWSLIVE24X7/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsLive.in" tvg-name="News Live" group-title="News" tvg-language="asm" tvg-quality="576p",News Live
 https://prideeast.thelegitpro.in/newslive/newslive/index.m3u8
 
 #EXTINF:-1 tvg-id="News18AssamNorthEast.in" tvg-name="News18 Assam North-East" group-title="News" tvg-language="asm;eng" tvg-quality="1080p",News18 Assam North-East
 https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="NKTV24x7.in" tvg-name="NK TV 24x7" group-title="News" tvg-language="asm" tvg-quality="576p",NK TV 24x7
+https://d2gvyg6lvauoko.cloudfront.net/230226/nktv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="NKTV24x7.in" tvg-name="NK TV 24x7" group-title="News" tvg-language="asm" tvg-quality="576p",NK TV 24x7
+https://mumt05.tangotv.in/87NeALx2NKTVPLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="NKTV24x7.in" tvg-name="NK TV 24x7" group-title="News" tvg-language="asm" tvg-quality="1080p",NK TV 24x7
 https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8

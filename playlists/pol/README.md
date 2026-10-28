@@ -4,7 +4,7 @@
 
 Find free Polish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**148 channels · 173 stream entries**
+**147 channels · 170 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 173 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
-| HD | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
-| SD / unknown | 82 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
+| All channels | 170 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
+| HD | 90 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
+| SD / unknown | 80 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,10 +25,10 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sports.m3u` |
+| Sports | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sports.m3u` |
 | Movies | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/movies.m3u` |
 | News | 9 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/news.m3u` |
-| Music | 10 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/music.m3u` |
+| Music | 9 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/music.m3u` |
 | Kids | 11 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/kids.m3u` |
 | Documentary | 6 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/documentary.m3u` |
 | Series | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/series.m3u` |
@@ -86,7 +86,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | EbS | EbS.be | 1080p | 1 |
 | EbS+ | EbSPlus.be | 1080p | 1 |
 | Echo24 | Echo24.pl | 720p | 1 |
-| Eska Rock TV | EskaRockTV.pl | 1080p, 576i | 2 |
+| Eska Rock TV | EskaRockTV.pl | 1080p | 1 |
 | Eska TV | EskaTV.pl | 1080p | 1 |
 | Eska TV Extra | EskaTVExtra.pl | 1080p | 1 |
 | Euronews | Euronews.pl | 720p | 2 |
@@ -112,7 +112,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Nickelodeon | Nickelodeon.pl | 576i | 1 |
 | Nowa TV | NowaTV.pl | 1080p | 1 |
 | Nuta Gold | NutaGold.pl | 576i | 1 |
-| Nuta TV | NutaTV.pl | 576i | 1 |
 | Polonia 1 | Polonia1.pl | 576i | 1 |
 | Polsat | Polsat.pl | 1080p | 1 |
 | Polsat 2 | Polsat2.pl | 1080p | 1 |
@@ -128,7 +127,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Polsat Sport 1 | PolsatSport1.pl | 1080p | 2 |
 | Polsat Sport 2 | PolsatSport2.pl | 1080p, 576i | 2 |
 | Polsat Sport 3 | PolsatSport3.pl | 1080p | 1 |
-| Polsat Sport Fight | PolsatSportFight.pl | 1080p, 576i | 2 |
+| Polsat Sport Fight | PolsatSportFight.pl | 576i | 1 |
 | Polsat Viasat Explore | PolsatViasatExplore.pl | 576i | 1 |
 | Polsat Viasat History | PolsatViasatHistory.pl | 1080p, 576i | 2 |
 | Polsat Viasat Nature | PolsatViasatNature.pl | 576i | 1 |

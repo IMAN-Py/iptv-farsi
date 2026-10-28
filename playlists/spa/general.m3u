@@ -494,6 +494,9 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-1 tvg-id="Canal11TuTV.sv" tvg-name="Canal 11 TuTV" group-title="General" tvg-language="spa" tvg-quality="349p",Canal 11 TuTV
 https://stream.giostreaming.app/canal11/canal11.m3u8
 
+#EXTINF:-1 tvg-id="Canal12.ni" tvg-name="Canal 12" group-title="General" tvg-language="spa" tvg-quality="576p",Canal 12
+http://45.228.234.9:8000/play/a06s/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal12.sv" tvg-name="Canal 12" group-title="General" tvg-language="spa" tvg-quality="576p",Canal 12
 http://186.33.26.18:8000/play/a0nw/index.m3u8
 
@@ -2608,6 +2611,9 @@ https://stream.castr.com/627a72d21914543be01c1720/live_e2ae1780dc2a11eca660b7b17
 
 #EXTINF:-1 tvg-id="RumboMineroTV.pe" tvg-name="Rumbo Minero TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Rumbo Minero TV
 http://45.70.201.81:8000/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-id="RumboMineroTV.pe" tvg-name="Rumbo Minero TV" group-title="General" tvg-language="spa" tvg-quality="720p",Rumbo Minero TV
+https://live-evg8.tv360.bitel.com.pe/bitel/minero/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ruta66TV.do" tvg-name="Ruta 66 TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Ruta 66 TV
 https://edge.livestreaminggroup.info/ruta66tvlive/index.m3u8

@@ -14,9 +14,6 @@ http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
 http://103.151.60.162:2122/play/a02k/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
-http://103.185.24.134:3001/Star-Movies/index.m3u8
-
 #EXTINF:-1 tvg-id="ThalaaTV.in" tvg-name="Thalaa TV" group-title="Movies" tvg-language="tam" tvg-quality="1080p",Thalaa TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
 

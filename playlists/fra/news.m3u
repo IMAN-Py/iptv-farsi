@@ -179,8 +179,7 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
 
 #EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="Franceinfo" group-title="News" tvg-language="fra" tvg-quality="1080p",Franceinfo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
+http://149.62.177.107:9999/franceinfo:/index.m3u8
 
 #EXTINF:-1 tvg-id="HaitiNewsChannel.ht" tvg-name="Haiti News Channel" group-title="News" tvg-language="fra;hat" tvg-quality="1080p",Haiti News Channel
 https://cdn.haititivi.com/website/haitinews/index.m3u8

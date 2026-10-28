@@ -77,6 +77,9 @@ https://cdn.pishow.tv/ott/live/10004/master.m3u8
 #EXTINF:-1 tvg-id="JanTV.in" tvg-name="Jan TV" group-title="General" tvg-language="hin" tvg-quality="576p",Jan TV
 https://d1msejlow1t3l4.cloudfront.net/fta/jantv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="JanTV.in" tvg-name="Jan TV" group-title="General" tvg-language="hin" tvg-quality="576p",Jan TV
+https://mumt03.tangotv.in/Dsly5z3HJANTV/index.m3u8
+
 #EXTINF:-1 tvg-id="KaumudyTV.in" tvg-name="Kaumudy TV" group-title="General" tvg-language="hin" tvg-quality="576i",Kaumudy TV
 https://cdn.pishow.tv/ott/live/1237/master.m3u8
 

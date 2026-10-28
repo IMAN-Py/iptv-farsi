@@ -41,6 +41,9 @@ https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be
 #EXTINF:-1 tvg-id="TheWeatherNetwork.ca" tvg-name="The Weather Network" group-title="Weather" tvg-language="eng" tvg-quality="720p",The Weather Network
 https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
 
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-name="WeatherNation" group-title="Weather" tvg-language="eng" tvg-quality="720p",WeatherNation
+https://a-cdn.klowdtv.com/live3/weathernation_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="WeatherNation.us" tvg-name="WeatherNation" group-title="Weather" tvg-language="eng" tvg-quality="1080p",WeatherNation
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 

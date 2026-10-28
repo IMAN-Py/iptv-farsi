@@ -43,9 +43,6 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 http://45.11.139.43:8555/8kanal/index.m3u8
 
 #EXTINF:-1 tvg-id="Channel8.ru" tvg-name="Channel 8" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Channel 8
-http://hls127.freeott.top:8080/8_KANAL/video.m3u8
-
-#EXTINF:-1 tvg-id="Channel8.ru" tvg-name="Channel 8" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Channel 8
 http://tshift-1.telecoma.tv/8channel/index.m3u8
 
 #EXTINF:-1 tvg-id="Channel8.ru" tvg-name="Channel 8" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Channel 8
@@ -108,9 +105,6 @@ http://31.148.48.15/Zee_TV_Russia/index.m3u8
 
 #EXTINF:-1 tvg-id="India.ru" tvg-name="India" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",India
 https://fs.uplink.kz/india/mono.m3u8?token=onlinetv
-
-#EXTINF:-1 tvg-id="Kluch.ru" tvg-name="Kluch" group-title="Entertainment" tvg-language="rus" tvg-quality="576p",Kluch
-http://hls127.freeott.top:8080/Kluch/video.m3u8
 
 #EXTINF:-1 tvg-id="KvartalTV.ua" tvg-name="Kvartal TV" group-title="Entertainment" tvg-language="rus;ukr" tvg-quality="576i",Kvartal TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36

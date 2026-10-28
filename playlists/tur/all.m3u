@@ -68,44 +68,6 @@ https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BabyTV" group-title="Kids" tvg-language="tur" tvg-quality="576i",BabyTV
 https://saran-live.ercdn.net/babytv/index.m3u8
 
-#EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-name="beIN Box Office 1" group-title="Movies" tvg-language="tur" tvg-quality="576i",beIN Box Office 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/box1/index.m3u8
-
-#EXTINF:-1 tvg-id="beINBoxOffice2.tr" tvg-name="beIN Box Office 2" group-title="Movies" tvg-language="tur" tvg-quality="576i",beIN Box Office 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/box2/index.m3u8
-
-#EXTINF:-1 tvg-id="beINBoxOffice3.tr" tvg-name="beIN Box Office 3" group-title="Movies" tvg-language="tur" tvg-quality="576i",beIN Box Office 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/box3/index.m3u8
-
-#EXTINF:-1 tvg-id="beINMoviesStars.tr" tvg-name="beIN Movies Stars" group-title="Movies" tvg-language="tur" tvg-quality="576i",beIN Movies Stars
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/bsaction1/index.m3u8
-
-#EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-name="beIN Movies Turk" group-title="Movies" tvg-language="tur" tvg-quality="576i",beIN Movies Turk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/bsturk/index.m3u8
-
-#EXTINF:-1 tvg-id="beINSports1Turk.tr" tvg-name="beIN Sports 1 Turk" group-title="Sports" tvg-language="tur" tvg-quality="576i",beIN Sports 1 Turk
-https://andro.mangeinde4.lat/checklist/androstreamlivebs1.m3u8
-
-#EXTINF:-1 tvg-id="beINSports2Turk.tr" tvg-name="beIN Sports 2 Turk" group-title="Sports" tvg-language="tur" tvg-quality="576i",beIN Sports 2 Turk
-https://andro.mangeinde4.lat/checklist/androstreamlivebs2.m3u8
-
-#EXTINF:-1 tvg-id="beINSports3Turk.tr" tvg-name="beIN Sports 3 Turk" group-title="Sports" tvg-language="tur" tvg-quality="576i",beIN Sports 3 Turk
-https://andro.mangeinde4.lat/checklist/androstreamlivebs3.m3u8
-
-#EXTINF:-1 tvg-id="beINSports4Turk.tr" tvg-name="beIN Sports 4 Turk" group-title="Sports" tvg-language="tur" tvg-quality="576i",beIN Sports 4 Turk
-https://andro.mangeinde4.lat/checklist/androstreamlivebs4.m3u8
-
-#EXTINF:-1 tvg-id="beINSports5Turk.tr" tvg-name="beIN Sports 5 Turk" group-title="Sports" tvg-language="tur" tvg-quality="576i",beIN Sports 5 Turk
-https://andro.mangeinde4.lat/checklist/androstreamlivebs5.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-name="beIN Sports Haber" group-title="Sports" tvg-language="tur" tvg-quality="576i",beIN Sports Haber
-https://andro.mangeinde4.lat/checklist/androstreamlivebsh.m3u8
-
 #EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-name="Benguturk TV" group-title="General" tvg-language="tur" tvg-quality="1080p",Benguturk TV
 http://185.234.111.229:8000/play/a05u
 
@@ -513,14 +475,8 @@ http://31.148.48.15/RTG/index.m3u8
 #EXTINF:-1 tvg-id="RTGTV.ru" tvg-name="RTG TV" group-title="Travel" tvg-language="eng;rus;tur" tvg-quality="720p",RTG TV
 http://31.148.48.15/RTG_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="SSport.tr" tvg-name="S Sport" group-title="Sports" tvg-language="eng;tur" tvg-quality="720p",S Sport
-https://corestream.siteyaptim.live/s-sport/index.m3u8
-
 #EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport 2" group-title="Sports" tvg-language="eng;tur" tvg-quality="576i",S Sport 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport 2" group-title="Sports" tvg-language="eng;tur" tvg-quality="720p",S Sport 2
-https://corestream.siteyaptim.live/s-sport2/index.m3u8
 
 #EXTINF:-1 tvg-id="Sat7Turk.cy" tvg-name="Sat 7 Turk" group-title="Uncategorized" tvg-language="tur" tvg-quality="1080p",Sat 7 Turk
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8

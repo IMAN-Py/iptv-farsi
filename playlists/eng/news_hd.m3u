@@ -381,6 +381,9 @@ https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m
 #EXTINF:-1 tvg-id="CNA.sg" tvg-name="CNA" group-title="News" tvg-language="eng" tvg-quality="1080p",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
+#EXTINF:-1 tvg-id="CNAInternational.sg" tvg-name="CNA International" group-title="News" tvg-language="eng" tvg-quality="1080p",CNA International
+https://freem3u.xyz/api/live/play.m3u8?vid=112
+
 #EXTINF:-1 tvg-id="CNBCMongolia.mn" tvg-name="CNBC Mongolia" group-title="Business;News" tvg-language="eng;mon" tvg-quality="720p",CNBC Mongolia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
@@ -685,6 +688,12 @@ https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8
 
 #EXTINF:-1 tvg-id="News9Live.in" tvg-name="News9Live" group-title="News" tvg-language="eng" tvg-quality="1080p",News9Live
 https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News9Live.in" tvg-name="News9Live" group-title="News" tvg-language="eng" tvg-quality="1080p",News9Live
+https://bharatvarshnews9.akamaized.net/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News9Live.in" tvg-name="News9Live" group-title="News" tvg-language="eng" tvg-quality="1080p",News9Live
+https://d2s9bukq38y039.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/news9_live/amg01106c3/hls.m3u8
 
 #EXTINF:-1 tvg-id="News9Live.in" tvg-name="News9Live" group-title="News" tvg-language="eng" tvg-quality="720p",News9Live
 https://mumt01.tangotv.in/O5aw8Zn3NEWS9/index.m3u8

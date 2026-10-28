@@ -77,9 +77,6 @@ https://d11r33s5i066xh.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCTravel.us" tvg-name="BBC Travel" group-title="Lifestyle" tvg-language="deu" tvg-quality="576i",BBC Travel
 https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
 
-#EXTINF:-1 tvg-id="BeautyON.ro" tvg-name="Beauty ON" group-title="Lifestyle" tvg-language="ron" tvg-quality="576p",Beauty ON
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-a7-tv/live_hq?offsetSeconds=0
-
 #EXTINF:-1 tvg-id="BetterHealthTV.us" tvg-name="Better Health TV" group-title="Lifestyle" tvg-language="eng" tvg-quality="480p",Better Health TV
 https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
 
@@ -148,6 +145,9 @@ https://cdn.pishow.tv/ott/live/395/master.m3u8
 
 #EXTINF:-1 tvg-id="CVRHealth.in" tvg-name="CVR Health" group-title="Lifestyle" tvg-language="tel" tvg-quality="576p",CVR Health
 https://mumbai-edge.smartplaytv.in/CVRHealth/index.m3u8
+
+#EXTINF:-1 tvg-id="CVRHealth.in" tvg-name="CVR Health" group-title="Lifestyle" tvg-language="tel" tvg-quality="576p",CVR Health
+https://mumt04.tangotv.in/m18aqlK4CVRHEALTH/index.m3u8
 
 #EXTINF:-1 tvg-id="DensLifeStyle.id" tvg-name="Dens Life & Style" group-title="Lifestyle" tvg-language="ind" tvg-quality="576i",Dens Life & Style
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
@@ -282,6 +282,9 @@ http://88.212.7.14/live/hgtv_hun/index.m3u8
 #EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV" group-title="Lifestyle" tvg-language="eng;ita" tvg-quality="1080p",HGTV
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
 
+#EXTINF:-1 tvg-id="HGTV.nz" tvg-name="HGTV" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",HGTV
+https://mediapackage-sky-hgtv-source.fullscreen.nz/index.m3u8
+
 #EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",HGTV
 http://tvsen7.aynascope.net/hgtv/index.m3u8
 
@@ -396,6 +399,9 @@ https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-name="NDTV Good Times" group-title="Lifestyle" tvg-language="eng;hin;tam" tvg-quality="1080p",NDTV Good Times
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-name="NDTV Good Times" group-title="Lifestyle" tvg-language="eng;hin;tam" tvg-quality="576p",NDTV Good Times
+https://cdn.pishow.tv/ott/live/1285/master.m3u8
+
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-name="NDTV Good Times" group-title="Lifestyle" tvg-language="eng;hin;tam" tvg-quality="396p",NDTV Good Times
 https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8
 
@@ -404,9 +410,6 @@ https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09d
 
 #EXTINF:-1 tvg-id="NowMediaTelevision.us" tvg-name="NowMedia Television" group-title="Lifestyle;News" tvg-language="eng" tvg-quality="1080p",NowMedia Television
 https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/index.m3u8
-
-#EXTINF:-1 tvg-id="NTVStyle.ru" tvg-name="NTV Style" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",NTV Style
-http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8
 
 #EXTINF:-1 tvg-id="NTVStyle.ru" tvg-name="NTV Style" group-title="Lifestyle" tvg-language="rus" tvg-quality="576p",NTV Style
 https://cdn.ntv.ru/th_style/playlist.m3u8

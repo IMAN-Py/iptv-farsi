@@ -4,7 +4,7 @@
 
 Browse live animation channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**121 channels · 227 stream entries**
+**121 channels · 228 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/animation.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 51 | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/animation.m3u` |
+| [English](../playlists/eng/README.md) | 51 | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/animation.m3u` |
 | [Arabic](../playlists/ara/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/animation.m3u` |
 | [Bengali](../playlists/ben/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/animation.m3u` |
 | [Catalan](../playlists/cat/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/animation.m3u` |
@@ -42,7 +42,7 @@ https://iman-py.github.io/open-tv-atlas/categories/animation.m3u
 | [Portuguese](../playlists/por/README.md) | 15 | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/por/animation.m3u` |
 | [Romanian](../playlists/ron/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/animation.m3u` |
 | [Russian](../playlists/rus/README.md) | 4 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/animation.m3u` |
-| [Spanish](../playlists/spa/README.md) | 34 | 65 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/animation.m3u` |
+| [Spanish](../playlists/spa/README.md) | 34 | 66 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/animation.m3u` |
 | [Swedish](../playlists/swe/README.md) | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/swe/animation.m3u` |
 | [Tamil](../playlists/tam/README.md) | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/animation.m3u` |
 | [Telugu](../playlists/tel/README.md) | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/animation.m3u` |

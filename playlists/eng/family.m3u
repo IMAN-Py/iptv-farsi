@@ -20,9 +20,6 @@ https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DoveChannel.us" tvg-name="Dove Channel" group-title="Family" tvg-language="eng" tvg-quality="1080p",Dove Channel
 https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" group-title="Family" tvg-language="eng" tvg-quality="720p",Hallmark Channel
-http://41.205.93.154/HALLMARK/index.m3u8
-
 #EXTINF:-1 tvg-id="HopeChannelPROYECTOJA.cr" tvg-name="Hope Channel PROYECTO JA" group-title="Family;Music;Religious" tvg-language="eng;spa" tvg-quality="360p",Hope Channel PROYECTO JA
 https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8
 

@@ -68,9 +68,6 @@ http://31.148.48.15/Fan/index.m3u8
 http://88.99.215.227/FilmUADrama/index.m3u8
 
 #EXTINF:-1 tvg-id="Hit.ru" tvg-name="Hit" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Hit
-http://hls127.freeott.top:8080/XitHD/video.m3u8
-
-#EXTINF:-1 tvg-id="Hit.ru" tvg-name="Hit" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Hit
 http://stream.mcquack.net/363/index.m3u8
 
 #EXTINF:-1 tvg-id="Hollywood.ru" tvg-name="Hollywood" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Hollywood
@@ -102,17 +99,11 @@ http://31.148.48.15/Kino_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="KinoBoevik.kz" tvg-name="KinoBoevik" group-title="Movies" tvg-language="kaz;rus" tvg-quality="1080p",KinoBoevik
 https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinopokaz
-http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
-
 #EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinopremyera
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 
 #EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinopremyera
 https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
-
-#EXTINF:-1 tvg-id="Kinoseriya.ru" tvg-name="Kinoseriya" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinoseriya
-http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="Mirovoekino.kz" tvg-name="Mirovoe kino" group-title="Movies" tvg-language="kaz;rus" tvg-quality="1080p",Mirovoe kino
 https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv

@@ -499,6 +499,9 @@ https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m
 #EXTINF:-1 tvg-id="CNA.sg" tvg-name="CNA" group-title="News" tvg-language="eng" tvg-quality="1080p",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
+#EXTINF:-1 tvg-id="CNAInternational.sg" tvg-name="CNA International" group-title="News" tvg-language="eng" tvg-quality="1080p",CNA International
+https://freem3u.xyz/api/live/play.m3u8?vid=112
+
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-name="CNA International" group-title="News" tvg-language="eng" tvg-quality="576p",CNA International
 https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
 
@@ -551,6 +554,9 @@ https://cdn.pishow.tv/ott/live/425/master.m3u8
 
 #EXTINF:-1 tvg-id="CVREnglish.in" tvg-name="CVR English" group-title="News" tvg-language="eng" tvg-quality="576p",CVR English
 https://mumbai-edge.smartplaytv.in/CVREnglishNews/index.m3u8
+
+#EXTINF:-1 tvg-id="CVREnglish.in" tvg-name="CVR English" group-title="News" tvg-language="eng" tvg-quality="576p",CVR English
+https://mumt03.tangotv.in/Dsly5z3HCVRNEWSENGLISH/index.m3u8
 
 #EXTINF:-1 tvg-id="CVREnglish.in" tvg-name="CVR English" group-title="News" tvg-language="eng" tvg-quality="576p",CVR English
 https://yuppnimrestreammum.akamaized.net/181224/smil:cvrnewseng.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
@@ -861,6 +867,9 @@ https://pb-o6czxr182vtiv.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-name="NBC News NOW" group-title="News" tvg-language="eng" tvg-quality="1080p",NBC News NOW
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 
+#EXTINF:-1 tvg-id="NDTV.in" tvg-name="NDTV" group-title="News" tvg-language="eng" tvg-quality="576p",NDTV
+https://cdn.pishow.tv/ott/live/315/master.m3u8
+
 #EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name="NDTV 24x7" group-title="News" tvg-language="eng" tvg-quality="480p",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
@@ -932,6 +941,12 @@ https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_
 
 #EXTINF:-1 tvg-id="News9Live.in" tvg-name="News9Live" group-title="News" tvg-language="eng" tvg-quality="1080p",News9Live
 https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News9Live.in" tvg-name="News9Live" group-title="News" tvg-language="eng" tvg-quality="1080p",News9Live
+https://bharatvarshnews9.akamaized.net/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News9Live.in" tvg-name="News9Live" group-title="News" tvg-language="eng" tvg-quality="1080p",News9Live
+https://d2s9bukq38y039.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/news9_live/amg01106c3/hls.m3u8
 
 #EXTINF:-1 tvg-id="News9Live.in" tvg-name="News9Live" group-title="News" tvg-language="eng" tvg-quality="576p",News9Live
 https://mumbai-edge.smartplaytv.in/News9/index.m3u8
@@ -1120,6 +1135,9 @@ https://cdn.pishow.tv/ott/live/271/master.m3u8
 
 #EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" group-title="News" tvg-language="eng" tvg-quality="1080p",Republic TV
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
+
+#EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" group-title="News" tvg-language="eng" tvg-quality="576p",Republic TV
+https://mumt05.tangotv.in/87NeALx2REPUBLICTV/index.m3u8
 
 #EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" group-title="News" tvg-language="eng" tvg-quality="1080p",Republic TV
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicTV.m3u8

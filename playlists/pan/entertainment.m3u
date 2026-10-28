@@ -14,8 +14,20 @@ https://cdn.ottlive.co.in/gtcpunjabi/index.m3u8
 #EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",GTC Punjabi
 https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8
 
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",GTC Punjabi
+https://gtc.ottlive.co.in/gtcpunjabi/index.m3u8
+
 #EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",GTC Punjabi
 https://mumt01.tangotv.in/O5aw8Zn3GTC/index.m3u8
+
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",GTC Punjabi
+https://neotv.ottlive.co.in/gtcpunjabi/index.m3u8
+
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",GTC Punjabi
+https://neotv.ottlive.co.in/gtcpunjabiuk/index.m3u8
+
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",GTC Punjabi
+https://neotv.ottlive.co.in/gtcpunjabiusa/index.m3u8
 
 #EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",GTC Punjabi
 https://streams.tangotv.in/GTC/ORIGIN/index.m3u8
@@ -46,6 +58,9 @@ https://mumt04.tangotv.in/m18aqlK4PTCPUNJABIGOLD/index.m3u8
 
 #EXTINF:-1 tvg-id="PTCPunjabiGold.in" tvg-name="PTC Punjabi Gold" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",PTC Punjabi Gold
 https://streams.tangotv.in/PTCPUNJABIGOLD/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="PunjabiTV.in" tvg-name="Punjabi TV" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",Punjabi TV
+https://mumt07.tangotv.in/zHjX9OFlPUNJABITV/index.m3u8
 
 #EXTINF:-1 tvg-id="PunjabiTV.in" tvg-name="Punjabi TV" group-title="Entertainment" tvg-language="pan" tvg-quality="720p",Punjabi TV
 https://samitaorigin.tangotv.in/PUNJABITV/SAMITAORIGIN/index.m3u8

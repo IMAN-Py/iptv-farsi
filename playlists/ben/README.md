@@ -4,7 +4,7 @@
 
 Find free Bengali live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**102 channels · 160 stream entries**
+**103 channels · 163 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 160 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
-| HD | 81 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/hd.m3u` |
-| SD / unknown | 79 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sd.m3u` |
+| All channels | 163 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
+| HD | 82 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/hd.m3u` |
+| SD / unknown | 81 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,14 +27,15 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sports.m3u` |
 | Movies | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/movies.m3u` |
-| News | 25 | 37 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/news.m3u` |
+| News | 25 | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/news.m3u` |
 | Music | 5 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/music.m3u` |
 | Kids | 6 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/kids.m3u` |
 | Entertainment | 17 | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/entertainment.m3u` |
 | Animation | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/animation.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/business.m3u` |
 | Classic | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/classic.m3u` |
-| Culture | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/culture.m3u` |
+| Culture | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/culture.m3u` |
+| Education | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/education.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/family.m3u` |
 | General | 19 | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/general.m3u` |
 | Religious | 10 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/religious.m3u` |
@@ -49,7 +50,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Aakaash Aath | AakaashAath.in | 576p | 3 |
 | Aamar Bangla | AamarBangla.in | 720p | 1 |
 | ABP Ananda | ABPAnanda.in | 1080p | 1 |
-| AKD Calcutta News | AKDCalcuttaNews.in | 1080p, 576p | 2 |
+| AKD Calcutta News | AKDCalcuttaNews.in | 1080p, 576p | 3 |
 | Akhon Kolkata | AkhonKolkata.in | 478p | 1 |
 | Ananda Barta | AnandaBarta.in | 720p | 1 |
 | Ananda TV | AnandaTV.bd | 480p, 576i | 2 |
@@ -66,7 +67,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Cine Jomjomat | CineJomjomat.in | 1080p | 1 |
 | Colors Bangla | ColorsBangla.in | 1080p | 2 |
 | Colors Bangla Cinema | ColorsBanglaCinema.in | 576p | 1 |
-| CTVN AKD Plus | CTVNAKDPlus.in | 1080p, 576p | 2 |
+| CTVN AKD Plus | CTVNAKDPlus.in | 1080p, 576p | 3 |
 | DBC News | DBCNews.bd | 480p | 1 |
 | DD Bangla | DDBangla.in | 504p, 576i | 2 |
 | DD Sports | DDSports.in | 1080p, 720p | 2 |
@@ -126,6 +127,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Rupasi Bangla | RupasiBangla.in | 576p, 720p | 5 |
 | Samay Kolkata | SamayKolkata.in | 1080p, 720p | 2 |
 | Sangeet Bangla | SangeetBangla.in | 576p, 720p | 4 |
+| Shiksha TV | ShikshaTV.in | 720p | 1 |
 | Sonar Bangla | SonarBangla.in | 360p | 1 |
 | Sonic | Sonic.in | 576p | 2 |
 | Sony Aath | SonyAath.in | 576p | 2 |

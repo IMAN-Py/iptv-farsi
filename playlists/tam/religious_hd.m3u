@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="tam" tvg-quality="1080p",Angel TV
+https://cdn.pishow.tv/ott/live/453/master.m3u8
+
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="eng;ind;tam" tvg-quality="720p",Angel TV
 https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
 
@@ -25,6 +28,9 @@ https://account20.livebox.co.in/charleshls/live.m3u8
 
 #EXTINF:-1 tvg-id="HosannaTV.in" tvg-name="Hosanna TV" group-title="Religious" tvg-language="tam" tvg-quality="1080i",Hosanna TV
 https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HosannaTV.in" tvg-name="Hosanna TV" group-title="Religious" tvg-language="tam" tvg-quality="720p",Hosanna TV
+https://yuppnimresmum.akamaized.net/28072023/smil:hosanna.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="IBCBakthi.uk" tvg-name="IBC Bakthi" group-title="Religious" tvg-language="tam" tvg-quality="1080p",IBC Bakthi
 https://ibc.massstream.net/IBC2/index.m3u8

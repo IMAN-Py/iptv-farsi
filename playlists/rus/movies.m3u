@@ -26,9 +26,6 @@ http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-name="Bollywood HD" group-title="Movies" tvg-language="hin;rus" tvg-quality="576p",Bollywood HD
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 
-#EXTINF:-1 tvg-id="Bolt.ru" tvg-name="Bolt" group-title="Movies;Series" tvg-language="rus" tvg-quality="576p",Bolt
-http://hls127.freeott.top:8080/Bolt/video.m3u8
-
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" group-title="Movies" tvg-language="rus" tvg-quality="576i",Cinema
 http://catchup.videoline.ru/cinema/playlist.m3u8
 
@@ -140,9 +137,6 @@ http://88.99.215.227/FilmUADrama/index.m3u8
 https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Hit.ru" tvg-name="Hit" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Hit
-http://hls127.freeott.top:8080/XitHD/video.m3u8
-
-#EXTINF:-1 tvg-id="Hit.ru" tvg-name="Hit" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Hit
 http://stream.mcquack.net/363/index.m3u8
 
 #EXTINF:-1 tvg-id="Hollywood.ru" tvg-name="Hollywood" group-title="Movies" tvg-language="rus" tvg-quality="576p",Hollywood
@@ -234,9 +228,6 @@ https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinopokaz
 http://31.148.48.15/Kinopokaz/index.m3u8
 
-#EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinopokaz
-http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
-
 #EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinopokaz
 http://stream.mcquack.net/64/index.m3u8
 
@@ -260,9 +251,6 @@ http://stream.mcquack.net/170/index.m3u8
 
 #EXTINF:-1 tvg-id="Kinosemja.ru" tvg-name="Kinosemja" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinosemja
 https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
-
-#EXTINF:-1 tvg-id="Kinoseriya.ru" tvg-name="Kinoseriya" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinoseriya
-http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="Kinoseriya.ru" tvg-name="Kinoseriya" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinoseriya
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
@@ -292,9 +280,6 @@ https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv
 http://31.222.235.15/mosfilm/index.m3u8
 
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" tvg-name="Mosfilm Gold Collection" group-title="Movies" tvg-language="rus" tvg-quality="576p",Mosfilm Gold Collection
-http://hls127.freeott.top:8080/Mosfilm/video.m3u8
-
-#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" tvg-name="Mosfilm Gold Collection" group-title="Movies" tvg-language="rus" tvg-quality="576p",Mosfilm Gold Collection
 http://stream.mcquack.net/369/index.m3u8
 
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" tvg-name="Mosfilm Gold Collection" group-title="Movies" tvg-language="rus" tvg-quality="576p",Mosfilm Gold Collection
@@ -318,9 +303,6 @@ http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 
 #EXTINF:-1 tvg-id="Nashe.ru" tvg-name="Nashe" group-title="Movies;Series" tvg-language="rus" tvg-quality="576p",Nashe
 http://stream.mcquack.net/217/index.m3u8
-
-#EXTINF:-1 tvg-id="NasheLubimoeKino.ru" tvg-name="Nashe Lubimoe Kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Nashe Lubimoe Kino
-http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
 
 #EXTINF:-1 tvg-id="NasheLubimoeKinoUkraine.ua" tvg-name="Nashe Lubimoe Kino Ukraine" group-title="Movies" tvg-language="rus;ukr" tvg-quality="1080p",Nashe Lubimoe Kino Ukraine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36

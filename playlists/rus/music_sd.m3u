@@ -74,9 +74,6 @@ https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HitFM.md" tvg-name="Hit FM" group-title="Music" tvg-language="ron;rus" tvg-quality="576i",Hit FM
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Maidan.ru" tvg-name="Maidan" group-title="Music" tvg-language="rus" tvg-quality="576p",Maidan
-http://hls127.freeott.top:8080/Maydan/video.m3u8
-
 #EXTINF:-1 tvg-id="Music.kg" tvg-name="Music" group-title="Music" tvg-language="kir;rus" tvg-quality="480p",Music
 https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
 
@@ -91,9 +88,6 @@ http://31.148.5.241/kanal_20/index.m3u8
 
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Muz-TV
 http://46.32.176.50/muztv/index.m3u8
-
-#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Muz-TV
-http://hls127.freeott.top:8080/MUZ_TV/video.m3u8
 
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Muz-TV" group-title="Music" tvg-language="rus" tvg-quality="576p",Muz-TV
 http://stream.mcquack.net/86/index.m3u8

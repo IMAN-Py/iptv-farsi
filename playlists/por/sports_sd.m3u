@@ -5,6 +5,13 @@ http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate" group-title="Sports" tvg-language="por" tvg-quality="480i",Combate
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 
+#EXTINF:-1 tvg-id="DAZN1.uk" tvg-name="DAZN 1" group-title="Sports" tvg-language="por" tvg-quality="576i",DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://50.7.120.34:8080/DAZN1/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN4.uk" tvg-name="DAZN 4" group-title="Sports" tvg-language="por" tvg-quality="540p",DAZN 4
+http://23.237.104.106:8080/DAZN_4/index.m3u8
+
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="Sport TV+" group-title="Sports" tvg-language="por" tvg-quality="576i",Sport TV+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/sportv+.m3u8

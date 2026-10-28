@@ -326,17 +326,11 @@ http://31.148.48.15/Fan/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://88.99.215.227/FilmUADrama/index.m3u8
 
-#EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-name="First Music Channel" group-title="Music" tvg-language="rus" tvg-quality="1080p",First Music Channel
-http://hls127.freeott.top:8080/1mus_HD/video.m3u8
-
 #EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-name="First Music Channel" group-title="Music" tvg-language="rus" tvg-quality="720p",First Music Channel
 http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 tvg-id="FirstMusicChannel.by" tvg-name="First Music Channel" group-title="Music" tvg-language="rus" tvg-quality="1080p",First Music Channel
 http://rtmp.one.by:1300
-
-#EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-name="First Music Channel Russia" group-title="Music" tvg-language="rus" tvg-quality="1080p",First Music Channel Russia
-http://hls127.freeott.top:8080/1muz_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-name="First Music Channel Russia" group-title="Music" tvg-language="rus" tvg-quality="1080p",First Music Channel Russia
 http://rtmp.one.by:2300
@@ -358,9 +352,6 @@ https://video.govoritmoskva.ru/rufm/index.m3u8
 
 #EXTINF:-1 tvg-id="GulliGirl.ru" tvg-name="Gulli Girl" group-title="Kids" tvg-language="rus" tvg-quality="720p",Gulli Girl
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Hit.ru" tvg-name="Hit" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Hit
-http://hls127.freeott.top:8080/XitHD/video.m3u8
 
 #EXTINF:-1 tvg-id="Hit.ru" tvg-name="Hit" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Hit
 http://stream.mcquack.net/363/index.m3u8
@@ -432,17 +423,11 @@ http://31.148.48.15/Kino_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="KinoBoevik.kz" tvg-name="KinoBoevik" group-title="Movies" tvg-language="kaz;rus" tvg-quality="1080p",KinoBoevik
 https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinopokaz
-http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
-
 #EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinopremyera
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 
 #EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinopremyera
 https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
-
-#EXTINF:-1 tvg-id="Kinoseriya.ru" tvg-name="Kinoseriya" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinoseriya
-http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="Komediynoe.ru" tvg-name="Komediynoe" group-title="Comedy" tvg-language="rus" tvg-quality="1080p",Komediynoe
 http://stream.mcquack.net/74/index.m3u8
@@ -603,9 +588,6 @@ http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="rus" tvg-quality="1080i",National Geographic Wild
 http://178.76.68.60:7442/50/mpegts
 
-#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",National Geographic Wild
-http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
-
 #EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Nauka" group-title="Documentary" tvg-language="rus" tvg-quality="1080p",Nauka
 http://31.148.48.15/Nauka_2.0/index.m3u8
 
@@ -662,6 +644,9 @@ https://cdn-dvr.ntv.ru/ntv0_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="1080p",NTV
 https://cdn.ntv.ru/ntv0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTVSvoyaigra.ru" tvg-name="NTV Svoya igra" group-title="Uncategorized" tvg-language="rus" tvg-quality="1080p",NTV Svoya igra
+https://cdn-dvr.ntv.ru/th_svoya_igra/index.m3u8
 
 #EXTINF:-1 tvg-id="NTVVitrina.ru" tvg-name="NTV Vitrina" group-title="General" tvg-language="rus" tvg-quality="720p",NTV Vitrina
 https://cdn.ntv.ru/vitrina/index.m3u8

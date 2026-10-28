@@ -59,6 +59,9 @@ https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
 #EXTINF:-1 tvg-id="ARDBTV.kh" tvg-name="ARDB TV" group-title="Outdoor" tvg-language="khm" tvg-quality="1080p",ARDB TV
 https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
 
+#EXTINF:-1 tvg-id="CacciaePesca.it" tvg-name="Caccia e Pesca" group-title="Outdoor" tvg-language="ita" tvg-quality="720p",Caccia e Pesca
+http://102.129.186.182:81/cacciapesca/index.m3u8
+
 #EXTINF:-1 tvg-id="CanaldoCriador.br" tvg-name="Canal do Criador" group-title="Outdoor" tvg-language="por" tvg-quality="1080p",Canal do Criador
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 
@@ -97,9 +100,6 @@ http://stream.mcquack.net/274/index.m3u8
 
 #EXTINF:-1 tvg-id="Dikayarybalka.ru" tvg-name="Dikaya rybalka" group-title="Outdoor" tvg-language="rus" tvg-quality="1080p",Dikaya rybalka
 http://stream.mcquack.net/275/index.m3u8
-
-#EXTINF:-1 tvg-id="Dikij.ru" tvg-name="Dikij" group-title="Outdoor" tvg-language="rus" tvg-quality="576p",Dikij
-http://hls127.freeott.top:8080/Dikiy/video.m3u8
 
 #EXTINF:-1 tvg-id="Dikij.ru" tvg-name="Dikij" group-title="Outdoor" tvg-language="rus" tvg-quality="576p",Dikij
 https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8
@@ -245,6 +245,9 @@ https://iptv.peer.biz/live/peertv-en.m3u8
 
 #EXTINF:-1 tvg-id="PeerTVSudtirol.it" tvg-name="Peer TV Sudtirol" group-title="Outdoor;Travel" tvg-language="deu" tvg-quality="1080p",Peer TV Sudtirol
 https://iptv.peer.biz/live/peertv.m3u8
+
+#EXTINF:-1 tvg-id="PescaeCaccia.it" tvg-name="Pesca e Caccia" group-title="Outdoor" tvg-language="ita" tvg-quality="720p",Pesca e Caccia
+http://102.129.186.182:81/pescacaccia/index.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVAdventure.us" tvg-name="Pluto TV Adventure" group-title="Entertainment;Outdoor;Series" tvg-language="eng" tvg-quality="720p",Pluto TV Adventure
 https://jmp2.uk/plu-653bdb0fbdf3cf00089cc395.m3u8

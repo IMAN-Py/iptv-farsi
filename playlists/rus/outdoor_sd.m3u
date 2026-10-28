@@ -1,8 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Dikij.ru" tvg-name="Dikij" group-title="Outdoor" tvg-language="rus" tvg-quality="576p",Dikij
-http://hls127.freeott.top:8080/Dikiy/video.m3u8
-
-#EXTINF:-1 tvg-id="Dikij.ru" tvg-name="Dikij" group-title="Outdoor" tvg-language="rus" tvg-quality="576p",Dikij
 https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-name="Moya Planeta" group-title="Outdoor" tvg-language="rus" tvg-quality="576p",Moya Planeta

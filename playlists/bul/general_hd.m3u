@@ -1,24 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BNT1.bg" tvg-name="BNT 1" group-title="General" tvg-language="bul" tvg-quality="720p",BNT 1
-http://hls127.freeott.top:8080/BG_BNT_1/video.m3u8
-
 #EXTINF:-1 tvg-id="BNT1.bg" tvg-name="BNT 1" group-title="General" tvg-language="bul" tvg-quality="1080p",BNT 1
 https://shift03.isp.bg/BNT1_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="BNT2.bg" tvg-name="BNT 2" group-title="General" tvg-language="bul" tvg-quality="720p",BNT 2
-http://hls127.freeott.top:8080/BG_BNT_2_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="BNT2.bg" tvg-name="BNT 2" group-title="General" tvg-language="bul" tvg-quality="1080p",BNT 2
 https://shift03.isp.bg/BNT2_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="BNT3.bg" tvg-name="BNT 3" group-title="General" tvg-language="bul" tvg-quality="720p",BNT 3
-http://hls127.freeott.top:8080/BG_BNT_3_HD/video.m3u8
-
 #EXTINF:-1 tvg-id="BNT3.bg" tvg-name="BNT 3" group-title="General" tvg-language="bul" tvg-quality="1080p",BNT 3
 https://shift03.isp.bg/BNT3_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="BNT4.bg" tvg-name="BNT 4" group-title="General" tvg-language="bul" tvg-quality="720p",BNT 4
-http://hls127.freeott.top:8080/BG_BNT_4_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="BNT4.bg" tvg-name="BNT 4" group-title="General" tvg-language="bul" tvg-quality="1080p",BNT 4
 https://shift03.isp.bg/BNT4_HD/index.m3u8

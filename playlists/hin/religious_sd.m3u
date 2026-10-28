@@ -31,6 +31,9 @@ https://mumt05.tangotv.in/87NeALx2AASTHABHAJAN/index.m3u8
 #EXTINF:-1 tvg-id="ABNTVIndia.us" tvg-name="ABN TV India" group-title="Religious" tvg-language="hin" tvg-quality="540p",ABN TV India
 https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
 
+#EXTINF:-1 tvg-id="AnandTV.in" tvg-name="Anand TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Anand TV
+https://indianews-yupp.vgcdn.net/anandtv/index.m3u8
+
 #EXTINF:-1 tvg-id="AnandWariTV.in" tvg-name="Anand Wari TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Anand Wari TV
 https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8
 
@@ -39,6 +42,9 @@ https://cdn.pishow.tv/ott/live/961/master.m3u8
 
 #EXTINF:-1 tvg-id="AradanaTV.in" tvg-name="Aradana TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aradana TV
 https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8
+
+#EXTINF:-1 tvg-id="AradanaTV.in" tvg-name="Aradana TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aradana TV
+https://yuppnimrestreammum.akamaized.net/181224/smil:aradanatv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="AwakeningTV.in" tvg-name="Awakening TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Awakening TV
 https://d2gvyg6lvauoko.cloudfront.net/230226/awakeningtv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
@@ -79,6 +85,9 @@ https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8
 #EXTINF:-1 tvg-id="LLBNTVSouthAsia.us" tvg-name="LLBN TV South Asia" group-title="Religious" tvg-language="hin" tvg-quality="480p",LLBN TV South Asia
 https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/stream.m3u8
 
+#EXTINF:-1 tvg-id="MahotsavTV.in" tvg-name="Mahotsav TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Mahotsav TV
+https://livetv.mahotsavtv.com/mahotsavtv/playout/index.m3u8
+
 #EXTINF:-1 tvg-id="MangalmayTV.in" tvg-name="Mangalmay TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Mangalmay TV
 https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
@@ -99,6 +108,9 @@ https://mumt04.tangotv.in/m18aqlK4PARASGOLD/index.m3u8
 
 #EXTINF:-1 tvg-id="PeaceofMindTV.in" tvg-name="Peace of Mind TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Peace of Mind TV
 https://mumbai-edge.smartplaytv.in/PeaceOfMind/index.m3u8
+
+#EXTINF:-1 tvg-id="PeaceofMindTV.in" tvg-name="Peace of Mind TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Peace of Mind TV
+https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8
 
 #EXTINF:-1 tvg-id="PeaceofMindTV.in" tvg-name="Peace of Mind TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Peace of Mind TV
 https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b

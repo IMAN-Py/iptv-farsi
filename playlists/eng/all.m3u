@@ -2313,6 +2313,9 @@ https://jmp2.uk/plu-66a7aac9d512590008ab2dcb.m3u8
 #EXTINF:-1 tvg-id="CarolineintheCity.se" tvg-name="Caroline in the City" group-title="Comedy" tvg-language="eng;swe" tvg-quality="720p",Caroline in the City
 https://jmp2.uk/plu-66a7ab4dcd0d3100084395b4.m3u8
 
+#EXTINF:-1 tvg-id="CarsTV.us" tvg-name="Cars.TV" group-title="Auto" tvg-language="eng" tvg-quality="720p",Cars.TV
+https://a-cdn.klowdtv.com/live2/carstv_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CartoonClassics.pl" tvg-name="Cartoon Classics" group-title="Animation;Kids" tvg-language="eng" tvg-quality="1080i",Cartoon Classics
 https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
 
@@ -2321,9 +2324,6 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3
 
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="720p",Cartoon Network
 http://212.5.144.156:8080/cartoon/index.m3u8
-
-#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="720p",Cartoon Network
-http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="480i",Cartoon Network
 https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8
@@ -3066,6 +3066,9 @@ https://goliveafrica.media:9998/live/64ede813cfe1a/index.m3u8
 #EXTINF:-1 tvg-id="CNA.sg" tvg-name="CNA" group-title="News" tvg-language="eng" tvg-quality="1080p",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
+#EXTINF:-1 tvg-id="CNAInternational.sg" tvg-name="CNA International" group-title="News" tvg-language="eng" tvg-quality="1080p",CNA International
+https://freem3u.xyz/api/live/play.m3u8?vid=112
+
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-name="CNA International" group-title="News" tvg-language="eng" tvg-quality="576p",CNA International
 https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
 
@@ -3174,6 +3177,9 @@ https://d3a5mry3t5fzw9.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics" group-title="Comedy" tvg-language="eng" tvg-quality="1080p",Comedy Dynamics
 https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ComedyTV.us" tvg-name="Comedy TV" group-title="Comedy" tvg-language="eng" tvg-quality="720p",Comedy TV
+https://a-cdn.klowdtv.com/live2/comedytv_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
@@ -3411,6 +3417,9 @@ https://cdn.pishow.tv/ott/live/425/master.m3u8
 
 #EXTINF:-1 tvg-id="CVREnglish.in" tvg-name="CVR English" group-title="News" tvg-language="eng" tvg-quality="576p",CVR English
 https://mumbai-edge.smartplaytv.in/CVREnglishNews/index.m3u8
+
+#EXTINF:-1 tvg-id="CVREnglish.in" tvg-name="CVR English" group-title="News" tvg-language="eng" tvg-quality="576p",CVR English
+https://mumt03.tangotv.in/Dsly5z3HCVRNEWSENGLISH/index.m3u8
 
 #EXTINF:-1 tvg-id="CVREnglish.in" tvg-name="CVR English" group-title="News" tvg-language="eng" tvg-quality="576p",CVR English
 https://yuppnimrestreammum.akamaized.net/181224/smil:cvrnewseng.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
@@ -4251,6 +4260,9 @@ http://138.121.15.230:9002/EUROPA-EUROPA/index.m3u8
 http://38.252.238.18:8000/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="Europa Europa" group-title="Series" tvg-language="eng;spa" tvg-quality="1080p",Europa Europa
+http://45.228.234.9:8000/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="Europa Europa" group-title="Series" tvg-language="eng;spa" tvg-quality="1080p",Europa Europa
 https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport.in" tvg-name="Eurosport" group-title="Sports" tvg-language="eng" tvg-quality="720p",Eurosport
@@ -4651,9 +4663,6 @@ https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
 
 #EXTINF:-1 tvg-id="ForeverKids.us" tvg-name="Forever Kids" group-title="Kids" tvg-language="eng" tvg-quality="480i",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
-
-#EXTINF:-1 tvg-id="Formula1AntenaPlay.ro" tvg-name="Formula 1 AntenaPlay" group-title="Sports" tvg-language="eng" tvg-quality="576p",Formula 1 AntenaPlay
-https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8
 
 #EXTINF:-1 tvg-id="Forsidefruer.se" tvg-name="Forsidefruer" group-title="Entertainment" tvg-language="dan;eng" tvg-quality="720p",Forsidefruer
 https://jmp2.uk/plu-61c19dcefbb4b50007d242e1.m3u8
@@ -5138,6 +5147,9 @@ https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8
 #EXTINF:-1 tvg-id="GODTV.uk" tvg-name="GOD TV" group-title="Religious" tvg-language="eng" tvg-quality="576p",GOD TV
 https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="GODTVAsia.uk" tvg-name="GOD TV Asia" group-title="Religious" tvg-language="eng" tvg-quality="576p",GOD TV Asia
+https://d1msejlow1t3l4.cloudfront.net/211125/godtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GodsLearningChannel.us" tvg-name="God's Learning Channel" group-title="Religious" tvg-language="eng" tvg-quality="480p",God's Learning Channel
 https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
 
@@ -5149,6 +5161,9 @@ https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GoodNewsTV.in" tvg-name="GoodNews TV" group-title="Religious" tvg-language="eng" tvg-quality="720p",GoodNews TV
 https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoodNewsTV.in" tvg-name="GoodNews TV" group-title="Religious" tvg-language="eng" tvg-quality="576p",GoodNews TV
+https://cdn.pishow.tv/ott/live/1413/master.m3u8
 
 #EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us" tvg-name="Gordon Ramsay's Hell's Kitchen" group-title="Cooking" tvg-language="eng" tvg-quality="720p",Gordon Ramsay's Hell's Kitchen
 https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8
@@ -5284,9 +5299,6 @@ http://213.91.179.28:8000/play/a03r
 #EXTINF:-1 tvg-id="HalaLondon.uk" tvg-name="Hala London" group-title="General" tvg-language="ara;eng" tvg-quality="1080p",Hala London
 https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 
-#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" group-title="Family" tvg-language="eng" tvg-quality="720p",Hallmark Channel
-http://41.205.93.154/HALLMARK/index.m3u8
-
 #EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-name="Hallmark Movies & More" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Hallmark Movies & More
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 
@@ -5295,6 +5307,9 @@ https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
 
 #EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-name="Hallmark Movies & More" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Hallmark Movies & More
 https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkMystery.us" tvg-name="Hallmark Mystery" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",Hallmark Mystery
+http://41.205.93.154/HALLMARK/index.m3u8
 
 #EXTINF:-1 tvg-id="HappyDays.se" tvg-name="Happy Days" group-title="Classic;Series" tvg-language="dan;eng" tvg-quality="720p",Happy Days
 https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8
@@ -5453,6 +5468,9 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87a
 
 #EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV" group-title="Lifestyle" tvg-language="eng;ita" tvg-quality="1080p",HGTV
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-id="HGTV.nz" tvg-name="HGTV" group-title="Lifestyle" tvg-language="eng" tvg-quality="1080p",HGTV
+https://mediapackage-sky-hgtv-source.fullscreen.nz/index.m3u8
 
 #EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" group-title="Lifestyle" tvg-language="eng" tvg-quality="720p",HGTV
 http://tvsen7.aynascope.net/hgtv/index.m3u8
@@ -5902,6 +5920,9 @@ https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd6670
 #EXTINF:-1 tvg-id="InsideCrime.us" tvg-name="Inside Crime" group-title="Series" tvg-language="eng" tvg-quality="576i",Inside Crime
 https://jmp2.uk/plu-61c49f1495f417000731cef0.m3u8
 
+#EXTINF:-1 tvg-id="INSP.us" tvg-name="INSP" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",INSP
+https://a-cdn.klowdtv.com/live2/insp_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="InTouchPlus.us" tvg-name="InTouch+" group-title="Religious" tvg-language="eng" tvg-quality="1080p",InTouch+
 https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
 
@@ -6220,6 +6241,9 @@ https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/mast
 
 #EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-name="Just for Laughs Gags" group-title="Comedy" tvg-language="eng" tvg-quality="1080p",Just for Laughs Gags
 https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="JusticeCentralTV.us" tvg-name="Justice Central TV" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Justice Central TV
+https://a-cdn.klowdtv.com/live2/justicecentral_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KContentbyCJENM.us" tvg-name="K-Content by CJ ENM" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",K-Content by CJ ENM
 https://d2q0mzb9bm4w5z.cloudfront.net/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8
@@ -7085,6 +7109,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist
 #EXTINF:-1 tvg-id="MNT.us" tvg-name="MNT" group-title="General" tvg-language="eng" tvg-quality="1080p",MNT
 https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MNT.us" tvg-name="MNT" group-title="General" tvg-language="eng" tvg-quality="720p",MNT
+https://live-streaming-mcdn.api.graylive.quickplay.com/woio-xos1-input-1/woio-xos1-input-1.isml/woio-xos1-input-1-audio_eng=96000-video=388000.m3u8
+
 #EXTINF:-1 tvg-id="MOFTV.ke" tvg-name="MOF TV" group-title="Religious" tvg-language="eng" tvg-quality="576i",MOF TV
 https://goliveafrica.media:9998/live/6425a6efa15c8/index.m3u8
 
@@ -7149,12 +7176,6 @@ https://mumbai-edge.smartplaytv.in/Moonbug/index.m3u8
 
 #EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-name="Moonbug Kids" group-title="Kids" tvg-language="eng" tvg-quality="576p",Moonbug Kids
 https://tvsen6.aynaott.com/MoonbugKids/index.m3u8
-
-#EXTINF:-1 tvg-id="MoozLove.ro" tvg-name="Mooz Love" group-title="Music" tvg-language="eng;ron" tvg-quality="576p",Mooz Love
-https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8
-
-#EXTINF:-1 tvg-id="MoozRetro.ro" tvg-name="Mooz Retro" group-title="Music" tvg-language="eng;ron" tvg-quality="576p",Mooz Retro
-https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8
 
 #EXTINF:-1 tvg-id="MoreGraceTV.ng" tvg-name="More Grace TV" group-title="Religious" tvg-language="eng" tvg-quality="410p",More Grace TV
 https://atechgroupuk.site/ETV.m3u8
@@ -7522,6 +7543,9 @@ https://live20.bozztv.com/ssh101/ssh101/myrighteous/playlist.m3u8
 #EXTINF:-1 tvg-id="MyanmarInternationalTV.mm" tvg-name="Myanmar International TV" group-title="General" tvg-language="eng" tvg-quality="480i",Myanmar International TV
 https://mrtvott.com/cache/MITV/master.m3u8
 
+#EXTINF:-1 tvg-id="MyDestinationTV.us" tvg-name="MyDestination.TV" group-title="Travel" tvg-language="eng" tvg-quality="720p",MyDestination.TV
+https://a-cdn.klowdtv.com/live2/mydestinationtv_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MysteryScienceTheater3000.us" tvg-name="Mystery Science Theater 3000" group-title="Comedy" tvg-language="eng" tvg-quality="1080p",Mystery Science Theater 3000
 https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8
 
@@ -7618,9 +7642,6 @@ https://livestream.telvue.com/natickpegasus2/f7b44cfafd5c52223d5498196c8a2e7b.sd
 #EXTINF:-1 tvg-id="NationalGeographic.bg" tvg-name="National Geographic" group-title="Documentary" tvg-language="bul;eng" tvg-quality="576i",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0ct
-
-#EXTINF:-1 tvg-id="NationalGeographic.bg" tvg-name="National Geographic" group-title="Documentary" tvg-language="bul;eng" tvg-quality="1080p",National Geographic
-http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.pl" tvg-name="National Geographic" group-title="Documentary" tvg-language="eng" tvg-quality="576i",National Geographic
 http://92.114.85.87:8006/play/a00a/index.m3u8
@@ -7870,6 +7891,9 @@ https://reflect-npa.cablecast.tv/live-6/live/live.m3u8
 #EXTINF:-1 tvg-id="NCTV79.us" tvg-name="NCTV79" group-title="General" tvg-language="eng" tvg-quality="1080p",NCTV79
 https://livestream.telvue.com/nctv791/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NDTV.in" tvg-name="NDTV" group-title="News" tvg-language="eng" tvg-quality="576p",NDTV
+https://cdn.pishow.tv/ott/live/315/master.m3u8
+
 #EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name="NDTV 24x7" group-title="News" tvg-language="eng" tvg-quality="480p",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
@@ -7878,6 +7902,9 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-name="NDTV Good Times" group-title="Lifestyle" tvg-language="eng;hin;tam" tvg-quality="1080p",NDTV Good Times
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-name="NDTV Good Times" group-title="Lifestyle" tvg-language="eng;hin;tam" tvg-quality="576p",NDTV Good Times
+https://cdn.pishow.tv/ott/live/1285/master.m3u8
 
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-name="NDTV Good Times" group-title="Lifestyle" tvg-language="eng;hin;tam" tvg-quality="396p",NDTV Good Times
 https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/chunks.m3u8
@@ -7979,6 +8006,12 @@ https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_
 
 #EXTINF:-1 tvg-id="News9Live.in" tvg-name="News9Live" group-title="News" tvg-language="eng" tvg-quality="1080p",News9Live
 https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News9Live.in" tvg-name="News9Live" group-title="News" tvg-language="eng" tvg-quality="1080p",News9Live
+https://bharatvarshnews9.akamaized.net/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News9Live.in" tvg-name="News9Live" group-title="News" tvg-language="eng" tvg-quality="1080p",News9Live
+https://d2s9bukq38y039.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/news9_live/amg01106c3/hls.m3u8
 
 #EXTINF:-1 tvg-id="News9Live.in" tvg-name="News9Live" group-title="News" tvg-language="eng" tvg-quality="576p",News9Live
 https://mumbai-edge.smartplaytv.in/News9/index.m3u8
@@ -8659,6 +8692,9 @@ https://jmp2.uk/plu-662b71658dd8160008fc3abf.m3u8
 #EXTINF:-1 tvg-id="ParamountMovieChannel.us" tvg-name="Paramount Movie Channel" group-title="Movies" tvg-language="eng" tvg-quality="480i",Paramount Movie Channel
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" group-title="Movies;Series" tvg-language="eng" tvg-quality="1080p",Paramount Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="ParamountPlusPicks.us" tvg-name="Paramount+ Picks" group-title="Movies" tvg-language="eng" tvg-quality="480i",Paramount+ Picks
 https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
 
@@ -8841,6 +8877,9 @@ https://jmp2.uk/plu-6197086891ddd4000739941a.m3u8
 
 #EXTINF:-1 tvg-id="PerryMason.us" tvg-name="Perry Mason" group-title="Series" tvg-language="eng" tvg-quality="720p",Perry Mason
 https://jmp2.uk/plu-63e20bd160bc8f0008b4c949.m3u8
+
+#EXTINF:-1 tvg-id="PetsTV.us" tvg-name="Pets.TV" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Pets.TV
+https://a-cdn.klowdtv.com/live2/petstv_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PFLMMA.us" tvg-name="PFL MMA" group-title="Sports" tvg-language="eng" tvg-quality="720p",PFL MMA
 https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8
@@ -9712,6 +9751,9 @@ https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8
 https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RealAmericasVoice.us" tvg-name="Real America's Voice" group-title="Uncategorized" tvg-language="eng" tvg-quality="720p",Real America's Voice
+https://a-cdn.klowdtv.com/live2/rav_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RealAmericasVoice.us" tvg-name="Real America's Voice" group-title="Uncategorized" tvg-language="eng" tvg-quality="720p",Real America's Voice
 https://d2jiqiw4g5lj5k.cloudfront.net/AVSamsung/AVSamsung.m3u8
 
 #EXTINF:-1 tvg-id="RealAmericasVoice.us" tvg-name="Real America's Voice" group-title="Uncategorized" tvg-language="eng" tvg-quality="1080p",Real America's Voice
@@ -9734,6 +9776,9 @@ https://lds-realwild-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RealWild.uk" tvg-name="Real Wild" group-title="Uncategorized" tvg-language="eng" tvg-quality="1080p",Real Wild
 https://lds-realwild-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RecipeTV.us" tvg-name="Recipe TV" group-title="Uncategorized" tvg-language="eng" tvg-quality="720p",Recipe TV
+https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedApple21.us" tvg-name="Red Apple 21" group-title="Education" tvg-language="eng" tvg-quality="480p",Red Apple 21
 https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
@@ -9791,6 +9836,9 @@ https://cdn.pishow.tv/ott/live/271/master.m3u8
 
 #EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" group-title="News" tvg-language="eng" tvg-quality="1080p",Republic TV
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
+
+#EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" group-title="News" tvg-language="eng" tvg-quality="576p",Republic TV
+https://mumt05.tangotv.in/87NeALx2REPUBLICTV/index.m3u8
 
 #EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" group-title="News" tvg-language="eng" tvg-quality="1080p",Republic TV
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicTV.m3u8
@@ -10081,14 +10129,8 @@ https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8
 #EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6aa1fc1f063044342e102703
 https://vodcdn.bamboo-cloud.com/livehls/6a9f929f0630443af52c7162/master.m3u8
 
-#EXTINF:-1 tvg-id="SSport.tr" tvg-name="S Sport" group-title="Sports" tvg-language="eng;tur" tvg-quality="720p",S Sport
-https://corestream.siteyaptim.live/s-sport/index.m3u8
-
 #EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport 2" group-title="Sports" tvg-language="eng;tur" tvg-quality="576i",S Sport 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport 2" group-title="Sports" tvg-language="eng;tur" tvg-quality="720p",S Sport 2
-https://corestream.siteyaptim.live/s-sport2/index.m3u8
 
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C" group-title="Uncategorized" tvg-language="cym;eng" tvg-quality="1080p",S4C
 https://matchmaker.live.bidi.net.uk/vs-cmaf-pushb-uk/x=4/i=urn:bbc:pips:service:s4cpbs/pc_hd_abr_v2.mpd
@@ -10710,14 +10752,8 @@ http://103.250.28.74:8000/play/a010/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0c9
 
-#EXTINF:-1 tvg-id="StarChannel.bg" tvg-name="Star Channel" group-title="Movies" tvg-language="bul;eng" tvg-quality="720p",Star Channel
-http://hls127.freeott.top:8080/BG_FOX/video.m3u8
-
 #EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
 http://103.151.60.162:2122/play/a02k/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
-http://103.185.24.134:3001/Star-Movies/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" group-title="Sports" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Star Sports 2
 http://103.151.60.162:2122/play/a00v/index.m3u8?hls
@@ -11685,6 +11721,9 @@ https://tyt-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="theDoveTV.us" tvg-name="theDove TV" group-title="Religious" tvg-language="eng" tvg-quality="720p",theDove TV
 https://thedovetv.bozztv.com/thedovetv/thedovetv/index.m3u8
+
+#EXTINF:-1 tvg-id="TheGrioTV.us" tvg-name="TheGrio TV" group-title="Uncategorized" tvg-language="eng" tvg-quality="720p",TheGrio TV
+https://a-cdn.klowdtv.com/live2/thegrio_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThisOldHouse.us" tvg-name="This Old House" group-title="Series" tvg-language="eng" tvg-quality="480i",This Old House
 https://jmp2.uk/plu-5d51e791b7dba3b2ae990ab2.m3u8
@@ -12815,6 +12854,9 @@ https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
 
 #EXTINF:-1 tvg-id="VietnamToday.vn" tvg-name="Vietnam Today" group-title="Uncategorized" tvg-language="eng;vie" tvg-quality="1080p",Vietnam Today
+https://live.tvon.vn/s8/hls/vntoday/index.m3u8
+
+#EXTINF:-1 tvg-id="VietnamToday.vn" tvg-name="Vietnam Today" group-title="Uncategorized" tvg-language="eng;vie" tvg-quality="1080p",Vietnam Today
 https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/index.m3u8
 
 #EXTINF:-1 tvg-id="VIPTV.aw" tvg-name="VIP TV" group-title="Music" tvg-language="eng;nld;pap" tvg-quality="720p",VIP TV
@@ -12837,6 +12879,9 @@ https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VTV1.vn" tvg-name="VTV1" group-title="Uncategorized" tvg-language="eng;vie" tvg-quality="720p",VTV1
 https://dethich.pw/vtv1/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV1.vn" tvg-name="VTV1" group-title="Uncategorized" tvg-language="eng;vie" tvg-quality="1080p",VTV1
+https://livesct.vtvprime.vn/Live_DASHDRM1/VTV1_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="VTV1.vn" tvg-name="VTV1" group-title="Uncategorized" tvg-language="eng;vie" tvg-quality="1080p",VTV1
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8
@@ -12919,6 +12964,9 @@ https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WeTV.us" tvg-name="We TV" group-title="Series" tvg-language="eng" tvg-quality="1080p",We TV
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="WeatherNation.us" tvg-name="WeatherNation" group-title="Weather" tvg-language="eng" tvg-quality="720p",WeatherNation
+https://a-cdn.klowdtv.com/live3/weathernation_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WeatherNation.us" tvg-name="WeatherNation" group-title="Weather" tvg-language="eng" tvg-quality="1080p",WeatherNation
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8

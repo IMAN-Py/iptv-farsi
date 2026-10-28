@@ -4,7 +4,7 @@
 
 Find free Arabic live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**353 channels · 462 stream entries**
+**344 channels · 453 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 462 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u` |
-| HD | 371 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/hd.m3u` |
+| All channels | 453 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u` |
+| HD | 362 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/hd.m3u` |
 | SD / unknown | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sd.m3u` |
 
 <a id="categories"></a>
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 19 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sports.m3u` |
+| Sports | 11 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sports.m3u` |
 | Movies | 10 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/movies.m3u` |
 | News | 76 | 133 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/news.m3u` |
 | Music | 27 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/music.m3u` |
@@ -168,15 +168,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Bahrain Sports 2 | BahrainSports2.bh | 720p | 1 |
 | Bahrain TV | BahrainTV.bh | 720p | 1 |
 | BBC Arabic | BBCArabic.uk | 540p, 720p | 7 |
-| beIN Sports 1 | beINSports1.qa | 1080p | 1 |
-| beIN Sports 2 | beINSports2.qa | 1080p | 1 |
-| beIN Sports 3 | beINSports3.qa | 1080p | 1 |
-| beIN Sports 4 | beINSports4.qa | 1080p | 1 |
-| beIN Sports 5 | beINSports5.qa | 1080p | 1 |
-| beIN Sports 6 | beINSports6.qa | 1080p | 1 |
-| beIN Sports 7 | beINSports7.qa | 1080p | 1 |
-| beIN Sports 8 | beINSports8.qa | 1080p | 1 |
-| beIN Sports 9 | beINSports9.qa | 1080p | 1 |
 | BeitolAbbas TV Channel | BeitolAbbasTVChannel.iq | 720p | 1 |
 | Big Time Plus | BigTimePlus.sa | 1080p | 1 |
 | Cartoon Network Arabic | CartoonNetworkArabic.ae | 576i | 1 |

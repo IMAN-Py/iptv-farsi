@@ -4,7 +4,7 @@
 
 Find free French live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**427 channels · 556 stream entries**
+**423 channels · 551 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 556 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
-| HD | 356 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
-| SD / unknown | 200 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
+| All channels | 551 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
+| HD | 352 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
+| SD / unknown | 199 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,13 +26,13 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 11 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sports.m3u` |
-| Movies | 25 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/movies.m3u` |
+| Movies | 24 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/movies.m3u` |
 | News | 55 | 82 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/news.m3u` |
 | Music | 40 | 59 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/music.m3u` |
 | Kids | 19 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/kids.m3u` |
 | Documentary | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/documentary.m3u` |
 | Series | 23 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/series.m3u` |
-| Entertainment | 35 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/entertainment.m3u` |
+| Entertainment | 34 | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/entertainment.m3u` |
 | Animation | 7 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/animation.m3u` |
 | Business | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/business.m3u` |
 | Comedy | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/comedy.m3u` |
@@ -40,7 +40,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 14 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/culture.m3u` |
 | Education | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/education.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/family.m3u` |
-| General | 102 | 122 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/general.m3u` |
+| General | 101 | 120 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/general.m3u` |
 | Interactive | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/interactive.m3u` |
 | Legislative | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/legislative.m3u` |
 | Lifestyle | 10 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/lifestyle.m3u` |
@@ -124,7 +124,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Canal 9 | Canal9.ch | 1080p | 1 |
 | Canal Z | CanalZ.be | 1080p | 1 |
 | Canal Zoom | CanalZoom.be | 576i | 1 |
-| Canal+ Cinemas | CanalPlusCinemas.fr | 720p | 1 |
 | Canal+ Sport | CanalPlusSport.fr | 1080p | 1 |
 | Cannes Lerins TV | CannesLerinsTV.fr | 1080p | 1 |
 | Carac 1 | Carac1.ch | 1080p | 1 |
@@ -240,8 +239,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Kozoom TV | KozoomTV.fr | 1080p | 1 |
 | KTO | KTO.fr | 404p | 1 |
 | L&#x27;Equipe | LEquipe.fr | 1080p | 1 |
-| La Trois | LaTrois.be | 720p | 1 |
-| La Une | LaUne.be | 720p | 1 |
 | Laura Dave Media TV | LauraDaveMediaTV.cm | 720p | 1 |
 | LBFD RTV | LBFDRTV.cd | 1080p | 1 |
 | LCI | LCI.fr | 1080p, 576i | 2 |
@@ -415,7 +412,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TF1 | TF1.fr | 576i | 1 |
 | TF1 Series Films | TF1SeriesFilms.fr | 576i | 1 |
 | TFX | TFX.fr | 576i | 1 |
-| Tipik | Tipik.be | 720p | 1 |
 | TiVi5 Monde | TiVi5Monde.fr | 576i | 1 |
 | TM1 TV | TM1TV.ml | 360p | 1 |
 | TMA | TMA.gp | 1080p | 1 |
@@ -454,7 +450,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV5Monde Asia | TV5MondeAsia.fr | 1080p, 576i, 576p | 9 |
 | TV5MONDE Chefs | TV5MONDEChefs.fr | 1080p | 1 |
 | TV5Monde Europe | TV5MondeEurope.fr | 1080p | 4 |
-| TV5Monde France Belgium Switzerland Monaco | TV5MondeFranceBelgiumSwitzerlandMonaco.fr | 1080p, 576i | 2 |
+| TV5Monde France Belgium Switzerland Monaco | TV5MondeFranceBelgiumSwitzerlandMonaco.fr | 1080p | 1 |
 | TV5Monde Info | TV5MondeInfo.fr | 1080p | 1 |
 | TV5Monde Latin America | TV5MondeLatinAmerica.fr | 576i, 720p | 2 |
 | TV5Monde Pacific | TV5MondePacific.fr | 1080p, 576i | 3 |

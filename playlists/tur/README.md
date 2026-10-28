@@ -4,7 +4,7 @@
 
 Find free Turkish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**185 channels · 234 stream entries**
+**173 channels · 221 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 234 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
-| HD | 184 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
-| SD / unknown | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sd.m3u` |
+| All channels | 221 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
+| HD | 182 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
+| SD / unknown | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,8 +25,8 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 17 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sports.m3u` |
-| Movies | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/movies.m3u` |
+| Sports | 10 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sports.m3u` |
+| Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/movies.m3u` |
 | News | 19 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/news.m3u` |
 | Music | 14 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/music.m3u` |
 | Kids | 8 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/kids.m3u` |
@@ -68,17 +68,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ATV Avrupa | ATVAvrupa.tr | 576p | 1 |
 | BabyFirst | BabyFirst.us | 480i, 720p | 2 |
 | BabyTV | BabyTV.uk | 576i | 1 |
-| beIN Box Office 1 | beINBoxOffice1.tr | 576i | 1 |
-| beIN Box Office 2 | beINBoxOffice2.tr | 576i | 1 |
-| beIN Box Office 3 | beINBoxOffice3.tr | 576i | 1 |
-| beIN Movies Stars | beINMoviesStars.tr | 576i | 1 |
-| beIN Movies Turk | beINMoviesTurk.tr | 576i | 1 |
-| beIN Sports 1 Turk | beINSports1Turk.tr | 576i | 1 |
-| beIN Sports 2 Turk | beINSports2Turk.tr | 576i | 1 |
-| beIN Sports 3 Turk | beINSports3Turk.tr | 576i | 1 |
-| beIN Sports 4 Turk | beINSports4Turk.tr | 576i | 1 |
-| beIN Sports 5 Turk | beINSports5Turk.tr | 576i | 1 |
-| beIN Sports Haber | beINSportsHaber.tr | 576i | 1 |
 | Benguturk TV | BenguturkTV.tr | 1080p, 720p | 2 |
 | Beyaz TV | BeyazTV.tr | 720p | 1 |
 | Bir TV | BirTV.tr | 720p | 1 |
@@ -180,8 +169,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | PowerTurk Taptaze | PowerTurkTaptaze.tr | 1080p | 1 |
 | PowerTurk TV | PowerTurkTV.tr | 1080p, 576i, 720p | 4 |
 | RTG TV | RTGTV.ru | 576p, 720p | 2 |
-| S Sport | SSport.tr | 720p | 1 |
-| S Sport 2 | SSport2.tr | 576i, 720p | 2 |
+| S Sport 2 | SSport2.tr | 576i | 1 |
 | Sat 7 Turk | Sat7Turk.cy | 1080p, 720p | 3 |
 | Semerkand TV | SemerkandTV.tr | 1080p | 1 |
 | Sercem TV | SercemTV.tr | 1080p | 1 |

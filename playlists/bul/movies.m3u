@@ -77,9 +77,6 @@ https://shift03.isp.bg/MovieStar/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0c9
 
-#EXTINF:-1 tvg-id="StarChannel.bg" tvg-name="Star Channel" group-title="Movies" tvg-language="bul;eng" tvg-quality="720p",Star Channel
-http://hls127.freeott.top:8080/BG_FOX/video.m3u8
-
 #EXTINF:-1 tvg-id="TV1000.bg" tvg-name="TV1000" group-title="Movies" tvg-language="bul" tvg-quality="576i",TV1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.14.32.26:8800/udp/239.100.10.100:5000

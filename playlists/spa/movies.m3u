@@ -189,6 +189,9 @@ http://15.204.246.24:8080/FilmArtsHD/index.m3u8
 #EXTINF:-1 tvg-id="FilmArts.ar" tvg-name="Film & Arts" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Film & Arts
 http://200.115.120.1:8000/play/ca131/index.m3u8
 
+#EXTINF:-1 tvg-id="FilmArts.ar" tvg-name="Film & Arts" group-title="Movies" tvg-language="spa" tvg-quality="480p",Film & Arts
+http://45.228.234.9:8000/play/a06g/index.m3u8
+
 #EXTINF:-1 tvg-id="Filmex.mx" tvg-name="Filmex" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Filmex
 https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
 

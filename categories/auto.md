@@ -4,7 +4,7 @@
 
 Browse live auto channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**27 channels · 58 stream entries**
+**28 channels · 59 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/auto.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 14 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/auto.m3u` |
+| [English](../playlists/eng/README.md) | 15 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/auto.m3u` |
 | [Bulgarian](../playlists/bul/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/auto.m3u` |
 | [Croatian](../playlists/hrv/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hrv/auto.m3u` |
 | [Danish](../playlists/dan/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/dan/auto.m3u` |

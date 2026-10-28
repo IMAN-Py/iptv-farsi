@@ -5,3 +5,6 @@ https://dethich.pw/htv3/index.m3u8
 #EXTINF:-1 tvg-id="HTVCMovies.vn" tvg-name="HTVC Movies" group-title="Movies;Series" tvg-language="vie" tvg-quality="720p",HTVC Movies
 https://dethich.pw/htvcphim/index.m3u8
 
+#EXTINF:-1 tvg-id="ONPhimViet.vn" tvg-name="ON Phim Viet" group-title="Series" tvg-language="vie" tvg-quality="1080p",ON Phim Viet
+https://vmttv.dpdns.org/tv360/?id=175
+

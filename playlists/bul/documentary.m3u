@@ -14,15 +14,9 @@ http://213.91.179.28:8000/play/a0cf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0ct
 
-#EXTINF:-1 tvg-id="NationalGeographic.bg" tvg-name="National Geographic" group-title="Documentary" tvg-language="bul;eng" tvg-quality="1080p",National Geographic
-http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8
-
 #EXTINF:-1 tvg-id="NationalGeographicWild.bg" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="bul" tvg-quality="576i",National Geographic Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0cu
-
-#EXTINF:-1 tvg-id="NationalGeographicWild.bg" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="bul" tvg-quality="1080p",National Geographic Wild
-http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="ViasatExplore.bg" tvg-name="Viasat Explore" group-title="Documentary" tvg-language="bul" tvg-quality="1080p",Viasat Explore
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36

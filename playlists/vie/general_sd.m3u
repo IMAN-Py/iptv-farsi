@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DienBienTV.vn" tvg-name="Dien Bien TV" group-title="General" tvg-language="vie" tvg-quality="406p",Dien Bien TV
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
-
 #EXTINF:-1 tvg-id="DongNaiTV1.vn" tvg-name="Dong Nai TV 1" group-title="General;News" tvg-language="vie" tvg-quality="480p",Dong Nai TV 1
 http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
 

@@ -39,6 +39,9 @@ http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-id="ConectaMaisTV.br" tvg-name="Conecta Mais TV" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Conecta Mais TV
 https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-name="Discovery Channel Latin America" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Discovery Channel Latin America
+http://45.162.64.114/DISCOVERY_CHANNEL/index.m3u8
+
 #EXTINF:-1 tvg-id="DiscoveryWorld.us" tvg-name="Discovery World" group-title="Entertainment" tvg-language="por" tvg-quality="720p",Discovery World
 http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
 

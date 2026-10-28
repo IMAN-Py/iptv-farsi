@@ -45,6 +45,9 @@ https://streams.tangotv.in/TV9GUJARATI/ORIGIN/index.m3u8
 https://channel.vrlivegujarat.com/hls/vrchannel.m3u8
 
 #EXTINF:-1 tvg-id="VTVNews.in" tvg-name="VTV News" group-title="News" tvg-language="guj" tvg-quality="576p",VTV News
+https://d1msejlow1t3l4.cloudfront.net/fta/vtvgujarati/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VTVNews.in" tvg-name="VTV News" group-title="News" tvg-language="guj" tvg-quality="576p",VTV News
 https://live1.ottlive.co.in/vtvgujarati/vtvgujarati/index.m3u8
 
 #EXTINF:-1 tvg-id="Zee24Kalak.in" tvg-name="Zee 24 Kalak" group-title="News" tvg-language="guj" tvg-quality="720p",Zee 24 Kalak

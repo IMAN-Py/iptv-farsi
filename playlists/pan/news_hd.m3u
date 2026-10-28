@@ -15,10 +15,16 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
 
 #EXTINF:-1 tvg-id="GTCNews.in" tvg-name="GTC News" group-title="News" tvg-language="pan" tvg-quality="1080p",GTC News
+https://gtc.ottlive.co.in/gtcnews/index.m3u8
+
+#EXTINF:-1 tvg-id="GTCNews.in" tvg-name="GTC News" group-title="News" tvg-language="pan" tvg-quality="1080p",GTC News
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/921cca59-daee-4f89-8c38-7ffe8de44f4c/index.m3u8
 
 #EXTINF:-1 tvg-id="HamdardTV.ca" tvg-name="Hamdard TV" group-title="News" tvg-language="pan" tvg-quality="1080p",Hamdard TV
 https://tv.hamdardtv.com/hamdard/index.m3u8
+
+#EXTINF:-1 tvg-id="LivingIndiaNews.in" tvg-name="Living India News" group-title="News" tvg-language="pan" tvg-quality="1080p",Living India News
+https://livingindiaottlive.akamaized.net/livingindia/index.m3u8
 
 #EXTINF:-1 tvg-id="LivingIndiaNews.in" tvg-name="Living India News" group-title="News" tvg-language="pan" tvg-quality="1080p",Living India News
 https://stream.ottlive.co.in/livingindia/index.m3u8
@@ -34,6 +40,12 @@ https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5
 
 #EXTINF:-1 tvg-id="WorldPunjabiTV.in" tvg-name="World Punjabi TV" group-title="News" tvg-language="pan" tvg-quality="1080p",World Punjabi TV
 https://live1.ottlive.co.in/worldpunjabitv/worldpunjabitv/index.m3u8
+
+#EXTINF:-1 tvg-id="WorldPunjabiTV.in" tvg-name="World Punjabi TV" group-title="News" tvg-language="pan" tvg-quality="1080p",World Punjabi TV
+https://stream.ottlive.co.in/worldpunjabitv/index.m3u8
+
+#EXTINF:-1 tvg-id="WorldPunjabiTV.in" tvg-name="World Punjabi TV" group-title="News" tvg-language="pan" tvg-quality="1080p",World Punjabi TV
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1cd73d38-bbd2-4d81-9ba7-58293f2e65a8/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeePunjabHaryanaHimachal.in" tvg-name="Zee Punjab Haryana Himachal" group-title="News" tvg-language="pan" tvg-quality="720p",Zee Punjab Haryana Himachal
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8

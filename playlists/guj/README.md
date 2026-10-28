@@ -4,7 +4,7 @@
 
 Find free Gujarati live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**20 channels · 25 stream entries**
+**22 channels · 28 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/guj/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/all.m3u` |
-| HD | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/hd.m3u` |
-| SD / unknown | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/sd.m3u` |
+| All channels | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/all.m3u` |
+| HD | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/hd.m3u` |
+| SD / unknown | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,12 +25,12 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| News | 13 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/news.m3u` |
+| News | 13 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/news.m3u` |
 | Kids | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/kids.m3u` |
 | Entertainment | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/entertainment.m3u` |
 | Business | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/business.m3u` |
 | General | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/general.m3u` |
-| Religious | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/religious.m3u` |
+| Religious | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/guj/religious.m3u` |
 
 ## Included channels
 
@@ -52,9 +52,11 @@ Availability is not verified. Use your browser’s Find command to search this t
 | News18 Gujarati | News18Gujarati.in | 1080p | 1 |
 | Pradesh24 Gujarati | Pradesh24Gujarati.in | 1080p | 1 |
 | Sandesh News | SandeshNews.in | 576p | 1 |
+| Shree Sanatan TV | ShreeSanatanTV.in | 720p | 1 |
 | TV13 Gujarati | TV13Gujarati.in | 480p | 1 |
 | TV9 Gujarati | TV9Gujarati.in | 576p, 720p | 2 |
+| Valam TV | ValamTV.in | 720p | 1 |
 | Valam TV Dayro | ValamTVDayro.in | 576p | 1 |
 | VR Live | VRLive.in | 720p | 1 |
-| VTV News | VTVNews.in | 576p | 1 |
+| VTV News | VTVNews.in | 576p | 2 |
 | Zee 24 Kalak | Zee24Kalak.in | 720p | 1 |

@@ -335,6 +335,9 @@ https://mumt04.tangotv.in/m18aqlK4AMRITGURBANI/index.m3u8
 #EXTINF:-1 tvg-id="AmritGurbani.in" tvg-name="Amrit Gurbani" group-title="Religious" tvg-language="pan" tvg-quality="720p",Amrit Gurbani
 https://samitaorigin.tangotv.in/AMRITGURBANI/SAMITAORIGIN/index.m3u8
 
+#EXTINF:-1 tvg-id="AnandTV.in" tvg-name="Anand TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Anand TV
+https://indianews-yupp.vgcdn.net/anandtv/index.m3u8
+
 #EXTINF:-1 tvg-id="AnandTV.in" tvg-name="Anand TV" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Anand TV
 https://live.legitpro.co.in/anandtv/index.m3u8
 
@@ -352,6 +355,9 @@ https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AndoTV.cn" tvg-name="Ando TV" group-title="Religious" tvg-language="zho" tvg-quality="1080p",Ando TV
 http://play.kankanlive.com/live/1711956137852982.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="tam" tvg-quality="1080p",Angel TV
+https://cdn.pishow.tv/ott/live/453/master.m3u8
 
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="nep" tvg-quality="720p",Angel TV
 https://janya-digimix.akamaized.net/vglive-sk-109639/nepali/ngrp:angelnepali_all/playlist.m3u8
@@ -404,6 +410,9 @@ https://mumbai-edge.smartplaytv.in/AngelTV/index.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Angel TV
 https://mumt01.tangotv.in/O5aw8Zn3ANGELTVHD/index.m3u8
 
+#EXTINF:-1 tvg-id="AngelTV.in" tvg-name="Angel TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Angel TV
+https://yuppnimrestreammum.akamaized.net/181224/smil:angeltv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
 #EXTINF:-1 tvg-id="AngelusTV.ro" tvg-name="Angelus TV" group-title="Religious" tvg-language="ron" tvg-quality="1080p",Angelus TV
 https://video.angelustv.ro/hls/angelustv.m3u8
 
@@ -422,6 +431,9 @@ https://cdn.pishow.tv/ott/live/961/master.m3u8
 
 #EXTINF:-1 tvg-id="AradanaTV.in" tvg-name="Aradana TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aradana TV
 https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8
+
+#EXTINF:-1 tvg-id="AradanaTV.in" tvg-name="Aradana TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aradana TV
+https://yuppnimrestreammum.akamaized.net/181224/smil:aradanatv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="ArboldeVidaTV.sv" tvg-name="Arbol de Vida TV" group-title="Religious" tvg-language="spa" tvg-quality="240p",Arbol de Vida TV
 https://yupistream.top:19360/livearbol/livearbol.m3u8
@@ -510,6 +522,9 @@ https://cdn.pishow.tv/ott/live/397/master.m3u8
 
 #EXTINF:-1 tvg-id="BhakthiTV.in" tvg-name="Bhakthi TV" group-title="Religious" tvg-language="tel" tvg-quality="576i",Bhakthi TV
 https://mumbai-edge.smartplaytv.in/BhakthiTv/index.m3u8
+
+#EXTINF:-1 tvg-id="BhakthiTV.in" tvg-name="Bhakthi TV" group-title="Religious" tvg-language="tel" tvg-quality="576p",Bhakthi TV
+https://yuppnimresmum.akamaized.net/240122/bhakti/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="BhaktiDhara.in" tvg-name="Bhakti Dhara" group-title="Religious" tvg-language="hin" tvg-quality="720p",Bhakti Dhara
 https://newsliveindia.com:4433/bhaktidhara/index.m3u8
@@ -778,6 +793,9 @@ https://cdn.pishow.tv/ott/live/957/master.m3u8
 https://mumbai-edge.smartplaytv.in/CVROM/index.m3u8
 
 #EXTINF:-1 tvg-id="CVROMSpiritual.in" tvg-name="CVR OM Spiritual" group-title="Religious" tvg-language="tel" tvg-quality="576p",CVR OM Spiritual
+https://mumt01.tangotv.in/O5aw8Zn3CVRSPRITUALOM/index.m3u8
+
+#EXTINF:-1 tvg-id="CVROMSpiritual.in" tvg-name="CVR OM Spiritual" group-title="Religious" tvg-language="tel" tvg-quality="576p",CVR OM Spiritual
 https://yuppnimrestreammum.akamaized.net/181224/smil:cvrom1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="DAAITV.id" tvg-name="DAAI TV" group-title="Religious" tvg-language="zho" tvg-quality="576i",DAAI TV
@@ -877,6 +895,9 @@ https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="DukhnivaranPatialaLive.in" tvg-name="Dukhnivaran Patiala Live" group-title="Religious" tvg-language="pan" tvg-quality="720p",Dukhnivaran Patiala Live
 https://samitaorigin.tangotv.in/DUKHNIWARAN/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="Dukhniwaran.in" tvg-name="Dukhniwaran" group-title="Religious" tvg-language="pan" tvg-quality="576p",Dukhniwaran
+https://mumt03.tangotv.in/Dsly5z3HDUKHNIWARAN/index.m3u8
 
 #EXTINF:-1 tvg-id="DunamisTV.ng" tvg-name="Dunamis TV" group-title="Religious" tvg-language="eng" tvg-quality="576p",Dunamis TV
 https://atechgroupuk.site/DTV.m3u8
@@ -1007,6 +1028,9 @@ http://187.102.208.209:8000/play/a0ac/index.m3u8
 
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="spa" tvg-quality="480p",EWTN
 http://45.167.1.138:8000/play/a01m
+
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="spa" tvg-quality="480p",EWTN
+http://45.228.234.9:8000/play/a06v/index.m3u8
 
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="eng" tvg-quality="720p",EWTN
 https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
@@ -1197,6 +1221,9 @@ https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8
 #EXTINF:-1 tvg-id="GODTV.uk" tvg-name="GOD TV" group-title="Religious" tvg-language="eng" tvg-quality="576p",GOD TV
 https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="GODTVAsia.uk" tvg-name="GOD TV Asia" group-title="Religious" tvg-language="eng" tvg-quality="576p",GOD TV Asia
+https://d1msejlow1t3l4.cloudfront.net/211125/godtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GodsLearningChannel.us" tvg-name="God's Learning Channel" group-title="Religious" tvg-language="eng" tvg-quality="480p",God's Learning Channel
 https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
 
@@ -1217,6 +1244,9 @@ https://mumt07.tangotv.in/zHjX9OFlGOODNESSTV/index.m3u8
 
 #EXTINF:-1 tvg-id="GoodNewsTV.in" tvg-name="GoodNews TV" group-title="Religious" tvg-language="eng" tvg-quality="720p",GoodNews TV
 https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoodNewsTV.in" tvg-name="GoodNews TV" group-title="Religious" tvg-language="eng" tvg-quality="576p",GoodNews TV
+https://cdn.pishow.tv/ott/live/1413/master.m3u8
 
 #EXTINF:-1 tvg-id="GospelCartoon.br" tvg-name="Gospel Cartoon" group-title="Religious" tvg-language="por" tvg-quality="360p",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
@@ -1263,6 +1293,9 @@ https://ncdn.telewebion.ir/habib/live/playlist.m3u8
 #EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-name="Hare Krsna TV" group-title="Religious" tvg-language="hin" tvg-quality="720p",Hare Krsna TV
 https://airtelapp.shemaroo.com/harekrsnatv/smil:harekrsnatvadp.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-name="Hare Krsna TV" group-title="Religious" tvg-language="hin" tvg-quality="720p",Hare Krsna TV
+https://d1y1fq5zo7b6pt.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hktv/HKTV/HKWebApp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-name="Hare Krsna TV" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Hare Krsna TV
 https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
 
@@ -1307,6 +1340,9 @@ https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8
 
 #EXTINF:-1 tvg-id="HinduDharmam.in" tvg-name="Hindu Dharmam" group-title="Religious" tvg-language="tel" tvg-quality="576p",Hindu Dharmam
 https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8
+
+#EXTINF:-1 tvg-id="HinduDharmam.in" tvg-name="Hindu Dharmam" group-title="Religious" tvg-language="tel" tvg-quality="576p",Hindu Dharmam
+https://yuppnimrestreammum.akamaized.net/181224/smil:hindudharmam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="HisGraceTV.ke" tvg-name="His Grace TV" group-title="Religious" tvg-language="eng" tvg-quality="480p",His Grace TV
 https://goliveafrica.media:9998/live/6593c35f9c090/index.m3u8
@@ -1389,6 +1425,9 @@ https://ktismaservers.in:3466/live/hosannattvhindhilive.m3u8
 
 #EXTINF:-1 tvg-id="HosannaTV.in" tvg-name="Hosanna TV" group-title="Religious" tvg-language="hin" tvg-quality="720p",Hosanna TV
 https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8
+
+#EXTINF:-1 tvg-id="HosannaTV.in" tvg-name="Hosanna TV" group-title="Religious" tvg-language="tam" tvg-quality="720p",Hosanna TV
+https://yuppnimresmum.akamaized.net/28072023/smil:hosanna.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="HosannaVision.pa" tvg-name="Hosanna Vision" group-title="Religious" tvg-language="spa" tvg-quality="720p",Hosanna Vision
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
@@ -1842,11 +1881,17 @@ https://d1msejlow1t3l4.cloudfront.net/fta/mahaabhakti/playlist.m3u8
 #EXTINF:-1 tvg-id="MahaaBhakti.in" tvg-name="Mahaa Bhakti" group-title="Religious" tvg-language="tel" tvg-quality="1080p",Mahaa Bhakti
 https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8
 
+#EXTINF:-1 tvg-id="MahaaBhakti.in" tvg-name="Mahaa Bhakti" group-title="Religious" tvg-language="tel" tvg-quality="576p",Mahaa Bhakti
+https://mumt01.tangotv.in/O5aw8Zn3MAHABHAKTI/index.m3u8
+
 #EXTINF:-1 tvg-id="MahaasinTV.tz" tvg-name="Mahaasin TV" group-title="Religious" tvg-language="eng;swa" tvg-quality="576i",Mahaasin TV
 https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8
 
 #EXTINF:-1 tvg-id="MahimaiTV.in" tvg-name="Mahimai TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Mahimai TV
 https://mahimai.iptelevision.live/mahimaitv/video.m3u8
+
+#EXTINF:-1 tvg-id="MahotsavTV.in" tvg-name="Mahotsav TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Mahotsav TV
+https://livetv.mahotsavtv.com/mahotsavtv/playout/index.m3u8
 
 #EXTINF:-1 tvg-id="MajestadTV.us" tvg-name="Majestad TV" group-title="Religious" tvg-language="spa" tvg-quality="480p",Majestad TV
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
@@ -2064,6 +2109,9 @@ http://202.150.161.117:8000/play/NabawiTV
 #EXTINF:-1 tvg-id="NambikkaiTV.in" tvg-name="Nambikkai TV" group-title="Religious" tvg-language="tam" tvg-quality="576i",Nambikkai TV
 https://cdn.pishow.tv/ott/live/1389/master.m3u8
 
+#EXTINF:-1 tvg-id="NambikkaiTV.in" tvg-name="Nambikkai TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",Nambikkai TV
+https://d1msejlow1t3l4.cloudfront.net/fta/nambikkaitv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="NamdhariTV.in" tvg-name="Namdhari TV" group-title="Religious" tvg-language="pan" tvg-quality="404p",Namdhari TV
 https://namdhari.tv/live/sbs1.m3u8
 
@@ -2151,6 +2199,9 @@ https://netzerstreaming.com:4433/hls/olammetro/index.m3u8
 #EXTINF:-1 tvg-id="OMTV.in" tvg-name="OM TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",OM TV
 https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
 
+#EXTINF:-1 tvg-id="OMTV.in" tvg-name="OM TV" group-title="Religious" tvg-language="tam" tvg-quality="576p",OM TV
+https://samitaorigin.tangotv.in/OMTV/SAMITAORIGIN/index.m3u8
+
 #EXTINF:-1 tvg-id="Omega.is" tvg-name="Omega" group-title="Religious" tvg-language="isl" tvg-quality="720p",Omega
 https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJkM2NlZTBhY2RmYTlkNWUzMTQ1MzMyMjk4Y2FlNGQ1YiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg1NTYxNzEyLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.mbhyruuIdBBCY-HxJTyLdG3OH1nvFFuzwhBGEainaCV5EkRv20p22JUd-x8yzyghm_X-soPuxO_h_lf6aSsxQz1qMCQ8ZGcN_GVRW8j2Tv3hRJTj_DQnxk0s5LXmrQCkUo1szfCNjkOaa062r3x5qL1-kZ5fKDRnSBpGJyx_H6G1SHOTzlTd9mGggrZ3aH7Omuu1vKDHvxE-C0oN0KpgjO0oht5DM9ClTtXB1Wabu0mqfYRGXBpuBHhAn7hvDOxHTlWrtTUMcUXv5uQ-oXyfLCqHHFk_CV2TUUq6lmO6sIC93EeZrBWFQJr_t32xGMJpgOhfxjaL39B5XeUYypzAGQ/manifest/video.m3u8
 
@@ -2192,6 +2243,9 @@ https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PeaceofMindTV.in" tvg-name="Peace of Mind TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Peace of Mind TV
 https://mumbai-edge.smartplaytv.in/PeaceOfMind/index.m3u8
+
+#EXTINF:-1 tvg-id="PeaceofMindTV.in" tvg-name="Peace of Mind TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Peace of Mind TV
+https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8
 
 #EXTINF:-1 tvg-id="PeaceofMindTV.in" tvg-name="Peace of Mind TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Peace of Mind TV
 https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
@@ -2535,6 +2589,12 @@ https://restream.churchtv247.co.za/Apostle/Hggc@24/1.m3u8
 #EXTINF:-1 tvg-id="SercemTV.tr" tvg-name="Sercem TV" group-title="Culture;General;Religious" tvg-language="kur;tur;zza" tvg-quality="1080p",Sercem TV
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
 
+#EXTINF:-1 tvg-id="ShaheedanLive.in" tvg-name="Shaheedan Live" group-title="Religious" tvg-language="pan" tvg-quality="576p",Shaheedan Live
+https://mumt06.tangotv.in/qYyB8fXVSHAHEEDDANLIVE/index.m3u8
+
+#EXTINF:-1 tvg-id="ShaheedanShahib.in" tvg-name="Shaheedan Shahib" group-title="Religious" tvg-language="pan" tvg-quality="576p",Shaheedan Shahib
+https://mumt03.tangotv.in/Dsly5z3HSHAHEEDBABADEEPSINGH/index.m3u8
+
 #EXTINF:-1 tvg-id="Shalom.in" tvg-name="Shalom" group-title="Religious" tvg-language="mal" tvg-quality="1080p",Shalom
 https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
 
@@ -2579,6 +2639,9 @@ https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShreeHazurSahibji.in" tvg-name="Shree Hazur Sahibji" group-title="Religious" tvg-language="pan" tvg-quality="720p",Shree Hazur Sahibji
 https://samitaorigin.tangotv.in/SHREEHAZURSAHIBJI/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="ShreeSanatanTV.in" tvg-name="Shree Sanatan TV" group-title="Religious" tvg-language="guj" tvg-quality="720p",Shree Sanatan TV
+http://sanatan.valamtv.in/hls/shree/bhattji.m3u8
 
 #EXTINF:-1 tvg-id="ShubhsandeshTV.in" tvg-name="Shubhsandesh TV" group-title="Religious" tvg-language="hin" tvg-quality="720p",Shubhsandesh TV
 https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
@@ -2953,6 +3016,9 @@ https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 
 #EXTINF:-1 tvg-id="UrejeshoTVAfrica.ke" tvg-name="Urejesho TV Africa" group-title="Religious" tvg-language="eng;swa" tvg-quality="360p",Urejesho TV Africa
 https://goliveafrica.media:9998/live/64a26e4dd21a3/index.m3u8
+
+#EXTINF:-1 tvg-id="ValamTV.in" tvg-name="Valam TV" group-title="Religious" tvg-language="guj" tvg-quality="720p",Valam TV
+http://cabletv.valamtv.in/hls/stream0.m3u8
 
 #EXTINF:-1 tvg-id="ValamTVDayro.in" tvg-name="Valam TV Dayro" group-title="Religious" tvg-language="guj" tvg-quality="576p",Valam TV Dayro
 https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8

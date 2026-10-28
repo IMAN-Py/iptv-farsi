@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="576p",9X Tashan
+http://107.167.16.138/9xtashan/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="1080p",9X Tashan
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
 
@@ -16,6 +19,9 @@ https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8
 
 #EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="1080p",9X Tashan
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
+
+#EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="576p",9X Tashan
+https://yupplivegcp2.yuppcdn.net/28072023/smil:9xtashan.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="Mh1Music.in" tvg-name="Mh 1 Music" group-title="Music" tvg-language="pan" tvg-quality="720p",Mh 1 Music
 https://livestream.jswk.online/playlisttest/live/playlist.m3u8
@@ -41,14 +47,29 @@ https://mumt04.tangotv.in/m18aqlK4PTCMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiBeatsHD.in" tvg-name="Punjabi Beats HD" group-title="Music" tvg-language="pan" tvg-quality="720p",Punjabi Beats HD
 https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8
 
+#EXTINF:-1 tvg-id="PunjabiBeatsHD.in" tvg-name="Punjabi Beats HD" group-title="Music" tvg-language="pan" tvg-quality="576p",Punjabi Beats HD
+https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="PunjabiHits.in" tvg-name="Punjabi Hits" group-title="Music" tvg-language="pan" tvg-quality="1080p",Punjabi Hits
+https://legitpro.co.in/punjabihits/punjabihits/index.m3u8
+
+#EXTINF:-1 tvg-id="PunjabiHits.in" tvg-name="Punjabi Hits" group-title="Music" tvg-language="pan" tvg-quality="1080p",Punjabi Hits
+https://livingindiaottlive.akamaized.net/punjabihits/index.m3u8
+
 #EXTINF:-1 tvg-id="PunjabiHits.in" tvg-name="Punjabi Hits" group-title="Music" tvg-language="pan" tvg-quality="1080p",Punjabi Hits
 https://stream.ottlive.co.in/punjabihits/index.m3u8
 
 #EXTINF:-1 tvg-id="PunjabiMusicHD.in" tvg-name="Punjabi Music HD" group-title="Music" tvg-language="pan" tvg-quality="720p",Punjabi Music HD
 https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8
 
+#EXTINF:-1 tvg-id="TabbarHits.in" tvg-name="Tabbar Hits" group-title="Music" tvg-language="pan" tvg-quality="1080p",Tabbar Hits
+https://livingindiaottlive.akamaized.net/tabbarhits/index.m3u8
+
 #EXTINF:-1 tvg-id="TabbarHits.in" tvg-name="Tabbar Hits" group-title="Music" tvg-language="pan" tvg-quality="576p",Tabbar Hits
 https://mumt04.tangotv.in/m18aqlK4TABBARHITS/index.m3u8
+
+#EXTINF:-1 tvg-id="TabbarHits.in" tvg-name="Tabbar Hits" group-title="Music" tvg-language="pan" tvg-quality="1080p",Tabbar Hits
+https://server.thelegitpro.in/tabbarhits/tabbarhits/index.m3u8
 
 #EXTINF:-1 tvg-id="TabbarHits.in" tvg-name="Tabbar Hits" group-title="Music" tvg-language="pan" tvg-quality="576p",Tabbar Hits
 https://streams.tangotv.in/TABBARHITS/ORIGIN/index.m3u8

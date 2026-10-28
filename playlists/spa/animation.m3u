@@ -8,9 +8,6 @@ https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="720p",Cartoon Network
 http://212.5.144.156:8080/cartoon/index.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="720p",Cartoon Network
-http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8
-
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="480i",Cartoon Network
 https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8
 
@@ -131,6 +128,9 @@ https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
 #EXTINF:-1 tvg-id="LasTortugasNinja.us" tvg-name="Las Tortugas Ninja" group-title="Animation" tvg-language="spa" tvg-quality="720p",Las Tortugas Ninja
 https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
 
+#EXTINF:-1 tvg-id="MAXAnime.ve" tvg-name="MAX Anime" group-title="Animation" tvg-language="spa" tvg-quality="720p",MAX Anime
+http://45.228.234.9:8000/play/a06u/index.m3u8
+
 #EXTINF:-1 tvg-id="MAXAnime.ve" tvg-name="MAX Anime" group-title="Animation" tvg-language="spa" tvg-quality="1080p",MAX Anime
 https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
 
@@ -187,6 +187,9 @@ http://190.61.42.218:9000/play/a06i/index.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="1080p",Tooncast
 http://38.134.250.110:8000/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="spa" tvg-quality="720p",Tooncast
+http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="spa" tvg-quality="480i",Tooncast
 http://45.173.231.22:8000/play/a01i/index.m3u8

@@ -24,9 +24,6 @@ https://jmp2.uk/plu-672e16f5daad7f0008929a0d.m3u8
 #EXTINF:-1 tvg-id="BeverlyHillbillies.us" tvg-name="Beverly Hillbillies" group-title="Classic" tvg-language="eng" tvg-quality="480i",Beverly Hillbillies
 https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
 
-#EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-name="Bollywood Classic" group-title="Classic;Movies" tvg-language="hin;ron" tvg-quality="576p",Bollywood Classic
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-bollywood-classic/live_hq?offsetSeconds=0
-
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-name="Bollywood Classic" group-title="Classic;Movies" tvg-language="hin;ron" tvg-quality="576i",Bollywood Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
@@ -163,9 +160,6 @@ http://176.118.197.101/Nostalgiya/index.m3u8
 
 #EXTINF:-1 tvg-id="Nostalgia.ru" tvg-name="Nostalgia" group-title="Classic" tvg-language="rus" tvg-quality="576p",Nostalgia
 http://31.148.48.15/Nostalgiya/index.m3u8
-
-#EXTINF:-1 tvg-id="Nostalgia.ru" tvg-name="Nostalgia" group-title="Classic" tvg-language="rus" tvg-quality="576p",Nostalgia
-http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 
 #EXTINF:-1 tvg-id="PersianaNostalgia.fr" tvg-name="Persiana Nostalgia" group-title="Classic;Music" tvg-language="fas" tvg-quality="576i",Persiana Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8

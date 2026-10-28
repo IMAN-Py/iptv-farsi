@@ -4,7 +4,7 @@
 
 Find free Bulgarian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**80 channels · 115 stream entries**
+**80 channels · 100 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 115 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u` |
-| HD | 46 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/hd.m3u` |
-| SD / unknown | 69 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/sd.m3u` |
+| All channels | 100 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u` |
+| HD | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/hd.m3u` |
+| SD / unknown | 68 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,13 +25,13 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 4 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/sports.m3u` |
-| Movies | 17 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/movies.m3u` |
+| Sports | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/sports.m3u` |
+| Movies | 17 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/movies.m3u` |
 | News | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/news.m3u` |
 | Music | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/music.m3u` |
-| Kids | 4 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/kids.m3u` |
-| Documentary | 8 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/documentary.m3u` |
-| Series | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/series.m3u` |
+| Kids | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/kids.m3u` |
+| Documentary | 8 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/documentary.m3u` |
+| Series | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/series.m3u` |
 | Entertainment | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/entertainment.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/auto.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/business.m3u` |
@@ -39,7 +39,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Comedy | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/comedy.m3u` |
 | Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/cooking.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/family.m3u` |
-| General | 9 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/general.m3u` |
+| General | 9 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/general.m3u` |
 | Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/legislative.m3u` |
 | Lifestyle | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/lifestyle.m3u` |
 | Outdoor | 3 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/outdoor.m3u` |
@@ -62,10 +62,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | AXN CEE | AXNCEE.es | 576i | 1 |
 | AXN White | AXNWhite.us | 576i, 576p | 2 |
 | Bloomberg TV Bulgaria | BloombergTVBulgaria.bg | 576i | 1 |
-| BNT 1 | BNT1.bg | 1080p, 576i, 720p | 3 |
-| BNT 2 | BNT2.bg | 1080p, 576i, 720p | 3 |
-| BNT 3 | BNT3.bg | 1080p, 576i, 720p | 3 |
-| BNT 4 | BNT4.bg | 1080p, 576i, 720p | 3 |
+| BNT 1 | BNT1.bg | 1080p, 576i | 2 |
+| BNT 2 | BNT2.bg | 1080p, 576i | 2 |
+| BNT 3 | BNT3.bg | 1080p, 576i | 2 |
+| BNT 4 | BNT4.bg | 1080p, 576i | 2 |
 | BOX TV | BOXTV.bg | 576i | 1 |
 | bTV | bTV.bg | 576i | 1 |
 | bTV Action | bTVAction.bg | 576i | 1 |
@@ -99,15 +99,15 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Light Channel | LightChannel.bg | 480p | 1 |
 | Love Nature | LoveNature.ca | 1080p, 720p | 5 |
 | Magic TV | MagicTV.bg | 720p | 1 |
-| Max Sport 1 | MaxSport1.bg | 1080p, 720p | 2 |
-| Max Sport 2 | MaxSport2.bg | 1080p, 720p | 2 |
-| Max Sport 3 | MaxSport3.bg | 1080p, 720p | 2 |
-| Max Sport 4 | MaxSport4.bg | 1080p, 576i | 2 |
+| Max Sport 1 | MaxSport1.bg | 720p | 1 |
+| Max Sport 2 | MaxSport2.bg | 720p | 1 |
+| Max Sport 3 | MaxSport3.bg | 720p | 1 |
+| Max Sport 4 | MaxSport4.bg | 576i | 1 |
 | Movie Star | MovieStar.bg | 576i, 720p | 2 |
 | MyZen TV | MyZenTV.fr | 1080p | 2 |
-| National Geographic | NationalGeographic.bg | 1080p, 576i | 2 |
-| National Geographic Wild | NationalGeographicWild.bg | 1080p, 576i | 2 |
-| Nickelodeon | Nickelodeon.bg | 576i, 576p | 3 |
+| National Geographic | NationalGeographic.bg | 576i | 1 |
+| National Geographic Wild | NationalGeographicWild.bg | 576i | 1 |
+| Nickelodeon | Nickelodeon.bg | 576i | 2 |
 | Nostalgia | Nostalgia.bg | 576i | 1 |
 | Nova | Nova.bg | 576i | 1 |
 | Nova News | NovaNews.bg | 576i | 1 |
@@ -115,9 +115,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | RING | RING.bg | 576i | 1 |
 | RMTV | RMTV.bg | 288p | 1 |
 | Show Turk | ShowTurk.tr | 1080p | 1 |
-| Star Channel | StarChannel.bg | 576i, 720p | 2 |
-| Star Crime | StarCrime.bg | 576i, 720p | 2 |
-| Star Life | StarLife.bg | 576i, 720p | 2 |
+| Star Channel | StarChannel.bg | 576i | 1 |
+| Star Crime | StarCrime.bg | 576i | 1 |
+| Star Life | StarLife.bg | 576i | 1 |
 | The Fishing &amp; Hunting Channel | TheFishingHuntingChannel.hu | 1080i, 576i | 2 |
 | The Voice | TheVoice.bg | 720p | 1 |
 | This is Bulgaria HD | ThisisBulgariaHD.bg | 1080p | 1 |
@@ -132,4 +132,4 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Viasat History | ViasatHistory.bg | 1080p | 1 |
 | Viasat Kino | ViasatKino.ua | 1080p | 1 |
 | Viasat Nature | ViasatNature.bg | 1080p | 1 |
-| Vivacom Arena | VivacomArena.bg | 576i, 720p | 2 |
+| Vivacom Arena | VivacomArena.bg | 576i | 1 |

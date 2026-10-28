@@ -445,9 +445,6 @@ https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 #EXTINF:-1 tvg-id="MovistarPlus.pe" tvg-name="Movistar Plus" group-title="Entertainment" tvg-language="spa" tvg-quality="576p",Movistar Plus
 http://190.108.91.206:9050/play/a0bb/index.m3u8
 
-#EXTINF:-1 tvg-id="MovistarPlus.pe" tvg-name="Movistar Plus" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Movistar Plus
-http://200.62.239.170:830/play/a08z/index.m3u8
-
 #EXTINF:-1 tvg-id="MovistarPlus.pe" tvg-name="Movistar Plus" group-title="Entertainment" tvg-language="spa" tvg-quality="576p",Movistar Plus
 http://45.4.1.201:8000/play/a19y/index.m3u8
 

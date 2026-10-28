@@ -389,12 +389,6 @@ https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTGTV.ru" tvg-name="RTG TV" group-title="Travel" tvg-language="eng;rus;tur" tvg-quality="720p",RTG TV
 http://31.148.48.15/RTG_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="SSport.tr" tvg-name="S Sport" group-title="Sports" tvg-language="eng;tur" tvg-quality="720p",S Sport
-https://corestream.siteyaptim.live/s-sport/index.m3u8
-
-#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport 2" group-title="Sports" tvg-language="eng;tur" tvg-quality="720p",S Sport 2
-https://corestream.siteyaptim.live/s-sport2/index.m3u8
-
 #EXTINF:-1 tvg-id="Sat7Turk.cy" tvg-name="Sat 7 Turk" group-title="Uncategorized" tvg-language="tur" tvg-quality="1080p",Sat 7 Turk
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 

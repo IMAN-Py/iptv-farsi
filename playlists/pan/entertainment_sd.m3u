@@ -26,3 +26,6 @@ https://mumt04.tangotv.in/m18aqlK4PTCPUNJABIGOLD/index.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabiGold.in" tvg-name="PTC Punjabi Gold" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",PTC Punjabi Gold
 https://streams.tangotv.in/PTCPUNJABIGOLD/ORIGIN/index.m3u8
 
+#EXTINF:-1 tvg-id="PunjabiTV.in" tvg-name="Punjabi TV" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",Punjabi TV
+https://mumt07.tangotv.in/zHjX9OFlPUNJABITV/index.m3u8
+

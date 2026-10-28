@@ -26,9 +26,6 @@ http://178.76.68.60:7442/64/mpegts
 https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8
 
 #EXTINF:-1 tvg-id="TraLaLaDSN.ro" tvg-name="TraLaLa DSN" group-title="Kids" tvg-language="ron" tvg-quality="576i",TraLaLa DSN
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-inedit-tv/live_hq?offsetSeconds=0
-
-#EXTINF:-1 tvg-id="TraLaLaDSN.ro" tvg-name="TraLaLa DSN" group-title="Kids" tvg-language="ron" tvg-quality="576i",TraLaLa DSN
 https://hls01ns.antenaplay.ro/hls/tralala-desene-animate-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="TraLaLaTV.ro" tvg-name="TraLaLa TV" group-title="Kids" tvg-language="ron" tvg-quality="576i",TraLaLa TV

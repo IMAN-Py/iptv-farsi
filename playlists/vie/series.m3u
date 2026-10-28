@@ -8,3 +8,6 @@ https://dethich.pw/htvcphim/index.m3u8
 #EXTINF:-1 tvg-id="ONCine.vn" tvg-name="ON Cine" group-title="Series" tvg-language="vie" tvg-quality="576i",ON Cine
 https://freem3u.xyz/api/live/play.m3u8?vid=176
 
+#EXTINF:-1 tvg-id="ONPhimViet.vn" tvg-name="ON Phim Viet" group-title="Series" tvg-language="vie" tvg-quality="1080p",ON Phim Viet
+https://vmttv.dpdns.org/tv360/?id=175
+

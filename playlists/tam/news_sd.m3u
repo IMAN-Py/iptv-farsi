@@ -6,6 +6,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #EXTINF:-1 tvg-id="KalaignarSeithigal.in" tvg-name="Kalaignar Seithigal" group-title="News" tvg-language="tam" tvg-quality="576p",Kalaignar Seithigal
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/KalaignarSeithigal.m3u8
 
+#EXTINF:-1 tvg-id="KalaignarSeithigal.in" tvg-name="Kalaignar Seithigal" group-title="News" tvg-language="tam" tvg-quality="576p",Kalaignar Seithigal
+https://yuppnimresmum.akamaized.net/120723/smil:seithagal.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
 #EXTINF:-1 tvg-id="MNaduTV.in" tvg-name="M Nadu TV" group-title="News" tvg-language="tam" tvg-quality="576p",M Nadu TV
 https://cloudcdnplayer.mslivestream.net/mslivecdn/mnadu/index.m3u8
 
@@ -29,6 +32,9 @@ https://cdn.pishow.tv/ott/live/1121/master.m3u8
 
 #EXTINF:-1 tvg-id="MoonTV.in" tvg-name="Moon TV" group-title="News" tvg-language="tam" tvg-quality="576p",Moon TV
 https://d1msejlow1t3l4.cloudfront.net/fta/moontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MoonTV.in" tvg-name="Moon TV" group-title="News" tvg-language="tam" tvg-quality="576p",Moon TV
+https://samitaorigin.tangotv.in/ONTV/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="News7Tamil.in" tvg-name="News 7 Tamil" group-title="News" tvg-language="tam" tvg-quality="576i",News 7 Tamil
 https://cdn.pishow.tv/ott/live/1498/master.m3u8

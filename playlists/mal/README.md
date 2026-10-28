@@ -4,7 +4,7 @@
 
 Find free Malayalam live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**71 channels · 120 stream entries**
+**71 channels · 125 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/mal/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 120 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/all.m3u` |
-| HD | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/hd.m3u` |
-| SD / unknown | 80 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/sd.m3u` |
+| All channels | 125 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/all.m3u` |
+| HD | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/hd.m3u` |
+| SD / unknown | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,7 +27,7 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/sports.m3u` |
 | Movies | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/movies.m3u` |
-| News | 12 | 29 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/news.m3u` |
+| News | 12 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/news.m3u` |
 | Music | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/music.m3u` |
 | Kids | 7 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/kids.m3u` |
 | Documentary | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/documentary.m3u` |
@@ -81,10 +81,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Kerala Vision | KeralaVision.in | 576p | 2 |
 | Kite Victers | KiteVicters.in | 720p | 1 |
 | Magnavision TV | MagnavisionTV.uk | 720p | 1 |
-| Manorama News | ManoramaNews.in | 1080p, 576p | 3 |
+| Manorama News | ManoramaNews.in | 1080p, 576p | 6 |
 | Mathrubhumi News | MathrubhumiNews.in | 576i, 576p | 3 |
 | Mazhavil Manorama | MazhavilManorama.in | 1080p, 396p, 576i, 576p | 7 |
-| Media One | MediaOne.in | 576p, 720p | 2 |
+| Media One | MediaOne.in | 576p, 720p | 3 |
 | meWATCH LIVE 1 | meWATCHLIVE1.sg | 1080p | 1 |
 | MTA7 Asia | MTA7Asia.uk | 1080p | 1 |
 | News18 Kerala | News18Kerala.in | 1080p | 2 |
@@ -98,7 +98,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Raj Musix Malayalam | RajMusixMalayalam.in | 576p | 2 |
 | Raj News Malayalam | RajNewsMalayalam.in | 576p | 1 |
 | Real News Kerala | RealNewsKerala.in | 1080p | 1 |
-| Reporter TV | ReporterTV.in | 576i, 576p | 3 |
+| Reporter TV | ReporterTV.in | 576i, 576p | 4 |
 | RTM Parlimen Dewan Negara | RTMParlimenDewanNegara.my | 576i | 1 |
 | RTM Parlimen Dewan Rakyat | RTMParlimenDewanRakyat.my | 576i | 1 |
 | Safari TV | SafariTV.in | 480p, 576p | 2 |

@@ -124,48 +124,6 @@ https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barca TV" group-title="Sports" tvg-language="cat;eng;spa" tvg-quality="576i",Barca TV
 https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
 
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN Sports 1" group-title="Sports" tvg-language="ara" tvg-quality="1080p",beIN Sports 1
-http://primetv.cc.cd/beinfhd11/tracks-v1a1/mono.tbin.m3u8
-
-#EXTINF:-1 tvg-id="beINSports1Turk.tr" tvg-name="beIN Sports 1 Turk" group-title="Sports" tvg-language="tur" tvg-quality="576i",beIN Sports 1 Turk
-https://andro.mangeinde4.lat/checklist/androstreamlivebs1.m3u8
-
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beIN Sports 2" group-title="Sports" tvg-language="ara" tvg-quality="1080p",beIN Sports 2
-http://primetv.cc.cd/beinfhd22/index.m3u8
-
-#EXTINF:-1 tvg-id="beINSports2Turk.tr" tvg-name="beIN Sports 2 Turk" group-title="Sports" tvg-language="tur" tvg-quality="576i",beIN Sports 2 Turk
-https://andro.mangeinde4.lat/checklist/androstreamlivebs2.m3u8
-
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beIN Sports 3" group-title="Sports" tvg-language="ara" tvg-quality="1080p",beIN Sports 3
-http://primetv.cc.cd/beinfhd33/index.m3u8
-
-#EXTINF:-1 tvg-id="beINSports3Turk.tr" tvg-name="beIN Sports 3 Turk" group-title="Sports" tvg-language="tur" tvg-quality="576i",beIN Sports 3 Turk
-https://andro.mangeinde4.lat/checklist/androstreamlivebs3.m3u8
-
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beIN Sports 4" group-title="Sports" tvg-language="ara" tvg-quality="1080p",beIN Sports 4
-http://primetv.cc.cd/beinfhd44/tracks-v1a1/mono.tbin.m3u8
-
-#EXTINF:-1 tvg-id="beINSports4Turk.tr" tvg-name="beIN Sports 4 Turk" group-title="Sports" tvg-language="tur" tvg-quality="576i",beIN Sports 4 Turk
-https://andro.mangeinde4.lat/checklist/androstreamlivebs4.m3u8
-
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beIN Sports 5" group-title="Sports" tvg-language="ara" tvg-quality="1080p",beIN Sports 5
-http://primetv.cc.cd/beinfhd55/tracks-v1a1/mono.tbin.m3u8
-
-#EXTINF:-1 tvg-id="beINSports5Turk.tr" tvg-name="beIN Sports 5 Turk" group-title="Sports" tvg-language="tur" tvg-quality="576i",beIN Sports 5 Turk
-https://andro.mangeinde4.lat/checklist/androstreamlivebs5.m3u8
-
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beIN Sports 6" group-title="Sports" tvg-language="ara" tvg-quality="1080p",beIN Sports 6
-http://primetv.cc.cd/beinfhd66/index.m3u8
-
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="beIN Sports 7" group-title="Sports" tvg-language="ara" tvg-quality="1080p",beIN Sports 7
-http://primetv.cc.cd/beinfhd77/index.m3u8
-
-#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="beIN Sports 8" group-title="Sports" tvg-language="ara" tvg-quality="1080p",beIN Sports 8
-http://primetv.cc.cd/beinfhd88/index.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-name="beIN Sports Haber" group-title="Sports" tvg-language="tur" tvg-quality="576i",beIN Sports Haber
-https://andro.mangeinde4.lat/checklist/androstreamlivebsh.m3u8
-
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN SPORTS XTRA" group-title="Sports" tvg-language="eng" tvg-quality="720p",beIN SPORTS XTRA
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
 
@@ -180,9 +138,6 @@ https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN SPORTS XTRA" group-title="Sports" tvg-language="eng" tvg-quality="1080p",beIN SPORTS XTRA
 https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8
-
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-name="beIN SPORTS XTRA en Espanol" group-title="Sports" tvg-language="spa" tvg-quality="1080p",beIN SPORTS XTRA en Espanol
-http://201.190.41.246:9060/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-name="beIN SPORTS XTRA en Espanol" group-title="Sports" tvg-language="spa" tvg-quality="720p",beIN SPORTS XTRA en Espanol
 https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
@@ -307,6 +262,9 @@ http://168.196.127.137:6001/play/a08r/index.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Claro Sports
 http://45.171.64.30:6060/play/a00w/index.m3u8
 
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Claro Sports
+http://45.228.234.9:8000/play/a06i/index.m3u8
+
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" group-title="Sports" tvg-language="spa" tvg-quality="720p",Claro Sports
 #EXTVLCOPT:http-referrer=https://www.clarosports.com/
 https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
@@ -338,6 +296,19 @@ https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CTSport.cz" tvg-name="CT Sport" group-title="Sports" tvg-language="ces" tvg-quality="720p",CT Sport
 http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAZN1.uk" tvg-name="DAZN 1" group-title="Sports" tvg-language="por" tvg-quality="576i",DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://50.7.120.34:8080/DAZN1/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN3.uk" tvg-name="DAZN 3" group-title="Sports" tvg-language="por" tvg-quality="720p",DAZN 3
+http://23.237.104.106:8080/DAZN_3/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN4.uk" tvg-name="DAZN 4" group-title="Sports" tvg-language="por" tvg-quality="540p",DAZN 4
+http://23.237.104.106:8080/DAZN_4/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN5.uk" tvg-name="DAZN 5" group-title="Sports" tvg-language="por" tvg-quality="720p",DAZN 5
+http://23.237.104.106:8080/DAZN_5/index.m3u8
 
 #EXTINF:-1 tvg-id="DAZNCombat.uk" tvg-name="DAZN Combat" group-title="Sports" tvg-language="eng" tvg-quality="684p",DAZN Combat
 https://jmp2.uk/plu-648056f0f77b61000828f1ba.m3u8
@@ -371,6 +342,9 @@ https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8
 
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="ben;bho;eng;hin;kan;sgn;tam;tel" tvg-quality="720p",DD Sports
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
+
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="hin" tvg-quality="576p",DD Sports
+https://mumt07.tangotv.in/zHjX9OFlDDSPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="DeportesTVC.hn" tvg-name="Deportes TVC" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Deportes TVC
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
@@ -571,6 +545,9 @@ https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-id="Eurosport.in" tvg-name="Eurosport" group-title="Sports" tvg-language="eng" tvg-quality="720p",Eurosport
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="spa" tvg-quality="576p",Eurosport 1
+http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
+
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="hun" tvg-quality="576i",Eurosport 1
 http://88.212.7.14/live/esp1_hun/index.m3u8
 
@@ -582,6 +559,9 @@ https://andro.mangeinde4.lat/checklist/androstreamlivees1.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1Polska.pl" tvg-name="Eurosport 1 Polska" group-title="Sports" tvg-language="pol" tvg-quality="1080p",Eurosport 1 Polska
 http://57.128.210.196:8080/264/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Eurosport 2
+http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" group-title="Sports" tvg-language="hun" tvg-quality="576i",Eurosport 2
 http://88.212.7.14/live/esp2_hun/index.m3u8
@@ -718,9 +698,6 @@ https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playl
 #EXTINF:-1 tvg-id="FloRacing.us" tvg-name="FloRacing" group-title="Sports" tvg-language="eng" tvg-quality="1080p",FloRacing
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Formula1AntenaPlay.ro" tvg-name="Formula 1 AntenaPlay" group-title="Sports" tvg-language="eng" tvg-quality="576p",Formula 1 AntenaPlay
-https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8
-
 #EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="Fox Deportes" group-title="Sports" tvg-language="eng;spa" tvg-quality="720p",Fox Deportes
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 
@@ -793,6 +770,9 @@ http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="FUTV.cr" tvg-name="FUTV" group-title="Sports" tvg-language="spa" tvg-quality="480i",FUTV
 http://190.61.90.17:40000/play/a03v/index.m3u8
+
+#EXTINF:-1 tvg-id="FUTV.cr" tvg-name="FUTV" group-title="Sports" tvg-language="spa" tvg-quality="1080p",FUTV
+http://45.228.234.9:8000/play/a06o/index.m3u8
 
 #EXTINF:-1 tvg-id="GamePlus.ca" tvg-name="Game+" group-title="Sports" tvg-language="eng" tvg-quality="720p",Game+
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
@@ -1005,6 +985,9 @@ http://stream.mcquack.net/188/index.m3u8
 #EXTINF:-1 tvg-id="MatchPlaneta.ru" tvg-name="Match! Planeta" group-title="Sports" tvg-language="rus" tvg-quality="576p",Match! Planeta
 https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
 
+#EXTINF:-1 tvg-id="MatchPremier.ru" tvg-name="Match! Premier" group-title="Sports" tvg-language="rus" tvg-quality="576p",Match! Premier
+http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
+
 #EXTINF:-1 tvg-id="MatchStrana.ru" tvg-name="Match! Strana" group-title="Sports" tvg-language="rus" tvg-quality="576p",Match! Strana
 http://31.148.48.15/Match_Nash_Sport/index.m3u8
 
@@ -1042,29 +1025,17 @@ http://141.94.193.53:80/Match4_HD/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36x
 http://213.91.179.28:8000/play/a0as
 
-#EXTINF:-1 tvg-id="MaxSport1.bg" tvg-name="Max Sport 1" group-title="Sports" tvg-language="bul" tvg-quality="1080p",Max Sport 1
-http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8
-
 #EXTINF:-1 tvg-id="MaxSport2.bg" tvg-name="Max Sport 2" group-title="Sports" tvg-language="bul" tvg-quality="720p",Max Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://213.91.179.28:8000/play/a0at
-
-#EXTINF:-1 tvg-id="MaxSport2.bg" tvg-name="Max Sport 2" group-title="Sports" tvg-language="bul" tvg-quality="1080p",Max Sport 2
-http://hls127.freeott.top:8080/BG_MAX_Sport_2_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="MaxSport3.bg" tvg-name="Max Sport 3" group-title="Sports" tvg-language="bul" tvg-quality="720p",Max Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://213.91.179.28:8000/play/a0ar
 
-#EXTINF:-1 tvg-id="MaxSport3.bg" tvg-name="Max Sport 3" group-title="Sports" tvg-language="bul" tvg-quality="1080p",Max Sport 3
-http://hls127.freeott.top:8080/BG_MAX_Sport_3_HD/video.m3u8
-
 #EXTINF:-1 tvg-id="MaxSport4.bg" tvg-name="Max Sport 4" group-title="Sports" tvg-language="bul" tvg-quality="576i",Max Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a05n
-
-#EXTINF:-1 tvg-id="MaxSport4.bg" tvg-name="Max Sport 4" group-title="Sports" tvg-language="bul" tvg-quality="1080p",Max Sport 4
-http://hls127.freeott.top:8080/BG_MAX_Sport_4_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="MeridianoTV.ve" tvg-name="Meridiano TV" group-title="Sports" tvg-language="spa" tvg-quality="576p",Meridiano TV
 http://181.78.8.199:8000/play/a0fr/index.m3u8
@@ -1136,9 +1107,6 @@ http://170.244.209.30:8000/play/a1i8/index.m3u8
 
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Movistar Deportes
 http://195.178.110.110/movistar/index.m3u8
-
-#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Movistar Deportes
-http://45.4.1.201:8000/play/a13e/index.m3u8
 
 #EXTINF:-1 tvg-id="MRTVSports.mm" tvg-name="MRTV Sports" group-title="Sports" tvg-language="mya" tvg-quality="480i",MRTV Sports
 https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
@@ -1350,9 +1318,6 @@ https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
 #EXTINF:-1 tvg-id="PokerGo.us" tvg-name="PokerGo" group-title="Sports" tvg-language="eng" tvg-quality="480i",PokerGo
 https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8
 
-#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="Polsat Sport Fight" group-title="Sports" tvg-language="pol" tvg-quality="1080p",Polsat Sport Fight
-http://57.128.210.196:8080/194/index.m3u8
-
 #EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-name="Polsat Sport Fight" group-title="Sports" tvg-language="pol" tvg-quality="576i",Polsat Sport Fight
 http://92.114.85.87:8016/play/a00b/index.m3u8
 
@@ -1519,14 +1484,8 @@ http://31.148.48.15/Russkiy_Ekstrim/index.m3u8
 #EXTINF:-1 tvg-id="RussianExtremeUltra.ru" tvg-name="Russian Extreme Ultra" group-title="Sports" tvg-language="rus" tvg-quality="1440p",Russian Extreme Ultra
 http://46.53.200.153:7777/play/test_krask1/index.m3u8
 
-#EXTINF:-1 tvg-id="SSport.tr" tvg-name="S Sport" group-title="Sports" tvg-language="eng;tur" tvg-quality="720p",S Sport
-https://corestream.siteyaptim.live/s-sport/index.m3u8
-
 #EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport 2" group-title="Sports" tvg-language="eng;tur" tvg-quality="576i",S Sport 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport 2" group-title="Sports" tvg-language="eng;tur" tvg-quality="720p",S Sport 2
-https://corestream.siteyaptim.live/s-sport2/index.m3u8
 
 #EXTINF:-1 tvg-id="SanMarinoRTVSport.sm" tvg-name="San Marino RTV Sport" group-title="Sports" tvg-language="ita" tvg-quality="720p",San Marino RTV Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
@@ -1576,6 +1535,9 @@ https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8
 
 #EXTINF:-1 tvg-id="SkyRacing2.au" tvg-name="Sky Racing 2" group-title="Sports" tvg-language="eng" tvg-quality="720p",Sky Racing 2
 https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySports1.mx" tvg-name="Sky Sports 1" group-title="Sports" tvg-language="spa" tvg-quality="1080p",Sky Sports 1
+http://45.228.234.9:8000/play/a06b/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" group-title="Sports" tvg-language="eng" tvg-quality="720p",Sky Sports F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36

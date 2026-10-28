@@ -1,1 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ShreeSanatanTV.in" tvg-name="Shree Sanatan TV" group-title="Religious" tvg-language="guj" tvg-quality="720p",Shree Sanatan TV
+http://sanatan.valamtv.in/hls/shree/bhattji.m3u8
+
+#EXTINF:-1 tvg-id="ValamTV.in" tvg-name="Valam TV" group-title="Religious" tvg-language="guj" tvg-quality="720p",Valam TV
+http://cabletv.valamtv.in/hls/stream0.m3u8
+

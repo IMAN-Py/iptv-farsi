@@ -21,6 +21,9 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="spa" tvg-quality="576p",Eurosport 1
+http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
+
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2" group-title="Sports" tvg-language="spa" tvg-quality="576i",Fox Sports 2
 #EXTVLCOPT:http-referrer=https://mi.tv/ar/canales/fox-sports-2
 https://zapster.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8

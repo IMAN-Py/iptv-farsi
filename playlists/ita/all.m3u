@@ -77,6 +77,9 @@ https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJ
 #EXTINF:-1 tvg-id="BomChannel.it" tvg-name="Bom Channel" group-title="General" tvg-language="ita" tvg-quality="720p",Bom Channel
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CacciaePesca.it" tvg-name="Caccia e Pesca" group-title="Outdoor" tvg-language="ita" tvg-quality="720p",Caccia e Pesca
+http://102.129.186.182:81/cacciapesca/index.m3u8
+
 #EXTINF:-1 tvg-id="CafeTV24.it" tvg-name="CafeTV24" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",CafeTV24
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
 
@@ -480,6 +483,9 @@ http://185.63.52.103:8080/hls/passionelotto/1_2/index.m3u8
 
 #EXTINF:-1 tvg-id="PeerTVAltoAdige.it" tvg-name="Peer TV Alto Adige" group-title="Outdoor;Travel" tvg-language="ita" tvg-quality="1280p",Peer TV Alto Adige
 https://iptv.peer.biz/live/peertv-it.m3u8
+
+#EXTINF:-1 tvg-id="PescaeCaccia.it" tvg-name="Pesca e Caccia" group-title="Outdoor" tvg-language="ita" tvg-quality="720p",Pesca e Caccia
+http://102.129.186.182:81/pescacaccia/index.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVAlbertoSordi.de" tvg-name="Pluto TV Alberto Sordi" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Alberto Sordi
 https://jmp2.uk/plu-661f8f01801af800083d9d81.m3u8
@@ -1130,6 +1136,9 @@ http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV7Triveneta.it" tvg-name="TV7 Triveneta" group-title="Uncategorized" tvg-language="ita" tvg-quality="562p",TV7 Triveneta
 https://www.gruppotv7.com:8090/hls/ireporter.m3u8
+
+#EXTINF:-1 tvg-id="TV8.it" tvg-name="TV8" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",TV8
+http://102.129.186.182:81/tv8/index.m3u8
 
 #EXTINF:-1 tvg-id="tv9Telemaremma.it" tvg-name="tv9 Telemaremma" group-title="News" tvg-language="ita" tvg-quality="576p",tv9 Telemaremma
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8

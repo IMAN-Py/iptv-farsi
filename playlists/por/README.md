@@ -4,7 +4,7 @@
 
 Find free Portuguese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**470 channels · 691 stream entries**
+**475 channels · 696 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 691 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
-| HD | 553 | `https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u` |
-| SD / unknown | 138 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u` |
+| All channels | 696 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
+| HD | 556 | `https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u` |
+| SD / unknown | 140 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,14 +25,14 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 20 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sports.m3u` |
+| Sports | 24 | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sports.m3u` |
 | Movies | 33 | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/por/movies.m3u` |
 | News | 32 | 57 | `https://iman-py.github.io/open-tv-atlas/playlists/por/news.m3u` |
 | Music | 21 | 34 | `https://iman-py.github.io/open-tv-atlas/playlists/por/music.m3u` |
 | Kids | 29 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/por/kids.m3u` |
 | Documentary | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/por/documentary.m3u` |
 | Series | 27 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/por/series.m3u` |
-| Entertainment | 42 | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/por/entertainment.m3u` |
+| Entertainment | 43 | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/por/entertainment.m3u` |
 | Animation | 15 | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/por/animation.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/por/auto.m3u` |
 | Business | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/business.m3u` |
@@ -139,10 +139,15 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CSI: Miami | CSIMiami.us | 720p | 1 |
 | Cultura Fast | CulturaFast.br | 720p | 1 |
 | Cultura Para | CulturaPara.br | 480p, 720p | 2 |
+| DAZN 1 | DAZN1.uk | 576i | 1 |
+| DAZN 3 | DAZN3.uk | 720p | 1 |
+| DAZN 4 | DAZN4.uk | 540p | 1 |
+| DAZN 5 | DAZN5.uk | 720p | 1 |
 | Demais TV | DemaisTV.br | 720p | 2 |
 | Despertar TV | DespertarTV.br | 720p | 1 |
 | Detetives Medicos | DetetivesMedicos.us | 720p | 1 |
 | Diff&#x27;rent Strokes Arnold | DiffrentStrokesArnold.us | 480i | 1 |
+| Discovery Channel Latin America | DiscoveryChannelLatinAmerica.us | 720p | 1 |
 | Discovery Kids Latin America | DiscoveryKidsLatinAmerica.us | 720p | 1 |
 | Discovery World | DiscoveryWorld.us | 720p | 1 |
 | Disney Channel | DisneyChannel.pt | 1080p, 576i | 2 |

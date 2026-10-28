@@ -53,6 +53,9 @@ https://stream2.livebox.co.in/pradesh24hls/live.m3u8
 #EXTINF:-1 tvg-id="SandeshNews.in" tvg-name="Sandesh News" group-title="News" tvg-language="guj" tvg-quality="576p",Sandesh News
 https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8
 
+#EXTINF:-1 tvg-id="ShreeSanatanTV.in" tvg-name="Shree Sanatan TV" group-title="Religious" tvg-language="guj" tvg-quality="720p",Shree Sanatan TV
+http://sanatan.valamtv.in/hls/shree/bhattji.m3u8
+
 #EXTINF:-1 tvg-id="TV13Gujarati.in" tvg-name="TV13 Gujarati" group-title="News" tvg-language="guj" tvg-quality="480p",TV13 Gujarati
 https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8
 
@@ -62,11 +65,17 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9Gujarati.in" tvg-name="TV9 Gujarati" group-title="News" tvg-language="guj" tvg-quality="576p",TV9 Gujarati
 https://streams.tangotv.in/TV9GUJARATI/ORIGIN/index.m3u8
 
+#EXTINF:-1 tvg-id="ValamTV.in" tvg-name="Valam TV" group-title="Religious" tvg-language="guj" tvg-quality="720p",Valam TV
+http://cabletv.valamtv.in/hls/stream0.m3u8
+
 #EXTINF:-1 tvg-id="ValamTVDayro.in" tvg-name="Valam TV Dayro" group-title="Religious" tvg-language="guj" tvg-quality="576p",Valam TV Dayro
 https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8
 
 #EXTINF:-1 tvg-id="VRLive.in" tvg-name="VR Live" group-title="News" tvg-language="guj" tvg-quality="720p",VR Live
 https://channel.vrlivegujarat.com/hls/vrchannel.m3u8
+
+#EXTINF:-1 tvg-id="VTVNews.in" tvg-name="VTV News" group-title="News" tvg-language="guj" tvg-quality="576p",VTV News
+https://d1msejlow1t3l4.cloudfront.net/fta/vtvgujarati/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VTVNews.in" tvg-name="VTV News" group-title="News" tvg-language="guj" tvg-quality="576p",VTV News
 https://live1.ottlive.co.in/vtvgujarati/vtvgujarati/index.m3u8

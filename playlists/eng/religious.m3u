@@ -303,6 +303,9 @@ https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8
 #EXTINF:-1 tvg-id="GODTV.uk" tvg-name="GOD TV" group-title="Religious" tvg-language="eng" tvg-quality="576p",GOD TV
 https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="GODTVAsia.uk" tvg-name="GOD TV Asia" group-title="Religious" tvg-language="eng" tvg-quality="576p",GOD TV Asia
+https://d1msejlow1t3l4.cloudfront.net/211125/godtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GodsLearningChannel.us" tvg-name="God's Learning Channel" group-title="Religious" tvg-language="eng" tvg-quality="480p",God's Learning Channel
 https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
 
@@ -311,6 +314,9 @@ https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GoodNewsTV.in" tvg-name="GoodNews TV" group-title="Religious" tvg-language="eng" tvg-quality="720p",GoodNews TV
 https://bpgdlwwar3ze-hls-live.wmncdn.net/goodnews/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoodNewsTV.in" tvg-name="GoodNews TV" group-title="Religious" tvg-language="eng" tvg-quality="576p",GoodNews TV
+https://cdn.pishow.tv/ott/live/1413/master.m3u8
 
 #EXTINF:-1 tvg-id="GospelTruthTV.us" tvg-name="Gospel Truth TV" group-title="Religious" tvg-language="eng" tvg-quality="1080p",Gospel Truth TV
 https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8

@@ -44,6 +44,9 @@ https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJ
 #EXTINF:-1 tvg-id="BomChannel.it" tvg-name="Bom Channel" group-title="General" tvg-language="ita" tvg-quality="720p",Bom Channel
 https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CacciaePesca.it" tvg-name="Caccia e Pesca" group-title="Outdoor" tvg-language="ita" tvg-quality="720p",Caccia e Pesca
+http://102.129.186.182:81/cacciapesca/index.m3u8
+
 #EXTINF:-1 tvg-id="CafeTV24.it" tvg-name="CafeTV24" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",CafeTV24
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
 
@@ -293,6 +296,9 @@ https://stream.paroledivita.org/paroledivita.m3u8
 
 #EXTINF:-1 tvg-id="PeerTVAltoAdige.it" tvg-name="Peer TV Alto Adige" group-title="Outdoor;Travel" tvg-language="ita" tvg-quality="1280p",Peer TV Alto Adige
 https://iptv.peer.biz/live/peertv-it.m3u8
+
+#EXTINF:-1 tvg-id="PescaeCaccia.it" tvg-name="Pesca e Caccia" group-title="Outdoor" tvg-language="ita" tvg-quality="720p",Pesca e Caccia
+http://102.129.186.182:81/pescacaccia/index.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVAlbertoSordi.de" tvg-name="Pluto TV Alberto Sordi" group-title="Movies" tvg-language="ita" tvg-quality="720p",Pluto TV Alberto Sordi
 https://jmp2.uk/plu-661f8f01801af800083d9d81.m3u8
@@ -745,6 +751,9 @@ https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 #EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" group-title="Religious" tvg-language="ita" tvg-quality="720p",TV2000
 https://videotv2000-meride-tv.akamaized.net/branded/monoscopio/monoscopio.m3u8
+
+#EXTINF:-1 tvg-id="TV8.it" tvg-name="TV8" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",TV8
+http://102.129.186.182:81/tv8/index.m3u8
 
 #EXTINF:-1 tvg-id="TVAVicenza.it" tvg-name="TVA Vicenza" group-title="Uncategorized" tvg-language="ita" tvg-quality="720p",TVA Vicenza
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8

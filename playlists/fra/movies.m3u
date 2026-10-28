@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CanalPlusCinemas.fr" tvg-name="Canal+ Cinemas" group-title="Movies" tvg-language="fra" tvg-quality="720p",Canal+ Cinemas
-http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
-
 #EXTINF:-1 tvg-id="Cine666byPlutoTV.de" tvg-name="Cine 666 by Pluto TV" group-title="Movies" tvg-language="fra" tvg-quality="720p",Cine 666 by Pluto TV
 https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8
 

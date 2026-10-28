@@ -447,6 +447,9 @@ https://jmp2.uk/plu-6036e6e7ac69c400072afca2.m3u8
 #EXTINF:-1 tvg-id="ImpactNetwork.us" tvg-name="Impact Network" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Impact Network
 https://edge1.lifestreamcdn.com/live/impactroku1/index.m3u8
 
+#EXTINF:-1 tvg-id="INSP.us" tvg-name="INSP" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",INSP
+https://a-cdn.klowdtv.com/live2/insp_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="IONPlus.us" tvg-name="ION Plus" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",ION Plus
 https://aegis-cloudfront-1.tubi.video/5305de41-1f84-4226-a67b-6690552c7663/playlist.m3u8
 
@@ -494,6 +497,9 @@ https://jmp2.uk/plu-6728c8b45534bb0008b31f35.m3u8
 
 #EXTINF:-1 tvg-id="JudgeJudy.de" tvg-name="Judge Judy" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Judge Judy
 https://jmp2.uk/plu-622f498d119b4c000719c0b7.m3u8
+
+#EXTINF:-1 tvg-id="JusticeCentralTV.us" tvg-name="Justice Central TV" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Justice Central TV
+https://a-cdn.klowdtv.com/live2/justicecentral_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KContentbyCJENM.us" tvg-name="K-Content by CJ ENM" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",K-Content by CJ ENM
 https://d2q0mzb9bm4w5z.cloudfront.net/68fee8e1_605a_437b_b968_244c3c0d5f24/hls/playlist.m3u8
@@ -793,6 +799,9 @@ https://jukin-peopleareawesome-2-se.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PeopleAreAwesome.us" tvg-name="People Are Awesome" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",People Are Awesome
 https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8
+
+#EXTINF:-1 tvg-id="PetsTV.us" tvg-name="Pets.TV" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",Pets.TV
+https://a-cdn.klowdtv.com/live2/petstv_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PimpMyRide.se" tvg-name="Pimp My Ride" group-title="Entertainment" tvg-language="dan;eng" tvg-quality="720p",Pimp My Ride
 https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8

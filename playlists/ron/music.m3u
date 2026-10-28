@@ -15,9 +15,6 @@ https://astra.emitv.ro/hls/emi/index.m3u8
 #EXTINF:-1 tvg-id="EMITV.ro" tvg-name="EMI TV" group-title="Music" tvg-language="ron" tvg-quality="576i",EMI TV
 https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8
 
-#EXTINF:-1 tvg-id="FavoritTV2.ro" tvg-name="Favorit TV2" group-title="Music" tvg-language="ron" tvg-quality="576i",Favorit TV2
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-canal-33/live_hq?offsetSeconds=0
-
 #EXTINF:-1 tvg-id="HitFM.md" tvg-name="Hit FM" group-title="Music" tvg-language="ron;rus" tvg-quality="576i",Hit FM
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 
@@ -49,12 +46,6 @@ https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
 #EXTINF:-1 tvg-id="MoozHits.ro" tvg-name="Mooz Hits" group-title="Music" tvg-language="ron" tvg-quality="576i",Mooz Hits
 https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
 
-#EXTINF:-1 tvg-id="MoozLove.ro" tvg-name="Mooz Love" group-title="Music" tvg-language="eng;ron" tvg-quality="576p",Mooz Love
-https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8
-
-#EXTINF:-1 tvg-id="MoozRetro.ro" tvg-name="Mooz Retro" group-title="Music" tvg-language="eng;ron" tvg-quality="576p",Mooz Retro
-https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8
-
 #EXTINF:-1 tvg-id="MoozRo.ro" tvg-name="Mooz Ro!" group-title="Music" tvg-language="ron" tvg-quality="576i",Mooz Ro!
 https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
 
@@ -79,9 +70,6 @@ https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
 
 #EXTINF:-1 tvg-id="RadioRomania3Net.ro" tvg-name="Radio Romania 3Net" group-title="Music" tvg-language="ron" tvg-quality="480p",Radio Romania 3Net
 https://media.3netmedia.ro/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro" tvg-name="Radio Romania Antena Satelor" group-title="Music" tvg-language="ron" tvg-quality="720p",Radio Romania Antena Satelor
-https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioRomaniaIasi.ro" tvg-name="Radio Romania Iasi" group-title="General;Music" tvg-language="ron" tvg-quality="576i",Radio Romania Iasi
 https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8

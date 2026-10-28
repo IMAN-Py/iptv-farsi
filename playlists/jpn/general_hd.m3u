@@ -2,3 +2,6 @@
 #EXTINF:-1 tvg-id="DellaTV.it" tvg-name="DellaTV" group-title="General" tvg-language="eng;jpn" tvg-quality="720p",DellaTV
 https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-name="NHK General TV" group-title="General" tvg-language="jpn" tvg-quality="1080i",NHK General TV
+https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
+

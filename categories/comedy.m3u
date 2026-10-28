@@ -186,6 +186,9 @@ https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
 #EXTINF:-1 tvg-id="ComedyTV.ge" tvg-name="Comedy TV" group-title="Comedy" tvg-language="kat" tvg-quality="576i",Comedy TV
 http://31.146.5.178:8087/play/a00b/index.m3u8
 
+#EXTINF:-1 tvg-id="ComedyTV.us" tvg-name="Comedy TV" group-title="Comedy" tvg-language="eng" tvg-quality="720p",Comedy TV
+https://a-cdn.klowdtv.com/live2/comedytv_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CrazyExGirlfriend.se" tvg-name="Crazy Ex-Girlfriend" group-title="Comedy" tvg-language="dan;eng" tvg-quality="720p",Crazy Ex-Girlfriend
 https://jmp2.uk/plu-693ae5660eedebc8d5db6579.m3u8
 

@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ShikshaTV.in" tvg-name="Shiksha TV" group-title="Culture;Education" tvg-language="ben" tvg-quality="720p",Shiksha TV
+http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8
+

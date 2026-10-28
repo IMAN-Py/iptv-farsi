@@ -319,6 +319,9 @@ https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playl
 #EXTINF:-1 tvg-id="Canal11TuTV.sv" tvg-name="Canal 11 TuTV" group-title="General" tvg-language="spa" tvg-quality="349p",Canal 11 TuTV
 https://stream.giostreaming.app/canal11/canal11.m3u8
 
+#EXTINF:-1 tvg-id="Canal12.ni" tvg-name="Canal 12" group-title="General" tvg-language="spa" tvg-quality="576p",Canal 12
+http://45.228.234.9:8000/play/a06s/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal12.sv" tvg-name="Canal 12" group-title="General" tvg-language="spa" tvg-quality="576p",Canal 12
 http://186.33.26.18:8000/play/a0nw/index.m3u8
 
@@ -942,6 +945,9 @@ http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="Euronews Spanish" group-title="News" tvg-language="spa" tvg-quality="684p",Euronews Spanish
 https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="spa" tvg-quality="576p",Eurosport 1
+http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
+
 #EXTINF:-1 tvg-id="Evavision.cl" tvg-name="Evavision" group-title="General" tvg-language="spa" tvg-quality="480i",Evavision
 https://stmv2.voxtvhd.com.br/evavision/evavision/playlist.m3u8
 
@@ -953,6 +959,9 @@ http://187.102.208.209:8000/play/a0ac/index.m3u8
 
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="spa" tvg-quality="480p",EWTN
 http://45.167.1.138:8000/play/a01m
+
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Religious" tvg-language="spa" tvg-quality="480p",EWTN
+http://45.228.234.9:8000/play/a06v/index.m3u8
 
 #EXTINF:-1 tvg-id="EWTNEspana.es" tvg-name="EWTN Espana" group-title="Religious" tvg-language="spa" tvg-quality="576i",EWTN Espana
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8
@@ -977,6 +986,9 @@ https://stream.oursnetworktv.com/latin/feVivienteGtm/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FiestaTV.co" tvg-name="Fiesta TV" group-title="Music" tvg-language="spa" tvg-quality="576i",Fiesta TV
 https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
+
+#EXTINF:-1 tvg-id="FilmArts.ar" tvg-name="Film & Arts" group-title="Movies" tvg-language="spa" tvg-quality="480p",Film & Arts
+http://45.228.234.9:8000/play/a06g/index.m3u8
 
 #EXTINF:-1 tvg-id="FlexStudioRadioTV.bz" tvg-name="Flex Studio Radio TV" group-title="Music" tvg-language="spa" tvg-quality="576i",Flex Studio Radio TV
 https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8
@@ -2157,8 +2169,14 @@ https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
 #EXTINF:-1 tvg-id="TVC.ec" tvg-name="TVC" group-title="General" tvg-language="spa" tvg-quality="480i",TVC
 https://d2m7i0pvomh4vg.cloudfront.net/ts:abr.m3u8
 
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-name="TVE Internacional America" group-title="Uncategorized" tvg-language="spa" tvg-quality="576i",TVE Internacional America
+http://116.121.59.72:9981/stream/channel/75f703b52ec2465e4ed2934b98f0f77a
+
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-name="TVE Internacional America" group-title="Uncategorized" tvg-language="spa" tvg-quality="576p",TVE Internacional America
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
+
+#EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" tvg-name="TVE Internacional Asia-Oceania" group-title="Uncategorized" tvg-language="spa" tvg-quality="576i",TVE Internacional Asia-Oceania
+http://103.172.29.30:9991/stream/channel/a23a4ab90fe7569ced31e455b752ab51
 
 #EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" tvg-name="TVE Internacional Asia-Oceania" group-title="Uncategorized" tvg-language="spa" tvg-quality="576p",TVE Internacional Asia-Oceania
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8

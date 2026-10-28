@@ -375,6 +375,9 @@ http://138.121.15.230:9002/EUROPA-EUROPA/index.m3u8
 http://38.252.238.18:8000/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="Europa Europa" group-title="Series" tvg-language="eng;spa" tvg-quality="1080p",Europa Europa
+http://45.228.234.9:8000/play/a06z/index.m3u8
+
+#EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="Europa Europa" group-title="Series" tvg-language="eng;spa" tvg-quality="1080p",Europa Europa
 https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="FBoyIsland.se" tvg-name="FBoy Island" group-title="Series" tvg-language="dan;eng" tvg-quality="720p",FBoy Island
@@ -409,6 +412,9 @@ https://amg00353-amg00353c30-samsung-nz-3439.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GZT.tr" tvg-name="GZT" group-title="Documentary;Series" tvg-language="eng;tur" tvg-quality="1080p",GZT
 https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkMystery.us" tvg-name="Hallmark Mystery" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",Hallmark Mystery
+http://41.205.93.154/HALLMARK/index.m3u8
 
 #EXTINF:-1 tvg-id="HappyDays.se" tvg-name="Happy Days" group-title="Classic;Series" tvg-language="dan;eng" tvg-quality="720p",Happy Days
 https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8
@@ -739,6 +745,9 @@ https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 
 #EXTINF:-1 tvg-id="OuterSphere.us" tvg-name="OuterSphere" group-title="Movies;Series" tvg-language="eng" tvg-quality="1080p",OuterSphere
 https://jmp2.uk/plu-66c638726838ee00085ac20d.m3u8
+
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" group-title="Movies;Series" tvg-language="eng" tvg-quality="1080p",Paramount Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us" tvg-name="PBS Antiques Roadshow" group-title="Series" tvg-language="eng" tvg-quality="1080p",PBS Antiques Roadshow
 https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8

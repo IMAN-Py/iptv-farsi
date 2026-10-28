@@ -1587,18 +1587,12 @@ https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a046
 
-#EXTINF:-1 tvg-id="BNT1.bg" tvg-name="BNT 1" group-title="General" tvg-language="bul" tvg-quality="720p",BNT 1
-http://hls127.freeott.top:8080/BG_BNT_1/video.m3u8
-
 #EXTINF:-1 tvg-id="BNT1.bg" tvg-name="BNT 1" group-title="General" tvg-language="bul" tvg-quality="1080p",BNT 1
 https://shift03.isp.bg/BNT1_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="BNT2.bg" tvg-name="BNT 2" group-title="General" tvg-language="bul" tvg-quality="576i",BNT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a049
-
-#EXTINF:-1 tvg-id="BNT2.bg" tvg-name="BNT 2" group-title="General" tvg-language="bul" tvg-quality="720p",BNT 2
-http://hls127.freeott.top:8080/BG_BNT_2_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="BNT2.bg" tvg-name="BNT 2" group-title="General" tvg-language="bul" tvg-quality="1080p",BNT 2
 https://shift03.isp.bg/BNT2_HD/index.m3u8
@@ -1607,18 +1601,12 @@ https://shift03.isp.bg/BNT2_HD/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03x
 
-#EXTINF:-1 tvg-id="BNT3.bg" tvg-name="BNT 3" group-title="General" tvg-language="bul" tvg-quality="720p",BNT 3
-http://hls127.freeott.top:8080/BG_BNT_3_HD/video.m3u8
-
 #EXTINF:-1 tvg-id="BNT3.bg" tvg-name="BNT 3" group-title="General" tvg-language="bul" tvg-quality="1080p",BNT 3
 https://shift03.isp.bg/BNT3_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="BNT4.bg" tvg-name="BNT 4" group-title="General" tvg-language="bul" tvg-quality="576i",BNT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a04u
-
-#EXTINF:-1 tvg-id="BNT4.bg" tvg-name="BNT 4" group-title="General" tvg-language="bul" tvg-quality="720p",BNT 4
-http://hls127.freeott.top:8080/BG_BNT_4_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="BNT4.bg" tvg-name="BNT 4" group-title="General" tvg-language="bul" tvg-quality="1080p",BNT 4
 https://shift03.isp.bg/BNT4_HD/index.m3u8
@@ -1869,6 +1857,9 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 
 #EXTINF:-1 tvg-id="Canal11TuTV.sv" tvg-name="Canal 11 TuTV" group-title="General" tvg-language="spa" tvg-quality="349p",Canal 11 TuTV
 https://stream.giostreaming.app/canal11/canal11.m3u8
+
+#EXTINF:-1 tvg-id="Canal12.ni" tvg-name="Canal 12" group-title="General" tvg-language="spa" tvg-quality="576p",Canal 12
+http://45.228.234.9:8000/play/a06s/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal12.sv" tvg-name="Canal 12" group-title="General" tvg-language="spa" tvg-quality="576p",Canal 12
 http://186.33.26.18:8000/play/a0nw/index.m3u8
@@ -3523,9 +3514,6 @@ https://diadoratv.stream/live/diadora/playlist.m3u8
 #EXTINF:-1 tvg-id="DienBienTV.vn" tvg-name="Dien Bien TV" group-title="General" tvg-language="vie" tvg-quality="1080p",Dien Bien TV
 https://stream.langsontv.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DienBienTV.vn" tvg-name="Dien Bien TV" group-title="General" tvg-language="vie" tvg-quality="406p",Dien Bien TV
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
-
 #EXTINF:-1 tvg-id="DiezTVLasVillas.es" tvg-name="Diez TV Las Villas" group-title="General" tvg-language="spa" tvg-quality="1080p",Diez TV Las Villas
 https://streaming.cloud.innovasur.es/mmj2/index.m3u8
 
@@ -4826,6 +4814,9 @@ https://cdn.pishow.tv/ott/live/10004/master.m3u8
 #EXTINF:-1 tvg-id="JanTV.in" tvg-name="Jan TV" group-title="General" tvg-language="hin" tvg-quality="576p",Jan TV
 https://d1msejlow1t3l4.cloudfront.net/fta/jantv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="JanTV.in" tvg-name="Jan TV" group-title="General" tvg-language="hin" tvg-quality="576p",Jan TV
+https://mumt03.tangotv.in/Dsly5z3HJANTV/index.m3u8
+
 #EXTINF:-1 tvg-id="JaszsagiTersegiTV.hu" tvg-name="Jaszsagi Tersegi TV" group-title="General" tvg-language="hun" tvg-quality="440p",Jaszsagi Tersegi TV
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
 
@@ -5189,9 +5180,6 @@ https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="KomlosTV.hu" tvg-name="Komlos TV" group-title="General" tvg-language="hun" tvg-quality="1080p",Komlos TV
 https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="KonTumTV.vn" tvg-name="Kon Tum TV" group-title="General" tvg-language="vie" tvg-quality="720p",Kon Tum TV
-https://247.dpdns.org/module/IPTV/?id=QNgTV2&accKenh=vuminhthanh1
-
 #EXTINF:-1 tvg-id="KongressTV.ru" tvg-name="Kongress TV" group-title="General" tvg-language="rus" tvg-quality="1080p",Kongress TV
 https://live-3.otcnet.ru/congresstv/index.m3u8
 
@@ -5367,9 +5355,6 @@ https://micanal.ovh/livestreams/544.EP3QGO4KPL66.m3u8
 
 #EXTINF:-1 tvg-id="LaTR3Marsala.it" tvg-name="La TR3 Marsala" group-title="General" tvg-language="ita" tvg-quality="720p",La TR3 Marsala
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LaTrois.be" tvg-name="La Trois" group-title="General" tvg-language="fra" tvg-quality="720p",La Trois
-http://193.111.198.85:8589/stream/mstv/rtbflatroislive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 
 #EXTINF:-1 tvg-id="LA7.it" tvg-name="LA7" group-title="General" tvg-language="ita" tvg-quality="1080p",LA7
 https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8
@@ -6071,6 +6056,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist
 #EXTINF:-1 tvg-id="MNT.us" tvg-name="MNT" group-title="General" tvg-language="eng" tvg-quality="1080p",MNT
 https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MNT.us" tvg-name="MNT" group-title="General" tvg-language="eng" tvg-quality="720p",MNT
+https://live-streaming-mcdn.api.graylive.quickplay.com/woio-xos1-input-1/woio-xos1-input-1.isml/woio-xos1-input-1-audio_eng=96000-video=388000.m3u8
+
 #EXTINF:-1 tvg-id="MocaVisionCanal48.do" tvg-name="Moca Vision Canal 48" group-title="General" tvg-language="spa" tvg-quality="720p",Moca Vision Canal 48
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 #EXTVLCOPT:http-referrer=https://player.castr.com/
@@ -6567,6 +6555,9 @@ https://67tz1gnwrvxic.cmccdn.net/hls/NGHEANTV/03.m3u8
 
 #EXTINF:-1 tvg-id="NH.nl" tvg-name="NH" group-title="General;News" tvg-language="nld" tvg-quality="1080p",NH
 https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-name="NHK General TV" group-title="General" tvg-language="jpn" tvg-quality="1080i",NHK General TV
+https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
 
 #EXTINF:-1 tvg-id="NiceTVKenya.ke" tvg-name="Nice TV Kenya" group-title="General" tvg-language="eng;kik" tvg-quality="720p",Nice TV Kenya
 https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8
@@ -8250,6 +8241,9 @@ http://51.254.199.122:8080/RTVS1/index.m3u8
 
 #EXTINF:-1 tvg-id="RumboMineroTV.pe" tvg-name="Rumbo Minero TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Rumbo Minero TV
 http://45.70.201.81:8000/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-id="RumboMineroTV.pe" tvg-name="Rumbo Minero TV" group-title="General" tvg-language="spa" tvg-quality="720p",Rumbo Minero TV
+https://live-evg8.tv360.bitel.com.pe/bitel/minero/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" group-title="General" tvg-language="rus" tvg-quality="576p",Russia-1
 http://109.207.243.18/2/index.m3u8
@@ -10504,9 +10498,6 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
 
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5Monde Europe" group-title="General" tvg-language="fra" tvg-quality="1080p",TV5Monde Europe
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-
-#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" tvg-name="TV5Monde France Belgium Switzerland Monaco" group-title="General" tvg-language="fra" tvg-quality="576i",TV5Monde France Belgium Switzerland Monaco
-http://5.78.65.164/TV5Monde/index.m3u8
 
 #EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" tvg-name="TV5Monde France Belgium Switzerland Monaco" group-title="General" tvg-language="fra" tvg-quality="1080p",TV5Monde France Belgium Switzerland Monaco
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8

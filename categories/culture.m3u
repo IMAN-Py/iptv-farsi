@@ -636,6 +636,9 @@ https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
 #EXTINF:-1 tvg-id="SercemTV.tr" tvg-name="Sercem TV" group-title="Culture;General;Religious" tvg-language="kur;tur;zza" tvg-quality="1080p",Sercem TV
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
 
+#EXTINF:-1 tvg-id="ShikshaTV.in" tvg-name="Shiksha TV" group-title="Culture;Education" tvg-language="ben" tvg-quality="720p",Shiksha TV
+http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8
+
 #EXTINF:-1 tvg-id="ShowVenTV.ve" tvg-name="ShowVen TV" group-title="Culture;Music" tvg-language="spa" tvg-quality="720p",ShowVen TV
 https://cdnbarinas.tvzamora.com/showven/index.m3u8
 

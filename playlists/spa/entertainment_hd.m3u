@@ -344,9 +344,6 @@ http://190.128.214.97:64333/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="MiTV.py" tvg-name="MiTV" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MiTV
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MovistarPlus.pe" tvg-name="Movistar Plus" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Movistar Plus
-http://200.62.239.170:830/play/a08z/index.m3u8
-
 #EXTINF:-1 tvg-id="MTVCatfish.us" tvg-name="MTV Catfish" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",MTV Catfish
 https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8
 

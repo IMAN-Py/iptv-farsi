@@ -8,6 +8,9 @@ https://mumt04.tangotv.in/m18aqlK4AMRITGURBANI/index.m3u8
 #EXTINF:-1 tvg-id="ChintpurniLive.in" tvg-name="Chintpurni Live" group-title="Religious" tvg-language="pan" tvg-quality="360p",Chintpurni Live
 https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8
 
+#EXTINF:-1 tvg-id="Dukhniwaran.in" tvg-name="Dukhniwaran" group-title="Religious" tvg-language="pan" tvg-quality="576p",Dukhniwaran
+https://mumt03.tangotv.in/Dsly5z3HDUKHNIWARAN/index.m3u8
+
 #EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-name="God Stands TV" group-title="Religious" tvg-language="pan" tvg-quality="480i",God Stands TV
 https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8
 
@@ -25,4 +28,10 @@ https://streams.tangotv.in/PTCSIMRAN/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="Ragni.in" tvg-name="Ragni" group-title="Religious" tvg-language="pan" tvg-quality="360p",Ragni
 https://samitaorigin.tangotv.in/RAGNITV/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="ShaheedanLive.in" tvg-name="Shaheedan Live" group-title="Religious" tvg-language="pan" tvg-quality="576p",Shaheedan Live
+https://mumt06.tangotv.in/qYyB8fXVSHAHEEDDANLIVE/index.m3u8
+
+#EXTINF:-1 tvg-id="ShaheedanShahib.in" tvg-name="Shaheedan Shahib" group-title="Religious" tvg-language="pan" tvg-quality="576p",Shaheedan Shahib
+https://mumt03.tangotv.in/Dsly5z3HSHAHEEDBABADEEPSINGH/index.m3u8
 

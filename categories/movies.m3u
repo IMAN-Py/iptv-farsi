@@ -8,9 +8,6 @@ https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-a
 #EXTINF:-1 tvg-id="AndTV.in" tvg-name="&TV" group-title="Movies" tvg-language="hin" tvg-quality="720p",&TV
 https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8
 
-#EXTINF:-1 tvg-id="AndxplorHD.in" tvg-name="&xplor HD" group-title="Movies" tvg-language="hin" tvg-quality="1080p",&xplor HD
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY
-
 #EXTINF:-1 tvg-id="PlusMaisUm.br" tvg-name="+MaisUm" group-title="Entertainment;General;Movies;Music" tvg-language="por" tvg-quality="720p",+MaisUm
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
 
@@ -294,26 +291,6 @@ https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="BattlestarGalactica.us" tvg-name="Battlestar Galactica" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",Battlestar Galactica
 https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
 
-#EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-name="beIN Box Office 1" group-title="Movies" tvg-language="tur" tvg-quality="576i",beIN Box Office 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/box1/index.m3u8
-
-#EXTINF:-1 tvg-id="beINBoxOffice2.tr" tvg-name="beIN Box Office 2" group-title="Movies" tvg-language="tur" tvg-quality="576i",beIN Box Office 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/box2/index.m3u8
-
-#EXTINF:-1 tvg-id="beINBoxOffice3.tr" tvg-name="beIN Box Office 3" group-title="Movies" tvg-language="tur" tvg-quality="576i",beIN Box Office 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/box3/index.m3u8
-
-#EXTINF:-1 tvg-id="beINMoviesStars.tr" tvg-name="beIN Movies Stars" group-title="Movies" tvg-language="tur" tvg-quality="576i",beIN Movies Stars
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/bsaction1/index.m3u8
-
-#EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-name="beIN Movies Turk" group-title="Movies" tvg-language="tur" tvg-quality="576i",beIN Movies Turk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://nord.ayakkabiparti.lol/bsturk/index.m3u8
-
 #EXTINF:-1 tvg-id="BETCinema.us" tvg-name="BET Cinema" group-title="Movies" tvg-language="eng" tvg-quality="720p",BET Cinema
 https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
 
@@ -350,9 +327,6 @@ https://jmp2.uk/stvp-IN4000600Q
 #EXTINF:-1 tvg-id="Bollywood.ru" tvg-name="Bollywood" group-title="Movies" tvg-language="rus" tvg-quality="576p",Bollywood
 http://176.118.197.101/Bollywood_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-name="Bollywood Classic" group-title="Classic;Movies" tvg-language="hin;ron" tvg-quality="576p",Bollywood Classic
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-bollywood-classic/live_hq?offsetSeconds=0
-
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-name="Bollywood Classic" group-title="Classic;Movies" tvg-language="hin;ron" tvg-quality="576i",Bollywood Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
@@ -366,9 +340,6 @@ https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-name="Bollywood HD" group-title="Movies" tvg-language="hin;rus" tvg-quality="576p",Bollywood HD
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
-
-#EXTINF:-1 tvg-id="Bolt.ru" tvg-name="Bolt" group-title="Movies;Series" tvg-language="rus" tvg-quality="576p",Bolt
-http://hls127.freeott.top:8080/Bolt/video.m3u8
 
 #EXTINF:-1 tvg-id="Bolt.ua" tvg-name="Bolt" group-title="Movies;Series" tvg-language="ukr" tvg-quality="1080p",Bolt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -413,9 +384,6 @@ http://46.149.191.219:9106/play/a01g
 #EXTINF:-1 tvg-id="CanalPlusActionEurope.nl" tvg-name="Canal+ Action Europe" group-title="Movies" tvg-language="dut" tvg-quality="360p",Canal+ Action Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://lb.iptvnetwork.net/ls28/10020/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CanalPlusCinemas.fr" tvg-name="Canal+ Cinemas" group-title="Movies" tvg-language="fra" tvg-quality="720p",Canal+ Cinemas
-http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="CCTV-6" group-title="Movies" tvg-language="zho" tvg-quality="1080p",CCTV-6
 http://198.204.240.250:82/live/cctv6.m3u8
@@ -670,9 +638,6 @@ https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CineWow.ro" tvg-name="CineWow" group-title="Movies" tvg-language="ron" tvg-quality="576i",CineWow
 https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
 
-#EXTINF:-1 tvg-id="CineWow.ro" tvg-name="CineWow" group-title="Movies" tvg-language="ron" tvg-quality="576i",CineWow
-https://hls02ns.antenaplay.ro/hls/bollywood-clasic-sd/index.m3u8
-
 #EXTINF:-1 tvg-id="CityEdenKinoAction.ru" tvg-name="City Eden KinoAction" group-title="Movies" tvg-language="rus" tvg-quality="1080p",City Eden KinoAction
 https://cityeden.catcast.tv/content/41333/index.m3u8
 
@@ -888,6 +853,9 @@ http://15.204.246.24:8080/FilmArtsHD/index.m3u8
 
 #EXTINF:-1 tvg-id="FilmArts.ar" tvg-name="Film & Arts" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Film & Arts
 http://200.115.120.1:8000/play/ca131/index.m3u8
+
+#EXTINF:-1 tvg-id="FilmArts.ar" tvg-name="Film & Arts" group-title="Movies" tvg-language="spa" tvg-quality="480p",Film & Arts
+http://45.228.234.9:8000/play/a06g/index.m3u8
 
 #EXTINF:-1 tvg-id="FilmCafe.hu" tvg-name="Film Cafe" group-title="Movies" tvg-language="hun" tvg-quality="576i",Film Cafe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -1247,6 +1215,9 @@ https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
 #EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-name="Hallmark Movies & More" group-title="Movies" tvg-language="eng" tvg-quality="1080p",Hallmark Movies & More
 https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
 
+#EXTINF:-1 tvg-id="HallmarkMystery.us" tvg-name="Hallmark Mystery" group-title="Movies;Series" tvg-language="eng" tvg-quality="720p",Hallmark Mystery
+http://41.205.93.154/HALLMARK/index.m3u8
+
 #EXTINF:-1 tvg-id="HalloweenNonStop.ro" tvg-name="Halloween Non Stop" group-title="Movies" tvg-language="ron" tvg-quality="720p",Halloween Non Stop
 https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8
 
@@ -1294,9 +1265,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Hero.fi" tvg-name="Hero" group-title="Movies" tvg-language="fin" tvg-quality="720p",Hero
 https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
-
-#EXTINF:-1 tvg-id="Hit.ru" tvg-name="Hit" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Hit
-http://hls127.freeott.top:8080/XitHD/video.m3u8
 
 #EXTINF:-1 tvg-id="Hit.ru" tvg-name="Hit" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Hit
 http://stream.mcquack.net/363/index.m3u8
@@ -1483,9 +1451,6 @@ https://fs.uplink.kz/kinomix/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinopokaz
 http://31.148.48.15/Kinopokaz/index.m3u8
 
-#EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinopokaz
-http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
-
 #EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinopokaz
 http://stream.mcquack.net/64/index.m3u8
 
@@ -1509,9 +1474,6 @@ http://stream.mcquack.net/170/index.m3u8
 
 #EXTINF:-1 tvg-id="Kinosemja.ru" tvg-name="Kinosemja" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinosemja
 https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
-
-#EXTINF:-1 tvg-id="Kinoseriya.ru" tvg-name="Kinoseriya" group-title="Movies" tvg-language="rus" tvg-quality="1080p",Kinoseriya
-http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="Kinoseriya.ru" tvg-name="Kinoseriya" group-title="Movies" tvg-language="rus" tvg-quality="576p",Kinoseriya
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
@@ -1675,9 +1637,6 @@ https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
 http://31.222.235.15/mosfilm/index.m3u8
 
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" tvg-name="Mosfilm Gold Collection" group-title="Movies" tvg-language="rus" tvg-quality="576p",Mosfilm Gold Collection
-http://hls127.freeott.top:8080/Mosfilm/video.m3u8
-
-#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" tvg-name="Mosfilm Gold Collection" group-title="Movies" tvg-language="rus" tvg-quality="576p",Mosfilm Gold Collection
 http://stream.mcquack.net/369/index.m3u8
 
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" tvg-name="Mosfilm Gold Collection" group-title="Movies" tvg-language="rus" tvg-quality="576p",Mosfilm Gold Collection
@@ -1826,9 +1785,6 @@ http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="Nashe.ru" tvg-name="Nashe" group-title="Movies;Series" tvg-language="rus" tvg-quality="576p",Nashe
 http://stream.mcquack.net/217/index.m3u8
 
-#EXTINF:-1 tvg-id="NasheLubimoeKino.ru" tvg-name="Nashe Lubimoe Kino" group-title="Movies" tvg-language="rus" tvg-quality="576p",Nashe Lubimoe Kino
-http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
-
 #EXTINF:-1 tvg-id="NasheLubimoeKinoUkraine.ua" tvg-name="Nashe Lubimoe Kino Ukraine" group-title="Movies" tvg-language="rus;ukr" tvg-quality="1080p",Nashe Lubimoe Kino Ukraine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/456/index.m3u8
@@ -1925,6 +1881,9 @@ https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 #EXTINF:-1 tvg-id="ParamountMovieChannel.us" tvg-name="Paramount Movie Channel" group-title="Movies" tvg-language="eng" tvg-quality="480i",Paramount Movie Channel
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" group-title="Movies;Series" tvg-language="eng" tvg-quality="1080p",Paramount Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="ParamountPlusPicks.us" tvg-name="Paramount+ Picks" group-title="Movies" tvg-language="eng" tvg-quality="480i",Paramount+ Picks
 https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
 
@@ -1952,8 +1911,17 @@ https://latinohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaPlus.fr" tvg-name="Persiana Plus" group-title="Movies" tvg-language="fas" tvg-quality="576i",Persiana Plus
 https://euhls.persiana.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" group-title="Movies" tvg-language="pan" tvg-quality="1080p",Pitaara
+https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
+
+#EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" group-title="Movies" tvg-language="pan" tvg-quality="1080p",Pitaara
+https://d3i5c1nmken8bh.cloudfront.net/Live/Pitaara_TV_SCTE/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" group-title="Movies" tvg-language="pan" tvg-quality="576p",Pitaara
 https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8
+
+#EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" group-title="Movies" tvg-language="pan" tvg-quality="1080p",Pitaara
+https://pitaara-lg.vgcdn.net/v1/vglive-sk-326599/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" group-title="Movies" tvg-language="pan" tvg-quality="576p",Pitaara
 https://streams.tangotv.in/PITAARA/ORIGIN/index.m3u8
@@ -2397,6 +2365,9 @@ http://dtv.vol.net.ua/ProKino/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
 
 #EXTINF:-1 tvg-id="PunjabiShorts.in" tvg-name="Punjabi Shorts" group-title="Movies" tvg-language="pan" tvg-quality="1080p",Punjabi Shorts
+https://gtc.ottlive.co.in/punjabshort/index.m3u8
+
+#EXTINF:-1 tvg-id="PunjabiShorts.in" tvg-name="Punjabi Shorts" group-title="Movies" tvg-language="pan" tvg-quality="1080p",Punjabi Shorts
 https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
 
 #EXTINF:-1 tvg-id="QTV3.cn" tvg-name="QTV-3" group-title="Movies" tvg-language="zho" tvg-quality="576i",QTV-3
@@ -2684,9 +2655,6 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0c9
 
-#EXTINF:-1 tvg-id="StarChannel.bg" tvg-name="Star Channel" group-title="Movies" tvg-language="bul;eng" tvg-quality="720p",Star Channel
-http://hls127.freeott.top:8080/BG_FOX/video.m3u8
-
 #EXTINF:-1 tvg-id="StarChannel.cl" tvg-name="Star Channel" group-title="Movies;Series" tvg-language="spa" tvg-quality="720p",Star Channel
 http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
 
@@ -2728,9 +2696,6 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b262
 
 #EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
 http://103.151.60.162:2122/play/a02k/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" group-title="Movies" tvg-language="eng;hin;tam" tvg-quality="1080p",Star Movies
-http://103.185.24.134:3001/Star-Movies/index.m3u8
 
 #EXTINF:-1 tvg-id="StarMovies.pt" tvg-name="Star Movies" group-title="Movies" tvg-language="por" tvg-quality="576i",Star Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36

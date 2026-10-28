@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TravelMix.ro" tvg-name="Travel Mix" group-title="Travel" tvg-language="ron" tvg-quality="576p",Travel Mix
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-travel-mix/live_hq?offsetSeconds=0
-
 #EXTINF:-1 tvg-id="TravelMix.ro" tvg-name="Travel Mix" group-title="Travel" tvg-language="ron" tvg-quality="576i",Travel Mix
 https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
 

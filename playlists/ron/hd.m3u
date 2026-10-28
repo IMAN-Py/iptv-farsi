@@ -49,9 +49,6 @@ http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
 #EXTINF:-1 tvg-id="CredoTV.ro" tvg-name="Credo TV" group-title="Religious" tvg-language="ron" tvg-quality="720p",Credo TV
 https://5bb3298db4821.streamlock.net/ctv/livecredo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" group-title="News" tvg-language="ron" tvg-quality="1080i",Digi 24
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tele-moldova-plus/live_hq?offsetSeconds=0
-
 #EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" group-title="News" tvg-language="ron" tvg-quality="720p",Digi 24
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 
@@ -141,17 +138,11 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSec
 #EXTINF:-1 tvg-id="PROTV.ro" tvg-name="PRO TV" group-title="Uncategorized" tvg-language="eng;ron" tvg-quality="1080p",PRO TV
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd?offsetSeconds=0
 
-#EXTINF:-1 tvg-id="PROTVNews.ro" tvg-name="PROTV News" group-title="News" tvg-language="ron" tvg-quality="1080p",PROTV News
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
-
 #EXTINF:-1 tvg-id="RadioFxNet.ro" tvg-name="Radio Fx Net" group-title="Music" tvg-language="eng;ron" tvg-quality="720p",Radio Fx Net
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioMoldovaTineret.md" tvg-name="Radio Moldova Tineret" group-title="Entertainment" tvg-language="ron" tvg-quality="1080p",Radio Moldova Tineret
 https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
-
-#EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro" tvg-name="Radio Romania Antena Satelor" group-title="Music" tvg-language="ron" tvg-quality="720p",Radio Romania Antena Satelor
-https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RealitateaPlus.ro" tvg-name="Realitatea Plus" group-title="Uncategorized" tvg-language="ron" tvg-quality="720p",Realitatea Plus
 https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8

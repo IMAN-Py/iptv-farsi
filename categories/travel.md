@@ -4,7 +4,7 @@
 
 Browse live travel channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**57 channels · 88 stream entries**
+**58 channels · 88 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/travel.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 28 | 52 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/travel.m3u` |
+| [English](../playlists/eng/README.md) | 29 | 53 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/travel.m3u` |
 | [Bengali](../playlists/ben/README.md) | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/travel.m3u` |
 | [Bulgarian](../playlists/bul/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/travel.m3u` |
 | [Chinese](../playlists/zho/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/travel.m3u` |
@@ -29,7 +29,7 @@ https://iman-py.github.io/open-tv-atlas/categories/travel.m3u
 | [Hungarian](../playlists/hun/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/travel.m3u` |
 | [Italian](../playlists/ita/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/travel.m3u` |
 | [Portuguese](../playlists/por/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/por/travel.m3u` |
-| [Romanian](../playlists/ron/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/travel.m3u` |
+| [Romanian](../playlists/ron/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/travel.m3u` |
 | [Russian](../playlists/rus/README.md) | 7 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/travel.m3u` |
 | [Spanish](../playlists/spa/README.md) | 11 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/travel.m3u` |
 | [Swahili](../playlists/swa/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/swa/travel.m3u` |

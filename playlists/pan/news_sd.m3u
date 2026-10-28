@@ -14,6 +14,9 @@ https://streams.tangotv.in/DAILYPOST/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="GTCNews.in" tvg-name="GTC News" group-title="News" tvg-language="pan" tvg-quality="576p",GTC News
 https://mumt03.tangotv.in/Dsly5z3HGTCNEWS/index.m3u8
 
+#EXTINF:-1 tvg-id="IndiaNewsPunjabHimachal.in" tvg-name="India News Punjab/Himachal" group-title="News" tvg-language="pan" tvg-quality="576p",India News Punjab/Himachal
+https://mumt03.tangotv.in/Dsly5z3HINDIANEWSPBHPJ&K/index.m3u8
+
 #EXTINF:-1 tvg-id="LivingIndiaNews.in" tvg-name="Living India News" group-title="News" tvg-language="pan" tvg-quality="576p",Living India News
 https://cdn.pishow.tv/ott/live/324/master.m3u8
 

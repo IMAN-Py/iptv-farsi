@@ -56,9 +56,6 @@ https://dethich.pw/htv7/index.m3u8
 #EXTINF:-1 tvg-id="HTV9.vn" tvg-name="HTV9" group-title="General;News" tvg-language="vie" tvg-quality="720p",HTV9
 https://dethich.pw/htv9/index.m3u8
 
-#EXTINF:-1 tvg-id="KonTumTV.vn" tvg-name="Kon Tum TV" group-title="General" tvg-language="vie" tvg-quality="720p",Kon Tum TV
-https://247.dpdns.org/module/IPTV/?id=QNgTV2&accKenh=vuminhthanh1
-
 #EXTINF:-1 tvg-id="LangSonTV.vn" tvg-name="Lang Son TV" group-title="General" tvg-language="vie" tvg-quality="720p",Lang Son TV
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
 

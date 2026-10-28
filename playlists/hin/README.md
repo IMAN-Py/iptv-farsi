@@ -4,7 +4,7 @@
 
 Find free Hindi live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**332 channels · 599 stream entries**
+**341 channels · 643 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 599 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u` |
-| HD | 266 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/hd.m3u` |
-| SD / unknown | 333 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sd.m3u` |
+| All channels | 643 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u` |
+| HD | 272 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/hd.m3u` |
+| SD / unknown | 371 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,25 +25,25 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 7 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sports.m3u` |
-| Movies | 35 | 68 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/movies.m3u` |
-| News | 97 | 175 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/news.m3u` |
-| Music | 20 | 47 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/music.m3u` |
-| Kids | 17 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/kids.m3u` |
+| Sports | 7 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sports.m3u` |
+| Movies | 34 | 65 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/movies.m3u` |
+| News | 105 | 204 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/news.m3u` |
+| Music | 20 | 52 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/music.m3u` |
+| Kids | 17 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/kids.m3u` |
 | Documentary | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/documentary.m3u` |
-| Entertainment | 32 | 67 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/entertainment.m3u` |
+| Entertainment | 32 | 70 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/entertainment.m3u` |
 | Animation | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/animation.m3u` |
 | Business | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/business.m3u` |
-| Classic | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/classic.m3u` |
+| Classic | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/classic.m3u` |
 | Comedy | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/comedy.m3u` |
 | Cooking | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/cooking.m3u` |
 | Culture | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/culture.m3u` |
 | Education | 12 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/education.m3u` |
-| General | 22 | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/general.m3u` |
+| General | 22 | 50 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/general.m3u` |
 | Legislative | 2 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/legislative.m3u` |
-| Lifestyle | 3 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/lifestyle.m3u` |
+| Lifestyle | 3 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/lifestyle.m3u` |
 | Outdoor | 1 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/outdoor.m3u` |
-| Religious | 48 | 75 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/religious.m3u` |
+| Religious | 49 | 80 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/religious.m3u` |
 | Science | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/science.m3u` |
 | Travel | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/travel.m3u` |
 | Weather | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/weather.m3u` |
@@ -55,14 +55,13 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
 | &amp;TV | AndTV.in | 1080p, 720p | 3 |
-| &amp;xplor HD | AndxplorHD.in | 1080p | 1 |
 | 22Scope News | 22ScopeNews.in | 1080p | 1 |
 | 7X Music | 7XMusic.in | 360p | 1 |
-| 9X Jalwa | 9XJalwa.in | 1080p, 576p | 2 |
-| 9XM | 9XM.in | 1080p, 576p | 4 |
+| 9X Jalwa | 9XJalwa.in | 1080p, 576p | 3 |
+| 9XM | 9XM.in | 1080p, 576p | 7 |
 | Aadinath TV | AadinathTV.in | 576p | 3 |
 | Aagaaz Times | AagaazTimes.in | 1080p | 1 |
-| Aaj Ki Khabar | AajKiKhabar.in | 1080p, 576p | 2 |
+| Aaj Ki Khabar | AajKiKhabar.in | 1080p, 576p | 3 |
 | Aaj Tak | AajTak.in | 1080p, 404p, 720p | 6 |
 | Aastha | Aastha.in | 576i, 576p, 720p | 5 |
 | Aastha Bhajan | AasthaBhajan.in | 480p, 576p | 3 |
@@ -74,7 +73,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | All Time Movies | AllTimeMovies.in | 576p | 2 |
 | Alright! TV | AlrightTV.in | 1080p | 1 |
 | AmarUjala | AmarUjala.in | 1080p | 1 |
-| Anand TV | AnandTV.in | 1080p | 1 |
+| Anand TV | AnandTV.in | 1080p, 576p | 2 |
 | Anand Wari TV | AnandWariTV.in | 576p | 1 |
 | ANB News | ANBNews.in | 576p, 720p | 2 |
 | Andy Haryana | AndyHaryana.in | 576p | 1 |
@@ -83,17 +82,18 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Anmol TV | AnmolTV.in | 720p | 1 |
 | APN | APN.in | 576p | 2 |
 | Apna Punjab TV | ApnaPunjabTV.ca | 720p | 1 |
-| Aradana TV | AradanaTV.in | 576p | 2 |
+| Aradana TV | AradanaTV.in | 576p | 3 |
 | Argus News | ArgusNews.in | 576p | 2 |
 | Aryan TV National | AryanTVNational.in | 576p | 1 |
 | Asian News | AsianNews.in | 1080p | 1 |
+| Astroscience | Astroscience.in | 576p | 1 |
 | ATN Samachar | ATNSamachar.in | 1080p | 1 |
 | Awaaz India TV | AwaazIndiaTV.in | 720p | 1 |
 | Awakening TV | AwakeningTV.in | 576p | 2 |
 | B4U Kadak | B4UKadak.in | 576i, 576p | 4 |
 | B4U Movies | B4UMovies.in | 576i, 576p | 4 |
 | B4U Music | B4UMusic.in | 1080p, 576p | 8 |
-| Balle Balle | BalleBalle.in | 576i, 576p, 720p | 4 |
+| Balle Balle | BalleBalle.in | 1080p, 576i, 576p, 720p | 5 |
 | Bansal News | BansalNews.in | 576p, 720p | 4 |
 | Bhakti Dhara | BhaktiDhara.in | 720p | 1 |
 | Bhakti Sagar | BhaktiSagar.in | 576p | 1 |
@@ -102,10 +102,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Bharat Update | BharatUpdate.in | 576p | 1 |
 | Bharat24 | Bharat24.in | 576p, 720p | 3 |
 | Bollygold | Bollygold.in | 1080p | 1 |
-| Bollywood Classic | BollywoodClassic.ro | 576i, 576p | 3 |
+| Bollywood Classic | BollywoodClassic.ro | 576i, 576p | 2 |
 | Bollywood HD | BollywoodHD.ro | 576p | 1 |
 | Boogle Bollywood | BoogleBollywood.in | 720p | 1 |
-| BSTV | BSTV.in | 720p | 1 |
+| BSTV | BSTV.in | 576p, 720p | 2 |
 | BVG | BVG.in | 576p | 1 |
 | Cartoon Network | CartoonNetwork.in | 720p | 1 |
 | Channel Divya | ChannelDivya.in | 1080p, 576p, 720p | 3 |
@@ -115,7 +115,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Colors Cineplex | ColorsCineplex.in | 1080p, 576p | 2 |
 | Colors MENA | ColorsMENA.in | 720p | 1 |
 | Colors Rishtey Americas | ColorsRishteyAmericas.in | 396p | 1 |
-| Dangal 2 | Dangal2.in | 576p, 720p | 4 |
+| Dangal 2 | Dangal2.in | 576p, 720p | 5 |
 | Dangal TV | DangalTV.in | 576p, 720p | 5 |
 | Darshan 24 | Darshan24.in | 576p | 1 |
 | DD Arun Prabha | DDArunPrabha.in | 360p, 576i | 2 |
@@ -132,7 +132,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | DD National | DDNational.in | 1080p, 576p | 5 |
 | DD News | DDNews.in | 1080p, 576p | 3 |
 | DD Rajasthan | DDRajasthan.in | 504p, 576p, 720p | 3 |
-| DD Sports | DDSports.in | 1080p, 576p, 720p | 5 |
+| DD Sports | DDSports.in | 1080p, 576p, 720p | 6 |
 | DD Urdu | DDUrdu.in | 504p, 576p, 720p | 3 |
 | DD Uttar Pradesh | DDUttarPradesh.in | 504p, 720p | 2 |
 | DD Uttarakhand | DDUttarakhand.in | 504p, 720p | 2 |
@@ -146,6 +146,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Disney Channel | DisneyChannel.in | 1080p | 1 |
 | Disney Junior | DisneyJunior.in | 576p | 1 |
 | Diya TV | DiyaTV.us | 1080p | 1 |
+| DNN | DNN.in | 576p | 1 |
 | E 24 | E24.in | 576p | 1 |
 | E-Vidya 10 | EVidya10.in | 576p | 1 |
 | E-Vidya 11 | EVidya11.in | 576p | 1 |
@@ -168,7 +169,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | First India News | FirstIndiaNews.in | 360p, 576p | 2 |
 | Food Food | FoodFood.in | 576p | 3 |
 | Foodxp | Foodxp.uk | 1080p | 1 |
-| Gangaur TV | GangaurTV.in | 1080p, 576p | 2 |
+| Gangaur TV | GangaurTV.in | 1080p, 576p | 3 |
 | Global India | GlobalIndia.in | 720p | 1 |
 | God Stands TV | GodStandsTV.pk | 480i | 1 |
 | Goldmines | Goldmines.in | 576p | 4 |
@@ -180,26 +181,28 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Green Gold TV | GreenGoldTV.in | 1080p | 1 |
 | GurSikh Sabha TV | GurSikhSabhaTV.ca | 720p | 1 |
 | Gyandarshan | Gyandarshan.in | 576p, 720p | 2 |
-| Hare Krsna TV | HareKrsnaTV.in | 1080p, 576p, 720p | 4 |
+| Hare Krsna TV | HareKrsnaTV.in | 1080p, 576p, 720p | 5 |
 | Hindi Hits | HindiHits.in | 720p | 1 |
 | Hindi Khabar | HindiKhabar.in | 1080p, 396p, 576p | 5 |
 | History TV18 | HistoryTV18.in | 1080p | 2 |
 | HNN 24x7 | HNN24x7.in | 576p | 1 |
 | Hosanna TV | HosannaTV.in | 1080i, 720p | 2 |
 | HSTV | HSTV.in | 720p | 1 |
-| Hungama TV | HungamaTV.in | 576p | 2 |
+| Hungama TV | HungamaTV.in | 576p | 1 |
 | Hyder TV | HyderTV.ca | 720p | 1 |
-| IBC 24 | IBC24.in | 576p | 2 |
-| India Daily Live | IndiaDailyLive.in | 1080p | 1 |
+| IBC 24 | IBC24.in | 576p | 3 |
+| Ind 24 | Ind24.in | 576p, 720p | 2 |
+| India Daily Live | IndiaDailyLive.in | 1080p, 576p | 3 |
+| India News | IndiaNews.in | 576p | 1 |
 | India Talkies | IndiaTalkies.in | 360p | 1 |
-| India TV | IndiaTV.in | 576p, 720p | 2 |
+| India TV | IndiaTV.in | 576p, 720p | 3 |
 | India TV Speed News | IndiaTVSpeedNews.in | 1080p | 2 |
 | India Voice | IndiaVoice.in | 576p | 2 |
 | INH 24x7 | INH24x7.in | 360p, 396p | 2 |
 | Insync | Insync.in | 576p | 2 |
 | Investigation Discovery | InvestigationDiscovery.in | 720p | 1 |
 | Ishwar Bhakti TV | IshwarBhaktiTV.in | 576p, 720p | 2 |
-| Jan TV | JanTV.in | 576p | 2 |
+| Jan TV | JanTV.in | 576p | 3 |
 | Janta TV | JantaTV.in | 1080p | 1 |
 | Jantantra TV | JantantraTV.in | 576p | 2 |
 | Jinvani Channel | JinvaniChannel.in | 576p, 720p | 2 |
@@ -213,11 +216,12 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Kaumudy TV | KaumudyTV.in | 576i, 720p | 2 |
 | KBC News | KBCNews.in | 1080p | 1 |
 | KBP Times | KBPTimes.in | 1080p | 1 |
-| Khabar Fast | KhabarFast.in | 576p | 1 |
+| Khabar Fast | KhabarFast.in | 576p | 2 |
 | Khabrain Abhi Tak | KhabrainAbhiTak.in | 396p, 576p | 2 |
 | Live Times | LiveTimes.in | 576p, 720p | 2 |
 | LLBN TV South Asia | LLBNTVSouthAsia.us | 480p | 1 |
 | Maha Movie | MahaMovie.in | 576p | 1 |
+| Mahotsav TV | MahotsavTV.in | 576p | 1 |
 | Mangalmay TV | MangalmayTV.in | 576p | 1 |
 | Mango | Mango.in | 576p | 1 |
 | Manoranjan Grand | ManoranjanGrand.in | 576p, 720p | 3 |
@@ -235,10 +239,11 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Music India | MusicIndia.in | 576p, 720p | 4 |
 | Nagaland TV | NagalandTV.in | 576p | 1 |
 | Nation News | NationNews.in | 720p | 1 |
-| NDTV Good Times | NDTVGoodTimes.in | 1080p, 396p | 2 |
-| NDTV India | NDTVIndia.in | 480p, 576p, 720p | 4 |
-| NDTV Madhya Pradesh Chhattisgarh | NDTVMadhyaPradeshChhattisgarh.in | 1080p, 576p | 2 |
-| NDTV Rajasthan | NDTVRajasthan.in | 1080p, 576p | 2 |
+| Naxatra News Hindi | NaxatraNewsHindi.in | 576p | 1 |
+| NDTV Good Times | NDTVGoodTimes.in | 1080p, 396p, 576p | 3 |
+| NDTV India | NDTVIndia.in | 480p, 576p, 720p | 5 |
+| NDTV Madhya Pradesh Chhattisgarh | NDTVMadhyaPradeshChhattisgarh.in | 1080p, 576p | 3 |
+| NDTV Rajasthan | NDTVRajasthan.in | 1080p, 576p, 720p | 4 |
 | NE News | NENews.in | 576p | 1 |
 | Network 10 | Network10.in | 576i, 576p, 720p | 5 |
 | News 1 India | News1India.in | 396p, 576p | 3 |
@@ -246,11 +251,12 @@ Availability is not verified. Use your browser’s Find command to search this t
 | News 24 | News24.in | 576p, 720p | 6 |
 | News 24 MP &amp; Chhattisgarh | News24MPChhattisgarh.in | 576p | 1 |
 | News Daily 24 | NewsDaily24.in | 576p | 2 |
-| News India 24x7 | NewsIndia24x7.in | 576i | 1 |
+| News Hour | NewsHour.in | 576p | 1 |
+| News India 24x7 | NewsIndia24x7.in | 576i, 576p | 2 |
 | News Leader | NewsLeader.in | 576p | 1 |
-| News Nation | NewsNation.in | 1080p, 576i, 576p | 3 |
+| News Nation | NewsNation.in | 1080p, 576i, 576p | 7 |
 | News Nation 81 | NewsNation81.in | 1080p | 1 |
-| News State MP &amp; CHG | NewsStateMPCHG.in | 1080p | 1 |
+| News State MP &amp; CHG | NewsStateMPCHG.in | 1080p, 576p | 2 |
 | News State Punjab Haryana Himachal | NewsStatePunjabHaryanaHimachal.in | 1080p | 1 |
 | News State UP &amp; UK | NewsStateUPUK.in | 1080p | 1 |
 | News18 Bihar Jharkhand | News18BiharJharkhand.in | 1080p | 1 |
@@ -270,20 +276,22 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Only Bharat | OnlyBharat.in | 576p | 1 |
 | Padharo SA | PadharoSA.in | 720p | 1 |
 | Paras Gold | ParasGold.in | 576p | 1 |
-| Peace of Mind TV | PeaceofMindTV.in | 576p | 2 |
+| Peace of Mind TV | PeaceofMindTV.in | 576p | 3 |
 | Pocket Films | PocketFilms.in | 720p | 1 |
 | Pogo | Pogo.in | 576p | 1 |
 | Prarthana Bhawan TV | PrarthanaBhawanTV.in | 576p | 1 |
+| Pratham News | PrathamNews.in | 576p | 1 |
 | Prime News | PrimeNews.in | 1080p, 576i, 576p | 3 |
-| Q TV | QTV.in | 576p | 2 |
+| Public First | PublicFirst.in | 576p | 1 |
+| Q TV | QTV.in | 576p | 3 |
 | Raftaar Media | RaftaarMedia.in | 240p, 576p | 2 |
-| Republic Bharat | RepublicBharat.in | 1080p, 576i, 576p | 4 |
+| Republic Bharat | RepublicBharat.in | 1080p, 576i, 576p | 5 |
 | Rongeen TV | RongeenTV.in | 576p, 720p | 3 |
-| Saam TV | SaamTV.in | 576i | 1 |
+| Saam TV | SaamTV.in | 576i, 576p | 2 |
 | Sach Bedhadak | SachBedhadak.in | 576p | 1 |
 | Sadhna | Sadhna.in | 720p | 1 |
 | Sadhna News Madhya Pradesh/Chhattisgarh | SadhnaNewsMadhyaPradeshChhattisgarh.in | 576p | 1 |
-| Sadhna Plus News | SadhnaPlusNews.in | 720p | 1 |
+| Sadhna Plus News | SadhnaPlusNews.in | 576p, 720p | 2 |
 | Sadhna TV | SadhnaTV.in | 576p | 1 |
 | Sahana News | SahanaNews.in | 576p | 1 |
 | Samachar Plus 24x7 | SamacharPlus24x7.in | 576p | 1 |
@@ -323,7 +331,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Star Bharat | StarBharat.uk | 576p | 1 |
 | Star Gold | StarGold.in | 1080p | 2 |
 | Star Gold 2 | StarGold2.in | 1080p | 1 |
-| Star Movies | StarMovies.in | 1080p | 2 |
+| Star Movies | StarMovies.in | 1080p | 1 |
 | Star Sports 2 | StarSports2.in | 576p, 720p | 3 |
 | Star Sports 2 Hindi | StarSports2Hindi.in | 720p | 1 |
 | Star Sports 3 | StarSports3.in | 576p | 1 |
@@ -346,13 +354,14 @@ Availability is not verified. Use your browser’s Find command to search this t
 | The Q India | TheQIndia.us | 576p | 1 |
 | The Voice TV | TheVoiceTV.in | 1080p | 1 |
 | Times Now | TimesNow.in | 720p | 1 |
-| Times Now Navbharat | TimesNowNavbharat.in | 1080p, 576p | 5 |
+| Times Now Navbharat | TimesNowNavbharat.in | 1080p, 576p | 6 |
 | TLC | TLC.in | 720p | 2 |
 | TNP News | TNPNews.in | 1080p | 1 |
 | Total Bhakti | TotalBhakti.in | 1080p | 1 |
-| Total TV Haryana | TotalTVHaryana.in | 396p, 576p | 2 |
+| Total TV Haryana | TotalTVHaryana.in | 396p, 576p | 3 |
 | Travelxp | Travelxp.in | 1080p, 2160p | 3 |
 | Trishul Broadcasting Network | TrishulBroadcastingNetwork.sr | 720p | 1 |
+| TTN24 | TTN24.in | 720p | 1 |
 | TV2 | TV2.my | 1080p | 1 |
 | TV27 News | TV27News.in | 360p | 1 |
 | TV30 India | TV30India.in | 1080p | 1 |

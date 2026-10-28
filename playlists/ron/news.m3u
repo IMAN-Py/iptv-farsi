@@ -12,9 +12,6 @@ https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8
 #EXTINF:-1 tvg-id="B1.ro" tvg-name="B1" group-title="News" tvg-language="ron" tvg-quality="576i",B1
 https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" group-title="News" tvg-language="ron" tvg-quality="1080i",Digi 24
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tele-moldova-plus/live_hq?offsetSeconds=0
-
 #EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" group-title="News" tvg-language="ron" tvg-quality="720p",Digi 24
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 
@@ -44,8 +41,8 @@ http://178.76.68.60:7442/15/mpegts
 #EXTINF:-1 tvg-id="PROTVChisinau.md" tvg-name="PRO TV Chisinau" group-title="General;News" tvg-language="ron" tvg-quality="480p",PRO TV Chisinau
 https://stream.protv.md/live/sursa-1/index.m3u8
 
-#EXTINF:-1 tvg-id="PROTVNews.ro" tvg-name="PROTV News" group-title="News" tvg-language="ron" tvg-quality="1080p",PROTV News
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+#EXTINF:-1 tvg-id="PROTVNews.ro" tvg-name="PROTV News" group-title="News" tvg-language="ron" tvg-quality="576i",PROTV News
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-voyo-news/live_fullhd?offsetSeconds=0
 
 #EXTINF:-1 tvg-id="RealitateaTV.md" tvg-name="Realitatea TV" group-title="News" tvg-language="ron" tvg-quality="406p",Realitatea TV
 https://realitatealive.md/tv/rlive.m3u8

@@ -4,7 +4,7 @@
 
 Browse live outdoor channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**62 channels · 144 stream entries**
+**64 channels · 145 stream entries**
 
 ## All languages
 
@@ -26,11 +26,11 @@ https://iman-py.github.io/open-tv-atlas/categories/outdoor.m3u
 | [German](../playlists/deu/README.md) | 3 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/outdoor.m3u` |
 | [Hindi](../playlists/hin/README.md) | 1 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/outdoor.m3u` |
 | [Hungarian](../playlists/hun/README.md) | 2 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/outdoor.m3u` |
-| [Italian](../playlists/ita/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/outdoor.m3u` |
+| [Italian](../playlists/ita/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/outdoor.m3u` |
 | [Khmer](../playlists/khm/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/khm/outdoor.m3u` |
 | [Portuguese](../playlists/por/README.md) | 7 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/por/outdoor.m3u` |
 | [Romanian](../playlists/ron/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/outdoor.m3u` |
-| [Russian](../playlists/rus/README.md) | 10 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/outdoor.m3u` |
+| [Russian](../playlists/rus/README.md) | 10 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/outdoor.m3u` |
 | [Spanish](../playlists/spa/README.md) | 12 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/outdoor.m3u` |
 | [Turkish](../playlists/tur/README.md) | 1 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/outdoor.m3u` |
 | [Ukrainian](../playlists/ukr/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/outdoor.m3u` |

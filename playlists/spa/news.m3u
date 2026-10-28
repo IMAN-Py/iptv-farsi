@@ -332,6 +332,9 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Guatevision.stream/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/69f8df22a762c9b1ab3eabca.m3u8
 
 #EXTINF:-1 tvg-id="HCH.hn" tvg-name="HCH" group-title="News" tvg-language="spa" tvg-quality="720p",HCH
+http://45.228.234.9:8000/play/a06t/index.m3u8
+
+#EXTINF:-1 tvg-id="HCH.hn" tvg-name="HCH" group-title="News" tvg-language="spa" tvg-quality="720p",HCH
 https://live.streamhch.com/live/streams/hch1.m3u8
 
 #EXTINF:-1 tvg-id="HermanasMirabalTV.do" tvg-name="Hermanas Mirabal TV" group-title="News" tvg-language="spa" tvg-quality="720p",Hermanas Mirabal TV
