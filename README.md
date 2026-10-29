@@ -1,5 +1,12 @@
 <p align="center"><img src="assets/banner.svg" alt="Open TV Atlas — live TV, in your language" width="100%"></p>
 
+<!-- cumulative-traffic -->
+[![All-time views](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FIMAN-Py%2Fopen-tv-atlas%2Fmain%2F.github%2Ftraffic%2Fviews.json)](https://github.com/IMAN-Py/open-tv-atlas/blob/main/.github/traffic/history.json)
+[![All-time clones](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FIMAN-Py%2Fopen-tv-atlas%2Fmain%2F.github%2Ftraffic%2Fclones.json)](https://github.com/IMAN-Py/open-tv-atlas/blob/main/.github/traffic/history.json)
+
+Traffic totals are archived from GitHub starting at repository creation and refreshed periodically from the maintainer’s Mac. They include automated activity and may lag. If collection misses GitHub’s retention window, badges switch to “tracked” rather than claiming a complete all-time total.
+<!-- /cumulative-traffic -->
+
 [![Stars](https://img.shields.io/github/stars/IMAN-Py/open-tv-atlas?style=flat)](https://github.com/IMAN-Py/open-tv-atlas/stargazers)
 [![Forks](https://img.shields.io/github/forks/IMAN-Py/open-tv-atlas?style=flat)](https://github.com/IMAN-Py/open-tv-atlas/forks)
 [![Tests](https://github.com/IMAN-Py/open-tv-atlas/actions/workflows/test.yml/badge.svg)](https://github.com/IMAN-Py/open-tv-atlas/actions/workflows/test.yml)
