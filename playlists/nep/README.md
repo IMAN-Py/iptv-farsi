@@ -4,7 +4,7 @@
 
 Find free Nepali live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**11 channels · 19 stream entries**
+**11 channels · 20 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/nep/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/nep/all.m3u` |
+| All channels | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/nep/all.m3u` |
 | HD | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/nep/hd.m3u` |
-| SD / unknown | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/nep/sd.m3u` |
+| SD / unknown | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/nep/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,7 +26,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/nep/movies.m3u` |
-| Entertainment | 4 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/nep/entertainment.m3u` |
+| Entertainment | 4 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/nep/entertainment.m3u` |
 | General | 6 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/nep/general.m3u` |
 | Religious | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/nep/religious.m3u` |
 
@@ -43,7 +43,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Kantipur Max | KantipurMax.np | 576i | 1 |
 | Kantipur TV | KantipurTV.np | 1080i, 1080p, 720p | 4 |
 | Mithila Nepal TV | MithilaNepalTV.np | 1080p | 1 |
-| Nepal 1 | Nepal1.in | 396p, 576i, 576p | 3 |
+| Nepal 1 | Nepal1.in | 396p, 576i, 576p | 4 |
 | Public 4K TV | Public4KTV.np | 1080p | 1 |
 | Ray TV HD | RayTVHD.np | 1080p, 576p | 2 |
 | TV Today Janakpur | TVTodayJanakpur.np | 575i | 1 |

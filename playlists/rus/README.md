@@ -4,7 +4,7 @@
 
 Find free Russian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**583 channels · 1342 stream entries**
+**584 channels · 1343 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1342 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
+| All channels | 1343 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
 | HD | 501 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
-| SD / unknown | 841 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
+| SD / unknown | 842 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -42,7 +42,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 9 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/culture.m3u` |
 | Education | 4 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/education.m3u` |
 | Family | 9 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/family.m3u` |
-| General | 118 | 359 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/general.m3u` |
+| General | 119 | 360 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/general.m3u` |
 | Legislative | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/legislative.m3u` |
 | Lifestyle | 10 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/lifestyle.m3u` |
 | Outdoor | 10 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/outdoor.m3u` |
@@ -117,6 +117,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Belarus-4 | Belarus4.by | 1080p, 576i | 2 |
 | Belarus-5 | Belarus5.by | 1080p, 576p | 6 |
 | Belgorod 24 | Belgorod24.ru | 1080p | 1 |
+| Belsat TV | BelsatTV.pl | 576i | 1 |
 | Big Asia | BigAsia.ru | 720p | 2 |
 | Big Planet | BigPlanet.ru | 576p | 1 |
 | Bilim Ilim | BilimIlim.kg | 480p | 1 |

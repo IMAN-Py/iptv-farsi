@@ -9,6 +9,9 @@ https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 #EXTINF:-1 tvg-id="Antena3CNN.ro" tvg-name="Antena 3 CNN" group-title="News" tvg-language="ron" tvg-quality="576p",Antena 3 CNN
 https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8
 
+#EXTINF:-1 tvg-id="Antena3Constanta.ro" tvg-name="Antena 3 Constanta" group-title="News" tvg-language="eng;ron" tvg-quality="576p",Antena 3 Constanta
+https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
+
 #EXTINF:-1 tvg-id="B1.ro" tvg-name="B1" group-title="News" tvg-language="ron" tvg-quality="576i",B1
 https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
 

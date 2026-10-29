@@ -11,6 +11,10 @@ https://cdn.pishow.tv/ott/live/1737/master.m3u8
 #EXTINF:-1 tvg-id="DDTamil.in" tvg-name="DD Tamil" group-title="General" tvg-language="tam" tvg-quality="1080p",DD Tamil
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
 
+#EXTINF:-1 tvg-id="DDTamil.in" tvg-name="DD Tamil" group-title="General" tvg-language="tam" tvg-quality="576p",DD Tamil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/679/master.m3u8
+
 #EXTINF:-1 tvg-id="IBCTamil.uk" tvg-name="IBC Tamil" group-title="General" tvg-language="tam" tvg-quality="1080p",IBC Tamil
 https://ibc.massstream.net/IBC/index.m3u8
 
@@ -19,6 +23,10 @@ https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="Makkal TV" group-title="General" tvg-language="tam" tvg-quality="576i",Makkal TV
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="Makkal TV" group-title="General" tvg-language="tam" tvg-quality="576p",Makkal TV
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/683/master.m3u8
 
 #EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="Makkal TV" group-title="General" tvg-language="tam" tvg-quality="576p",Makkal TV
 https://mumbai-edge.smartplaytv.in/MakkalTV/index.m3u8

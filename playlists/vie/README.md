@@ -4,7 +4,7 @@
 
 Find free Vietnamese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**97 channels · 123 stream entries**
+**99 channels · 125 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 123 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u` |
-| HD | 113 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/hd.m3u` |
+| All channels | 125 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/all.m3u` |
+| HD | 115 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/hd.m3u` |
 | SD / unknown | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/sd.m3u` |
 
 <a id="categories"></a>
@@ -31,9 +31,9 @@ Each list combines this language with a source category. Counts are stream entri
 | Music | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/music.m3u` |
 | Kids | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/kids.m3u` |
 | Series | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/series.m3u` |
-| Entertainment | 11 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/entertainment.m3u` |
+| Entertainment | 12 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/entertainment.m3u` |
 | Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/cooking.m3u` |
-| Culture | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/culture.m3u` |
+| Culture | 6 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/culture.m3u` |
 | Education | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/education.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/family.m3u` |
 | General | 27 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/vie/general.m3u` |
@@ -83,6 +83,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | HTV2 | HTV2.vn | 720p | 1 |
 | HTV3 | HTV3.vn | 720p | 1 |
 | HTV4 | HTV4.vn | 1080p, 720p | 2 |
+| HTV5 | HTV5.vn | 1080p | 1 |
 | HTV7 | HTV7.vn | 720p | 1 |
 | HTV9 | HTV9.vn | 720p | 1 |
 | HTVC Family | HTVCFamily.vn | 720p | 1 |
@@ -96,6 +97,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Nghe An TV | NgheAnTV.vn | 720p | 1 |
 | Oh Muang Lao TV | OhMuangLaoTV.la | 720p | 1 |
 | ON Cine | ONCine.vn | 576i | 1 |
+| ON E Channel | ONEChannel.vn | 1080p | 1 |
 | ON Kids | ONKids.vn | 720p | 1 |
 | ON Life | ONLife.vn | 720p | 1 |
 | ON Movies | ONMovies.vn | 720p | 1 |

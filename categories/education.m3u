@@ -179,6 +179,10 @@ https://cdn.pishow.tv/ott/live/9/master.m3u8
 #EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" group-title="Education;Outdoor" tvg-language="hin" tvg-quality="504p",DD Kisan
 https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8
 
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" group-title="Education;Outdoor" tvg-language="hin" tvg-quality="576p",DD Kisan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/148/148_0.m3u8
+
 #EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" group-title="Education;Outdoor" tvg-language="hin" tvg-quality="1080p",DD Kisan
 https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8
 
@@ -527,6 +531,9 @@ https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
 #EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" group-title="Education" tvg-language="eng" tvg-quality="1080p",PBS
 https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
 
+#EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="PBS America" group-title="Education" tvg-language="eng" tvg-quality="576p",PBS America
+http://185.19.191.2:8090/PBS/index.m3u8
+
 #EXTINF:-1 tvg-id="PBSKids.us" tvg-name="PBS Kids" group-title="Education;Kids" tvg-language="eng" tvg-quality="720p",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 
@@ -780,6 +787,9 @@ https://alpha.tv.online.tm/legacyhls/ch002.m3u8
 
 #EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" group-title="Education" tvg-language="spa" tvg-quality="1080p",Zoom
 http://138.121.15.230:9002/ZOOM/index.m3u8
+
+#EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" group-title="Education" tvg-language="spa" tvg-quality="480i",Zoom
+http://181.78.79.131:8000/play/a0sg
 
 #EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" group-title="Education" tvg-language="spa" tvg-quality="1080p",Zoom
 http://190.217.66.92:8000/play/a0ej/index.m3u8

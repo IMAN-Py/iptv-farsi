@@ -26,6 +26,3 @@ https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="VijayTakkar.in" tvg-name="Vijay Takkar" group-title="Music" tvg-language="tam" tvg-quality="1080p",Vijay Takkar
 https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
 
-#EXTINF:-1 tvg-id="YETMax.in" tvg-name="YET Max" group-title="Music" tvg-language="tam" tvg-quality="720p",YET Max
-https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8
-

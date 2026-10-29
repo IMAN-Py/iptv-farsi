@@ -3,6 +3,10 @@
 https://cdn2.in/7xPunjabihls/live.m3u8
 
 #EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9X Jalwa" group-title="Music" tvg-language="hin" tvg-quality="576p",9X Jalwa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/161/master.m3u8
+
+#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9X Jalwa" group-title="Music" tvg-language="hin" tvg-quality="576p",9X Jalwa
 https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
 
 #EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9X Jalwa" group-title="Music" tvg-language="hin" tvg-quality="1080p",9X Jalwa
@@ -19,6 +23,10 @@ https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" group-title="Music" tvg-language="hin" tvg-quality="1080p",9XM
 https://epiconvh.akamaized.net/live/9XM/master.m3u8
+
+#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" group-title="Music" tvg-language="hin" tvg-quality="576p",9XM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/155/master.m3u8
 
 #EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" group-title="Music" tvg-language="hin" tvg-quality="576p",9XM
 https://streams.tangotv.in/9XM/ORIGIN/index.m3u8
@@ -48,6 +56,10 @@ https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3
 https://cdn.pishow.tv/ott/live/415/master.m3u8
 
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="576p",B4U Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/157/master.m3u8
+
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="576p",B4U Music
 https://mumbai-edge.smartplaytv.in/B4uMusic/index.m3u8
 
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="576p",B4U Music
@@ -61,6 +73,10 @@ https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8
 
 #EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="Balle Balle" group-title="Music" tvg-language="hin" tvg-quality="576i",Balle Balle
 https://cdn.pishow.tv/ott/live/987/master.m3u8
+
+#EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="Balle Balle" group-title="Music" tvg-language="hin" tvg-quality="576p",Balle Balle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/365/master.m3u8
 
 #EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="Balle Balle" group-title="Music" tvg-language="hin" tvg-quality="720p",Balle Balle
 https://mcncdndigital.com/balleballetv/index.m3u8
@@ -102,6 +118,10 @@ https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Insync.in" tvg-name="Insync" group-title="Music" tvg-language="hin" tvg-quality="576p",Insync
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/160/master.m3u8
+
+#EXTINF:-1 tvg-id="Insync.in" tvg-name="Insync" group-title="Music" tvg-language="hin" tvg-quality="576p",Insync
 https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
 
 #EXTINF:-1 tvg-id="Mastiii.in" tvg-name="Mastiii" group-title="Music" tvg-language="hin" tvg-quality="576p",Mastiii
@@ -112,6 +132,10 @@ https://tvsen3.aynaott.com/er7jmpVF/index.m3u8
 
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India" group-title="Music" tvg-language="hin" tvg-quality="720p",Music India
 https://cdn.pishow.tv/ott/live/226/master.m3u8
+
+#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India" group-title="Music" tvg-language="hin" tvg-quality="576p",Music India
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/158/master.m3u8
 
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India" group-title="Music" tvg-language="hin" tvg-quality="576p",Music India
 https://mumt05.tangotv.in/87NeALx2MUSICINDIA/index.m3u8

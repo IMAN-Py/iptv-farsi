@@ -3,6 +3,10 @@
 https://cdn.pishow.tv/ott/live/471/master.m3u8
 
 #EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="ABP Majha" group-title="News" tvg-language="mar" tvg-quality="576p",ABP Majha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/418/master.m3u8
+
+#EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="ABP Majha" group-title="News" tvg-language="mar" tvg-quality="576p",ABP Majha
 https://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8
 
 #EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="ABP Majha" group-title="News" tvg-language="mar" tvg-quality="360p",ABP Majha
@@ -19,6 +23,10 @@ https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="TV9Marathi.in" tvg-name="TV9 Marathi" group-title="News" tvg-language="mar" tvg-quality="576p",TV9 Marathi
 https://cdn.pishow.tv/ott/live/2/master.m3u8
+
+#EXTINF:-1 tvg-id="TV9Marathi.in" tvg-name="TV9 Marathi" group-title="News" tvg-language="mar" tvg-quality="576p",TV9 Marathi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/190/master.m3u8
 
 #EXTINF:-1 tvg-id="TV9Marathi.in" tvg-name="TV9 Marathi" group-title="News" tvg-language="mar" tvg-quality="576p",TV9 Marathi
 https://streams.tangotv.in/TV9MARATHI/ORIGIN/index.m3u8

@@ -42,6 +42,10 @@ https://cdn.pishow.tv/ott/live/1490/master.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Nepal1.in" tvg-name="Nepal 1" group-title="Entertainment" tvg-language="nep" tvg-quality="576p",Nepal 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/380/master.m3u8
+
+#EXTINF:-1 tvg-id="Nepal1.in" tvg-name="Nepal 1" group-title="Entertainment" tvg-language="nep" tvg-quality="576p",Nepal 1
 https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8
 
 #EXTINF:-1 tvg-id="Public4KTV.np" tvg-name="Public 4K TV" group-title="Entertainment" tvg-language="eng;mai;nep" tvg-quality="1080p",Public 4K TV

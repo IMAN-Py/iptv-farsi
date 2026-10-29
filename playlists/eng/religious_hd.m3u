@@ -117,6 +117,9 @@ https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8
 #EXTINF:-1 tvg-id="DaystarTV.us" tvg-name="Daystar TV" group-title="Religious" tvg-language="eng" tvg-quality="1080p",Daystar TV
 https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DGRadio.au" tvg-name="DG:Radio" group-title="Music;Religious" tvg-language="eng" tvg-quality="1080p",DG:Radio
+https://mdn.dg.church/683c0cb036885-1/index.m3u8
+
 #EXTINF:-1 tvg-id="DGTV.au" tvg-name="DG:TV" group-title="Religious" tvg-language="eng" tvg-quality="1080p",DG:TV
 https://mdn.dg.church/673ac57a073a4-1/index.m3u8
 

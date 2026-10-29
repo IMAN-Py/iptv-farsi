@@ -6,6 +6,10 @@ https://cdn.pishow.tv/ott/live/252/master.m3u8
 https://d2gvyg6lvauoko.cloudfront.net/230226/aadinathtv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="AadinathTV.in" tvg-name="Aadinath TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aadinath TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/343/master.m3u8
+
+#EXTINF:-1 tvg-id="AadinathTV.in" tvg-name="Aadinath TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aadinath TV
 https://mumt01.tangotv.in/O5aw8Zn3AADINATHTV/index.m3u8
 
 #EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aastha
@@ -17,6 +21,10 @@ https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" group-title="Religious" tvg-language="hin" tvg-quality="576i",Aastha
 https://cdn.pishow.tv/ott/live/1454/master.m3u8
+
+#EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aastha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/338/master.m3u8
 
 #EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha" group-title="Religious" tvg-language="hin" tvg-quality="720p",Aastha
 https://mumbai-edge.smartplaytv.in/Aastha/index.m3u8
@@ -32,6 +40,10 @@ http://103.175.73.12:8080/live/339/master.m3u8
 https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AasthaBhajan.in" tvg-name="Aastha Bhajan" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aastha Bhajan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/339/master.m3u8
+
+#EXTINF:-1 tvg-id="AasthaBhajan.in" tvg-name="Aastha Bhajan" group-title="Religious" tvg-language="hin" tvg-quality="576p",Aastha Bhajan
 https://mumt05.tangotv.in/87NeALx2AASTHABHAJAN/index.m3u8
 
 #EXTINF:-1 tvg-id="AasthaPrime1.in" tvg-name="Aastha Prime 1" group-title="Religious" tvg-language="hin" tvg-quality="720p",Aastha Prime 1
@@ -42,6 +54,10 @@ https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
 
 #EXTINF:-1 tvg-id="AdhyatmTV.in" tvg-name="Adhyatm TV" group-title="Religious" tvg-language="hin" tvg-quality="720p",Adhyatm TV
 https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8
+
+#EXTINF:-1 tvg-id="AnandTV.in" tvg-name="Anand TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Anand TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/770/master.m3u8
 
 #EXTINF:-1 tvg-id="AnandTV.in" tvg-name="Anand TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Anand TV
 https://indianews-yupp.vgcdn.net/anandtv/index.m3u8
@@ -72,6 +88,10 @@ https://newsliveindia.com:4433/bhaktidhara/index.m3u8
 
 #EXTINF:-1 tvg-id="BhaktiSagar.in" tvg-name="Bhakti Sagar" group-title="Religious" tvg-language="hin" tvg-quality="576p",Bhakti Sagar
 https://mumt05.tangotv.in/87NeALx2BHAKTISAGAR/index.m3u8
+
+#EXTINF:-1 tvg-id="ChannelDivya.in" tvg-name="Channel Divya" group-title="Religious" tvg-language="hin" tvg-quality="576p",Channel Divya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/166/master.m3u8
 
 #EXTINF:-1 tvg-id="ChannelDivya.in" tvg-name="Channel Divya" group-title="Religious" tvg-language="hin" tvg-quality="720p",Channel Divya
 https://mumbai-edge.smartplaytv.in/channeldivya/index.m3u8
@@ -109,6 +129,10 @@ https://airtelapp.shemaroo.com/harekrsnatv/smil:harekrsnatvadp.smil/playlist.m3u
 #EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-name="Hare Krsna TV" group-title="Religious" tvg-language="hin" tvg-quality="720p",Hare Krsna TV
 https://d1y1fq5zo7b6pt.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hktv/HKTV/HKWebApp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-name="Hare Krsna TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Hare Krsna TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/259/master.m3u8
+
 #EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-name="Hare Krsna TV" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Hare Krsna TV
 https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
 
@@ -134,6 +158,10 @@ https://mumt05.tangotv.in/87NeALx2ISHWARBHAKTI/index.m3u8
 https://cdn.pishow.tv/ott/live/989/master.m3u8
 
 #EXTINF:-1 tvg-id="JinvaniChannel.in" tvg-name="Jinvani Channel" group-title="Religious" tvg-language="hin" tvg-quality="576p",Jinvani Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/169/master.m3u8
+
+#EXTINF:-1 tvg-id="JinvaniChannel.in" tvg-name="Jinvani Channel" group-title="Religious" tvg-language="hin" tvg-quality="576p",Jinvani Channel
 https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8
 
 #EXTINF:-1 tvg-id="KanshiTV.uk" tvg-name="Kanshi TV" group-title="Religious" tvg-language="hin" tvg-quality="720p",Kanshi TV
@@ -152,10 +180,18 @@ https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=
 https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MercyTV.in" tvg-name="Mercy TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Mercy TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/637/master.m3u8
+
+#EXTINF:-1 tvg-id="MercyTV.in" tvg-name="Mercy TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Mercy TV
 https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8
 
 #EXTINF:-1 tvg-id="MercyTV.in" tvg-name="Mercy TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Mercy TV
 https://mumt03.tangotv.in/Dsly5z3HMERCYTV/index.m3u8
+
+#EXTINF:-1 tvg-id="MHOneShraddha.in" tvg-name="MH One Shraddha" group-title="Religious" tvg-language="hin" tvg-quality="576p",MH One Shraddha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/344/master.m3u8
 
 #EXTINF:-1 tvg-id="MHOneShraddha.in" tvg-name="MH One Shraddha" group-title="Religious" tvg-language="hin" tvg-quality="576p",MH One Shraddha
 https://livestream.jswk.online/mhoneshraddha/live/index.m3u8
@@ -173,7 +209,15 @@ https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 https://samitaorigin.tangotv.in/PADHAROSA/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="ParasGold.in" tvg-name="Paras Gold" group-title="Religious" tvg-language="hin" tvg-quality="576p",Paras Gold
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/167/master.m3u8
+
+#EXTINF:-1 tvg-id="ParasGold.in" tvg-name="Paras Gold" group-title="Religious" tvg-language="hin" tvg-quality="576p",Paras Gold
 https://mumt04.tangotv.in/m18aqlK4PARASGOLD/index.m3u8
+
+#EXTINF:-1 tvg-id="PeaceofMindTV.in" tvg-name="Peace of Mind TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Peace of Mind TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/170/master.m3u8
 
 #EXTINF:-1 tvg-id="PeaceofMindTV.in" tvg-name="Peace of Mind TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Peace of Mind TV
 https://mumbai-edge.smartplaytv.in/PeaceOfMind/index.m3u8
@@ -187,11 +231,19 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m
 #EXTINF:-1 tvg-id="Sadhna.in" tvg-name="Sadhna" group-title="Religious" tvg-language="hin" tvg-quality="720p",Sadhna
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Sadhna.in" tvg-name="Sadhna" group-title="Religious" tvg-language="hin" tvg-quality="576p",Sadhna
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/340/master.m3u8
+
 #EXTINF:-1 tvg-id="SadhnaTV.in" tvg-name="Sadhna TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Sadhna TV
 https://mumt05.tangotv.in/87NeALx2SADHNATV/index.m3u8
 
 #EXTINF:-1 tvg-id="SanskarTV.in" tvg-name="Sanskar TV" group-title="Culture;Religious" tvg-language="hin" tvg-quality="1080p",Sanskar TV
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+
+#EXTINF:-1 tvg-id="SanskarTV.in" tvg-name="Sanskar TV" group-title="Culture;Religious" tvg-language="hin" tvg-quality="576p",Sanskar TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/165/master.m3u8
 
 #EXTINF:-1 tvg-id="SanskarUK.in" tvg-name="Sanskar UK" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Sanskar UK
 https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
@@ -204,6 +256,10 @@ https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/ind
 
 #EXTINF:-1 tvg-id="SatsangTV.in" tvg-name="Satsang TV" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Satsang TV
 https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
+
+#EXTINF:-1 tvg-id="SatsangTV.in" tvg-name="Satsang TV" group-title="Religious" tvg-language="hin" tvg-quality="576p",Satsang TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/341/master.m3u8
 
 #EXTINF:-1 tvg-id="SatsangWebTV.in" tvg-name="Satsang Web TV" group-title="Religious" tvg-language="hin" tvg-quality="1080p",Satsang Web TV
 https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8

@@ -3,6 +3,10 @@
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DhoomMusic.in" tvg-name="Dhoom Music" group-title="Music" tvg-language="ben" tvg-quality="576p",Dhoom Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/378/master.m3u8
+
+#EXTINF:-1 tvg-id="DhoomMusic.in" tvg-name="Dhoom Music" group-title="Music" tvg-language="ben" tvg-quality="576p",Dhoom Music
 https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="SangeetBangla.in" tvg-name="Sangeet Bangla" group-title="Music" tvg-language="ben" tvg-quality="576p",Sangeet Bangla

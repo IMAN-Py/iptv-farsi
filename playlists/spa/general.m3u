@@ -1869,6 +1869,9 @@ http://209.14.115.253:8081/LAS-ESTRELLAS/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="Las Estrellas Latin America" group-title="General" tvg-language="spa" tvg-quality="1080p",Las Estrellas Latin America
 http://38.44.109.41:8003/play/a0he
 
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="Las Estrellas Latin America" group-title="General" tvg-language="spa" tvg-quality="480i",Las Estrellas Latin America
+https://streaming.onnethn.com/LAS_ESTRELLAS_HD/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Latele.py" tvg-name="Latele" group-title="General" tvg-language="spa" tvg-quality="1080p",Latele
 http://190.128.214.97:64333/play/a03i/index.m3u8
 
@@ -3172,6 +3175,9 @@ https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_62c23ce08a8b11f1a955e58b5
 #EXTVLCOPT:http-referrer=https://player.castr.com/
 https://stream.castr.com/5da89a909db964293ad13301/live_fcf05c9091cd11f1af7f414b985a2475/index.fmp4.m3u8
 
+#EXTINF:-1 tvg-id="TelevisionCaribe.us" tvg-name="Television Caribe" group-title="Entertainment;General" tvg-language="spa" tvg-quality="1080p",Television Caribe
+https://televisioncaribe.com/index.m3u8
+
 #EXTINF:-1 tvg-id="TelevisiondeSanVicente.es" tvg-name="Television de San Vicente" group-title="General" tvg-language="spa" tvg-quality="1080p",Television de San Vicente
 https://emision.arpamedia.es:4343/hls/tvsanvicenteweb.m3u8
 
@@ -3636,9 +3642,6 @@ https://dbt-gcore-video-cdn.b-cdn.net/mpegts/986244_4049034/master_mpegts.m3u8
 
 #EXTINF:-1 tvg-id="WaldivisionInternacional.hn" tvg-name="Waldivision Internacional" group-title="General" tvg-language="spa" tvg-quality="480i",Waldivision Internacional
 https://media.streambrothers.com:19360/8308/8308.m3u8
-
-#EXTINF:-1 tvg-id="WAPATV41.pr" tvg-name="WAPA-TV 4.1" group-title="General" tvg-language="spa" tvg-quality="1080p",WAPA-TV 4.1
-https://wapa-updater.onrender.com/WAPA-TV-4-1.m3u8
 
 #EXTINF:-1 tvg-id="WataVision.ve" tvg-name="Wata Vision" group-title="General" tvg-language="spa" tvg-quality="576i",Wata Vision
 https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8

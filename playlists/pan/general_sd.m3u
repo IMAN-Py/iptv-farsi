@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MHOne.in" tvg-name="MH One" group-title="General" tvg-language="pan" tvg-quality="576p",MH One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/353/master.m3u8
+
 #EXTINF:-1 tvg-id="MHOne.in" tvg-name="MH One" group-title="General" tvg-language="pan" tvg-quality="360p",MH One
 https://samitaorigin.tangotv.in/MHONE/SAMITAORIGIN/index.m3u8
 

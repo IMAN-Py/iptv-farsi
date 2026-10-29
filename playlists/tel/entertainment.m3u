@@ -26,6 +26,10 @@ https://cdn.pishow.tv/ott/live/1147/master.m3u8
 #EXTINF:-1 tvg-id="MahaaMax.in" tvg-name="Mahaa Max" group-title="Entertainment" tvg-language="tel" tvg-quality="576p",Mahaa Max
 https://d1msejlow1t3l4.cloudfront.net/fta/mahaamax/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MahaaMax.in" tvg-name="Mahaa Max" group-title="Entertainment" tvg-language="tel" tvg-quality="576p",Mahaa Max
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/684/master.m3u8
+
 #EXTINF:-1 tvg-id="MahaaMax.in" tvg-name="Mahaa Max" group-title="Entertainment" tvg-language="tel" tvg-quality="1080p",Mahaa Max
 https://mumbai-edge.smartplaytv.in/MahaMax/index.m3u8
 

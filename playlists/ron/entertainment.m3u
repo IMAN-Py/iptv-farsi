@@ -8,9 +8,6 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSecon
 #EXTINF:-1 tvg-id="AccesDirect.ro" tvg-name="Acces Direct" group-title="Entertainment" tvg-language="ron" tvg-quality="576p",Acces Direct
 https://live77cdn2.antenaplay.ro/live2_fast/ch6/stream.m3u8
 
-#EXTINF:-1 tvg-id="AntenaStars.ro" tvg-name="Antena Stars" group-title="Entertainment" tvg-language="ron" tvg-quality="576i",Antena Stars
-https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8
-
 #EXTINF:-1 tvg-id="AsiaExpressNonStop.ro" tvg-name="Asia Express NonStop" group-title="Entertainment" tvg-language="ron" tvg-quality="576i",Asia Express NonStop
 https://live4dai.antenaplay.ro/live2_sport05/live2_sport05_600k.m3u8
 

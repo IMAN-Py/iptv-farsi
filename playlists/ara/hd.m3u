@@ -532,6 +532,9 @@ https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #EXTINF:-1 tvg-id="HolyQuranRadioNablus.ps" tvg-name="Holy Quran Radio Nablus" group-title="Religious" tvg-language="ara" tvg-quality="720p",Holy Quran Radio Nablus
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
 
+#EXTINF:-1 tvg-id="HyaTV.eg" tvg-name="Hya TV" group-title="Entertainment" tvg-language="ara" tvg-quality="1080p",Hya TV
+https://freem3u.xyz/api/live/play.m3u8?vid=187
+
 #EXTINF:-1 tvg-id="INews.iq" tvg-name="I News" group-title="News" tvg-language="ara" tvg-quality="1080p",I News
 https://live.i-news.tv/hls/stream.m3u8
 
@@ -644,6 +647,9 @@ https://5a8308add0b31.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MaanTV.ps" tvg-name="Ma'an TV" group-title="News" tvg-language="ara;eng;heb" tvg-quality="720p",Ma'an TV
 https://htvmada.mada.ps:4443/maannews/index.m3u8
+
+#EXTINF:-1 tvg-id="MahdawiounTV.iq" tvg-name="MahdawiounTV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",MahdawiounTV
+https://live.mahdawioun.tv/stream/mahdawioun/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MajidAlMohandis.sa" tvg-name="Majid Al Mohandis" group-title="Music" tvg-language="ara" tvg-quality="1080p",Majid Al Mohandis
 https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8

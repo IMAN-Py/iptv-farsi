@@ -2082,6 +2082,9 @@ http://38.134.250.110:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.us" tvg-name="Discovery World" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Discovery World
 http://168.196.127.137:6001/play/a097/index.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryWorld.us" tvg-name="Discovery World" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Discovery World
+http://209.61.12.77:9000/play/a08v/index.m3u8
+
 #EXTINF:-1 tvg-id="DismarRadioTV.py" tvg-name="Dismar Radio TV" group-title="Music" tvg-language="spa" tvg-quality="720p",Dismar Radio TV
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 
@@ -2986,6 +2989,9 @@ https://streaming.onnethn.com/HBO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO+ Latin America" group-title="Uncategorized" tvg-language="spa" tvg-quality="720p",HBO+ Latin America
 http://15.204.246.24:8080/HBOPlusHD/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO+ Latin America" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",HBO+ Latin America
+http://45.134.141.161:2200/ARG/HBO_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="HCH.hn" tvg-name="HCH" group-title="News" tvg-language="spa" tvg-quality="720p",HCH
 http://45.228.234.9:8000/play/a06t/index.m3u8
@@ -6179,6 +6185,9 @@ https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
 #EXTINF:-1 tvg-id="TelevisionCanaria.es" tvg-name="Television Canaria" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",Television Canaria
 https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TelevisionCaribe.us" tvg-name="Television Caribe" group-title="Entertainment;General" tvg-language="spa" tvg-quality="1080p",Television Caribe
+https://televisioncaribe.com/index.m3u8
+
 #EXTINF:-1 tvg-id="TelevisionComayaguaCanal40.hn" tvg-name="Television Comayagua Canal 40" group-title="Uncategorized" tvg-language="spa" tvg-quality="720p",Television Comayagua Canal 40
 https://mediacp.us:8081/8034/index.m3u8
 
@@ -7180,9 +7189,6 @@ https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VTVValledeAconcagua.cl" tvg-name="VTV Valle de Aconcagua" group-title="Uncategorized" tvg-language="spa" tvg-quality="720p",VTV Valle de Aconcagua
 https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WAPATV41.pr" tvg-name="WAPA-TV 4.1" group-title="General" tvg-language="spa" tvg-quality="1080p",WAPA-TV 4.1
-https://wapa-updater.onrender.com/WAPA-TV-4-1.m3u8
 
 #EXTINF:-1 tvg-id="Wapp.cl" tvg-name="Wapp" group-title="Lifestyle" tvg-language="spa" tvg-quality="720p",Wapp
 https://stream.wapptv.cl/video/index.m3u8

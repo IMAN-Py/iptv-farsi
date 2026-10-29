@@ -14,9 +14,6 @@ http://103.151.60.162:2122/play/a016/index.m3u8?hls
 #EXTINF:-1 tvg-id="EpicKids.in" tvg-name="Epic Kids" group-title="Kids" tvg-language="hin" tvg-quality="1080p",Epic Kids
 https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ETVBalBharat.in" tvg-name="ETV Bal Bharat" group-title="Kids" tvg-language="asm;ben;eng;guj;hin;kan;mal;mar;ori;pan;tam;tel" tvg-quality="576p",ETV Bal Bharat
-http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
-
 #EXTINF:-1 tvg-id="GreenGoldTV.in" tvg-name="Green Gold TV" group-title="Kids" tvg-language="hin" tvg-quality="1080p",Green Gold TV
 https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8
 
@@ -58,6 +55,10 @@ http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 
 #EXTINF:-1 tvg-id="TheJungleBook.in" tvg-name="The Jungle Book" group-title="Kids" tvg-language="hin" tvg-quality="1080p",The Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
+#EXTINF:-1 tvg-id="UniqueTV.in" tvg-name="Unique TV" group-title="Entertainment;Kids" tvg-language="hin" tvg-quality="576p",Unique TV
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/688/master.m3u8
 
 #EXTINF:-1 tvg-id="UniqueTV.in" tvg-name="Unique TV" group-title="Entertainment;Kids" tvg-language="hin" tvg-quality="576p",Unique TV
 https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8

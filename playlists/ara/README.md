@@ -4,7 +4,7 @@
 
 Find free Arabic live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**344 channels · 453 stream entries**
+**346 channels · 455 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 453 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u` |
-| HD | 362 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/hd.m3u` |
+| All channels | 455 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/all.m3u` |
+| HD | 364 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/hd.m3u` |
 | SD / unknown | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/sd.m3u` |
 
 <a id="categories"></a>
@@ -32,7 +32,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Kids | 10 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/kids.m3u` |
 | Documentary | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/documentary.m3u` |
 | Series | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/series.m3u` |
-| Entertainment | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/entertainment.m3u` |
+| Entertainment | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/entertainment.m3u` |
 | Animation | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/animation.m3u` |
 | Business | 5 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/business.m3u` |
 | Classic | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/classic.m3u` |
@@ -42,7 +42,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Education | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/education.m3u` |
 | Family | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/family.m3u` |
 | General | 79 | 111 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/general.m3u` |
-| Religious | 74 | 86 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/religious.m3u` |
+| Religious | 75 | 87 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/religious.m3u` |
 
 ## Included channels
 
@@ -206,6 +206,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Halab Today TV | HalabTodayTV.sy | 1080p | 2 |
 | Holy Quran Radio | HolyQuranRadio.sa | 1080p | 1 |
 | Holy Quran Radio Nablus | HolyQuranRadioNablus.ps | 720p | 1 |
+| Hya TV | HyaTV.eg | 1080p | 1 |
 | I News | INews.iq | 1080p | 1 |
 | i24NEWS Arabic | i24NEWSArabic.il | 1080p | 2 |
 | iFilm Arabic | iFilmArabic.ir | 576i | 1 |
@@ -247,6 +248,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Logos TV | LogosTV.us | 1080p, 720p | 2 |
 | LoveWorld Arabic | LoveWorldArabic.ng | 360p | 1 |
 | Ma&#x27;an TV | MaanTV.ps | 720p | 1 |
+| MahdawiounTV | MahdawiounTV.iq | 1080p | 1 |
 | Majid Al Mohandis | MajidAlMohandis.sa | 1080p | 1 |
 | Makan 33 | Makan33.il | 1080p | 1 |
 | Makkah TV | MakkahTV.sa | 576i, 576p | 2 |

@@ -38,6 +38,9 @@ http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
 #EXTINF:-1 tvg-id="KC2.rw" tvg-name="KC2" group-title="Entertainment" tvg-language="eng;fra;kin" tvg-quality="720p",KC2
 https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="LaUne.be" tvg-name="La Une" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",La Une
+http://41.205.93.154/LA-UNE/index.m3u8
+
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",M6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/M6/index.m3u8

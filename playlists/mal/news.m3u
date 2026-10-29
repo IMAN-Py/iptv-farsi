@@ -18,6 +18,10 @@ https://asianetnews.vgcdn.net/vglive-sk-917600/playlist.m3u8
 https://cdn.pishow.tv/ott/live/1297/master.m3u8
 
 #EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" group-title="News" tvg-language="mal" tvg-quality="576p",Asianet News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/699/master.m3u8
+
+#EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" group-title="News" tvg-language="mal" tvg-quality="576p",Asianet News
 https://streams.tangotv.in/ASIANETNEWS/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="BigTV24x7.in" tvg-name="Big TV 24x7" group-title="News" tvg-language="mal" tvg-quality="576i",Big TV 24x7
@@ -43,6 +47,10 @@ https://mumt01.tangotv.in/O5aw8Zn3KAIRALINEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="Manorama News" group-title="News" tvg-language="mal" tvg-quality="576p",Manorama News
 https://cdn.pishow.tv/ott/live/463/master.m3u8
+
+#EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="Manorama News" group-title="News" tvg-language="mal" tvg-quality="576p",Manorama News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/55/55_0.m3u8
 
 #EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="Manorama News" group-title="News" tvg-language="mal" tvg-quality="1080p",Manorama News
 https://mmtvlive3.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvAdCampaign3/index.m3u8

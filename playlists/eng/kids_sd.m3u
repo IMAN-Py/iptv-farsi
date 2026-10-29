@@ -77,9 +77,6 @@ http://tvsen7.aynascope.net/disneyjr/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="480p",Disney Junior
 https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F212.5.144.156%3A8080%2Fdisneyjr%2Ftracks-v1a1%2Fmono.m3u8
 
-#EXTINF:-1 tvg-id="ETVBalBharat.in" tvg-name="ETV Bal Bharat" group-title="Kids" tvg-language="asm;ben;eng;guj;hin;kan;mal;mar;ori;pan;tam;tel" tvg-quality="576p",ETV Bal Bharat
-http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
-
 #EXTINF:-1 tvg-id="ForeverKids.us" tvg-name="Forever Kids" group-title="Kids" tvg-language="eng" tvg-quality="480i",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
 
@@ -200,9 +197,6 @@ http://92.114.85.87:8014/play/a00d/index.m3u8
 
 #EXTINF:-1 tvg-id="RyanandFriends.us" tvg-name="Ryan and Friends" group-title="Kids" tvg-language="eng" tvg-quality="480i",Ryan and Friends
 https://jmp2.uk/plu-5fb584b7613a31000789de5a.m3u8
-
-#EXTINF:-1 tvg-id="SCorbyTV.us" tvg-name="S Corby TV" group-title="Kids" tvg-language="eng" tvg-quality="480p",S Corby TV
-https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8
 
 #EXTINF:-1 tvg-id="SmurfTV.us" tvg-name="Smurf TV" group-title="Kids" tvg-language="eng" tvg-quality="480p",Smurf TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4065

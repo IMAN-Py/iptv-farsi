@@ -416,6 +416,9 @@ https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8
 #EXTINF:-1 tvg-id="LancelotTV.es" tvg-name="Lancelot TV" group-title="General" tvg-language="spa" tvg-quality="404p",Lancelot TV
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
 
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="Las Estrellas Latin America" group-title="General" tvg-language="spa" tvg-quality="480i",Las Estrellas Latin America
+https://streaming.onnethn.com/LAS_ESTRELLAS_HD/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina" group-title="General" tvg-language="spa" tvg-quality="480i",Latina
 #EXTVLCOPT:http-referrer=https://latina.pe/
 https://cablered.iptvperu.tv:1936/cablered/latina_new/playlist.m3u8

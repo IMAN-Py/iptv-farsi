@@ -4,7 +4,7 @@
 
 Browse live cooking channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**56 channels · 87 stream entries**
+**56 channels · 88 stream entries**
 
 ## All languages
 
@@ -25,7 +25,7 @@ https://iman-py.github.io/open-tv-atlas/categories/cooking.m3u
 | [Danish](../playlists/dan/README.md) | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/dan/cooking.m3u` |
 | [French](../playlists/fra/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/cooking.m3u` |
 | [German](../playlists/deu/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/cooking.m3u` |
-| [Hindi](../playlists/hin/README.md) | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/cooking.m3u` |
+| [Hindi](../playlists/hin/README.md) | 2 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/cooking.m3u` |
 | [Hungarian](../playlists/hun/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/cooking.m3u` |
 | [Indonesian](../playlists/ind/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/cooking.m3u` |
 | [Italian](../playlists/ita/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/cooking.m3u` |

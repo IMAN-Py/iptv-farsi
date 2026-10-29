@@ -63,6 +63,10 @@ https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 https://cdn.pishow.tv/ott/live/1257/master.m3u8
 
 #EXTINF:-1 tvg-id="7SMusic.in" tvg-name="7S Music" group-title="Music" tvg-language="tam" tvg-quality="576p",7S Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/771/master.m3u8
+
+#EXTINF:-1 tvg-id="7SMusic.in" tvg-name="7S Music" group-title="Music" tvg-language="tam" tvg-quality="576p",7S Music
 https://mumbai-edge.smartplaytv.in/7SMusic/index.m3u8
 
 #EXTINF:-1 tvg-id="7SMusic.in" tvg-name="7S Music" group-title="Music" tvg-language="tam" tvg-quality="360p",7S Music
@@ -79,6 +83,10 @@ https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8
 
 #EXTINF:-1 tvg-id="981PearlFM.sx" tvg-name="98.1 Pearl FM" group-title="Music" tvg-language="eng" tvg-quality="720p",98.1 Pearl FM
 https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
+
+#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9X Jalwa" group-title="Music" tvg-language="hin" tvg-quality="576p",9X Jalwa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/161/master.m3u8
 
 #EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="9X Jalwa" group-title="Music" tvg-language="hin" tvg-quality="576p",9X Jalwa
 https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
@@ -114,6 +122,10 @@ https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg012
 https://cdn.pishow.tv/ott/live/1613/master.m3u8
 
 #EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="576p",9X Tashan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/178/master.m3u8
+
+#EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="576p",9X Tashan
 https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8
 
 #EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="576p",9X Tashan
@@ -136,6 +148,10 @@ https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" group-title="Music" tvg-language="hin" tvg-quality="1080p",9XM
 https://epiconvh.akamaized.net/live/9XM/master.m3u8
+
+#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" group-title="Music" tvg-language="hin" tvg-quality="576p",9XM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/155/master.m3u8
 
 #EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM" group-title="Music" tvg-language="hin" tvg-quality="576p",9XM
 https://streams.tangotv.in/9XM/ORIGIN/index.m3u8
@@ -274,6 +290,10 @@ https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3
 https://cdn.pishow.tv/ott/live/415/master.m3u8
 
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="576p",B4U Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/157/master.m3u8
+
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="576p",B4U Music
 https://mumbai-edge.smartplaytv.in/B4uMusic/index.m3u8
 
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" group-title="Music" tvg-language="hin" tvg-quality="576p",B4U Music
@@ -293,6 +313,10 @@ https://fs.uplink.kz/baby_time/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="Balle Balle" group-title="Music" tvg-language="hin" tvg-quality="576i",Balle Balle
 https://cdn.pishow.tv/ott/live/987/master.m3u8
+
+#EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="Balle Balle" group-title="Music" tvg-language="hin" tvg-quality="576p",Balle Balle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/365/master.m3u8
 
 #EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="Balle Balle" group-title="Music" tvg-language="hin" tvg-quality="720p",Balle Balle
 https://mcncdndigital.com/balleballetv/index.m3u8
@@ -588,6 +612,9 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 #EXTINF:-1 tvg-id="DeluxeRap.de" tvg-name="Deluxe Rap" group-title="Music" tvg-language="deu;eng" tvg-quality="1080p",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 
+#EXTINF:-1 tvg-id="DGRadio.au" tvg-name="DG:Radio" group-title="Music;Religious" tvg-language="eng" tvg-quality="1080p",DG:Radio
+https://mdn.dg.church/683c0cb036885-1/index.m3u8
+
 #EXTINF:-1 tvg-id="Dhamaal.in" tvg-name="Dhamaal" group-title="Music" tvg-language="hin" tvg-quality="576p",Dhamaal
 https://tvsen6.aynaott.com/F4Z6es8E/index.m3u8
 
@@ -596,6 +623,10 @@ https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DhoomMusic.in" tvg-name="Dhoom Music" group-title="Music" tvg-language="ben" tvg-quality="720p",Dhoom Music
 https://cdn.pishow.tv/ott/live/1456/master.m3u8
+
+#EXTINF:-1 tvg-id="DhoomMusic.in" tvg-name="Dhoom Music" group-title="Music" tvg-language="ben" tvg-quality="576p",Dhoom Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/378/master.m3u8
 
 #EXTINF:-1 tvg-id="DhoomMusic.in" tvg-name="Dhoom Music" group-title="Music" tvg-language="ben" tvg-quality="576p",Dhoom Music
 https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8
@@ -923,6 +954,10 @@ http://stream.mcquack.net/147/index.m3u8
 
 #EXTINF:-1 tvg-id="Insync.in" tvg-name="Insync" group-title="Music" tvg-language="hin" tvg-quality="576p",Insync
 https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Insync.in" tvg-name="Insync" group-title="Music" tvg-language="hin" tvg-quality="576p",Insync
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/160/master.m3u8
 
 #EXTINF:-1 tvg-id="Insync.in" tvg-name="Insync" group-title="Music" tvg-language="hin" tvg-quality="576p",Insync
 https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
@@ -1418,6 +1453,10 @@ http://88.212.15.50/live/mb_sexy/index.m3u8
 https://cdn.pishow.tv/ott/live/226/master.m3u8
 
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India" group-title="Music" tvg-language="hin" tvg-quality="576p",Music India
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/158/master.m3u8
+
+#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India" group-title="Music" tvg-language="hin" tvg-quality="576p",Music India
 https://mumt05.tangotv.in/87NeALx2MUSICINDIA/index.m3u8
 
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India" group-title="Music" tvg-language="hin" tvg-quality="576p",Music India
@@ -1825,6 +1864,10 @@ https://183.bozztv.com/ssh101/ssh101/pratteltvperu/playlist.m3u8
 https://cdn.pishow.tv/ott/live/449/master.m3u8
 
 #EXTINF:-1 tvg-id="PTCChakde.in" tvg-name="PTC Chakde" group-title="Music" tvg-language="pan" tvg-quality="576p",PTC Chakde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/180/master.m3u8
+
+#EXTINF:-1 tvg-id="PTCChakde.in" tvg-name="PTC Chakde" group-title="Music" tvg-language="pan" tvg-quality="576p",PTC Chakde
 https://mumt06.tangotv.in/qYyB8fXVPTCCHAKDE/index.m3u8
 
 #EXTINF:-1 tvg-id="PTCMusic.in" tvg-name="PTC Music" group-title="Music" tvg-language="pan" tvg-quality="576i",PTC Music
@@ -1834,10 +1877,18 @@ https://cdn.pishow.tv/ott/live/1501/master.m3u8
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
 
 #EXTINF:-1 tvg-id="PTCMusic.in" tvg-name="PTC Music" group-title="Music" tvg-language="pan" tvg-quality="576p",PTC Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/181/master.m3u8
+
+#EXTINF:-1 tvg-id="PTCMusic.in" tvg-name="PTC Music" group-title="Music" tvg-language="pan" tvg-quality="576p",PTC Music
 https://mumt04.tangotv.in/m18aqlK4PTCMUSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="PublicMusic.in" tvg-name="Public Music" group-title="Music" tvg-language="kan" tvg-quality="720p",Public Music
 https://cdn.pishow.tv/ott/live/441/master.m3u8
+
+#EXTINF:-1 tvg-id="PublicMusic.in" tvg-name="Public Music" group-title="Music" tvg-language="kan" tvg-quality="576p",Public Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/240/master.m3u8
 
 #EXTINF:-1 tvg-id="PublicMusic.in" tvg-name="Public Music" group-title="Music" tvg-language="kan" tvg-quality="576p",Public Music
 https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8
@@ -2248,10 +2299,18 @@ https://tvsen6.aynaott.com/hT5jHczt/index.m3u8
 https://cdn.pishow.tv/ott/live/1293/master.m3u8
 
 #EXTINF:-1 tvg-id="SangeetBhojpuri.in" tvg-name="Sangeet Bhojpuri" group-title="Music" tvg-language="bho" tvg-quality="576p",Sangeet Bhojpuri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/349/master.m3u8
+
+#EXTINF:-1 tvg-id="SangeetBhojpuri.in" tvg-name="Sangeet Bhojpuri" group-title="Music" tvg-language="bho" tvg-quality="576p",Sangeet Bhojpuri
 https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
 
 #EXTINF:-1 tvg-id="SangeetMarathi.in" tvg-name="Sangeet Marathi" group-title="Music" tvg-language="mar" tvg-quality="720p",Sangeet Marathi
 https://cdn.pishow.tv/ott/live/1229/master.m3u8
+
+#EXTINF:-1 tvg-id="SangeetMarathi.in" tvg-name="Sangeet Marathi" group-title="Music" tvg-language="mar" tvg-quality="576p",Sangeet Marathi
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/712/master.m3u8
 
 #EXTINF:-1 tvg-id="SangeetMarathi.in" tvg-name="Sangeet Marathi" group-title="Music" tvg-language="mar" tvg-quality="576p",Sangeet Marathi
 https://mumt07.tangotv.in/zHjX9OFlSANGEETMARATHI/index.m3u8
@@ -2488,6 +2547,10 @@ https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
 #EXTINF:-1 tvg-id="T2TV.ir" tvg-name="T2 TV" group-title="Music" tvg-language="fas" tvg-quality="576i",T2 TV
 https://t2hls.wns.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="TabbarHits.in" tvg-name="Tabbar Hits" group-title="Music" tvg-language="pan" tvg-quality="576p",Tabbar Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/179/master.m3u8
+
 #EXTINF:-1 tvg-id="TabbarHits.in" tvg-name="Tabbar Hits" group-title="Music" tvg-language="pan" tvg-quality="1080p",Tabbar Hits
 https://livingindiaottlive.akamaized.net/tabbarhits/index.m3u8
 
@@ -2589,6 +2652,9 @@ https://tmf-nl-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558
 
 #EXTINF:-1 tvg-id="TodayRadio.lu" tvg-name="Today Radio" group-title="Music" tvg-language="eng" tvg-quality="720p",Today Radio
 https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-name="Top Latino TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Top Latino TV
+http://38.87.224.20:2220/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-id="TopTV.rs" tvg-name="Top TV" group-title="Music" tvg-language="srp" tvg-quality="1080p",Top TV
 http://82.165.71.58:8081/TopTV/live/playlist.m3u8
@@ -3107,9 +3173,6 @@ https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-id="XPTV1.es" tvg-name="XPTV1" group-title="Music" tvg-language="eng" tvg-quality="720p",XPTV1
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
-
-#EXTINF:-1 tvg-id="YETMax.in" tvg-name="YET Max" group-title="Music" tvg-language="tam" tvg-quality="720p",YET Max
-https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8
 
 #EXTINF:-1 tvg-id="YleX.fi" tvg-name="YleX" group-title="Music" tvg-language="fin" tvg-quality="720p",YleX
 https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8

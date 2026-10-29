@@ -4,7 +4,7 @@
 
 Find free Ukrainian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**173 channels · 206 stream entries**
+**175 channels · 208 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ukr/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 206 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/all.m3u` |
-| HD | 128 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/hd.m3u` |
-| SD / unknown | 78 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/sd.m3u` |
+| All channels | 208 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/all.m3u` |
+| HD | 129 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/hd.m3u` |
+| SD / unknown | 79 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 14 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/sports.m3u` |
+| Sports | 15 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/sports.m3u` |
 | Movies | 13 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/movies.m3u` |
 | News | 20 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/news.m3u` |
 | Music | 12 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/music.m3u` |
@@ -38,7 +38,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/business.m3u` |
 | Culture | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/culture.m3u` |
 | Education | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/education.m3u` |
-| General | 43 | 52 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/general.m3u` |
+| General | 44 | 53 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/general.m3u` |
 | Legislative | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/legislative.m3u` |
 | Lifestyle | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/lifestyle.m3u` |
 | Outdoor | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/outdoor.m3u` |
@@ -72,6 +72,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Avers | Avers.ua | 480p | 1 |
 | Balta TV | BaltaTV.ua | 768p | 1 |
 | BamBarBia.TV | BamBarBiaTV.ua | 720p | 1 |
+| Belsat TV | BelsatTV.pl | 576i | 1 |
 | Bigudi | Bigudi.ua | 576p | 1 |
 | Black | Black.ua | 1080p | 1 |
 | Black Sea TV | BlackSeaTV.ua | 576i | 1 |
@@ -142,6 +143,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Mason TV | MasonTV.ua | 1080p | 1 |
 | Mega | Mega.ua | 1080p, 720p | 3 |
 | Megogo Music | MegogoMusic.ua | 576i | 1 |
+| MEGOGO Sport | MEGOGOSport.ua | 1080p | 1 |
 | Misto+ | MistoPlus.ua | 360p | 1 |
 | Muzvar | Muzvar.ua | 1080p | 1 |
 | Muzyka Pervogo | MuzykaPervogo.ru | 576i, 576p | 3 |

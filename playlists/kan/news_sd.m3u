@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AsianetSuvarnaNews.in" tvg-name="Asianet Suvarna News" group-title="News" tvg-language="kan" tvg-quality="576p",Asianet Suvarna News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/692/master.m3u8
+
 #EXTINF:-1 tvg-id="GuaranteeNews.in" tvg-name="Guarantee News" group-title="News" tvg-language="kan" tvg-quality="576p",Guarantee News
 https://mumt03.tangotv.in/Dsly5z3HGAURANTEENEWS/index.m3u8
 
@@ -7,6 +11,10 @@ https://cdn.pishow.tv/ott/live/268/master.m3u8
 
 #EXTINF:-1 tvg-id="News1st.in" tvg-name="News 1st" group-title="News" tvg-language="kan" tvg-quality="576p",News 1st
 https://d1msejlow1t3l4.cloudfront.net/fta/News1st/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News1st.in" tvg-name="News 1st" group-title="News" tvg-language="kan" tvg-quality="576p",News 1st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/691/master.m3u8
 
 #EXTINF:-1 tvg-id="News1st.in" tvg-name="News 1st" group-title="News" tvg-language="kan" tvg-quality="576p",News 1st
 https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8
@@ -20,6 +28,10 @@ https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8
 #EXTINF:-1 tvg-id="PowerTV.in" tvg-name="Power TV" group-title="News" tvg-language="kan" tvg-quality="576p",Power TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0
 https://powertvkannada.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PublicTV.in" tvg-name="Public TV" group-title="News" tvg-language="kan" tvg-quality="576p",Public TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/241/master.m3u8
 
 #EXTINF:-1 tvg-id="PublicTV.in" tvg-name="Public TV" group-title="News" tvg-language="kan" tvg-quality="576p",Public TV
 https://mumt04.tangotv.in/m18aqlK4PUBLICTV/index.m3u8

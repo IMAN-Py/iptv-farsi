@@ -209,6 +209,10 @@ https://stream.dbstvstlucia.com/hls/dbstv_main.m3u8
 #EXTINF:-1 tvg-id="DDAssam.in" tvg-name="DD Assam" group-title="General" tvg-language="asm;eng" tvg-quality="504p",DD Assam
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
 
+#EXTINF:-1 tvg-id="DDAssam.in" tvg-name="DD Assam" group-title="General" tvg-language="asm;eng" tvg-quality="576p",DD Assam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/672/master.m3u8
+
 #EXTINF:-1 tvg-id="DDIndia.in" tvg-name="DD India" group-title="General" tvg-language="eng" tvg-quality="576p",DD India
 https://cdn.pishow.tv/ott/live/23/master.m3u8
 
@@ -220,6 +224,10 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/in
 
 #EXTINF:-1 tvg-id="DDNagaland.in" tvg-name="DD Nagaland" group-title="General" tvg-language="eng" tvg-quality="504p",DD Nagaland
 https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8
+
+#EXTINF:-1 tvg-id="DDNagaland.in" tvg-name="DD Nagaland" group-title="General" tvg-language="eng" tvg-quality="576p",DD Nagaland
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/670/master.m3u8
 
 #EXTINF:-1 tvg-id="DDUrdu.in" tvg-name="DD Urdu" group-title="General" tvg-language="eng;hin;urd" tvg-quality="504p",DD Urdu
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8

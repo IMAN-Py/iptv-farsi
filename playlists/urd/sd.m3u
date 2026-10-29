@@ -5,6 +5,10 @@ https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8
 #EXTINF:-1 tvg-id="4TVNews.in" tvg-name="4TV News" group-title="News" tvg-language="urd" tvg-quality="576p",4TV News
 https://cdn.pishow.tv/ott/live/1007/master.m3u8
 
+#EXTINF:-1 tvg-id="4TVNews.in" tvg-name="4TV News" group-title="News" tvg-language="urd" tvg-quality="576p",4TV News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/647/master.m3u8
+
 #EXTINF:-1 tvg-id="APlusTV.pk" tvg-name="A-Plus TV" group-title="Entertainment" tvg-language="urd" tvg-quality="576i",A-Plus TV
 http://103.86.135.164:9981/stream/channelid/1522598263?profile=pass&ticket=8F210F02E7EF3471D45EFD9B293E0E07CE3532BF
 
@@ -45,6 +49,10 @@ http://124.109.47.101/hls/stream1.m3u8
 https://cdn.pishow.tv/ott/live/1139/master.m3u8
 
 #EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="576p",Bharat Express
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/736/master.m3u8
+
+#EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="576p",Bharat Express
 https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/index.m3u8
 
 #EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="480p",Bharat Express
@@ -64,6 +72,10 @@ https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.pk" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;urd" tvg-quality="576i",Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ChannelWIN.in" tvg-name="Channel WIN" group-title="Religious" tvg-language="urd" tvg-quality="576p",Channel WIN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/648/master.m3u8
 
 #EXTINF:-1 tvg-id="ChannelWIN.in" tvg-name="Channel WIN" group-title="Religious" tvg-language="urd" tvg-quality="576p",Channel WIN
 https://mumt05.tangotv.in/87NeALx2CHANNELWIN/index.m3u8

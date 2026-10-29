@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-id="DisneyJunior.in" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Disney Junior
 http://103.151.60.162:2122/play/a016/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="ETVBalBharat.in" tvg-name="ETV Bal Bharat" group-title="Kids" tvg-language="asm;ben;eng;guj;hin;kan;mal;mar;ori;pan;tam;tel" tvg-quality="576p",ETV Bal Bharat
-http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
-
 #EXTINF:-1 tvg-id="HungamaTV.in" tvg-name="Hungama TV" group-title="Kids" tvg-language="hin;tam;tel" tvg-quality="576p",Hungama TV
 http://66.102.126.10:8000/play/a023/index.m3u8
 

@@ -227,6 +227,14 @@ http://stream.mcquack.net/119/index.m3u8
 #EXTINF:-1 tvg-id="FashionBox.nl" tvg-name="FashionBox" group-title="Lifestyle" tvg-language="eng" tvg-quality="576i",FashionBox
 https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FashionTV.in" tvg-name="FashionTV" group-title="Lifestyle" tvg-language="fra" tvg-quality="576p",FashionTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/144/144_0.m3u8
+
+#EXTINF:-1 tvg-id="FashionTV.in" tvg-name="FashionTV" group-title="Lifestyle" tvg-language="fra" tvg-quality="576p",FashionTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/332/master.m3u8
+
 #EXTINF:-1 tvg-id="FashionTV.ru" tvg-name="FashionTV" group-title="Lifestyle" tvg-language="fra" tvg-quality="1080p",FashionTV
 http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 
@@ -241,6 +249,10 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07a
 
 #EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" group-title="Cooking;Lifestyle" tvg-language="hin" tvg-quality="576p",Food Food
 https://cdn.pishow.tv/ott/live/267/master.m3u8
+
+#EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" group-title="Cooking;Lifestyle" tvg-language="hin" tvg-quality="576p",Food Food
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/143/143_0.m3u8
 
 #EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" group-title="Cooking;Lifestyle" tvg-language="hin" tvg-quality="576p",Food Food
 https://mumbai-edge.smartplaytv.in/FoodFood/index.m3u8
@@ -347,6 +359,10 @@ https://cdn.pishow.tv/ott/live/1123/master.m3u8
 
 #EXTINF:-1 tvg-id="KappaTV.in" tvg-name="Kappa TV" group-title="Lifestyle" tvg-language="mal" tvg-quality="576p",Kappa TV
 https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KappaTV.in" tvg-name="Kappa TV" group-title="Lifestyle" tvg-language="mal" tvg-quality="576p",Kappa TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/247/master.m3u8
 
 #EXTINF:-1 tvg-id="KappaTV.in" tvg-name="Kappa TV" group-title="Lifestyle" tvg-language="mal" tvg-quality="576p",Kappa TV
 https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8

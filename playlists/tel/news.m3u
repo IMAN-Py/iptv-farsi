@@ -2,6 +2,10 @@
 #EXTINF:-1 tvg-id="10TV.in" tvg-name="10 TV" group-title="News" tvg-language="tel" tvg-quality="576p",10 TV
 https://cdn.pishow.tv/ott/live/391/master.m3u8
 
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="10 TV" group-title="News" tvg-language="tel" tvg-quality="576p",10 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/686/master.m3u8
+
 #EXTINF:-1 tvg-id="10TV.in" tvg-name="10 TV" group-title="News" tvg-language="tel" tvg-quality="720p",10 TV
 https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
 
@@ -25,6 +29,10 @@ https://cdn.pishow.tv/ott/live/1211/master.m3u8
 
 #EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-name="ABN Andhra Jyoti" group-title="News" tvg-language="tel" tvg-quality="576p",ABN Andhra Jyoti
 https://cdn.pishow.tv/ott/live/407/master.m3u8
+
+#EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-name="ABN Andhra Jyoti" group-title="News" tvg-language="tel" tvg-quality="576p",ABN Andhra Jyoti
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/687/master.m3u8
 
 #EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-name="ABN Andhra Jyoti" group-title="News" tvg-language="tel" tvg-quality="720p",ABN Andhra Jyoti
 https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8
@@ -98,6 +106,10 @@ https://yuppnimresmum.akamaized.net/28072023/smil:inews.smil/playlist.m3u8?hdnts
 #EXTINF:-1 tvg-id="MahaaNews.in" tvg-name="Mahaa News" group-title="News" tvg-language="tel" tvg-quality="576i",Mahaa News
 https://cdn.pishow.tv/ott/live/401/master.m3u8
 
+#EXTINF:-1 tvg-id="MahaaNews.in" tvg-name="Mahaa News" group-title="News" tvg-language="tel" tvg-quality="576p",Mahaa News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/689/master.m3u8
+
 #EXTINF:-1 tvg-id="MahaaNews.in" tvg-name="Mahaa News" group-title="News" tvg-language="tel" tvg-quality="1080p",Mahaa News
 https://mumbai-edge.smartplaytv.in/MahaNews/index.m3u8
 
@@ -156,6 +168,10 @@ https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
 https://cdn.pishow.tv/ott/live/385/master.m3u8
 
 #EXTINF:-1 tvg-id="TNews.in" tvg-name="T News" group-title="News" tvg-language="tel" tvg-quality="576p",T News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/693/master.m3u8
+
+#EXTINF:-1 tvg-id="TNews.in" tvg-name="T News" group-title="News" tvg-language="tel" tvg-quality="576p",T News
 https://mumbai-edge.smartplaytv.in/TNews/index.m3u8
 
 #EXTINF:-1 tvg-id="TNews.in" tvg-name="T News" group-title="News" tvg-language="tel" tvg-quality="576p",T News
@@ -193,6 +209,10 @@ https://cdn.pishow.tv/ott/live/389/master.m3u8
 
 #EXTINF:-1 tvg-id="V6News.in" tvg-name="V6 News" group-title="News" tvg-language="tel" tvg-quality="576p",V6 News
 https://d1rc86nwwc9fag.cloudfront.net/140622/v6newsdev/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="V6News.in" tvg-name="V6 News" group-title="News" tvg-language="tel" tvg-quality="576p",V6 News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/694/master.m3u8
 
 #EXTINF:-1 tvg-id="V6News.in" tvg-name="V6 News" group-title="News" tvg-language="tel" tvg-quality="576p",V6 News
 https://mumbai-edge.smartplaytv.in/V6News/index.m3u8

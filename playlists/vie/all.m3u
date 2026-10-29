@@ -126,6 +126,9 @@ https://dethich.pw/htv4/index.m3u8
 #EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" group-title="Education" tvg-language="vie" tvg-quality="1080p",HTV4
 https://freem3u.xyz/api/live/play.m3u8?vid=9
 
+#EXTINF:-1 tvg-id="HTV5.vn" tvg-name="HTV5" group-title="Culture" tvg-language="vie" tvg-quality="1080p",HTV5
+https://freem3u.xyz/api/live/play.m3u8?vid=151
+
 #EXTINF:-1 tvg-id="HTV7.vn" tvg-name="HTV7" group-title="General" tvg-language="vie" tvg-quality="720p",HTV7
 https://dethich.pw/htv7/index.m3u8
 
@@ -164,6 +167,9 @@ https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ONCine.vn" tvg-name="ON Cine" group-title="Series" tvg-language="vie" tvg-quality="576i",ON Cine
 https://freem3u.xyz/api/live/play.m3u8?vid=176
+
+#EXTINF:-1 tvg-id="ONEChannel.vn" tvg-name="ON E Channel" group-title="Entertainment" tvg-language="vie" tvg-quality="1080p",ON E Channel
+https://freem3u.xyz/api/live/play.m3u8?vid=182
 
 #EXTINF:-1 tvg-id="ONKids.vn" tvg-name="ON Kids" group-title="Kids" tvg-language="vie" tvg-quality="720p",ON Kids
 https://freem3u.xyz/api/live/play.m3u8?vid=179

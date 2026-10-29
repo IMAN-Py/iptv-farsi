@@ -4,7 +4,7 @@
 
 Find free French live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**423 channels · 551 stream entries**
+**425 channels · 554 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 551 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
-| HD | 352 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
-| SD / unknown | 199 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
+| All channels | 554 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
+| HD | 353 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
+| SD / unknown | 201 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -32,7 +32,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Kids | 19 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/kids.m3u` |
 | Documentary | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/documentary.m3u` |
 | Series | 23 | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/series.m3u` |
-| Entertainment | 34 | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/entertainment.m3u` |
+| Entertainment | 35 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/entertainment.m3u` |
 | Animation | 7 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/animation.m3u` |
 | Business | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/business.m3u` |
 | Comedy | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/comedy.m3u` |
@@ -43,7 +43,7 @@ Each list combines this language with a source category. Counts are stream entri
 | General | 101 | 120 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/general.m3u` |
 | Interactive | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/interactive.m3u` |
 | Legislative | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/legislative.m3u` |
-| Lifestyle | 10 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/lifestyle.m3u` |
+| Lifestyle | 11 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/lifestyle.m3u` |
 | Relax | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/relax.m3u` |
 | Religious | 42 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/religious.m3u` |
 | Science | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/science.m3u` |
@@ -188,6 +188,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | EVI TV | EVITV.cd | 720p | 1 |
 | EWTN | EWTN.us | 720p | 1 |
 | Exploits TV | ExploitsTV.ci | 576i | 1 |
+| FashionTV | FashionTV.in | 576p | 2 |
 | FashionTV | FashionTV.ru | 1080p | 1 |
 | FashionTV Paris L&#x27;Original | FashionTVParisLOriginal.fr | 1080p | 1 |
 | FIFA+ | FIFAPlus.uk | 720p | 1 |
@@ -239,6 +240,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Kozoom TV | KozoomTV.fr | 1080p | 1 |
 | KTO | KTO.fr | 404p | 1 |
 | L&#x27;Equipe | LEquipe.fr | 1080p | 1 |
+| La Une | LaUne.be | 1080p | 1 |
 | Laura Dave Media TV | LauraDaveMediaTV.cm | 720p | 1 |
 | LBFD RTV | LBFDRTV.cd | 1080p | 1 |
 | LCI | LCI.fr | 1080p, 576i | 2 |

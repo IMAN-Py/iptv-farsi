@@ -16,6 +16,9 @@ http://stream.mcquack.net/487/index.m3u8
 #EXTINF:-1 tvg-id="MaincastSport.ua" tvg-name="Maincast Sport" group-title="Sports" tvg-language="ukr" tvg-quality="1080p",Maincast Sport
 http://stream.mcquack.net/490/index.m3u8
 
+#EXTINF:-1 tvg-id="MEGOGOSport.ua" tvg-name="MEGOGO Sport" group-title="Sports" tvg-language="ukr" tvg-quality="1080p",MEGOGO Sport
+http://5.188.159.128:8070/megogo_sport/index.m3u8
+
 #EXTINF:-1 tvg-id="SetantaSports.uk" tvg-name="Setanta Sports" group-title="Sports" tvg-language="eng;ukr" tvg-quality="1080p",Setanta Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/313/index.m3u8

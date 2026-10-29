@@ -2,6 +2,10 @@
 #EXTINF:-1 tvg-id="10TV.in" tvg-name="10 TV" group-title="News" tvg-language="tel" tvg-quality="576p",10 TV
 https://cdn.pishow.tv/ott/live/391/master.m3u8
 
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="10 TV" group-title="News" tvg-language="tel" tvg-quality="576p",10 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/686/master.m3u8
+
 #EXTINF:-1 tvg-id="6TVTelugu.in" tvg-name="6 TV Telugu" group-title="News" tvg-language="tel" tvg-quality="576p",6 TV Telugu
 https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8
 
@@ -18,10 +22,18 @@ https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
 https://cdn.pishow.tv/ott/live/262/master.m3u8
 
 #EXTINF:-1 tvg-id="AasthaTelugu.in" tvg-name="Aastha Telugu" group-title="Religious" tvg-language="tel" tvg-quality="576p",Aastha Telugu
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/702/master.m3u8
+
+#EXTINF:-1 tvg-id="AasthaTelugu.in" tvg-name="Aastha Telugu" group-title="Religious" tvg-language="tel" tvg-quality="576p",Aastha Telugu
 https://mumbai-edge.smartplaytv.in/AasthaTelugu/index.m3u8
 
 #EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-name="ABN Andhra Jyoti" group-title="News" tvg-language="tel" tvg-quality="576p",ABN Andhra Jyoti
 https://cdn.pishow.tv/ott/live/407/master.m3u8
+
+#EXTINF:-1 tvg-id="ABNAndhraJyoti.in" tvg-name="ABN Andhra Jyoti" group-title="News" tvg-language="tel" tvg-quality="576p",ABN Andhra Jyoti
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/687/master.m3u8
 
 #EXTINF:-1 tvg-id="BhakthiTV.in" tvg-name="Bhakthi TV" group-title="Religious" tvg-language="tel" tvg-quality="576i",Bhakthi TV
 https://mumbai-edge.smartplaytv.in/BhakthiTv/index.m3u8
@@ -69,6 +81,10 @@ https://mumt04.tangotv.in/m18aqlK4CVRNEWS/index.m3u8
 https://cdn.pishow.tv/ott/live/957/master.m3u8
 
 #EXTINF:-1 tvg-id="CVROMSpiritual.in" tvg-name="CVR OM Spiritual" group-title="Religious" tvg-language="tel" tvg-quality="576p",CVR OM Spiritual
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/705/master.m3u8
+
+#EXTINF:-1 tvg-id="CVROMSpiritual.in" tvg-name="CVR OM Spiritual" group-title="Religious" tvg-language="tel" tvg-quality="576p",CVR OM Spiritual
 https://mumbai-edge.smartplaytv.in/CVROM/index.m3u8
 
 #EXTINF:-1 tvg-id="CVROMSpiritual.in" tvg-name="CVR OM Spiritual" group-title="Religious" tvg-language="tel" tvg-quality="576p",CVR OM Spiritual
@@ -89,14 +105,15 @@ https://cdn.pishow.tv/ott/live/21/master.m3u8
 #EXTINF:-1 tvg-id="DDYadagiri.in" tvg-name="DD Yadagiri" group-title="General" tvg-language="tel" tvg-quality="504p",DD Yadagiri
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c89fa6d6f5864ac29670d6f91cb7e32a/index.m3u8
 
+#EXTINF:-1 tvg-id="DDYadagiri.in" tvg-name="DD Yadagiri" group-title="General" tvg-language="tel" tvg-quality="576p",DD Yadagiri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/678/master.m3u8
+
 #EXTINF:-1 tvg-id="DisneyJunior.in" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="576p",Disney Junior
 http://103.151.60.162:2122/play/a016/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="DivyavaniTV.in" tvg-name="Divyavani TV" group-title="Religious" tvg-language="tel" tvg-quality="576p",Divyavani TV
 https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
-
-#EXTINF:-1 tvg-id="ETVBalBharat.in" tvg-name="ETV Bal Bharat" group-title="Kids" tvg-language="asm;ben;eng;guj;hin;kan;mal;mar;ori;pan;tam;tel" tvg-quality="576p",ETV Bal Bharat
-http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
 
 #EXTINF:-1 tvg-id="ETVCinema.in" tvg-name="ETV Cinema" group-title="Movies" tvg-language="tel" tvg-quality="396p",ETV Cinema
 https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
@@ -138,6 +155,10 @@ https://yuppnimresmum.akamaized.net/28072023/smil:inews.smil/playlist.m3u8?hdnts
 https://d1msejlow1t3l4.cloudfront.net/fta/mahaabhakti/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MahaaBhakti.in" tvg-name="Mahaa Bhakti" group-title="Religious" tvg-language="tel" tvg-quality="576p",Mahaa Bhakti
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/707/master.m3u8
+
+#EXTINF:-1 tvg-id="MahaaBhakti.in" tvg-name="Mahaa Bhakti" group-title="Religious" tvg-language="tel" tvg-quality="576p",Mahaa Bhakti
 https://mumt01.tangotv.in/O5aw8Zn3MAHABHAKTI/index.m3u8
 
 #EXTINF:-1 tvg-id="MahaaMax.in" tvg-name="Mahaa Max" group-title="Entertainment" tvg-language="tel" tvg-quality="576p",Mahaa Max
@@ -147,10 +168,18 @@ https://cdn.pishow.tv/ott/live/1147/master.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/mahaamax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MahaaMax.in" tvg-name="Mahaa Max" group-title="Entertainment" tvg-language="tel" tvg-quality="576p",Mahaa Max
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/684/master.m3u8
+
+#EXTINF:-1 tvg-id="MahaaMax.in" tvg-name="Mahaa Max" group-title="Entertainment" tvg-language="tel" tvg-quality="576p",Mahaa Max
 https://mumt03.tangotv.in/Dsly5z3HMAHAAMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="MahaaNews.in" tvg-name="Mahaa News" group-title="News" tvg-language="tel" tvg-quality="576i",Mahaa News
 https://cdn.pishow.tv/ott/live/401/master.m3u8
+
+#EXTINF:-1 tvg-id="MahaaNews.in" tvg-name="Mahaa News" group-title="News" tvg-language="tel" tvg-quality="576p",Mahaa News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/689/master.m3u8
 
 #EXTINF:-1 tvg-id="MahaaNews.in" tvg-name="Mahaa News" group-title="News" tvg-language="tel" tvg-quality="576p",Mahaa News
 https://mumt07.tangotv.in/zHjX9OFlMAHAANEWS/index.m3u8
@@ -172,6 +201,10 @@ http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=
 
 #EXTINF:-1 tvg-id="NireekshanaTV.in" tvg-name="Nireekshana TV" group-title="Religious" tvg-language="tel" tvg-quality="576p",Nireekshana TV
 https://cdn.pishow.tv/ott/live/965/master.m3u8
+
+#EXTINF:-1 tvg-id="NireekshanaTV.in" tvg-name="Nireekshana TV" group-title="Religious" tvg-language="tel" tvg-quality="576p",Nireekshana TV
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/706/master.m3u8
 
 #EXTINF:-1 tvg-id="NTVTelugu.in" tvg-name="NTV Telugu" group-title="News" tvg-language="tel" tvg-quality="576i",NTV Telugu
 https://cdn.pishow.tv/ott/live/383/master.m3u8
@@ -234,6 +267,10 @@ https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
 https://d2gvyg6lvauoko.cloudfront.net/230226/studiooneplus/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="StudioOnePlus.in" tvg-name="Studio One +" group-title="Movies" tvg-language="tel" tvg-quality="576p",Studio One +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/213/master.m3u8
+
+#EXTINF:-1 tvg-id="StudioOnePlus.in" tvg-name="Studio One +" group-title="Movies" tvg-language="tel" tvg-quality="576p",Studio One +
 https://mumt04.tangotv.in/m18aqlK4STUDIOONEPLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="StudioOnePlus.in" tvg-name="Studio One +" group-title="Movies" tvg-language="tel" tvg-quality="576p",Studio One +
@@ -249,6 +286,10 @@ https://mumt01.tangotv.in/O5aw8Zn3STUDIOYUVA/index.m3u8
 https://cdn.pishow.tv/ott/live/278/master.m3u8
 
 #EXTINF:-1 tvg-id="SubhavaarthaTV.in" tvg-name="Subhavaartha TV" group-title="Religious" tvg-language="tel" tvg-quality="576p",Subhavaartha TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/301/master.m3u8
+
+#EXTINF:-1 tvg-id="SubhavaarthaTV.in" tvg-name="Subhavaartha TV" group-title="Religious" tvg-language="tel" tvg-quality="576p",Subhavaartha TV
 https://mumt05.tangotv.in/87NeALx2SUBHAVAARTHATV/index.m3u8
 
 #EXTINF:-1 tvg-id="SunGemini.in" tvg-name="Sun Gemini" group-title="General" tvg-language="tel" tvg-quality="576p",Sun Gemini
@@ -259,6 +300,10 @@ http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 
 #EXTINF:-1 tvg-id="SVBC.in" tvg-name="SVBC" group-title="Religious" tvg-language="tel" tvg-quality="576p",SVBC
 https://mumt04.tangotv.in/m18aqlK4SVBCTELUGU/index.m3u8
+
+#EXTINF:-1 tvg-id="TNews.in" tvg-name="T News" group-title="News" tvg-language="tel" tvg-quality="576p",T News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/693/master.m3u8
 
 #EXTINF:-1 tvg-id="TNews.in" tvg-name="T News" group-title="News" tvg-language="tel" tvg-quality="576p",T News
 https://mumbai-edge.smartplaytv.in/TNews/index.m3u8
@@ -295,6 +340,10 @@ https://cdn.pishow.tv/ott/live/389/master.m3u8
 
 #EXTINF:-1 tvg-id="V6News.in" tvg-name="V6 News" group-title="News" tvg-language="tel" tvg-quality="576p",V6 News
 https://d1rc86nwwc9fag.cloudfront.net/140622/v6newsdev/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="V6News.in" tvg-name="V6 News" group-title="News" tvg-language="tel" tvg-quality="576p",V6 News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/694/master.m3u8
 
 #EXTINF:-1 tvg-id="V6News.in" tvg-name="V6 News" group-title="News" tvg-language="tel" tvg-quality="576p",V6 News
 https://mumbai-edge.smartplaytv.in/V6News/index.m3u8

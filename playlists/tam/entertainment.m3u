@@ -87,6 +87,10 @@ https://mumbai-edge.smartplaytv.in/thanthione/index.m3u8
 https://mumt07.tangotv.in/zHjX9OFlTHANTHIONE/index.m3u8
 
 #EXTINF:-1 tvg-id="VasanthTV.in" tvg-name="Vasanth TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Vasanth TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/228/master.m3u8
+
+#EXTINF:-1 tvg-id="VasanthTV.in" tvg-name="Vasanth TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Vasanth TV
 https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8
 
 #EXTINF:-1 tvg-id="VasanthTV.in" tvg-name="Vasanth TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Vasanth TV
@@ -96,13 +100,14 @@ https://mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8
 https://cdn.pishow.tv/ott/live/1271/master.m3u8
 
 #EXTINF:-1 tvg-id="VendharTV.in" tvg-name="Vendhar TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Vendhar TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/223/master.m3u8
+
+#EXTINF:-1 tvg-id="VendharTV.in" tvg-name="Vendhar TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Vendhar TV
 https://mumt04.tangotv.in/m18aqlK4VENDHARTV/index.m3u8
 
 #EXTINF:-1 tvg-id="VendharTV.in" tvg-name="Vendhar TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Vendhar TV
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/VendharTV.m3u8
-
-#EXTINF:-1 tvg-id="YETTV.in" tvg-name="YET TV" group-title="Entertainment" tvg-language="tam" tvg-quality="720p",YET TV
-https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTamil.in" tvg-name="Zee Tamil" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Zee Tamil
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8

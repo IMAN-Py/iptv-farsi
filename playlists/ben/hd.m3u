@@ -41,6 +41,10 @@ https://live.legitpro.co.in/ctvnakdplus/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="ben;bho;eng;hin;kan;sgn;tam;tel" tvg-quality="1080p",DD Sports
 https://cdn.pishow.tv/ott/live/1161/master.m3u8
 
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="ben;bho;eng;hin;kan;sgn;tam;tel" tvg-quality="1080p",DD Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/280/master.m3u8
+
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="ben;bho;eng;hin;kan;sgn;tam;tel" tvg-quality="720p",DD Sports
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 
@@ -89,9 +93,6 @@ https://distro.ottlive.co.in/headlinestripura/headlinestripura/index.m3u8
 
 #EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies" group-title="Movies" tvg-language="ben" tvg-quality="1080p",Jalsha Movies
 http://103.151.60.162:2122/play/a00x/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies" group-title="Movies" tvg-language="ben" tvg-quality="1080p",Jalsha Movies
-http://103.185.24.134:3001/JALSHA-MOVIES-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="JonmoBhumiTV.au" tvg-name="JonmoBhumi TV" group-title="General" tvg-language="ben" tvg-quality="720p",JonmoBhumi TV
 https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8

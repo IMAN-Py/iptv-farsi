@@ -595,6 +595,9 @@ http://190.61.55.34:2401/play/a06t/index.m3u8
 #EXTINF:-1 tvg-id="TheCabbinFM.ar" tvg-name="The Cabbin FM" group-title="Music" tvg-language="spa" tvg-quality="720p",The Cabbin FM
 https://5f700d5b2c46f.streamlock.net/thecabinn/thecabinn/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-name="Top Latino TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Top Latino TV
+http://38.87.224.20:2220/play/a02b/index.m3u8
+
 #EXTINF:-1 tvg-id="TopicalMoonRD.do" tvg-name="Topical Moon RD" group-title="Music" tvg-language="spa" tvg-quality="720p",Topical Moon RD
 https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8
 

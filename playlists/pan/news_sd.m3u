@@ -1,6 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ABPSanjha.in" tvg-name="ABP Sanjha" group-title="News" tvg-language="pan" tvg-quality="576p",ABP Sanjha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/641/master.m3u8
+
 #EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV" group-title="News" tvg-language="pan" tvg-quality="576i",Chardikla Time TV
 https://cdn.pishow.tv/ott/live/1627/master.m3u8
+
+#EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV" group-title="News" tvg-language="pan" tvg-quality="576p",Chardikla Time TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/645/master.m3u8
 
 #EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV" group-title="News" tvg-language="pan" tvg-quality="576p",Chardikla Time TV
 https://mumt07.tangotv.in/zHjX9OFlCHARDIKALATIMETV/index.m3u8
@@ -14,6 +22,14 @@ https://streams.tangotv.in/DAILYPOST/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="GTCNews.in" tvg-name="GTC News" group-title="News" tvg-language="pan" tvg-quality="576p",GTC News
 https://mumt03.tangotv.in/Dsly5z3HGTCNEWS/index.m3u8
 
+#EXTINF:-1 tvg-id="GulistanNews.in" tvg-name="Gulistan News" group-title="News" tvg-language="pan" tvg-quality="576p",Gulistan News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/427/master.m3u8
+
+#EXTINF:-1 tvg-id="IndiaNewsPunjabHimachal.in" tvg-name="India News Punjab/Himachal" group-title="News" tvg-language="pan" tvg-quality="576p",India News Punjab/Himachal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/642/master.m3u8
+
 #EXTINF:-1 tvg-id="IndiaNewsPunjabHimachal.in" tvg-name="India News Punjab/Himachal" group-title="News" tvg-language="pan" tvg-quality="576p",India News Punjab/Himachal
 https://mumt03.tangotv.in/Dsly5z3HINDIANEWSPBHPJ&K/index.m3u8
 
@@ -22,6 +38,10 @@ https://cdn.pishow.tv/ott/live/324/master.m3u8
 
 #EXTINF:-1 tvg-id="LivingIndiaNews.in" tvg-name="Living India News" group-title="News" tvg-language="pan" tvg-quality="576p",Living India News
 https://streams.tangotv.in/LIVINGINDIANEWS/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="Mh1News.in" tvg-name="Mh 1 News" group-title="News" tvg-language="pan" tvg-quality="576p",Mh 1 News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/643/master.m3u8
 
 #EXTINF:-1 tvg-id="Mh1News.in" tvg-name="Mh 1 News" group-title="News" tvg-language="pan" tvg-quality="360p",Mh 1 News
 https://livestream.jswk.online/mhonenews/live/index.m3u8
@@ -35,8 +55,16 @@ https://mumt04.tangotv.in/m18aqlK4MHONENEWS/index.m3u8
 #EXTINF:-1 tvg-id="Mh1News.in" tvg-name="Mh 1 News" group-title="News" tvg-language="pan" tvg-quality="576p",Mh 1 News
 https://streams.tangotv.in/MHONENEWS/ORIGIN/index.m3u8
 
+#EXTINF:-1 tvg-id="NewsStatePunjabHaryanaHimachal.in" tvg-name="News State Punjab Haryana Himachal" group-title="News" tvg-language="hin;pan" tvg-quality="576p",News State Punjab Haryana Himachal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/732/master.m3u8
+
 #EXTINF:-1 tvg-id="PTCNews.in" tvg-name="PTC News" group-title="News" tvg-language="pan" tvg-quality="576p",PTC News
 https://cdn.pishow.tv/ott/live/1502/master.m3u8
+
+#EXTINF:-1 tvg-id="PTCNews.in" tvg-name="PTC News" group-title="News" tvg-language="pan" tvg-quality="576p",PTC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/182/master.m3u8
 
 #EXTINF:-1 tvg-id="PTCNews.in" tvg-name="PTC News" group-title="News" tvg-language="pan" tvg-quality="576p",PTC News
 https://mumt06.tangotv.in/qYyB8fXVPTCNEWS/index.m3u8

@@ -4,7 +4,7 @@
 
 Find free Bengali live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**103 channels · 163 stream entries**
+**102 channels · 173 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 163 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
+| All channels | 173 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
 | HD | 82 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/hd.m3u` |
-| SD / unknown | 81 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sd.m3u` |
+| SD / unknown | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,19 +25,19 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sports.m3u` |
-| Movies | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/movies.m3u` |
-| News | 25 | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/news.m3u` |
-| Music | 5 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/music.m3u` |
-| Kids | 6 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/kids.m3u` |
-| Entertainment | 17 | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/entertainment.m3u` |
+| Sports | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sports.m3u` |
+| Movies | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/movies.m3u` |
+| News | 25 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/news.m3u` |
+| Music | 5 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/music.m3u` |
+| Kids | 5 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/kids.m3u` |
+| Entertainment | 17 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/entertainment.m3u` |
 | Animation | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/animation.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/business.m3u` |
 | Classic | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/classic.m3u` |
 | Culture | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/culture.m3u` |
 | Education | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/education.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/family.m3u` |
-| General | 19 | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/general.m3u` |
+| General | 19 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/general.m3u` |
 | Religious | 10 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/religious.m3u` |
 | Travel | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/travel.m3u` |
 
@@ -49,7 +49,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | --- | --- | --- | ---: |
 | Aakaash Aath | AakaashAath.in | 576p | 3 |
 | Aamar Bangla | AamarBangla.in | 720p | 1 |
-| ABP Ananda | ABPAnanda.in | 1080p | 1 |
+| ABP Ananda | ABPAnanda.in | 1080p, 576p | 2 |
 | AKD Calcutta News | AKDCalcuttaNews.in | 1080p, 576p | 3 |
 | Akhon Kolkata | AkhonKolkata.in | 478p | 1 |
 | Ananda Barta | AnandaBarta.in | 720p | 1 |
@@ -69,20 +69,19 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Colors Bangla Cinema | ColorsBanglaCinema.in | 576p | 1 |
 | CTVN AKD Plus | CTVNAKDPlus.in | 1080p, 576p | 3 |
 | DBC News | DBCNews.bd | 480p | 1 |
-| DD Bangla | DDBangla.in | 504p, 576i | 2 |
-| DD Sports | DDSports.in | 1080p, 720p | 2 |
-| DD Tripura | DDTripura.in | 504p | 1 |
+| DD Bangla | DDBangla.in | 504p, 576i, 576p | 3 |
+| DD Sports | DDSports.in | 1080p, 720p | 3 |
+| DD Tripura | DDTripura.in | 504p, 576p | 2 |
 | Deen TV | DeenTV.uk | 576p | 2 |
 | DesheBideshe TV | DesheBidesheTV.ca | 480i | 1 |
 | Deshi TV | DeshiTV.ca | 720p | 1 |
-| Dhoom Music | DhoomMusic.in | 576p, 720p | 2 |
+| Dhoom Music | DhoomMusic.in | 576p, 720p | 3 |
 | Discovery Channel | DiscoveryChannel.in | 720p | 2 |
 | Doyel TV | DoyelTV.ca | 480i | 1 |
 | Duronto TV | DurontoTV.bd | 720p | 2 |
 | Ekhon TV | EkhonTV.bd | 1080p | 1 |
 | Ekushey TV | EkusheyTV.bd | 480p | 1 |
-| Enterr 10 Bangla | Enterr10Bangla.in | 576p, 720p | 6 |
-| ETV Bal Bharat | ETVBalBharat.in | 576p | 1 |
+| Enterr 10 Bangla | Enterr10Bangla.in | 576p, 720p | 7 |
 | Friends TV | FriendsTV.in | 1080p | 1 |
 | Gazi TV | GaziTV.bd | 1080p, 576i | 2 |
 | Globe TV | GlobeTV.in | 720p | 1 |
@@ -91,10 +90,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | High News | HighNews.in | 480p | 1 |
 | Ion TV | IonTV.uk | 576p | 1 |
 | Iqra Bangla | IqraBangla.uk | 576p | 1 |
-| Jalsha Movies | JalshaMovies.in | 1080p | 2 |
+| Jalsha Movies | JalshaMovies.in | 1080p | 1 |
 | JonmoBhumi TV | JonmoBhumiTV.au | 720p | 1 |
 | JTBS Classic | JTBSClassic.in | 480p | 1 |
-| Khushboo Bangla | KhushbooBangla.in | 576p, 720p | 3 |
+| Khushboo Bangla | KhushbooBangla.in | 576p, 720p | 4 |
 | Kolkata TV | KolkataTV.in | 1080p, 576p | 4 |
 | KTV Bangla | KTVBangla.in | 720p | 1 |
 | Maasranga TV | MaasrangaTV.bd | 720p | 2 |
@@ -117,14 +116,14 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Orange Bangla TV | OrangeBanglaTV.in | 720p | 1 |
 | Peace TV Bangla | PeaceTVBangla.ae | 1080p | 1 |
 | Probashi TV News | ProbashiTVNews.ca | 1080p | 1 |
-| R Plus | RPlus.in | 576p, 768p | 2 |
-| R Plus Gold | RPlusGold.in | 576p, 720p | 3 |
+| R Plus | RPlus.in | 576p, 768p | 3 |
+| R Plus Gold | RPlusGold.in | 576p, 720p | 4 |
 | Raatdin Bangla | RaatdinBangla.in | 720p | 1 |
 | Rajdhani TV | RajdhaniTV.bd | 1080p | 1 |
-| Republic Bangla | RepublicBangla.in | 576i, 576p | 2 |
+| Republic Bangla | RepublicBangla.in | 576i, 576p | 3 |
 | RTV | RTV.bd | 480p, 720p | 4 |
 | Rupashi Bangla TV | RupashiBanglaTV.bd | 720p | 1 |
-| Rupasi Bangla | RupasiBangla.in | 576p, 720p | 5 |
+| Rupasi Bangla | RupasiBangla.in | 576p, 720p | 6 |
 | Samay Kolkata | SamayKolkata.in | 1080p, 720p | 2 |
 | Sangeet Bangla | SangeetBangla.in | 576p, 720p | 4 |
 | Shiksha TV | ShikshaTV.in | 720p | 1 |
@@ -138,7 +137,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Star Sports Select 1 | StarSportsSelect1.in | 1080p | 1 |
 | T Sports | TSports.bd | 1080p | 1 |
 | Travelxp | Travelxp.in | 1080p, 2160p | 3 |
-| TV9 Bangla | TV9Bangla.in | 576p, 720p | 3 |
+| TV9 Bangla | TV9Bangla.in | 576p, 720p | 4 |
 | U Bangla | UBangla.in | 1080p | 1 |
 | Vokta TV | VoktaTV.bd | 720p | 1 |
 | ZB Bhakti | ZBBhakti.in | 720p | 1 |

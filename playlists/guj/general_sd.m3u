@@ -2,3 +2,7 @@
 #EXTINF:-1 tvg-id="DDGirnar.in" tvg-name="DD Girnar" group-title="General" tvg-language="guj" tvg-quality="504p",DD Girnar
 https://d2lk5u59tns74c.cloudfront.net/out/v1/558fdb9aebb54bb5bbbf0ced03686148/index.m3u8
 
+#EXTINF:-1 tvg-id="DDGirnar.in" tvg-name="DD Girnar" group-title="General" tvg-language="guj" tvg-quality="576p",DD Girnar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/368/master.m3u8
+

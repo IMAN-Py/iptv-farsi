@@ -14,6 +14,9 @@ https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3
 #EXTINF:-1 tvg-id="BanatTV.ro" tvg-name="Banat TV" group-title="General" tvg-language="ron" tvg-quality="576i",Banat TV
 https://www.btv.ro/hls/banat-tv.m3u8
 
+#EXTINF:-1 tvg-id="BihorTV.ro" tvg-name="Bihor TV" group-title="General" tvg-language="ron" tvg-quality="576p",Bihor TV
+https://bihor-tv.ro/hls/bihortv.m3u8
+
 #EXTINF:-1 tvg-id="ColumnaTV.ro" tvg-name="Columna TV" group-title="General" tvg-language="ron" tvg-quality="576i",Columna TV
 https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
 
@@ -38,9 +41,8 @@ https://live.intermediatv.ro/ram/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalD.ro" tvg-name="Kanal D" group-title="General" tvg-language="ron" tvg-quality="480p",Kanal D
 https://stream1.kanald.ro/iphone/knd-live.m3u8
 
-#EXTINF:-1 tvg-id="KapitalTV.ro" tvg-name="Kapital TV" group-title="General" tvg-language="ron" tvg-quality="1080p",Kapital TV
-#EXTVLCOPT:http-referrer=https://kapitaltv.ro/
-https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8
+#EXTINF:-1 tvg-id="KapitalTV.ro" tvg-name="Kapital TV" group-title="General" tvg-language="ron" tvg-quality="576i",Kapital TV
+https://hls02ns.antenaplay.ro/hls/kapital-tv-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="MetropolaTV.ro" tvg-name="Metropola TV" group-title="General" tvg-language="ron" tvg-quality="1080p",Metropola TV
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
@@ -68,6 +70,9 @@ https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="NationalTV.ro" tvg-name="National TV" group-title="General" tvg-language="ron" tvg-quality="576i",National TV
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="NCN.ro" tvg-name="NCN" group-title="General" tvg-language="ron" tvg-quality="576p",NCN
+https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="NovaTVBrasov.ro" tvg-name="Nova TV Brasov" group-title="General" tvg-language="ron" tvg-quality="576p",Nova TV Brasov
 http://novapress.ro:2022/live/nova/playlist.m3u8

@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="hin" tvg-quality="576p",DD Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/64/64_0.m3u8
+
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="hin" tvg-quality="576p",DD Sports
 https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8
 
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="hin" tvg-quality="576p",DD Sports

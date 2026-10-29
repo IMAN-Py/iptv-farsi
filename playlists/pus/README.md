@@ -4,7 +4,7 @@
 
 Find free Pashto live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**22 channels · 25 stream entries**
+**23 channels · 26 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/pus/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/pus/all.m3u` |
-| HD | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/pus/hd.m3u` |
+| All channels | 26 | `https://iman-py.github.io/open-tv-atlas/playlists/pus/all.m3u` |
+| HD | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/pus/hd.m3u` |
 | SD / unknown | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/pus/sd.m3u` |
 
 <a id="categories"></a>
@@ -55,6 +55,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Pamir TV | PamirTV.ca | 1080p | 1 |
 | Pashto 1 | Pashto1.pk | 1080p | 1 |
 | Payam-e-Afghan TV | PayameAfghanTV.us | 480p | 1 |
+| RTA Education | RTAEducation.af | 1080p | 1 |
 | Shams TV | ShamsTV.af | 576i | 1 |
 | Shamshad TV | ShamshadTV.af | 576i | 1 |
 | Sharq Radio TV | SharqRadioTV.af | 1080p | 1 |

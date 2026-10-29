@@ -6,6 +6,10 @@ https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8
 https://cdn.pishow.tv/ott/live/1470/master.m3u8
 
 #EXTINF:-1 tvg-id="KalingaTV.in" tvg-name="Kalinga TV" group-title="News" tvg-language="ori" tvg-quality="576p",Kalinga TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/386/master.m3u8
+
+#EXTINF:-1 tvg-id="KalingaTV.in" tvg-name="Kalinga TV" group-title="News" tvg-language="ori" tvg-quality="576p",Kalinga TV
 https://mumbai-edge.smartplaytv.in/kalingatv/index.m3u8
 
 #EXTINF:-1 tvg-id="KalingaTV.in" tvg-name="Kalinga TV" group-title="News" tvg-language="ori" tvg-quality="576p",Kalinga TV
@@ -15,7 +19,15 @@ https://mumt01.tangotv.in/O5aw8Zn3KALINGATV/index.m3u8
 https://server.thelegitpro.in/kalingatv/kalingatv/index.m3u8
 
 #EXTINF:-1 tvg-id="KanakNews.in" tvg-name="Kanak News" group-title="News" tvg-language="ori" tvg-quality="576p",Kanak News
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/669/master.m3u8
+
+#EXTINF:-1 tvg-id="KanakNews.in" tvg-name="Kanak News" group-title="News" tvg-language="ori" tvg-quality="576p",Kanak News
 https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8
+
+#EXTINF:-1 tvg-id="NaxatraNews.in" tvg-name="Naxatra News" group-title="News" tvg-language="ori" tvg-quality="576p",Naxatra News
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/668/master.m3u8
 
 #EXTINF:-1 tvg-id="News18Odia.in" tvg-name="News18 Odia" group-title="News" tvg-language="ori" tvg-quality="1080p",News18 Odia
 https://mumbai-edge.smartplaytv.in/news18odiya/index.m3u8

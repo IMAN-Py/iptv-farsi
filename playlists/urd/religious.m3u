@@ -6,6 +6,10 @@ https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 https://cdn.pishow.tv/ott/live/229/master.m3u8
 
 #EXTINF:-1 tvg-id="ChannelWIN.in" tvg-name="Channel WIN" group-title="Religious" tvg-language="urd" tvg-quality="576p",Channel WIN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/648/master.m3u8
+
+#EXTINF:-1 tvg-id="ChannelWIN.in" tvg-name="Channel WIN" group-title="Religious" tvg-language="urd" tvg-quality="576p",Channel WIN
 https://mumt05.tangotv.in/87NeALx2CHANNELWIN/index.m3u8
 
 #EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-name="God Stands Kids Club TV" group-title="Kids;Religious" tvg-language="urd" tvg-quality="480i",God Stands Kids Club TV

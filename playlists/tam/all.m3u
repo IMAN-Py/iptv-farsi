@@ -3,6 +3,10 @@
 https://cdn.pishow.tv/ott/live/1257/master.m3u8
 
 #EXTINF:-1 tvg-id="7SMusic.in" tvg-name="7S Music" group-title="Music" tvg-language="tam" tvg-quality="576p",7S Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/771/master.m3u8
+
+#EXTINF:-1 tvg-id="7SMusic.in" tvg-name="7S Music" group-title="Music" tvg-language="tam" tvg-quality="576p",7S Music
 https://mumbai-edge.smartplaytv.in/7SMusic/index.m3u8
 
 #EXTINF:-1 tvg-id="7SMusic.in" tvg-name="7S Music" group-title="Music" tvg-language="tam" tvg-quality="360p",7S Music
@@ -84,6 +88,10 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="ben;bho;eng;hin;kan;sgn;tam;tel" tvg-quality="1080p",DD Sports
 https://cdn.pishow.tv/ott/live/1161/master.m3u8
 
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="ben;bho;eng;hin;kan;sgn;tam;tel" tvg-quality="1080p",DD Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/280/master.m3u8
+
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="ben;bho;eng;hin;kan;sgn;tam;tel" tvg-quality="720p",DD Sports
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 
@@ -92,6 +100,10 @@ https://cdn.pishow.tv/ott/live/1737/master.m3u8
 
 #EXTINF:-1 tvg-id="DDTamil.in" tvg-name="DD Tamil" group-title="General" tvg-language="tam" tvg-quality="1080p",DD Tamil
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+
+#EXTINF:-1 tvg-id="DDTamil.in" tvg-name="DD Tamil" group-title="General" tvg-language="tam" tvg-quality="576p",DD Tamil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/679/master.m3u8
 
 #EXTINF:-1 tvg-id="DharsanTV.in" tvg-name="Dharsan TV" group-title="Religious" tvg-language="tam" tvg-quality="720p",Dharsan TV
 https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8
@@ -116,9 +128,6 @@ http://103.151.60.162:2122/play/a016/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="EETTV.ca" tvg-name="EET TV" group-title="Culture" tvg-language="eng;tam" tvg-quality="1080p",EET TV
 https://eu.streamjo.com/eetlive/eettv.m3u8
-
-#EXTINF:-1 tvg-id="ETVBalBharat.in" tvg-name="ETV Bal Bharat" group-title="Kids" tvg-language="asm;ben;eng;guj;hin;kan;mal;mar;ori;pan;tam;tel" tvg-quality="576p",ETV Bal Bharat
-http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
 
 #EXTINF:-1 tvg-id="HebronTV.in" tvg-name="Hebron TV" group-title="Religious" tvg-language="tam" tvg-quality="1080p",Hebron TV
 https://account20.livebox.co.in/charleshls/live.m3u8
@@ -196,6 +205,10 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://cdn.pishow.tv/ott/live/1476/master.m3u8
 
 #EXTINF:-1 tvg-id="MadhimugamTV.in" tvg-name="Madhimugam TV" group-title="News" tvg-language="tam" tvg-quality="576p",Madhimugam TV
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/711/master.m3u8
+
+#EXTINF:-1 tvg-id="MadhimugamTV.in" tvg-name="Madhimugam TV" group-title="News" tvg-language="tam" tvg-quality="576p",Madhimugam TV
 https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8
 
 #EXTINF:-1 tvg-id="MadhimugamTV.in" tvg-name="Madhimugam TV" group-title="News" tvg-language="tam" tvg-quality="576p",Madhimugam TV
@@ -208,6 +221,10 @@ https://mahimai.iptelevision.live/mahimaitv/video.m3u8
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="Makkal TV" group-title="General" tvg-language="tam" tvg-quality="576p",Makkal TV
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/683/master.m3u8
+
+#EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="Makkal TV" group-title="General" tvg-language="tam" tvg-quality="576p",Makkal TV
 https://mumbai-edge.smartplaytv.in/MakkalTV/index.m3u8
 
 #EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="Makkal TV" group-title="General" tvg-language="tam" tvg-quality="576p",Makkal TV
@@ -218,6 +235,10 @@ https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-a
 
 #EXTINF:-1 tvg-id="MalaiMurasuTV.in" tvg-name="Malai Murasu TV" group-title="News" tvg-language="tam" tvg-quality="720p",Malai Murasu TV
 https://cdn.pishow.tv/ott/live/1606/master.m3u8
+
+#EXTINF:-1 tvg-id="MalaiMurasuTV.in" tvg-name="Malai Murasu TV" group-title="News" tvg-language="tam" tvg-quality="576p",Malai Murasu TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/690/master.m3u8
 
 #EXTINF:-1 tvg-id="MalaiMurasuTV.in" tvg-name="Malai Murasu TV" group-title="News" tvg-language="tam" tvg-quality="576p",Malai Murasu TV
 https://mumt04.tangotv.in/m18aqlK4MALAIMURASUSEITHIGAL/index.m3u8
@@ -566,6 +587,10 @@ https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3VAANAVILTV/index.m3u8
 
 #EXTINF:-1 tvg-id="VasanthTV.in" tvg-name="Vasanth TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Vasanth TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/228/master.m3u8
+
+#EXTINF:-1 tvg-id="VasanthTV.in" tvg-name="Vasanth TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Vasanth TV
 https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8
 
 #EXTINF:-1 tvg-id="VasanthTV.in" tvg-name="Vasanth TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Vasanth TV
@@ -582,6 +607,10 @@ https://mumt05.tangotv.in/87NeALx2VALICHAMPLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="VendharTV.in" tvg-name="Vendhar TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Vendhar TV
 https://cdn.pishow.tv/ott/live/1271/master.m3u8
+
+#EXTINF:-1 tvg-id="VendharTV.in" tvg-name="Vendhar TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Vendhar TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/223/master.m3u8
 
 #EXTINF:-1 tvg-id="VendharTV.in" tvg-name="Vendhar TV" group-title="Entertainment" tvg-language="tam" tvg-quality="576p",Vendhar TV
 https://mumt04.tangotv.in/m18aqlK4VENDHARTV/index.m3u8
@@ -612,12 +641,6 @@ https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8
 
 #EXTINF:-1 tvg-id="WOWKidz.in" tvg-name="WOW Kidz" group-title="Animation;Kids" tvg-language="tam" tvg-quality="720p",WOW Kidz
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-
-#EXTINF:-1 tvg-id="YETMax.in" tvg-name="YET Max" group-title="Music" tvg-language="tam" tvg-quality="720p",YET Max
-https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8
-
-#EXTINF:-1 tvg-id="YETTV.in" tvg-name="YET TV" group-title="Entertainment" tvg-language="tam" tvg-quality="720p",YET TV
-https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTamil.in" tvg-name="Zee Tamil" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Zee Tamil
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8

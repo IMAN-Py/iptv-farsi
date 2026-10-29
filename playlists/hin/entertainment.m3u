@@ -9,10 +9,18 @@ https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
 https://cdn.pishow.tv/ott/live/993/master.m3u8
 
 #EXTINF:-1 tvg-id="AnjanTV.in" tvg-name="Anjan TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Anjan TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/20/master.m3u8
+
+#EXTINF:-1 tvg-id="AnjanTV.in" tvg-name="Anjan TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Anjan TV
 https://mumt06.tangotv.in/qYyB8fXVANJANTV/index.m3u8
 
 #EXTINF:-1 tvg-id="AnmolTV.in" tvg-name="Anmol TV" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Anmol TV
 https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="AnmolTV.in" tvg-name="Anmol TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Anmol TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/256/master.m3u8
 
 #EXTINF:-1 tvg-id="ApnaPunjabTV.ca" tvg-name="Apna Punjab TV" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Apna Punjab TV
 https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
@@ -31,6 +39,10 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dangal2.in" tvg-name="Dangal 2" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Dangal 2
 http://107.167.16.138/Dangal2/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Dangal2.in" tvg-name="Dangal 2" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Dangal 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/18/master.m3u8
 
 #EXTINF:-1 tvg-id="Dangal2.in" tvg-name="Dangal 2" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Dangal 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
@@ -51,6 +63,10 @@ https://cdn.pishow.tv/ott/live/11/master.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 
 #EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",DD National
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/15/master.m3u8
+
+#EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",DD National
 https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
 
 #EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",DD National
@@ -64,6 +80,10 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="720p",Discovery Channel
 https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="E24.in" tvg-name="E 24" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",E 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/159/master.m3u8
 
 #EXTINF:-1 tvg-id="E24.in" tvg-name="E 24" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",E 24
 https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
@@ -87,6 +107,10 @@ https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://cdn.pishow.tv/ott/live/1221/master.m3u8
 
 #EXTINF:-1 tvg-id="GangaurTV.in" tvg-name="Gangaur TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Gangaur TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/22/master.m3u8
+
+#EXTINF:-1 tvg-id="GangaurTV.in" tvg-name="Gangaur TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Gangaur TV
 https://mumt04.tangotv.in/m18aqlK4GANGAURTV/index.m3u8
 
 #EXTINF:-1 tvg-id="GangaurTV.in" tvg-name="Gangaur TV" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",Gangaur TV
@@ -99,6 +123,10 @@ https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
 https://cdn.pishow.tv/ott/live/1013/master.m3u8
 
 #EXTINF:-1 tvg-id="ManoranjanTV.in" tvg-name="Manoranjan TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Manoranjan TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/23/master.m3u8
+
+#EXTINF:-1 tvg-id="ManoranjanTV.in" tvg-name="Manoranjan TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Manoranjan TV
 https://mumt04.tangotv.in/m18aqlK4MANORANJANTV/index.m3u8
 
 #EXTINF:-1 tvg-id="ManoranjanTV.in" tvg-name="Manoranjan TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Manoranjan TV
@@ -106,6 +134,10 @@ https://streams.tangotv.in/MANORANJANTV/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="ManoranjanTV.in" tvg-name="Manoranjan TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Manoranjan TV
 https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8
+
+#EXTINF:-1 tvg-id="MHOneDilSe.in" tvg-name="MH One Dil Se" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",MH One Dil Se
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/351/master.m3u8
 
 #EXTINF:-1 tvg-id="MHOneDilSe.in" tvg-name="MH One Dil Se" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",MH One Dil Se
 https://mumt01.tangotv.in/O5aw8Zn3MHONEDILSE/index.m3u8
@@ -128,6 +160,10 @@ https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/in
 https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 
 #EXTINF:-1 tvg-id="QTV.in" tvg-name="Q TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Q TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/25/master.m3u8
+
+#EXTINF:-1 tvg-id="QTV.in" tvg-name="Q TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Q TV
 https://mumt05.tangotv.in/87NeALx2THEQ/index.m3u8
 
 #EXTINF:-1 tvg-id="QTV.in" tvg-name="Q TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Q TV
@@ -143,6 +179,10 @@ https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 https://cdn.pishow.tv/ott/live/230/master.m3u8
 
 #EXTINF:-1 tvg-id="ShemarooTV.in" tvg-name="Shemaroo TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Shemaroo TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/274/master.m3u8
+
+#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-name="Shemaroo TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Shemaroo TV
 https://mumt06.tangotv.in/qYyB8fXVSHEMAROOTV/index.m3u8
 
 #EXTINF:-1 tvg-id="ShemarooTV.in" tvg-name="Shemaroo TV" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Shemaroo TV
@@ -153,6 +193,10 @@ https://tvsen3.aynaott.com/27jCLCUX/index.m3u8
 
 #EXTINF:-1 tvg-id="ShemarooUmang.in" tvg-name="Shemaroo Umang" group-title="Entertainment" tvg-language="hin" tvg-quality="720p",Shemaroo Umang
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShemarooUmang.in" tvg-name="Shemaroo Umang" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Shemaroo Umang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/258/master.m3u8
 
 #EXTINF:-1 tvg-id="ShemarooUmang.in" tvg-name="Shemaroo Umang" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",Shemaroo Umang
 https://mumt04.tangotv.in/m18aqlK4SHEMAROOUMANG/index.m3u8
@@ -195,6 +239,10 @@ http://103.151.60.162:2122/play/a0fo/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="StarPlus.uk" tvg-name="StarPlus" group-title="Entertainment" tvg-language="hin" tvg-quality="576p",StarPlus
 https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
+
+#EXTINF:-1 tvg-id="UniqueTV.in" tvg-name="Unique TV" group-title="Entertainment;Kids" tvg-language="hin" tvg-quality="576p",Unique TV
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/688/master.m3u8
 
 #EXTINF:-1 tvg-id="UniqueTV.in" tvg-name="Unique TV" group-title="Entertainment;Kids" tvg-language="hin" tvg-quality="576p",Unique TV
 https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8

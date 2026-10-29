@@ -747,6 +747,10 @@ https://stream.dbstvstlucia.com/hls/dbstv_main.m3u8
 #EXTINF:-1 tvg-id="DDAssam.in" tvg-name="DD Assam" group-title="General" tvg-language="asm;eng" tvg-quality="504p",DD Assam
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
 
+#EXTINF:-1 tvg-id="DDAssam.in" tvg-name="DD Assam" group-title="General" tvg-language="asm;eng" tvg-quality="576p",DD Assam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/672/master.m3u8
+
 #EXTINF:-1 tvg-id="DDIndia.in" tvg-name="DD India" group-title="General" tvg-language="eng" tvg-quality="576p",DD India
 https://cdn.pishow.tv/ott/live/23/master.m3u8
 
@@ -760,6 +764,10 @@ https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/playlist.m3u8?hdnts=st=1735
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
 
 #EXTINF:-1 tvg-id="DDIndia.in" tvg-name="DD India" group-title="General" tvg-language="eng" tvg-quality="1080p",DD India
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/119/119_0.m3u8
+
+#EXTINF:-1 tvg-id="DDIndia.in" tvg-name="DD India" group-title="General" tvg-language="eng" tvg-quality="1080p",DD India
 https://mumbai-edge.smartplaytv.in/DDIndia/index.m3u8
 
 #EXTINF:-1 tvg-id="DDIndia.in" tvg-name="DD India" group-title="General" tvg-language="eng" tvg-quality="576p",DD India
@@ -770,6 +778,10 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/in
 
 #EXTINF:-1 tvg-id="DDNagaland.in" tvg-name="DD Nagaland" group-title="General" tvg-language="eng" tvg-quality="504p",DD Nagaland
 https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8
+
+#EXTINF:-1 tvg-id="DDNagaland.in" tvg-name="DD Nagaland" group-title="General" tvg-language="eng" tvg-quality="576p",DD Nagaland
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/670/master.m3u8
 
 #EXTINF:-1 tvg-id="DDUrdu.in" tvg-name="DD Urdu" group-title="General" tvg-language="eng;hin;urd" tvg-quality="720p",DD Urdu
 https://cdn.pishow.tv/ott/live/8/master.m3u8
@@ -1239,6 +1251,9 @@ https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
 
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="720p",NBC
 https://townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u8
+
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080p",NBC
+https://video.tegnaone.com/wkyc/live/v1/manifest/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WKYC-Production/d39cf8a9-40a6-4cba-85f7-6c9d633843b3/2.m3u8
 
 #EXTINF:-1 tvg-id="NBC1.na" tvg-name="NBC 1" group-title="General" tvg-language="afr;deu;eng" tvg-quality="576i",NBC 1
 https://hls2.nbcplus.na/hls/high_nbc1.m3u8

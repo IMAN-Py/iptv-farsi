@@ -4,7 +4,7 @@
 
 Browse live business channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**66 channels · 124 stream entries**
+**66 channels · 125 stream entries**
 
 ## All languages
 
@@ -35,7 +35,7 @@ https://iman-py.github.io/open-tv-atlas/categories/business.m3u
 | [Mongolian](../playlists/mon/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mon/business.m3u` |
 | [Polish](../playlists/pol/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/business.m3u` |
 | [Portuguese](../playlists/por/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/business.m3u` |
-| [Romanian](../playlists/ron/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/business.m3u` |
+| [Romanian](../playlists/ron/README.md) | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/business.m3u` |
 | [Russian](../playlists/rus/README.md) | 4 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/business.m3u` |
 | [Spanish](../playlists/spa/README.md) | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/business.m3u` |
 | [Turkish](../playlists/tur/README.md) | 2 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/business.m3u` |

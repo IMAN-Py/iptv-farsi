@@ -115,6 +115,9 @@ https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 #EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" group-title="Education" tvg-language="spa" tvg-quality="1080p",Zoom
 http://138.121.15.230:9002/ZOOM/index.m3u8
 
+#EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" group-title="Education" tvg-language="spa" tvg-quality="480i",Zoom
+http://181.78.79.131:8000/play/a0sg
+
 #EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" group-title="Education" tvg-language="spa" tvg-quality="1080p",Zoom
 http://190.217.66.92:8000/play/a0ej/index.m3u8
 

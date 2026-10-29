@@ -493,6 +493,14 @@ https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ExploitsTV.ci" tvg-name="Exploits TV" group-title="Religious" tvg-language="fra" tvg-quality="576i",Exploits TV
 https://stream.berosat.live/hls/exploits-tv/exploits-tv.m3u8
 
+#EXTINF:-1 tvg-id="FashionTV.in" tvg-name="FashionTV" group-title="Lifestyle" tvg-language="fra" tvg-quality="576p",FashionTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/144/144_0.m3u8
+
+#EXTINF:-1 tvg-id="FashionTV.in" tvg-name="FashionTV" group-title="Lifestyle" tvg-language="fra" tvg-quality="576p",FashionTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/332/master.m3u8
+
 #EXTINF:-1 tvg-id="FashionTV.ru" tvg-name="FashionTV" group-title="Lifestyle" tvg-language="fra" tvg-quality="1080p",FashionTV
 http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 
@@ -733,6 +741,9 @@ https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-name="L'Equipe" group-title="Sports" tvg-language="fra" tvg-quality="1080p",L'Equipe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
+
+#EXTINF:-1 tvg-id="LaUne.be" tvg-name="La Une" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",La Une
+http://41.205.93.154/LA-UNE/index.m3u8
 
 #EXTINF:-1 tvg-id="LauraDaveMediaTV.cm" tvg-name="Laura Dave Media TV" group-title="General" tvg-language="fra" tvg-quality="720p",Laura Dave Media TV
 https://streaming.lauradavemedia.com/ldm/index.m3u8

@@ -5,6 +5,10 @@ https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DangalTV.in" tvg-name="Dangal TV" group-title="General" tvg-language="hin" tvg-quality="576p",Dangal TV
 https://cdn.pishow.tv/ott/live/1141/master.m3u8
 
+#EXTINF:-1 tvg-id="DangalTV.in" tvg-name="Dangal TV" group-title="General" tvg-language="hin" tvg-quality="576p",Dangal TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/17/master.m3u8
+
 #EXTINF:-1 tvg-id="DangalTV.in" tvg-name="Dangal TV" group-title="General" tvg-language="hin" tvg-quality="720p",Dangal TV
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 
@@ -23,11 +27,19 @@ https://cdn.pishow.tv/ott/live/32/master.m3u8
 #EXTINF:-1 tvg-id="DDArunPrabha.in" tvg-name="DD Arun Prabha" group-title="General" tvg-language="hin" tvg-quality="360p",DD Arun Prabha
 https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
 
+#EXTINF:-1 tvg-id="DDArunPrabha.in" tvg-name="DD Arun Prabha" group-title="General" tvg-language="hin" tvg-quality="576p",DD Arun Prabha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/203/master.m3u8
+
 #EXTINF:-1 tvg-id="DDBihar.in" tvg-name="DD Bihar" group-title="General" tvg-language="hin" tvg-quality="720p",DD Bihar
 https://cdn.pishow.tv/ott/live/35/master.m3u8
 
 #EXTINF:-1 tvg-id="DDBihar.in" tvg-name="DD Bihar" group-title="General" tvg-language="hin" tvg-quality="504p",DD Bihar
 https://d2lk5u59tns74c.cloudfront.net/out/v1/380b0765f87741a4812bc952ec6fbf21/index.m3u8
+
+#EXTINF:-1 tvg-id="DDBihar.in" tvg-name="DD Bihar" group-title="General" tvg-language="hin" tvg-quality="576p",DD Bihar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/172/master.m3u8
 
 #EXTINF:-1 tvg-id="DDBihar.in" tvg-name="DD Bihar" group-title="General" tvg-language="hin" tvg-quality="576p",DD Bihar
 https://mumbai-edge.smartplaytv.in/ddbihar/index.m3u8
@@ -38,11 +50,23 @@ https://cdn.pishow.tv/ott/live/15/master.m3u8
 #EXTINF:-1 tvg-id="DDChhattisgarh.in" tvg-name="DD Chhattisgarh" group-title="General" tvg-language="hin" tvg-quality="504p",DD Chhattisgarh
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index.m3u8
 
+#EXTINF:-1 tvg-id="DDChhattisgarh.in" tvg-name="DD Chhattisgarh" group-title="General" tvg-language="hin" tvg-quality="576p",DD Chhattisgarh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/577/master.m3u8
+
 #EXTINF:-1 tvg-id="DDHaryana.in" tvg-name="DD Haryana" group-title="General" tvg-language="hin" tvg-quality="504p",DD Haryana
 https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
 
+#EXTINF:-1 tvg-id="DDHaryana.in" tvg-name="DD Haryana" group-title="General" tvg-language="hin" tvg-quality="576p",DD Haryana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/580/master.m3u8
+
 #EXTINF:-1 tvg-id="DDHimachalPradesh.in" tvg-name="DD Himachal Pradesh" group-title="General" tvg-language="hin" tvg-quality="504p",DD Himachal Pradesh
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8
+
+#EXTINF:-1 tvg-id="DDHimachalPradesh.in" tvg-name="DD Himachal Pradesh" group-title="General" tvg-language="hin" tvg-quality="576p",DD Himachal Pradesh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/575/master.m3u8
 
 #EXTINF:-1 tvg-id="DDJharkhand.in" tvg-name="DD Jharkhand" group-title="General" tvg-language="hin" tvg-quality="576i",DD Jharkhand
 https://cdn.pishow.tv/ott/live/1617/master.m3u8
@@ -50,11 +74,19 @@ https://cdn.pishow.tv/ott/live/1617/master.m3u8
 #EXTINF:-1 tvg-id="DDJharkhand.in" tvg-name="DD Jharkhand" group-title="General" tvg-language="hin" tvg-quality="504p",DD Jharkhand
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e8c3741f8c154d3185831f4e31777fb2/index.m3u8
 
+#EXTINF:-1 tvg-id="DDJharkhand.in" tvg-name="DD Jharkhand" group-title="General" tvg-language="hin" tvg-quality="576p",DD Jharkhand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/573/master.m3u8
+
 #EXTINF:-1 tvg-id="DDKashir.in" tvg-name="DD Kashir" group-title="General" tvg-language="hin" tvg-quality="576i",DD Kashir
 https://cdn.pishow.tv/ott/live/16/master.m3u8
 
 #EXTINF:-1 tvg-id="DDKashir.in" tvg-name="DD Kashir" group-title="General" tvg-language="hin" tvg-quality="504p",DD Kashir
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8
+
+#EXTINF:-1 tvg-id="DDKashir.in" tvg-name="DD Kashir" group-title="General" tvg-language="hin" tvg-quality="576p",DD Kashir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/248/master.m3u8
 
 #EXTINF:-1 tvg-id="DDMadhyaPradesh.in" tvg-name="DD Madhya Pradesh" group-title="General" tvg-language="hin" tvg-quality="720p",DD Madhya Pradesh
 https://cdn.pishow.tv/ott/live/31/master.m3u8
@@ -62,11 +94,19 @@ https://cdn.pishow.tv/ott/live/31/master.m3u8
 #EXTINF:-1 tvg-id="DDMadhyaPradesh.in" tvg-name="DD Madhya Pradesh" group-title="General" tvg-language="hin" tvg-quality="504p",DD Madhya Pradesh
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b5256b391a7c4ae6977535b73fd6f591/index.m3u8
 
+#EXTINF:-1 tvg-id="DDMadhyaPradesh.in" tvg-name="DD Madhya Pradesh" group-title="General" tvg-language="hin" tvg-quality="576p",DD Madhya Pradesh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/578/master.m3u8
+
 #EXTINF:-1 tvg-id="DDMadhyaPradesh.in" tvg-name="DD Madhya Pradesh" group-title="General" tvg-language="hin" tvg-quality="720p",DD Madhya Pradesh
 https://mumbai-edge.smartplaytv.in/ddmadhyapradesh/index.m3u8
 
 #EXTINF:-1 tvg-id="DDManipur.in" tvg-name="DD Manipur" group-title="General" tvg-language="hin" tvg-quality="504p",DD Manipur
 https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8
+
+#EXTINF:-1 tvg-id="DDManipur.in" tvg-name="DD Manipur" group-title="General" tvg-language="hin" tvg-quality="576p",DD Manipur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/671/master.m3u8
 
 #EXTINF:-1 tvg-id="DDRajasthan.in" tvg-name="DD Rajasthan" group-title="General" tvg-language="hin" tvg-quality="720p",DD Rajasthan
 https://cdn.pishow.tv/ott/live/34/master.m3u8
@@ -92,11 +132,19 @@ https://cdn.pishow.tv/ott/live/36/master.m3u8
 #EXTINF:-1 tvg-id="DDUttarPradesh.in" tvg-name="DD Uttar Pradesh" group-title="General" tvg-language="hin" tvg-quality="504p",DD Uttar Pradesh
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/index.m3u8
 
+#EXTINF:-1 tvg-id="DDUttarPradesh.in" tvg-name="DD Uttar Pradesh" group-title="General" tvg-language="hin" tvg-quality="576p",DD Uttar Pradesh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/263/master.m3u8
+
 #EXTINF:-1 tvg-id="DDUttarakhand.in" tvg-name="DD Uttarakhand" group-title="General" tvg-language="hin" tvg-quality="720p",DD Uttarakhand
 https://cdn.pishow.tv/ott/live/17/master.m3u8
 
 #EXTINF:-1 tvg-id="DDUttarakhand.in" tvg-name="DD Uttarakhand" group-title="General" tvg-language="hin" tvg-quality="504p",DD Uttarakhand
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a70323c56ac647c2a8c8fc34e4c73912/index.m3u8
+
+#EXTINF:-1 tvg-id="DDUttarakhand.in" tvg-name="DD Uttarakhand" group-title="General" tvg-language="hin" tvg-quality="576p",DD Uttarakhand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/576/master.m3u8
 
 #EXTINF:-1 tvg-id="DiyaTV.us" tvg-name="Diya TV" group-title="General" tvg-language="eng;hin;pan" tvg-quality="1080p",Diya TV
 https://stream.diyatvinc.com/diya.m3u8
@@ -125,6 +173,10 @@ https://streams.tangotv.in/MHONE/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Network10.in" tvg-name="Network 10" group-title="General" tvg-language="hin" tvg-quality="576p",Network 10
 https://d1msejlow1t3l4.cloudfront.net/fta/network10/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Network10.in" tvg-name="Network 10" group-title="General" tvg-language="hin" tvg-quality="576p",Network 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/611/master.m3u8
+
 #EXTINF:-1 tvg-id="Network10.in" tvg-name="Network 10" group-title="General" tvg-language="hin" tvg-quality="720p",Network 10
 https://mumbai-edge.smartplaytv.in/Network10/index.m3u8
 
@@ -139,6 +191,10 @@ https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8
 
 #EXTINF:-1 tvg-id="News11.in" tvg-name="News 11" group-title="General" tvg-language="hin" tvg-quality="396p",News 11
 https://d1msejlow1t3l4.cloudfront.net/fta/news11bharat/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News11.in" tvg-name="News 11" group-title="General" tvg-language="hin" tvg-quality="576p",News 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/307/master.m3u8
 
 #EXTINF:-1 tvg-id="News11.in" tvg-name="News 11" group-title="General" tvg-language="hin" tvg-quality="576p",News 11
 https://live1.ottlive.co.in/news11/news11/index.m3u8

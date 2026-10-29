@@ -195,10 +195,18 @@ https://mumbai-edge.smartplaytv.in/ddmadhyapradesh/index.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 
 #EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",DD National
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/15/master.m3u8
+
+#EXTINF:-1 tvg-id="DDNational.in" tvg-name="DD National" group-title="Entertainment" tvg-language="hin" tvg-quality="1080p",DD National
 https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
 
 #EXTINF:-1 tvg-id="DDNews.in" tvg-name="DD News" group-title="News" tvg-language="hin" tvg-quality="1080p",DD News
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+
+#EXTINF:-1 tvg-id="DDNews.in" tvg-name="DD News" group-title="News" tvg-language="hin" tvg-quality="1080p",DD News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/117/117_0.m3u8
 
 #EXTINF:-1 tvg-id="DDNews.in" tvg-name="DD News" group-title="News" tvg-language="hin" tvg-quality="1080p",DD News
 https://mumbai-edge.smartplaytv.in/DDNews/index.m3u8
@@ -214,6 +222,10 @@ https://cdn.pishow.tv/ott/live/13/master.m3u8
 
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="hin" tvg-quality="1080p",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="ben;bho;eng;hin;kan;sgn;tam;tel" tvg-quality="1080p",DD Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/280/master.m3u8
 
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="ben;bho;eng;hin;kan;sgn;tam;tel" tvg-quality="720p",DD Sports
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
@@ -526,6 +538,10 @@ https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m
 https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
 
 #EXTINF:-1 tvg-id="SansadTV1.in" tvg-name="Sansad TV 1" group-title="Legislative" tvg-language="eng;hin" tvg-quality="1080p",Sansad TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/718/master.m3u8
+
+#EXTINF:-1 tvg-id="SansadTV1.in" tvg-name="Sansad TV 1" group-title="Legislative" tvg-language="eng;hin" tvg-quality="1080p",Sansad TV 1
 https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8
 
 #EXTINF:-1 tvg-id="SansadTV1.in" tvg-name="Sansad TV 1" group-title="Legislative" tvg-language="eng;hin" tvg-quality="1080p",Sansad TV 1
@@ -534,6 +550,10 @@ https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 
 #EXTINF:-1 tvg-id="SansadTV2.in" tvg-name="Sansad TV 2" group-title="Legislative" tvg-language="eng;hin" tvg-quality="1080p",Sansad TV 2
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
+
+#EXTINF:-1 tvg-id="SansadTV2.in" tvg-name="Sansad TV 2" group-title="Legislative" tvg-language="eng;hin" tvg-quality="1080p",Sansad TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/298/master.m3u8
 
 #EXTINF:-1 tvg-id="SansadTV2.in" tvg-name="Sansad TV 2" group-title="Legislative" tvg-language="eng;hin" tvg-quality="1080p",Sansad TV 2
 #EXTVLCOPT:http-referrer=https://webcast.gov.in/

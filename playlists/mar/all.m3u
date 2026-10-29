@@ -18,6 +18,10 @@ https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjhakaas.smil/playlist.m3u8?hdnt
 https://cdn.pishow.tv/ott/live/471/master.m3u8
 
 #EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="ABP Majha" group-title="News" tvg-language="mar" tvg-quality="576p",ABP Majha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/418/master.m3u8
+
+#EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="ABP Majha" group-title="News" tvg-language="mar" tvg-quality="576p",ABP Majha
 https://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8
 
 #EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="ABP Majha" group-title="News" tvg-language="mar" tvg-quality="360p",ABP Majha
@@ -32,17 +36,26 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist
 #EXTINF:-1 tvg-id="DDGoa.in" tvg-name="DD Goa" group-title="General" tvg-language="kok;mar" tvg-quality="504p",DD Goa
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8
 
+#EXTINF:-1 tvg-id="DDGoa.in" tvg-name="DD Goa" group-title="General" tvg-language="kok;mar" tvg-quality="576p",DD Goa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/367/master.m3u8
+
 #EXTINF:-1 tvg-id="DDSahyadri.in" tvg-name="DD Sahyadri" group-title="General" tvg-language="mar" tvg-quality="504p",DD Sahyadri
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
+
+#EXTINF:-1 tvg-id="DDSahyadri.in" tvg-name="DD Sahyadri" group-title="General" tvg-language="mar" tvg-quality="576p",DD Sahyadri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/187/master.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" group-title="Entertainment" tvg-language="ben;eng;hin;kan;mal;mar;tam;tel" tvg-quality="720p",Discovery Channel
 https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
 
-#EXTINF:-1 tvg-id="ETVBalBharat.in" tvg-name="ETV Bal Bharat" group-title="Kids" tvg-language="asm;ben;eng;guj;hin;kan;mal;mar;ori;pan;tam;tel" tvg-quality="576p",ETV Bal Bharat
-http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
-
 #EXTINF:-1 tvg-id="FaktMarathi.in" tvg-name="Fakt Marathi" group-title="Entertainment" tvg-language="mar" tvg-quality="720p",Fakt Marathi
 https://cdn.pishow.tv/ott/live/10002/master.m3u8
+
+#EXTINF:-1 tvg-id="FaktMarathi.in" tvg-name="Fakt Marathi" group-title="Entertainment" tvg-language="mar" tvg-quality="576p",Fakt Marathi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/188/master.m3u8
 
 #EXTINF:-1 tvg-id="FaktMarathi.in" tvg-name="Fakt Marathi" group-title="Entertainment" tvg-language="mar" tvg-quality="576p",Fakt Marathi
 https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8
@@ -82,16 +95,28 @@ https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8
 https://cdn.pishow.tv/ott/live/437/master.m3u8
 
 #EXTINF:-1 tvg-id="SaamTV.in" tvg-name="Saam TV" group-title="Uncategorized" tvg-language="hin;mar" tvg-quality="576p",Saam TV
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/650/master.m3u8
+
+#EXTINF:-1 tvg-id="SaamTV.in" tvg-name="Saam TV" group-title="Uncategorized" tvg-language="hin;mar" tvg-quality="576p",Saam TV
 https://streams.tangotv.in/SAAMTV/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="SangeetMarathi.in" tvg-name="Sangeet Marathi" group-title="Music" tvg-language="mar" tvg-quality="720p",Sangeet Marathi
 https://cdn.pishow.tv/ott/live/1229/master.m3u8
 
 #EXTINF:-1 tvg-id="SangeetMarathi.in" tvg-name="Sangeet Marathi" group-title="Music" tvg-language="mar" tvg-quality="576p",Sangeet Marathi
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/712/master.m3u8
+
+#EXTINF:-1 tvg-id="SangeetMarathi.in" tvg-name="Sangeet Marathi" group-title="Music" tvg-language="mar" tvg-quality="576p",Sangeet Marathi
 https://mumt07.tangotv.in/zHjX9OFlSANGEETMARATHI/index.m3u8
 
 #EXTINF:-1 tvg-id="ShemarooMarathiBana.in" tvg-name="Shemaroo Marathi Bana" group-title="Uncategorized" tvg-language="mar" tvg-quality="720p",Shemaroo Marathi Bana
 https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShemarooMarathiBana.in" tvg-name="Shemaroo Marathi Bana" group-title="Uncategorized" tvg-language="mar" tvg-quality="576p",Shemaroo Marathi Bana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/189/master.m3u8
 
 #EXTINF:-1 tvg-id="ShemarooMarathiBana.in" tvg-name="Shemaroo Marathi Bana" group-title="Uncategorized" tvg-language="mar" tvg-quality="576p",Shemaroo Marathi Bana
 https://mumt07.tangotv.in/zHjX9OFlSHEMAROOMARATHIBANA/index.m3u8
@@ -119,6 +144,10 @@ https://cdn.pishow.tv/ott/live/2/master.m3u8
 
 #EXTINF:-1 tvg-id="TV9Marathi.in" tvg-name="TV9 Marathi" group-title="News" tvg-language="mar" tvg-quality="720p",TV9 Marathi
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV9Marathi.in" tvg-name="TV9 Marathi" group-title="News" tvg-language="mar" tvg-quality="576p",TV9 Marathi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/190/master.m3u8
 
 #EXTINF:-1 tvg-id="TV9Marathi.in" tvg-name="TV9 Marathi" group-title="News" tvg-language="mar" tvg-quality="720p",TV9 Marathi
 https://mumbai-edge.smartplaytv.in/TV9Marathi/index.m3u8

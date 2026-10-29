@@ -11,8 +11,16 @@ https://cdn.pishow.tv/ott/live/37/master.m3u8
 #EXTINF:-1 tvg-id="DDBangla.in" tvg-name="DD Bangla" group-title="General" tvg-language="ben" tvg-quality="504p",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8
 
+#EXTINF:-1 tvg-id="DDBangla.in" tvg-name="DD Bangla" group-title="General" tvg-language="ben" tvg-quality="576p",DD Bangla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/197/master.m3u8
+
 #EXTINF:-1 tvg-id="DDTripura.in" tvg-name="DD Tripura" group-title="General" tvg-language="ben" tvg-quality="504p",DD Tripura
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index.m3u8
+
+#EXTINF:-1 tvg-id="DDTripura.in" tvg-name="DD Tripura" group-title="General" tvg-language="ben" tvg-quality="576p",DD Tripura
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/661/master.m3u8
 
 #EXTINF:-1 tvg-id="DeenTV.uk" tvg-name="Deen TV" group-title="General" tvg-language="ben" tvg-quality="576p",Deen TV
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8

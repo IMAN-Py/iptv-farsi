@@ -2,3 +2,7 @@
 #EXTINF:-1 tvg-id="DDPunjabi.in" tvg-name="DD Punjabi" group-title="Culture" tvg-language="pan" tvg-quality="504p",DD Punjabi
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
 
+#EXTINF:-1 tvg-id="DDPunjabi.in" tvg-name="DD Punjabi" group-title="Culture" tvg-language="pan" tvg-quality="576p",DD Punjabi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/177/master.m3u8
+

@@ -4,7 +4,7 @@
 
 Browse live lifestyle channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**143 channels · 206 stream entries**
+**144 channels · 210 stream entries**
 
 ## All languages
 
@@ -25,17 +25,17 @@ https://iman-py.github.io/open-tv-atlas/categories/lifestyle.m3u
 | [Chinese](../playlists/zho/README.md) | 10 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/lifestyle.m3u` |
 | [Czech](../playlists/ces/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ces/lifestyle.m3u` |
 | [Danish](../playlists/dan/README.md) | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/dan/lifestyle.m3u` |
-| [French](../playlists/fra/README.md) | 10 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/lifestyle.m3u` |
+| [French](../playlists/fra/README.md) | 11 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/lifestyle.m3u` |
 | [German](../playlists/deu/README.md) | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/lifestyle.m3u` |
 | [Hebrew](../playlists/heb/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/lifestyle.m3u` |
-| [Hindi](../playlists/hin/README.md) | 3 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/lifestyle.m3u` |
+| [Hindi](../playlists/hin/README.md) | 3 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/lifestyle.m3u` |
 | [Hungarian](../playlists/hun/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/hun/lifestyle.m3u` |
 | [Indonesian](../playlists/ind/README.md) | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/lifestyle.m3u` |
 | [Italian](../playlists/ita/README.md) | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/lifestyle.m3u` |
 | [Kannada](../playlists/kan/README.md) | 1 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/kan/lifestyle.m3u` |
 | [Latvian](../playlists/lav/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/lav/lifestyle.m3u` |
 | [Letzeburgesch](../playlists/ltz/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ltz/lifestyle.m3u` |
-| [Malayalam](../playlists/mal/README.md) | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/lifestyle.m3u` |
+| [Malayalam](../playlists/mal/README.md) | 1 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/mal/lifestyle.m3u` |
 | [Norwegian](../playlists/nor/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/nor/lifestyle.m3u` |
 | [Polish](../playlists/pol/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/lifestyle.m3u` |
 | [Portuguese](../playlists/por/README.md) | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/por/lifestyle.m3u` |

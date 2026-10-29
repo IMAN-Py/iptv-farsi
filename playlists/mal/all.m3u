@@ -9,6 +9,10 @@ https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 https://ddash74r36xqp.cloudfront.net/master.m3u8
 
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-name="Amrita TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Amrita TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/698/master.m3u8
+
+#EXTINF:-1 tvg-id="AmritaTV.in" tvg-name="Amrita TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Amrita TV
 https://mumt07.tangotv.in/zHjX9OFlAMRITATV/index.m3u8
 
 #EXTINF:-1 tvg-id="AnandTV.uk" tvg-name="Anand TV" group-title="General" tvg-language="mal" tvg-quality="720p",Anand TV
@@ -16,6 +20,10 @@ https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 
 #EXTINF:-1 tvg-id="Asianet.in" tvg-name="Asianet" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Asianet
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 tvg-id="AsianetMiddleEast.in" tvg-name="Asianet Middle East" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Asianet Middle East
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/697/master.m3u8
 
 #EXTINF:-1 tvg-id="AsianetMiddleEast.in" tvg-name="Asianet Middle East" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Asianet Middle East
 https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
@@ -34,6 +42,10 @@ https://asianetnews.vgcdn.net/vglive-sk-917600/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" group-title="News" tvg-language="mal" tvg-quality="576p",Asianet News
 https://cdn.pishow.tv/ott/live/1297/master.m3u8
+
+#EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" group-title="News" tvg-language="mal" tvg-quality="576p",Asianet News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/699/master.m3u8
 
 #EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" group-title="News" tvg-language="mal" tvg-quality="576p",Asianet News
 https://streams.tangotv.in/ASIANETNEWS/ORIGIN/index.m3u8
@@ -68,6 +80,10 @@ https://yuppparoriglin.akamaized.net/181224/smil:darshanatv.smil/playlist.m3u8?h
 #EXTINF:-1 tvg-id="DDMalayalam.in" tvg-name="DD Malayalam" group-title="Entertainment" tvg-language="mal" tvg-quality="504p",DD Malayalam
 https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
 
+#EXTINF:-1 tvg-id="DDMalayalam.in" tvg-name="DD Malayalam" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",DD Malayalam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/680/master.m3u8
+
 #EXTINF:-1 tvg-id="DidikTVKPM.my" tvg-name="DidikTV KPM" group-title="Education" tvg-language="mal" tvg-quality="1080p",DidikTV KPM
 #EXTVLCOPT:http-referrer=https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420324
 https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420324
@@ -81,14 +97,15 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-name="Discovery Kids" group-title="Kids" tvg-language="eng;hin;mal;tam;tel" tvg-quality="720p",Discovery Kids
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 
-#EXTINF:-1 tvg-id="ETVBalBharat.in" tvg-name="ETV Bal Bharat" group-title="Kids" tvg-language="asm;ben;eng;guj;hin;kan;mal;mar;ori;pan;tam;tel" tvg-quality="576p",ETV Bal Bharat
-http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
-
 #EXTINF:-1 tvg-id="FlowersTVUSA.us" tvg-name="Flowers TV USA" group-title="Culture" tvg-language="eng;mal" tvg-quality="480i",Flowers TV USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GarshomTV.uk" tvg-name="Garshom TV" group-title="Culture" tvg-language="mal" tvg-quality="360p",Garshom TV
 https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoodnessTV.in" tvg-name="Goodness TV" group-title="Religious" tvg-language="mal" tvg-quality="576p",Goodness TV
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/704/master.m3u8
 
 #EXTINF:-1 tvg-id="GoodnessTV.in" tvg-name="Goodness TV" group-title="Religious" tvg-language="mal" tvg-quality="576p",Goodness TV
 https://mumt07.tangotv.in/zHjX9OFlGOODNESSTV/index.m3u8
@@ -101,6 +118,10 @@ https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8
 
 #EXTINF:-1 tvg-id="HarvestTVKeralam.in" tvg-name="Harvest TV Keralam" group-title="Religious" tvg-language="mal" tvg-quality="720p",Harvest TV Keralam
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="JaihindTV.in" tvg-name="Jaihind TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Jaihind TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/700/master.m3u8
 
 #EXTINF:-1 tvg-id="JaihindTV.in" tvg-name="Jaihind TV" group-title="Entertainment" tvg-language="mal" tvg-quality="576p",Jaihind TV
 https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8
@@ -157,6 +178,10 @@ https://cdn.pishow.tv/ott/live/1123/master.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KappaTV.in" tvg-name="Kappa TV" group-title="Lifestyle" tvg-language="mal" tvg-quality="576p",Kappa TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/247/master.m3u8
+
+#EXTINF:-1 tvg-id="KappaTV.in" tvg-name="Kappa TV" group-title="Lifestyle" tvg-language="mal" tvg-quality="576p",Kappa TV
 https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8
 
 #EXTINF:-1 tvg-id="KCLTV.in" tvg-name="KCL TV" group-title="Entertainment" tvg-language="mal" tvg-quality="720p",KCL TV
@@ -176,6 +201,10 @@ https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="Manorama News" group-title="News" tvg-language="mal" tvg-quality="576p",Manorama News
 https://cdn.pishow.tv/ott/live/463/master.m3u8
+
+#EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="Manorama News" group-title="News" tvg-language="mal" tvg-quality="576p",Manorama News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/55/55_0.m3u8
 
 #EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="Manorama News" group-title="News" tvg-language="mal" tvg-quality="1080p",Manorama News
 https://mmtvlive3.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvAdCampaign3/index.m3u8
@@ -207,6 +236,10 @@ http://103.175.73.12:8080/live/245/master.m3u8
 
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="Entertainment" tvg-language="mal" tvg-quality="576i",Mazhavil Manorama
 https://cdn.pishow.tv/ott/live/1479/master.m3u8
+
+#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Mazhavil Manorama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/245/master.m3u8
 
 #EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="Mazhavil Manorama" group-title="Entertainment" tvg-language="mal" tvg-quality="1080p",Mazhavil Manorama
 https://mmtv-vglivessai.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/f8a0827f-030f-4a0d-b7e5-338996c09a5b/index.m3u8

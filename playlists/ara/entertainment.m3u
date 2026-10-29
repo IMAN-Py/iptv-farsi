@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="FujairahTV.ae" tvg-name="Fujairah TV" group-title="Entertainment" tvg-language="ara" tvg-quality="720p",Fujairah TV
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HyaTV.eg" tvg-name="Hya TV" group-title="Entertainment" tvg-language="ara" tvg-quality="1080p",Hya TV
+https://freem3u.xyz/api/live/play.m3u8?vid=187
+
 #EXTINF:-1 tvg-id="Kurdsat.iq" tvg-name="Kurdsat" group-title="Entertainment" tvg-language="ara;kur" tvg-quality="576p",Kurdsat
 http://185.9.2.18/chid_1/index.m3u8
 

@@ -38,6 +38,9 @@ https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
 #EXTINF:-1 tvg-id="NCMEducationalKidsChannel.us" tvg-name="NCM Educational & Kids Channel" group-title="Education;Kids" tvg-language="eng" tvg-quality="480i",NCM Educational & Kids Channel
 https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
 
+#EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="PBS America" group-title="Education" tvg-language="eng" tvg-quality="576p",PBS America
+http://185.19.191.2:8090/PBS/index.m3u8
+
 #EXTINF:-1 tvg-id="RedApple21.us" tvg-name="Red Apple 21" group-title="Education" tvg-language="eng" tvg-quality="480p",Red Apple 21
 https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 

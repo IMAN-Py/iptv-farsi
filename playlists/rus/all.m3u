@@ -299,6 +299,9 @@ https://streaming.thestream.cyou/live/7001.m3u8
 #EXTINF:-1 tvg-id="Belgorod24.ru" tvg-name="Belgorod 24" group-title="General" tvg-language="rus" tvg-quality="1080p",Belgorod 24
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 
+#EXTINF:-1 tvg-id="BelsatTV.pl" tvg-name="Belsat TV" group-title="General" tvg-language="bel;rus;ukr" tvg-quality="576i",Belsat TV
+http://78.62.9.23:55555/Belsat
+
 #EXTINF:-1 tvg-id="BigAsia.ru" tvg-name="Big Asia" group-title="Uncategorized" tvg-language="rus" tvg-quality="720p",Big Asia
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 

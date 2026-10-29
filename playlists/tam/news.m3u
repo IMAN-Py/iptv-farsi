@@ -16,6 +16,10 @@ https://cloudcdnplayer.mslivestream.net/mslivecdn/mnadu/index.m3u8
 https://cdn.pishow.tv/ott/live/1476/master.m3u8
 
 #EXTINF:-1 tvg-id="MadhimugamTV.in" tvg-name="Madhimugam TV" group-title="News" tvg-language="tam" tvg-quality="576p",Madhimugam TV
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/711/master.m3u8
+
+#EXTINF:-1 tvg-id="MadhimugamTV.in" tvg-name="Madhimugam TV" group-title="News" tvg-language="tam" tvg-quality="576p",Madhimugam TV
 https://mumt01.tangotv.in/O5aw8Zn3MATHIMUGAMTV/index.m3u8
 
 #EXTINF:-1 tvg-id="MadhimugamTV.in" tvg-name="Madhimugam TV" group-title="News" tvg-language="tam" tvg-quality="576p",Madhimugam TV
@@ -26,6 +30,10 @@ https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-a
 
 #EXTINF:-1 tvg-id="MalaiMurasuTV.in" tvg-name="Malai Murasu TV" group-title="News" tvg-language="tam" tvg-quality="720p",Malai Murasu TV
 https://cdn.pishow.tv/ott/live/1606/master.m3u8
+
+#EXTINF:-1 tvg-id="MalaiMurasuTV.in" tvg-name="Malai Murasu TV" group-title="News" tvg-language="tam" tvg-quality="576p",Malai Murasu TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/690/master.m3u8
 
 #EXTINF:-1 tvg-id="MalaiMurasuTV.in" tvg-name="Malai Murasu TV" group-title="News" tvg-language="tam" tvg-quality="576p",Malai Murasu TV
 https://mumt04.tangotv.in/m18aqlK4MALAIMURASUSEITHIGAL/index.m3u8

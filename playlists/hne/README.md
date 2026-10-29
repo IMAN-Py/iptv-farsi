@@ -4,7 +4,7 @@
 
 Find free Chhattisgarhi live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**1 channels · 2 stream entries**
+**1 channels · 3 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/hne/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/hne/all.m3u` |
+| All channels | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hne/all.m3u` |
 | HD | 0 | No matching streams |
-| SD / unknown | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/hne/sd.m3u` |
+| SD / unknown | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hne/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| News | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/hne/news.m3u` |
+| News | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/hne/news.m3u` |
 
 ## Included channels
 
@@ -33,4 +33,4 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| INH 24x7 | INH24x7.in | 360p, 396p | 2 |
+| INH 24x7 | INH24x7.in | 360p, 396p, 576p | 3 |

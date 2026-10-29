@@ -12,6 +12,10 @@ https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg012
 https://cdn.pishow.tv/ott/live/1613/master.m3u8
 
 #EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="576p",9X Tashan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/178/master.m3u8
+
+#EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="576p",9X Tashan
 https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8
 
 #EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="576p",9X Tashan
@@ -25,6 +29,10 @@ https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 
 #EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Music" tvg-language="pan" tvg-quality="576p",9X Tashan
 https://yupplivegcp2.yuppcdn.net/28072023/smil:9xtashan.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="ABPSanjha.in" tvg-name="ABP Sanjha" group-title="News" tvg-language="pan" tvg-quality="576p",ABP Sanjha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/641/master.m3u8
 
 #EXTINF:-1 tvg-id="AkaalChannel.uk" tvg-name="Akaal Channel" group-title="Religious" tvg-language="eng;pan" tvg-quality="396p",Akaal Channel
 https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
@@ -46,6 +54,10 @@ https://cdn.pishow.tv/ott/live/1627/master.m3u8
 
 #EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV" group-title="News" tvg-language="pan" tvg-quality="1080p",Chardikla Time TV
 https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV" group-title="News" tvg-language="pan" tvg-quality="576p",Chardikla Time TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/645/master.m3u8
 
 #EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV" group-title="News" tvg-language="pan" tvg-quality="576p",Chardikla Time TV
 https://mumt07.tangotv.in/zHjX9OFlCHARDIKALATIMETV/index.m3u8
@@ -71,6 +83,10 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 #EXTINF:-1 tvg-id="DDPunjabi.in" tvg-name="DD Punjabi" group-title="Culture" tvg-language="pan" tvg-quality="504p",DD Punjabi
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
 
+#EXTINF:-1 tvg-id="DDPunjabi.in" tvg-name="DD Punjabi" group-title="Culture" tvg-language="pan" tvg-quality="576p",DD Punjabi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/177/master.m3u8
+
 #EXTINF:-1 tvg-id="DesiChannel.in" tvg-name="Desi Channel" group-title="Entertainment" tvg-language="pan" tvg-quality="720p",Desi Channel
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 
@@ -88,9 +104,6 @@ https://samitaorigin.tangotv.in/DUKHNIWARAN/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="Dukhniwaran.in" tvg-name="Dukhniwaran" group-title="Religious" tvg-language="pan" tvg-quality="576p",Dukhniwaran
 https://mumt03.tangotv.in/Dsly5z3HDUKHNIWARAN/index.m3u8
-
-#EXTINF:-1 tvg-id="ETVBalBharat.in" tvg-name="ETV Bal Bharat" group-title="Kids" tvg-language="asm;ben;eng;guj;hin;kan;mal;mar;ori;pan;tam;tel" tvg-quality="576p",ETV Bal Bharat
-http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
 
 #EXTINF:-1 tvg-id="FalakTV.pk" tvg-name="Falak TV" group-title="Entertainment" tvg-language="pan;urd" tvg-quality="576i",Falak TV
 https://falak.rst.ae/index.m3u8
@@ -125,6 +138,10 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 #EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",GTC Punjabi
 https://cdn.ottlive.co.in/gtcpunjabi/index.m3u8
 
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",GTC Punjabi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/772/master.m3u8
+
 #EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="1080p",GTC Punjabi
 https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8
 
@@ -146,8 +163,16 @@ https://neotv.ottlive.co.in/gtcpunjabiusa/index.m3u8
 #EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-name="GTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",GTC Punjabi
 https://streams.tangotv.in/GTC/ORIGIN/index.m3u8
 
+#EXTINF:-1 tvg-id="GulistanNews.in" tvg-name="Gulistan News" group-title="News" tvg-language="pan" tvg-quality="576p",Gulistan News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/427/master.m3u8
+
 #EXTINF:-1 tvg-id="HamdardTV.ca" tvg-name="Hamdard TV" group-title="News" tvg-language="pan" tvg-quality="1080p",Hamdard TV
 https://tv.hamdardtv.com/hamdard/index.m3u8
+
+#EXTINF:-1 tvg-id="IndiaNewsPunjabHimachal.in" tvg-name="India News Punjab/Himachal" group-title="News" tvg-language="pan" tvg-quality="576p",India News Punjab/Himachal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/642/master.m3u8
 
 #EXTINF:-1 tvg-id="IndiaNewsPunjabHimachal.in" tvg-name="India News Punjab/Himachal" group-title="News" tvg-language="pan" tvg-quality="576p",India News Punjab/Himachal
 https://mumt03.tangotv.in/Dsly5z3HINDIANEWSPBHPJ&K/index.m3u8
@@ -173,11 +198,23 @@ https://streams.tangotv.in/LIVINGINDIANEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="MahaPunjabi.in" tvg-name="Maha Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576i",Maha Punjabi
 https://cdn.pishow.tv/ott/live/1521/master.m3u8
 
+#EXTINF:-1 tvg-id="MahaPunjabi.in" tvg-name="Maha Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",Maha Punjabi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/640/master.m3u8
+
+#EXTINF:-1 tvg-id="ManoranjanMovies.in" tvg-name="Manoranjan Movies" group-title="Movies" tvg-language="pan" tvg-quality="576p",Manoranjan Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/47/47_0.m3u8
+
 #EXTINF:-1 tvg-id="ManoranjanMovies.in" tvg-name="Manoranjan Movies" group-title="Movies" tvg-language="pan" tvg-quality="576p",Manoranjan Movies
 https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
 
 #EXTINF:-1 tvg-id="Mh1Music.in" tvg-name="Mh 1 Music" group-title="Music" tvg-language="pan" tvg-quality="720p",Mh 1 Music
 https://livestream.jswk.online/playlisttest/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mh1News.in" tvg-name="Mh 1 News" group-title="News" tvg-language="pan" tvg-quality="576p",Mh 1 News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/643/master.m3u8
 
 #EXTINF:-1 tvg-id="Mh1News.in" tvg-name="Mh 1 News" group-title="News" tvg-language="pan" tvg-quality="360p",Mh 1 News
 https://livestream.jswk.online/mhonenews/live/index.m3u8
@@ -190,6 +227,10 @@ https://mumt04.tangotv.in/m18aqlK4MHONENEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="Mh1News.in" tvg-name="Mh 1 News" group-title="News" tvg-language="pan" tvg-quality="576p",Mh 1 News
 https://streams.tangotv.in/MHONENEWS/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="MHOne.in" tvg-name="MH One" group-title="General" tvg-language="pan" tvg-quality="576p",MH One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/353/master.m3u8
 
 #EXTINF:-1 tvg-id="MHOne.in" tvg-name="MH One" group-title="General" tvg-language="pan" tvg-quality="360p",MH One
 https://samitaorigin.tangotv.in/MHONE/SAMITAORIGIN/index.m3u8
@@ -209,6 +250,10 @@ https://mumt01.tangotv.in/O5aw8Zn3NANAKSARLIVE/index.m3u8
 #EXTINF:-1 tvg-id="NanaksarLive.in" tvg-name="Nanaksar Live" group-title="Religious" tvg-language="pan" tvg-quality="720p",Nanaksar Live
 https://samitaorigin.tangotv.in/NANAKSARLIVE/SAMITAORIGIN/index.m3u8
 
+#EXTINF:-1 tvg-id="NewsStatePunjabHaryanaHimachal.in" tvg-name="News State Punjab Haryana Himachal" group-title="News" tvg-language="hin;pan" tvg-quality="576p",News State Punjab Haryana Himachal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/732/master.m3u8
+
 #EXTINF:-1 tvg-id="NewsStatePunjabHaryanaHimachal.in" tvg-name="News State Punjab Haryana Himachal" group-title="News" tvg-language="hin;pan" tvg-quality="1080p",News State Punjab Haryana Himachal
 https://jmp2.uk/stvp-IN300083R1
 
@@ -224,6 +269,10 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/in
 
 #EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" group-title="Movies" tvg-language="pan" tvg-quality="1080p",Pitaara
 https://d3i5c1nmken8bh.cloudfront.net/Live/Pitaara_TV_SCTE/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" group-title="Movies" tvg-language="pan" tvg-quality="576p",Pitaara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/352/master.m3u8
 
 #EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" group-title="Movies" tvg-language="pan" tvg-quality="576p",Pitaara
 https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8
@@ -244,6 +293,10 @@ http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
 https://cdn.pishow.tv/ott/live/449/master.m3u8
 
 #EXTINF:-1 tvg-id="PTCChakde.in" tvg-name="PTC Chakde" group-title="Music" tvg-language="pan" tvg-quality="576p",PTC Chakde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/180/master.m3u8
+
+#EXTINF:-1 tvg-id="PTCChakde.in" tvg-name="PTC Chakde" group-title="Music" tvg-language="pan" tvg-quality="576p",PTC Chakde
 https://mumt06.tangotv.in/qYyB8fXVPTCCHAKDE/index.m3u8
 
 #EXTINF:-1 tvg-id="PTCMusic.in" tvg-name="PTC Music" group-title="Music" tvg-language="pan" tvg-quality="576i",PTC Music
@@ -253,10 +306,18 @@ https://cdn.pishow.tv/ott/live/1501/master.m3u8
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
 
 #EXTINF:-1 tvg-id="PTCMusic.in" tvg-name="PTC Music" group-title="Music" tvg-language="pan" tvg-quality="576p",PTC Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/181/master.m3u8
+
+#EXTINF:-1 tvg-id="PTCMusic.in" tvg-name="PTC Music" group-title="Music" tvg-language="pan" tvg-quality="576p",PTC Music
 https://mumt04.tangotv.in/m18aqlK4PTCMUSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="PTCNews.in" tvg-name="PTC News" group-title="News" tvg-language="pan" tvg-quality="576p",PTC News
 https://cdn.pishow.tv/ott/live/1502/master.m3u8
+
+#EXTINF:-1 tvg-id="PTCNews.in" tvg-name="PTC News" group-title="News" tvg-language="pan" tvg-quality="576p",PTC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/182/master.m3u8
 
 #EXTINF:-1 tvg-id="PTCNews.in" tvg-name="PTC News" group-title="News" tvg-language="pan" tvg-quality="576p",PTC News
 https://mumt06.tangotv.in/qYyB8fXVPTCNEWS/index.m3u8
@@ -271,6 +332,10 @@ https://cdn.pishow.tv/ott/live/1604/master.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 
 #EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",PTC Punjabi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/175/master.m3u8
+
+#EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",PTC Punjabi
 https://mumt04.tangotv.in/m18aqlK4PTCPUNJABI/index.m3u8
 
 #EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",PTC Punjabi
@@ -283,6 +348,10 @@ https://stream.ottlive.co.in/ptccanada/index.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
 
 #EXTINF:-1 tvg-id="PTCPunjabiGold.in" tvg-name="PTC Punjabi Gold" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",PTC Punjabi Gold
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/176/master.m3u8
+
+#EXTINF:-1 tvg-id="PTCPunjabiGold.in" tvg-name="PTC Punjabi Gold" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",PTC Punjabi Gold
 https://mumt04.tangotv.in/m18aqlK4PTCPUNJABIGOLD/index.m3u8
 
 #EXTINF:-1 tvg-id="PTCPunjabiGold.in" tvg-name="PTC Punjabi Gold" group-title="Entertainment" tvg-language="pan" tvg-quality="576p",PTC Punjabi Gold
@@ -290,6 +359,10 @@ https://streams.tangotv.in/PTCPUNJABIGOLD/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="PTCSimran.in" tvg-name="PTC Simran" group-title="Religious" tvg-language="pan" tvg-quality="576i",PTC Simran
 https://cdn.pishow.tv/ott/live/1503/master.m3u8
+
+#EXTINF:-1 tvg-id="PTCSimran.in" tvg-name="PTC Simran" group-title="Religious" tvg-language="pan" tvg-quality="576p",PTC Simran
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/183/master.m3u8
 
 #EXTINF:-1 tvg-id="PTCSimran.in" tvg-name="PTC Simran" group-title="Religious" tvg-language="pan" tvg-quality="576p",PTC Simran
 https://mumt05.tangotv.in/87NeALx2PTCSIMRAN/index.m3u8
@@ -350,6 +423,10 @@ https://samitaorigin.tangotv.in/SHREEHAZURSAHIBJI/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="SikhSpiritualCentreRexdale.ca" tvg-name="Sikh Spiritual Centre Rexdale" group-title="Uncategorized" tvg-language="pan" tvg-quality="720p",Sikh Spiritual Centre Rexdale
 https://cdn12.henico.net:8443/live/ssct/index.m3u8
+
+#EXTINF:-1 tvg-id="TabbarHits.in" tvg-name="Tabbar Hits" group-title="Music" tvg-language="pan" tvg-quality="576p",Tabbar Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/179/master.m3u8
 
 #EXTINF:-1 tvg-id="TabbarHits.in" tvg-name="Tabbar Hits" group-title="Music" tvg-language="pan" tvg-quality="1080p",Tabbar Hits
 https://livingindiaottlive.akamaized.net/tabbarhits/index.m3u8

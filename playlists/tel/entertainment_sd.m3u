@@ -9,6 +9,10 @@ https://cdn.pishow.tv/ott/live/1147/master.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/mahaamax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MahaaMax.in" tvg-name="Mahaa Max" group-title="Entertainment" tvg-language="tel" tvg-quality="576p",Mahaa Max
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/684/master.m3u8
+
+#EXTINF:-1 tvg-id="MahaaMax.in" tvg-name="Mahaa Max" group-title="Entertainment" tvg-language="tel" tvg-quality="576p",Mahaa Max
 https://mumt03.tangotv.in/Dsly5z3HMAHAAMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="StudioYuva.in" tvg-name="Studio Yuva" group-title="Entertainment" tvg-language="tel" tvg-quality="576p",Studio Yuva

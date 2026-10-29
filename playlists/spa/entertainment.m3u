@@ -172,6 +172,9 @@ http://45.171.64.30:6060/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.us" tvg-name="Discovery World" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Discovery World
 http://168.196.127.137:6001/play/a097/index.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryWorld.us" tvg-name="Discovery World" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Discovery World
+http://209.61.12.77:9000/play/a08v/index.m3u8
+
 #EXTINF:-1 tvg-id="ELatinAmerica.us" tvg-name="E! Latin America" group-title="Entertainment;News" tvg-language="spa" tvg-quality="720p",E! Latin America
 http://72.1.184.5:8089/play/a05d/index.m3u8
 
@@ -472,6 +475,9 @@ https://jmp2.uk/plu-62ac3d7dc23b400008ae5b5a.m3u8
 #EXTINF:-1 tvg-id="MTVLatinAmerica.us" tvg-name="MTV Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",MTV Latin America
 http://15.204.246.24:8080/MTVHD/index.m3u8
 
+#EXTINF:-1 tvg-id="MTVLatinAmerica.us" tvg-name="MTV Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",MTV Latin America
+http://181.78.79.131:8000/play/a0nc
+
 #EXTINF:-1 tvg-id="MTVLatinAmerica.us" tvg-name="MTV Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",MTV Latin America
 https://streaming.onnethn.com/MTV/playlist.m3u8
 
@@ -615,6 +621,9 @@ http://181.65.191.173:8069/play/a061
 #EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" group-title="Entertainment" tvg-language="spa" tvg-quality="576p",RCN Novelas
 http://181.78.8.199:8000/play/a0a7/index.m3u8
 
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" group-title="Entertainment" tvg-language="spa" tvg-quality="480p",RCN Novelas
+http://45.171.64.30:8800/play/a01z
+
 #EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",RCN Novelas
 https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 
@@ -681,6 +690,9 @@ https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telerayo.hn" tvg-name="Telerayo" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Telerayo
 https://s.emisoras.tv:8081/telerayo/index.m3u8
+
+#EXTINF:-1 tvg-id="TelevisionCaribe.us" tvg-name="Television Caribe" group-title="Entertainment;General" tvg-language="spa" tvg-quality="1080p",Television Caribe
+https://televisioncaribe.com/index.m3u8
 
 #EXTINF:-1 tvg-id="TeveColombia.co" tvg-name="TeveColombia" group-title="Entertainment" tvg-language="spa" tvg-quality="720p",TeveColombia
 https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8

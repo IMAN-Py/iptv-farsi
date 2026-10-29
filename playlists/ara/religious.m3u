@@ -192,6 +192,9 @@ https://5a8308add0b31.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveWorldArabic.ng" tvg-name="LoveWorld Arabic" group-title="Religious" tvg-language="ara" tvg-quality="360p",LoveWorld Arabic
 https://go5lm6a6dawb-hls-live.5centscdn.com/lwarabic/53132d996b4263ec0d7b602292c46eaf.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MahdawiounTV.iq" tvg-name="MahdawiounTV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",MahdawiounTV
+https://live.mahdawioun.tv/stream/mahdawioun/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MakkahTV.sa" tvg-name="Makkah TV" group-title="Religious" tvg-language="ara" tvg-quality="576p",Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 

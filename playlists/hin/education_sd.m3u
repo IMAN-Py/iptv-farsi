@@ -8,6 +8,10 @@ https://cdn.pishow.tv/ott/live/223/master.m3u8
 #EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" group-title="Education;Outdoor" tvg-language="hin" tvg-quality="504p",DD Kisan
 https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8
 
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" group-title="Education;Outdoor" tvg-language="hin" tvg-quality="576p",DD Kisan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/148/148_0.m3u8
+
 #EXTINF:-1 tvg-id="EVidya10.in" tvg-name="E-Vidya 10" group-title="Education" tvg-language="hin" tvg-quality="576p",E-Vidya 10
 http://103.72.101.252:8080/live/411.m3u8
 

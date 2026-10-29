@@ -238,6 +238,9 @@ http://stream.mcquack.net/325/index.m3u8
 #EXTINF:-1 tvg-id="Mega.ua" tvg-name="Mega" group-title="Uncategorized" tvg-language="ukr" tvg-quality="720p",Mega
 https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MEGOGOSport.ua" tvg-name="MEGOGO Sport" group-title="Sports" tvg-language="ukr" tvg-quality="1080p",MEGOGO Sport
+http://5.188.159.128:8070/megogo_sport/index.m3u8
+
 #EXTINF:-1 tvg-id="Muzvar.ua" tvg-name="Muzvar" group-title="Music" tvg-language="ukr" tvg-quality="1080p",Muzvar
 https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
 

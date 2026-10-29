@@ -150,6 +150,9 @@ https://597f64b67707a.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LogosTV.us" tvg-name="Logos TV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Logos TV
 https://5a8308add0b31.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MahdawiounTV.iq" tvg-name="MahdawiounTV" group-title="Religious" tvg-language="ara" tvg-quality="1080p",MahdawiounTV
+https://live.mahdawioun.tv/stream/mahdawioun/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MarjaeyatTVArabic.iq" tvg-name="Marjaeyat TV Arabic" group-title="Religious" tvg-language="ara" tvg-quality="1080p",Marjaeyat TV Arabic
 https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
 

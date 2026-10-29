@@ -89,6 +89,9 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 #EXTINF:-1 tvg-id="DeluxeRap.de" tvg-name="Deluxe Rap" group-title="Music" tvg-language="deu;eng" tvg-quality="1080p",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 
+#EXTINF:-1 tvg-id="DGRadio.au" tvg-name="DG:Radio" group-title="Music;Religious" tvg-language="eng" tvg-quality="1080p",DG:Radio
+https://mdn.dg.church/683c0cb036885-1/index.m3u8
+
 #EXTINF:-1 tvg-id="GalaxyTV.ug" tvg-name="Galaxy TV" group-title="Music" tvg-language="eng" tvg-quality="720p",Galaxy TV
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_43351ad0f3b411ed81c78fcc31887c54
 https://stream.castr.com/6463248048d6cd3e143655b2/live_43351ad0f3b411ed81c78fcc31887c54/index.fmp4.m3u8

@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" group-title="Movies" tvg-language="bho" tvg-quality="576p",B4U Bhojpuri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/174/master.m3u8
+
+#EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" group-title="Movies" tvg-language="bho" tvg-quality="576p",B4U Bhojpuri
 https://mumt05.tangotv.in/87NeALx2B4UBHOJPURI/index.m3u8
 
 #EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" group-title="Movies" tvg-language="bho" tvg-quality="576p",B4U Bhojpuri
@@ -9,6 +13,10 @@ https://streams.tangotv.in/B4UBHOJPURI/ORIGIN/index.m3u8
 https://cdn.pishow.tv/ott/live/1033/master.m3u8
 
 #EXTINF:-1 tvg-id="BhojpuriCinema.in" tvg-name="Bhojpuri Cinema" group-title="Movies" tvg-language="bho" tvg-quality="576p",Bhojpuri Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/646/master.m3u8
+
+#EXTINF:-1 tvg-id="BhojpuriCinema.in" tvg-name="Bhojpuri Cinema" group-title="Movies" tvg-language="bho" tvg-quality="576p",Bhojpuri Cinema
 https://mumt05.tangotv.in/87NeALx2BHOJPURICINEMA/index.m3u8
 
 #EXTINF:-1 tvg-id="BhojpuriCinema.in" tvg-name="Bhojpuri Cinema" group-title="Movies" tvg-language="bho" tvg-quality="576p",Bhojpuri Cinema
@@ -16,6 +24,10 @@ https://streams.tangotv.in/BHOJPURICINEMA/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="EpicBhojpuri.in" tvg-name="Epic Bhojpuri" group-title="Movies" tvg-language="bho" tvg-quality="576p",Epic Bhojpuri
 https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
+
+#EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in" tvg-name="Oscar Movies Bhojpuri" group-title="Movies" tvg-language="bho" tvg-quality="576p",Oscar Movies Bhojpuri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/348/master.m3u8
 
 #EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in" tvg-name="Oscar Movies Bhojpuri" group-title="Movies" tvg-language="bho" tvg-quality="576p",Oscar Movies Bhojpuri
 https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8

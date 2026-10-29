@@ -2606,10 +2606,18 @@ https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/playlist.m3u8?hdnts=st=1735
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
 
 #EXTINF:-1 tvg-id="DDIndia.in" tvg-name="DD India" group-title="General" tvg-language="eng" tvg-quality="1080p",DD India
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/119/119_0.m3u8
+
+#EXTINF:-1 tvg-id="DDIndia.in" tvg-name="DD India" group-title="General" tvg-language="eng" tvg-quality="1080p",DD India
 https://mumbai-edge.smartplaytv.in/DDIndia/index.m3u8
 
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="ben;bho;eng;hin;kan;sgn;tam;tel" tvg-quality="1080p",DD Sports
 https://cdn.pishow.tv/ott/live/1161/master.m3u8
+
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="ben;bho;eng;hin;kan;sgn;tam;tel" tvg-quality="1080p",DD Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/280/master.m3u8
 
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="ben;bho;eng;hin;kan;sgn;tam;tel" tvg-quality="720p",DD Sports
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
@@ -2679,6 +2687,9 @@ http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 
 #EXTINF:-1 tvg-id="DetseneshowmedChristianFuhlendorff.se" tvg-name="Det sene show med Christian Fuhlendorff" group-title="Entertainment" tvg-language="dan;eng" tvg-quality="720p",Det sene show med Christian Fuhlendorff
 https://jmp2.uk/plu-660d6bc10cd4630008f4a25a.m3u8
+
+#EXTINF:-1 tvg-id="DGRadio.au" tvg-name="DG:Radio" group-title="Music;Religious" tvg-language="eng" tvg-quality="1080p",DG:Radio
+https://mdn.dg.church/683c0cb036885-1/index.m3u8
 
 #EXTINF:-1 tvg-id="DGTV.au" tvg-name="DG:TV" group-title="Religious" tvg-language="eng" tvg-quality="1080p",DG:TV
 https://mdn.dg.church/673ac57a073a4-1/index.m3u8
@@ -5794,6 +5805,9 @@ https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="720p",NBC
 https://townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u8
 
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="General" tvg-language="eng" tvg-quality="1080p",NBC
+https://video.tegnaone.com/wkyc/live/v1/manifest/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WKYC-Production/d39cf8a9-40a6-4cba-85f7-6c9d633843b3/2.m3u8
+
 #EXTINF:-1 tvg-id="NBCComedyVault.us" tvg-name="NBC Comedy Vault" group-title="Comedy" tvg-language="eng" tvg-quality="1080p",NBC Comedy Vault
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 
@@ -7526,10 +7540,6 @@ https://d3a0tomzw8z726.cloudfront.net/Ryan_and_Friends.m3u8
 #EXTINF:-1 tvg-id="RyanandFriends.us" tvg-name="Ryan and Friends" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Ryan and Friends
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SPlayEvent.us" tvg-name="S Play Event" group-title="Kids" tvg-language="eng" tvg-quality="1080p",S Play Event
-#EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6aa1fc1f063044342e102703
-https://vodcdn.bamboo-cloud.com/livehls/6a9f929f0630443af52c7162/master.m3u8
-
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C" group-title="Uncategorized" tvg-language="cym;eng" tvg-quality="1080p",S4C
 https://matchmaker.live.bidi.net.uk/vs-cmaf-pushb-uk/x=4/i=urn:bbc:pips:service:s4cpbs/pc_hd_abr_v2.mpd
 
@@ -7594,6 +7604,10 @@ https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/pl
 https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
 
 #EXTINF:-1 tvg-id="SansadTV1.in" tvg-name="Sansad TV 1" group-title="Legislative" tvg-language="eng;hin" tvg-quality="1080p",Sansad TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/718/master.m3u8
+
+#EXTINF:-1 tvg-id="SansadTV1.in" tvg-name="Sansad TV 1" group-title="Legislative" tvg-language="eng;hin" tvg-quality="1080p",Sansad TV 1
 https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8
 
 #EXTINF:-1 tvg-id="SansadTV1.in" tvg-name="Sansad TV 1" group-title="Legislative" tvg-language="eng;hin" tvg-quality="1080p",Sansad TV 1
@@ -7602,6 +7616,10 @@ https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 
 #EXTINF:-1 tvg-id="SansadTV2.in" tvg-name="Sansad TV 2" group-title="Legislative" tvg-language="eng;hin" tvg-quality="1080p",Sansad TV 2
 https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
+
+#EXTINF:-1 tvg-id="SansadTV2.in" tvg-name="Sansad TV 2" group-title="Legislative" tvg-language="eng;hin" tvg-quality="1080p",Sansad TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/298/master.m3u8
 
 #EXTINF:-1 tvg-id="SansadTV2.in" tvg-name="Sansad TV 2" group-title="Legislative" tvg-language="eng;hin" tvg-quality="1080p",Sansad TV 2
 #EXTVLCOPT:http-referrer=https://webcast.gov.in/

@@ -56,9 +56,6 @@ https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8
 #EXTINF:-1 tvg-id="SuriyaTV.in" tvg-name="Suriya TV" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Suriya TV
 https://stream.ottlive.co.in/suryatvtamil/index.m3u8
 
-#EXTINF:-1 tvg-id="YETTV.in" tvg-name="YET TV" group-title="Entertainment" tvg-language="tam" tvg-quality="720p",YET TV
-https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
-
 #EXTINF:-1 tvg-id="ZeeTamil.in" tvg-name="Zee Tamil" group-title="Entertainment" tvg-language="tam" tvg-quality="1080p",Zee Tamil
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8
 

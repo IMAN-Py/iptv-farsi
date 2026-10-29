@@ -4,7 +4,7 @@
 
 Find free Tamil live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**124 channels · 210 stream entries**
+**121 channels · 215 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 210 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u` |
-| HD | 87 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/hd.m3u` |
-| SD / unknown | 123 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sd.m3u` |
+| All channels | 215 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u` |
+| HD | 86 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/hd.m3u` |
+| SD / unknown | 129 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,18 +25,18 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 2 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sports.m3u` |
+| Sports | 2 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sports.m3u` |
 | Movies | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/movies.m3u` |
-| News | 18 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/news.m3u` |
-| Music | 12 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/music.m3u` |
-| Kids | 13 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/kids.m3u` |
+| News | 18 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/news.m3u` |
+| Music | 11 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/music.m3u` |
+| Kids | 12 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/kids.m3u` |
 | Documentary | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/documentary.m3u` |
-| Entertainment | 25 | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/entertainment.m3u` |
+| Entertainment | 24 | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/entertainment.m3u` |
 | Animation | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/animation.m3u` |
 | Comedy | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/comedy.m3u` |
 | Culture | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/culture.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/family.m3u` |
-| General | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/general.m3u` |
+| General | 9 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/general.m3u` |
 | Lifestyle | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/lifestyle.m3u` |
 | Religious | 22 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/religious.m3u` |
 | Travel | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/travel.m3u` |
@@ -47,7 +47,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
-| 7S Music | 7SMusic.in | 360p, 576p | 3 |
+| 7S Music | 7SMusic.in | 360p, 576p | 4 |
 | Aaryaa TV | AaryaaTV.in | 1080p | 1 |
 | Aaseervatham TV | AaseervathamTV.in | 576p | 1 |
 | Aastha Tamil | AasthaTamil.in | 480p | 1 |
@@ -62,8 +62,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Cartoon Network | CartoonNetwork.in | 720p | 1 |
 | Chithiram | Chithiram.in | 576p | 1 |
 | Colors Tamil | ColorsTamil.in | 720p | 1 |
-| DD Sports | DDSports.in | 1080p, 720p | 2 |
-| DD Tamil | DDTamil.in | 1080p | 2 |
+| DD Sports | DDSports.in | 1080p, 720p | 3 |
+| DD Tamil | DDTamil.in | 1080p, 576p | 3 |
 | Dharsan TV | DharsanTV.in | 720p | 1 |
 | Dhool TV | DhoolTV.in | 576p | 1 |
 | Discovery Channel | DiscoveryChannel.in | 720p | 2 |
@@ -71,7 +71,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Disney Channel | DisneyChannel.in | 1080p | 1 |
 | Disney Junior | DisneyJunior.in | 576p | 1 |
 | EET TV | EETTV.ca | 1080p | 1 |
-| ETV Bal Bharat | ETVBalBharat.in | 576p | 1 |
 | Hebron TV | HebronTV.in | 1080p | 1 |
 | History TV18 | HistoryTV18.in | 1080p | 2 |
 | Hosanna TV | HosannaTV.in | 1080i, 720p | 2 |
@@ -88,10 +87,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Life TV | LifeTV.in | 720p | 1 |
 | M Nadu TV | MNaduTV.in | 576p | 1 |
 | Madha TV | MadhaTV.in | 576i, 576p | 3 |
-| Madhimugam TV | MadhimugamTV.in | 576p | 3 |
+| Madhimugam TV | MadhimugamTV.in | 576p | 4 |
 | Mahimai TV | MahimaiTV.in | 576p | 1 |
-| Makkal TV | MakkalTV.in | 576i, 576p | 3 |
-| Malai Murasu TV | MalaiMurasuTV.in | 1080p, 576p, 720p | 4 |
+| Makkal TV | MakkalTV.in | 576i, 576p | 4 |
+| Malai Murasu TV | MalaiMurasuTV.in | 1080p, 576p, 720p | 5 |
 | Marutam TV | MarutamTV.in | 1080p | 1 |
 | Mei Alai TV | MeiAlaiTV.in | 576p | 1 |
 | MK Six | MKSix.in | 576p, 720p | 2 |
@@ -159,15 +158,13 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV2 | TV2.my | 1080p | 1 |
 | Ultimate TV | UltimateTV.in | 1080p, 576p | 2 |
 | Vaanavil TV | VaanavilTV.in | 576p, 720p | 2 |
-| Vasanth TV | VasanthTV.in | 576p | 2 |
+| Vasanth TV | VasanthTV.in | 576p | 3 |
 | Velicham TV | VelichamTV.in | 576p | 3 |
-| Vendhar TV | VendharTV.in | 576p | 3 |
+| Vendhar TV | VendharTV.in | 576p | 4 |
 | Verbum TV | VerbumTV.lk | 1080p, 480p | 2 |
 | Vijay Takkar | VijayTakkar.in | 1080p | 1 |
 | Village TV | VillageTV.in | 1080p, 576p | 2 |
 | Win TV | WinTV.in | 576p | 2 |
 | WOW Kidz | WOWKidz.in | 720p | 1 |
-| YET Max | YETMax.in | 720p | 1 |
-| YET TV | YETTV.in | 720p | 1 |
 | Zee Tamil | ZeeTamil.in | 1080p, 576p, 720p | 3 |
 | Zee Tamil News | ZeeTamilNews.in | 720p | 1 |

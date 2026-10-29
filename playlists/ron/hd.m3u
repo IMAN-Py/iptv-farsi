@@ -52,9 +52,6 @@ https://5bb3298db4821.streamlock.net/ctv/livecredo/playlist.m3u8
 #EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" group-title="News" tvg-language="ron" tvg-quality="720p",Digi 24
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 
-#EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Digi Sport 2
-https://lbgo.bozztv.com/ssh101/ssh101/digisport222/playlist.m3u8
-
 #EXTINF:-1 tvg-id="DottoTV.ro" tvg-name="Dotto TV" group-title="News" tvg-language="ron" tvg-quality="1080p",Dotto TV
 https://live.dottotv.ro/index.m3u8
 
@@ -63,9 +60,6 @@ https://streams.prd.commavservices.eu/live/ebs/index.m3u8
 
 #EXTINF:-1 tvg-id="EbSPlus.be" tvg-name="EbS+" group-title="Legislative" tvg-language="bos;bul;ces;dan;deu;ell;eng;est;fin;fra;gle;hrv;hun;ita;lav;lit;mkd;mlt;nld;pol;por;ron;slk;slv;spa;sqi;srp;swe" tvg-quality="1080p",EbS+
 https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
-
-#EXTINF:-1 tvg-id="FilmNow.ro" tvg-name="Film Now" group-title="Movies" tvg-language="ron" tvg-quality="1080i",Film Now
-https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HalloweenNonStop.ro" tvg-name="Halloween Non Stop" group-title="Movies" tvg-language="ron" tvg-quality="720p",Halloween Non Stop
 https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8
@@ -89,9 +83,8 @@ https://online.tvimpact.live/hls/impact_tv.m3u8
 #EXTINF:-1 tvg-id="JOBTV.ro" tvg-name="JOB TV" group-title="Business" tvg-language="ron" tvg-quality="1080p",JOB TV
 https://jobtvserver.eu/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="KapitalTV.ro" tvg-name="Kapital TV" group-title="General" tvg-language="ron" tvg-quality="1080p",Kapital TV
-#EXTVLCOPT:http-referrer=https://kapitaltv.ro/
-https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8
+#EXTINF:-1 tvg-id="JOBTV.ro" tvg-name="JOB TV" group-title="Business" tvg-language="ron" tvg-quality="1080i",JOB TV
+https://jobtvserver.eu/hls/stream_src/index.m3u8
 
 #EXTINF:-1 tvg-id="KissTV.ro" tvg-name="Kiss TV" group-title="Music" tvg-language="ron" tvg-quality="1080p",Kiss TV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8

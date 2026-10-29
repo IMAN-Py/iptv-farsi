@@ -6,6 +6,10 @@ https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
 https://cdn.pishow.tv/ott/live/262/master.m3u8
 
 #EXTINF:-1 tvg-id="AasthaTelugu.in" tvg-name="Aastha Telugu" group-title="Religious" tvg-language="tel" tvg-quality="576p",Aastha Telugu
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/702/master.m3u8
+
+#EXTINF:-1 tvg-id="AasthaTelugu.in" tvg-name="Aastha Telugu" group-title="Religious" tvg-language="tel" tvg-quality="576p",Aastha Telugu
 https://mumbai-edge.smartplaytv.in/AasthaTelugu/index.m3u8
 
 #EXTINF:-1 tvg-id="BhakthiTV.in" tvg-name="Bhakthi TV" group-title="Religious" tvg-language="tel" tvg-quality="576i",Bhakthi TV
@@ -19,6 +23,10 @@ https://samitaorigin.tangotv.in/CHHAYACHITRAMTELUGU/SAMITAORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="CVROMSpiritual.in" tvg-name="CVR OM Spiritual" group-title="Religious" tvg-language="tel" tvg-quality="576p",CVR OM Spiritual
 https://cdn.pishow.tv/ott/live/957/master.m3u8
+
+#EXTINF:-1 tvg-id="CVROMSpiritual.in" tvg-name="CVR OM Spiritual" group-title="Religious" tvg-language="tel" tvg-quality="576p",CVR OM Spiritual
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/705/master.m3u8
 
 #EXTINF:-1 tvg-id="CVROMSpiritual.in" tvg-name="CVR OM Spiritual" group-title="Religious" tvg-language="tel" tvg-quality="576p",CVR OM Spiritual
 https://mumbai-edge.smartplaytv.in/CVROM/index.m3u8
@@ -48,13 +56,25 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:hindudharmam.smil/playlist.
 https://d1msejlow1t3l4.cloudfront.net/fta/mahaabhakti/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MahaaBhakti.in" tvg-name="Mahaa Bhakti" group-title="Religious" tvg-language="tel" tvg-quality="576p",Mahaa Bhakti
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/707/master.m3u8
+
+#EXTINF:-1 tvg-id="MahaaBhakti.in" tvg-name="Mahaa Bhakti" group-title="Religious" tvg-language="tel" tvg-quality="576p",Mahaa Bhakti
 https://mumt01.tangotv.in/O5aw8Zn3MAHABHAKTI/index.m3u8
 
 #EXTINF:-1 tvg-id="NireekshanaTV.in" tvg-name="Nireekshana TV" group-title="Religious" tvg-language="tel" tvg-quality="576p",Nireekshana TV
 https://cdn.pishow.tv/ott/live/965/master.m3u8
 
+#EXTINF:-1 tvg-id="NireekshanaTV.in" tvg-name="Nireekshana TV" group-title="Religious" tvg-language="tel" tvg-quality="576p",Nireekshana TV
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/706/master.m3u8
+
 #EXTINF:-1 tvg-id="SubhavaarthaTV.in" tvg-name="Subhavaartha TV" group-title="Religious" tvg-language="tel" tvg-quality="576i",Subhavaartha TV
 https://cdn.pishow.tv/ott/live/278/master.m3u8
+
+#EXTINF:-1 tvg-id="SubhavaarthaTV.in" tvg-name="Subhavaartha TV" group-title="Religious" tvg-language="tel" tvg-quality="576p",Subhavaartha TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/301/master.m3u8
 
 #EXTINF:-1 tvg-id="SubhavaarthaTV.in" tvg-name="Subhavaartha TV" group-title="Religious" tvg-language="tel" tvg-quality="576p",Subhavaartha TV
 https://mumt05.tangotv.in/87NeALx2SUBHAVAARTHATV/index.m3u8

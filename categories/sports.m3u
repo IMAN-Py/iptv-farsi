@@ -337,6 +337,14 @@ https://cdn.pishow.tv/ott/live/13/master.m3u8
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="hin" tvg-quality="1080p",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="ben;bho;eng;hin;kan;sgn;tam;tel" tvg-quality="1080p",DD Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/280/master.m3u8
+
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="hin" tvg-quality="576p",DD Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/64/64_0.m3u8
+
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" group-title="Sports" tvg-language="hin" tvg-quality="576p",DD Sports
 https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8
 
@@ -357,9 +365,6 @@ https://streaming.onnethn.com/DEPORTES_TVC/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" group-title="Sports" tvg-language="spa" tvg-quality="1080p",DeporTV
 http://158.172.155.130:8000/play/a09y/index.m3u8
-
-#EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2" group-title="Sports" tvg-language="ron" tvg-quality="1080i",Digi Sport 2
-https://lbgo.bozztv.com/ssh101/ssh101/digisport222/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiviSport.ua" tvg-name="DiviSport" group-title="Sports" tvg-language="ukr" tvg-quality="1080p",DiviSport
 http://stream.mcquack.net/457/index.m3u8
@@ -1036,6 +1041,9 @@ http://213.91.179.28:8000/play/a0ar
 #EXTINF:-1 tvg-id="MaxSport4.bg" tvg-name="Max Sport 4" group-title="Sports" tvg-language="bul" tvg-quality="576i",Max Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a05n
+
+#EXTINF:-1 tvg-id="MEGOGOSport.ua" tvg-name="MEGOGO Sport" group-title="Sports" tvg-language="ukr" tvg-quality="1080p",MEGOGO Sport
+http://5.188.159.128:8070/megogo_sport/index.m3u8
 
 #EXTINF:-1 tvg-id="MeridianoTV.ve" tvg-name="Meridiano TV" group-title="Sports" tvg-language="spa" tvg-quality="576p",Meridiano TV
 http://181.78.8.199:8000/play/a0fr/index.m3u8

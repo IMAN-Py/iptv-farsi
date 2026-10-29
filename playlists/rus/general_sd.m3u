@@ -27,6 +27,9 @@ http://stream.mcquack.net/175/index.m3u8
 #EXTINF:-1 tvg-id="Belarus4.by" tvg-name="Belarus-4" group-title="General" tvg-language="rus" tvg-quality="576i",Belarus-4
 https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BelsatTV.pl" tvg-name="Belsat TV" group-title="General" tvg-language="bel;rus;ukr" tvg-quality="576i",Belsat TV
+http://78.62.9.23:55555/Belsat
+
 #EXTINF:-1 tvg-id="BlackSeaTV.ua" tvg-name="Black Sea TV" group-title="General" tvg-language="rus;ukr" tvg-quality="576i",Black Sea TV
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8

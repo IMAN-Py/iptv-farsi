@@ -1231,6 +1231,9 @@ https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8
 #EXTINF:-1 tvg-id="LaraenRedes.ve" tvg-name="Lara en Redes" group-title="Entertainment" tvg-language="spa" tvg-quality="576p",Lara en Redes
 https://streamtv.laraenredes.com:3020/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="Las Estrellas Latin America" group-title="General" tvg-language="spa" tvg-quality="480i",Las Estrellas Latin America
+https://streaming.onnethn.com/LAS_ESTRELLAS_HD/playlist.m3u8
+
 #EXTINF:-1 tvg-id="LatacungaTV.ec" tvg-name="LatacungaTV" group-title="Entertainment" tvg-language="spa" tvg-quality="360p",LatacungaTV
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 
@@ -1403,6 +1406,9 @@ https://live.mtna.tv/hls/mtna/mtna.m3u8
 
 #EXTINF:-1 tvg-id="MTVenEspanol.us" tvg-name="MTV en Espanol" group-title="Entertainment" tvg-language="eng;spa" tvg-quality="480i",MTV en Espanol
 https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
+
+#EXTINF:-1 tvg-id="MTVLatinAmerica.us" tvg-name="MTV Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",MTV Latin America
+http://181.78.79.131:8000/play/a0nc
 
 #EXTINF:-1 tvg-id="MultivisionFederal.ar" tvg-name="Multivision Federal" group-title="News" tvg-language="spa" tvg-quality="576i",Multivision Federal
 https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8
@@ -1707,6 +1713,9 @@ http://181.65.191.173:8069/play/a061
 
 #EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" group-title="Entertainment" tvg-language="spa" tvg-quality="576p",RCN Novelas
 http://181.78.8.199:8000/play/a0a7/index.m3u8
+
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" group-title="Entertainment" tvg-language="spa" tvg-quality="480p",RCN Novelas
+http://45.171.64.30:8800/play/a01z
 
 #EXTINF:-1 tvg-id="RCTV3.us" tvg-name="RCTV3" group-title="General" tvg-language="eng;spa" tvg-quality="480p",RCTV3
 https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8
@@ -2055,6 +2064,9 @@ http://190.61.42.218:9000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="spa" tvg-quality="480i",Tooncast
 http://45.173.231.22:8000/play/a01i/index.m3u8
 
+#EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-name="Top Latino TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Top Latino TV
+http://38.87.224.20:2220/play/a02b/index.m3u8
+
 #EXTINF:-1 tvg-id="TopTV.pe" tvg-name="Top TV" group-title="General" tvg-language="spa" tvg-quality="240p",Top TV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 
@@ -2376,4 +2388,7 @@ http://45.170.130.224:8000/play/a00x/index.m3u8
 
 #EXTINF:-1 tvg-id="ZonavisionTV.do" tvg-name="Zonavision TV" group-title="General" tvg-language="spa" tvg-quality="576i",Zonavision TV
 https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
+
+#EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" group-title="Education" tvg-language="spa" tvg-quality="480i",Zoom
+http://181.78.79.131:8000/play/a0sg
 

@@ -8,6 +8,10 @@ https://cdn.pishow.tv/ott/live/10/master.m3u8
 #EXTINF:-1 tvg-id="DDBharati.in" tvg-name="DD Bharati" group-title="Culture" tvg-language="hin" tvg-quality="504p",DD Bharati
 https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
 
+#EXTINF:-1 tvg-id="DDBharati.in" tvg-name="DD Bharati" group-title="Culture" tvg-language="hin" tvg-quality="576p",DD Bharati
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/335/master.m3u8
+
 #EXTINF:-1 tvg-id="HyderTV.ca" tvg-name="Hyder TV" group-title="Culture" tvg-language="hin" tvg-quality="720p",Hyder TV
 https://cdn.live247stream.com/hyder/tv/playlist.m3u8
 
@@ -19,6 +23,10 @@ http://103.154.3.101:5001/live/961.m3u8
 
 #EXTINF:-1 tvg-id="SanskarTV.in" tvg-name="Sanskar TV" group-title="Culture;Religious" tvg-language="hin" tvg-quality="1080p",Sanskar TV
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+
+#EXTINF:-1 tvg-id="SanskarTV.in" tvg-name="Sanskar TV" group-title="Culture;Religious" tvg-language="hin" tvg-quality="576p",Sanskar TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/165/master.m3u8
 
 #EXTINF:-1 tvg-id="TrishulBroadcastingNetwork.sr" tvg-name="Trishul Broadcasting Network" group-title="Culture" tvg-language="eng;hin;nld" tvg-quality="720p",Trishul Broadcasting Network
 https://live.suricloud.com/hls/tbntv/index.m3u8

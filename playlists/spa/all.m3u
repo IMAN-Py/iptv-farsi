@@ -2899,6 +2899,9 @@ http://38.134.250.110:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.us" tvg-name="Discovery World" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Discovery World
 http://168.196.127.137:6001/play/a097/index.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryWorld.us" tvg-name="Discovery World" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",Discovery World
+http://209.61.12.77:9000/play/a08v/index.m3u8
+
 #EXTINF:-1 tvg-id="DismarRadioTV.py" tvg-name="Dismar Radio TV" group-title="Music" tvg-language="spa" tvg-quality="720p",Dismar Radio TV
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 
@@ -4095,6 +4098,9 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8
 #EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO+ Latin America" group-title="Uncategorized" tvg-language="spa" tvg-quality="720p",HBO+ Latin America
 http://15.204.246.24:8080/HBOPlusHD/index.m3u8
 
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO+ Latin America" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",HBO+ Latin America
+http://45.134.141.161:2200/ARG/HBO_HD/index.m3u8
+
 #EXTINF:-1 tvg-id="HCH.hn" tvg-name="HCH" group-title="News" tvg-language="spa" tvg-quality="720p",HCH
 http://45.228.234.9:8000/play/a06t/index.m3u8
 
@@ -4692,6 +4698,9 @@ http://209.14.115.253:8081/LAS-ESTRELLAS/index.m3u8
 
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="Las Estrellas Latin America" group-title="General" tvg-language="spa" tvg-quality="1080p",Las Estrellas Latin America
 http://38.44.109.41:8003/play/a0he
+
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="Las Estrellas Latin America" group-title="General" tvg-language="spa" tvg-quality="480i",Las Estrellas Latin America
+https://streaming.onnethn.com/LAS_ESTRELLAS_HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LasTortugasNinja.us" tvg-name="Las Tortugas Ninja" group-title="Animation" tvg-language="spa" tvg-quality="720p",Las Tortugas Ninja
 https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
@@ -5308,6 +5317,9 @@ https://jmp2.uk/plu-62ac3d7dc23b400008ae5b5a.m3u8
 
 #EXTINF:-1 tvg-id="MTVLatinAmerica.us" tvg-name="MTV Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",MTV Latin America
 http://15.204.246.24:8080/MTVHD/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVLatinAmerica.us" tvg-name="MTV Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="480i",MTV Latin America
+http://181.78.79.131:8000/play/a0nc
 
 #EXTINF:-1 tvg-id="MTVLatinAmerica.us" tvg-name="MTV Latin America" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",MTV Latin America
 https://streaming.onnethn.com/MTV/playlist.m3u8
@@ -6744,6 +6756,9 @@ http://181.65.191.173:8069/play/a061
 
 #EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" group-title="Entertainment" tvg-language="spa" tvg-quality="576p",RCN Novelas
 http://181.78.8.199:8000/play/a0a7/index.m3u8
+
+#EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" group-title="Entertainment" tvg-language="spa" tvg-quality="480p",RCN Novelas
+http://45.171.64.30:8800/play/a01z
 
 #EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" group-title="Entertainment" tvg-language="spa" tvg-quality="1080p",RCN Novelas
 https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
@@ -8196,6 +8211,9 @@ https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8
 #EXTINF:-1 tvg-id="TelevisionCanaria.es" tvg-name="Television Canaria" group-title="Uncategorized" tvg-language="spa" tvg-quality="1080p",Television Canaria
 https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TelevisionCaribe.us" tvg-name="Television Caribe" group-title="Entertainment;General" tvg-language="spa" tvg-quality="1080p",Television Caribe
+https://televisioncaribe.com/index.m3u8
+
 #EXTINF:-1 tvg-id="TelevisionComayaguaCanal40.hn" tvg-name="Television Comayagua Canal 40" group-title="Uncategorized" tvg-language="spa" tvg-quality="720p",Television Comayagua Canal 40
 https://mediacp.us:8081/8034/index.m3u8
 
@@ -8430,6 +8448,9 @@ http://45.173.231.22:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" group-title="Animation;Kids" tvg-language="eng;por;spa" tvg-quality="720p",Tooncast
 https://streaming.onnethn.com/TOONCAST/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-name="Top Latino TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Top Latino TV
+http://38.87.224.20:2220/play/a02b/index.m3u8
 
 #EXTINF:-1 tvg-id="TopTV.pe" tvg-name="Top TV" group-title="General" tvg-language="spa" tvg-quality="240p",Top TV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
@@ -9507,9 +9528,6 @@ https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WaldivisionInternacional.hn" tvg-name="Waldivision Internacional" group-title="General" tvg-language="spa" tvg-quality="480i",Waldivision Internacional
 https://media.streambrothers.com:19360/8308/8308.m3u8
 
-#EXTINF:-1 tvg-id="WAPATV41.pr" tvg-name="WAPA-TV 4.1" group-title="General" tvg-language="spa" tvg-quality="1080p",WAPA-TV 4.1
-https://wapa-updater.onrender.com/WAPA-TV-4-1.m3u8
-
 #EXTINF:-1 tvg-id="Wapp.cl" tvg-name="Wapp" group-title="Lifestyle" tvg-language="spa" tvg-quality="720p",Wapp
 https://stream.wapptv.cl/video/index.m3u8
 
@@ -9734,6 +9752,9 @@ https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
 
 #EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" group-title="Education" tvg-language="spa" tvg-quality="1080p",Zoom
 http://138.121.15.230:9002/ZOOM/index.m3u8
+
+#EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" group-title="Education" tvg-language="spa" tvg-quality="480i",Zoom
+http://181.78.79.131:8000/play/a0sg
 
 #EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" group-title="Education" tvg-language="spa" tvg-quality="1080p",Zoom
 http://190.217.66.92:8000/play/a0ej/index.m3u8

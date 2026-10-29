@@ -11,11 +11,11 @@ https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8
 #EXTINF:-1 tvg-id="Antena3CNN.ro" tvg-name="Antena 3 CNN" group-title="News" tvg-language="ron" tvg-quality="576p",Antena 3 CNN
 https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8
 
+#EXTINF:-1 tvg-id="Antena3Constanta.ro" tvg-name="Antena 3 Constanta" group-title="News" tvg-language="eng;ron" tvg-quality="576p",Antena 3 Constanta
+https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
+
 #EXTINF:-1 tvg-id="AntenaInternational.ro" tvg-name="Antena International" group-title="General" tvg-language="ron" tvg-quality="576i",Antena International
 https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8
-
-#EXTINF:-1 tvg-id="AntenaStars.ro" tvg-name="Antena Stars" group-title="Entertainment" tvg-language="ron" tvg-quality="576i",Antena Stars
-https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8
 
 #EXTINF:-1 tvg-id="AsiaExpressNonStop.ro" tvg-name="Asia Express NonStop" group-title="Entertainment" tvg-language="ron" tvg-quality="576i",Asia Express NonStop
 https://live4dai.antenaplay.ro/live2_sport05/live2_sport05_600k.m3u8
@@ -39,6 +39,9 @@ https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
 
 #EXTINF:-1 tvg-id="BanatTV.ro" tvg-name="Banat TV" group-title="General" tvg-language="ron" tvg-quality="576i",Banat TV
 https://www.btv.ro/hls/banat-tv.m3u8
+
+#EXTINF:-1 tvg-id="BihorTV.ro" tvg-name="Bihor TV" group-title="General" tvg-language="ron" tvg-quality="576p",Bihor TV
+https://bihor-tv.ro/hls/bihortv.m3u8
 
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-name="Bollywood Classic" group-title="Classic;Movies" tvg-language="hin;ron" tvg-quality="576i",Bollywood Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -163,6 +166,9 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch2/stream.m3u8
 #EXTINF:-1 tvg-id="KanalD.ro" tvg-name="Kanal D" group-title="General" tvg-language="ron" tvg-quality="480p",Kanal D
 https://stream1.kanald.ro/iphone/knd-live.m3u8
 
+#EXTINF:-1 tvg-id="KapitalTV.ro" tvg-name="Kapital TV" group-title="General" tvg-language="ron" tvg-quality="576i",Kapital TV
+https://hls02ns.antenaplay.ro/hls/kapital-tv-sd/index.m3u8
+
 #EXTINF:-1 tvg-id="LightChannel.ro" tvg-name="Light Channel" group-title="Uncategorized" tvg-language="ron" tvg-quality="480p",Light Channel
 http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 
@@ -206,6 +212,9 @@ https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
 
 #EXTINF:-1 tvg-id="NationalTV.ro" tvg-name="National TV" group-title="General" tvg-language="ron" tvg-quality="576i",National TV
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
+
+#EXTINF:-1 tvg-id="NCN.ro" tvg-name="NCN" group-title="General" tvg-language="ron" tvg-quality="576p",NCN
+https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="Nickelodeon" group-title="Kids" tvg-language="ron" tvg-quality="576i",Nickelodeon
 http://178.76.68.60:7442/64/mpegts

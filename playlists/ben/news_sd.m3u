@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ABPAnanda.in" tvg-name="ABP Ananda" group-title="News" tvg-language="ben" tvg-quality="576p",ABP Ananda
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/200/master.m3u8
+
 #EXTINF:-1 tvg-id="AKDCalcuttaNews.in" tvg-name="AKD Calcutta News" group-title="News" tvg-language="ben" tvg-quality="576p",AKD Calcutta News
 https://cdn.pishow.tv/ott/live/237/master.m3u8
 
@@ -51,7 +55,15 @@ https://mumt06.tangotv.in/qYyB8fXVINDRADHANU/index.m3u8
 https://cdn.pishow.tv/ott/live/270/master.m3u8
 
 #EXTINF:-1 tvg-id="RepublicBangla.in" tvg-name="Republic Bangla" group-title="News" tvg-language="ben" tvg-quality="576p",Republic Bangla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/663/master.m3u8
+
+#EXTINF:-1 tvg-id="RepublicBangla.in" tvg-name="Republic Bangla" group-title="News" tvg-language="ben" tvg-quality="576p",Republic Bangla
 https://streams.tangotv.in/RBANGLA/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="TV9Bangla.in" tvg-name="TV9 Bangla" group-title="News" tvg-language="ben" tvg-quality="576p",TV9 Bangla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/201/master.m3u8
 
 #EXTINF:-1 tvg-id="TV9Bangla.in" tvg-name="TV9 Bangla" group-title="News" tvg-language="ben" tvg-quality="576p",TV9 Bangla
 https://streams.tangotv.in/TV9BANGLA/ORIGIN/index.m3u8

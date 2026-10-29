@@ -15,6 +15,9 @@ http://195.54.52.40/test/index.m3u8
 #EXTINF:-1 tvg-id="Avers.ua" tvg-name="Avers" group-title="General" tvg-language="ukr" tvg-quality="480p",Avers
 https://avers.pp.ua/hls/efir.m3u8
 
+#EXTINF:-1 tvg-id="BelsatTV.pl" tvg-name="Belsat TV" group-title="General" tvg-language="bel;rus;ukr" tvg-quality="576i",Belsat TV
+http://78.62.9.23:55555/Belsat
+
 #EXTINF:-1 tvg-id="Bigudi.ua" tvg-name="Bigudi" group-title="Uncategorized" tvg-language="ukr" tvg-quality="576p",Bigudi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/340/index.m3u8

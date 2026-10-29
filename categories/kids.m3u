@@ -658,9 +658,6 @@ https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-id="ETV2.ee" tvg-name="ETV 2" group-title="Culture;Kids" tvg-language="est" tvg-quality="720p",ETV 2
 https://sb.err.ee/live/etv2.m3u8
 
-#EXTINF:-1 tvg-id="ETVBalBharat.in" tvg-name="ETV Bal Bharat" group-title="Kids" tvg-language="asm;ben;eng;guj;hin;kan;mal;mar;ori;pan;tam;tel" tvg-quality="576p",ETV Bal Bharat
-http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
-
 #EXTINF:-1 tvg-id="Eureka.co" tvg-name="Eureka" group-title="Kids" tvg-language="spa" tvg-quality="1080p",Eureka
 https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8
 
@@ -1526,13 +1523,6 @@ http://31.148.48.15/Rizhiy/index.m3u8
 #EXTINF:-1 tvg-id="Ryzhiy.ru" tvg-name="Ryzhiy" group-title="Kids" tvg-language="rus" tvg-quality="576i",Ryzhiy
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="SCorbyTV.us" tvg-name="S Corby TV" group-title="Kids" tvg-language="eng" tvg-quality="480p",S Corby TV
-https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8
-
-#EXTINF:-1 tvg-id="SPlayEvent.us" tvg-name="S Play Event" group-title="Kids" tvg-language="eng" tvg-quality="1080p",S Play Event
-#EXTVLCOPT:http-referrer=https://splay.bamboo-cloud.com/channel/6aa1fc1f063044342e102703
-https://vodcdn.bamboo-cloud.com/livehls/6a9f929f0630443af52c7162/master.m3u8
-
 #EXTINF:-1 tvg-id="Sat7Kids.cy" tvg-name="Sat 7 Kids" group-title="Kids;Religious" tvg-language="ara" tvg-quality="1080p",Sat 7 Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 
@@ -1848,6 +1838,10 @@ https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="Unikum.ru" tvg-name="Unikum" group-title="Kids" tvg-language="rus" tvg-quality="576p",Unikum
 http://31.148.48.15/Detskiy/index.m3u8
+
+#EXTINF:-1 tvg-id="UniqueTV.in" tvg-name="Unique TV" group-title="Entertainment;Kids" tvg-language="hin" tvg-quality="576p",Unique TV
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/688/master.m3u8
 
 #EXTINF:-1 tvg-id="UniqueTV.in" tvg-name="Unique TV" group-title="Entertainment;Kids" tvg-language="hin" tvg-quality="576p",Unique TV
 https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8

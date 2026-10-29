@@ -4,7 +4,7 @@
 
 Find free Belarusian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**13 channels · 20 stream entries**
+**14 channels · 21 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/bel/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/bel/all.m3u` |
+| All channels | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/bel/all.m3u` |
 | HD | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/bel/hd.m3u` |
-| SD / unknown | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/bel/sd.m3u` |
+| SD / unknown | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/bel/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,7 +29,7 @@ Each list combines this language with a source category. Counts are stream entri
 | News | 2 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/bel/news.m3u` |
 | Entertainment | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bel/entertainment.m3u` |
 | Culture | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bel/culture.m3u` |
-| General | 7 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/bel/general.m3u` |
+| General | 8 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/bel/general.m3u` |
 
 ## Included channels
 
@@ -42,6 +42,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Belarus-2 | Belarus2.by | 1080p | 1 |
 | Belarus-24 | Belarus24.by | 1080p, 576p | 4 |
 | Belarus-3 | Belarus3.by | 1080p | 1 |
+| Belsat TV | BelsatTV.pl | 576i | 1 |
 | Bug-TV | BugTV.by | 1080p | 1 |
 | Perviy Informationniy | PerviyInformationniy.by | 1080p | 1 |
 | Radio Mir | RadioMir.by | 720p | 1 |

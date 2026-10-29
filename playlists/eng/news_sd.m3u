@@ -9,6 +9,10 @@ https://30a-tv.com/loomer.m3u8
 https://cdn.pishow.tv/ott/live/1057/master.m3u8
 
 #EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" group-title="News" tvg-language="eng;hin" tvg-quality="576p",ABP News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/595/master.m3u8
+
+#EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" group-title="News" tvg-language="eng;hin" tvg-quality="576p",ABP News
 https://mumt04.tangotv.in/m18aqlK4ABPNEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="576p",Al Jazeera
@@ -21,6 +25,10 @@ https://cdn-7.pishow.tv/live/429/master.m3u8
 https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="576p",Al Jazeera
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/318/master.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="576p",Al Jazeera
 https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="AL24News.dz" tvg-name="AL24 News" group-title="News" tvg-language="ara;eng;fra" tvg-quality="576i",AL24 News
@@ -28,6 +36,9 @@ https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_
 
 #EXTINF:-1 tvg-id="AnewZTV.az" tvg-name="AnewZ TV" group-title="News" tvg-language="eng" tvg-quality="576i",AnewZ TV
 https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Antena3Constanta.ro" tvg-name="Antena 3 Constanta" group-title="News" tvg-language="eng;ron" tvg-quality="576p",Antena 3 Constanta
+https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
 
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" group-title="General;News" tvg-language="eng" tvg-quality="480i",Arirang TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
@@ -74,6 +85,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
 #EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="576i",Bharat Express
 https://cdn.pishow.tv/ott/live/1139/master.m3u8
+
+#EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="576p",Bharat Express
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/736/master.m3u8
 
 #EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="576p",Bharat Express
 https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/index.m3u8
@@ -134,6 +149,10 @@ https://vid.hls.protv.ro/liveibu8/liveibu8_highw/index.m3u8?1
 https://tvsen6.aynaott.com/cp24/index.m3u8
 
 #EXTINF:-1 tvg-id="CVREnglish.in" tvg-name="CVR English" group-title="News" tvg-language="eng" tvg-quality="576p",CVR English
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/701/master.m3u8
+
+#EXTINF:-1 tvg-id="CVREnglish.in" tvg-name="CVR English" group-title="News" tvg-language="eng" tvg-quality="576p",CVR English
 https://mumbai-edge.smartplaytv.in/CVREnglishNews/index.m3u8
 
 #EXTINF:-1 tvg-id="CVREnglish.in" tvg-name="CVR English" group-title="News" tvg-language="eng" tvg-quality="576p",CVR English
@@ -145,11 +164,19 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:cvrnewseng.smil/playlist.m3
 #EXTINF:-1 tvg-id="DDMizoram.in" tvg-name="DD Mizoram" group-title="Culture;News" tvg-language="eng;lus" tvg-quality="504p",DD Mizoram
 https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
 
+#EXTINF:-1 tvg-id="DDMizoram.in" tvg-name="DD Mizoram" group-title="Culture;News" tvg-language="eng;lus" tvg-quality="576p",DD Mizoram
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/381/master.m3u8
+
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW" group-title="News" tvg-language="eng" tvg-quality="576p",DW
 http://stream.mcquack.net/440/index.m3u8
 
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW" group-title="News" tvg-language="eng" tvg-quality="576p",DW
 https://cdn-7.pishow.tv/live/431/master.m3u8
+
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" group-title="News" tvg-language="eng" tvg-quality="576p",DW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/116/116_0.m3u8
 
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW" group-title="News" tvg-language="eng" tvg-quality="576p",DW
 https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8
@@ -188,6 +215,10 @@ https://cdn.pishow.tv/ott/live/1463/master.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HornbillTV.in" tvg-name="Hornbill TV" group-title="News" tvg-language="eng" tvg-quality="576p",Hornbill TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/710/master.m3u8
+
+#EXTINF:-1 tvg-id="HornbillTV.in" tvg-name="Hornbill TV" group-title="News" tvg-language="eng" tvg-quality="576p",Hornbill TV
 https://mumt01.tangotv.in/O5aw8Zn3HORNBILLTV/index.m3u8
 
 #EXTINF:-1 tvg-id="IndiaAhead.in" tvg-name="India Ahead" group-title="News" tvg-language="eng" tvg-quality="576p",India Ahead
@@ -224,6 +255,10 @@ https://tvsen6.aynaott.com/msnbc/index.m3u8
 
 #EXTINF:-1 tvg-id="NDTV.in" tvg-name="NDTV" group-title="News" tvg-language="eng" tvg-quality="576p",NDTV
 https://cdn.pishow.tv/ott/live/315/master.m3u8
+
+#EXTINF:-1 tvg-id="NDTV.in" tvg-name="NDTV" group-title="News" tvg-language="eng" tvg-quality="576p",NDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/107/107_0.m3u8
 
 #EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name="NDTV 24x7" group-title="News" tvg-language="eng" tvg-quality="480p",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
@@ -265,10 +300,18 @@ https://dash3.antik.sk/live/test_newsmax_avc/playlist.m3u8
 https://cdn.pishow.tv/ott/live/1765/master.m3u8
 
 #EXTINF:-1 tvg-id="NewsX.in" tvg-name="NewsX" group-title="News" tvg-language="eng" tvg-quality="576p",NewsX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/603/master.m3u8
+
+#EXTINF:-1 tvg-id="NewsX.in" tvg-name="NewsX" group-title="News" tvg-language="eng" tvg-quality="576p",NewsX
 https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8
 
 #EXTINF:-1 tvg-id="NewsXWorld.in" tvg-name="NewsX World" group-title="News" tvg-language="eng" tvg-quality="576p",NewsX World
 https://cdn.pishow.tv/ott/live/1049/master.m3u8
+
+#EXTINF:-1 tvg-id="NewsXWorld.in" tvg-name="NewsX World" group-title="News" tvg-language="eng" tvg-quality="576p",NewsX World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/610/master.m3u8
 
 #EXTINF:-1 tvg-id="NewsXWorld.in" tvg-name="NewsX World" group-title="News" tvg-language="eng" tvg-quality="576p",NewsX World
 https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8
@@ -278,6 +321,10 @@ https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" group-title="Culture;News" tvg-language="eng;jpn" tvg-quality="576p",NHK World-Japan
 https://mumt07.tangotv.in/zHjX9OFlNHKWORLD/index.m3u8
+
+#EXTINF:-1 tvg-id="NortheastLive.in" tvg-name="Northeast Live" group-title="News" tvg-language="eng;hin" tvg-quality="576p",Northeast Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/674/master.m3u8
 
 #EXTINF:-1 tvg-id="NortheastLive.in" tvg-name="Northeast Live" group-title="News" tvg-language="eng;hin" tvg-quality="576p",Northeast Live
 https://mumt01.tangotv.in/O5aw8Zn3NORTHEASTLIVE/index.m3u8
@@ -304,6 +351,10 @@ https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9b
 
 #EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" group-title="News" tvg-language="eng" tvg-quality="576i",Republic TV
 https://cdn.pishow.tv/ott/live/271/master.m3u8
+
+#EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" group-title="News" tvg-language="eng" tvg-quality="576p",Republic TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/115/115_0.m3u8
 
 #EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" group-title="News" tvg-language="eng" tvg-quality="576p",Republic TV
 https://mumt05.tangotv.in/87NeALx2REPUBLICTV/index.m3u8

@@ -169,6 +169,9 @@ https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus5.by" tvg-name="Belarus-5" group-title="Sports" tvg-language="rus" tvg-quality="576p",Belarus-5
 https://streaming.thestream.cyou/live/7001.m3u8
 
+#EXTINF:-1 tvg-id="BelsatTV.pl" tvg-name="Belsat TV" group-title="General" tvg-language="bel;rus;ukr" tvg-quality="576i",Belsat TV
+http://78.62.9.23:55555/Belsat
+
 #EXTINF:-1 tvg-id="BigPlanet.ru" tvg-name="Big Planet" group-title="Uncategorized" tvg-language="rus" tvg-quality="576p",Big Planet
 https://fs.uplink.kz/big_planet/mono.m3u8?token=onlinetv
 

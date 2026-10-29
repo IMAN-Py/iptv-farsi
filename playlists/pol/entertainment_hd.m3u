@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ATMRozrywkaREWORK.pl" tvg-name="ATM Rozrywka REWORK" group-title="Entertainment" tvg-language="pol" tvg-quality="720p",ATM Rozrywka REWORK
-https://grupaatmrr.org.pl:8888/fallback/index.m3u8
-
 #EXTINF:-1 tvg-id="BialogardzkaTelewizjaKablowa.pl" tvg-name="Bialogardzka Telewizja Kablowa" group-title="Entertainment" tvg-language="pol" tvg-quality="1080p",Bialogardzka Telewizja Kablowa
 https://bsmbialogard.pl/live/index.m3u8
 

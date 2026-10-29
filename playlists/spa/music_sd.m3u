@@ -156,6 +156,9 @@ http://200.115.120.1:8000/play/ca048/index.m3u8
 #EXTINF:-1 tvg-id="TelehitMusica.mx" tvg-name="Telehit Musica" group-title="Music" tvg-language="spa" tvg-quality="480i",Telehit Musica
 http://190.61.55.34:2401/play/a06t/index.m3u8
 
+#EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-name="Top Latino TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Top Latino TV
+http://38.87.224.20:2220/play/a02b/index.m3u8
+
 #EXTINF:-1 tvg-id="Totovision.gt" tvg-name="Totovision" group-title="Music" tvg-language="spa" tvg-quality="480i",Totovision
 https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
 

@@ -21,6 +21,10 @@ https://namdhari.tv/live/sbs1.m3u8
 https://cdn.pishow.tv/ott/live/1503/master.m3u8
 
 #EXTINF:-1 tvg-id="PTCSimran.in" tvg-name="PTC Simran" group-title="Religious" tvg-language="pan" tvg-quality="576p",PTC Simran
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/183/master.m3u8
+
+#EXTINF:-1 tvg-id="PTCSimran.in" tvg-name="PTC Simran" group-title="Religious" tvg-language="pan" tvg-quality="576p",PTC Simran
 https://mumt05.tangotv.in/87NeALx2PTCSIMRAN/index.m3u8
 
 #EXTINF:-1 tvg-id="PTCSimran.in" tvg-name="PTC Simran" group-title="Religious" tvg-language="pan" tvg-quality="576p",PTC Simran

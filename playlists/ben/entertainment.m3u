@@ -44,6 +44,10 @@ http://103.185.24.134:3001/ENTER10-BANGLA/index.m3u8
 #EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Enterr 10 Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Enterr 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Enterr 10 Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Enterr 10 Bangla
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/658/master.m3u8
+
 #EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Enterr 10 Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Enterr 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
@@ -55,6 +59,10 @@ https://server.playontv.in/friendstv/index.m3u8
 
 #EXTINF:-1 tvg-id="KhushbooBangla.in" tvg-name="Khushboo Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="720p",Khushboo Bangla
 https://cdn.pishow.tv/ott/live/1473/master.m3u8
+
+#EXTINF:-1 tvg-id="KhushbooBangla.in" tvg-name="Khushboo Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Khushboo Bangla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/375/master.m3u8
 
 #EXTINF:-1 tvg-id="KhushbooBangla.in" tvg-name="Khushboo Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Khushboo Bangla
 https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8
@@ -79,6 +87,10 @@ https://cdn.pishow.tv/ott/live/1039/master.m3u8
 
 #EXTINF:-1 tvg-id="RupasiBangla.in" tvg-name="Rupasi Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Rupasi Bangla
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:rupashibangla.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RupasiBangla.in" tvg-name="Rupasi Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Rupasi Bangla
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/664/master.m3u8
 
 #EXTINF:-1 tvg-id="RupasiBangla.in" tvg-name="Rupasi Bangla" group-title="Entertainment" tvg-language="ben" tvg-quality="576p",Rupasi Bangla
 https://mumt05.tangotv.in/87NeALx2RUPASIBANGLA/index.m3u8

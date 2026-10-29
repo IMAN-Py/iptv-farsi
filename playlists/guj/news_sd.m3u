@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ABPAsmita.in" tvg-name="ABP Asmita" group-title="News" tvg-language="guj" tvg-quality="576p",ABP Asmita
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/192/master.m3u8
+
 #EXTINF:-1 tvg-id="GSTV.in" tvg-name="GS TV" group-title="News" tvg-language="guj" tvg-quality="576p",GS TV
 https://cdnplay.peanutsquare.com/560828843292539228453915.m3u8
 
@@ -9,10 +13,26 @@ https://mumt05.tangotv.in/87NeALx2GSTV/index.m3u8
 https://d2gvyg6lvauoko.cloudfront.net/230226/gujaratfirst/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
 #EXTINF:-1 tvg-id="GujaratFirst.in" tvg-name="Gujarat First" group-title="News" tvg-language="guj" tvg-quality="576p",Gujarat First
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/655/master.m3u8
+
+#EXTINF:-1 tvg-id="GujaratFirst.in" tvg-name="Gujarat First" group-title="News" tvg-language="guj" tvg-quality="576p",Gujarat First
 https://mumt03.tangotv.in/Dsly5z3HGUJARATFIRST/index.m3u8
+
+#EXTINF:-1 tvg-id="IndiaNewsGujarati.in" tvg-name="India News Gujarati" group-title="News" tvg-language="guj" tvg-quality="576p",India News Gujarati
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/653/master.m3u8
 
 #EXTINF:-1 tvg-id="MantavyaNews.in" tvg-name="Mantavya News" group-title="News" tvg-language="guj" tvg-quality="576p",Mantavya News
 https://d1msejlow1t3l4.cloudfront.net/fta/mantavya/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MantavyaNews.in" tvg-name="Mantavya News" group-title="News" tvg-language="guj" tvg-quality="576p",Mantavya News
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/656/master.m3u8
+
+#EXTINF:-1 tvg-id="MantavyaNews.in" tvg-name="Mantavya News" group-title="News" tvg-language="guj" tvg-quality="576p",Mantavya News
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/657/master.m3u8
 
 #EXTINF:-1 tvg-id="MantavyaNews.in" tvg-name="Mantavya News" group-title="News" tvg-language="guj" tvg-quality="576p",Mantavya News
 https://mumt07.tangotv.in/zHjX9OFlMANTAVYA24X7NEWS/index.m3u8
@@ -22,6 +42,10 @@ https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="TV13Gujarati.in" tvg-name="TV13 Gujarati" group-title="News" tvg-language="guj" tvg-quality="480p",TV13 Gujarati
 https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8
+
+#EXTINF:-1 tvg-id="TV9Gujarati.in" tvg-name="TV9 Gujarati" group-title="News" tvg-language="guj" tvg-quality="576p",TV9 Gujarati
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/652/master.m3u8
 
 #EXTINF:-1 tvg-id="TV9Gujarati.in" tvg-name="TV9 Gujarati" group-title="News" tvg-language="guj" tvg-quality="576p",TV9 Gujarati
 https://streams.tangotv.in/TV9GUJARATI/ORIGIN/index.m3u8

@@ -3,10 +3,18 @@
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
 
 #EXTINF:-1 tvg-id="DDOdia.in" tvg-name="DD Odia" group-title="General" tvg-language="ori" tvg-quality="576p",DD Odia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/384/master.m3u8
+
+#EXTINF:-1 tvg-id="DDOdia.in" tvg-name="DD Odia" group-title="General" tvg-language="ori" tvg-quality="576p",DD Odia
 https://mumbai-edge.smartplaytv.in/ddodiya/index.m3u8
 
 #EXTINF:-1 tvg-id="MBCTV.in" tvg-name="MBC TV" group-title="General" tvg-language="ori" tvg-quality="576p",MBC TV
 https://cdn.pishow.tv/ott/live/1017/master.m3u8
+
+#EXTINF:-1 tvg-id="MBCTV.in" tvg-name="MBC TV" group-title="General" tvg-language="ori" tvg-quality="576p",MBC TV
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/667/master.m3u8
 
 #EXTINF:-1 tvg-id="MBCTV.in" tvg-name="MBC TV" group-title="General" tvg-language="ori" tvg-quality="576p",MBC TV
 https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8

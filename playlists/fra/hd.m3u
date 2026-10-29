@@ -430,6 +430,9 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
 
+#EXTINF:-1 tvg-id="LaUne.be" tvg-name="La Une" group-title="Entertainment" tvg-language="fra" tvg-quality="1080p",La Une
+http://41.205.93.154/LA-UNE/index.m3u8
+
 #EXTINF:-1 tvg-id="LauraDaveMediaTV.cm" tvg-name="Laura Dave Media TV" group-title="General" tvg-language="fra" tvg-quality="720p",Laura Dave Media TV
 https://streaming.lauradavemedia.com/ldm/index.m3u8
 

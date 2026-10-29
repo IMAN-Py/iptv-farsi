@@ -2,9 +2,17 @@
 #EXTINF:-1 tvg-id="DDAssam.in" tvg-name="DD Assam" group-title="General" tvg-language="asm;eng" tvg-quality="504p",DD Assam
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
 
+#EXTINF:-1 tvg-id="DDAssam.in" tvg-name="DD Assam" group-title="General" tvg-language="asm;eng" tvg-quality="576p",DD Assam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/672/master.m3u8
+
 #EXTINF:-1 tvg-id="Jonack.in" tvg-name="Jonack" group-title="General" tvg-language="asm" tvg-quality="576p",Jonack
 https://cdn.pishow.tv/ott/live/10006/master.m3u8
 
 #EXTINF:-1 tvg-id="Jonack.in" tvg-name="Jonack" group-title="General" tvg-language="asm" tvg-quality="360p",Jonack
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Jonack.in" tvg-name="Jonack" group-title="General" tvg-language="asm" tvg-quality="576p",Jonack
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/676/master.m3u8
 

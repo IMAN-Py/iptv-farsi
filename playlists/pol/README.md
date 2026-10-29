@@ -4,7 +4,7 @@
 
 Find free Polish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**147 channels · 170 stream entries**
+**148 channels · 171 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 170 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
-| HD | 90 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
+| All channels | 171 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/all.m3u` |
+| HD | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/hd.m3u` |
 | SD / unknown | 80 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sd.m3u` |
 
 <a id="categories"></a>
@@ -26,13 +26,13 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 6 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/sports.m3u` |
-| Movies | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/movies.m3u` |
+| Movies | 10 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/movies.m3u` |
 | News | 9 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/news.m3u` |
 | Music | 9 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/music.m3u` |
 | Kids | 11 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/kids.m3u` |
 | Documentary | 6 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/documentary.m3u` |
-| Series | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/series.m3u` |
-| Entertainment | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/entertainment.m3u` |
+| Series | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/series.m3u` |
+| Entertainment | 7 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/entertainment.m3u` |
 | Animation | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/animation.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/auto.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/business.m3u` |
@@ -56,7 +56,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | 4 Fun TV | 4FunTV.pl | 288p, 576i | 2 |
 | Active Family | ActiveFamily.pl | 1080i | 1 |
 | Antena HD | AntenaHD.pl | 576i | 1 |
-| ATM Rozrywka REWORK | ATMRozrywkaREWORK.pl | 720p | 1 |
 | AXN Black | AXNBlack.pl | 576i | 1 |
 | AXN Black | AXNBlack.us | 576p | 1 |
 | AXN Poland | AXNPoland.pl | 1080p | 1 |
@@ -101,6 +100,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | FILMBOX+ Hits | FILMBOXPlusHits.pl | 576i | 1 |
 | Fokus TV | FokusTV.pl | 576i | 1 |
 | Grjngo | Grjngo.pl | 576i | 1 |
+| HBO 2 | HBO2.pl | 1080p | 1 |
+| HBO 3 | HBO3.pl | 1080p | 1 |
 | Home TV | HomeTV.pl | 576i | 1 |
 | Mango | Mango.pl | 1080p | 1 |
 | Moconomy | Moconomy.pl | 576i | 1 |

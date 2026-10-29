@@ -63,6 +63,10 @@ https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
 https://cdn.pishow.tv/ott/live/1057/master.m3u8
 
 #EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" group-title="News" tvg-language="eng;hin" tvg-quality="576p",ABP News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/595/master.m3u8
+
+#EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" group-title="News" tvg-language="eng;hin" tvg-quality="576p",ABP News
 https://mumt04.tangotv.in/m18aqlK4ABPNEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us" tvg-name="Absolute Reality by WE TV" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Absolute Reality by WE TV
@@ -126,6 +130,10 @@ https://cdn-7.pishow.tv/live/429/master.m3u8
 https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="576p",Al Jazeera
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/318/master.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="News" tvg-language="eng" tvg-quality="576p",Al Jazeera
 https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="AL24News.dz" tvg-name="AL24 News" group-title="News" tvg-language="ara;eng;fra" tvg-quality="576i",AL24 News
@@ -185,6 +193,9 @@ https://jmp2.uk/plu-6964b7e007ea70192df28d43.m3u8
 
 #EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-name="Animax Asia" group-title="Animation" tvg-language="eng;jpn;tha" tvg-quality="480i",Animax Asia
 http://125.227.210.55:3056/VideoInput/play.ts
+
+#EXTINF:-1 tvg-id="Antena3Constanta.ro" tvg-name="Antena 3 Constanta" group-title="News" tvg-language="eng;ron" tvg-quality="576p",Antena 3 Constanta
+https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
 
 #EXTINF:-1 tvg-id="AnthonyBourdainPartsUnknown.us" tvg-name="Anthony Bourdain: Parts Unknown" group-title="Series" tvg-language="eng" tvg-quality="576i",Anthony Bourdain: Parts Unknown
 https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
@@ -588,6 +599,10 @@ https://jmp2.uk/plu-611f85396abc84000738417b.m3u8
 https://cdn.pishow.tv/ott/live/1139/master.m3u8
 
 #EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="576p",Bharat Express
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/736/master.m3u8
+
+#EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="576p",Bharat Express
 https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/index.m3u8
 
 #EXTINF:-1 tvg-id="BharatExpress.in" tvg-name="Bharat Express" group-title="News" tvg-language="eng;urd" tvg-quality="480p",Bharat Express
@@ -912,6 +927,10 @@ https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch3/video.m3u8
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch1/video.m3u8
 
 #EXTINF:-1 tvg-id="CVREnglish.in" tvg-name="CVR English" group-title="News" tvg-language="eng" tvg-quality="576p",CVR English
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/701/master.m3u8
+
+#EXTINF:-1 tvg-id="CVREnglish.in" tvg-name="CVR English" group-title="News" tvg-language="eng" tvg-quality="576p",CVR English
 https://mumbai-edge.smartplaytv.in/CVREnglishNews/index.m3u8
 
 #EXTINF:-1 tvg-id="CVREnglish.in" tvg-name="CVR English" group-title="News" tvg-language="eng" tvg-quality="576p",CVR English
@@ -947,6 +966,10 @@ https://stream.dbstvstlucia.com/hls/dbstv_main.m3u8
 #EXTINF:-1 tvg-id="DDAssam.in" tvg-name="DD Assam" group-title="General" tvg-language="asm;eng" tvg-quality="504p",DD Assam
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
 
+#EXTINF:-1 tvg-id="DDAssam.in" tvg-name="DD Assam" group-title="General" tvg-language="asm;eng" tvg-quality="576p",DD Assam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/672/master.m3u8
+
 #EXTINF:-1 tvg-id="DDIndia.in" tvg-name="DD India" group-title="General" tvg-language="eng" tvg-quality="576p",DD India
 https://cdn.pishow.tv/ott/live/23/master.m3u8
 
@@ -959,8 +982,16 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/in
 #EXTINF:-1 tvg-id="DDMizoram.in" tvg-name="DD Mizoram" group-title="Culture;News" tvg-language="eng;lus" tvg-quality="504p",DD Mizoram
 https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
 
+#EXTINF:-1 tvg-id="DDMizoram.in" tvg-name="DD Mizoram" group-title="Culture;News" tvg-language="eng;lus" tvg-quality="576p",DD Mizoram
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/381/master.m3u8
+
 #EXTINF:-1 tvg-id="DDNagaland.in" tvg-name="DD Nagaland" group-title="General" tvg-language="eng" tvg-quality="504p",DD Nagaland
 https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8
+
+#EXTINF:-1 tvg-id="DDNagaland.in" tvg-name="DD Nagaland" group-title="General" tvg-language="eng" tvg-quality="576p",DD Nagaland
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/670/master.m3u8
 
 #EXTINF:-1 tvg-id="DDUrdu.in" tvg-name="DD Urdu" group-title="General" tvg-language="eng;hin;urd" tvg-quality="504p",DD Urdu
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8
@@ -1080,6 +1111,10 @@ http://stream.mcquack.net/440/index.m3u8
 https://cdn-7.pishow.tv/live/431/master.m3u8
 
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW" group-title="News" tvg-language="eng" tvg-quality="576p",DW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/116/116_0.m3u8
+
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW" group-title="News" tvg-language="eng" tvg-quality="576p",DW
 https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8
 
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW" group-title="News" tvg-language="eng" tvg-quality="576p",DW
@@ -1123,9 +1158,6 @@ https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="Sports" tvg-language="eng" tvg-quality="432p",ESPN
 http://tvsen7.aynascope.net/espn/index.m3u8
-
-#EXTINF:-1 tvg-id="ETVBalBharat.in" tvg-name="ETV Bal Bharat" group-title="Kids" tvg-language="asm;ben;eng;guj;hin;kan;mal;mar;ori;pan;tam;tel" tvg-quality="576p",ETV Bal Bharat
-http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
 
 #EXTINF:-1 tvg-id="ExpoChannel.au" tvg-name="Expo Channel" group-title="Shop" tvg-language="eng" tvg-quality="360p",Expo Channel
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
@@ -1457,6 +1489,10 @@ https://jmp2.uk/plu-5e6f38792075160007d85823.m3u8
 https://jmp2.uk/plu-61c1871dac860c0007684974.m3u8
 
 #EXTINF:-1 tvg-id="HiDost.in" tvg-name="Hi Dost!" group-title="Entertainment" tvg-language="eng" tvg-quality="576p",Hi Dost!
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/713/master.m3u8
+
+#EXTINF:-1 tvg-id="HiDost.in" tvg-name="Hi Dost!" group-title="Entertainment" tvg-language="eng" tvg-quality="576p",Hi Dost!
 https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8
 
 #EXTINF:-1 tvg-id="HighwaytoHeaven.us" tvg-name="Highway to Heaven" group-title="Series" tvg-language="eng" tvg-quality="576i",Highway to Heaven
@@ -1527,6 +1563,10 @@ https://cdn.pishow.tv/ott/live/1463/master.m3u8
 
 #EXTINF:-1 tvg-id="HornbillTV.in" tvg-name="Hornbill TV" group-title="News" tvg-language="eng" tvg-quality="396p",Hornbill TV
 https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HornbillTV.in" tvg-name="Hornbill TV" group-title="News" tvg-language="eng" tvg-quality="576p",Hornbill TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/710/master.m3u8
 
 #EXTINF:-1 tvg-id="HornbillTV.in" tvg-name="Hornbill TV" group-title="News" tvg-language="eng" tvg-quality="576p",Hornbill TV
 https://mumt01.tangotv.in/O5aw8Zn3HORNBILLTV/index.m3u8
@@ -2024,6 +2064,10 @@ https://reflect-npa.cablecast.tv/live-6/live/live.m3u8
 #EXTINF:-1 tvg-id="NDTV.in" tvg-name="NDTV" group-title="News" tvg-language="eng" tvg-quality="576p",NDTV
 https://cdn.pishow.tv/ott/live/315/master.m3u8
 
+#EXTINF:-1 tvg-id="NDTV.in" tvg-name="NDTV" group-title="News" tvg-language="eng" tvg-quality="576p",NDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/107/107_0.m3u8
+
 #EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name="NDTV 24x7" group-title="News" tvg-language="eng" tvg-quality="480p",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
@@ -2090,10 +2134,18 @@ https://dash3.antik.sk/live/test_newsmax_avc/playlist.m3u8
 https://cdn.pishow.tv/ott/live/1765/master.m3u8
 
 #EXTINF:-1 tvg-id="NewsX.in" tvg-name="NewsX" group-title="News" tvg-language="eng" tvg-quality="576p",NewsX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/603/master.m3u8
+
+#EXTINF:-1 tvg-id="NewsX.in" tvg-name="NewsX" group-title="News" tvg-language="eng" tvg-quality="576p",NewsX
 https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8
 
 #EXTINF:-1 tvg-id="NewsXWorld.in" tvg-name="NewsX World" group-title="News" tvg-language="eng" tvg-quality="576p",NewsX World
 https://cdn.pishow.tv/ott/live/1049/master.m3u8
+
+#EXTINF:-1 tvg-id="NewsXWorld.in" tvg-name="NewsX World" group-title="News" tvg-language="eng" tvg-quality="576p",NewsX World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/610/master.m3u8
 
 #EXTINF:-1 tvg-id="NewsXWorld.in" tvg-name="NewsX World" group-title="News" tvg-language="eng" tvg-quality="576p",NewsX World
 https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8
@@ -2157,6 +2209,10 @@ https://goliveafrica.media:9998/live/625816e585a2b/index.m3u8
 
 #EXTINF:-1 tvg-id="NollyAfrica.uk" tvg-name="Nolly Africa" group-title="Movies" tvg-language="eng" tvg-quality="576i",Nolly Africa
 https://amg02784-nollyafricafast-amg02784c1-cineverse-us-1124.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-cineverseus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NortheastLive.in" tvg-name="Northeast Live" group-title="News" tvg-language="eng;hin" tvg-quality="576p",Northeast Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/674/master.m3u8
 
 #EXTINF:-1 tvg-id="NortheastLive.in" tvg-name="Northeast Live" group-title="News" tvg-language="eng;hin" tvg-quality="576p",Northeast Live
 https://mumt01.tangotv.in/O5aw8Zn3NORTHEASTLIVE/index.m3u8
@@ -2287,6 +2343,9 @@ https://jmp2.uk/plu-60804d85858bd00007c5d591.m3u8
 
 #EXTINF:-1 tvg-id="PascoTV.us" tvg-name="Pasco TV" group-title="Legislative" tvg-language="eng" tvg-quality="480p",Pasco TV
 https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="PBS America" group-title="Education" tvg-language="eng" tvg-quality="576p",PBS America
+http://185.19.191.2:8090/PBS/index.m3u8
 
 #EXTINF:-1 tvg-id="PCTV26.us" tvg-name="PCTV 26" group-title="Legislative" tvg-language="eng" tvg-quality="480p",PCTV 26
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8
@@ -2519,6 +2578,10 @@ https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 https://cdn.pishow.tv/ott/live/271/master.m3u8
 
 #EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" group-title="News" tvg-language="eng" tvg-quality="576p",Republic TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/115/115_0.m3u8
+
+#EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" group-title="News" tvg-language="eng" tvg-quality="576p",Republic TV
 https://mumt05.tangotv.in/87NeALx2REPUBLICTV/index.m3u8
 
 #EXTINF:-1 tvg-id="RepublicTV.in" tvg-name="Republic TV" group-title="News" tvg-language="eng" tvg-quality="576p",Republic TV
@@ -2592,9 +2655,6 @@ https://5c46fa289c89f.streamlock.net/rtv25/rtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RyanandFriends.us" tvg-name="Ryan and Friends" group-title="Kids" tvg-language="eng" tvg-quality="480i",Ryan and Friends
 https://jmp2.uk/plu-5fb584b7613a31000789de5a.m3u8
 
-#EXTINF:-1 tvg-id="SCorbyTV.us" tvg-name="S Corby TV" group-title="Kids" tvg-language="eng" tvg-quality="480p",S Corby TV
-https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8
-
 #EXTINF:-1 tvg-id="SMetroTV.us" tvg-name="S Metro TV" group-title="General" tvg-language="eng" tvg-quality="360p",S Metro TV
 https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8
 
@@ -2606,6 +2666,9 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:s4cpbs/he
 
 #EXTINF:-1 tvg-id="SABC2.za" tvg-name="SABC 2" group-title="Uncategorized" tvg-language="eng" tvg-quality="576i",SABC 2
 https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="SABC3.za" tvg-name="SABC 3" group-title="Uncategorized" tvg-language="eng" tvg-quality="576i",SABC 3
+https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="SABCLehae.za" tvg-name="SABC Lehae" group-title="News" tvg-language="eng;nbl;sfs;ssw;tso;ven;xho;zul" tvg-quality="576i",SABC Lehae
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
