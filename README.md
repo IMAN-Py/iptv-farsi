@@ -1,31 +1,20 @@
 <p align="center"><img src="assets/banner.svg" alt="Open TV Atlas — live TV, in your language" width="100%"></p>
 
-<!-- cumulative-traffic -->
-[![Views in the last 14 days](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FIMAN-Py%2Fopen-tv-atlas%2Fmain%2F.github%2Ftraffic%2Fviews-14d.json)](https://github.com/IMAN-Py/open-tv-atlas/blob/main/.github/traffic/history.json)
-[![Clones in the last 14 days](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FIMAN-Py%2Fopen-tv-atlas%2Fmain%2F.github%2Ftraffic%2Fclones-14d.json)](https://github.com/IMAN-Py/open-tv-atlas/blob/main/.github/traffic/history.json)
-
-Views and clones over the last 14 days come straight from GitHub’s traffic API and are refreshed periodically
-from the maintainer’s Mac; the full archive lives in [`history.json`](.github/traffic/history.json). These badges include
-automated activity (CI, mirrors, scanners) and may lag by a few hours.
-<!-- /cumulative-traffic -->
-
-[![Stars](https://img.shields.io/github/stars/IMAN-Py/open-tv-atlas?style=flat)](https://github.com/IMAN-Py/open-tv-atlas/stargazers)
-[![Forks](https://img.shields.io/github/forks/IMAN-Py/open-tv-atlas?style=flat)](https://github.com/IMAN-Py/open-tv-atlas/forks)
-[![Tests](https://github.com/IMAN-Py/open-tv-atlas/actions/workflows/test.yml/badge.svg)](https://github.com/IMAN-Py/open-tv-atlas/actions/workflows/test.yml)
-
 # Open TV Atlas — Free IPTV Playlists by Language & Category
 
-**Live TV, in your language. Sports, movies, news, music, and more.**
-
-**[Optional one-page picker →](https://iman-py.github.io/open-tv-atlas/)** — choose a language, category and quality, then copy a short playlist link. Or use the direct English and Farsi links below. Everything is static and hosted on GitHub; no account or backend required.
-
-Free IPTV M3U playlists for live TV, organized by **language × category**, with HD and SD options for each language. Copy a playlist URL into your M3U player. No account or installation from this repository required.
+**Live TV, in your language.** Free M3U playlists for hundreds of languages, sorted by category — sports, movies, news, music, kids and more — in HD and SD.
 
 [![Update playlists](https://github.com/IMAN-Py/open-tv-atlas/actions/workflows/update-playlists.yml/badge.svg)](https://github.com/IMAN-Py/open-tv-atlas/actions/workflows/update-playlists.yml)
 [![Tests](https://github.com/IMAN-Py/open-tv-atlas/actions/workflows/test.yml/badge.svg)](https://github.com/IMAN-Py/open-tv-atlas/actions/workflows/test.yml)
 [![License: MIT](https://img.shields.io/badge/code-MIT-5eead4)](LICENSE)
 
-**[English](#english) · [فارسی](#farsi) · [Languages & categories](DIRECTORY.md) · [Player setup](#setup) · [FAQ](FAQ.md) · [Report a problem](https://github.com/IMAN-Py/open-tv-atlas/issues/new/choose)**
+**[Pick your language →](https://iman-py.github.io/open-tv-atlas/)** · [All languages & categories](DIRECTORY.md) · [فارسی](#farsi) · [Player setup](#setup) · [FAQ](FAQ.md) · [Report a problem](https://github.com/IMAN-Py/open-tv-atlas/issues/new/choose)
+
+1. **Choose a language** in the [picker](https://iman-py.github.io/open-tv-atlas/) or the [directory](DIRECTORY.md).
+2. **Copy the playlist link** — all channels, HD, or SD.
+3. **Paste it into your player** — VLC, TiviMate, or any app that accepts an M3U URL.
+
+No account, no installation, no backend: playlists are rebuilt daily from [iptv-org](https://github.com/iptv-org) and served from GitHub Pages.
 
 <a id="english"></a>
 ## English — quick start
@@ -68,7 +57,7 @@ https://iman-py.github.io/open-tv-atlas/playlist.m3u
 <!-- playlist-stats:start -->
 **210 languages · 29 categories**
 
-**English: 2490 channels · 4464 stream entries · 3339 HD · 1125 SD / unknown**
+**English: 2481 channels · 4426 stream entries · 3320 HD · 1106 SD / unknown**
 
 **Farsi: 192 channels · 219 stream entries · 73 HD · 146 SD / unknown**
 
@@ -199,6 +188,17 @@ The single-language command also creates `_hd.m3u` and `_sd.m3u` variants. `play
 Found a broken stream or confusing setup step? [Open an issue](https://github.com/IMAN-Py/open-tv-atlas/issues/new/choose). Corrections, tests, and documentation improvements are welcome. See the [contribution guide](CONTRIBUTING.md).
 
 **If this saves you time, star the repository so you can find it again, and share the playlist directory with someone who would use it.**
+
+## Repository traffic
+
+<!-- cumulative-traffic -->
+[![Views in the last 14 days](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FIMAN-Py%2Fopen-tv-atlas%2Fmain%2F.github%2Ftraffic%2Fviews-14d.json)](https://github.com/IMAN-Py/open-tv-atlas/blob/main/.github/traffic/history.json)
+[![Clones in the last 14 days](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FIMAN-Py%2Fopen-tv-atlas%2Fmain%2F.github%2Ftraffic%2Fclones-14d.json)](https://github.com/IMAN-Py/open-tv-atlas/blob/main/.github/traffic/history.json)
+
+Views and clones over the last 14 days come straight from GitHub’s traffic API and are refreshed periodically
+from the maintainer’s Mac; the full archive lives in [`history.json`](.github/traffic/history.json). These badges include
+automated activity (CI, mirrors, scanners) and may lag by a few hours.
+<!-- /cumulative-traffic -->
 
 ## License and content
 
