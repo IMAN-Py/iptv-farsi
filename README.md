@@ -1,5 +1,9 @@
 <p align="center"><img src="assets/banner.svg" alt="Open TV Atlas — live TV, in your language" width="100%"></p>
 
+[![Stars](https://img.shields.io/github/stars/IMAN-Py/open-tv-atlas?style=flat)](https://github.com/IMAN-Py/open-tv-atlas/stargazers)
+[![Forks](https://img.shields.io/github/forks/IMAN-Py/open-tv-atlas?style=flat)](https://github.com/IMAN-Py/open-tv-atlas/forks)
+[![Tests](https://github.com/IMAN-Py/open-tv-atlas/actions/workflows/test.yml/badge.svg)](https://github.com/IMAN-Py/open-tv-atlas/actions/workflows/test.yml)
+
 # Open TV Atlas — Free IPTV Playlists by Language & Category
 
 **Live TV, in your language. Sports, movies, news, music, and more.**
