@@ -810,6 +810,9 @@ https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc2626
 #EXTINF:-1 tvg-id="TelevisionEspoir47.tg" tvg-name="Television Espoir 47" group-title="General" tvg-language="fra" tvg-quality="720p",Television Espoir 47
 https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
 
+#EXTINF:-1 tvg-id="Tipik.be" tvg-name="Tipik" group-title="Uncategorized" tvg-language="fra;nld" tvg-quality="1080p",Tipik
+http://41.205.93.154/TIPIK/index.m3u8
+
 #EXTINF:-1 tvg-id="TMA.gp" tvg-name="TMA" group-title="Music" tvg-language="fra" tvg-quality="1080p",TMA
 http://hls.tmacaraibes.com/live/index.m3u8
 

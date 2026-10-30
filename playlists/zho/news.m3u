@@ -84,6 +84,9 @@ http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
 #EXTINF:-1 tvg-id="HunanNewsChannel.cn" tvg-name="Hunan News Channel" group-title="News" tvg-language="zho" tvg-quality="576i",Hunan News Channel
 http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
 
+#EXTINF:-1 tvg-id="JingmenComprehensiveNewsChannel.cn" tvg-name="Jingmen Comprehensive News Channel" group-title="News" tvg-language="zho" tvg-quality="576i",Jingmen Comprehensive News Channel
+https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036
+
 #EXTINF:-1 tvg-id="JiuquanTVNewsComprehensiveChannel.cn" tvg-name="Jiuquan TV News Comprehensive Channel" group-title="News" tvg-language="zho" tvg-quality="576p",Jiuquan TV News Comprehensive Channel
 http://117.156.28.119/270000001111/1110000001/index.m3u8
 
@@ -127,6 +130,9 @@ http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/in
 
 #EXTINF:-1 tvg-id="TonghuaTV.cn" tvg-name="Tonghua TV" group-title="News" tvg-language="zho" tvg-quality="1080p",Tonghua TV
 https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+
+#EXTINF:-1 tvg-id="TTVNews.tw" tvg-name="TTV News" group-title="News" tvg-language="zho" tvg-quality="480i",TTV News
+https://live.wcetv.com/hls/master-ttvnews.m3u8
 
 #EXTINF:-1 tvg-id="TVBSNews.tw" tvg-name="TVBS News" group-title="News" tvg-language="zho" tvg-quality="480i",TVBS News
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8

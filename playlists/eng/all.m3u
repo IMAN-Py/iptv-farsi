@@ -620,9 +620,6 @@ https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlphaDigital.ug" tvg-name="Alpha Digital" group-title="Religious" tvg-language="eng" tvg-quality="480p",Alpha Digital
 https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="Althingi.is" tvg-name="Althingi" group-title="Legislative" tvg-language="eng;isl" tvg-quality="1080p",Althingi
-https://althingi-live.secure.footprint.net/althingi/live/index.m3u8
-
 #EXTINF:-1 tvg-id="AlwaysFunnyVideos.us" tvg-name="Always Funny Videos" group-title="Series" tvg-language="eng" tvg-quality="720p",Always Funny Videos
 https://aegis-cloudfront-1.tubi.video/a0713659-0883-4501-9aba-f7e651becae9/playlist.m3u8
 
@@ -2171,6 +2168,9 @@ https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8
 
 #EXTINF:-1 tvg-id="BTLTV.ke" tvg-name="BTL TV" group-title="Religious" tvg-language="eng" tvg-quality="720p",BTL TV
 https://goliveafrica.media:9998/live/638da5440743c/index.m3u8
+
+#EXTINF:-1 tvg-id="BTLTV.nl" tvg-name="BTL TV" group-title="Religious" tvg-language="eng;pan;urd" tvg-quality="720p",BTL TV
+https://livecdn.live247stream.com/btl/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BTMTV.ug" tvg-name="BTM TV" group-title="General" tvg-language="eng;lug" tvg-quality="480p",BTM TV
 https://btmug.zerocdn.org/hls/stream.m3u8
@@ -5032,6 +5032,9 @@ https://jmp2.uk/plu-60faf9ddfcc1f200070a5932.m3u8
 https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
 
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" group-title="News" tvg-language="eng" tvg-quality="720p",GB News
+https://a-cdn.klowdtv.com/live3/gbnews_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" group-title="News" tvg-language="eng" tvg-quality="720p",GB News
 https://amg01076-lightning-amg01076c7-klowdtv-us-2128.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-klowdtvus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" group-title="News" tvg-language="eng" tvg-quality="1080p",GB News
@@ -5423,6 +5426,9 @@ https://jmp2.uk/plu-6319f06067a3ee000708af95.m3u8
 
 #EXTINF:-1 tvg-id="HauntTV.ca" tvg-name="HauntTV" group-title="Series" tvg-language="eng" tvg-quality="720p",HauntTV
 https://jmp2.uk/plu-63934c218ef524000757b122.m3u8
+
+#EXTINF:-1 tvg-id="HBCUGOSports.us" tvg-name="HBCU-GO Sports" group-title="Sports" tvg-language="eng" tvg-quality="720p",HBCU-GO Sports
+https://a-cdn.klowdtv.com/live3/hbcugo_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" group-title="Movies;Series" tvg-language="eng;spa" tvg-quality="720p",HBO
 http://tvsen7.aynascope.net/hbo/index.m3u8
@@ -6979,9 +6985,6 @@ https://jmp2.uk/plu-6304854ac6073d0007259fe1.m3u8
 
 #EXTINF:-1 tvg-id="MERUTV.ke" tvg-name="MERU TV" group-title="General" tvg-language="eng" tvg-quality="720p",MERU TV
 https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8
-
-#EXTINF:-1 tvg-id="MeTV.us" tvg-name="MeTV" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",MeTV
-https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
 
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="meWATCH LIVE 1" group-title="Entertainment" tvg-language="eng;mal;zho" tvg-quality="1080p",meWATCH LIVE 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
@@ -10196,9 +10199,6 @@ https://jmp2.uk/plu-5fb584b7613a31000789de5a.m3u8
 #EXTINF:-1 tvg-id="RyanandFriends.us" tvg-name="Ryan and Friends" group-title="Kids" tvg-language="eng" tvg-quality="1080p",Ryan and Friends
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SMetroTV.us" tvg-name="S Metro TV" group-title="General" tvg-language="eng" tvg-quality="360p",S Metro TV
-https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8
-
 #EXTINF:-1 tvg-id="SSport2.tr" tvg-name="S Sport 2" group-title="Sports" tvg-language="eng;tur" tvg-quality="576i",S Sport 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 
@@ -10603,6 +10603,9 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260
 
 #EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-name="Sony BBC Earth" group-title="Documentary" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony BBC Earth
 http://103.185.24.134:3001/SONY-BBC/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyMovies.us" tvg-name="Sony Movies" group-title="Movies" tvg-language="eng" tvg-quality="720p",Sony Movies
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" group-title="Movies" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Sony Pix
 http://103.151.60.162:2122/play/a01d/index.m3u8?hls
@@ -11769,6 +11772,9 @@ https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
 
 #EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" group-title="Series" tvg-language="eng" tvg-quality="720p",The Walking Dead Universe
 https://pb-7ien6yaxy2am1.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="The Weather Channel" group-title="Weather" tvg-language="eng" tvg-quality="720p",The Weather Channel
+https://a-cdn.klowdtv.com/live2/theweatherchannel_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="The Weather Channel" group-title="Weather" tvg-language="eng" tvg-quality="1080p",The Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8

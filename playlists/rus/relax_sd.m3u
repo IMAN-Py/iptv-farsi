@@ -1,1 +1,4 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Home4K.ru" tvg-name="Home 4K" group-title="Relax" tvg-language="rus" tvg-quality="576i",Home 4K
+http://88.212.7.14/live/test_home_uhd_tizen/playlist.m3u8
+

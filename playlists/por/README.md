@@ -4,7 +4,7 @@
 
 Find free Portuguese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**475 channels · 696 stream entries**
+**475 channels · 697 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 696 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
+| All channels | 697 | `https://iman-py.github.io/open-tv-atlas/playlists/por/all.m3u` |
 | HD | 556 | `https://iman-py.github.io/open-tv-atlas/playlists/por/hd.m3u` |
-| SD / unknown | 140 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u` |
+| SD / unknown | 141 | `https://iman-py.github.io/open-tv-atlas/playlists/por/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -48,7 +48,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Outdoor | 7 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/por/outdoor.m3u` |
 | Public | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/por/public.m3u` |
 | Religious | 29 | 58 | `https://iman-py.github.io/open-tv-atlas/playlists/por/religious.m3u` |
-| Shop | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/por/shop.m3u` |
+| Shop | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/shop.m3u` |
 | Travel | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/por/travel.m3u` |
 
 ## Included channels
@@ -58,7 +58,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
 | +MaisUm | PlusMaisUm.br | 720p | 1 |
-| 1001 Noites | 1001Noites.br | 720p | 1 |
+| 1001 Noites | 1001Noites.br | 480p, 720p | 2 |
 | A&amp;E Latin America | AELatinAmerica.us | 720p | 2 |
 | ADB TV | ADBTV.pt | 1080p | 1 |
 | Adesso TV | AdessoTV.br | 720p | 1 |

@@ -1413,9 +1413,6 @@ http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="RwandaTV.rw" tvg-name="Rwanda TV" group-title="General" tvg-language="eng;fra;kin" tvg-quality="480p",Rwanda TV
 https://5c46fa289c89f.streamlock.net/rtv25/rtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SMetroTV.us" tvg-name="S Metro TV" group-title="General" tvg-language="eng" tvg-quality="360p",S Metro TV
-https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8
-
 #EXTINF:-1 tvg-id="ScottsdaleChannel11.us" tvg-name="Scottsdale Channel 11" group-title="General" tvg-language="eng" tvg-quality="480i",Scottsdale Channel 11
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8
 

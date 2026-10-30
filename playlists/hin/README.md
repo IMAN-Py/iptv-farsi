@@ -4,7 +4,7 @@
 
 Find free Hindi live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**349 channels · 765 stream entries**
+**347 channels · 763 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 765 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u` |
+| All channels | 763 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/all.m3u` |
 | HD | 277 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/hd.m3u` |
-| SD / unknown | 488 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sd.m3u` |
+| SD / unknown | 486 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,7 +26,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 7 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/sports.m3u` |
-| Movies | 37 | 80 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/movies.m3u` |
+| Movies | 35 | 78 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/movies.m3u` |
 | News | 110 | 253 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/news.m3u` |
 | Music | 20 | 58 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/music.m3u` |
 | Kids | 16 | 22 | `https://iman-py.github.io/open-tv-atlas/playlists/hin/kids.m3u` |
@@ -79,8 +79,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Andy Haryana | AndyHaryana.in | 576p | 1 |
 | Animal Planet | AnimalPlanet.in | 720p | 2 |
 | Anjan TV | AnjanTV.in | 576p, 720p | 4 |
-| Anmol Cinema | AnmolCinema.in | 576p | 1 |
-| Anmol Cinema 2 | AnmolCinema2.in | 576p | 1 |
 | Anmol TV | AnmolTV.in | 576p, 720p | 2 |
 | APN | APN.in | 576p | 3 |
 | Apna Punjab TV | ApnaPunjabTV.ca | 720p | 1 |

@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="BTLTV.nl" tvg-name="BTL TV" group-title="Religious" tvg-language="eng;pan;urd" tvg-quality="720p",BTL TV
+https://livecdn.live247stream.com/btl/tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ChannelWIN.in" tvg-name="Channel WIN" group-title="Religious" tvg-language="urd" tvg-quality="720p",Channel WIN
 https://cdn.pishow.tv/ott/live/229/master.m3u8
 

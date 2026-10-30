@@ -4,7 +4,7 @@
 
 Find free Romanian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**177 channels · 200 stream entries**
+**178 channels · 201 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 200 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u` |
-| HD | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/hd.m3u` |
+| All channels | 201 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u` |
+| HD | 65 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/hd.m3u` |
 | SD / unknown | 136 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sd.m3u` |
 
 <a id="categories"></a>
@@ -28,7 +28,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Sports | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sports.m3u` |
 | Movies | 12 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/movies.m3u` |
 | News | 16 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/news.m3u` |
-| Music | 34 | 37 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/music.m3u` |
+| Music | 35 | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/music.m3u` |
 | Kids | 7 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/kids.m3u` |
 | Documentary | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/documentary.m3u` |
 | Series | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/series.m3u` |
@@ -167,6 +167,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Radio Moldova Muzical | RadioMoldovaMuzical.md | 576i | 1 |
 | Radio Moldova Tineret | RadioMoldovaTineret.md | 1080p | 1 |
 | Radio Romania 3Net | RadioRomania3Net.ro | 480p | 1 |
+| Radio Romania Antena Satelor | RadioRomaniaAntenaSatelor.ro | 720p | 1 |
 | Radio Romania Iasi | RadioRomaniaIasi.ro | 576i | 1 |
 | Radio Romania Oltenia-Craiova | RadioRomaniaOlteniaCraiova.ro | 576p | 1 |
 | Radio Romania Resita | RadioRomaniaResita.ro | 576p | 1 |

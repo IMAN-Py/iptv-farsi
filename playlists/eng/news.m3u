@@ -730,6 +730,9 @@ https://mumbai-edge.smartplaytv.in/france24/index.m3u8
 https://na.linear.zype.com/f2f02a72-71d0-45f3-829f-4ae51f721102/86ef0177-697d-41c4-be57-c4d1a2b83cad-hls4/live.m3u8
 
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" group-title="News" tvg-language="eng" tvg-quality="720p",GB News
+https://a-cdn.klowdtv.com/live3/gbnews_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" group-title="News" tvg-language="eng" tvg-quality="720p",GB News
 https://amg01076-lightning-amg01076c7-klowdtv-us-2128.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-klowdtvus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" group-title="News" tvg-language="eng" tvg-quality="1080p",GB News

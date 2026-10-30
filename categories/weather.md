@@ -4,7 +4,7 @@
 
 Browse live weather channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**17 channels · 26 stream entries**
+**17 channels · 27 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/weather.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 11 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/weather.m3u` |
+| [English](../playlists/eng/README.md) | 11 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/weather.m3u` |
 | [Catalan](../playlists/cat/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/cat/weather.m3u` |
 | [Chinese](../playlists/zho/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/weather.m3u` |
 | [German](../playlists/deu/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/weather.m3u` |

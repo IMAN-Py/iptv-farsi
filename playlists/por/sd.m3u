@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1001Noites.br" tvg-name="1001 Noites" group-title="Shop" tvg-language="por" tvg-quality="480p",1001 Noites
+https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
+
 #EXTINF:-1 tvg-id="AdrenalinaPuraTV.us" tvg-name="Adrenalina Pura TV" group-title="Movies" tvg-language="por" tvg-quality="576i",Adrenalina Pura TV
 https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
 

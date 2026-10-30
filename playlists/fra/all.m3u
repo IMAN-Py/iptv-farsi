@@ -1337,6 +1337,9 @@ http://149.62.177.107:9999/TF1_Series_Films/index.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" group-title="Uncategorized" tvg-language="eng;fra" tvg-quality="576i",TFX
 http://149.62.177.107:9999/TFX/index.m3u8
 
+#EXTINF:-1 tvg-id="Tipik.be" tvg-name="Tipik" group-title="Uncategorized" tvg-language="fra;nld" tvg-quality="1080p",Tipik
+http://41.205.93.154/TIPIK/index.m3u8
+
 #EXTINF:-1 tvg-id="TiVi5Monde.fr" tvg-name="TiVi5 Monde" group-title="Uncategorized" tvg-language="fra" tvg-quality="576i",TiVi5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
 

@@ -4,7 +4,7 @@
 
 Find free Italian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**325 channels · 391 stream entries**
+**326 channels · 392 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 391 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
+| All channels | 392 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/all.m3u` |
 | HD | 256 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/hd.m3u` |
-| SD / unknown | 135 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u` |
+| SD / unknown | 136 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 16 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sports.m3u` |
+| Sports | 17 | 25 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/sports.m3u` |
 | Movies | 27 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/movies.m3u` |
 | News | 17 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/news.m3u` |
 | Music | 23 | 28 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/music.m3u` |
@@ -239,6 +239,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Radio Piter Pan TV | RadioPiterPanTV.it | 720p | 1 |
 | Radio Studio Delta TV | RadioStudioDeltaTV.it | 1080p | 1 |
 | Radio Taormina Sicilia | RadioTaorminaSicilia.it | 720p | 1 |
+| Radio TV Serie A | RadioTVSerieA.it | 576i | 1 |
 | Radio Zeta | RadioZeta.it | 1080p | 2 |
 | Radiofreccia | Radiofreccia.it | 1080p | 2 |
 | Rai 1 | Rai1.it | 576p, 720p | 3 |

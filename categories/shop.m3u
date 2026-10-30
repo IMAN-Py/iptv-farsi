@@ -5,6 +5,9 @@ https://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1 tvg-id="1001Noites.br" tvg-name="1001 Noites" group-title="Shop" tvg-language="por" tvg-quality="720p",1001 Noites
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 
+#EXTINF:-1 tvg-id="1001Noites.br" tvg-name="1001 Noites" group-title="Shop" tvg-language="por" tvg-quality="480p",1001 Noites
+https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
+
 #EXTINF:-1 tvg-id="30ATheBeachShow.us" tvg-name="30A The Beach Show" group-title="Shop" tvg-language="eng" tvg-quality="720p",30A The Beach Show
 https://30a-tv.com/beachy.m3u8
 

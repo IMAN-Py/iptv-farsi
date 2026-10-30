@@ -4,7 +4,7 @@
 
 Find free Chinese live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**211 channels · 379 stream entries**
+**213 channels · 381 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 379 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u` |
+| All channels | 381 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/all.m3u` |
 | HD | 198 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/hd.m3u` |
-| SD / unknown | 181 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/sd.m3u` |
+| SD / unknown | 183 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -27,7 +27,7 @@ Each list combines this language with a source category. Counts are stream entri
 | --- | ---: | ---: | --- |
 | Sports | 8 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/sports.m3u` |
 | Movies | 14 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/movies.m3u` |
-| News | 26 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/news.m3u` |
+| News | 28 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/news.m3u` |
 | Music | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/music.m3u` |
 | Kids | 9 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/kids.m3u` |
 | Documentary | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/zho/documentary.m3u` |
@@ -185,6 +185,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Jilin Lifestyle Channel | JilinLifestyleChannel.cn | 576i | 1 |
 | Jilin Movie Channel | JilinMovieChannel.cn | 576i | 1 |
 | Jilin Rural Channel | JilinRuralChannel.cn | 576i | 1 |
+| Jingmen Comprehensive News Channel | JingmenComprehensiveNewsChannel.cn | 576i | 1 |
 | Jiuquan TV News Comprehensive Channel | JiuquanTVNewsComprehensiveChannel.cn | 576p | 1 |
 | Kangba TV | KangbaTV.cn | 576i | 1 |
 | KIX | KIX.hk | 1080p | 1 |
@@ -248,6 +249,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Tianjin TV | TianjinTV.cn | 1080p, 576p | 11 |
 | Tonghua TV | TonghuaTV.cn | 1080p, 576i | 3 |
 | TTV | TTV.tw | 720p | 1 |
+| TTV News | TTVNews.tw | 480i | 1 |
 | TV BRICS Chinese | TVBRICSChinese.cn | 1080p | 1 |
 | TV2 | TV2.my | 1080p | 1 |
 | TVBS News | TVBSNews.tw | 480i | 1 |

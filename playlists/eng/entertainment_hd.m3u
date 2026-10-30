@@ -471,9 +471,6 @@ https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="MeritStreet.us" tvg-name="Merit Street" group-title="Entertainment" tvg-language="eng" tvg-quality="1080p",Merit Street
 https://d9069ugodwkju.cloudfront.net/Merit_Street.m3u8
 
-#EXTINF:-1 tvg-id="MeTV.us" tvg-name="MeTV" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",MeTV
-https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
-
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="meWATCH LIVE 1" group-title="Entertainment" tvg-language="eng;mal;zho" tvg-quality="1080p",meWATCH LIVE 1
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 

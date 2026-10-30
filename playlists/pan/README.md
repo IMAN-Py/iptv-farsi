@@ -4,7 +4,7 @@
 
 Find free Panjabi live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**68 channels · 147 stream entries**
+**69 channels · 148 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/pan/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 147 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/all.m3u` |
-| HD | 67 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/hd.m3u` |
+| All channels | 148 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/all.m3u` |
+| HD | 68 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/hd.m3u` |
 | SD / unknown | 80 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/sd.m3u` |
 
 <a id="categories"></a>
@@ -31,7 +31,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Entertainment | 10 | 27 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/entertainment.m3u` |
 | Culture | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/culture.m3u` |
 | General | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/general.m3u` |
-| Religious | 17 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/religious.m3u` |
+| Religious | 18 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/pan/religious.m3u` |
 
 ## Included channels
 
@@ -45,6 +45,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Akaal Channel | AkaalChannel.uk | 396p | 1 |
 | Amrit Gurbani | AmritGurbani.in | 360p, 720p | 2 |
 | Anandpur Live | AnandpurLive.in | 720p | 1 |
+| BTL TV | BTLTV.nl | 720p | 1 |
 | Chardikla Gurbaani TV | ChardiklaGurbaaniTV.in | 1080p | 1 |
 | Chardikla Time TV | ChardiklaTimeTV.in | 1080p, 576i, 576p | 5 |
 | Chardikla Time TV North America | ChardiklaTimeTVNorthAmerica.in | 1080p | 1 |

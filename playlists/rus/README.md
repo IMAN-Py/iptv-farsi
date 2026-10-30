@@ -4,7 +4,7 @@
 
 Find free Russian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**584 channels · 1343 stream entries**
+**585 channels · 1344 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 1343 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
+| All channels | 1344 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
 | HD | 501 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
-| SD / unknown | 842 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
+| SD / unknown | 843 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -46,7 +46,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Legislative | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/legislative.m3u` |
 | Lifestyle | 10 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/lifestyle.m3u` |
 | Outdoor | 10 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/outdoor.m3u` |
-| Relax | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/relax.m3u` |
+| Relax | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/relax.m3u` |
 | Religious | 14 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/religious.m3u` |
 | Science | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/science.m3u` |
 | Shop | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/shop.m3u` |
@@ -237,6 +237,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Hit | Hit.ru | 1080p | 1 |
 | Hit FM | HitFM.md | 576i | 1 |
 | Hollywood | Hollywood.ru | 1080p, 576p | 2 |
+| Home 4K | Home4K.ru | 576i | 1 |
 | Hope Channel Russia | HopeChannelRussia.ru | 720p | 2 |
 | Horoshee Kino | HorosheeKino.ru | 720p | 1 |
 | Huzur TV | HuzurTV.ru | 1080p | 1 |

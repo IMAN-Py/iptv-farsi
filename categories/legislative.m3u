@@ -5,9 +5,6 @@ https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pl
 #EXTINF:-1 tvg-id="ACTV.us" tvg-name="ACTV" group-title="Legislative" tvg-language="eng" tvg-quality="480i",ACTV
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
 
-#EXTINF:-1 tvg-id="Althingi.is" tvg-name="Althingi" group-title="Legislative" tvg-language="eng;isl" tvg-quality="1080p",Althingi
-https://althingi-live.secure.footprint.net/althingi/live/index.m3u8
-
 #EXTINF:-1 tvg-id="ANTV.ve" tvg-name="ANTV" group-title="Legislative" tvg-language="spa" tvg-quality="720p",ANTV
 http://181.78.8.199:8000/play/a0fo/index.m3u8
 

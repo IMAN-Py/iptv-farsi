@@ -4,7 +4,7 @@
 
 Browse live shop channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**80 channels · 94 stream entries**
+**80 channels · 95 stream entries**
 
 ## All languages
 
@@ -28,7 +28,7 @@ https://iman-py.github.io/open-tv-atlas/categories/shop.m3u
 | [Lao](../playlists/lao/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/lao/shop.m3u` |
 | [Malay](../playlists/msa/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/shop.m3u` |
 | [Polish](../playlists/pol/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/pol/shop.m3u` |
-| [Portuguese](../playlists/por/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/por/shop.m3u` |
+| [Portuguese](../playlists/por/README.md) | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/por/shop.m3u` |
 | [Russian](../playlists/rus/README.md) | 6 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/shop.m3u` |
 | [Spanish](../playlists/spa/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/shop.m3u` |
 | [Ukrainian](../playlists/ukr/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ukr/shop.m3u` |

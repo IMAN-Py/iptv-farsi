@@ -4,7 +4,7 @@
 
 Find free Urdu live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**83 channels · 114 stream entries**
+**84 channels · 115 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/urd/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 114 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/all.m3u` |
-| HD | 52 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/hd.m3u` |
+| All channels | 115 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/all.m3u` |
+| HD | 53 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/hd.m3u` |
 | SD / unknown | 62 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/sd.m3u` |
 
 <a id="categories"></a>
@@ -36,7 +36,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/culture.m3u` |
 | Education | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/education.m3u` |
 | General | 7 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/general.m3u` |
-| Religious | 18 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/religious.m3u` |
+| Religious | 19 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/religious.m3u` |
 | Travel | 1 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/urd/travel.m3u` |
 
 ## Included channels
@@ -67,6 +67,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Bol Entertainment | BolEntertainment.pk | 1080p | 1 |
 | BS Film | BSFilm.pk | 576p | 2 |
 | BSTV | BSTV.pk | 576p | 1 |
+| BTL TV | BTLTV.nl | 720p | 1 |
 | Capital TV | CapitalTV.pk | 576i | 1 |
 | Cartoon Network | CartoonNetwork.pk | 576i | 1 |
 | Channel WIN | ChannelWIN.in | 576p, 720p | 3 |

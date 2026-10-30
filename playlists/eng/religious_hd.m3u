@@ -66,6 +66,9 @@ https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8
 #EXTINF:-1 tvg-id="BTLTV.ke" tvg-name="BTL TV" group-title="Religious" tvg-language="eng" tvg-quality="720p",BTL TV
 https://goliveafrica.media:9998/live/638da5440743c/index.m3u8
 
+#EXTINF:-1 tvg-id="BTLTV.nl" tvg-name="BTL TV" group-title="Religious" tvg-language="eng;pan;urd" tvg-quality="720p",BTL TV
+https://livecdn.live247stream.com/btl/tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BXInspire.us" tvg-name="BX Inspire" group-title="General;Religious" tvg-language="eng" tvg-quality="720p",BX Inspire
 https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8
 

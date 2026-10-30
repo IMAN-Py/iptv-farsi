@@ -256,6 +256,9 @@ https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-id="HardKnocks.ca" tvg-name="Hard Knocks" group-title="Sports" tvg-language="eng" tvg-quality="1080p",Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
 
+#EXTINF:-1 tvg-id="HBCUGOSports.us" tvg-name="HBCU-GO Sports" group-title="Sports" tvg-language="eng" tvg-quality="720p",HBCU-GO Sports
+https://a-cdn.klowdtv.com/live3/hbcugo_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="InTrouble.nl" tvg-name="InTrouble" group-title="Auto;Outdoor;Sports" tvg-language="eng" tvg-quality="1080p",InTrouble
 https://amg00861-amg00861c6-rlaxx-uk-3951.playouts.now.amagi.tv/playlist.m3u8
 

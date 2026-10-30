@@ -293,6 +293,9 @@ https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/i
 #EXTINF:-1 tvg-id="JilinRuralChannel.cn" tvg-name="Jilin Rural Channel" group-title="Education;Lifestyle;Science" tvg-language="zho" tvg-quality="576i",Jilin Rural Channel
 https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
 
+#EXTINF:-1 tvg-id="JingmenComprehensiveNewsChannel.cn" tvg-name="Jingmen Comprehensive News Channel" group-title="News" tvg-language="zho" tvg-quality="576i",Jingmen Comprehensive News Channel
+https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036
+
 #EXTINF:-1 tvg-id="JiuquanTVNewsComprehensiveChannel.cn" tvg-name="Jiuquan TV News Comprehensive Channel" group-title="News" tvg-language="zho" tvg-quality="576p",Jiuquan TV News Comprehensive Channel
 http://117.156.28.119/270000001111/1110000001/index.m3u8
 
@@ -487,6 +490,9 @@ http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225808/index.m3u8
 
 #EXTINF:-1 tvg-id="TonghuaTV.cn" tvg-name="Tonghua TV" group-title="News" tvg-language="zho" tvg-quality="576i",Tonghua TV
 http://139.211.217.79:9004/hls/75/index.m3u8
+
+#EXTINF:-1 tvg-id="TTVNews.tw" tvg-name="TTV News" group-title="News" tvg-language="zho" tvg-quality="480i",TTV News
+https://live.wcetv.com/hls/master-ttvnews.m3u8
 
 #EXTINF:-1 tvg-id="TVBSNews.tw" tvg-name="TVBS News" group-title="News" tvg-language="zho" tvg-quality="480i",TVBS News
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8

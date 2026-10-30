@@ -95,6 +95,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8
 #EXTINF:-1 tvg-id="BSTV.pk" tvg-name="BSTV" group-title="General" tvg-language="urd" tvg-quality="576p",BSTV
 https://lbgo.bozztv.com/ssh101/ssh101/bstv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BTLTV.nl" tvg-name="BTL TV" group-title="Religious" tvg-language="eng;pan;urd" tvg-quality="720p",BTL TV
+https://livecdn.live247stream.com/btl/tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CapitalTV.pk" tvg-name="Capital TV" group-title="News" tvg-language="urd" tvg-quality="576i",Capital TV
 https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8
 

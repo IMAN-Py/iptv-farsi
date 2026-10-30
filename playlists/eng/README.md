@@ -4,7 +4,7 @@
 
 Find free English live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2490 channels · 4464 stream entries**
+**2490 channels · 4466 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 4464 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
-| HD | 3339 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
-| SD / unknown | 1125 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
+| All channels | 4466 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
+| HD | 3342 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
+| SD / unknown | 1124 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,14 +25,14 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 143 | 317 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
-| Movies | 172 | 271 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/movies.m3u` |
-| News | 193 | 469 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/news.m3u` |
+| Sports | 144 | 318 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
+| Movies | 173 | 272 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/movies.m3u` |
+| News | 193 | 470 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/news.m3u` |
 | Music | 162 | 255 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/music.m3u` |
 | Kids | 134 | 232 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/kids.m3u` |
 | Documentary | 87 | 178 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/documentary.m3u` |
 | Series | 209 | 490 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/series.m3u` |
-| Entertainment | 230 | 368 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/entertainment.m3u` |
+| Entertainment | 229 | 367 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/entertainment.m3u` |
 | Animation | 51 | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/animation.m3u` |
 | Auto | 15 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/auto.m3u` |
 | Business | 24 | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/business.m3u` |
@@ -42,16 +42,16 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 46 | 68 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/culture.m3u` |
 | Education | 71 | 90 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/education.m3u` |
 | Family | 17 | 35 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/family.m3u` |
-| General | 298 | 553 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/general.m3u` |
-| Legislative | 114 | 125 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/legislative.m3u` |
+| General | 297 | 552 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/general.m3u` |
+| Legislative | 113 | 124 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/legislative.m3u` |
 | Lifestyle | 58 | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/lifestyle.m3u` |
 | Outdoor | 27 | 75 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/outdoor.m3u` |
 | Relax | 9 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/relax.m3u` |
-| Religious | 213 | 271 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/religious.m3u` |
+| Religious | 214 | 272 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/religious.m3u` |
 | Science | 6 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/science.m3u` |
 | Shop | 27 | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/shop.m3u` |
 | Travel | 29 | 53 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/travel.m3u` |
-| Weather | 11 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/weather.m3u` |
+| Weather | 11 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/weather.m3u` |
 
 ## Included channels
 
@@ -186,7 +186,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Almagd TV Middle East | AlmagdTVMiddleEast.us | 1080p | 1 |
 | Almagd TV North America | AlmagdTVNorthAmerica.us | 1080p | 1 |
 | Alpha Digital | AlphaDigital.ug | 480p | 1 |
-| Althingi | Althingi.is | 1080p | 1 |
 | Always Funny Videos | AlwaysFunnyVideos.us | 720p | 2 |
 | Amazing Discoveries TV | AmazingDiscoveriesTV.ca | 270p, 720p | 2 |
 | Amazing Facts TV | AmazingFactsTV.us | 1080p | 1 |
@@ -409,6 +408,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | BT TV | BTTV.in | 720p | 1 |
 | BTB Info | BTBInfo.pl | 1080p | 2 |
 | BTL TV | BTLTV.ke | 720p | 1 |
+| BTL TV | BTLTV.nl | 720p | 1 |
 | BTM TV | BTMTV.ug | 480p | 1 |
 | BTV | BTV.ug | 480p | 1 |
 | Bukedde TV 2 | BukeddeTV2.ug | 576p | 1 |
@@ -929,7 +929,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Game+ | GamePlus.ca | 720p | 1 |
 | Gametoon | Gametoon.nl | 576i | 1 |
 | Garfield and Friends | GarfieldandFriends.us | 480i | 2 |
-| GB News | GBNews.uk | 1080p, 720p | 11 |
+| GB News | GBNews.uk | 1080p, 720p | 12 |
 | GBS TV | GBSTV.ke | 720p | 1 |
 | GCN America | GCNAmerica.us | 720p | 1 |
 | GCO.tv | GCOtv.us | 1080p | 1 |
@@ -1004,6 +1004,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Harvest USA | HarvestUSA.in | 576p | 1 |
 | Hasbro Legends | HasbroLegends.us | 1080p | 1 |
 | HauntTV | HauntTV.ca | 1080p, 480i, 720p | 8 |
+| HBCU-GO Sports | HBCUGOSports.us | 720p | 1 |
 | HBO | HBO.us | 720p | 1 |
 | HBO Asia | HBOAsia.sg | 1080p, 720p | 2 |
 | HBO Hits | HBOHits.us | 720p | 1 |
@@ -1321,7 +1322,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Merit Street | MeritStreet.us | 1080p | 1 |
 | Merry Christmas from Viafree | MerryChristmasfromViafree.se | 720p | 3 |
 | MERU TV | MERUTV.ke | 720p | 1 |
-| MeTV | MeTV.us | 720p | 1 |
 | meWATCH LIVE 1 | meWATCHLIVE1.sg | 1080p | 1 |
 | Mezzo | Mezzo.fr | 576i, 576p | 2 |
 | Mezzo Live | MezzoLive.fr | 1080p, 576i | 3 |
@@ -1907,7 +1907,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | RVTV Voices | RVTVVoices.us | 720p | 1 |
 | Rwanda TV | RwandaTV.rw | 480p | 2 |
 | Ryan and Friends | RyanandFriends.us | 1080p, 480i | 4 |
-| S Metro TV | SMetroTV.us | 360p | 1 |
 | S Sport 2 | SSport2.tr | 576i | 1 |
 | S4C | S4C.uk | 1080p, 576i, 720p | 5 |
 | SABC 1 | SABC1.za | 720p | 1 |
@@ -2001,6 +2000,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | So... Real | SoReal.us | 720p | 1 |
 | Sonic TV | SonicTV.us | 720p | 2 |
 | Sony BBC Earth | SonyBBCEarth.in | 1080p | 1 |
+| Sony Movies | SonyMovies.us | 720p | 1 |
 | Sony Pix | SonyPix.in | 1080p | 1 |
 | Sony Sports Ten 1 | SonySportsTen1.in | 1080p, 576p | 2 |
 | Sony Sports Ten 2 | SonySportsTen2.in | 576p | 1 |
@@ -2224,7 +2224,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | The Twilight Zone | TheTwilightZone.se | 720p | 3 |
 | The Walk TV | TheWalkTV.us | 480i | 1 |
 | The Walking Dead Universe | TheWalkingDeadUniverse.us | 480i, 720p | 3 |
-| The Weather Channel | TheWeatherChannel.us | 1080p | 1 |
+| The Weather Channel | TheWeatherChannel.us | 1080p, 720p | 2 |
 | The Weather Network | TheWeatherNetwork.ca | 720p | 1 |
 | The Wild Wild West | TheWildWildWest.se | 720p | 3 |
 | The Wild Wild West | TheWildWildWest.us | 720p | 1 |

@@ -600,6 +600,9 @@ https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/i
 #EXTINF:-1 tvg-id="JilinRuralChannel.cn" tvg-name="Jilin Rural Channel" group-title="Education;Lifestyle;Science" tvg-language="zho" tvg-quality="576i",Jilin Rural Channel
 https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
 
+#EXTINF:-1 tvg-id="JingmenComprehensiveNewsChannel.cn" tvg-name="Jingmen Comprehensive News Channel" group-title="News" tvg-language="zho" tvg-quality="576i",Jingmen Comprehensive News Channel
+https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036
+
 #EXTINF:-1 tvg-id="JiuquanTVNewsComprehensiveChannel.cn" tvg-name="Jiuquan TV News Comprehensive Channel" group-title="News" tvg-language="zho" tvg-quality="576p",Jiuquan TV News Comprehensive Channel
 http://117.156.28.119/270000001111/1110000001/index.m3u8
 
@@ -1033,6 +1036,9 @@ https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/i
 
 #EXTINF:-1 tvg-id="TTV.tw" tvg-name="TTV" group-title="Uncategorized" tvg-language="zho" tvg-quality="720p",TTV
 http://162.19.247.76:22222/live/taishi/index.m3u8
+
+#EXTINF:-1 tvg-id="TTVNews.tw" tvg-name="TTV News" group-title="News" tvg-language="zho" tvg-quality="480i",TTV News
+https://live.wcetv.com/hls/master-ttvnews.m3u8
 
 #EXTINF:-1 tvg-id="TVBRICSChinese.cn" tvg-name="TV BRICS Chinese" group-title="General" tvg-language="zho" tvg-quality="1080p",TV BRICS Chinese
 https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
