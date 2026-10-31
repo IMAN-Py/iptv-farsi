@@ -10,6 +10,3 @@ http://46.32.176.50/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ua" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="ukr" tvg-quality="1080p",National Geographic Wild
 http://dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="ViasatHistory.ua" tvg-name="Viasat History" group-title="Documentary" tvg-language="ukr" tvg-quality="1080p",Viasat History
-http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8
-

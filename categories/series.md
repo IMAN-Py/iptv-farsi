@@ -4,7 +4,7 @@
 
 Browse live series channels from the iptv-org collection. Use the worldwide M3U playlist or choose a language below. English appears first, followed by Farsi, then the other available languages.
 
-**401 channels · 765 stream entries**
+**402 channels · 767 stream entries**
 
 ## All languages
 
@@ -18,7 +18,7 @@ https://iman-py.github.io/open-tv-atlas/categories/series.m3u
 
 | Language | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| [English](../playlists/eng/README.md) | 209 | 490 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/series.m3u` |
+| [English](../playlists/eng/README.md) | 210 | 491 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/series.m3u` |
 | [فارسی · Farsi / Persian](../playlists/fas/README.md) | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/fas/series.m3u` |
 | [Arabic](../playlists/ara/README.md) | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ara/series.m3u` |
 | [Bulgarian](../playlists/bul/README.md) | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/series.m3u` |
@@ -29,6 +29,7 @@ https://iman-py.github.io/open-tv-atlas/categories/series.m3u
 | [German](../playlists/deu/README.md) | 19 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/series.m3u` |
 | [Hebrew](../playlists/heb/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/heb/series.m3u` |
 | [Herero](../playlists/her/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/her/series.m3u` |
+| [Indonesian](../playlists/ind/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/series.m3u` |
 | [Italian](../playlists/ita/README.md) | 10 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/ita/series.m3u` |
 | [Malay](../playlists/msa/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/msa/series.m3u` |
 | [Mandarin Chinese](../playlists/cmn/README.md) | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/cmn/series.m3u` |

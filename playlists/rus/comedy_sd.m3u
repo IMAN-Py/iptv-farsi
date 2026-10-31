@@ -1,8 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Gagsnetwork.us" tvg-name="Gagsnetwork" group-title="Comedy" tvg-language="eng;rus" tvg-quality="576p",Gagsnetwork
-http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
-
-#EXTINF:-1 tvg-id="Gagsnetwork.us" tvg-name="Gagsnetwork" group-title="Comedy" tvg-language="eng;rus" tvg-quality="576p",Gagsnetwork
 http://stream.mcquack.net/458/index.m3u8
 
 #EXTINF:-1 tvg-id="Kinokomedija.ru" tvg-name="Kinokomedija" group-title="Comedy" tvg-language="rus" tvg-quality="576p",Kinokomedija

@@ -102,9 +102,6 @@ http://88.212.7.14/live/bbce_hun/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="cze" tvg-quality="576i",BBC Earth
 http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="576p",BBC Earth
-http://hls127.freeott.top:8080/BG_The_World/video.m3u8
-
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="720p",BBC Earth
 https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 
@@ -224,9 +221,6 @@ https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 
 #EXTINF:-1 tvg-id="CityEdenKinoDok.ru" tvg-name="City Eden KinoDok" group-title="Documentary;Series" tvg-language="rus" tvg-quality="1080p",City Eden KinoDok
 https://cityeden.catcast.tv/content/38354/index.m3u8
-
-#EXTINF:-1 tvg-id="ClickTVChile.cl" tvg-name="ClickTV Chile" group-title="Documentary" tvg-language="spa" tvg-quality="720p",ClickTV Chile
-https://v2.tustreaming.cl/clicktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNAOriginals.sg" tvg-name="CNA Originals" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",CNA Originals
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
@@ -989,6 +983,10 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" group-title="Documentary" tvg-language="rus" tvg-quality="576i",RT Documentary
 https://streaming.thestream.cyou/live/554.m3u8
 
+#EXTINF:-1 tvg-id="SafariTV.in" tvg-name="Safari TV" group-title="Documentary" tvg-language="mal" tvg-quality="576p",Safari TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/410/master.m3u8
+
 #EXTINF:-1 tvg-id="SafariTV.in" tvg-name="Safari TV" group-title="Documentary" tvg-language="mal" tvg-quality="480p",Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 
@@ -1062,9 +1060,6 @@ http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
 #EXTINF:-1 tvg-id="TotalCrime.ca" tvg-name="Total Crime" group-title="Documentary" tvg-language="eng" tvg-quality="1080p",Total Crime
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" group-title="Documentary" tvg-language="eng;tur" tvg-quality="1080p",TRT Belgesel
-http://hls127.freeott.top:8080/TRT_BELGESEL_TR/video.m3u8
-
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" group-title="Documentary" tvg-language="eng;tur" tvg-quality="720p",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
@@ -1120,9 +1115,6 @@ https://nord.ayakkabiparti.lol/viasathistory/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78
-
-#EXTINF:-1 tvg-id="ViasatHistory.ua" tvg-name="Viasat History" group-title="Documentary" tvg-language="ukr" tvg-quality="1080p",Viasat History
-http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8
 
 #EXTINF:-1 tvg-id="ViasatNature.bg" tvg-name="Viasat Nature" group-title="Documentary" tvg-language="bul" tvg-quality="1080p",Viasat Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36

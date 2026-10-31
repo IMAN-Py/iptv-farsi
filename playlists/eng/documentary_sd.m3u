@@ -5,9 +5,6 @@ https://30a-tv.com/loomer.m3u8
 #EXTINF:-1 tvg-id="Atlas.us" tvg-name="Atlas" group-title="Documentary" tvg-language="eng" tvg-quality="480p",Atlas
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 
-#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="576p",BBC Earth
-http://hls127.freeott.top:8080/BG_The_World/video.m3u8
-
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="576i",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/

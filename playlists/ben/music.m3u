@@ -22,6 +22,10 @@ http://103.165.93.31:8095/sangeetBangla/index.m3u8
 https://cdn.pishow.tv/ott/live/1143/master.m3u8
 
 #EXTINF:-1 tvg-id="SangeetBangla.in" tvg-name="Sangeet Bangla" group-title="Music" tvg-language="ben" tvg-quality="576p",Sangeet Bangla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/379/master.m3u8
+
+#EXTINF:-1 tvg-id="SangeetBangla.in" tvg-name="Sangeet Bangla" group-title="Music" tvg-language="ben" tvg-quality="576p",Sangeet Bangla
 https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
 
 #EXTINF:-1 tvg-id="SangeetBangla.in" tvg-name="Sangeet Bangla" group-title="Music" tvg-language="ben" tvg-quality="576p",Sangeet Bangla

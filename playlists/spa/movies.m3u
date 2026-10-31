@@ -278,9 +278,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NextHD.py" tvg-name="Next HD" group-title="Movies;Music" tvg-language="spa" tvg-quality="480p",Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
-#EXTINF:-1 tvg-id="OrbitaChileTV.cl" tvg-name="Orbita Chile TV" group-title="Movies;Music" tvg-language="spa" tvg-quality="1080p",Orbita Chile TV
-https://orbitachiletv.org/hls/0/stream.m3u8
-
 #EXTINF:-1 tvg-id="PantallaClasicaEC.ec" tvg-name="Pantalla Clasica EC" group-title="Movies;Series" tvg-language="spa" tvg-quality="512p",Pantalla Clasica EC
 https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 
@@ -379,9 +376,6 @@ https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="RakutenTVTopMovies.es" tvg-name="Rakuten TV Top Movies" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Rakuten TV Top Movies
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-
-#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-name="Retro Plus 3" group-title="Movies" tvg-language="spa" tvg-quality="1080p",Retro Plus 3
-http://181.119.97.124:8080/play/retroplus_3/index.m3u8
 
 #EXTINF:-1 tvg-id="RuntimeEspanol.us" tvg-name="Runtime Espanol" group-title="Movies" tvg-language="spa" tvg-quality="720p",Runtime Espanol
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8

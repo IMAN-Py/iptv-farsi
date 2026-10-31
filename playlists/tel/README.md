@@ -4,7 +4,7 @@
 
 Find free Telugu live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**82 channels · 182 stream entries**
+**82 channels · 184 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 182 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u` |
+| All channels | 184 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/all.m3u` |
 | HD | 62 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/hd.m3u` |
-| SD / unknown | 120 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sd.m3u` |
+| SD / unknown | 122 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -36,7 +36,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Comedy | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/comedy.m3u` |
 | General | 4 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/general.m3u` |
 | Lifestyle | 2 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/lifestyle.m3u` |
-| Religious | 12 | 33 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/religious.m3u` |
+| Religious | 12 | 35 | `https://iman-py.github.io/open-tv-atlas/playlists/tel/religious.m3u` |
 
 ## Included channels
 
@@ -67,7 +67,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Discovery Kids | DiscoveryKids.in | 720p | 1 |
 | Disney Channel | DisneyChannel.in | 1080p | 1 |
 | Disney Junior | DisneyJunior.in | 576p | 1 |
-| Divyavani TV | DivyavaniTV.in | 576p | 1 |
+| Divyavani TV | DivyavaniTV.in | 576p | 3 |
 | ETV Andhra Pradesh | ETVAndhraPradesh.in | 1080p | 2 |
 | ETV Beats | ETVBeats.in | 1080p | 1 |
 | ETV Cinema | ETVCinema.in | 1080p, 396p | 3 |

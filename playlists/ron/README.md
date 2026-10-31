@@ -4,7 +4,7 @@
 
 Find free Romanian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**178 channels · 201 stream entries**
+**179 channels · 202 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 201 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u` |
+| All channels | 202 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/all.m3u` |
 | HD | 65 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/hd.m3u` |
-| SD / unknown | 136 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sd.m3u` |
+| SD / unknown | 137 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,7 +25,7 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sports.m3u` |
+| Sports | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/sports.m3u` |
 | Movies | 12 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/movies.m3u` |
 | News | 16 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/news.m3u` |
 | Music | 35 | 38 | `https://iman-py.github.io/open-tv-atlas/playlists/ron/music.m3u` |
@@ -67,6 +67,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Antena 3 Constanta | Antena3Constanta.ro | 576p | 1 |
 | Antena International | AntenaInternational.ro | 576i | 1 |
 | Antena Monden | AntenaMonden.ro | 720p | 1 |
+| AntenaPlay Events | AntenaPlayEvents.ro | 576p | 1 |
 | Arges TV | ArgesTV.ro | 720p | 1 |
 | Asia Express NonStop | AsiaExpressNonStop.ro | 576i | 1 |
 | Atomic Academy TV | AtomicAcademyTV.ro | 480p | 1 |

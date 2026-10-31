@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="ind" tvg-quality="576i",AXN Asia
+http://202.150.165.66:8088/play/301-AXN/index.m3u8
+

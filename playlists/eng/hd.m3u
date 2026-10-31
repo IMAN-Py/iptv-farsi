@@ -2745,7 +2745,7 @@ http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.in" tvg-name="Disney Channel" group-title="Kids" tvg-language="eng;hin;tam;tel" tvg-quality="1080p",Disney Channel
 http://66.102.126.10:8000/play/a013/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" group-title="Kids" tvg-language="eng;spa" tvg-quality="1080p",Disney XD
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney XD
 http://89.187.179.148:826/1368/gXwiagaXda/1672
 
 #EXTINF:-1 tvg-id="DistrictofColumbiaNetwork.us" tvg-name="District of Columbia Network" group-title="Legislative" tvg-language="eng" tvg-quality="1080p",District of Columbia Network
@@ -7344,9 +7344,6 @@ https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-sa
 #EXTINF:-1 tvg-id="ResurrectionTV.gh" tvg-name="Resurrection TV" group-title="Uncategorized" tvg-language="eng" tvg-quality="720p",Resurrection TV
 https://1681360479.rsc.cdn77.org/1681360479/index.m3u8
 
-#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-name="Retro Plus" group-title="Music" tvg-language="eng;spa" tvg-quality="1080p",Retro Plus
-http://181.119.97.124:8080/play/a00t/index.m3u8
-
 #EXTINF:-1 tvg-id="RetroTV.us" tvg-name="Retro TV" group-title="Classic" tvg-language="eng" tvg-quality="720p",Retro TV
 https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8
 
@@ -8413,6 +8410,12 @@ https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist
 #EXTINF:-1 tvg-id="Telearuba.aw" tvg-name="Telearuba" group-title="General" tvg-language="eng;nld;pap;spa" tvg-quality="1080p",Telearuba
 https://cdn01.setar.aw/Telearuba/telearuba/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Telecyan.us" tvg-name="Telecyan" group-title="Comedy;Series" tvg-language="eng" tvg-quality="720p",Telecyan
+https://live20.bozztv.com/giatvplayout7/giatv-211227/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleHit.mx" tvg-name="TeleHit" group-title="Music" tvg-language="eng;spa" tvg-quality="1080p",TeleHit
+http://186.148.196.100:8000/play/a01s
+
 #EXTINF:-1 tvg-id="TeleHit.mx" tvg-name="TeleHit" group-title="Music" tvg-language="eng;spa" tvg-quality="1080p",TeleHit
 http://190.61.47.54:8000/play/a029/index.m3u8
 
@@ -9115,9 +9118,6 @@ https://amg02507-giantpictures-tribeca-xumo-ey2b7.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TrishulBroadcastingNetwork.sr" tvg-name="Trishul Broadcasting Network" group-title="Culture" tvg-language="eng;hin;nld" tvg-quality="720p",Trishul Broadcasting Network
 https://live.suricloud.com/hls/tbntv/index.m3u8
-
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" group-title="Documentary" tvg-language="eng;tur" tvg-quality="1080p",TRT Belgesel
-http://hls127.freeott.top:8080/TRT_BELGESEL_TR/video.m3u8
 
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" group-title="Documentary" tvg-language="eng;tur" tvg-quality="720p",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8

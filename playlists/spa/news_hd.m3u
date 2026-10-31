@@ -102,9 +102,6 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" group-title="News" tvg-language="spa" tvg-quality="1080p",CGTN Spanish
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 
-#EXTINF:-1 tvg-id="CNNChile.cl" tvg-name="CNN Chile" group-title="News" tvg-language="spa" tvg-quality="1080p",CNN Chile
-http://190.110.96.238:8000/play/a0f5/index.m3u8
-
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN en Espanol" group-title="News" tvg-language="spa" tvg-quality="1080p",CNN en Espanol
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
 
@@ -122,9 +119,6 @@ https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CosmosTv.ar" tvg-name="Cosmos Tv" group-title="Movies;News" tvg-language="spa" tvg-quality="1080p",Cosmos Tv
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-
-#EXTINF:-1 tvg-id="DNews.us" tvg-name="DNews" group-title="News" tvg-language="spa" tvg-quality="720p",DNews
-http://38.19.16.151:8000/play/a0a3
 
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW" group-title="News" tvg-language="spa" tvg-quality="720p",DW
 http://138.121.15.230:9002/DW/index.m3u8
@@ -415,9 +409,6 @@ https://redirector.dps.live/hls/t13/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telecanal.cl" tvg-name="Telecanal" group-title="News" tvg-language="spa" tvg-quality="720p",Telecanal
 http://45.232.210.1:8029/play/a00s/index.m3u8
-
-#EXTINF:-1 tvg-id="TelecanalSantaCruz.cl" tvg-name="Telecanal Santa Cruz" group-title="News" tvg-language="spa" tvg-quality="720p",Telecanal Santa Cruz
-https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleCauquenes.cl" tvg-name="TeleCauquenes" group-title="News" tvg-language="spa" tvg-quality="720p",TeleCauquenes
 https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8

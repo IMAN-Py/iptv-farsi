@@ -4,7 +4,7 @@
 
 Find free Turkish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**173 channels · 221 stream entries**
+**174 channels · 221 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 221 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/all.m3u` |
-| HD | 182 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
-| SD / unknown | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sd.m3u` |
+| HD | 181 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/hd.m3u` |
+| SD / unknown | 40 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -29,11 +29,11 @@ Each list combines this language with a source category. Counts are stream entri
 | Movies | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/movies.m3u` |
 | News | 19 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/news.m3u` |
 | Music | 14 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/music.m3u` |
-| Kids | 8 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/kids.m3u` |
-| Documentary | 5 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/documentary.m3u` |
+| Kids | 9 | 12 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/kids.m3u` |
+| Documentary | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/documentary.m3u` |
 | Series | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/series.m3u` |
 | Entertainment | 8 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/entertainment.m3u` |
-| Animation | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/animation.m3u` |
+| Animation | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/animation.m3u` |
 | Business | 2 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/business.m3u` |
 | Culture | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/culture.m3u` |
 | Education | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tur/education.m3u` |
@@ -75,6 +75,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Bric ve Satranc TV | BricveSatrancTV.tr | 480p | 1 |
 | BRTV | BRTV.tr | 720p | 1 |
 | Bursa TV | BursaTV.tr | 720p | 1 |
+| Cartoon Network | CartoonNetwork.tr | 576i | 1 |
 | Cay TV | CayTV.tr | 720p | 1 |
 | Cekmekoy TV | CekmekoyTV.tr | 1080p | 1 |
 | Ciftci TV | CiftciTV.tr | 720p | 1 |
@@ -193,7 +194,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TRT 3 | TRT3.tr | 720p | 1 |
 | TRT Arabi | TRTArabi.tr | 1080p | 1 |
 | TRT Avaz | TRTAvaz.tr | 720p | 1 |
-| TRT Belgesel | TRTBelgesel.tr | 1080p, 720p | 2 |
+| TRT Belgesel | TRTBelgesel.tr | 720p | 1 |
 | TRT Cocuk | TRTCocuk.tr | 1440p | 1 |
 | TRT Diyanet Cocuk | TRTDiyanetCocuk.tr | 720p | 1 |
 | TRT EBA | TRTEBA.tr | 720p | 1 |

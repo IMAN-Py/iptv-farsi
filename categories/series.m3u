@@ -210,6 +210,9 @@ https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="cmn" tvg-quality="1080p",AXN Asia
 http://125.227.210.55:4050/VideoInput/play.ts
 
+#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="ind" tvg-quality="576i",AXN Asia
+http://202.150.165.66:8088/play/301-AXN/index.m3u8
+
 #EXTINF:-1 tvg-id="AXNBlack.pl" tvg-name="AXN Black" group-title="Series" tvg-language="pol" tvg-quality="576i",AXN Black
 http://92.114.85.87:8014/play/a00h/index.m3u8
 
@@ -1926,6 +1929,9 @@ http://tvsen7.aynascope.net/syfy/index.m3u8
 
 #EXTINF:-1 tvg-id="TPlusE.ca" tvg-name="T+E" group-title="Series" tvg-language="eng" tvg-quality="720p",T+E
 http://185.246.209.113/T+E/index.m3u8
+
+#EXTINF:-1 tvg-id="Telecyan.us" tvg-name="Telecyan" group-title="Comedy;Series" tvg-language="eng" tvg-quality="720p",Telecyan
+https://live20.bozztv.com/giatvplayout7/giatv-211227/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TelemundoTelenovelasClasicas.us" tvg-name="Telemundo Telenovelas Clasicas" group-title="Series" tvg-language="eng" tvg-quality="480i",Telemundo Telenovelas Clasicas
 https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8

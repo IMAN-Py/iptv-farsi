@@ -210,9 +210,6 @@ http://stream.mcquack.net/394/index.m3u8
 #EXTINF:-1 tvg-id="SuperPlus.ua" tvg-name="Super+" group-title="Entertainment;General" tvg-language="ukr" tvg-quality="360p",Super+
 http://dtv.vol.net.ua/super_plus/index.m3u8
 
-#EXTINF:-1 tvg-id="SuspilneDonbas.ua" tvg-name="Suspilne. Donbas" group-title="General" tvg-language="ukr" tvg-quality="576p",Suspilne. Donbas
-http://hls127.freeott.top:8080/UA_DONBAS/video.m3u8
-
 #EXTINF:-1 tvg-id="SuspilneKyiv.ua" tvg-name="Suspilne. Kyiv" group-title="General" tvg-language="ukr" tvg-quality="360p",Suspilne. Kyiv
 https://live-nstu.cdn-03.cosmonova.net.ua/mobile-app/main/nstu-kyiv/master.m3u8
 

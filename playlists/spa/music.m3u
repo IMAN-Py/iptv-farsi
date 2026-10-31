@@ -182,9 +182,6 @@ https://streaming.imagenfm105-1.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="InfinitaTV.ec" tvg-name="Infinita TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",Infinita TV
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="InterradioTV.cl" tvg-name="Interradio TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Interradio TV
-https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8
-
 #EXTINF:-1 tvg-id="IQChannel.cr" tvg-name="IQ Channel" group-title="Music" tvg-language="spa" tvg-quality="720p",IQ Channel
 https://rtmp.info/iqtv/envivo/playlist.m3u8
 
@@ -218,9 +215,6 @@ https://stmv.gmpro.top/laelegidatv/laelegidatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaFabulosaTV.pe" tvg-name="La Fabulosa TV" group-title="Music" tvg-language="spa" tvg-quality="720p",La Fabulosa TV
 https://eu1.servers10.com:8081/8004/index.m3u8
-
-#EXTINF:-1 tvg-id="LaGranjaTV.cl" tvg-name="La Granja TV" group-title="Music" tvg-language="spa" tvg-quality="480i",La Granja TV
-https://oracle.streaminghd.cl/8126/8126/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaHermandadSalsera.co" tvg-name="La Hermandad Salsera" group-title="Music" tvg-language="spa" tvg-quality="1080p",La Hermandad Salsera
 https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
@@ -275,9 +269,6 @@ https://live.obslivestream.com/makaomux/index.m3u8
 
 #EXTINF:-1 tvg-id="MakaoTV.do" tvg-name="Makao TV" group-title="Music" tvg-language="spa" tvg-quality="360p",Makao TV
 https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MaquiTV.cl" tvg-name="Maqui TV" group-title="Music" tvg-language="spa" tvg-quality="576i",Maqui TV
-https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MasFM.ar" tvg-name="Mas FM" group-title="Music" tvg-language="spa" tvg-quality="720p",Mas FM
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
@@ -363,9 +354,6 @@ https://cloudvideo.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-id="OndambientalTV.co" tvg-name="Ondambiental TV" group-title="Culture;Music" tvg-language="spa" tvg-quality="360p",Ondambiental TV
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OrbitaChileTV.cl" tvg-name="Orbita Chile TV" group-title="Movies;Music" tvg-language="spa" tvg-quality="1080p",Orbita Chile TV
-https://orbitachiletv.org/hls/0/stream.m3u8
-
 #EXTINF:-1 tvg-id="OxigenoTV.ve" tvg-name="Oxigeno TV" group-title="Music" tvg-language="spa" tvg-quality="360p",Oxigeno TV
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 
@@ -430,9 +418,6 @@ https://vmix.dyndns.biz/Edelweiss/index.m3u8
 #EXTINF:-1 tvg-id="RadioFantastica989FM.ec" tvg-name="Radio Fantastica 98.9 FM" group-title="Music" tvg-language="spa" tvg-quality="1080p",Radio Fantastica 98.9 FM
 http://190.107.232.9:8082/livestream/stream.m3u8
 
-#EXTINF:-1 tvg-id="RadioFiessta.cl" tvg-name="Radio Fiessta" group-title="Music" tvg-language="spa" tvg-quality="720p",Radio Fiessta
-https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8
-
 #EXTINF:-1 tvg-id="RadioIdeal.hn" tvg-name="Radio Ideal" group-title="Music" tvg-language="spa" tvg-quality="720p",Radio Ideal
 https://www.idealfm104-7.com/hls/0/stream.m3u8
 
@@ -484,16 +469,6 @@ http://158.172.217.18:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="RanchenatoTV.co" tvg-name="Ranchenato TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",Ranchenato TV
 http://181.78.12.119:16123/play/ch15/index.m3u8
 
-#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-name="Retro Plus" group-title="Music" tvg-language="eng;spa" tvg-quality="1080p",Retro Plus
-http://181.119.97.124:8080/play/a00t/index.m3u8
-
-#EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-name="Retro Plus 2" group-title="Music" tvg-language="spa" tvg-quality="1080p",Retro Plus 2
-http://181.119.97.124:8080/play/a00n/index.m3u8
-
-#EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-name="Retro Plus 2" group-title="Music" tvg-language="spa" tvg-quality="720p",Retro Plus 2
-#EXTVLCOPT:http-referrer=https://retroplustv.com/
-https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Retroclub.ar" tvg-name="Retroclub" group-title="Music" tvg-language="spa" tvg-quality="720p",Retroclub
 https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8
 
@@ -518,7 +493,7 @@ http://190.128.214.97:64333/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="RTVVida.es" tvg-name="RTV Vida" group-title="Music" tvg-language="spa" tvg-quality="1080p",RTV Vida
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 
-#EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="Rumba TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Rumba TV
+#EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="Rumba TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",Rumba TV
 http://186.148.196.100:8000/play/a02h
 
 #EXTINF:-1 tvg-id="RumbaMixTV.pe" tvg-name="RumbaMix TV" group-title="Music" tvg-language="spa" tvg-quality="720p",RumbaMix TV
@@ -582,6 +557,9 @@ https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="TeleangolRadio.cl" tvg-name="Teleangol Radio" group-title="Music" tvg-language="spa" tvg-quality="720p",Teleangol Radio
 https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleHit.mx" tvg-name="TeleHit" group-title="Music" tvg-language="eng;spa" tvg-quality="1080p",TeleHit
+http://186.148.196.100:8000/play/a01s
 
 #EXTINF:-1 tvg-id="TeleHit.mx" tvg-name="TeleHit" group-title="Music" tvg-language="eng;spa" tvg-quality="1080p",TeleHit
 http://190.61.47.54:8000/play/a029/index.m3u8
@@ -651,6 +629,9 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UrbanoTV.cr" tvg-name="Urbano TV" group-title="Music" tvg-language="spa" tvg-quality="720p",Urbano TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VClassicTV.cl" tvg-name="V Classic TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",V Classic TV
+http://186.148.196.100:8000/play/a02z
 
 #EXTINF:-1 tvg-id="VClassicTV.cl" tvg-name="V Classic TV" group-title="Music" tvg-language="spa" tvg-quality="720p",V Classic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8

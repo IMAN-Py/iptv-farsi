@@ -4,7 +4,7 @@
 
 Find free Bengali live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**102 channels · 173 stream entries**
+**102 channels · 174 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 173 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
+| All channels | 174 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/all.m3u` |
 | HD | 82 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/hd.m3u` |
-| SD / unknown | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sd.m3u` |
+| SD / unknown | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -28,7 +28,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Sports | 5 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/sports.m3u` |
 | Movies | 5 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/movies.m3u` |
 | News | 25 | 42 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/news.m3u` |
-| Music | 5 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/music.m3u` |
+| Music | 5 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/music.m3u` |
 | Kids | 5 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/kids.m3u` |
 | Entertainment | 17 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/entertainment.m3u` |
 | Animation | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ben/animation.m3u` |
@@ -125,7 +125,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Rupashi Bangla TV | RupashiBanglaTV.bd | 720p | 1 |
 | Rupasi Bangla | RupasiBangla.in | 576p, 720p | 6 |
 | Samay Kolkata | SamayKolkata.in | 1080p, 720p | 2 |
-| Sangeet Bangla | SangeetBangla.in | 576p, 720p | 4 |
+| Sangeet Bangla | SangeetBangla.in | 576p, 720p | 5 |
 | Shiksha TV | ShikshaTV.in | 720p | 1 |
 | Sonar Bangla | SonarBangla.in | 360p | 1 |
 | Sonic | Sonic.in | 576p | 2 |

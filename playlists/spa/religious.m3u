@@ -508,17 +508,11 @@ http://15.204.246.24:8080/PoderdeDiosHD/index.m3u8
 #EXTINF:-1 tvg-id="PoderdeDiosTV.bo" tvg-name="Poder de Dios TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",Poder de Dios TV
 https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8
 
-#EXTINF:-1 tvg-id="PreludioTV.cl" tvg-name="Preludio TV" group-title="Religious" tvg-language="spa" tvg-quality="576i",Preludio TV
-https://tv.arkeo.cl:1936/preludio/preludio/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PresenciaTelevision.gt" tvg-name="Presencia Television" group-title="Religious" tvg-language="spa" tvg-quality="720p",Presencia Television
 https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8
 
 #EXTINF:-1 tvg-id="PresenciaTelevision.gt" tvg-name="Presencia Television" group-title="Religious" tvg-language="spa" tvg-quality="720p",Presencia Television
 https://stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PrimiciaVida.cl" tvg-name="Primicia Vida" group-title="Religious" tvg-language="spa" tvg-quality="720p",Primicia Vida
-https://mc.servidor.stream:19360/8248/8248.m3u8
 
 #EXTINF:-1 tvg-id="ProclamacionTV.ve" tvg-name="Proclamacion TV" group-title="Religious" tvg-language="spa" tvg-quality="480i",Proclamacion TV
 https://video2.getstreamhosting.com:19360/8000/8000.m3u8

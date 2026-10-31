@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-id="100AutoMotoTV.bg" tvg-name="100% Auto Moto TV" group-title="Auto" tvg-language="bul;eng" tvg-quality="406p",100% Auto Moto TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24Kitchen.us" tvg-name="24Kitchen" group-title="Cooking" tvg-language="bul" tvg-quality="1080p",24Kitchen
-http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8
-
 #EXTINF:-1 tvg-id="78TV.bg" tvg-name="7/8 TV" group-title="Entertainment" tvg-language="bul" tvg-quality="576i",7/8 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0cn
@@ -20,15 +17,9 @@ http://212.70.131.37:8000/play/a05k
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0by
 
-#EXTINF:-1 tvg-id="AMCEurope.uk" tvg-name="AMC Europe" group-title="Movies" tvg-language="bul" tvg-quality="576p",AMC Europe
-http://hls127.freeott.top:8080/BG_AMC/video.m3u8
-
 #EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" group-title="Movies" tvg-language="bul" tvg-quality="576i",AXN Black
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.14.32.26:8800/udp/239.100.10.17:5000
-
-#EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" group-title="Movies" tvg-language="bul" tvg-quality="576p",AXN Black
-http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8
 
 #EXTINF:-1 tvg-id="AXNCEE.es" tvg-name="AXN CEE" group-title="Movies" tvg-language="bul" tvg-quality="576i",AXN CEE
 http://85.11.144.9:4222/AXN
@@ -36,9 +27,6 @@ http://85.11.144.9:4222/AXN
 #EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" group-title="Entertainment" tvg-language="bul" tvg-quality="576i",AXN White
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.14.32.26:8800/udp/239.100.10.18:5000
-
-#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" group-title="Entertainment" tvg-language="bul" tvg-quality="576p",AXN White
-http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTVBulgaria.bg" tvg-name="Bloomberg TV Bulgaria" group-title="Business" tvg-language="bul" tvg-quality="576i",Bloomberg TV Bulgaria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
@@ -339,9 +327,6 @@ https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
 #EXTINF:-1 tvg-id="ViasatHistory.bg" tvg-name="Viasat History" group-title="Documentary" tvg-language="bul" tvg-quality="1080p",Viasat History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" group-title="Movies" tvg-language="bul" tvg-quality="1080p",Viasat Kino
-http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="ViasatNature.bg" tvg-name="Viasat Nature" group-title="Documentary" tvg-language="bul" tvg-quality="1080p",Viasat Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36

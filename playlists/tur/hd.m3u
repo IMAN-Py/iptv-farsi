@@ -468,9 +468,6 @@ https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT Avaz" group-title="Uncategorized" tvg-language="tur" tvg-quality="720p",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" group-title="Documentary" tvg-language="eng;tur" tvg-quality="1080p",TRT Belgesel
-http://hls127.freeott.top:8080/TRT_BELGESEL_TR/video.m3u8
-
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" group-title="Documentary" tvg-language="eng;tur" tvg-quality="720p",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 

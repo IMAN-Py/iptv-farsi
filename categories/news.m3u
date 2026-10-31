@@ -1722,9 +1722,6 @@ https://tvsen6.aynaott.com/cnn/index.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil" group-title="News" tvg-language="por" tvg-quality="1080p",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 tvg-id="CNNChile.cl" tvg-name="CNN Chile" group-title="News" tvg-language="spa" tvg-quality="1080p",CNN Chile
-http://190.110.96.238:8000/play/a0f5/index.m3u8
-
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN en Espanol" group-title="News" tvg-language="spa" tvg-quality="1080p",CNN en Espanol
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
 
@@ -1888,9 +1885,6 @@ https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 #EXTINF:-1 tvg-id="DijlahTV.iq" tvg-name="Dijlah TV" group-title="News" tvg-language="ara;eng" tvg-quality="1080p",Dijlah TV
 https://ghaasiflu.online/Dijlah/index.m3u8
 
-#EXTINF:-1 tvg-id="DNews.us" tvg-name="DNews" group-title="News" tvg-language="spa" tvg-quality="720p",DNews
-http://38.19.16.151:8000/play/a0a3
-
 #EXTINF:-1 tvg-id="DNN.in" tvg-name="DNN" group-title="News" tvg-language="hin" tvg-quality="576p",DNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/592/master.m3u8
@@ -1986,9 +1980,6 @@ https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW" group-title="News" tvg-language="eng" tvg-quality="576p",DW
 https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8
 
-#EXTINF:-1 tvg-id="DY365.in" tvg-name="DY 365" group-title="News" tvg-language="asm" tvg-quality="576p",DY 365
-https://cdn.pishow.tv/ott/live/1624/master.m3u8
-
 #EXTINF:-1 tvg-id="DY365.in" tvg-name="DY 365" group-title="News" tvg-language="asm" tvg-quality="360p",DY 365
 https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 
@@ -2042,9 +2033,6 @@ https://nuevodiario01.streamprolive.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="ElPinguinoTV.cl" tvg-name="El Pinguino TV" group-title="News" tvg-language="spa" tvg-quality="720p",El Pinguino TV
 https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ElPinguinoTV.cl" tvg-name="El Pinguino TV" group-title="News" tvg-language="spa" tvg-quality="480i",El Pinguino TV
-https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElyssaTV.tn" tvg-name="Elyssa TV" group-title="News" tvg-language="ara" tvg-quality="1080p",Elyssa TV
 https://tv.elyssatv.com/live/master.m3u8
@@ -3555,6 +3543,10 @@ https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8
 
 #EXTINF:-1 tvg-id="MunsifTV.in" tvg-name="Munsif TV" group-title="News" tvg-language="urd" tvg-quality="576p",Munsif TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/598/master.m3u8
+
+#EXTINF:-1 tvg-id="MunsifTV.in" tvg-name="Munsif TV" group-title="News" tvg-language="urd" tvg-quality="576p",Munsif TV
 https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8
 
 #EXTINF:-1 tvg-id="MunsifTV.in" tvg-name="Munsif TV" group-title="News" tvg-language="urd" tvg-quality="576p",Munsif TV
@@ -4147,6 +4139,10 @@ https://cdn.pishow.tv/ott/live/455/master.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" group-title="Culture;News" tvg-language="eng;jpn" tvg-quality="1080p",NHK World-Japan
 https://freem3u.xyz/api/live/play.m3u8?vid=106
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" group-title="Culture;News" tvg-language="eng;jpn" tvg-quality="576p",NHK World-Japan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/417/master.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" group-title="Culture;News" tvg-language="eng;jpn" tvg-quality="1080p",NHK World-Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
@@ -5556,9 +5552,6 @@ http://45.232.210.1:8029/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="Telecanal.cl" tvg-name="Telecanal" group-title="News" tvg-language="spa" tvg-quality="576p",Telecanal
 https://tr.live.clarovtrcdn.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 tvg-id="TelecanalSantaCruz.cl" tvg-name="Telecanal Santa Cruz" group-title="News" tvg-language="spa" tvg-quality="720p",Telecanal Santa Cruz
-https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TeleCauquenes.cl" tvg-name="TeleCauquenes" group-title="News" tvg-language="spa" tvg-quality="720p",TeleCauquenes
 https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8
 
@@ -5747,6 +5740,10 @@ https://cdn.pishow.tv/ott/live/266/master.m3u8
 
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" group-title="News" tvg-language="eng" tvg-quality="1080i",TRT World
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" group-title="News" tvg-language="eng" tvg-quality="576p",TRT World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/416/master.m3u8
 
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" group-title="News" tvg-language="eng" tvg-quality="720p",TRT World
 https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8

@@ -163,9 +163,6 @@ https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="Cultura24.pe" tvg-name="Cultura 24" group-title="Culture" tvg-language="spa" tvg-quality="480i",Cultura 24
 https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 
-#EXTINF:-1 tvg-id="CulturaOnline.cl" tvg-name="Cultura Online" group-title="Culture" tvg-language="spa" tvg-quality="480i",Cultura Online
-https://streaming.bitsur.cl:3399/live/vdo532live.m3u8
-
 #EXTINF:-1 tvg-id="DDBharati.in" tvg-name="DD Bharati" group-title="Culture" tvg-language="hin" tvg-quality="720p",DD Bharati
 https://cdn.pishow.tv/ott/live/10/master.m3u8
 
@@ -485,6 +482,10 @@ https://cdn.pishow.tv/ott/live/455/master.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" group-title="Culture;News" tvg-language="eng;jpn" tvg-quality="1080p",NHK World-Japan
 https://freem3u.xyz/api/live/play.m3u8?vid=106
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" group-title="Culture;News" tvg-language="eng;jpn" tvg-quality="576p",NHK World-Japan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/417/master.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" group-title="Culture;News" tvg-language="eng;jpn" tvg-quality="1080p",NHK World-Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8

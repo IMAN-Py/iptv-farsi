@@ -334,9 +334,6 @@ https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8
 #EXTINF:-1 tvg-id="PresenciaTelevision.gt" tvg-name="Presencia Television" group-title="Religious" tvg-language="spa" tvg-quality="720p",Presencia Television
 https://stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PrimiciaVida.cl" tvg-name="Primicia Vida" group-title="Religious" tvg-language="spa" tvg-quality="720p",Primicia Vida
-https://mc.servidor.stream:19360/8248/8248.m3u8
-
 #EXTINF:-1 tvg-id="RadioArmoniaTV.cl" tvg-name="Radio Armonia TV" group-title="Religious" tvg-language="spa" tvg-quality="720p",Radio Armonia TV
 https://v2.tustreaming.cl/armoniamovil/index.m3u8
 

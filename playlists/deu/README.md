@@ -4,7 +4,7 @@
 
 Find free German live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**295 channels · 393 stream entries**
+**296 channels · 394 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,8 +14,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 393 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u` |
-| HD | 309 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/hd.m3u` |
+| All channels | 394 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/all.m3u` |
+| HD | 310 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/hd.m3u` |
 | SD / unknown | 84 | `https://iman-py.github.io/open-tv-atlas/playlists/deu/sd.m3u` |
 
 <a id="categories"></a>
@@ -269,6 +269,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | RFH | RFH.de | 1080p | 2 |
 | RFO | RFO.de | 1080p | 1 |
 | RiC | RiC.de | 1080p, 576i | 2 |
+| RiC.today | RiCtoday.de | 1080i | 1 |
 | Rock Antenne | RockAntenne.de | 576i | 1 |
 | Rockland TV | RocklandTV.de | 480p | 1 |
 | RT DE | RTDE.de | 1080p | 2 |

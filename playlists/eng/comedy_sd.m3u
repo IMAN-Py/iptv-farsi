@@ -56,9 +56,6 @@ https://jmp2.uk/plu-62bdb5500c21270007218ce1.m3u8
 https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8
 
 #EXTINF:-1 tvg-id="Gagsnetwork.us" tvg-name="Gagsnetwork" group-title="Comedy" tvg-language="eng;rus" tvg-quality="576p",Gagsnetwork
-http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
-
-#EXTINF:-1 tvg-id="Gagsnetwork.us" tvg-name="Gagsnetwork" group-title="Comedy" tvg-language="eng;rus" tvg-quality="576p",Gagsnetwork
 http://stream.mcquack.net/458/index.m3u8
 
 #EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-name="Just for Laughs Gags" group-title="Comedy" tvg-language="eng" tvg-quality="480i",Just for Laughs Gags

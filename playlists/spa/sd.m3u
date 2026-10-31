@@ -184,9 +184,6 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="AricaTV.cl" tvg-name="Arica TV" group-title="General" tvg-language="spa" tvg-quality="480p",Arica TV
 https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AricaTV.cl" tvg-name="Arica TV" group-title="General" tvg-language="spa" tvg-quality="480i",Arica TV
-https://envivo.arica.tv/hls/Live2025AricaTV.m3u8
-
 #EXTINF:-1 tvg-id="Asomavision.ec" tvg-name="Asomavision" group-title="Religious" tvg-language="spa" tvg-quality="614p",Asomavision
 https://asomatv.cloud-ip.cc/livestream/stream.m3u8
 
@@ -206,9 +203,6 @@ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="AudazTV.ve" tvg-name="Audaz TV" group-title="Religious" tvg-language="spa" tvg-quality="432p",Audaz TV
 https://cloud2.streaminglivehd.com:1936/8264/8264/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AutonomaTV.cl" tvg-name="Autonoma TV" group-title="General" tvg-language="spa" tvg-quality="480i",Autonoma TV
-https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AvivaTV.hn" tvg-name="Aviva TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="288p",Aviva TV
 https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8
@@ -432,9 +426,6 @@ https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3
 
 #EXTINF:-1 tvg-id="Canal7TV.ar" tvg-name="Canal 7 TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="576p",Canal 7 TV
 https://k-fra32.x10.network/Clrs/test/hls/1158394/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal74SanAntonio.cl" tvg-name="Canal 74 San Antonio" group-title="Uncategorized" tvg-language="spa" tvg-quality="480i",Canal 74 San Antonio
-https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal79LaCosta.ar" tvg-name="Canal 79 La Costa" group-title="Uncategorized" tvg-language="spa" tvg-quality="240p",Canal 79 La Costa
 https://streamconex.com:19360/lacosta/lacosta.m3u8
@@ -759,9 +750,6 @@ https://live.ctvbolivia.com/hls/ctv.m3u8
 #EXTINF:-1 tvg-id="CTV.us" tvg-name="CTV" group-title="Uncategorized" tvg-language="eng;spa" tvg-quality="480p",CTV
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/calabasas/G0009_003/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CTV35.cl" tvg-name="CTV35" group-title="General" tvg-language="spa" tvg-quality="576i",CTV35
-https://vdochile.com:3697/live/ctv35live.m3u8
-
 #EXTINF:-1 tvg-id="Cubavision.cu" tvg-name="Cubavision" group-title="General" tvg-language="spa" tvg-quality="480i",Cubavision
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://teveo.cu/
@@ -769,9 +757,6 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:9KJTMRBAm2BbnsYK.stream/pl
 
 #EXTINF:-1 tvg-id="Cultura24.pe" tvg-name="Cultura 24" group-title="Culture" tvg-language="spa" tvg-quality="480i",Cultura 24
 https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
-
-#EXTINF:-1 tvg-id="CulturaOnline.cl" tvg-name="Cultura Online" group-title="Culture" tvg-language="spa" tvg-quality="480i",Cultura Online
-https://streaming.bitsur.cl:3399/live/vdo532live.m3u8
 
 #EXTINF:-1 tvg-id="CurroJimenez.us" tvg-name="Curro Jimenez" group-title="Series" tvg-language="spa" tvg-quality="576i",Curro Jimenez
 https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8
@@ -813,9 +798,6 @@ https://stmv.gmpro.top/surtv/surtv/playlist.m3u8
 #EXTINF:-1 tvg-id="DiasporaTV.pe" tvg-name="Diaspora TV" group-title="Culture" tvg-language="spa" tvg-quality="480i",Diaspora TV
 https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8
 
-#EXTINF:-1 tvg-id="DiferenciaRadioTV.cl" tvg-name="Diferencia Radio TV" group-title="General" tvg-language="spa" tvg-quality="576i",Diferencia Radio TV
-https://s1.radiumcast.top/memfs/674b2d4f-7d6e-49be-9c6c-3094868259d9.m3u8
-
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" group-title="Animation;Kids" tvg-language="spa" tvg-quality="576p",Disney Channel Latin America
 http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
 
@@ -856,9 +838,6 @@ https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="Ecuador TV" group-title="General" tvg-language="spa" tvg-quality="480i",Ecuador TV
 https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
 
-#EXTINF:-1 tvg-id="EGMChannel.cl" tvg-name="EGM Channel" group-title="General" tvg-language="spa" tvg-quality="480p",EGM Channel
-https://paneltv.online:1936/8186/8186/playlist.m3u8
-
 #EXTINF:-1 tvg-id="El3deConce.cl" tvg-name="El 3 de Conce" group-title="General" tvg-language="spa" tvg-quality="576i",El 3 de Conce
 https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8
 
@@ -877,9 +856,6 @@ https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
 #EXTINF:-1 tvg-id="ElNuevoDiarioTV.do" tvg-name="El Nuevo Diario TV" group-title="News" tvg-language="spa" tvg-quality="480p",El Nuevo Diario TV
 #EXTVLCOPT:http-referrer=https://nuevodiario01.streamprolive.com/i/cp/hls/player.html
 https://nuevodiario01.streamprolive.com/hls/live.m3u8
-
-#EXTINF:-1 tvg-id="ElPinguinoTV.cl" tvg-name="El Pinguino TV" group-title="News" tvg-language="spa" tvg-quality="480i",El Pinguino TV
-https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElSembradorNuevaEvangelizacionESNE.us" tvg-name="El Sembrador Nueva Evangelizacion ESNE" group-title="Religious" tvg-language="spa" tvg-quality="480i",El Sembrador Nueva Evangelizacion ESNE
 http://190.61.90.17:40000/play/a025/index.m3u8
@@ -932,10 +908,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8
 
-#EXTINF:-1 tvg-id="ESPNPremium.cl" tvg-name="ESPN Premium" group-title="Sports" tvg-language="spa" tvg-quality="576i",ESPN Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-name="eSports Max TV" group-title="Animation" tvg-language="spa" tvg-quality="480i",eSports Max TV
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 
@@ -947,9 +919,6 @@ https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1" group-title="Sports" tvg-language="spa" tvg-quality="576p",Eurosport 1
 http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Evavision.cl" tvg-name="Evavision" group-title="General" tvg-language="spa" tvg-quality="480i",Evavision
-https://stmv2.voxtvhd.com.br/evavision/evavision/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EvolucionTV.pe" tvg-name="Evolucion TV" group-title="General" tvg-language="spa" tvg-quality="576p",Evolucion TV
 https://edgectc.com/CTC_SAN_RAFAEL/index.m3u8
@@ -1119,12 +1088,6 @@ https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8
 #EXTINF:-1 tvg-id="HuachoPeruTV.pe" tvg-name="Huacho Peru TV" group-title="General" tvg-language="spa" tvg-quality="480i",Huacho Peru TV
 https://tv.huachotv.com/stream.m3u8
 
-#EXTINF:-1 tvg-id="HuascoTelevision.cl" tvg-name="Huasco Television" group-title="General" tvg-language="spa" tvg-quality="360p",Huasco Television
-https://paneltv.online:1936/8024/8024/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HuascoTelevision.cl" tvg-name="Huasco Television" group-title="General" tvg-language="spa" tvg-quality="480i",Huasco Television
-https://paneltv.online:1936/huasco/huasco/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ICNDigital.hn" tvg-name="ICN Digital" group-title="News" tvg-language="spa" tvg-quality="576i",ICN Digital
 https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
 
@@ -1142,9 +1105,6 @@ https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
 #EXTINF:-1 tvg-id="IntercomarcalTV.es" tvg-name="Intercomarcal TV" group-title="General" tvg-language="spa" tvg-quality="576p",Intercomarcal TV
 https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
-
-#EXTINF:-1 tvg-id="InterradioTV.cl" tvg-name="Interradio TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Interradio TV
-https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ISATV.cl" tvg-name="ISA TV" group-title="Religious" tvg-language="spa" tvg-quality="576i",ISA TV
 https://scl.edge.grupoz.cl/isatv/live/playlist.m3u8
@@ -1198,9 +1158,6 @@ https://vdochile.com:3134/stream/play.m3u8
 #EXTINF:-1 tvg-id="LaElegidaTelevision.uy" tvg-name="La Elegida Television" group-title="Music" tvg-language="spa" tvg-quality="576i",La Elegida Television
 https://stmv.gmpro.top/laelegidatv/laelegidatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LaGranjaTV.cl" tvg-name="La Granja TV" group-title="Music" tvg-language="spa" tvg-quality="480i",La Granja TV
-https://oracle.streaminghd.cl/8126/8126/playlist.m3u8
-
 #EXTINF:-1 tvg-id="LaPopularTV.cl" tvg-name="La Popular TV" group-title="General" tvg-language="spa" tvg-quality="480i",La Popular TV
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 
@@ -1209,9 +1166,6 @@ https://latamvdo.com:3626/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="LaQueBuenaAtlanta.us" tvg-name="La Que Buena Atlanta" group-title="Music" tvg-language="spa" tvg-quality="480i",La Que Buena Atlanta
 https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
-
-#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" group-title="General" tvg-language="spa" tvg-quality="480i",La Red
-https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8
 
 #EXTINF:-1 tvg-id="LaRosadeGuadalupe.us" tvg-name="La Rosa de Guadalupe" group-title="Series" tvg-language="spa" tvg-quality="360p",La Rosa de Guadalupe
 https://app.viloud.tv/hls/channel/9c88161fe675b59d4b008c776f033960.m3u8
@@ -1288,9 +1242,6 @@ https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Manavision.ec" tvg-name="Manavision" group-title="Culture" tvg-language="spa" tvg-quality="480p",Manavision
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
-
-#EXTINF:-1 tvg-id="MaquiTV.cl" tvg-name="Maqui TV" group-title="Music" tvg-language="spa" tvg-quality="576i",Maqui TV
-https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MarayTV.cl" tvg-name="Maray TV" group-title="General" tvg-language="spa" tvg-quality="576i",Maray TV
 https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8
@@ -1430,12 +1381,6 @@ https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="480i",National Geographic Latin America
 http://181.78.79.131:8000/play/a0pt
-
-#EXTINF:-1 tvg-id="NativaTV.cl" tvg-name="Nativa TV" group-title="General" tvg-language="spa" tvg-quality="480i",Nativa TV
-https://origin-us.streaminghd.cl/nativatv/nativatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NativaTV.cl" tvg-name="Nativa TV" group-title="General" tvg-language="spa" tvg-quality="480i",Nativa TV
-https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" group-title="Documentary" tvg-language="spa" tvg-quality="684p",NatureTime
 https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
@@ -1627,9 +1572,6 @@ https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
 #EXTINF:-1 tvg-id="PowerHD.ar" tvg-name="PowerHD" group-title="Uncategorized" tvg-language="eng;spa" tvg-quality="576i",PowerHD
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 
-#EXTINF:-1 tvg-id="PreludioTV.cl" tvg-name="Preludio TV" group-title="Religious" tvg-language="spa" tvg-quality="576i",Preludio TV
-https://tv.arkeo.cl:1936/preludio/preludio/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Primavera15.pe" tvg-name="Primavera 15" group-title="General" tvg-language="spa" tvg-quality="480i",Primavera 15
 https://mc.servidor.stream:19360/8244/8244.m3u8
 
@@ -1788,9 +1730,6 @@ https://d2w3o8zn50cs1k.cloudfront.net/ts:abr.m3u8
 
 #EXTINF:-1 tvg-id="RTVNuble.cl" tvg-name="RTV Nuble" group-title="Uncategorized" tvg-language="spa" tvg-quality="480i",RTV Nuble
 https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="Rumba TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Rumba TV
-http://186.148.196.100:8000/play/a02h
 
 #EXTINF:-1 tvg-id="SanLuisPlus.ar" tvg-name="San Luis +" group-title="General" tvg-language="spa" tvg-quality="576i",San Luis +
 https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
@@ -2313,14 +2252,8 @@ https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8
 #EXTINF:-1 tvg-id="Vision3000.do" tvg-name="Vision 3000" group-title="General" tvg-language="spa" tvg-quality="480i",Vision 3000
 https://ss2.tvrdomi.com:1936/vision3000/vision3000/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VisionTV.cl" tvg-name="Vision TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="480i",Vision TV
-https://tv.arkeo.cl:1936/8044/8044/playlist.m3u8
-
 #EXTINF:-1 tvg-id="VivaTV.ni" tvg-name="Viva TV" group-title="General" tvg-language="spa" tvg-quality="576i",Viva TV
 https://cdn.amixtv.com/vivatv/index.m3u8
-
-#EXTINF:-1 tvg-id="VivoTV.cl" tvg-name="Vivo TV" group-title="Uncategorized" tvg-language="spa" tvg-quality="480i",Vivo TV
-https://5eaccbab48461.streamlock.net:1936/8264/8264/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VNP.pe" tvg-name="VNP" group-title="News" tvg-language="spa" tvg-quality="480i",VNP
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8

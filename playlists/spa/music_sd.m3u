@@ -48,9 +48,6 @@ https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
 #EXTINF:-1 tvg-id="HopeChannelPROYECTOJA.cr" tvg-name="Hope Channel PROYECTO JA" group-title="Family;Music;Religious" tvg-language="eng;spa" tvg-quality="360p",Hope Channel PROYECTO JA
 https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8
 
-#EXTINF:-1 tvg-id="InterradioTV.cl" tvg-name="Interradio TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Interradio TV
-https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Italianissimo.ve" tvg-name="Italianissimo" group-title="Music" tvg-language="spa" tvg-quality="360p",Italianissimo
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
 
@@ -63,9 +60,6 @@ http://201.77.61.226:8000/play/a0qd/index.m3u8
 
 #EXTINF:-1 tvg-id="LaElegidaTelevision.uy" tvg-name="La Elegida Television" group-title="Music" tvg-language="spa" tvg-quality="576i",La Elegida Television
 https://stmv.gmpro.top/laelegidatv/laelegidatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LaGranjaTV.cl" tvg-name="La Granja TV" group-title="Music" tvg-language="spa" tvg-quality="480i",La Granja TV
-https://oracle.streaminghd.cl/8126/8126/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaQueBuenaAtlanta.us" tvg-name="La Que Buena Atlanta" group-title="Music" tvg-language="spa" tvg-quality="480i",La Que Buena Atlanta
 https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
@@ -84,9 +78,6 @@ https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MakaoTV.do" tvg-name="Makao TV" group-title="Music" tvg-language="spa" tvg-quality="360p",Makao TV
 https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MaquiTV.cl" tvg-name="Maqui TV" group-title="Music" tvg-language="spa" tvg-quality="576i",Maqui TV
-https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mas23TV.pa" tvg-name="Mas23 TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Mas23 TV
 https://movil.ejeserver.com/live/mas23tv.m3u8
@@ -132,9 +123,6 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 
 #EXTINF:-1 tvg-id="Reyali.co" tvg-name="Reyali" group-title="Music" tvg-language="spa" tvg-quality="614p",Reyali
 https://eu1.servers10.com:8081/8090/index.m3u8
-
-#EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="Rumba TV" group-title="Music" tvg-language="spa" tvg-quality="480i",Rumba TV
-http://186.148.196.100:8000/play/a02h
 
 #EXTINF:-1 tvg-id="SensacionCosta.cl" tvg-name="Sensacion Costa" group-title="Music" tvg-language="spa" tvg-quality="576i",Sensacion Costa
 https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8

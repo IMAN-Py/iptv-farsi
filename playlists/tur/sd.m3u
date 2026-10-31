@@ -23,6 +23,9 @@ http://193.123.61.120:3000/kanal/bloomberght
 #EXTINF:-1 tvg-id="BricveSatrancTV.tr" tvg-name="Bric ve Satranc TV" group-title="Uncategorized" tvg-language="tur" tvg-quality="480p",Bric ve Satranc TV
 http://139.162.182.79/live/test/index.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="tur" tvg-quality="576i",Cartoon Network
+http://176.65.153.40:6002/play/a013/index.m3u8
+
 #EXTINF:-1 tvg-id="CNBCe.tr" tvg-name="CNBC-e" group-title="Business;Series" tvg-language="tur" tvg-quality="576i",CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 

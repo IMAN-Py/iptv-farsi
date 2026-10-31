@@ -264,9 +264,6 @@ https://rsdh.cloud-streams.com/rsdh/rsdh/playlist.m3u8
 #EXTINF:-1 tvg-id="Rararadio.nl" tvg-name="Rararadio" group-title="Music" tvg-language="eng;nld" tvg-quality="720p",Rararadio
 https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-name="Retro Plus" group-title="Music" tvg-language="eng;spa" tvg-quality="1080p",Retro Plus
-http://181.119.97.124:8080/play/a00t/index.m3u8
-
 #EXTINF:-1 tvg-id="ScorchTV.tt" tvg-name="Scorch TV" group-title="Music" tvg-language="eng" tvg-quality="1080p",Scorch TV
 https://w6oy7x7jlxrg-hls-live.5centscdn.com/MandETV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 
@@ -365,6 +362,9 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u
 
 #EXTINF:-1 tvg-id="StrykTV.us" tvg-name="Stryk TV" group-title="Music" tvg-language="eng" tvg-quality="1080p",Stryk TV
 https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
+
+#EXTINF:-1 tvg-id="TeleHit.mx" tvg-name="TeleHit" group-title="Music" tvg-language="eng;spa" tvg-quality="1080p",TeleHit
+http://186.148.196.100:8000/play/a01s
 
 #EXTINF:-1 tvg-id="TeleHit.mx" tvg-name="TeleHit" group-title="Music" tvg-language="eng;spa" tvg-quality="1080p",TeleHit
 http://190.61.47.54:8000/play/a029/index.m3u8

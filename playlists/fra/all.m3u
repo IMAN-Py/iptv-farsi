@@ -1265,6 +1265,9 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u
 #EXTINF:-1 tvg-id="TalTV.ne" tvg-name="Tal TV" group-title="Entertainment" tvg-language="dje;fra;hau;tmh" tvg-quality="1080p",Tal TV
 https://mediaserver1.castpin.com/hls/taltv/index.m3u8
 
+#EXTINF:-1 tvg-id="TebeoTV.fr" tvg-name="Tebeo TV" group-title="General" tvg-language="fra" tvg-quality="576i",Tebeo TV
+https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TeenMom.de" tvg-name="Teen Mom" group-title="Entertainment" tvg-language="fra" tvg-quality="720p",Teen Mom
 https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
 

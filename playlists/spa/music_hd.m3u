@@ -250,9 +250,6 @@ https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="OndaValenciaTV.es" tvg-name="Onda Valencia TV" group-title="Music;News" tvg-language="spa" tvg-quality="720p",Onda Valencia TV
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
 
-#EXTINF:-1 tvg-id="OrbitaChileTV.cl" tvg-name="Orbita Chile TV" group-title="Movies;Music" tvg-language="spa" tvg-quality="1080p",Orbita Chile TV
-https://orbitachiletv.org/hls/0/stream.m3u8
-
 #EXTINF:-1 tvg-id="ParrandaVallenata.co" tvg-name="Parranda Vallenata" group-title="Music" tvg-language="spa" tvg-quality="720p",Parranda Vallenata
 https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
 
@@ -305,9 +302,6 @@ https://vmix.dyndns.biz/Edelweiss/index.m3u8
 #EXTINF:-1 tvg-id="RadioFantastica989FM.ec" tvg-name="Radio Fantastica 98.9 FM" group-title="Music" tvg-language="spa" tvg-quality="1080p",Radio Fantastica 98.9 FM
 http://190.107.232.9:8082/livestream/stream.m3u8
 
-#EXTINF:-1 tvg-id="RadioFiessta.cl" tvg-name="Radio Fiessta" group-title="Music" tvg-language="spa" tvg-quality="720p",Radio Fiessta
-https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8
-
 #EXTINF:-1 tvg-id="RadioIdeal.hn" tvg-name="Radio Ideal" group-title="Music" tvg-language="spa" tvg-quality="720p",Radio Ideal
 https://www.idealfm104-7.com/hls/0/stream.m3u8
 
@@ -353,16 +347,6 @@ http://158.172.217.18:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="RanchenatoTV.co" tvg-name="Ranchenato TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",Ranchenato TV
 http://181.78.12.119:16123/play/ch15/index.m3u8
 
-#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-name="Retro Plus" group-title="Music" tvg-language="eng;spa" tvg-quality="1080p",Retro Plus
-http://181.119.97.124:8080/play/a00t/index.m3u8
-
-#EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-name="Retro Plus 2" group-title="Music" tvg-language="spa" tvg-quality="1080p",Retro Plus 2
-http://181.119.97.124:8080/play/a00n/index.m3u8
-
-#EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-name="Retro Plus 2" group-title="Music" tvg-language="spa" tvg-quality="720p",Retro Plus 2
-#EXTVLCOPT:http-referrer=https://retroplustv.com/
-https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Retroclub.ar" tvg-name="Retroclub" group-title="Music" tvg-language="spa" tvg-quality="720p",Retroclub
 https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8
 
@@ -383,6 +367,9 @@ http://190.128.214.97:64333/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-id="RTVVida.es" tvg-name="RTV Vida" group-title="Music" tvg-language="spa" tvg-quality="1080p",RTV Vida
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
+#EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="Rumba TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",Rumba TV
+http://186.148.196.100:8000/play/a02h
 
 #EXTINF:-1 tvg-id="RumbaMixTV.pe" tvg-name="RumbaMix TV" group-title="Music" tvg-language="spa" tvg-quality="720p",RumbaMix TV
 https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
@@ -431,6 +418,9 @@ https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="TeleangolRadio.cl" tvg-name="Teleangol Radio" group-title="Music" tvg-language="spa" tvg-quality="720p",Teleangol Radio
 https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleHit.mx" tvg-name="TeleHit" group-title="Music" tvg-language="eng;spa" tvg-quality="1080p",TeleHit
+http://186.148.196.100:8000/play/a01s
 
 #EXTINF:-1 tvg-id="TeleHit.mx" tvg-name="TeleHit" group-title="Music" tvg-language="eng;spa" tvg-quality="1080p",TeleHit
 http://190.61.47.54:8000/play/a029/index.m3u8
@@ -482,6 +472,9 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UrbanoTV.cr" tvg-name="Urbano TV" group-title="Music" tvg-language="spa" tvg-quality="720p",Urbano TV
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VClassicTV.cl" tvg-name="V Classic TV" group-title="Music" tvg-language="spa" tvg-quality="1080p",V Classic TV
+http://186.148.196.100:8000/play/a02z
 
 #EXTINF:-1 tvg-id="VClassicTV.cl" tvg-name="V Classic TV" group-title="Music" tvg-language="spa" tvg-quality="720p",V Classic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8

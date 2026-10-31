@@ -4,7 +4,7 @@
 
 Find free Indonesian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**134 channels · 209 stream entries**
+**135 channels · 210 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 209 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u` |
+| All channels | 210 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/all.m3u` |
 | HD | 131 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/hd.m3u` |
-| SD / unknown | 78 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/sd.m3u` |
+| SD / unknown | 79 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,10 +26,11 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/sports.m3u` |
-| Movies | 2 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/movies.m3u` |
+| Movies | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/movies.m3u` |
 | News | 10 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/news.m3u` |
 | Music | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/music.m3u` |
 | Kids | 6 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/kids.m3u` |
+| Series | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/series.m3u` |
 | Entertainment | 5 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/entertainment.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/business.m3u` |
 | Cooking | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/ind/cooking.m3u` |
@@ -60,6 +61,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Astha TV | AsthaTV.id | 1080p | 1 |
 | Astro Blitar TV | AstroBlitarTV.id | 720p | 1 |
 | Atambua TV | AtambuaTV.id | 720p | 1 |
+| AXN Asia | AXNAsia.sg | 576i | 1 |
 | Balikpapan TV | BalikpapanTV.id | 720p | 1 |
 | Bandung TV | BandungTV.id | 360p | 1 |
 | Banjar TV | BanjarTV.id | 720p | 1 |

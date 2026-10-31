@@ -47,6 +47,9 @@ https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
 #EXTINF:-1 tvg-id="AtambuaTV.id" tvg-name="Atambua TV" group-title="Uncategorized" tvg-language="ind" tvg-quality="720p",Atambua TV
 http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="ind" tvg-quality="576i",AXN Asia
+http://202.150.165.66:8088/play/301-AXN/index.m3u8
+
 #EXTINF:-1 tvg-id="BalikpapanTV.id" tvg-name="Balikpapan TV" group-title="General" tvg-language="ind" tvg-quality="720p",Balikpapan TV
 http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
 

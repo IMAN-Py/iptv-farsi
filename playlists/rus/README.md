@@ -4,7 +4,7 @@
 
 Find free Russian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**585 channels · 1344 stream entries**
+**586 channels · 1344 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -15,8 +15,8 @@ https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
 | All channels | 1344 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/all.m3u` |
-| HD | 501 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
-| SD / unknown | 843 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
+| HD | 502 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/hd.m3u` |
+| SD / unknown | 842 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -37,7 +37,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Auto | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/auto.m3u` |
 | Business | 4 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/business.m3u` |
 | Classic | 7 | 14 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/classic.m3u` |
-| Comedy | 11 | 17 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/comedy.m3u` |
+| Comedy | 11 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/comedy.m3u` |
 | Cooking | 5 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/cooking.m3u` |
 | Culture | 9 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/culture.m3u` |
 | Education | 4 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/rus/education.m3u` |
@@ -226,7 +226,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | FREEDOM | FREEDOM.ua | 1080p, 576i, 720p | 3 |
 | Friday! | Friday.ru | 540p, 576i, 576p | 7 |
 | Friday! International | FridayInternational.ru | 576p | 1 |
-| Gagsnetwork | Gagsnetwork.us | 576p | 2 |
+| Gagsnetwork | Gagsnetwork.us | 576p | 1 |
 | Glazami Turista | GlazamiTurista.ru | 576i | 1 |
 | Gorodskoy telekanal | Gorodskoytelekanal.ru | 720p | 1 |
 | Govorit Moskva | GovoritMoskva.ru | 720p | 1 |
@@ -375,6 +375,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | NTV Law | NTVLaw.ru | 576p | 1 |
 | NTV Mir | NTVMir.ru | 576i, 576p | 2 |
 | NTV Series | NTVSeries.ru | 576p | 2 |
+| NTV Sledstviye veli | NTVSledstviyeveli.ru | 1080p | 1 |
 | NTV Style | NTVStyle.ru | 576p | 1 |
 | NTV Svoya igra | NTVSvoyaigra.ru | 1080p | 1 |
 | NTV Vitrina | NTVVitrina.ru | 720p | 1 |

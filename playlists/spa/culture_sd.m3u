@@ -8,9 +8,6 @@ https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="Cultura24.pe" tvg-name="Cultura 24" group-title="Culture" tvg-language="spa" tvg-quality="480i",Cultura 24
 https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 
-#EXTINF:-1 tvg-id="CulturaOnline.cl" tvg-name="Cultura Online" group-title="Culture" tvg-language="spa" tvg-quality="480i",Cultura Online
-https://streaming.bitsur.cl:3399/live/vdo532live.m3u8
-
 #EXTINF:-1 tvg-id="DiasporaTV.pe" tvg-name="Diaspora TV" group-title="Culture" tvg-language="spa" tvg-quality="480i",Diaspora TV
 https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8
 

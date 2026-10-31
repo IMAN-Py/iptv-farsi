@@ -52,6 +52,10 @@ https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EpicBhojpuri.in" tvg-name="Epic Bhojpuri" group-title="Movies" tvg-language="bho" tvg-quality="576p",Epic Bhojpuri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/467/master.m3u8
+
+#EXTINF:-1 tvg-id="EpicBhojpuri.in" tvg-name="Epic Bhojpuri" group-title="Movies" tvg-language="bho" tvg-quality="576p",Epic Bhojpuri
 https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
 
 #EXTINF:-1 tvg-id="MahuaKhabar.in" tvg-name="Mahua Khabar" group-title="News" tvg-language="bho" tvg-quality="1080p",Mahua Khabar

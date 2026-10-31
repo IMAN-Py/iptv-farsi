@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="ind" tvg-quality="576i",AXN Asia
+http://202.150.165.66:8088/play/301-AXN/index.m3u8
+
 #EXTINF:-1 tvg-id="HITSMovies.sg" tvg-name="HITS Movies" group-title="Movies" tvg-language="eng;ind" tvg-quality="576p",HITS Movies
 http://103.151.60.162:2122/play/a01h/index.m3u8?hls
 

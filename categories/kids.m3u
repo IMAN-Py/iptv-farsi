@@ -260,6 +260,9 @@ https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.pk" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;urd" tvg-quality="576i",Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="tur" tvg-quality="576i",Cartoon Network
+http://176.65.153.40:6002/play/a013/index.m3u8
+
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="eng;spa" tvg-quality="720p",Cartoon Network
 http://212.5.144.156:8080/cartoon/index.m3u8
 
@@ -597,7 +600,7 @@ https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F212.5.144.156
 #EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="Disney XD" group-title="Kids" tvg-language="pol" tvg-quality="576p",Disney XD
 http://185.227.34.179:8080/disney-xd/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" group-title="Kids" tvg-language="eng;spa" tvg-quality="1080p",Disney XD
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney XD
 http://89.187.179.148:826/1368/gXwiagaXda/1672
 
 #EXTINF:-1 tvg-id="DoraTV.us" tvg-name="Dora TV" group-title="Kids" tvg-language="eng" tvg-quality="720p",Dora TV

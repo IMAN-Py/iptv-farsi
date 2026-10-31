@@ -8,9 +8,6 @@ http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet Latin America" group-title="Documentary" tvg-language="spa" tvg-quality="1080p",Animal Planet Latin America
 http://190.128.214.97:64333/play/a01n/index.m3u8
 
-#EXTINF:-1 tvg-id="ClickTVChile.cl" tvg-name="ClickTV Chile" group-title="Documentary" tvg-language="spa" tvg-quality="720p",ClickTV Chile
-https://v2.tustreaming.cl/clicktv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CrimenHistoria.es" tvg-name="Crimen & Historia" group-title="Documentary" tvg-language="spa" tvg-quality="720p",Crimen & Historia
 https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
 

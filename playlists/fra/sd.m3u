@@ -496,6 +496,9 @@ https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/SYFY/index.m3u8
 
+#EXTINF:-1 tvg-id="TebeoTV.fr" tvg-name="Tebeo TV" group-title="General" tvg-language="fra" tvg-quality="576i",Tebeo TV
+https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TeleBoston.us" tvg-name="Tele Boston" group-title="Entertainment" tvg-language="acf;eng;fra" tvg-quality="480p",Tele Boston
 https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
 

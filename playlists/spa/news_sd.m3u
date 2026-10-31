@@ -73,9 +73,6 @@ https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
 #EXTVLCOPT:http-referrer=https://nuevodiario01.streamprolive.com/i/cp/hls/player.html
 https://nuevodiario01.streamprolive.com/hls/live.m3u8
 
-#EXTINF:-1 tvg-id="ElPinguinoTV.cl" tvg-name="El Pinguino TV" group-title="News" tvg-language="spa" tvg-quality="480i",El Pinguino TV
-https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-name="Euronews Spanish" group-title="News" tvg-language="spa" tvg-quality="684p",Euronews Spanish
 https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
 

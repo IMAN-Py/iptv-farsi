@@ -686,6 +686,9 @@ https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playl
 #EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC" group-title="Family;Kids" tvg-language="deu" tvg-quality="1080p",RiC
 https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RiCtoday.de" tvg-name="RiC.today" group-title="Uncategorized" tvg-language="deu" tvg-quality="1080i",RiC.today
+http://88.212.7.14/live/test_ric_international_avc_25p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RTDE.de" tvg-name="RT DE" group-title="News" tvg-language="deu" tvg-quality="1080p",RT DE
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 

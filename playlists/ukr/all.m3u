@@ -589,9 +589,6 @@ http://stream.mcquack.net/156/index.m3u8
 #EXTINF:-1 tvg-id="SuperPlus.ua" tvg-name="Super+" group-title="Entertainment;General" tvg-language="ukr" tvg-quality="360p",Super+
 http://dtv.vol.net.ua/super_plus/index.m3u8
 
-#EXTINF:-1 tvg-id="SuspilneDonbas.ua" tvg-name="Suspilne. Donbas" group-title="General" tvg-language="ukr" tvg-quality="576p",Suspilne. Donbas
-http://hls127.freeott.top:8080/UA_DONBAS/video.m3u8
-
 #EXTINF:-1 tvg-id="SuspilneKrym.ua" tvg-name="Suspilne. Krym" group-title="General" tvg-language="ukr" tvg-quality="1080p",Suspilne. Krym
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/436/index.m3u8
@@ -695,9 +692,6 @@ http://dtv.vol.net.ua/Viasat-Explore/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78
-
-#EXTINF:-1 tvg-id="ViasatHistory.ua" tvg-name="Viasat History" group-title="Documentary" tvg-language="ukr" tvg-quality="1080p",Viasat History
-http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8
 
 #EXTINF:-1 tvg-id="ViasatNature.ua" tvg-name="Viasat Nature" group-title="Uncategorized" tvg-language="ukr" tvg-quality="576i",Viasat Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36

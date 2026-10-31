@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="24Kitchen.us" tvg-name="24Kitchen" group-title="Cooking" tvg-language="bul" tvg-quality="1080p",24Kitchen
-http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8
-
 #EXTINF:-1 tvg-id="BNT1.bg" tvg-name="BNT 1" group-title="General" tvg-language="bul" tvg-quality="1080p",BNT 1
 https://shift03.isp.bg/BNT1_HD/index.m3u8
 
@@ -96,9 +93,6 @@ https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
 #EXTINF:-1 tvg-id="ViasatHistory.bg" tvg-name="Viasat History" group-title="Documentary" tvg-language="bul" tvg-quality="1080p",Viasat History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="ViasatKino.ua" tvg-name="Viasat Kino" group-title="Movies" tvg-language="bul" tvg-quality="1080p",Viasat Kino
-http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="ViasatNature.bg" tvg-name="Viasat Nature" group-title="Documentary" tvg-language="bul" tvg-quality="1080p",Viasat Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36

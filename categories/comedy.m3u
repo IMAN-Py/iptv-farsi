@@ -323,9 +323,6 @@ https://jmp2.uk/plu-6790fa9e1cfc4aa96dfadcef.m3u8
 https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8
 
 #EXTINF:-1 tvg-id="Gagsnetwork.us" tvg-name="Gagsnetwork" group-title="Comedy" tvg-language="eng;rus" tvg-quality="576p",Gagsnetwork
-http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
-
-#EXTINF:-1 tvg-id="Gagsnetwork.us" tvg-name="Gagsnetwork" group-title="Comedy" tvg-language="eng;rus" tvg-quality="576p",Gagsnetwork
 http://stream.mcquack.net/458/index.m3u8
 
 #EXTINF:-1 tvg-id="GEMComedy.tr" tvg-name="GEM Comedy" group-title="Comedy" tvg-language="fas" tvg-quality="480i",GEM Comedy
@@ -774,6 +771,9 @@ http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 
 #EXTINF:-1 tvg-id="TakeshisCastle.de" tvg-name="Takeshi's Castle" group-title="Comedy" tvg-language="deu" tvg-quality="720p",Takeshi's Castle
 https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
+
+#EXTINF:-1 tvg-id="Telecyan.us" tvg-name="Telecyan" group-title="Comedy;Series" tvg-language="eng" tvg-quality="720p",Telecyan
+https://live20.bozztv.com/giatvplayout7/giatv-211227/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TheBeverlyHillbillies.us" tvg-name="The Beverly Hillbillies" group-title="Classic;Comedy" tvg-language="eng" tvg-quality="720p",The Beverly Hillbillies
 https://jmp2.uk/plu-6565fefdc917a50008485cc6.m3u8

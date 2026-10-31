@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="24Kitchen.us" tvg-name="24Kitchen" group-title="Cooking" tvg-language="bul" tvg-quality="1080p",24Kitchen
-http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8
-
 #EXTINF:-1 tvg-id="AmericasTestKitchen.us" tvg-name="America's Test Kitchen" group-title="Cooking" tvg-language="eng" tvg-quality="720p",America's Test Kitchen
 https://aegis-cloudfront-1.tubi.video/0094c1fc-7c41-45d0-af7a-6bbb62d6cd6e/playlist.m3u8
 

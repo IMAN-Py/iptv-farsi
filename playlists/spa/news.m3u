@@ -166,9 +166,6 @@ http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
 #EXTINF:-1 tvg-id="CitricoTV.do" tvg-name="Citrico TV" group-title="News" tvg-language="spa" tvg-quality="480p",Citrico TV
 https://edge.essastream.com/citricotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNNChile.cl" tvg-name="CNN Chile" group-title="News" tvg-language="spa" tvg-quality="1080p",CNN Chile
-http://190.110.96.238:8000/play/a0f5/index.m3u8
-
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN en Espanol" group-title="News" tvg-language="spa" tvg-quality="1080p",CNN en Espanol
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
 
@@ -192,9 +189,6 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1 tvg-id="DeUltimoMinutoTV.do" tvg-name="De Ultimo Minuto TV" group-title="News" tvg-language="spa" tvg-quality="480i",De Ultimo Minuto TV
 https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
-
-#EXTINF:-1 tvg-id="DNews.us" tvg-name="DNews" group-title="News" tvg-language="spa" tvg-quality="720p",DNews
-http://38.19.16.151:8000/play/a0a3
 
 #EXTINF:-1 tvg-id="DW.de" tvg-name="DW" group-title="News" tvg-language="spa" tvg-quality="720p",DW
 http://138.121.15.230:9002/DW/index.m3u8
@@ -226,9 +220,6 @@ https://nuevodiario01.streamprolive.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="ElPinguinoTV.cl" tvg-name="El Pinguino TV" group-title="News" tvg-language="spa" tvg-quality="720p",El Pinguino TV
 https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ElPinguinoTV.cl" tvg-name="El Pinguino TV" group-title="News" tvg-language="spa" tvg-quality="480i",El Pinguino TV
-https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EstrellaNews.us" tvg-name="Estrella News" group-title="News" tvg-language="spa" tvg-quality="720p",Estrella News
 https://aegis-cloudfront-1.tubi.video/0383cf2d-1ca5-4765-aa18-ba81329a7b05/playlist.m3u8
@@ -577,9 +568,6 @@ http://45.232.210.1:8029/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-id="Telecanal.cl" tvg-name="Telecanal" group-title="News" tvg-language="spa" tvg-quality="576p",Telecanal
 https://tr.live.clarovtrcdn.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-id="TelecanalSantaCruz.cl" tvg-name="Telecanal Santa Cruz" group-title="News" tvg-language="spa" tvg-quality="720p",Telecanal Santa Cruz
-https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleCauquenes.cl" tvg-name="TeleCauquenes" group-title="News" tvg-language="spa" tvg-quality="720p",TeleCauquenes
 https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8

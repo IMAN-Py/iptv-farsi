@@ -645,6 +645,9 @@ https://cdn-dvr.ntv.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" group-title="General" tvg-language="rus" tvg-quality="1080p",NTV
 https://cdn.ntv.ru/ntv0/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NTVSledstviyeveli.ru" tvg-name="NTV Sledstviye veli" group-title="Uncategorized" tvg-language="rus" tvg-quality="1080p",NTV Sledstviye veli
+https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledstvie_veli_hd/324/1/index.m3u8
+
 #EXTINF:-1 tvg-id="NTVSvoyaigra.ru" tvg-name="NTV Svoya igra" group-title="Uncategorized" tvg-language="rus" tvg-quality="1080p",NTV Svoya igra
 https://cdn-dvr.ntv.ru/th_svoya_igra/index.m3u8
 

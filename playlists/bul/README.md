@@ -4,7 +4,7 @@
 
 Find free Bulgarian live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**80 channels · 100 stream entries**
+**78 channels · 95 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 100 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u` |
-| HD | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/hd.m3u` |
-| SD / unknown | 68 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/sd.m3u` |
+| All channels | 95 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/all.m3u` |
+| HD | 30 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/hd.m3u` |
+| SD / unknown | 65 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -26,18 +26,17 @@ Each list combines this language with a source category. Counts are stream entri
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
 | Sports | 4 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/sports.m3u` |
-| Movies | 17 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/movies.m3u` |
+| Movies | 16 | 21 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/movies.m3u` |
 | News | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/news.m3u` |
 | Music | 9 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/music.m3u` |
 | Kids | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/kids.m3u` |
 | Documentary | 8 | 8 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/documentary.m3u` |
 | Series | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/series.m3u` |
-| Entertainment | 3 | 4 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/entertainment.m3u` |
+| Entertainment | 3 | 3 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/entertainment.m3u` |
 | Auto | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/auto.m3u` |
 | Business | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/business.m3u` |
 | Classic | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/classic.m3u` |
 | Comedy | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/comedy.m3u` |
-| Cooking | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/cooking.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/family.m3u` |
 | General | 9 | 13 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/general.m3u` |
 | Legislative | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/bul/legislative.m3u` |
@@ -54,13 +53,12 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Channel | Channel ID | Reported quality | Streams |
 | --- | --- | --- | ---: |
 | 100% Auto Moto TV | 100AutoMotoTV.bg | 406p | 1 |
-| 24Kitchen | 24Kitchen.us | 1080p | 1 |
 | 7/8 TV | 78TV.bg | 576i | 1 |
 | Agro TV | AgroTV.bg | 480p | 1 |
-| AMC Europe | AMCEurope.uk | 576i, 576p | 3 |
-| AXN Black | AXNBlack.us | 576i, 576p | 2 |
+| AMC Europe | AMCEurope.uk | 576i | 2 |
+| AXN Black | AXNBlack.us | 576i | 1 |
 | AXN CEE | AXNCEE.es | 576i | 1 |
-| AXN White | AXNWhite.us | 576i, 576p | 2 |
+| AXN White | AXNWhite.us | 576i | 1 |
 | Bloomberg TV Bulgaria | BloombergTVBulgaria.bg | 576i | 1 |
 | BNT 1 | BNT1.bg | 1080p, 576i | 2 |
 | BNT 2 | BNT2.bg | 1080p, 576i | 2 |
@@ -130,6 +128,5 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV1000 | TV1000.bg | 576i | 2 |
 | Viasat Explore | ViasatExplore.bg | 1080p | 1 |
 | Viasat History | ViasatHistory.bg | 1080p | 1 |
-| Viasat Kino | ViasatKino.ua | 1080p | 1 |
 | Viasat Nature | ViasatNature.bg | 1080p | 1 |
 | Vivacom Arena | VivacomArena.bg | 576i | 1 |

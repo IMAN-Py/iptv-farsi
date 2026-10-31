@@ -102,15 +102,9 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="AricaTV.cl" tvg-name="Arica TV" group-title="General" tvg-language="spa" tvg-quality="480p",Arica TV
 https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AricaTV.cl" tvg-name="Arica TV" group-title="General" tvg-language="spa" tvg-quality="480i",Arica TV
-https://envivo.arica.tv/hls/Live2025AricaTV.m3u8
-
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" group-title="General" tvg-language="spa" tvg-quality="480i",ATV
 #EXTVLCOPT:http-referrer=https://www.atv.pe/
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="AutonomaTV.cl" tvg-name="Autonoma TV" group-title="General" tvg-language="spa" tvg-quality="480i",Autonoma TV
-https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AYNITV.bo" tvg-name="AYNI TV" group-title="General" tvg-language="spa" tvg-quality="480i",AYNI TV
 https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8
@@ -288,9 +282,6 @@ https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 #EXTINF:-1 tvg-id="CTV.bo" tvg-name="CTV" group-title="General" tvg-language="spa" tvg-quality="480i",CTV
 https://live.ctvbolivia.com/hls/ctv.m3u8
 
-#EXTINF:-1 tvg-id="CTV35.cl" tvg-name="CTV35" group-title="General" tvg-language="spa" tvg-quality="576i",CTV35
-https://vdochile.com:3697/live/ctv35live.m3u8
-
 #EXTINF:-1 tvg-id="Cubavision.cu" tvg-name="Cubavision" group-title="General" tvg-language="spa" tvg-quality="480i",Cubavision
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://teveo.cu/
@@ -308,9 +299,6 @@ https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
 #EXTINF:-1 tvg-id="DeltaTV.bo" tvg-name="Delta TV" group-title="General" tvg-language="spa" tvg-quality="480i",Delta TV
 https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="DiferenciaRadioTV.cl" tvg-name="Diferencia Radio TV" group-title="General" tvg-language="spa" tvg-quality="576i",Diferencia Radio TV
-https://s1.radiumcast.top/memfs/674b2d4f-7d6e-49be-9c6c-3094868259d9.m3u8
-
 #EXTINF:-1 tvg-id="DuranTV.ec" tvg-name="Duran TV" group-title="General" tvg-language="spa" tvg-quality="480p",Duran TV
 https://cloudvideo.servers10.com:8081/8074/index.m3u8
 
@@ -322,9 +310,6 @@ https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="Ecuador TV" group-title="General" tvg-language="spa" tvg-quality="480i",Ecuador TV
 https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
-
-#EXTINF:-1 tvg-id="EGMChannel.cl" tvg-name="EGM Channel" group-title="General" tvg-language="spa" tvg-quality="480p",EGM Channel
-https://paneltv.online:1936/8186/8186/playlist.m3u8
 
 #EXTINF:-1 tvg-id="El3deConce.cl" tvg-name="El 3 de Conce" group-title="General" tvg-language="spa" tvg-quality="576i",El 3 de Conce
 https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8
@@ -340,9 +325,6 @@ https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EsteCanalTV.es" tvg-name="Este Canal TV" group-title="General" tvg-language="spa" tvg-quality="576p",Este Canal TV
 http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
-
-#EXTINF:-1 tvg-id="Evavision.cl" tvg-name="Evavision" group-title="General" tvg-language="spa" tvg-quality="480i",Evavision
-https://stmv2.voxtvhd.com.br/evavision/evavision/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EvolucionTV.pe" tvg-name="Evolucion TV" group-title="General" tvg-language="spa" tvg-quality="576p",Evolucion TV
 https://edgectc.com/CTC_SAN_RAFAEL/index.m3u8
@@ -377,12 +359,6 @@ https://tv.bitstreaming.net:8443/live/guayapetv.m3u8
 #EXTINF:-1 tvg-id="HuachoPeruTV.pe" tvg-name="Huacho Peru TV" group-title="General" tvg-language="spa" tvg-quality="480i",Huacho Peru TV
 https://tv.huachotv.com/stream.m3u8
 
-#EXTINF:-1 tvg-id="HuascoTelevision.cl" tvg-name="Huasco Television" group-title="General" tvg-language="spa" tvg-quality="360p",Huasco Television
-https://paneltv.online:1936/8024/8024/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HuascoTelevision.cl" tvg-name="Huasco Television" group-title="General" tvg-language="spa" tvg-quality="480i",Huasco Television
-https://paneltv.online:1936/huasco/huasco/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-name="Imagen Universal TV" group-title="General" tvg-language="spa" tvg-quality="480i",Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
@@ -409,9 +385,6 @@ https://vdochile.com:3134/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="LaPopularTV.cl" tvg-name="La Popular TV" group-title="General" tvg-language="spa" tvg-quality="480i",La Popular TV
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" group-title="General" tvg-language="spa" tvg-quality="480i",La Red
-https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8
 
 #EXTINF:-1 tvg-id="LancelotTV.es" tvg-name="Lancelot TV" group-title="General" tvg-language="spa" tvg-quality="404p",Lancelot TV
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
@@ -464,12 +437,6 @@ https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVS TV" group-title="General" tvg-language="spa" tvg-quality="480i",MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-
-#EXTINF:-1 tvg-id="NativaTV.cl" tvg-name="Nativa TV" group-title="General" tvg-language="spa" tvg-quality="480i",Nativa TV
-https://origin-us.streaminghd.cl/nativatv/nativatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NativaTV.cl" tvg-name="Nativa TV" group-title="General" tvg-language="spa" tvg-quality="480i",Nativa TV
-https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NeoTV.ar" tvg-name="Neo TV" group-title="General" tvg-language="spa" tvg-quality="576i",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8

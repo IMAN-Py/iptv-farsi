@@ -7,9 +7,6 @@ http://213.91.179.28:8000/play/a0cn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://85.14.32.26:8800/udp/239.100.10.18:5000
 
-#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" group-title="Entertainment" tvg-language="bul" tvg-quality="576p",AXN White
-http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8
-
 #EXTINF:-1 tvg-id="ThisisBulgariaHD.bg" tvg-name="This is Bulgaria HD" group-title="Entertainment" tvg-language="bul" tvg-quality="1080p",This is Bulgaria HD
 https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 

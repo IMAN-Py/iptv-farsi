@@ -4,7 +4,7 @@
 
 Find free Tamil live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**121 channels · 215 stream entries**
+**121 channels · 216 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 215 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u` |
+| All channels | 216 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/all.m3u` |
 | HD | 86 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/hd.m3u` |
-| SD / unknown | 129 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sd.m3u` |
+| SD / unknown | 130 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -28,7 +28,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Sports | 2 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/sports.m3u` |
 | Movies | 8 | 9 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/movies.m3u` |
 | News | 18 | 45 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/news.m3u` |
-| Music | 11 | 19 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/music.m3u` |
+| Music | 11 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/music.m3u` |
 | Kids | 12 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/kids.m3u` |
 | Documentary | 3 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/documentary.m3u` |
 | Entertainment | 24 | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/tam/entertainment.m3u` |
@@ -65,7 +65,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | DD Sports | DDSports.in | 1080p, 720p | 3 |
 | DD Tamil | DDTamil.in | 1080p, 576p | 3 |
 | Dharsan TV | DharsanTV.in | 720p | 1 |
-| Dhool TV | DhoolTV.in | 576p | 1 |
+| Dhool TV | DhoolTV.in | 576p | 2 |
 | Discovery Channel | DiscoveryChannel.in | 720p | 2 |
 | Discovery Kids | DiscoveryKids.in | 720p | 1 |
 | Disney Channel | DisneyChannel.in | 1080p | 1 |

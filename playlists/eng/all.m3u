@@ -806,6 +806,9 @@ https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-a
 #EXTINF:-1 tvg-id="Antena3Constanta.ro" tvg-name="Antena 3 Constanta" group-title="News" tvg-language="eng;ron" tvg-quality="576p",Antena 3 Constanta
 https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
 
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576p",AntenaPlay Events
+https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8
+
 #EXTINF:-1 tvg-id="AnthonyBourdainPartsUnknown.us" tvg-name="Anthony Bourdain: Parts Unknown" group-title="Series" tvg-language="eng" tvg-quality="576i",Anthony Bourdain: Parts Unknown
 https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
 
@@ -1173,9 +1176,6 @@ https://pb-mubj6htj155c6.akamaized.net/Baywatch_SONO5.m3u8
 
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" group-title="Entertainment" tvg-language="eng" tvg-quality="720p",BBC America
 http://23.239.31.26:8989/bbcamerica/index.m3u8
-
-#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="576p",BBC Earth
-http://hls127.freeott.top:8080/BG_The_World/video.m3u8
 
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="720p",BBC Earth
 https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
@@ -3811,7 +3811,7 @@ http://tvsen7.aynascope.net/disneyjr/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" group-title="Kids" tvg-language="eng;spa" tvg-quality="480p",Disney Junior
 https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F212.5.144.156%3A8080%2Fdisneyjr%2Ftracks-v1a1%2Fmono.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" group-title="Kids" tvg-language="eng;spa" tvg-quality="1080p",Disney XD
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" group-title="Kids" tvg-language="eng;spa" tvg-quality="720p",Disney XD
 http://89.187.179.148:826/1368/gXwiagaXda/1672
 
 #EXTINF:-1 tvg-id="DistrictofColumbiaNetwork.us" tvg-name="District of Columbia Network" group-title="Legislative" tvg-language="eng" tvg-quality="1080p",District of Columbia Network
@@ -4991,9 +4991,6 @@ https://tvsen7.aynascope.net/fx/index.m3u8
 https://reflect-jacksonville.cablecast.tv/live-8/live/live.m3u8
 
 #EXTINF:-1 tvg-id="Gagsnetwork.us" tvg-name="Gagsnetwork" group-title="Comedy" tvg-language="eng;rus" tvg-quality="576p",Gagsnetwork
-http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
-
-#EXTINF:-1 tvg-id="Gagsnetwork.us" tvg-name="Gagsnetwork" group-title="Comedy" tvg-language="eng;rus" tvg-quality="576p",Gagsnetwork
 http://stream.mcquack.net/458/index.m3u8
 
 #EXTINF:-1 tvg-id="GalaxyTV.ug" tvg-name="Galaxy TV" group-title="Music" tvg-language="eng" tvg-quality="720p",Galaxy TV
@@ -5725,6 +5722,10 @@ https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8
 
 #EXTINF:-1 tvg-id="HopeChannelIndia.in" tvg-name="Hope Channel India" group-title="Religious" tvg-language="eng" tvg-quality="576p",Hope Channel India
 https://cdn.pishow.tv/ott/live/1385/master.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelIndia.in" tvg-name="Hope Channel India" group-title="Religious" tvg-language="eng" tvg-quality="576p",Hope Channel India
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/634/master.m3u8
 
 #EXTINF:-1 tvg-id="HopeChannelIndia.in" tvg-name="Hope Channel India" group-title="Religious" tvg-language="eng" tvg-quality="576p",Hope Channel India
 https://mumt01.tangotv.in/O5aw8Zn3HOPECHANNELINDIA/index.m3u8
@@ -8178,6 +8179,10 @@ https://cdn.pishow.tv/ott/live/455/master.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" group-title="Culture;News" tvg-language="eng;jpn" tvg-quality="1080p",NHK World-Japan
 https://freem3u.xyz/api/live/play.m3u8?vid=106
 
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" group-title="Culture;News" tvg-language="eng;jpn" tvg-quality="576p",NHK World-Japan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/417/master.m3u8
+
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" group-title="Culture;News" tvg-language="eng;jpn" tvg-quality="1080p",NHK World-Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 
@@ -9932,9 +9937,6 @@ https://streams.tangotv.in/REPUBLICTV/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ResurrectionTV.gh" tvg-name="Resurrection TV" group-title="Uncategorized" tvg-language="eng" tvg-quality="720p",Resurrection TV
 https://1681360479.rsc.cdn77.org/1681360479/index.m3u8
 
-#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-name="Retro Plus" group-title="Music" tvg-language="eng;spa" tvg-quality="1080p",Retro Plus
-http://181.119.97.124:8080/play/a00t/index.m3u8
-
 #EXTINF:-1 tvg-id="RetroTV.us" tvg-name="Retro TV" group-title="Classic" tvg-language="eng" tvg-quality="720p",Retro TV
 https://freecast-lukentvlive.vgcdn.net/out/v1/665e9f91614b43b0a0654e9317f1d9f3/index.m3u8
 
@@ -11314,6 +11316,12 @@ https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist
 #EXTINF:-1 tvg-id="Telearuba.aw" tvg-name="Telearuba" group-title="General" tvg-language="eng;nld;pap;spa" tvg-quality="1080p",Telearuba
 https://cdn01.setar.aw/Telearuba/telearuba/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Telecyan.us" tvg-name="Telecyan" group-title="Comedy;Series" tvg-language="eng" tvg-quality="720p",Telecyan
+https://live20.bozztv.com/giatvplayout7/giatv-211227/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleHit.mx" tvg-name="TeleHit" group-title="Music" tvg-language="eng;spa" tvg-quality="1080p",TeleHit
+http://186.148.196.100:8000/play/a01s
+
 #EXTINF:-1 tvg-id="TeleHit.mx" tvg-name="TeleHit" group-title="Music" tvg-language="eng;spa" tvg-quality="1080p",TeleHit
 http://190.61.47.54:8000/play/a029/index.m3u8
 
@@ -11942,6 +11950,18 @@ https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_356
 #EXTINF:-1 tvg-id="TNTLatinAmerica.us" tvg-name="TNT Latin America" group-title="Uncategorized" tvg-language="eng;spa" tvg-quality="1080p",TNT Latin America
 http://181.78.211.244:8005/play/a09g/index.m3u8
 
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT Sports 1" group-title="Sports" tvg-language="eng" tvg-quality="576i",TNT Sports 1
+http://37.49.224.5:80/stream/1/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT Sports 2" group-title="Sports" tvg-language="eng" tvg-quality="576i",TNT Sports 2
+http://37.49.224.5:80/stream/2/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT Sports 3" group-title="Sports" tvg-language="eng" tvg-quality="576i",TNT Sports 3
+http://37.49.224.5:80/stream/3/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT Sports 4" group-title="Sports" tvg-language="eng" tvg-quality="576i",TNT Sports 4
+http://37.49.224.5:80/stream/4/index.m3u8
+
 #EXTINF:-1 tvg-id="TODAYAllDay.us" tvg-name="TODAY All Day" group-title="News" tvg-language="eng" tvg-quality="1080p",TODAY All Day
 https://aegis-cloudfront-1.tubi.video/cb7f305d-049a-4feb-bc6e-028c43ad3c3e/master.m3u8
 
@@ -12209,9 +12229,6 @@ https://5d00db0e0fcd5.streamlock.net/7410/7410/playlist.m3u8
 #EXTINF:-1 tvg-id="TrishulBroadcastingNetwork.sr" tvg-name="Trishul Broadcasting Network" group-title="Culture" tvg-language="eng;hin;nld" tvg-quality="720p",Trishul Broadcasting Network
 https://live.suricloud.com/hls/tbntv/index.m3u8
 
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" group-title="Documentary" tvg-language="eng;tur" tvg-quality="1080p",TRT Belgesel
-http://hls127.freeott.top:8080/TRT_BELGESEL_TR/video.m3u8
-
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" group-title="Documentary" tvg-language="eng;tur" tvg-quality="720p",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
@@ -12220,6 +12237,10 @@ https://cdn.pishow.tv/ott/live/266/master.m3u8
 
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" group-title="News" tvg-language="eng" tvg-quality="1080i",TRT World
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" group-title="News" tvg-language="eng" tvg-quality="576p",TRT World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/416/master.m3u8
 
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" group-title="News" tvg-language="eng" tvg-quality="720p",TRT World
 https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8

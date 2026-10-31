@@ -813,9 +813,6 @@ https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3
 #EXTINF:-1 tvg-id="AricaTV.cl" tvg-name="Arica TV" group-title="General" tvg-language="spa" tvg-quality="480p",Arica TV
 https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AricaTV.cl" tvg-name="Arica TV" group-title="General" tvg-language="spa" tvg-quality="480i",Arica TV
-https://envivo.arica.tv/hls/Live2025AricaTV.m3u8
-
 #EXTINF:-1 tvg-id="ArirangRadio.kr" tvg-name="Arirang Radio" group-title="General" tvg-language="kor" tvg-quality="720p",Arirang Radio
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 
@@ -1063,9 +1060,6 @@ https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-name="Autentica Television" group-title="General" tvg-language="spa" tvg-quality="720p",Autentica Television
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-
-#EXTINF:-1 tvg-id="AutonomaTV.cl" tvg-name="Autonoma TV" group-title="General" tvg-language="spa" tvg-quality="480i",Autonoma TV
-https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Avers.ua" tvg-name="Avers" group-title="General" tvg-language="ukr" tvg-quality="480p",Avers
 https://avers.pp.ua/hls/efir.m3u8
@@ -1880,16 +1874,10 @@ https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8
 http://15.204.246.24:8080/Canal13HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 13
-http://187.102.208.209:8000/play/a099/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 13
 http://38.250.127.17:9800/play/a067/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 13
 https://pantera1-100gb-cl-movistar.dps.live/t13radio/t13radio.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13" group-title="General" tvg-language="spa" tvg-quality="1080p",Canal 13
-https://redirector.dps.live/hls/13intav/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal13.gt" tvg-name="Canal 13" group-title="General" tvg-language="spa" tvg-quality="720p",Canal 13
 http://168.196.127.137:6001/play/a064/index.m3u8
@@ -2972,9 +2960,6 @@ https://dlttx48mxf9m3.cloudfront.net/vod_clients/lakewood/live/ch1/video.m3u8
 #EXTINF:-1 tvg-id="CiudadTVResistencia.ar" tvg-name="Ciudad TV Resistencia" group-title="General" tvg-language="spa" tvg-quality="720p",Ciudad TV Resistencia
 https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CiudadanoRadio.cl" tvg-name="Ciudadano Radio" group-title="General" tvg-language="spa" tvg-quality="720p",Ciudadano Radio
-https://oracle.streaminghd.cl/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Clarity4K.us" tvg-name="Clarity 4K" group-title="General" tvg-language="eng" tvg-quality="2160p",Clarity 4K
 https://pb-qyrvophnifz47.akamaized.net/Clarity_4K.m3u8
 
@@ -3175,9 +3160,6 @@ https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8
 
 #EXTINF:-1 tvg-id="CTV2Atlantic.ca" tvg-name="CTV 2 Atlantic" group-title="General" tvg-language="eng" tvg-quality="720p",CTV 2 Atlantic
 http://stream.cammonitorplus.net/1731/index.m3u8
-
-#EXTINF:-1 tvg-id="CTV35.cl" tvg-name="CTV35" group-title="General" tvg-language="spa" tvg-quality="576i",CTV35
-https://vdochile.com:3697/live/ctv35live.m3u8
 
 #EXTINF:-1 tvg-id="CTV8HD.kh" tvg-name="CTV8 HD" group-title="General" tvg-language="khm" tvg-quality="576i",CTV8 HD
 https://ip.pdtvhd.com/Khmer/streams/CTV8HD.m3u8
@@ -3618,9 +3600,6 @@ https://streaming.cloud.innovasur.es/mmj2/index.m3u8
 #EXTINF:-1 tvg-id="DiezTVUbeda.es" tvg-name="Diez TV Ubeda" group-title="General" tvg-language="spa" tvg-quality="1080p",Diez TV Ubeda
 https://streaming.cloud.innovasur.es/mmj/index.m3u8
 
-#EXTINF:-1 tvg-id="DiferenciaRadioTV.cl" tvg-name="Diferencia Radio TV" group-title="General" tvg-language="spa" tvg-quality="576i",Diferencia Radio TV
-https://s1.radiumcast.top/memfs/674b2d4f-7d6e-49be-9c6c-3094868259d9.m3u8
-
 #EXTINF:-1 tvg-id="Digital15.do" tvg-name="Digital 15" group-title="General" tvg-language="spa" tvg-quality="1080p",Digital 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/players/15tv/index_pc.php
@@ -3833,9 +3812,6 @@ https://rtmp.edentv.bj/hls/stream.m3u8
 #EXTINF:-1 tvg-id="EfarinaTV.id" tvg-name="Efarina TV" group-title="General" tvg-language="ind" tvg-quality="720p",Efarina TV
 #EXTVLCOPT:http-referrer=https://live.efarinatv.net/
 https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
-
-#EXTINF:-1 tvg-id="EGMChannel.cl" tvg-name="EGM Channel" group-title="General" tvg-language="spa" tvg-quality="480p",EGM Channel
-https://paneltv.online:1936/8186/8186/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EgykerTV.hu" tvg-name="Egyker TV" group-title="General" tvg-language="hun" tvg-quality="1080p",Egyker TV
 https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8
@@ -4057,9 +4033,6 @@ https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EvasionTV.gn" tvg-name="Evasion TV" group-title="General" tvg-language="fra" tvg-quality="576i",Evasion TV
 https://kali.vdopanel.com:3788/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id="Evavision.cl" tvg-name="Evavision" group-title="General" tvg-language="spa" tvg-quality="480i",Evavision
-https://stmv2.voxtvhd.com.br/evavision/evavision/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Eveo.fi" tvg-name="Eveo" group-title="General" tvg-language="fin" tvg-quality="720p",Eveo
 https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true
@@ -4695,12 +4668,6 @@ https://dethich.pw/htv9/index.m3u8
 #EXTINF:-1 tvg-id="HuachoPeruTV.pe" tvg-name="Huacho Peru TV" group-title="General" tvg-language="spa" tvg-quality="480i",Huacho Peru TV
 https://tv.huachotv.com/stream.m3u8
 
-#EXTINF:-1 tvg-id="HuascoTelevision.cl" tvg-name="Huasco Television" group-title="General" tvg-language="spa" tvg-quality="360p",Huasco Television
-https://paneltv.online:1936/8024/8024/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HuascoTelevision.cl" tvg-name="Huasco Television" group-title="General" tvg-language="spa" tvg-quality="480i",Huasco Television
-https://paneltv.online:1936/huasco/huasco/playlist.m3u8
-
 #EXTINF:-1 tvg-id="HuelvaTV.es" tvg-name="Huelva TV" group-title="General" tvg-language="spa" tvg-quality="720p",Huelva TV
 https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
 
@@ -4786,12 +4753,6 @@ http://stream.mcquack.net/174/index.m3u8
 #EXTINF:-1 tvg-id="InterPlus.ua" tvg-name="Inter+" group-title="General" tvg-language="ukr" tvg-quality="720p",Inter+
 https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="InteractivaTV.cl" tvg-name="Interactiva TV" group-title="General" tvg-language="spa" tvg-quality="720p",Interactiva TV
-https://unlimited1-us.dps.live/interactivatv/interactivatv.smil/interactivatv/livestream0/chunks.m3u8
-
-#EXTINF:-1 tvg-id="InteractivaTV.cl" tvg-name="Interactiva TV" group-title="General" tvg-language="spa" tvg-quality="720p",Interactiva TV
-https://unlimited2-cl-isp.dps.live/radiointeractiva/radiointeractiva.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="InteractivoTelevision.bo" tvg-name="Interactivo Television" group-title="General" tvg-language="spa" tvg-quality="720p",Interactivo Television
 https://mist01.homestream.fun/hls/interactivotv/index.m3u8
 
@@ -4872,9 +4833,6 @@ https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ITVPatagonia.cl" tvg-name="ITV Patagonia" group-title="General" tvg-language="spa" tvg-quality="720p",ITV Patagonia
 https://redirector.dps.live/hls/itv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ITVPatagonia.cl" tvg-name="ITV Patagonia" group-title="General" tvg-language="spa" tvg-quality="720p",ITV Patagonia
-https://unlimited1-cl.dps.live/itv/itv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ITVPatagonia.cl" tvg-name="ITV Patagonia" group-title="General" tvg-language="spa" tvg-quality="720p",ITV Patagonia
 https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
@@ -5441,9 +5399,6 @@ https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" group-title="General" tvg-language="spa" tvg-quality="720p",La Red
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" group-title="General" tvg-language="spa" tvg-quality="480i",La Red
-https://tv-mgmt.gtd.cl/bpk-tv/LARED/default/index.m3u8
 
 #EXTINF:-1 tvg-id="LaReinaTV.do" tvg-name="La Reina TV" group-title="General" tvg-language="spa" tvg-quality="720p",La Reina TV
 https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
@@ -6411,12 +6366,6 @@ http://187.102.210.46/NATIVATV/index.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-name="Nativa" group-title="General" tvg-language="spa" tvg-quality="720p",Nativa
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NativaTV.cl" tvg-name="Nativa TV" group-title="General" tvg-language="spa" tvg-quality="480i",Nativa TV
-https://origin-us.streaminghd.cl/nativatv/nativatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NativaTV.cl" tvg-name="Nativa TV" group-title="General" tvg-language="spa" tvg-quality="480i",Nativa TV
-https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NativaTVSatipo.pe" tvg-name="Nativa TV Satipo" group-title="General" tvg-language="spa" tvg-quality="720p",Nativa TV Satipo
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 
@@ -7010,9 +6959,6 @@ https://cdn.ntv.ru/vitrina/index.m3u8
 #EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7" group-title="General" tvg-language="eng;mal" tvg-quality="576i",NTV7
 https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
-#EXTINF:-1 tvg-id="Nublevision.cl" tvg-name="Nublevision" group-title="General" tvg-language="spa" tvg-quality="720p",Nublevision
-https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NuestraImagenTV.gt" tvg-name="Nuestra Imagen TV" group-title="General" tvg-language="spa" tvg-quality="576i",Nuestra Imagen TV
 https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8
 
@@ -7384,9 +7330,6 @@ http://gohoski.fvds.ru:3000/mediabay/697/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OSN.ru" tvg-name="OSN" group-title="General" tvg-language="rus" tvg-quality="576i",OSN
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-
-#EXTINF:-1 tvg-id="OsornoTV.cl" tvg-name="Osorno TV" group-title="General" tvg-language="spa" tvg-quality="720p",Osorno TV
-https://videostream.chileservidores.com:8081/osornotv/index.m3u8
 
 #EXTINF:-1 tvg-id="OTR.ru" tvg-name="OTR" group-title="General" tvg-language="rus" tvg-quality="576p",OTR
 http://31.148.48.15/OTR/index.m3u8
@@ -7812,9 +7755,6 @@ https://tvdatta.com:3991/live/guairatvlive.m3u8
 #EXTINF:-1 tvg-id="RadioKollasuyo.bo" tvg-name="Radio Kollasuyo" group-title="General" tvg-language="spa" tvg-quality="720p",Radio Kollasuyo
 https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8
 
-#EXTINF:-1 tvg-id="RadioLasNieves.cl" tvg-name="Radio Las Nieves" group-title="General" tvg-language="spa" tvg-quality="720p",Radio Las Nieves
-https://v2.tustreaming.cl/rln/index.m3u8
-
 #EXTINF:-1 tvg-id="RadioMegaTVAmazonia.bo" tvg-name="Radio Mega TV Amazonia" group-title="General" tvg-language="spa" tvg-quality="720p",Radio Mega TV Amazonia
 https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
 
@@ -7865,9 +7805,6 @@ https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8
 
 #EXTINF:-1 tvg-id="RadioTVBasseTerre.gp" tvg-name="Radio TV Basse-Terre" group-title="General" tvg-language="fra" tvg-quality="720p",Radio TV Basse-Terre
 https://vdo.ssl-stream.com:3412/stream/play.m3u8
-
-#EXTINF:-1 tvg-id="RadioUC.cl" tvg-name="Radio UC" group-title="General" tvg-language="spa" tvg-quality="720p",Radio UC
-https://oracle.streaminghd.cl/radiouc/radiouc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioUNIACC.cl" tvg-name="Radio UNIACC" group-title="General" tvg-language="spa" tvg-quality="720p",Radio UNIACC
 https://scl.edge.grupoz.cl/uniaccastream/live/playlist.m3u8
@@ -8822,12 +8759,6 @@ https://edge.livestreaminggroup.info/ruta66tvlive/index.m3u8
 #EXTINF:-1 tvg-id="RUV.is" tvg-name="RUV" group-title="General" tvg-language="isl" tvg-quality="720p",RUV
 https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
 
-#EXTINF:-1 tvg-id="RUV.is" tvg-name="RUV" group-title="General" tvg-language="isl" tvg-quality="1080p",RUV
-https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl/stream1_.m3u8
-
-#EXTINF:-1 tvg-id="RUV.is" tvg-name="RUV" group-title="General" tvg-language="isl" tvg-quality="720p",RUV
-https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl/stream4_.m3u8
-
 #EXTINF:-1 tvg-id="RUV2.is" tvg-name="RUV 2" group-title="General" tvg-language="isl" tvg-quality="1080p",RUV 2
 https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
 
@@ -9248,9 +9179,6 @@ https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8
 #EXTINF:-1 tvg-id="Supremateve.do" tvg-name="Supremateve" group-title="General" tvg-language="spa" tvg-quality="720p",Supremateve
 https://ss2.tvrdomi.com:1936/supremateve/supremateve/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SURTV.cl" tvg-name="SUR TV" group-title="General" tvg-language="spa" tvg-quality="1080p",SUR TV
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="SURTV.cl" tvg-name="SUR TV" group-title="General" tvg-language="spa" tvg-quality="720p",SUR TV
 https://surtv-2.mddsoluciones.cl/play/ZZZ-WEB-001:ULpj2JxXM9/live/surtvweb/playlist.m3u8
 
@@ -9265,9 +9193,6 @@ https://us.streaminghd.cl/suramtv/index.m3u8
 
 #EXTINF:-1 tvg-id="SurenaTV.cl" tvg-name="Surena TV" group-title="General" tvg-language="spa" tvg-quality="576i",Surena TV
 https://vs20.live.opencaster.com/surenatv_187f915a/index.m3u8
-
-#EXTINF:-1 tvg-id="SuspilneDonbas.ua" tvg-name="Suspilne. Donbas" group-title="General" tvg-language="ukr" tvg-quality="576p",Suspilne. Donbas
-http://hls127.freeott.top:8080/UA_DONBAS/video.m3u8
 
 #EXTINF:-1 tvg-id="SuspilneKrym.ua" tvg-name="Suspilne. Krym" group-title="General" tvg-language="ukr" tvg-quality="1080p",Suspilne. Krym
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -9393,6 +9318,9 @@ https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TDtv.cr" tvg-name="TDtv" group-title="General" tvg-language="spa" tvg-quality="720p",TDtv
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
+
+#EXTINF:-1 tvg-id="TebeoTV.fr" tvg-name="Tebeo TV" group-title="General" tvg-language="fra" tvg-quality="576i",Tebeo TV
+https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TehranTV.ir" tvg-name="Tehran TV" group-title="General" tvg-language="fas" tvg-quality="576i",Tehran TV
 https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
@@ -10244,14 +10172,8 @@ https://cdn-tiva-video03-logicahost-com-br.smartbit.co/cariocainternacional1/car
 #EXTINF:-1 tvg-id="TVCentroHD.hn" tvg-name="TV Centro HD" group-title="General" tvg-language="spa" tvg-quality="720p",TV Centro HD
 https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVChile.cl" tvg-name="TV Chile" group-title="General" tvg-language="spa" tvg-quality="720p",TV Chile
-http://168.196.127.137:6001/play/a03n/index.m3u8
-
 #EXTINF:-1 tvg-id="TVChile.cl" tvg-name="TV Chile" group-title="General" tvg-language="spa" tvg-quality="576p",TV Chile
 http://38.252.238.18:8000/play/a04b/index.m3u8
-
-#EXTINF:-1 tvg-id="TVChile.cl" tvg-name="TV Chile" group-title="General" tvg-language="spa" tvg-quality="1080p",TV Chile
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-name="TV Chosun" group-title="General" tvg-language="kor" tvg-quality="720p",TV Chosun
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
@@ -10766,9 +10688,6 @@ http://138.121.15.230:9002/TVN/index.m3u8
 http://15.204.246.24:8080/TVNHD/index.m3u8
 
 #EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN" group-title="General" tvg-language="spa" tvg-quality="1080p",TVN
-http://38.44.109.41:8003/play/a0gs/index.m3u8
-
-#EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN" group-title="General" tvg-language="spa" tvg-quality="1080p",TVN
 http://38.44.109.41:8003/play/a0gz/index.m3u8
 
 #EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN" group-title="General" tvg-language="spa" tvg-quality="1080p",TVN
@@ -11232,6 +11151,9 @@ https://media.streambrothers.com:19360/8308/8308.m3u8
 #EXTINF:-1 tvg-id="WanLuoTV.ug" tvg-name="Wan Luo TV" group-title="General" tvg-language="ach;adh;alz;kdi;laj;luo" tvg-quality="576p",Wan Luo TV
 https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8
 
+#EXTINF:-1 tvg-id="WAPATV41.pr" tvg-name="WAPA-TV 4.1" group-title="General" tvg-language="spa" tvg-quality="1080p",WAPA-TV 4.1
+https://wapa.hostless.app/WAPA-TV-4-1.m3u8
+
 #EXTINF:-1 tvg-id="WasatTV.ly" tvg-name="Wasat TV" group-title="General" tvg-language="ara" tvg-quality="1080p",Wasat TV
 #EXTVLCOPT:http-referrer=https://alwasat.ly/
 https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8
@@ -11485,14 +11407,8 @@ https://zjarr.future.al/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ZNSTV.bs" tvg-name="ZNS-TV" group-title="General" tvg-language="eng" tvg-quality="1080p",ZNS-TV
 https://zns-edge1.streamcomedia.cloud/znstv13/zns1080p_stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZonaSurTV.cl" tvg-name="Zona Sur TV" group-title="General" tvg-language="spa" tvg-quality="1080p",Zona Sur TV
-http://170.79.235.133:8002/play/a063/index.m3u8
-
 #EXTINF:-1 tvg-id="ZonavisionTV.do" tvg-name="Zonavision TV" group-title="General" tvg-language="spa" tvg-quality="576i",Zonavision TV
 https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
-
-#EXTINF:-1 tvg-id="ZoomTecnologicoPlus.cl" tvg-name="Zoom Tecnologico Plus" group-title="General" tvg-language="spa" tvg-quality="720p",Zoom Tecnologico Plus
-https://5f700d5b2c46f.streamlock.net/zoomtec/zoomtec/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZTV.us" tvg-name="ZTV" group-title="General" tvg-language="spa" tvg-quality="1080p",ZTV
 http://45.70.201.81:8000/play/a00u/index.m3u8

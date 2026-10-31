@@ -16,9 +16,6 @@ https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.tr" tvg-name="National Geographic Wild" group-title="Documentary" tvg-language="tur" tvg-quality="1080p",National Geographic Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" group-title="Documentary" tvg-language="eng;tur" tvg-quality="1080p",TRT Belgesel
-http://hls127.freeott.top:8080/TRT_BELGESEL_TR/video.m3u8
-
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" group-title="Documentary" tvg-language="eng;tur" tvg-quality="720p",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 

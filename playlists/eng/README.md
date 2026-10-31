@@ -4,7 +4,7 @@
 
 Find free English live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2490 channels · 4466 stream entries**
+**2495 channels · 4472 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 4466 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
+| All channels | 4472 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/all.m3u` |
 | HD | 3342 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/hd.m3u` |
-| SD / unknown | 1124 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
+| SD / unknown | 1130 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,21 +25,21 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 144 | 318 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
+| Sports | 149 | 323 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/sports.m3u` |
 | Movies | 173 | 272 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/movies.m3u` |
-| News | 193 | 470 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/news.m3u` |
-| Music | 162 | 255 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/music.m3u` |
+| News | 193 | 472 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/news.m3u` |
+| Music | 161 | 255 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/music.m3u` |
 | Kids | 134 | 232 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/kids.m3u` |
-| Documentary | 87 | 178 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/documentary.m3u` |
-| Series | 209 | 490 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/series.m3u` |
+| Documentary | 87 | 176 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/documentary.m3u` |
+| Series | 210 | 491 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/series.m3u` |
 | Entertainment | 229 | 367 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/entertainment.m3u` |
 | Animation | 51 | 91 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/animation.m3u` |
 | Auto | 15 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/auto.m3u` |
 | Business | 24 | 64 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/business.m3u` |
 | Classic | 50 | 76 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/classic.m3u` |
-| Comedy | 85 | 190 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/comedy.m3u` |
+| Comedy | 86 | 190 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/comedy.m3u` |
 | Cooking | 27 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/cooking.m3u` |
-| Culture | 46 | 68 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/culture.m3u` |
+| Culture | 46 | 69 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/culture.m3u` |
 | Education | 71 | 90 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/education.m3u` |
 | Family | 17 | 35 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/family.m3u` |
 | General | 297 | 552 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/general.m3u` |
@@ -47,7 +47,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Lifestyle | 58 | 92 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/lifestyle.m3u` |
 | Outdoor | 27 | 75 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/outdoor.m3u` |
 | Relax | 9 | 24 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/relax.m3u` |
-| Religious | 214 | 272 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/religious.m3u` |
+| Religious | 214 | 273 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/religious.m3u` |
 | Science | 6 | 16 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/science.m3u` |
 | Shop | 27 | 39 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/shop.m3u` |
 | Travel | 29 | 53 | `https://iman-py.github.io/open-tv-atlas/playlists/eng/travel.m3u` |
@@ -218,6 +218,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Anime x HIDIVE | AnimexHIDIVE.us | 1080p, 720p | 2 |
 | Aniplus Asia | AniplusAsia.sg | 720p | 1 |
 | Antena 3 Constanta | Antena3Constanta.ro | 576p | 1 |
+| AntenaPlay Events | AntenaPlayEvents.ro | 576p | 1 |
 | Anthony Bourdain: Parts Unknown | AnthonyBourdainPartsUnknown.us | 576i | 1 |
 | Antiques Road Trip | AntiquesRoadTrip.us | 1080p, 480i, 720p | 8 |
 | Antiques Roadshow UK | AntiquesRoadshowUK.us | 1080p, 480i, 720p | 4 |
@@ -281,7 +282,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | BATV Public Channel | BATVPublicChannel.us | 480i | 1 |
 | Baywatch | Baywatch.us | 1080p, 480i, 720p | 7 |
 | BBC America | BBCAmerica.us | 720p | 1 |
-| BBC Earth | BBCEarth.uk | 1080p, 576i, 576p, 720p | 8 |
+| BBC Earth | BBCEarth.uk | 1080p, 576i, 720p | 7 |
 | BBC First | BBCFirst.uk | 576i | 2 |
 | BBC Food | BBCFood.us | 1080p | 1 |
 | BBC Four | BBCFour.uk | 576i, 720p | 5 |
@@ -736,7 +737,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Disney Junior | DisneyJunior.in | 576p | 1 |
 | Disney Junior | DisneyJunior.ro | 576i | 1 |
 | Disney Junior | DisneyJunior.us | 480p, 576p | 5 |
-| Disney XD | DisneyXD.us | 1080p | 1 |
+| Disney XD | DisneyXD.us | 720p | 1 |
 | District of Columbia Network | DistrictofColumbiaNetwork.us | 1080p | 1 |
 | Distrito Comedia | DistritoComedia.mx | 1080p | 4 |
 | Diya TV | DiyaTV.us | 1080p | 1 |
@@ -920,7 +921,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | FX | FX.tr | 720p | 1 |
 | FX | FX.us | 720p | 1 |
 | G10TV | G10TV.us | 1080p | 1 |
-| Gagsnetwork | Gagsnetwork.us | 576p | 2 |
+| Gagsnetwork | Gagsnetwork.us | 576p | 1 |
 | Galaxy TV | GalaxyTV.ug | 720p | 1 |
 | Galveston County TV | GalvestonCountyTV.us | 720p | 1 |
 | Galxy TV | GalxyTV.us | 720p | 1 |
@@ -1051,7 +1052,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Hope Channel Africa | HopeChannelAfrica.za | 1080p | 1 |
 | Hope Channel Australia | HopeChannelAustralia.au | 1080p | 1 |
 | Hope Channel Ghana | HopeChannelGhana.gh | 480p | 1 |
-| Hope Channel India | HopeChannelIndia.in | 576p | 2 |
+| Hope Channel India | HopeChannelIndia.in | 576p | 3 |
 | Hope Channel Inter-America English | HopeChannelInterAmericaEnglish.us | 1080p | 1 |
 | Hope Channel International | HopeChannelInternational.us | 1080p | 1 |
 | Hope Channel North America | HopeChannelNorthAmerica.us | 1080p | 1 |
@@ -1522,7 +1523,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | NFL Channel | NFLChannel.us | 1080p, 720p | 2 |
 | NFL Network | NFLNetwork.us | 720p | 1 |
 | NHK World Premium | NHKWorldPremium.jp | 720p | 1 |
-| NHK World-Japan | NHKWorldJapan.jp | 1080p, 576p, 720p | 8 |
+| NHK World-Japan | NHKWorldJapan.jp | 1080p, 576p, 720p | 9 |
 | NHL AntenaPlay | NHLAntenaPlay.ro | 576i | 1 |
 | NHL Network | NHLNetwork.us | 1080p | 2 |
 | NHRA TV | NHRATV.us | 1080p, 720p | 2 |
@@ -1856,7 +1857,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Reno 911 | Reno911.se | 720p | 3 |
 | Republic TV | RepublicTV.in | 1080p, 576i, 576p | 7 |
 | Resurrection TV | ResurrectionTV.gh | 720p | 1 |
-| Retro Plus | RetroPlus.cl | 1080p | 1 |
 | Retro TV | RetroTV.us | 720p | 2 |
 | RetroCrush | RetroCrush.us | 1080p | 2 |
 | Reuters TV | ReutersTV.us | 1080p | 4 |
@@ -2155,7 +2155,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Tele Pam | TelePam.us | 1080p | 1 |
 | Tele Regency TV | TeleRegencyTV.ng | 576p | 1 |
 | Telearuba | Telearuba.aw | 1080p | 2 |
-| TeleHit | TeleHit.mx | 1080p, 576p | 2 |
+| Telecyan | Telecyan.us | 720p | 1 |
+| TeleHit | TeleHit.mx | 1080p, 576p | 3 |
 | Telemundo | Telemundo.us | 1080p, 2160p, 720p | 6 |
 | Telemundo Telenovelas Clasicas | TelemundoTelenovelasClasicas.us | 480i | 1 |
 | Telepace 2 | Telepace2.it | 1080p | 1 |
@@ -2256,6 +2257,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TNN16 | TNN16.th | 576i, 720p | 2 |
 | TNT | TNT.us | 720p | 3 |
 | TNT Latin America | TNTLatinAmerica.us | 1080p | 1 |
+| TNT Sports 1 | TNTSports1.uk | 576i | 1 |
+| TNT Sports 2 | TNTSports2.uk | 576i | 1 |
+| TNT Sports 3 | TNTSports3.uk | 576i | 1 |
+| TNT Sports 4 | TNTSports4.uk | 576i | 1 |
 | TODAY All Day | TODAYAllDay.us | 1080p, 480i | 3 |
 | Today Radio | TodayRadio.lu | 720p | 1 |
 | Together TV | TogetherTV.uk | 576p | 1 |
@@ -2294,8 +2299,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Trigger | Trigger.za | 576i | 1 |
 | Trinity TV | TrinityTV.tt | 480p | 1 |
 | Trishul Broadcasting Network | TrishulBroadcastingNetwork.sr | 720p | 1 |
-| TRT Belgesel | TRTBelgesel.tr | 1080p, 720p | 2 |
-| TRT World | TRTWorld.tr | 1080i, 1080p, 576p, 720p | 4 |
+| TRT Belgesel | TRTBelgesel.tr | 720p | 1 |
+| TRT World | TRTWorld.tr | 1080i, 1080p, 576p, 720p | 5 |
 | True Crime | TrueCrime.uk | 1080p, 720p | 2 |
 | True crime fran Viaplay | TruecrimefranViaplay.se | 720p | 1 |
 | True Crime Network | TrueCrimeNetwork.us | 1080p, 720p | 2 |

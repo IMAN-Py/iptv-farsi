@@ -235,9 +235,6 @@ https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
 #EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="Teledeporte" group-title="Sports" tvg-language="spa" tvg-quality="720p",Teledeporte
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 
-#EXTINF:-1 tvg-id="TeletrakTV.cl" tvg-name="Teletrak TV" group-title="Sports" tvg-language="spa" tvg-quality="720p",Teletrak TV
-https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TigoSports.bo" tvg-name="Tigo Sports" group-title="Sports" tvg-language="spa" tvg-quality="720p",Tigo Sports
 https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8
 

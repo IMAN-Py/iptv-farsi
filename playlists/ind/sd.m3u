@@ -9,6 +9,9 @@ https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="AshiilTV.id" tvg-name="Ashiil TV" group-title="Religious" tvg-language="ind" tvg-quality="480p",Ashiil TV
 https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
 
+#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" group-title="Movies;Series" tvg-language="ind" tvg-quality="576i",AXN Asia
+http://202.150.165.66:8088/play/301-AXN/index.m3u8
+
 #EXTINF:-1 tvg-id="BandungTV.id" tvg-name="Bandung TV" group-title="General" tvg-language="ind" tvg-quality="360p",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 

@@ -197,6 +197,9 @@ http://125.227.210.55:3056/VideoInput/play.ts
 #EXTINF:-1 tvg-id="Antena3Constanta.ro" tvg-name="Antena 3 Constanta" group-title="News" tvg-language="eng;ron" tvg-quality="576p",Antena 3 Constanta
 https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
 
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" group-title="Sports" tvg-language="eng;ron" tvg-quality="576p",AntenaPlay Events
+https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8
+
 #EXTINF:-1 tvg-id="AnthonyBourdainPartsUnknown.us" tvg-name="Anthony Bourdain: Parts Unknown" group-title="Series" tvg-language="eng" tvg-quality="576i",Anthony Bourdain: Parts Unknown
 https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
 
@@ -323,9 +326,6 @@ https://livestream.telvue.com/billerica1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pl
 
 #EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" group-title="Series" tvg-language="eng" tvg-quality="480i",Baywatch
 https://jmp2.uk/plu-62bdae69a47b6c00076af298.m3u8
-
-#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="576p",BBC Earth
-http://hls127.freeott.top:8080/BG_The_World/video.m3u8
 
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" group-title="Documentary" tvg-language="eng" tvg-quality="576i",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
@@ -1332,9 +1332,6 @@ https://webtvstream.bhtelecom.ba/funbox.m3u8
 https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8
 
 #EXTINF:-1 tvg-id="Gagsnetwork.us" tvg-name="Gagsnetwork" group-title="Comedy" tvg-language="eng;rus" tvg-quality="576p",Gagsnetwork
-http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
-
-#EXTINF:-1 tvg-id="Gagsnetwork.us" tvg-name="Gagsnetwork" group-title="Comedy" tvg-language="eng;rus" tvg-quality="576p",Gagsnetwork
 http://stream.mcquack.net/458/index.m3u8
 
 #EXTINF:-1 tvg-id="GameShowCentral.us" tvg-name="Game Show Central" group-title="Entertainment" tvg-language="eng" tvg-quality="480i",Game Show Central
@@ -1551,6 +1548,10 @@ https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8
 
 #EXTINF:-1 tvg-id="HopeChannelIndia.in" tvg-name="Hope Channel India" group-title="Religious" tvg-language="eng" tvg-quality="576p",Hope Channel India
 https://cdn.pishow.tv/ott/live/1385/master.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelIndia.in" tvg-name="Hope Channel India" group-title="Religious" tvg-language="eng" tvg-quality="576p",Hope Channel India
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/634/master.m3u8
 
 #EXTINF:-1 tvg-id="HopeChannelIndia.in" tvg-name="Hope Channel India" group-title="Religious" tvg-language="eng" tvg-quality="576p",Hope Channel India
 https://mumt01.tangotv.in/O5aw8Zn3HOPECHANNELINDIA/index.m3u8
@@ -2152,6 +2153,10 @@ https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8
 
 #EXTINF:-1 tvg-id="Newsy.us" tvg-name="Newsy" group-title="News" tvg-language="eng" tvg-quality="480i",Newsy
 https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" group-title="Culture;News" tvg-language="eng;jpn" tvg-quality="576p",NHK World-Japan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/417/master.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" group-title="Culture;News" tvg-language="eng;jpn" tvg-quality="576p",NHK World-Japan
 https://mumt07.tangotv.in/zHjX9OFlNHKWORLD/index.m3u8
@@ -3032,6 +3037,18 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-id="TNN16.th" tvg-name="TNN16" group-title="Uncategorized" tvg-language="eng;tha" tvg-quality="576i",TNN16
 https://live-us1.thaimomo.com/live-as/chtnn24-2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT Sports 1" group-title="Sports" tvg-language="eng" tvg-quality="576i",TNT Sports 1
+http://37.49.224.5:80/stream/1/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT Sports 2" group-title="Sports" tvg-language="eng" tvg-quality="576i",TNT Sports 2
+http://37.49.224.5:80/stream/2/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT Sports 3" group-title="Sports" tvg-language="eng" tvg-quality="576i",TNT Sports 3
+http://37.49.224.5:80/stream/3/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT Sports 4" group-title="Sports" tvg-language="eng" tvg-quality="576i",TNT Sports 4
+http://37.49.224.5:80/stream/4/index.m3u8
+
 #EXTINF:-1 tvg-id="TODAYAllDay.us" tvg-name="TODAY All Day" group-title="News" tvg-language="eng" tvg-quality="480i",TODAY All Day
 https://jmp2.uk/plu-5d695f7db53adf96b78e7ce3.m3u8
 
@@ -3094,6 +3111,10 @@ https://5d00db0e0fcd5.streamlock.net/7410/7410/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" group-title="News" tvg-language="eng" tvg-quality="576p",TRT World
 https://cdn.pishow.tv/ott/live/266/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" group-title="News" tvg-language="eng" tvg-quality="576p",TRT World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/416/master.m3u8
 
 #EXTINF:-1 tvg-id="TrueCrimeNow.us" tvg-name="True Crime Now" group-title="Uncategorized" tvg-language="eng" tvg-quality="480i",True Crime Now
 https://jmp2.uk/plu-69dd5d9dceddf13a1a7e39c2.m3u8

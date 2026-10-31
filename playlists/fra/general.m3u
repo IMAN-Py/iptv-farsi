@@ -242,6 +242,9 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1
 #EXTINF:-1 tvg-id="T18.fr" tvg-name="T18" group-title="General" tvg-language="fra" tvg-quality="1080p",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 
+#EXTINF:-1 tvg-id="TebeoTV.fr" tvg-name="Tebeo TV" group-title="General" tvg-language="fra" tvg-quality="576i",Tebeo TV
+https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TeleCongo.cg" tvg-name="Tele Congo" group-title="General" tvg-language="fra;lin;mkw" tvg-quality="720p",Tele Congo
 http://51.254.199.122:8080/telecongo/index.m3u8
 

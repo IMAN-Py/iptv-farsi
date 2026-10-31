@@ -8,6 +8,9 @@ https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BabyTV" group-title="Kids" tvg-language="tur" tvg-quality="576i",BabyTV
 https://saran-live.ercdn.net/babytv/index.m3u8
 
+#EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-name="Cartoon Network" group-title="Animation;Kids" tvg-language="tur" tvg-quality="576i",Cartoon Network
+http://176.65.153.40:6002/play/a013/index.m3u8
+
 #EXTINF:-1 tvg-id="DisneyJr.tr" tvg-name="Disney Jr." group-title="Animation;Kids" tvg-language="tur" tvg-quality="1080p",Disney Jr.
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 

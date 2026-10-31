@@ -373,6 +373,10 @@ https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8
 https://cdn.pishow.tv/ott/live/1385/master.m3u8
 
 #EXTINF:-1 tvg-id="HopeChannelIndia.in" tvg-name="Hope Channel India" group-title="Religious" tvg-language="eng" tvg-quality="576p",Hope Channel India
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/634/master.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelIndia.in" tvg-name="Hope Channel India" group-title="Religious" tvg-language="eng" tvg-quality="576p",Hope Channel India
 https://mumt01.tangotv.in/O5aw8Zn3HOPECHANNELINDIA/index.m3u8
 
 #EXTINF:-1 tvg-id="HopeChannelInterAmericaEnglish.us" tvg-name="Hope Channel Inter-America English" group-title="Religious" tvg-language="eng" tvg-quality="1080p",Hope Channel Inter-America English

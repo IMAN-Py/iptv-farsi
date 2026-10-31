@@ -4,7 +4,7 @@
 
 Find free French live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**426 channels · 555 stream entries**
+**427 channels · 556 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 555 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
+| All channels | 556 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/all.m3u` |
 | HD | 354 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/hd.m3u` |
-| SD / unknown | 201 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
+| SD / unknown | 202 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -40,7 +40,7 @@ Each list combines this language with a source category. Counts are stream entri
 | Culture | 14 | 18 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/culture.m3u` |
 | Education | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/education.m3u` |
 | Family | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/family.m3u` |
-| General | 101 | 120 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/general.m3u` |
+| General | 102 | 121 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/general.m3u` |
 | Interactive | 1 | 1 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/interactive.m3u` |
 | Legislative | 4 | 5 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/legislative.m3u` |
 | Lifestyle | 11 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/fra/lifestyle.m3u` |
@@ -393,6 +393,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Syfy | Syfy.fr | 576i | 1 |
 | T18 | T18.fr | 1080p | 1 |
 | Tal TV | TalTV.ne | 1080p | 1 |
+| Tebeo TV | TebeoTV.fr | 576i | 1 |
 | Teen Mom | TeenMom.de | 720p | 1 |
 | Tele Boston | TeleBoston.us | 480p | 1 |
 | Tele Congo | TeleCongo.cg | 576i, 720p | 2 |

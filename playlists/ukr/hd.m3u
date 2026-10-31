@@ -432,9 +432,6 @@ http://stream.mcquack.net/281/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/341/index.m3u8
 
-#EXTINF:-1 tvg-id="ViasatHistory.ua" tvg-name="Viasat History" group-title="Documentary" tvg-language="ukr" tvg-quality="1080p",Viasat History
-http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8
-
 #EXTINF:-1 tvg-id="Z.ua" tvg-name="Z" group-title="Uncategorized" tvg-language="ukr" tvg-quality="1080p",Z
 https://stream.ztv.zp.ua/hls/live.m3u8
 

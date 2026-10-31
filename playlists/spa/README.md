@@ -4,7 +4,7 @@
 
 Find free Spanish live TV playlist URLs for M3U-compatible players such as VLC and TiviMate. Choose all channels, HD, SD, or a category below. Playlist links are refreshed daily from iptv-org; individual streams may be unavailable or region restricted.
 
-**2340 channels · 3201 stream entries**
+**2303 channels · 3150 stream entries**
 
 Copy this URL into the M3U URL field of your player:
 
@@ -14,9 +14,9 @@ https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u
 
 | Version | Entries | Copy this URL |
 | --- | ---: | --- |
-| All channels | 3201 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u` |
-| HD | 2424 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u` |
-| SD / unknown | 777 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sd.m3u` |
+| All channels | 3150 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/all.m3u` |
+| HD | 2395 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/hd.m3u` |
+| SD / unknown | 755 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sd.m3u` |
 
 <a id="categories"></a>
 ## Categories
@@ -25,12 +25,12 @@ Each list combines this language with a source category. Counts are stream entri
 
 | Category | Channels | Entries | Copy this URL |
 | --- | ---: | ---: | --- |
-| Sports | 70 | 114 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sports.m3u` |
-| Movies | 104 | 143 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/movies.m3u` |
-| News | 131 | 214 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/news.m3u` |
-| Music | 204 | 229 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/music.m3u` |
+| Sports | 68 | 112 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/sports.m3u` |
+| Movies | 102 | 141 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/movies.m3u` |
+| News | 128 | 210 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/news.m3u` |
+| Music | 197 | 223 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/music.m3u` |
 | Kids | 50 | 103 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/kids.m3u` |
-| Documentary | 22 | 44 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/documentary.m3u` |
+| Documentary | 21 | 43 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/documentary.m3u` |
 | Series | 72 | 104 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/series.m3u` |
 | Entertainment | 178 | 253 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/entertainment.m3u` |
 | Animation | 34 | 66 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/animation.m3u` |
@@ -39,16 +39,16 @@ Each list combines this language with a source category. Counts are stream entri
 | Classic | 8 | 10 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/classic.m3u` |
 | Comedy | 19 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/comedy.m3u` |
 | Cooking | 4 | 7 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/cooking.m3u` |
-| Culture | 42 | 49 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/culture.m3u` |
+| Culture | 41 | 48 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/culture.m3u` |
 | Education | 35 | 41 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/education.m3u` |
 | Family | 12 | 23 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/family.m3u` |
-| General | 891 | 1220 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
+| General | 877 | 1194 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/general.m3u` |
 | Legislative | 33 | 36 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/legislative.m3u` |
 | Lifestyle | 15 | 15 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/lifestyle.m3u` |
 | Outdoor | 12 | 20 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/outdoor.m3u` |
 | Public | 21 | 32 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/public.m3u` |
 | Relax | 1 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/relax.m3u` |
-| Religious | 195 | 233 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/religious.m3u` |
+| Religious | 193 | 231 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/religious.m3u` |
 | Science | 4 | 6 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/science.m3u` |
 | Shop | 2 | 2 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/shop.m3u` |
 | Travel | 11 | 11 | `https://iman-py.github.io/open-tv-atlas/playlists/spa/travel.m3u` |
@@ -192,7 +192,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Arbol de Vida TV | ArboldeVidaTV.sv | 240p | 1 |
 | Archivos Forenses | ArchivosForenses.us | 576i | 2 |
 | Argentinisima Satelital | ArgentinisimaSatelital.ar | 540p | 1 |
-| Arica TV | AricaTV.cl | 480i, 480p | 2 |
+| Arica TV | AricaTV.cl | 480p | 1 |
 | Arpegio TV | ArpegioTV.pe | 720p | 2 |
 | Aruba.TV | ArubaTV.aw | 1080p | 1 |
 | As Contenidos | AsContenidos.bo | 720p | 1 |
@@ -215,7 +215,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Aurora Media Films | AuroraMediaFilms.gt | 720p | 1 |
 | Austral TV | AustralTV.ec | 1080p | 1 |
 | Autentica Television | AutenticaTelevision.pe | 720p | 1 |
-| Autonoma TV | AutonomaTV.cl | 480i | 1 |
 | Avatar: La Leyenda de Aang | AvatarLaLeyendadeAang.us | 720p | 1 |
 | AVI Rewind | AVIRewind.us | 1080p | 1 |
 | Aviva TV | AvivaTV.hn | 288p | 1 |
@@ -325,7 +324,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Canal 12 | Canal12.sv | 480i, 576p | 2 |
 | Canal 12 Venado Tuerto | Canal12VenadoTuerto.ar | 1080i | 1 |
 | Canal 12 Web | Canal12Web.ar | 576i, 720p | 2 |
-| Canal 13 | Canal13.cl | 1080p, 720p | 5 |
+| Canal 13 | Canal13.cl | 1080p, 720p | 3 |
 | Canal 13 | Canal13.gt | 720p | 2 |
 | Canal 13 Bajio | Canal13Bajio.mx | 720p | 1 |
 | Canal 13 Campeche | Canal13Campeche.mx | 720p | 1 |
@@ -423,7 +422,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Canal 7 TeleValencia | Canal7TeleValencia.es | 576p | 1 |
 | Canal 7 TV | Canal7TV.ar | 576p, 720p | 2 |
 | Canal 70 | Canal70.do | 720p | 1 |
-| Canal 74 San Antonio | Canal74SanAntonio.cl | 480i | 1 |
 | Canal 79 La Costa | Canal79LaCosta.ar | 240p | 1 |
 | Canal 79 Mar del Plata | Canal79MardelPlata.ar | 576i | 1 |
 | Canal 79 Puan | Canal79Puan.ar | 240p | 1 |
@@ -452,14 +450,13 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Canal CHD | CanalCHD.co | 576i | 1 |
 | Canal Chilote | CanalChilote.cl | 720p | 1 |
 | Canal Cine Dios | CanalCineDios.co | 480i | 1 |
-| Canal Claro | CanalClaro.cl | 480i, 720p | 3 |
+| Canal Claro | CanalClaro.cl | 480i, 720p | 2 |
 | Canal Coin TV | CanalCoinTV.es | 1080p | 1 |
 | Canal Congreso | CanalCongreso.co | 1080p | 2 |
 | Canal Cvision | CanalCvision.ni | 720p | 1 |
 | Canal de la Fe | CanaldelaFe.us | 720p | 1 |
 | Canal del Congreso 45.1 | CanaldelCongreso451.mx | 480i | 1 |
 | Canal del Sol | CanaldelSol.do | 1080p | 1 |
-| Canal del Sur | CanaldelSur.cl | 720p | 1 |
 | Canal Diocesano | CanalDiocesano.es | 576p | 1 |
 | Canal Diplomatico | CanalDiplomatico.ve | 480i | 1 |
 | Canal Donana | CanalDonana.es | 720p | 1 |
@@ -599,7 +596,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Citytv Bogota | CitytvBogota.co | 1080p | 3 |
 | Ciudad Magica | CiudadMagica.ar | 720p | 1 |
 | Ciudad TV Resistencia | CiudadTVResistencia.ar | 720p | 1 |
-| Ciudadano Radio | CiudadanoRadio.cl | 720p | 1 |
 | Ciudades del Ocio TV | CiudadesdelOcioTV.es | 720p | 1 |
 | Clan | Clan.es | 1080p, 720p | 3 |
 | Clan Internacional | ClanInternacional.es | 1080p | 2 |
@@ -608,7 +604,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Claro Sports | ClaroSports.mx | 1080p, 720p | 4 |
 | Claro Television Dominicana | ClaroTelevisionDominicana.do | 360p | 1 |
 | Claro Vision TV | ClaroVisionTV.do | 720p | 1 |
-| ClickTV Chile | ClickTVChile.cl | 720p | 1 |
 | Club TV | ClubTV.cl | 480i | 1 |
 | CMB Television | CMBTelevision.co | 1080p | 2 |
 | CMM TV | CMMTV.es | 1080p | 1 |
@@ -618,7 +613,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CNC Santander de Quilichao | CNCSantanderdeQuilichao.co | 480p | 2 |
 | CNC Tulua | CNCTulua.co | 1080p | 1 |
 | CNC Valledupar | CNCValledupar.co | 720p | 1 |
-| CNN Chile | CNNChile.cl | 1080p | 1 |
 | CNN en Espanol | CNNenEspanol.us | 1080p | 2 |
 | CNN International | CNNInternational.us | 1080p | 1 |
 | CNT Mas TV | CNTMasTV.do | 720p | 1 |
@@ -679,11 +673,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | CTT Canal 49 | CTTCanal49.do | 1080p | 1 |
 | CTV | CTV.bo | 1080p, 480i, 720p | 3 |
 | CTV | CTV.us | 480p | 1 |
-| CTV35 | CTV35.cl | 576i | 1 |
 | Cubavision | Cubavision.cu | 480i | 1 |
 | Cubavision Internacional | CubavisionInternacional.cu | 720p | 1 |
 | Cultura 24 | Cultura24.pe | 480i | 1 |
-| Cultura Online | CulturaOnline.cl | 480i | 1 |
 | Cumbia Mix | CumbiaMix.ar | 720p | 1 |
 | Curiquingue TV | CuriquingueTV.ec | 720p | 1 |
 | Curro Jimenez | CurroJimenez.us | 576i | 1 |
@@ -716,7 +708,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Diaspora TV | DiasporaTV.pe | 480i | 1 |
 | Diez TV Las Villas | DiezTVLasVillas.es | 1080p | 1 |
 | Diez TV Ubeda | DiezTVUbeda.es | 1080p | 1 |
-| Diferencia Radio TV | DiferenciaRadioTV.cl | 576i | 1 |
 | Digital 15 | Digital15.do | 1080p | 2 |
 | Digital Vision 63 | DigitalVision63.do | 720p | 1 |
 | Dios Te Ve | DiosTeVe.hn | 720p | 1 |
@@ -732,11 +723,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Disney Channel Latin America | DisneyChannelLatinAmerica.ar | 1080p, 480i, 576p, 720p | 13 |
 | Disney Jr. Latin America | DisneyJrLatinAmerica.ar | 1080p, 576i, 576p | 7 |
 | Disney Junior | DisneyJunior.us | 480p, 576p | 5 |
-| Disney XD | DisneyXD.us | 1080p | 1 |
+| Disney XD | DisneyXD.us | 720p | 1 |
 | Distrito Comedia | DistritoComedia.mx | 1080p | 4 |
 | Distrito TV | DistritoTV.es | 1080p | 1 |
 | Dmoda Channel | DmodaChannel.bo | 1080p | 1 |
-| DNews | DNews.us | 720p | 1 |
 | DNJ TV | DNJTV.pr | 720p | 1 |
 | Doble C Television | DobleCTelevision.pe | 720p | 1 |
 | Docevision | Docevision.cl | 720p | 1 |
@@ -766,7 +756,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Educa TV | EducaTV.ec | 720p | 1 |
 | Educanal | Educanal.py | 1080p | 1 |
 | Eduvision | Eduvision.co | 1080p | 1 |
-| EGM Channel | EGMChannel.cl | 480p | 1 |
 | El 15 TV | El15TV.sv | 720p | 1 |
 | El 3 de Conce | El3deConce.cl | 576i | 1 |
 | El Camino TV | ElCaminoTV.sv | 480p | 1 |
@@ -781,7 +770,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | El Mundo del Campo | ElMundodelCampo.co | 720p | 1 |
 | El Nueve | ElNueve.ar | 1080p | 1 |
 | El Nuevo Diario TV | ElNuevoDiarioTV.do | 480p | 1 |
-| El Pinguino TV | ElPinguinoTV.cl | 480i, 720p | 2 |
+| El Pinguino TV | ElPinguinoTV.cl | 720p | 1 |
 | El Pituco TV | ElPitucoTV.do | 720p | 1 |
 | El Puerto TV | ElPuertoTV.do | 720p | 1 |
 | El Radar | ElRadar.cl | 720p | 1 |
@@ -829,7 +818,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | ESPN Extra Latin America | ESPNExtraLatinAmerica.us | 1080p | 1 |
 | ESPN Latin America | ESPNLatinAmerica.us | 1080p, 576i | 4 |
 | ESPN Premium | ESPNPremium.ar | 1080p | 1 |
-| ESPN Premium | ESPNPremium.cl | 576i | 1 |
 | eSports Max TV | eSportsMaxTV.ve | 480i | 1 |
 | Estacion Limache TV | EstacionLimacheTV.cl | 720p | 1 |
 | Estacion TV | EstacionTV.cl | 720p | 1 |
@@ -846,7 +834,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Europa Europa | EuropaEuropa.ar | 1080p | 4 |
 | Eurosport 1 | Eurosport1.fr | 576p | 1 |
 | Eurosport 2 | Eurosport2.fr | 1080p | 1 |
-| Evavision | Evavision.cl | 480i | 1 |
 | Evolucion TV | EvolucionTV.pe | 576p | 1 |
 | EWTN | EWTN.us | 480p, 576p, 720p | 5 |
 | EWTN Espana | EWTNEspana.es | 576i | 1 |
@@ -978,7 +965,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | HTV | HTV.us | 720p | 3 |
 | HTV Live | HTVLive.do | 1080p | 1 |
 | Huacho Peru TV | HuachoPeruTV.pe | 480i | 1 |
-| Huasco Television | HuascoTelevision.cl | 360p, 480i | 2 |
 | Huelva TV | HuelvaTV.es | 720p | 1 |
 | iCarly | iCarly.us | 720p | 1 |
 | ICN Digital | ICNDigital.hn | 576i | 1 |
@@ -1001,11 +987,9 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Ingenio TV | IngenioTV.mx | 720p | 1 |
 | Inmaculada TV | InmaculadaTV.hn | 720p | 1 |
 | Inter TV | InterTV.ve | 1080p | 1 |
-| Interactiva TV | InteractivaTV.cl | 720p | 2 |
 | Interactivo Television | InteractivoTelevision.bo | 720p | 2 |
 | Interalmeria TV | InteralmeriaTV.es | 1080p | 1 |
 | Intercomarcal TV | IntercomarcalTV.es | 576p | 1 |
-| Interradio TV | InterradioTV.cl | 480i | 1 |
 | Inti TV | IntiTV.ec | 1080p | 1 |
 | Intuitiva TV | IntuitivaTV.pe | 720p | 1 |
 | Invasiva TV | InvasivaTV.py | 720p | 1 |
@@ -1019,7 +1003,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Italianissimo | Italianissimo.ve | 360p | 1 |
 | Itel TV Canal 2 | ItelTVCanal2.ar | 576i | 1 |
 | ITV Deportes | ITVDeportes.mx | 480i, 720p | 3 |
-| ITV Patagonia | ITVPatagonia.cl | 720p | 3 |
+| ITV Patagonia | ITVPatagonia.cl | 720p | 2 |
 | Jacal Canal 5 | JacalCanal5.gt | 720p | 1 |
 | Jalisco TV | JaliscoTV.mx | 720p | 1 |
 | JARABACOA TV | JARABACOATV.do | 1080p | 1 |
@@ -1075,7 +1059,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | La Descarga TV | LaDescargaTV.do | 720p | 1 |
 | La Elegida Television | LaElegidaTelevision.uy | 576i | 1 |
 | La Fabulosa TV | LaFabulosaTV.pe | 720p | 1 |
-| La Granja TV | LaGranjaTV.cl | 480i | 1 |
 | La Hermandad Salsera | LaHermandadSalsera.co | 1080p | 1 |
 | La Hora TV | LaHoraTV.do | 720p | 1 |
 | La Kalle | LaKalle.co | 1080p, 720p | 2 |
@@ -1088,7 +1071,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | La Popular TV | LaPopularTV.cl | 480i | 1 |
 | La Potente Radio TV | LaPotenteRadioTV.cr | 480i | 1 |
 | La Que Buena Atlanta | LaQueBuenaAtlanta.us | 480i | 1 |
-| La Red | LaRed.cl | 480i, 720p | 2 |
+| La Red | LaRed.cl | 720p | 1 |
 | La Reina TV | LaReinaTV.do | 720p | 1 |
 | La Rosa de Guadalupe | LaRosadeGuadalupe.us | 360p | 1 |
 | La Ruta TV | LaRutaTV.do | 720p | 1 |
@@ -1149,7 +1132,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | LotPlus TV | LotPlusTV.pe | 720p | 1 |
 | Love Nature | LoveNature.ca | 1080p, 720p | 5 |
 | Love The Planet | LoveThePlanet.es | 1080p | 1 |
-| LTV | LTV.cl | 2160p | 1 |
 | LTV | LTV.hn | 720p | 1 |
 | Luna TV Canal 53 | LunaTVCanal53.do | 720p | 1 |
 | Luz Divina TV | LuzDivinaTV.do | 720p | 1 |
@@ -1167,7 +1149,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Manaclar Television | ManaclarTelevision.do | 720p | 1 |
 | Manavision | Manavision.ec | 480p | 1 |
 | Maniel TV | ManielTV.do | 720p | 1 |
-| Maqui TV | MaquiTV.cl | 576i | 1 |
 | Maray TV | MarayTV.cl | 576i | 1 |
 | Marca TV | MarcaTV.ec | 1080p | 1 |
 | Marga Marga TV | MargaMargaTV.cl | 720p | 1 |
@@ -1313,7 +1294,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | National Geographic | NationalGeographic.mx | 1080p | 1 |
 | National Geographic Latin America | NationalGeographicLatinAmerica.us | 1080p, 480i | 5 |
 | Nativa | Nativa.pe | 720p | 2 |
-| Nativa TV | NativaTV.cl | 480i | 2 |
 | Nativa TV Satipo | NativaTVSatipo.pe | 720p | 2 |
 | NatureTime | NatureTime.ca | 1080p, 684p, 720p | 7 |
 | Navarrete Television | NavarreteTelevision.do | 1080p | 1 |
@@ -1357,7 +1337,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | NPY | NPY.py | 1080p | 1 |
 | NSTV | NSTV.co | 1080p, 720p | 2 |
 | NTN24 | NTN24.co | 1080p, 576p, 720p | 4 |
-| Nublevision | Nublevision.cl | 720p | 1 |
 | Nuestra Imagen TV | NuestraImagenTV.gt | 576i | 1 |
 | Nuestra Tele Internacional | NuestraTeleInternacional.co | 1080p, 576p, 720p | 4 |
 | Nueva Vida FM | NuevaVidaFM.pr | 720p | 1 |
@@ -1390,10 +1369,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Onza TV | OnzaTV.ve | 480i, 720p | 2 |
 | Opinionsur | Opinionsur.cl | 720p | 1 |
 | ORBIT TV | ORBITTV.do | 1080p | 2 |
-| Orbita Chile TV | OrbitaChileTV.cl | 1080p | 1 |
 | Oromar TV | OromarTV.ec | 1080p, 720p | 2 |
 | Oromar TV+ | OromarTVPlus.ec | 720p | 1 |
-| Osorno TV | OsornoTV.cl | 720p | 1 |
 | Ovacion TV | OvacionTV.pe | 720p | 1 |
 | Oviedo TV | OviedoTV.py | 576i | 1 |
 | Oxigeno TV | OxigenoTV.ve | 360p | 1 |
@@ -1531,12 +1508,10 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Power Max Radio TV | PowerMaxRadioTV.ar | 720p | 1 |
 | PowerHD | PowerHD.ar | 576i | 1 |
 | Prattel TV | PrattelTV.pe | 720p | 1 |
-| Preludio TV | PreludioTV.cl | 576i | 1 |
 | Prensa Latina TV | PrensaLatinaTV.cu | 1080p | 1 |
 | Presencia Television | PresenciaTelevision.gt | 720p | 2 |
 | Presumiendo Mexico | PresumiendoMexico.mx | 720p | 1 |
 | Primavera 15 | Primavera15.pe | 480i | 1 |
-| Primicia Vida | PrimiciaVida.cl | 720p | 1 |
 | Primitivos TV | PrimitivosTV.cl | 720p | 1 |
 | Proclamacion TV | ProclamacionTV.ve | 480i | 1 |
 | Productiva TV | ProductivaTV.py | 1080p, 576i | 2 |
@@ -1591,7 +1566,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Radio El Sembrador | RadioElSembrador.cl | 720p | 1 |
 | Radio Fantasia TV | RadioFantasiaTV.cl | 720p | 1 |
 | Radio Fantastica 98.9 FM | RadioFantastica989FM.ec | 1080p | 1 |
-| Radio Fiessta | RadioFiessta.cl | 720p | 1 |
 | Radio Fiesta de Milagros TV | RadioFiestadeMilagrosTV.hn | 1080p | 1 |
 | Radio Frecuencia Uno | RadioFrecuenciaUno.cl | 720p | 1 |
 | Radio Guaira TV | RadioGuairaTV.py | 576i | 1 |
@@ -1601,7 +1575,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Radio Isla TV | RadioIslaTV.pr | 720p | 1 |
 | Radio Kollasuyo | RadioKollasuyo.bo | 720p | 1 |
 | Radio La Serena TV | RadioLaSerenaTV.cl | 720p | 1 |
-| Radio Las Nieves | RadioLasNieves.cl | 720p | 1 |
 | Radio Maria TV | RadioMariaTV.ar | 1080p | 1 |
 | Radio Master | RadioMaster.pe | 720p | 1 |
 | Radio Mega TV Amazonia | RadioMegaTVAmazonia.bo | 720p | 1 |
@@ -1625,7 +1598,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Radio Turrialba TV Sports | RadioTurrialbaTVSports.cr | 720p | 2 |
 | Radio TV El Arca del Pacto | RadioTVElArcadelPacto.py | 1080p | 1 |
 | Radio TV Neuquen | RadioTVNeuquen.ar | 720p | 1 |
-| Radio UC | RadioUC.cl | 720p | 1 |
 | Radio UNIACC | RadioUNIACC.cl | 720p | 1 |
 | Radio Universal | RadioUniversal.cl | 720p | 1 |
 | Radio Universitaria San Andres | RadioUniversitariaSanAndres.bo | 720p | 1 |
@@ -1683,9 +1655,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Regional TV Yaguaron | RegionalTVYaguaron.py | 1080p | 2 |
 | Reportero TV | ReporteroTV.do | 720p | 1 |
 | Republica TV | RepublicaTV.py | 720p | 1 |
-| Retro Plus | RetroPlus.cl | 1080p | 1 |
-| Retro Plus 2 | RetroPlus2.cl | 1080p, 720p | 2 |
-| Retro Plus 3 | RetroPlus3.cl | 1080p | 1 |
 | Retroclub | Retroclub.ar | 720p | 1 |
 | Retromusica Television | RetromusicaTelevision.cl | 720p | 1 |
 | Retrox TV | RetroxTV.cr | 576p, 720p | 3 |
@@ -1724,7 +1693,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | RTV Vida | RTVVida.es | 1080p | 1 |
 | Rugrats | Rugrats.de | 720p | 1 |
 | Rugrats | Rugrats.us | 720p | 1 |
-| Rumba TV | RumbaTV.co | 480i | 1 |
+| Rumba TV | RumbaTV.co | 1080p | 1 |
 | RumbaMix TV | RumbaMixTV.pe | 720p | 1 |
 | Rumbo Minero TV | RumboMineroTV.pe | 1080p, 720p | 2 |
 | Runtime Espanol | RuntimeEspanol.us | 720p | 1 |
@@ -1844,7 +1813,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Super9 TV | Super9TV.mx | 480p | 1 |
 | Supermusica TV | SupermusicaTV.co | 720p | 1 |
 | Supremateve | Supremateve.do | 720p | 1 |
-| SUR TV | SURTV.cl | 1080p, 720p | 2 |
+| SUR TV | SURTV.cl | 720p | 1 |
 | Sur TV | SurTV.do | 720p | 1 |
 | SUR TV Itapua | SURTVItapua.py | 576i | 1 |
 | Suram TV | SuramTV.co | 720p | 1 |
@@ -1906,7 +1875,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Telecanal | Telecanal.cl | 576p, 720p | 2 |
 | Telecanal 12 | Telecanal12.do | 720p | 1 |
 | Telecanal 28 | Telecanal28.do | 1080p | 1 |
-| Telecanal Santa Cruz | TelecanalSantaCruz.cl | 720p | 1 |
 | Telecaribe | Telecaribe.co | 1080p, 720p | 5 |
 | Telecaribe Plus | TelecaribePlus.co | 720p | 1 |
 | TeleCauquenes | TeleCauquenes.cl | 720p | 1 |
@@ -1933,7 +1901,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Telefuturo | Telefuturo.do | 480p | 1 |
 | Telefuturo | Telefuturo.py | 1080p | 2 |
 | Teleganes | Teleganes.es | 720p | 1 |
-| TeleHit | TeleHit.mx | 1080p, 576p | 2 |
+| TeleHit | TeleHit.mx | 1080p, 576p | 3 |
 | Telehit Musica | TelehitMusica.mx | 480i | 1 |
 | Teleimpacto | Teleimpacto.do | 720p | 1 |
 | Teleislas | Teleislas.co | 486p, 576p, 720p | 3 |
@@ -1986,7 +1954,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TeleSUR Costa Rica | TeleSURCostaRica.cr | 720p | 1 |
 | Telesystem TV | TelesystemTV.pe | 720p | 1 |
 | Teletica 7 | Teletica7.cr | 1080p, 720p | 3 |
-| Teletrak TV | TeletrakTV.cl | 720p | 1 |
 | Teletur | Teletur.do | 720p | 1 |
 | Teleunion | Teleunion.do | 1080p, 480p | 2 |
 | Teleuniverso | Teleuniverso.do | 720p | 1 |
@@ -2108,7 +2075,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TV Canindeyu | TVCanindeyu.py | 1080p | 1 |
 | TV Centro 27.2 HD | TVCentro272HD.hn | 720p | 1 |
 | TV Centro HD | TVCentroHD.hn | 720p | 1 |
-| TV Chile | TVChile.cl | 1080p, 576p, 720p | 3 |
+| TV Chile | TVChile.cl | 576p | 1 |
 | TV Cisne | TVCisne.ec | 1080p | 1 |
 | TV Color Canal 36 | TVColorCanal36.ec | 720p | 1 |
 | TV Copan | TVCopan.hn | 720p | 1 |
@@ -2191,12 +2158,11 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TVes | TVes.ve | 1080p | 1 |
 | TVGE | TVGE.gq | 576i | 1 |
 | TVGracia | TVGracia.co | 480i | 1 |
-| TVM | TVM.cl | 720p | 1 |
 | TVM Cordoba | TVMCordoba.es | 1080p | 2 |
 | TVM El Salvador | TVMElSalvador.sv | 480i | 1 |
 | TVM para ti | TVMparati.ve | 1080p | 1 |
 | TVMax | TVMax.pa | 720p | 1 |
-| TVN | TVN.cl | 1080p | 6 |
+| TVN | TVN.cl | 1080p | 5 |
 | TVN | TVN.do | 1080p | 1 |
 | TVN | TVN.pa | 720p | 1 |
 | TVN 14 | TVN14.cr | 720p | 1 |
@@ -2213,7 +2179,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | TVP Los Mochis | TVPLosMochis.mx | 720p | 1 |
 | TVP Mazatlan | TVPMazatlan.mx | 720p | 1 |
 | TVP Obregon | TVPObregon.mx | 720p | 1 |
-| TVR | TVR.cl | 1080p, 720p | 2 |
+| TVR | TVR.cl | 1080p | 1 |
 | TVR | TVR.es | 360p | 1 |
 | TVS | TVS.do | 540p | 1 |
 | TVS | TVS.ve | 720p | 1 |
@@ -2277,7 +2243,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | UTalca TV | UTalcaTV.cl | 1080p | 1 |
 | UTV | UTV.cl | 720p | 1 |
 | UVA TV | UVATV.do | 720p | 1 |
-| V Classic TV | VClassicTV.cl | 720p | 1 |
+| V Classic TV | VClassicTV.cl | 1080p, 720p | 2 |
 | Vale TV | ValeTV.ve | 480p | 2 |
 | Valle Nuevo TV | ValleNuevoTV.do | 480i | 1 |
 | Vallenato Internacional | VallenatoInternacional.us | 720p | 1 |
@@ -2313,7 +2279,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Vision Plus TV | VisionPlusTV.cl | 1080i | 1 |
 | Vision Sur | VisionSur.pe | 1080p, 720p | 2 |
 | Vision Television | VisionTelevision.mx | 720p | 1 |
-| Vision TV | VisionTV.cl | 480i | 1 |
 | Vision TV | VisionTV.gt | 720p | 1 |
 | VitoTVO | VitoTVO.ec | 1080p | 1 |
 | Viva Nicaragua Canal 13 | VivaNicaraguaCanal13.ni | 720p | 1 |
@@ -2323,7 +2288,6 @@ Availability is not verified. Use your browser’s Find command to search this t
 | VivaTV | VivaTV.pe | 1080p | 1 |
 | VIVE TV | VIVETV.ar | 1080p | 1 |
 | Vive TV | ViveTV.co | 1080p | 1 |
-| Vivo TV | VivoTV.cl | 480i | 1 |
 | VM Latino | VMLatino.cr | 1080p, 720p | 2 |
 | VNP | VNP.pe | 480i | 1 |
 | VoiceOver Radio TV | VoiceOverRadioTV.cr | 720p | 1 |
@@ -2338,6 +2302,7 @@ Availability is not verified. Use your browser’s Find command to search this t
 | VTV Canal 32 | VTVCanal32.do | 1080p | 2 |
 | VTV Valle de Aconcagua | VTVValledeAconcagua.cl | 720p | 2 |
 | Waldivision Internacional | WaldivisionInternacional.hn | 480i | 1 |
+| WAPA-TV 4.1 | WAPATV41.pr | 1080p | 1 |
 | Wapp | Wapp.cl | 720p | 1 |
 | Warner Channel | WarnerChannel.us | 1080p | 1 |
 | Wata Vision | WataVision.ve | 576i | 1 |
@@ -2392,10 +2357,8 @@ Availability is not verified. Use your browser’s Find command to search this t
 | Zona Latina | ZonaLatina.cl | 576p | 1 |
 | Zona Music TV | ZonaMusicTV.cr | 1080p | 1 |
 | Zona Play TV | ZonaPlayTV.cl | 720p | 1 |
-| Zona Sur TV | ZonaSurTV.cl | 1080p | 1 |
 | Zonavision TV | ZonavisionTV.do | 576i | 1 |
 | Zoom | Zoom.co | 1080p, 480i | 4 |
-| Zoom Tecnologico Plus | ZoomTecnologicoPlus.cl | 720p | 1 |
 | ZTV | ZTV.us | 1080p | 1 |
 | Zuraca TV | ZuracaTV.bo | 720p | 1 |
 | Zurqui TV | ZurquiTV.cr | 720p | 1 |

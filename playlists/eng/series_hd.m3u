@@ -944,6 +944,9 @@ http://tvsen7.aynascope.net/syfy/index.m3u8
 #EXTINF:-1 tvg-id="TPlusE.ca" tvg-name="T+E" group-title="Series" tvg-language="eng" tvg-quality="720p",T+E
 http://185.246.209.113/T+E/index.m3u8
 
+#EXTINF:-1 tvg-id="Telecyan.us" tvg-name="Telecyan" group-title="Comedy;Series" tvg-language="eng" tvg-quality="720p",Telecyan
+https://live20.bozztv.com/giatvplayout7/giatv-211227/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TheAsylum.us" tvg-name="The Asylum" group-title="Series" tvg-language="eng" tvg-quality="1080p",The Asylum
 https://d1i3g4v4xlfhad.cloudfront.net/The_Asylum.m3u8
 

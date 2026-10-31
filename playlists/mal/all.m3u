@@ -342,6 +342,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 
+#EXTINF:-1 tvg-id="SafariTV.in" tvg-name="Safari TV" group-title="Documentary" tvg-language="mal" tvg-quality="576p",Safari TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/410/master.m3u8
+
 #EXTINF:-1 tvg-id="SafariTV.in" tvg-name="Safari TV" group-title="Documentary" tvg-language="mal" tvg-quality="480p",Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 

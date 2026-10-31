@@ -117,6 +117,9 @@ https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SpeedlineTV.bj" tvg-name="Speedline TV" group-title="General" tvg-language="fra" tvg-quality="576i",Speedline TV
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8
 
+#EXTINF:-1 tvg-id="TebeoTV.fr" tvg-name="Tebeo TV" group-title="General" tvg-language="fra" tvg-quality="576i",Tebeo TV
+https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TeleCongo.cg" tvg-name="Tele Congo" group-title="General" tvg-language="fra;lin;mkw" tvg-quality="576i",Tele Congo
 http://trn03.bozztv.com/gin-telecongo/index.m3u8
 
